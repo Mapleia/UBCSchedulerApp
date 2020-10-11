@@ -1,11 +1,15 @@
-# My Personal Project
+# Personal Project - UBC Course Scheduler
 
-## A subtitle
+## OVERVIEW
 
-A *bulleted* list:
-- item 1
-- item 2
-- item 3
+UBC Course Scheduler is a Java application that will schedule your courses for you based on the timeslots of classes
+that were scrapped for that academic year. **UBC Course Scheduler** will give a schedule that has all the inputted 
+classes and try to best match your criteria. This will be limited to non-STT (**S**tandard **T**ime**t**able) students. Results will be a list of course 
+sections that the student should take.
 
-An example of text with **bold** and *italic* fonts.  Note that the IntelliJ markdown previewer doesn't seem to render 
-the bold and italic fonts correctly but they will appear correctly on GitHub.
+This is geared towards current undergrad students at the University of British Columbia, on the Vancouver campus. 
+However, if given a properly formatted .csv sheet of the courses offered, this can be applied to more universities.
+
+This project was of interest to me because of how tedious it was to manually make a schedule. I realized that my 
+parameters for creating a schedule was fairly straight forward, and it could be sped up by automating it on a computer.
+It can also be used for the rest of my degree, given that the course database gets updated every year.
