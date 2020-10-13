@@ -15,7 +15,7 @@ parameters for creating a schedule was fairly straight forward, and it could be 
 It can also be used for the rest of my degree, given that the course database gets updated every year.
 
 
-## USER STORIES #1
+## USER STORIES
 - As a user, I want to add a course to my schedule
 - As a user, I want to concentrate my courses in the PST morning, afternoon or evening
 - As a user, I want to be able to choose whether to spread my classes over the entire week or concentrate them on a 
