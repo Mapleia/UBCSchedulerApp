@@ -1,7 +1,6 @@
 package model;
 
-
-import java.util.ArrayList;
+import java.util.*;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
@@ -15,15 +14,17 @@ public class Course {
     private final String courseNum;
     @SerializedName("sections")
     private final JsonObject jsonSections;
-    private ArrayList<Section> allSection;
 
-    private boolean hasDiscussion = false;
-    private boolean hasLecture = false;
-    private boolean hasWebCourse = false;
-    private boolean hasLab = false;
-    private boolean hasSeminar = false;
-    private boolean hasTutorial = false;
-    private boolean hasLectureLab = false;
+    private ArrayList<Section> allSection;
+    private HashMap<String, Integer> activitySize;
+    private HashMap<String, HashMap<String, HashSet<Section>>> allActivities;
+
+    public static final String[] ACTIVITIES = { "Discussion", "Lecture", "Web-Oriented Course",
+            "Lab", "Seminar", "Tutorial", "Lecture-Lab" };
+
+    public String primaryTimePref;
+    public String secondaryTimePref;
+    public String tertiaryTimePref;
 
 
     // Constructors
@@ -31,7 +32,6 @@ public class Course {
         this.subjectCode = subjectCode;
         this.courseNum = courseNum;
         this.jsonSections = jsonSections;
-
     }
 
     // getters
@@ -49,42 +49,34 @@ public class Course {
         return allSection;
     }
 
-    // getter
-    public boolean isHasDiscussion() {
-        return hasDiscussion;
+    // getters
+    public HashMap<String, HashMap<String, HashSet<Section>>> getAllActivities() {
+        return allActivities;
     }
 
     // getters
-    public boolean isHasLecture() {
-        return hasLecture;
+    public HashMap<String, Integer> getActivitySize() {
+        return activitySize;
     }
 
-    // getters
-    public boolean isHasWebCourse() {
-        return hasWebCourse;
+    // setters
+    public void setPrimaryTimePref(String time) {
+        this.primaryTimePref = time;
     }
 
-    // getters
-    public boolean isHasLab() {
-        return hasLab;
+    // setters
+    public void setSecondaryTimePrefTimePref(String time) {
+        this.secondaryTimePref = time;
     }
 
-    // getters
-    public boolean isHasSeminar() {
-        return hasSeminar;
+    // setters
+    public void setTertiaryTimePrefTimePref(String time) {
+        this.tertiaryTimePref = time;
     }
 
-    // getters
-    public boolean isHasLectureLab() {
-        return hasLectureLab;
-    }
-
-    public boolean isHasTutorial() {
-        return hasTutorial;
-    }
-
-
-    public void addAllSections() {
+    // MODIFIES: this
+    // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
+    public void addAllSections() throws Exception {
         ArrayList<String> objKey = new ArrayList<>(jsonSections.keySet());
         Section sec;
         Gson gson = new Gson();
@@ -97,32 +89,59 @@ public class Course {
             allSection.add(sec);
         }
 
-        checkAvailableActivity();
+        mapActivity();
     }
 
-    private void checkAvailableActivity() {
-        for (Section s : allSection) {
-            if (s.getActivity().equalsIgnoreCase("Discussion")) {
-                hasDiscussion = true;
-            } else if (s.getActivity().equalsIgnoreCase("Lecture")) {
-                hasLecture = true;
-            } else if (s.getActivity().equalsIgnoreCase("Web-Oriented Course")) {
-                hasWebCourse = true;
-            } else if (s.getActivity().equalsIgnoreCase("Lab")) {
-                hasLab = true;
-            }  else if (s.getActivity().equalsIgnoreCase("Seminar")) {
-                hasSeminar = true;
-            } else if (s.getActivity().equalsIgnoreCase("Tutorial")) {
-                hasTutorial = true;
-            } else if (s.getActivity().equalsIgnoreCase("Lecture-Lab")) {
-                hasLectureLab = true;
+    // MODIFIES: this
+    // EFFECT: Adds to lists divided by activity type and time preference.
+    private void mapActivity() throws Exception {
+        allActivities = new HashMap<>();
+
+        for (Section sec : allSection) {
+            for (String act : ACTIVITIES) {
+                if (sec.getActivity().equalsIgnoreCase(act)) {
+                    allActivities.put(act, new HashMap<>());
+                    allActivities.get(act).putIfAbsent(primaryTimePref, new HashSet<>());
+                    allActivities.get(act).putIfAbsent(secondaryTimePref, new HashSet<>());
+                    allActivities.get(act).putIfAbsent(tertiaryTimePref, new HashSet<>());
+
+                    String time = sec.getTimeSlot();
+                    // If the section's time slot is equal to the primary time preference
+                    if (time.equalsIgnoreCase(primaryTimePref)) {
+                        allActivities.get(act).get(primaryTimePref).add(sec);
+                        break;
+                    } else if (time.equalsIgnoreCase(secondaryTimePref)) {
+                        allActivities.get(act).get(secondaryTimePref).add(sec);
+                        break;
+                    } else {
+                        allActivities.get(act).get(tertiaryTimePref).add(sec);
+                        break;
+                    }
+                }
             }
         }
+        countActivity();
+
     }
 
-    // REQUIRES: Time in 24:00 clock, in PST timezone.
-    // EFFECT: Given a start and end time, checks if it has any sections available in that time.
-    public ArrayList<Section> hasAvailableTimeSection() {
-        return allSection;
+    // MODIFIES: this
+    // EFFECT: Counts the number of activities for each available type, and maps it.
+    private void countActivity() {
+        activitySize = new HashMap<>();
+
+        for (String act : ACTIVITIES) {
+            if (allActivities.containsKey(act)) {
+                HashMap<String, HashSet<Section>> hash = allActivities.get(act);
+                Set<Map.Entry<String, HashSet<Section>>> set = hash.entrySet();
+
+                int counter = 0;
+                for (Map.Entry<String, HashSet<Section>> entry : set) {
+                    counter += entry.getValue().size();
+                }
+
+                activitySize.putIfAbsent(act, counter);
+            }
+
+        }
     }
 }
