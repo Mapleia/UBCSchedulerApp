@@ -71,7 +71,7 @@ public class SchedulerApp {
         System.out.println("Please format the course in course code (XXXX) hyphen (-) then number (###). XXXX-###");
 
         while (moreCourse) {
-            course = input.next();
+            course = input.nextLine();
             courseSplit = course.split("-");
             try {
                 timeTable.addCourse(courseSplit[0], courseSplit[1]);
