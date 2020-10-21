@@ -8,12 +8,11 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.Reader;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class TimeTableTest {
     public TimeTable timeTable;
-    public Course cpscCourse;
-
+    public String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
     public Gson gson;
     public File file;
     public Reader readFile;
@@ -21,23 +20,8 @@ public class TimeTableTest {
     @BeforeEach
     public void setup() {
         timeTable = new TimeTable();
-
+        timeTable.setTimePref(timeTableTimeArr);
         gson = new Gson();
-        file = new File("data\\2020W\\CPSC\\CPSC 210.json");
-        try {
-            readFile = new FileReader(file);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        cpscCourse = gson.fromJson(readFile, Course.class);
-        try {
-            cpscCourse.addAllSections();
-            cpscCourse.setPrimaryTimePref("Afternoon");
-            cpscCourse.setSecondaryTimePrefTimePref("Evening");
-            cpscCourse.setTertiaryTimePrefTimePref("Morning");
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
     }
 
     @Test
@@ -46,7 +30,23 @@ public class TimeTableTest {
             timeTable.addCourse("CPSC", "210");
         }
         catch (Exception e) {
-            System.out.println("Cannot find course.");
+            e.printStackTrace();
+            fail();
+        }
+
+        file = new File("data\\2020W\\CPSC\\CPSC 210.json");
+        try {
+            readFile = new FileReader(file);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        Course cpscCourse = gson.fromJson(readFile, Course.class);
+        try {
+            cpscCourse.setPrimaryTimePref("Afternoon");
+            cpscCourse.setSecondaryTimePrefTimePref("Evening");
+            cpscCourse.setTertiaryTimePrefTimePref("Morning");
+            cpscCourse.addAllSections();
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
@@ -55,5 +55,29 @@ public class TimeTableTest {
         assertEquals(cpscCourse.getSubjectCode(), courseFromTT.getSubjectCode());
         assertEquals(cpscCourse.getAllSection().get(0).getSection(),
                         courseFromTT.getAllSection().get(0).getSection());
+    }
+
+    @Test
+    public void testSetTimePref() {
+        timeTable.setTimePref(timeTableTimeArr);
+        assertEquals(timeTableTimeArr[0], timeTable.primaryTimePref);
+        assertEquals(timeTableTimeArr[1], timeTable.secondaryTimePref);
+        assertEquals(timeTableTimeArr[2], timeTable.tertiaryTimePref);
+    }
+
+    @Test
+    public void testAddCourseException() {
+        try {
+            timeTable.addCourse("CPSS", "210");
+            fail();
+        } catch (Exception e){
+            System.out.println("No course found.");
+        }
+    }
+
+    @Test
+    public void testSetters() {
+        timeTable.setSpreadClasses(true);
+        assertTrue(timeTable.getSpreadClasses());
     }
 }

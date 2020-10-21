@@ -38,10 +38,10 @@ public class TimeTable {
         spreadClasses = choice;
     }
 
-//    // getters
-//    public boolean getSpreadClasses() {
-//        return spreadClasses;
-//    }
+    // getters
+    public boolean getSpreadClasses() {
+        return spreadClasses;
+    }
 
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this

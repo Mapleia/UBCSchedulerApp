@@ -19,13 +19,9 @@ public class Course {
     private HashMap<String, Integer> activitySize;
     private HashMap<String, HashMap<String, HashSet<Section>>> allActivities;
 
-    public static final String[] ACTIVITIES = { "Discussion", "Lecture", "Web-Oriented Course",
-            "Lab", "Seminar", "Tutorial", "Lecture-Lab" };
-
     public String primaryTimePref;
     public String secondaryTimePref;
     public String tertiaryTimePref;
-
 
     // Constructors
     public Course(String subjectCode, String courseNum, JsonObject jsonSections) {
@@ -81,45 +77,49 @@ public class Course {
         Section sec;
         Gson gson = new Gson();
         allSection = new ArrayList<>();
+        allActivities = new HashMap<>();
+
+        String status;
 
         for (String k : objKey) {
             JsonElement obj = jsonSections.get(k);
             String str = obj.toString();
             sec = gson.fromJson(str, Section.class);
-            allSection.add(sec);
+
+            status = sec.getStatus();
+            if (!status.equalsIgnoreCase("STT")) {
+                allSection.add(sec);
+                mapActivity(sec);
+
+            }
         }
 
-        mapActivity();
+        countActivity();
     }
 
     // MODIFIES: this
     // EFFECT: Adds to lists divided by activity type and time preference.
-    private void mapActivity() throws Exception {
-        allActivities = new HashMap<>();
+    private void mapActivity(Section section) throws Exception {
+        String time = section.getTimeSlot();
+        String activityType = section.getActivity();
 
-        for (Section sec : allSection) {
-            for (String act : ACTIVITIES) {
-                if (sec.getActivity().equalsIgnoreCase(act)) {
-                    allActivities.put(act, new HashMap<>());
-                    allActivities.get(act).putIfAbsent(primaryTimePref, new HashSet<>());
-                    allActivities.get(act).putIfAbsent(secondaryTimePref, new HashSet<>());
-                    allActivities.get(act).putIfAbsent(tertiaryTimePref, new HashSet<>());
+        HashMap<String, HashSet<Section>> setOfActivity = new HashMap<>();
+        setOfActivity.putIfAbsent(primaryTimePref, new HashSet());
+        setOfActivity.putIfAbsent(secondaryTimePref, new HashSet());
+        setOfActivity.putIfAbsent(tertiaryTimePref, new HashSet());
 
-                    String time = sec.getTimeSlot();
-                    // If the section's time slot is equal to the primary time preference
-                    if (time.equalsIgnoreCase(primaryTimePref)) {
-                        allActivities.get(act).get(primaryTimePref).add(sec);
-                        break;
-                    } else if (time.equalsIgnoreCase(secondaryTimePref)) {
-                        allActivities.get(act).get(secondaryTimePref).add(sec);
-                        break;
-                    } else {
-                        allActivities.get(act).get(tertiaryTimePref).add(sec);
-                        break;
-                    }
-                }
-            }
+        allActivities.putIfAbsent(activityType, setOfActivity);
+
+        if (time.equalsIgnoreCase(primaryTimePref)) {
+            allActivities.get(activityType).get(primaryTimePref).add(section);
+
+        } else if (time.equalsIgnoreCase(secondaryTimePref)) {
+            allActivities.get(activityType).get(secondaryTimePref).add(section);
+
+        } else {
+            allActivities.get(activityType).get(tertiaryTimePref).add(section);
         }
+
         countActivity();
 
     }
@@ -128,20 +128,26 @@ public class Course {
     // EFFECT: Counts the number of activities for each available type, and maps it.
     private void countActivity() {
         activitySize = new HashMap<>();
+        Set<String> allKeys = allActivities.keySet();
 
-        for (String act : ACTIVITIES) {
-            if (allActivities.containsKey(act)) {
-                HashMap<String, HashSet<Section>> hash = allActivities.get(act);
-                Set<Map.Entry<String, HashSet<Section>>> set = hash.entrySet();
+        /*
+        * (Activity1: [Primary: (Section1, Section2, Section3),
+        *              Secondary: (Section4, Section5),
+        *              Tertiary: (EMPTY)],
+        *  Activity2: [Primary: (Section6, Section7),
+        *              Secondary: (Section8),
+        *              Tertiary: ()] )
+        */
+        for (String act : allKeys) {
+            HashMap<String, HashSet<Section>> hash = allActivities.get(act);
+            Set<Map.Entry<String, HashSet<Section>>> set = hash.entrySet();
 
-                int counter = 0;
-                for (Map.Entry<String, HashSet<Section>> entry : set) {
-                    counter += entry.getValue().size();
-                }
-
-                activitySize.putIfAbsent(act, counter);
+            int counter = 0;
+            for (Map.Entry<String, HashSet<Section>> entry : set) {
+                counter += entry.getValue().size();
             }
 
+            activitySize.put(act, counter);
         }
     }
 }
