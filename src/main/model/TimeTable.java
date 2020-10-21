@@ -47,6 +47,7 @@ public class TimeTable {
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
     public void addCourse(String courseCode, String courseNum) throws Exception {
+        // Gson code referenced http://tutorials.jenkov.com/java-json/gson.html.
         String path = "data\\2020W\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
         File file = new File(path);
         Gson gson = new Gson();

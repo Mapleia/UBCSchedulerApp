@@ -82,6 +82,9 @@ public class Course {
         String status;
 
         for (String k : objKey) {
+            // referenced https://stackoverflow.com/questions/17651395/convert-jsonobject-to-string.
+            // referenced https://mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/.
+
             JsonElement obj = jsonSections.get(k);
             String str = obj.toString();
             sec = gson.fromJson(str, Section.class);
@@ -138,6 +141,7 @@ public class Course {
         *              Secondary: (Section8),
         *              Tertiary: ()] )
         */
+        // referenced https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap.
         for (String act : allKeys) {
             HashMap<String, HashSet<Section>> hash = allActivities.get(act);
             Set<Map.Entry<String, HashSet<Section>>> set = hash.entrySet();

@@ -20,3 +20,6 @@ It can also be used for the rest of my degree, given that the course database ge
 - As a user, I want to concentrate my courses in the PST morning, afternoon or evening
 - As a user, I want to be able to choose whether to spread my classes over the entire week or concentrate them on a 
 handful of days.
+
+## CREDITS
+Data found by downloading from https://ubc-courses-api.herokuapp.com/.
