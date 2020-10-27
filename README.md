@@ -8,7 +8,7 @@ classes and try to best match your criteria. This will be limited to non-STT (**
 sections that the student should take.
 
 This is geared towards current undergrad students at the University of British Columbia, on the Vancouver campus. 
-However, if given a properly formatted .csv sheet of the courses offered, this can be applied to more universities.
+However, if given a properly formatted .json sheet of the courses offered, this can be applied to more universities.
 
 This project was of interest to me because of how tedious it was to manually make a schedule. I realized that my 
 parameters for creating a schedule was fairly straight forward, and it could be sped up by automating it on a computer.

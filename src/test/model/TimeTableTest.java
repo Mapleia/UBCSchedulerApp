@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 import java.io.File;
 import java.io.FileReader;
 import java.io.Reader;
+import java.time.LocalDate;
+import java.time.ZonedDateTime;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -19,9 +21,10 @@ public class TimeTableTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable();
-        timeTable.setTimePref(timeTableTimeArr);
         gson = new Gson();
+
+        timeTable = new TimeTable(2020, 0);
+        timeTable.setTimePref(timeTableTimeArr);
     }
 
     @Test
@@ -41,14 +44,9 @@ public class TimeTableTest {
             e.printStackTrace();
         }
         Course cpscCourse = gson.fromJson(readFile, Course.class);
-        try {
-            cpscCourse.setPrimaryTimePref("Afternoon");
-            cpscCourse.setSecondaryTimePrefTimePref("Evening");
-            cpscCourse.setTertiaryTimePrefTimePref("Morning");
-            cpscCourse.addAllSections();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        cpscCourse.setTimeTable(timeTable);
+        cpscCourse.addAllSections();
+        cpscCourse.countActivity();
 
         Course courseFromTT = timeTable.getCourseList().get(0);
         assertEquals(cpscCourse.getCourseNum(), courseFromTT.getCourseNum());
@@ -80,4 +78,5 @@ public class TimeTableTest {
         timeTable.setSpreadClasses(true);
         assertTrue(timeTable.getSpreadClasses());
     }
+
 }

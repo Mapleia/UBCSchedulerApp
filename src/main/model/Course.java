@@ -3,11 +3,10 @@ package model;
 import java.util.*;
 
 import com.google.gson.Gson;
-import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.annotations.SerializedName;
 
-public class Course {
+public class Course implements Comparable<Course> {
     @SerializedName("subject_code")
     private final String subjectCode;
     @SerializedName("course_number")
@@ -17,11 +16,12 @@ public class Course {
 
     private ArrayList<Section> allSection;
     private HashMap<String, Integer> activitySize;
-    private HashMap<String, HashMap<String, HashSet<Section>>> allActivities;
+    private HashMap<String, HashMap<String, ArrayList<Section>>> allActivities;
+    private int primaryCounter;
+    private TimeTable timeTable;
 
-    public String primaryTimePref;
-    public String secondaryTimePref;
-    public String tertiaryTimePref;
+    private boolean hasTerm1 = false;
+    private boolean hasTerm2 = false;
 
     // Constructors
     public Course(String subjectCode, String courseNum, JsonObject jsonSections) {
@@ -46,7 +46,7 @@ public class Course {
     }
 
     // getters
-    public HashMap<String, HashMap<String, HashSet<Section>>> getAllActivities() {
+    public HashMap<String, HashMap<String, ArrayList<Section>>> getAllActivities() {
         return allActivities;
     }
 
@@ -55,84 +55,111 @@ public class Course {
         return activitySize;
     }
 
-    // setters
-    public void setPrimaryTimePref(String time) {
-        this.primaryTimePref = time;
+    // getters
+    public int getPrimaryCounter() {
+        return primaryCounter;
+    }
+
+    // getters
+    public boolean isHasTerm1() {
+        return hasTerm1;
+    }
+
+    // getters
+    public boolean isHasTerm2() {
+        return hasTerm2;
     }
 
     // setters
-    public void setSecondaryTimePrefTimePref(String time) {
-        this.secondaryTimePref = time;
-    }
-
-    // setters
-    public void setTertiaryTimePrefTimePref(String time) {
-        this.tertiaryTimePref = time;
+    public void setTimeTable(TimeTable timeTable) {
+        this.timeTable = timeTable;
     }
 
     // MODIFIES: this
     // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
-    public void addAllSections() throws Exception {
+    public void addAllSections() {
+        initializeArrays();
         ArrayList<String> objKey = new ArrayList<>(jsonSections.keySet());
         Section sec;
         Gson gson = new Gson();
-        allSection = new ArrayList<>();
-        allActivities = new HashMap<>();
-
         String status;
 
         for (String k : objKey) {
             // referenced https://stackoverflow.com/questions/17651395/convert-jsonobject-to-string.
             // referenced https://mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/.
 
-            JsonElement obj = jsonSections.get(k);
-            String str = obj.toString();
-            sec = gson.fromJson(str, Section.class);
+            String obj = jsonSections.get(k).toString();
 
+            sec = gson.fromJson(obj, Section.class);
             status = sec.getStatus();
+            containsTerms(sec);
+
             if (!status.equalsIgnoreCase("STT")) {
+                sec.setTimeTable(timeTable);
+                sec.crucialFieldsBlank();
+                sec.checkRequired();
+                sec.formatDatesAndTime();
+
                 allSection.add(sec);
                 mapActivity(sec);
-
             }
         }
+    }
 
-        countActivity();
+    // MODIFIES: this
+    // EFFECT: Initializes arrays because GSON doesn't actually call the constructor...
+    private void initializeArrays() {
+        allSection = new ArrayList<>();
+        activitySize = new HashMap<>();
+        allActivities = new HashMap<>();
+    }
+
+    // MODIFIES: this
+    // EFFECT: sets fields to true (hasTerm1 & hasTerm2) if the term is 1 or 2 or both.
+    private void containsTerms(Section section) {
+        if (section.getTerm().trim().contains("1")) {
+            hasTerm1 = true;
+        }
+        if (section.getTerm().trim().contains("2")) {
+            hasTerm2 = true;
+        }
     }
 
     // MODIFIES: this
     // EFFECT: Adds to lists divided by activity type and time preference.
-    private void mapActivity(Section section) throws Exception {
-        String time = section.getTimeSlot();
+    private void mapActivity(Section section) {
+        String time;
+        if (section.isCrucialFieldsBlank()) {
+            time = timeTable.primaryTimePref;
+        } else {
+            time = section.getTimeSlot();
+        }
+
         String activityType = section.getActivity();
 
-        HashMap<String, HashSet<Section>> setOfActivity = new HashMap<>();
-        setOfActivity.putIfAbsent(primaryTimePref, new HashSet());
-        setOfActivity.putIfAbsent(secondaryTimePref, new HashSet());
-        setOfActivity.putIfAbsent(tertiaryTimePref, new HashSet());
+        HashMap<String, ArrayList<Section>> setOfActivity = new HashMap<>();
+        setOfActivity.putIfAbsent(timeTable.primaryTimePref, new ArrayList<>());
+        setOfActivity.putIfAbsent(timeTable.secondaryTimePref, new ArrayList<>());
+        setOfActivity.putIfAbsent(timeTable.tertiaryTimePref, new ArrayList<>());
 
         allActivities.putIfAbsent(activityType, setOfActivity);
 
-        if (time.equalsIgnoreCase(primaryTimePref)) {
-            allActivities.get(activityType).get(primaryTimePref).add(section);
+        if (time.equalsIgnoreCase(timeTable.primaryTimePref)) {
+            allActivities.get(activityType).get(timeTable.primaryTimePref).add(section);
 
-        } else if (time.equalsIgnoreCase(secondaryTimePref)) {
-            allActivities.get(activityType).get(secondaryTimePref).add(section);
+        } else if (time.equalsIgnoreCase(timeTable.secondaryTimePref)) {
+            allActivities.get(activityType).get(timeTable.secondaryTimePref).add(section);
 
         } else {
-            allActivities.get(activityType).get(tertiaryTimePref).add(section);
+            allActivities.get(activityType).get(timeTable.tertiaryTimePref).add(section);
         }
-
-        countActivity();
-
     }
 
     // MODIFIES: this
     // EFFECT: Counts the number of activities for each available type, and maps it.
-    private void countActivity() {
-        activitySize = new HashMap<>();
+    public void countActivity() {
         Set<String> allKeys = allActivities.keySet();
-
+        String[] timePrefs = {timeTable.primaryTimePref, timeTable.secondaryTimePref, timeTable.tertiaryTimePref};
         /*
         * (Activity1: [Primary: (Section1, Section2, Section3),
         *              Secondary: (Section4, Section5),
@@ -143,15 +170,33 @@ public class Course {
         */
         // referenced https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap.
         for (String act : allKeys) {
-            HashMap<String, HashSet<Section>> hash = allActivities.get(act);
-            Set<Map.Entry<String, HashSet<Section>>> set = hash.entrySet();
-
             int counter = 0;
-            for (Map.Entry<String, HashSet<Section>> entry : set) {
-                counter += entry.getValue().size();
+            for (String s : timePrefs) {
+                counter += allActivities.get(act).get(s).size();
             }
 
             activitySize.put(act, counter);
         }
+    }
+
+    // REQUIRES: allActivities is already mapped.
+    // MODIFIES: this
+    // EFFECT: Count number of primary time-slotted sections.
+    public void countPrimary() {
+        Set<String> allKeys = allActivities.keySet();
+
+        int counter = 0;
+        for (String act : allKeys) {
+            counter += allActivities.get(act).get(timeTable.primaryTimePref).size();
+        }
+
+        primaryCounter = counter;
+    }
+
+    // REQUIRES: Another valid course.
+    // EFFECT: A compareTo used to sort list of courses.
+    @Override
+    public int compareTo(Course o) {
+        return Integer.compare(primaryCounter, o.getPrimaryCounter());
     }
 }

@@ -1,38 +1,26 @@
 package model;
 
-import com.google.gson.annotations.SerializedName;
-
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
+import java.util.*;
 
 public class Section {
     private final String status;
     private final String section;
-    private final String activity;
+    private String activity;
     private final String term;
     private final String days;
+    private final String start;
+    private final String end;
 
-    private Date startD;
-    private Date endD;
-
-
-    @SerializedName("start")
-    private String startStr;
-    @SerializedName("end")
-    private final String endStr;
-
-    private static final ArrayList<Date> startTimes = new ArrayList<>();
-    private static final DateFormat dateFormat = new SimpleDateFormat("hh:mm:ss a");
+    private List<TimeSpan> timeSpans;
+    private TimeTable timeTable;
+    private boolean crucialFieldsBlank = false;
 
     // constructor
     public Section(String status, String section, String start, String end, String activity, String term, String days) {
         this.status = status;
         this.section = section;
-        this.startStr = start;
-        this.endStr = end;
+        this.start = start;
+        this.end = end;
         this.activity = activity;
         this.term = term;
         this.days = days;
@@ -46,6 +34,16 @@ public class Section {
     // getters
     public String getSection() {
         return section;
+    }
+
+    // getters
+    public String getStart() {
+        return start;
+    }
+
+    // getters
+    public String getEnd() {
+        return end;
     }
 
     // getters
@@ -64,76 +62,119 @@ public class Section {
     }
 
     // getters
-    public Date getStartD() {
-        return startD;
+    public String getTimeSlot() {
+        return timeSpans.get(0).getTimeSlot();
     }
 
     // getters
-    public Date getEndD() {
-        return endD;
+    public List<TimeSpan> getTimeSpans() {
+        return timeSpans;
     }
 
-    // REQUIRES: startStr and endStr to not be null
-    // MODIFIES: this
-    // EFFECT: Returns the section's time slot (morning / afternoon / evening).
-    // and assigns value in Date to startD and endD.
-    public String getTimeSlot() throws ParseException {
-        startD = formatTime(startStr);
-        endD = formatTime(endStr);
-
-        String timeSlot = "";
-        for (int i = 0; i < 3; i++) {
-            // used to be startD.after(startTimes.get(i)) && endD.before(endTimes.get(i))
-            if (startD.after(startTimes.get(i))) {
-                if (i == 0) {
-                    timeSlot = "Morning";
-                }
-                if (i == 1) {
-                    timeSlot = "Afternoon";
-                }
-                if (i == 2) {
-                    timeSlot = "Evening";
-                }
-            }
-        }
-        return timeSlot;
+    // getters
+    public boolean isCrucialFieldsBlank() {
+        return crucialFieldsBlank;
     }
 
-    // REQUIRES: Time string to be in a 24hr HH:mm format
-    // MODIFIES: this
-    // EFFECT: Format time to parse the strings into Date object
-    private Date formatTime(String timeStr) throws ParseException {
-        addTimesToList();
-        if (timeStr.length() < 5) {
-            timeStr = "0" + timeStr + ":00 AM";
-        } else {
-            int hourInt = Integer.parseInt(timeStr.substring(0, 2));
-            if (hourInt > 12) {
-                if ((hourInt - 12) == 0) {
-                    timeStr += ":00 PM";
+    // setters
+    public void setTimeTable(TimeTable timeTable) {
+        this.timeTable = timeTable;
+    }
 
-                } else {
-                    if ((hourInt - 12) < 10) {
-                        timeStr = (hourInt - 12) + timeStr.substring(2) + ":00 PM";
+    // setters
+    public void setCrucialFieldsBlank(boolean crucialFieldsBlank) {
+        this.crucialFieldsBlank = crucialFieldsBlank;
+    }
 
+    // REQUIRES: crucialFieldsBlank to be already set.
+    // MODIFIES: this.
+    // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
+    public void formatDatesAndTime() {
+        timeSpans = new ArrayList<>();
+        if (!crucialFieldsBlank) {
+            TimeSpan timeSpan;
+            String[] daysArr = days.trim().split(" ");
+
+            for (String s : daysArr) {
+                if (timeTable.winterOrSummer == 0) {
+                    if (term.equals("1")) {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
                     } else {
-                        timeStr = "0" + (hourInt - 12) + timeStr.substring(2) + ":00 PM";
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
+                    }
+                } else {
+                    if (term.equals("1")) {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
+                    } else {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
                     }
                 }
-            } else {
-                timeStr = timeStr + ":00 AM";
+                timeSpans.add(timeSpan);
+            }
+            Collections.sort(timeSpans);
+        }
+    }
 
+    // REQUIRES: valid section
+    // EFFECT: returns true if sections are overlapping in time.
+    public boolean isOverlapping(Section section) {
+        boolean result = false;
+        List<TimeSpan> map1;
+        List<TimeSpan> map2;
+        List<TimeSpan> otherSectionMap = section.getTimeSpans();
+
+        if (timeSpans.size() > otherSectionMap.size()) {
+            map1 = timeSpans;
+            map2 = otherSectionMap;
+        } else {
+            map1 = otherSectionMap;
+            map2 = timeSpans;
+        }
+
+        search: {
+            for (TimeSpan entry : map1) {
+                for (TimeSpan entry2 : map2) {
+                    if (entry2.isOverlapping(entry)) {
+                        result = true;
+                        break search;
+                    }
+                }
             }
         }
-        return dateFormat.parse(timeStr);
 
+        return result;
+    }
+
+    // requires: list of sections
+    // EFFECT: checks if there are any overlaps with the list of section and the this.section.
+    public boolean isOverlapping(List<Section> sections) {
+        boolean result = false;
+        for (Section section : sections) {
+            if (isOverlapping(section)) {
+                result = true;
+                break;
+            }
+        }
+
+        return result;
+    }
+
+    // REQUIRES: start, end and days to be string.
+    // MODIFIES: this.
+    // EFFECT: sets crucialFieldsBlank to true if start (time in str) end or days is blank.
+    public void crucialFieldsBlank() {
+        crucialFieldsBlank = (start.trim().equals("") || end.trim().equals("") || days.trim().equals(""));
     }
 
     // MODIFIES: this
-    // EFFECT: Add Date objects with the boundary start and end times to a list.
-    private void addTimesToList() throws ParseException {
-        startTimes.add(dateFormat.parse("07:59:99 AM"));
-        startTimes.add(dateFormat.parse("11:59:99 AM"));
-        startTimes.add(dateFormat.parse("04:59:99 PM"));
+    // EFFECT: sets the activity type to required if any of the crucial fields are blank.
+    // (* usually indicates that it's a mandatory section everyone has to register in. )
+    public void checkRequired() {
+        if (crucialFieldsBlank) {
+            if (activity.equalsIgnoreCase("Web-Oriented Course")
+                    || activity.equalsIgnoreCase("Lecture")) {
+                activity = "Required";
+            }
+        }
     }
 }

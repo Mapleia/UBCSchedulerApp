@@ -1,36 +1,55 @@
 package ui;
 
+import exceptions.NoCourseFound;
 import model.Course;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.Set;
 
 public class SchedulerApp {
     private static Scanner input;
     private static TimeTable timeTable;
 
     private static String userName;
+    private static int year;
 
     // constructor
     public SchedulerApp() {
         input = new Scanner(System.in);
-        timeTable = new TimeTable();
+        year = LocalDateTime.now().getYear();
+        timeTable = new TimeTable(year);
 
         askName();
+        askTerm();
         askTimePreference();
         askClassSpread();
         askCourses();
+        confirmCourses();
         printTimeTable();
     }
 
     // MODIFIES: this.
     // EFFECTS: Gathers user's name.
     public static void askName() {
-        System.out.println("Welcome to UBC Course Scheduler. What is your name?");
+        System.out.println("Welcome to UBC Course Scheduler for " + year +  ". What is your name?");
         userName = input.nextLine();
+
+    }
+
+    // MODIFIES: timeTable and this.
+    // EFFECTS: Gathers the term that the user is looking for.
+    public static void askTerm() {
+        System.out.println("Hello " + userName + "! Is this a winter terms or summer terms? (w / s)");
+        if (input.nextLine().equalsIgnoreCase("W")) {
+            timeTable.setWinterOrSummer(0);
+        } else {
+            timeTable.setWinterOrSummer(1);
+        }
     }
 
     // MODIFIES: timeTable, this.
@@ -38,15 +57,20 @@ public class SchedulerApp {
     public static void askTimePreference() {
         String[] preferenceInput;
 
-        System.out.println("Hi " + userName
-                + "! Please list your preference in order of preferred timeslots.");
+        System.out.println("Please list your preference in order of preferred timeslots.");
         System.out.println("EX: Afternoon, Evening, Morning");
         System.out.println("Mornings: 7:00 PST ~ 12:00 PST");
         System.out.println("Afternoon: 12:00 PST ~ 17:00 PST");
         System.out.println("Evening: 17:00 ~ 21:00 PST");
+        System.out.println("If you like the example, please enter [D].");
+        if (input.nextLine().equalsIgnoreCase("D")) {
+            String[] modeDefault = {"Afternoon", "Evening", "Morning"};
+            timeTable.setTimePref(modeDefault);
+        } else {
+            preferenceInput = input.nextLine().trim().split(",");
+            timeTable.setTimePref(preferenceInput);
+        }
 
-        preferenceInput = input.nextLine().trim().split(",");
-        timeTable.setTimePref(preferenceInput);
     }
 
     // MODIFIES: timeTable, this.
@@ -75,8 +99,10 @@ public class SchedulerApp {
             courseSplit = course.split("-");
             try {
                 timeTable.addCourse(courseSplit[0], courseSplit[1]);
-            } catch (Exception e) {
+            } catch (NoCourseFound e) {
                 System.out.println(course + " not found.");
+            } catch (Exception e) {
+                e.printStackTrace();
             }
 
             System.out.println("Do you have any more courses to add? (yes / no)");
@@ -85,7 +111,6 @@ public class SchedulerApp {
                 moreCourse = false;
             }
         }
-        confirmCourses();
 
     }
 
@@ -104,12 +129,29 @@ public class SchedulerApp {
         ScheduleMaker scheduleMaker = new ScheduleMaker(timeTable);
 
         System.out.println("Creating your sample timetable. Please wait.");
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+
         try {
-            for (Section s : scheduleMaker.makeTimeTable()) {
+            scheduleMaker.makeTimeTable();
+
+            for (Section s : scheduleMaker.getFinalTimeTable()) {
                 System.out.println(s.getSection());
+                System.out.println("Days: " + s.getDays());
+                System.out.println("Times: " + s.getStart() + " ~ " + s.getEnd());
+                System.out.println("Type: " + s.getActivity());
+                System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
             }
+
+            Set<String> keySet = scheduleMaker.errorLog.keySet();
+            if (!keySet.isEmpty()) {
+                System.out.println("There has seem to be no possible sections found for the following:");
+                for (String s: keySet) {
+                    System.out.println(s + ": " + scheduleMaker.errorLog.get(s));
+                }
+            }
+
         } catch (Exception e) {
-            System.out.println("Error in making your schedule.");
+            System.out.println("Error in making your schedule. Please try again.");
             e.printStackTrace();
         }
 

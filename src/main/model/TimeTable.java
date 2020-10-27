@@ -6,19 +6,41 @@ import exceptions.NoCourseFound;
 import java.io.File;
 import java.io.FileReader;
 import java.io.Reader;
+
 import java.util.ArrayList;
 
 public class TimeTable {
-    private final ArrayList<Course> courseList;
+    private final ArrayList<Course> courseList = new ArrayList<>();
     private boolean spreadClasses = false;
 
     public String primaryTimePref;
     public String secondaryTimePref;
     public String tertiaryTimePref;
 
+    public int winterOrSummer; // 0 = Winter, 1 = Summer
+    public int yearFall;
+    public int yearSpring;
+    public int yearSummer;
+
+    public static final int TERM_FALL = 9;
+    public static final int TERM_SPRING = 1;
+    public static final int TERM_SUMMER1 = 5;
+    public static final int TERM_SUMMER2 = 7;
+
+
+    // constructor (for schedulerApp)
+    public TimeTable(int year) {
+        this.yearFall = year;
+        this.yearSpring = year + 1;
+        this.yearSummer = year;
+    }
+
     // constructor
-    public TimeTable() {
-        courseList = new ArrayList<>();
+    public TimeTable(int year, int winterOrSummer) {
+        this.yearFall = year;
+        this.yearSpring = year + 1;
+        this.yearSummer = year;
+        this.winterOrSummer = winterOrSummer;
     }
 
     // getters
@@ -38,6 +60,11 @@ public class TimeTable {
         spreadClasses = choice;
     }
 
+    // setters
+    public void setWinterOrSummer(int winterOrSummer) {
+        this.winterOrSummer = winterOrSummer;
+    }
+
     // getters
     public boolean getSpreadClasses() {
         return spreadClasses;
@@ -48,19 +75,26 @@ public class TimeTable {
     // EFFECT: Adds course to the list of courses.
     public void addCourse(String courseCode, String courseNum) throws Exception {
         // Gson code referenced http://tutorials.jenkov.com/java-json/gson.html.
-        String path = "data\\2020W\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
+        String path;
+
+        if (winterOrSummer == 0) {
+            path = "data\\" + yearFall + "W" + "\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
+        } else {
+            path = "data\\" + yearSummer + "S" + "\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
+        }
         File file = new File(path);
         Gson gson = new Gson();
+
         if (file.exists()) {
             Reader readFile = new FileReader(file);
             Course course = gson.fromJson(readFile, Course.class);
-            course.setPrimaryTimePref(primaryTimePref);
-            course.setSecondaryTimePrefTimePref(secondaryTimePref);
-            course.setTertiaryTimePrefTimePref(tertiaryTimePref);
+            course.setTimeTable(this);
             course.addAllSections();
+            course.countActivity();
             courseList.add(course);
         } else {
             throw new NoCourseFound();
         }
     }
+
 }
