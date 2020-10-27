@@ -7,12 +7,8 @@ public class ScheduleMaker {
     private final TimeTable timeTable;
     private final List<Section> finalTimeTable;
     public final HashMap<String, String> errorLog = new HashMap<>();
-    private List<String> noTypeDupeList = new ArrayList<>();
-    private ArrayList<Course> allCourses;
-
-    private List<Course> allCoursesT1;
-    private List<Course> allCoursesT2;
-    private List<Course> allCoursesT1T2;
+    private final List<String> noTypeDupeList = new ArrayList<>();
+    private final ArrayList<Course> allCourses;
 
     // constructor
     public ScheduleMaker(TimeTable timeTable) {
@@ -26,6 +22,16 @@ public class ScheduleMaker {
         return finalTimeTable;
     }
 
+    // getters
+    public HashMap<String, String> getErrorLog() {
+        return errorLog;
+    }
+
+    // getters
+    public ArrayList<Course> getAllCourses() {
+        return allCourses;
+    }
+
     // REQUIRES: Course list size > 0.
     // EFFECT: Create a valid timetable per term.
     public void makeTimeTable() {
@@ -33,9 +39,12 @@ public class ScheduleMaker {
 
         // idea from: https://stackoverflow.com/questions/9146224/arraylist-filter
 
-        allCoursesT1 = allCourses.stream().filter(c -> c.isHasTerm1() && !c.isHasTerm2()).collect(Collectors.toList());
-        allCoursesT2 = allCourses.stream().filter(c -> !c.isHasTerm1() && c.isHasTerm2()).collect(Collectors.toList());
-        allCoursesT1T2 = allCourses.stream().filter(c -> c.isHasTerm1() && c.isHasTerm2()).collect(Collectors.toList());
+        List<Course> allCoursesT1 = allCourses.stream().filter(c -> c.isHasTerm1() && !c.isHasTerm2())
+                .collect(Collectors.toList());
+        List<Course> allCoursesT2 = allCourses.stream().filter(c -> !c.isHasTerm1() && c.isHasTerm2())
+                .collect(Collectors.toList());
+        List<Course> allCoursesT1T2 = allCourses.stream().filter(c -> c.isHasTerm1() && c.isHasTerm2())
+                .collect(Collectors.toList());
 
         makeTimeTablePerTerm(allCoursesT1);
         makeTimeTablePerTerm(allCoursesT2);
@@ -109,19 +118,13 @@ public class ScheduleMaker {
     // EFFECT: Returns true if there are duplicate types (Web-Oriented Course, Lectures and Waiting List).
     private boolean isTypeDupes(Section sec) {
         boolean result = false;
-
         String sectionCode = sec.getSection().substring(0, sec.getSection().length() - 4);
-
         if (noTypeDupeList.contains(sectionCode + "-" + "Web-Oriented Course")) {
             if (sec.getActivity().equals("Lecture")) {
                 result = true;
-            } else if (sec.getActivity().equals("Waiting List")) {
-                result = true;
             }
         } else if (noTypeDupeList.contains(sectionCode + "-" + "Lecture")) {
-            if (sec.getActivity().equals("Web-Oriented Course")) {
-                result = true;
-            } else if (sec.getActivity().equals("Waiting List")) {
+            if (sec.getActivity().equals("Waiting List")) {
                 result = true;
             }
         }
@@ -129,3 +132,11 @@ public class ScheduleMaker {
         return result;
     }
 }
+
+
+//            if (sec.getActivity().equals("Web-Oriented Course")) {
+//                result = true;
+//            } else
+/*            else if (sec.getActivity().equals("Waiting List")) {
+                result = true;
+            }*/

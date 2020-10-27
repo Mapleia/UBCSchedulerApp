@@ -79,4 +79,16 @@ public class TimeTableTest {
         assertTrue(timeTable.getSpreadClasses());
     }
 
+    @Test
+    public void testSummerInValid() {
+        TimeTable timeTable1 = new TimeTable(2021);
+        timeTable1.setWinterOrSummer(1);
+        try {
+            timeTable1.addCourse("BIOL", "112");
+            fail();
+        } catch (Exception e) {
+            System.out.println("No summer courses in data.");
+        }
+    }
+
 }

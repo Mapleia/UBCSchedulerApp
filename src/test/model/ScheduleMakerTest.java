@@ -3,6 +3,7 @@ package model;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -51,4 +52,39 @@ public class ScheduleMakerTest {
         assertTrue(courseCodeNames.containsAll(sectionCodeNames));
     }
 
+    @Test
+    public void testErrorLog() {
+        try {
+            timeTable.addCourse("ACAM", "250");
+            timeTable.addCourse("BIOL", "155");
+            timeTable.addCourse("BIOL", "201");
+            timeTable.addCourse("BIOL", "203");
+            timeTable.addCourse("BIOL", "204");
+            timeTable.addCourse("BIOL", "205");
+            timeTable.addCourse("BIOL", "210");
+            timeTable.addCourse("BIOL", "260");
+            timeTable.addCourse("BIOL", "234");
+            timeTable.addCourse("BIOL", "301");
+            timeTable.addCourse("BIOL", "306");
+            timeTable.addCourse("BIOL", "310");
+            timeTable.addCourse("BIOL", "327");
+            timeTable.addCourse("BIOL", "335");
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        scheduleMaker.makeTimeTable();
+
+        HashMap<String, String> errorMap = scheduleMaker.getErrorLog();
+
+        Set<String> allErrorCourses = errorMap.keySet();
+        Set<String> allCourseNames = new HashSet<>();
+
+        for (Course c : scheduleMaker.getAllCourses()) {
+            allCourseNames.add(c.getSubjectCode() + "-" + c.getCourseNum());
+        }
+        assertTrue(allCourseNames.containsAll(allErrorCourses));
+        assertTrue(scheduleMaker.getErrorLog().size()> 0);
+    }
 }

@@ -31,6 +31,11 @@ public class Course implements Comparable<Course> {
     }
 
     // getters
+    public JsonObject getJsonSections() {
+        return jsonSections;
+    }
+
+    // getters
     public String getSubjectCode() {
         return subjectCode;
     }
@@ -161,13 +166,13 @@ public class Course implements Comparable<Course> {
         Set<String> allKeys = allActivities.keySet();
         String[] timePrefs = {timeTable.primaryTimePref, timeTable.secondaryTimePref, timeTable.tertiaryTimePref};
         /*
-        * (Activity1: [Primary: (Section1, Section2, Section3),
-        *              Secondary: (Section4, Section5),
-        *              Tertiary: (EMPTY)],
-        *  Activity2: [Primary: (Section6, Section7),
-        *              Secondary: (Section8),
-        *              Tertiary: ()] )
-        */
+         * (Activity1: [Primary: (Section1, Section2, Section3),
+         *              Secondary: (Section4, Section5),
+         *              Tertiary: (EMPTY)],
+         *  Activity2: [Primary: (Section6, Section7),
+         *              Secondary: (Section8),
+         *              Tertiary: ()] )
+         */
         // referenced https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap.
         for (String act : allKeys) {
             int counter = 0;

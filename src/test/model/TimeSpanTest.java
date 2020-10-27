@@ -85,4 +85,26 @@ public class TimeSpanTest {
         assertEquals(timeSpan.convertStrTime("13:00"), timeSpan.getEnd());
 
     }
+
+    @Test
+    public void testDaysOfWeekOtherCases() {
+        TimeSpan timeSpan = new TimeSpan("9:00", "10:00", "Sat", 2020, 9);
+        assertEquals("SATURDAY", timeSpan.getDayOfWeek());
+
+        TimeSpan timeSpan2 = new TimeSpan("9:00", "10:00", "Sun", 2020, 9);
+        assertEquals("SUNDAY", timeSpan2.getDayOfWeek());
+
+        TimeSpan timeSpan3 = new TimeSpan("9:00", "10:00", "MONDAY", 2020, 9);
+        assertEquals("MONDAY", timeSpan3.getDayOfWeek());
+    }
+
+    @Test
+    public void testThuFri() {
+        TimeSpan timeSpan4 = new TimeSpan("9:00", "10:00", "Thu", 2020, 9);
+        assertEquals("THURSDAY", timeSpan4.getDayOfWeek());
+
+        TimeSpan timeSpan5 = new TimeSpan("9:00", "10:00", "Fri", 2020, 9);
+        assertEquals("FRIDAY", timeSpan5.getDayOfWeek());
+    }
+
 }

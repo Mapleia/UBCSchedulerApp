@@ -65,6 +65,11 @@ public class TimeSpan implements Comparable<TimeSpan> {
         return end;
     }
 
+    // getters
+    public String getDayOfWeek() {
+        return dayOfWeek;
+    }
+
     // MODIFIES: this
     // EFFECT: Initiates start and end fields.
     private void setStartAndEnd() {

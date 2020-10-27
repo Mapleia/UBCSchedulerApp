@@ -1,9 +1,16 @@
 package model;
 
+import com.google.gson.Gson;
+import com.google.gson.JsonObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.io.File;
+import java.io.FileReader;
+import java.io.Reader;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -12,7 +19,8 @@ class CourseTest {
     public Course course2;
     public TimeTable timeTable;
     public String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
-
+    File file;
+    Reader readFile;
 
     @BeforeEach
     public void setup() {
@@ -64,5 +72,50 @@ class CourseTest {
 
         course2.countPrimary();
         assertEquals(27, course2.getPrimaryCounter());
+    }
+
+    @Test
+    public void testSummer() {
+        TimeTable timeTable2 = new TimeTable(2020, 1);
+
+        try {
+            timeTable2.addCourse("BIOL", "112");
+            fail();
+        } catch (Exception e) {
+            System.out.println("No summer courses in data.");
+
+        }
+    }
+
+    @Test
+    public void testConstructor() {
+        JsonObject jsonSections = course.getJsonSections();
+
+        Course courseTest = new Course("BIOL", "112", jsonSections);
+        courseTest.setTimeTable(timeTable);
+        courseTest.addAllSections();
+
+        assertEquals(courseTest.getAllSection().get(0).getSection(), course.getAllSection().get(0).getSection());
+    }
+
+    @Test
+    public void testComparison() {
+        List<Course> courseList = new ArrayList<>();
+        courseList.add(course);
+        courseList.add(course2);
+        Collections.sort(courseList);
+
+        List<Course> courseListT = timeTable.getCourseList();
+        Collections.sort(courseListT);
+
+
+        assertEquals(courseList.get(0).getSubjectCode(), courseList.get(0).getSubjectCode());
+
+    }
+
+    @Test
+    public void testCountPrim() {
+        course.countPrimary();
+        assertEquals(19, course.getPrimaryCounter());
     }
 }

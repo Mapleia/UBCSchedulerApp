@@ -3,6 +3,9 @@ package model;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.ZonedDateTime;
 import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -86,17 +89,6 @@ public class SectionTest {
     }
 
     @Test
-    public void testGetters() {
-        try {
-            assertEquals("BIOL 112 101", bioAllSections.get(0).getSection());
-
-        } catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
-    }
-
-    @Test
     public void testIsOverlappingFalse() {
         ArrayList<Section> webCourseSet = bioCourse.getAllActivities().get("Web-Oriented Course").get("Morning");
         Section sec1 = webCourseSet.get(0);
@@ -125,5 +117,45 @@ public class SectionTest {
         Section sec1 = cpscAllSections.get(2);
         Section sec2 = cpscAllSections.get(18);
         assertTrue(sec2.isOverlapping(sec1));
+    }
+
+    @Test
+    public void testIsOverlappingListTrue() {
+        assertTrue(bioAllSections.get(0).isOverlapping(cpscAllSections));
+    }
+
+    @Test
+    public void testConstructor() {
+        Section section = new Section("Full", "BIOL 112 101", "9:00", "10:00",
+                "Web-Oriented Course", "1", " Mon Wed Fri");
+
+        assertEquals("BIOL 112 101", section.getSection());
+        assertEquals("9:00", section.getStart());
+        assertEquals("10:00", section.getEnd());
+        assertEquals(" Mon Wed Fri", section.getDays());
+    }
+
+    @Test
+    public void testSummerT1() {
+        timeTable.setWinterOrSummer(1);
+        Section section = new Section("Full", "BIOL 112 101", "9:00", "10:00",
+                "Web-Oriented Course", "1", " Mon Wed Fri");
+        section.setTimeTable(timeTable);
+        section.setCrucialFieldsBlank(false);
+        section.formatDatesAndTime();
+
+        assertEquals(5, section.getTimeSpans().get(0).getStart().getMonthValue());
+    }
+
+    @Test
+    public void testSummerT2() {
+        timeTable.setWinterOrSummer(1);
+        Section section = new Section("Full", "BIOL 112 101", "9:00", "10:00",
+                "Web-Oriented Course", "2", " Mon Wed Fri");
+        section.setTimeTable(timeTable);
+        section.setCrucialFieldsBlank(false);
+        section.formatDatesAndTime();
+
+        assertEquals(7, section.getTimeSpans().get(0).getStart().getMonthValue());
     }
 }
