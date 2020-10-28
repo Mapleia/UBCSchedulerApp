@@ -133,11 +133,3 @@ public class ScheduleMaker {
         return result;
     }
 }
-
-
-//            if (sec.getActivity().equals("Web-Oriented Course")) {
-//                result = true;
-//            } else
-/*            else if (sec.getActivity().equals("Waiting List")) {
-                result = true;
-            }*/

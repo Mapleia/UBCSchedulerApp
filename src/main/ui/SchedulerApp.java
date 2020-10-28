@@ -27,7 +27,7 @@ public class SchedulerApp {
         askName();
         askTerm();
         askTimePreference();
-        askClassSpread();
+        // askClassSpread();
         askCourses();
         confirmCourses();
         printTimeTable();
@@ -86,7 +86,6 @@ public class SchedulerApp {
     // MODIFIES: timeTable, this.
     // EFFECT: Ask user to input courses to be added to their schedule.
     public static void askCourses() {
-        String wouldAddMoreCourses;
         boolean moreCourse = true;
 
         String[] courseSplit;
@@ -106,10 +105,7 @@ public class SchedulerApp {
             }
 
             System.out.println("Do you have any more courses to add? (yes / no)");
-            wouldAddMoreCourses = input.nextLine();
-            if (wouldAddMoreCourses.equalsIgnoreCase("no")) {
-                moreCourse = false;
-            }
+            moreCourse = input.nextLine().equalsIgnoreCase("yes");
         }
 
     }
@@ -120,6 +116,15 @@ public class SchedulerApp {
         ArrayList<Course> allCourses = timeTable.getCourseList();
         for (Course c : allCourses) {
             System.out.println(c.getSubjectCode() + "-" + c.getCourseNum());
+        }
+        System.out.println("Would you like to add more?");
+        if (input.nextLine().equalsIgnoreCase("yes")) {
+            askCourses();
+        } else {
+            System.out.println("Would you like to remove some courses?");
+            if (input.nextLine().equalsIgnoreCase("yes")) {
+                System.out.println("Please enter the course by formatting it XXXX-###.");
+            }
         }
     }
 

@@ -98,4 +98,8 @@ public class TimeTable {
         }
     }
 
+    public void removeCourse(String courseCode, String courseNum) {
+        courseList.remove(new Course(courseCode, courseNum));
+    }
+
 }

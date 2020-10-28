@@ -13,7 +13,7 @@ public class Course implements Comparable<Course> {
     @SerializedName("course_number")
     private final String courseNum;
     @SerializedName("sections")
-    private final JsonObject jsonSections;
+    private JsonObject jsonSections;
 
     private ArrayList<Section> allSection;
     private HashMap<String, Integer> activitySize;
@@ -29,6 +29,12 @@ public class Course implements Comparable<Course> {
         this.subjectCode = subjectCode;
         this.courseNum = courseNum;
         this.jsonSections = jsonSections;
+    }
+
+    //Constructors
+    public Course(String subjectCode, String courseNum) {
+        this.subjectCode = subjectCode;
+        this.courseNum = courseNum;
     }
 
     // getters
@@ -80,6 +86,8 @@ public class Course implements Comparable<Course> {
     public void setTimeTable(TimeTable timeTable) {
         this.timeTable = timeTable;
     }
+
+
 
     // MODIFIES: this
     // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
@@ -204,5 +212,21 @@ public class Course implements Comparable<Course> {
     @Override
     public int compareTo(Course o) {
         return Integer.compare(primaryCounter, o.getPrimaryCounter());
+    }
+
+    @Override
+    public boolean equals(Object course) {
+        // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
+        if (!(course instanceof Course)) {
+            return false;
+        }
+        Course c = (Course) course;
+        return (this.subjectCode == c.subjectCode && this.courseNum == c.courseNum);
+    }
+
+    @Override
+    public int hashCode() {
+        // referenced: https://www.baeldung.com/java-hashcode
+        return (int) subjectCode.hashCode() * courseNum.hashCode();
     }
 }
