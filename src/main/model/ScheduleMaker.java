@@ -8,14 +8,17 @@ public class ScheduleMaker {
     private final TimeTable timeTable;
     private final List<Section> finalTimeTable;
     public final HashMap<String, String> errorLog = new HashMap<>();
-    private final List<String> noTypeDupeList = new ArrayList<>();
+    public final List<String> noTypeDupeList = new ArrayList<>();
     private final ArrayList<Course> allCourses;
+    private String userName;
 
     // constructor
-    public ScheduleMaker(TimeTable timeTable) {
+    public ScheduleMaker(TimeTable timeTable, String userName) {
         this.timeTable = timeTable;
         allCourses = timeTable.getCourseList();
         finalTimeTable = new ArrayList<>();
+        this.userName = userName;
+
         makeTimeTable();
     }
 
@@ -24,14 +27,20 @@ public class ScheduleMaker {
         return finalTimeTable;
     }
 
-    // getters
     public HashMap<String, String> getErrorLog() {
         return errorLog;
     }
 
-    // getters
     public ArrayList<Course> getAllCourses() {
         return allCourses;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public TimeTable getTimeTable() {
+        return timeTable;
     }
 
     // REQUIRES: Course list size > 0.
@@ -134,5 +143,9 @@ public class ScheduleMaker {
         }
 
         return result;
+    }
+
+    public void addUserName(String userName) {
+        this.userName = userName;
     }
 }

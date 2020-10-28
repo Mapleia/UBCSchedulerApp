@@ -5,7 +5,6 @@ import com.google.common.io.Files;
 import exceptions.NoCourseFound;
 import org.json.JSONObject;
 
-
 import java.io.File;
 import java.util.ArrayList;
 
@@ -60,7 +59,6 @@ public class TimeTable {
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
     public void addCourse(String courseCode, String courseNum) throws Exception {
-        // Gson code referenced http://tutorials.jenkov.com/java-json/gson.html.
         String path;
         if (winterOrSummer == 0) {
             path = "data\\" + yearFall + "W" + "\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
@@ -71,12 +69,46 @@ public class TimeTable {
         if (file.exists()) {
             String jsonCourseString = Files.asCharSource(file, Charsets.UTF_8).read();
             JSONObject obj = new JSONObject(jsonCourseString);
-            Course course = parseJsonObject(obj);
+            Course course = parseFromJsonObject(obj);
             courseList.add(course);
 
         } else {
             throw new NoCourseFound();
         }
+
+
+
+
+    }
+
+    // REQUIRES: Valid course code, course number (both as a string) and format.
+    // MODIFIES: this
+    // EFFECT: Adds course to the list of courses.
+    public void addCourse(String input) throws Exception {
+        String[] inputArr = input.split("-");
+        String path;
+        if (winterOrSummer == 0) {
+            path = "data\\" + yearFall + "W" + "\\" + inputArr[0] + "\\" + inputArr[0] + " " + inputArr[1] + ".json";
+        } else {
+            path = "data\\" + yearSummer + "S" + "\\" + inputArr[0] + "\\" + inputArr[0] + " " + inputArr[1] + ".json";
+        }
+        File file = new File(path);
+        if (file.exists()) {
+            String jsonCourseString = Files.asCharSource(file, Charsets.UTF_8).read();
+            JSONObject obj = new JSONObject(jsonCourseString);
+            Course course = parseFromJsonObject(obj);
+            courseList.add(course);
+
+        } else {
+            throw new NoCourseFound();
+        }
+    }
+
+    private Course parseFromJsonObject(JSONObject obj) {
+        return new Course(obj.getString("subject_code"),
+                obj.getString("course_number"),
+                obj.getJSONObject("sections"),
+                this);
     }
 
     public void removeCourse(String courseCode, String courseNum) throws NoCourseFound {
@@ -88,11 +120,6 @@ public class TimeTable {
         }
     }
 
-    public Course parseJsonObject(JSONObject jsonObject) {
-        return new Course(jsonObject.getString("subject_code"),
-                jsonObject.getString("course_number"),
-                jsonObject.getJSONObject("sections"),
-                this);
-    }
+
 
 }

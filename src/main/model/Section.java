@@ -1,5 +1,7 @@
 package model;
 
+import org.json.JSONObject;
+
 import java.util.*;
 
 public class Section {
@@ -138,6 +140,8 @@ public class Section {
         return result;
     }
 
+
+
     // REQUIRES: start, end and days to be string.
     // MODIFIES: this.
     // EFFECT: sets crucialFieldsBlank to true if start (time in str) end or days is blank.
@@ -185,5 +189,6 @@ public class Section {
             Collections.sort(timeSpans);
         }
     }
+
 
 }

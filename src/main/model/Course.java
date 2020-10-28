@@ -3,6 +3,7 @@ package model;
 import java.util.*;
 
 import org.json.JSONObject;
+import persistence.JsonReader;
 
 // Represents the general course offered by the institution, and has a list of sections.
 public class Course implements Comparable<Course> {
@@ -76,7 +77,7 @@ public class Course implements Comparable<Course> {
 
         for (int i = 0; i < jsonSections.names().length(); i++) {
             JSONObject section = jsonSections.getJSONObject(jsonSections.names().getString(i));
-            Section sec = parseJsonObject(section);
+            Section sec = parseFromJsonObject(section);
             String status = sec.getStatus();
             containsTerms(sec);
 
@@ -87,7 +88,7 @@ public class Course implements Comparable<Course> {
         }
     }
 
-    private Section parseJsonObject(JSONObject obj) {
+    private Section parseFromJsonObject(JSONObject obj) {
         String status = obj.getString("status");
         String section = obj.getString("section");
         String activity = obj.getString("activity");

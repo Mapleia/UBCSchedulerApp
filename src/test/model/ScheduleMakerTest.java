@@ -29,7 +29,7 @@ public class ScheduleMakerTest {
             e.printStackTrace();
         }
 
-        scheduleMaker = new ScheduleMaker(timeTable);
+        scheduleMaker = new ScheduleMaker(timeTable, "user");
     }
 
     @Test
@@ -73,7 +73,7 @@ public class ScheduleMakerTest {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        ScheduleMaker scheduleMaker2 = new ScheduleMaker(newTimetable);
+        ScheduleMaker scheduleMaker2 = new ScheduleMaker(newTimetable, "user");
 
 
         HashMap<String, String> errorMap = scheduleMaker2.getErrorLog();

@@ -5,6 +5,7 @@ import model.Course;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;
+import persistence.JsonWriter;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -15,6 +16,7 @@ import java.util.Set;
 public class SchedulerApp {
     private static final Scanner input = new Scanner(System.in);
     private static TimeTable timeTable;
+    private static ScheduleMaker scheduleMaker;
 
     private static String userName;
     private static final int year = LocalDateTime.now().getYear();
@@ -24,17 +26,22 @@ public class SchedulerApp {
 
     // constructor
     public SchedulerApp() {
-
         askName();
         askTerm();
         askTimePreference();
         // askClassSpread();
-        timeTable = new TimeTable(year, winterOrSummer, timePreferences, spreadClasses);
+
         askCourses();
         confirmCourses();
         askRemoveCourses();
         printTimeTable();
+        saveSession();
     }
+
+    public static void loadFromSaveFile() {
+
+    }
+
 
     // MODIFIES: this.
     // EFFECTS: Gathers user's name.
@@ -86,6 +93,8 @@ public class SchedulerApp {
     // MODIFIES: timeTable, this.
     // EFFECT: Ask user to input courses to be added to their schedule.
     public static void askCourses() {
+        timeTable = new TimeTable(year, winterOrSummer, timePreferences, spreadClasses);
+
         boolean moreCourse = true;
         System.out.println("Please enter the courses that you'd like to be have in your schedule.");
         System.out.println("Please format the course in course code (XXXX) hyphen (-) then number (###). XXXX-###");
@@ -165,8 +174,7 @@ public class SchedulerApp {
     // REQUIRES: course list size > 0.
     // EFFECT: Print out finished timetable.
     private static void printTimeTable() {
-        ScheduleMaker scheduleMaker = new ScheduleMaker(timeTable);
-
+        scheduleMaker = new ScheduleMaker(timeTable, userName);
         System.out.println("Creating your sample timetable. Please wait.");
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 
@@ -193,6 +201,20 @@ public class SchedulerApp {
             System.out.println("Error in making your schedule. Please try again.");
             e.printStackTrace();
         }
+    }
+
+    public static void saveSession() {
+        System.out.println("Would you like to save your progress?");
+        if (input.nextLine().equalsIgnoreCase("YES")) {
+            System.out.println("Please name your file:");
+            String fileName = input.nextLine();
+            JsonWriter.saveFile(scheduleMaker, fileName);
+        } else {
+            System.out.println("Thank you for using UBC Course Scheduler! Have a nice day.");
+            System.exit(0);
+        }
 
     }
+
+
 }
