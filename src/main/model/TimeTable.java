@@ -101,7 +101,7 @@ public class TimeTable {
 
     public void removeCourse(String courseCode, String courseNum) throws NoCourseFound {
         Course removedCourse = new Course(courseCode, courseNum);
-        if (courseList.indexOf(removedCourse) < 0) {
+        if (!courseList.contains(removedCourse)) {
             throw new NoCourseFound();
         } else {
             courseList.remove(removedCourse);

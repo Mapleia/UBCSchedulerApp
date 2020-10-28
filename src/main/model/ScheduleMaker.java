@@ -123,6 +123,8 @@ public class ScheduleMaker {
         if (noTypeDupeList.contains(sectionCode + "-" + "Web-Oriented Course")) {
             if (sec.getActivity().equals("Lecture")) {
                 result = true;
+            } else if (sec.getActivity().equals("Waiting List")) {
+                result = true;
             }
         } else if (noTypeDupeList.contains(sectionCode + "-" + "Lecture")) {
             if (sec.getActivity().equals("Waiting List")) {

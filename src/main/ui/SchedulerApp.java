@@ -88,27 +88,39 @@ public class SchedulerApp {
     // EFFECT: Ask user to input courses to be added to their schedule.
     public static void askCourses() {
         boolean moreCourse = true;
-
-        String[] courseSplit;
-        String course;
         System.out.println("Please enter the courses that you'd like to be have in your schedule.");
         System.out.println("Please format the course in course code (XXXX) hyphen (-) then number (###). XXXX-###");
-
+        System.out.println("If you have multiple courses to add, please list them and differentiate using"
+                + "{, }");
+        System.out.println("EX: CPSC-210, BIOL-200, CHEM-233");
         while (moreCourse) {
-            course = input.nextLine();
-            courseSplit = course.split("-");
-            try {
-                timeTable.addCourse(courseSplit[0], courseSplit[1]);
-            } catch (NoCourseFound e) {
-                System.out.println(course + " not found.");
-            } catch (Exception e) {
-                e.printStackTrace();
+            String course = input.nextLine();
+            if (course.length() > 8) {
+                System.out.println("List detected.");
+                String[] courseListString = course.split(", ");
+                for (String str : courseListString) {
+                    courseAddTry(str);
+                }
+                System.out.println("All courses added.");
+            } else {
+                courseAddTry(course);
             }
-
             System.out.println("Do you have any more courses to add? (yes / no)");
             moreCourse = input.nextLine().equalsIgnoreCase("yes");
         }
 
+    }
+
+    private static void courseAddTry(String str) {
+        String[] courseSplit = str.split("-");
+        try {
+            timeTable.addCourse(courseSplit[0], courseSplit[1]);
+            System.out.println(str + " added.");
+        } catch (NoCourseFound e) {
+            System.out.println(str + " not found.");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     // EFFECT: Prints out and confirm list of courses to the user.
@@ -129,23 +141,25 @@ public class SchedulerApp {
 
         String[] courseSplit;
         String course;
-        System.out.println("Would you like to remove some courses?");
-        System.out.println("If so, please format the course in course code (XXXX) hyphen (-) then number (###). "
-                + "XXXX-###");
+        System.out.println("Would you like to remove some courses? (yes / no)");
+        if (input.nextLine().equalsIgnoreCase("yes")) {
+            System.out.println("If so, please format the course in course code (XXXX) hyphen (-) then number (###). "
+                    + "XXXX-###");
 
-        while (moreCourse) {
-            course = input.nextLine();
-            courseSplit = course.split("-");
-            try {
-                timeTable.removeCourse(courseSplit[0], courseSplit[1]);
-            } catch (NoCourseFound e) {
-                System.out.println(course + " not found.");
-            } catch (Exception e) {
-                e.printStackTrace();
+            while (moreCourse) {
+                course = input.nextLine();
+                courseSplit = course.split("-");
+                try {
+                    timeTable.removeCourse(courseSplit[0], courseSplit[1]);
+                } catch (NoCourseFound e) {
+                    System.out.println(course + " not found.");
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+
+                System.out.println("Do you have any more courses to remove? (yes / no)");
+                moreCourse = input.nextLine().equalsIgnoreCase("yes");
             }
-
-            System.out.println("Do you have any more courses to add? (yes / no)");
-            moreCourse = input.nextLine().equalsIgnoreCase("yes");
         }
     }
 

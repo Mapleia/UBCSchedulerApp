@@ -87,4 +87,17 @@ public class ScheduleMakerTest {
         assertTrue(allCourseNames.containsAll(allErrorCourses));
         assertTrue(scheduleMaker.getErrorLog().size()> 0);
     }
+
+    @Test
+    public void testWaitingList() {
+        try {
+            timeTable.addCourse("CHEM", "233");
+        } catch (Exception e) {
+            fail();
+        }
+        scheduleMaker.makeTimeTable();
+
+        assertFalse(scheduleMaker.getFinalTimeTable()
+                .contains(new Section("CHEM 233 1W1", "Waiting List")));
+    }
 }

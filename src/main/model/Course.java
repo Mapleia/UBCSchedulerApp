@@ -221,12 +221,12 @@ public class Course implements Comparable<Course> {
             return false;
         }
         Course c = (Course) course;
-        return (this.subjectCode == c.subjectCode && this.courseNum == c.courseNum);
+        return (this.subjectCode.equals(c.subjectCode) && this.courseNum.equals(c.courseNum));
     }
 
     @Override
     public int hashCode() {
         // referenced: https://www.baeldung.com/java-hashcode
-        return (int) subjectCode.hashCode() * courseNum.hashCode();
+        return subjectCode.hashCode() * courseNum.hashCode();
     }
 }

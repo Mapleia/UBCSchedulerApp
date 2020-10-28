@@ -3,13 +3,13 @@ package model;
 import java.util.*;
 
 public class Section {
-    private final String status;
+    private String status;
     private final String section;
     private String activity;
-    private final String term;
-    private final String days;
-    private final String start;
-    private final String end;
+    private String term;
+    private String days;
+    private String start;
+    private String end;
 
     private List<TimeSpan> timeSpans;
     private TimeTable timeTable;
@@ -24,6 +24,11 @@ public class Section {
         this.activity = activity;
         this.term = term;
         this.days = days;
+    }
+
+    public Section(String section, String activity) {
+        this.section = section;
+        this.activity = activity;
     }
 
     // getters
@@ -176,5 +181,21 @@ public class Section {
                 activity = "Required";
             }
         }
+    }
+
+    @Override
+    public boolean equals(Object section) {
+        // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
+        if (!(section instanceof Section)) {
+            return false;
+        }
+        Section s = (Section) section;
+        return (this.section.equals(s.section) && this.activity.equals(s.activity));
+    }
+
+    @Override
+    public int hashCode() {
+        // referenced: https://www.baeldung.com/java-hashcode
+        return section.hashCode() * activity.hashCode();
     }
 }
