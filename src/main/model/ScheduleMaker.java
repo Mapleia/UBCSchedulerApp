@@ -16,6 +16,7 @@ public class ScheduleMaker {
         this.timeTable = timeTable;
         allCourses = timeTable.getCourseList();
         finalTimeTable = new ArrayList<>();
+        makeTimeTable();
     }
 
     // getters
@@ -35,7 +36,7 @@ public class ScheduleMaker {
 
     // REQUIRES: Course list size > 0.
     // EFFECT: Create a valid timetable per term.
-    public void makeTimeTable() {
+    private void makeTimeTable() {
         Collections.sort(allCourses);
 
         // idea from: https://stackoverflow.com/questions/9146224/arraylist-filter

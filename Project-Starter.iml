@@ -29,7 +29,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="com.google.code.gson:gson:2.8.6" level="project" />
     <orderEntry type="library" name="json-20200518" level="project" />
+    <orderEntry type="library" name="com.google.guava:guava:30.0-jre" level="project" />
   </component>
 </module>

@@ -2,18 +2,12 @@ package model;
 
 import java.util.*;
 
-import com.google.gson.Gson;
-import com.google.gson.JsonObject;
-import com.google.gson.annotations.SerializedName;
+import org.json.JSONObject;
 
 // Represents the general course offered by the institution, and has a list of sections.
 public class Course implements Comparable<Course> {
-    @SerializedName("subject_code")
     private final String subjectCode;
-    @SerializedName("course_number")
     private final String courseNum;
-    @SerializedName("sections")
-    private JsonObject jsonSections;
 
     private ArrayList<Section> allSection;
     private HashMap<String, Integer> activitySize;
@@ -25,10 +19,15 @@ public class Course implements Comparable<Course> {
     private boolean hasTerm2 = false;
 
     // Constructors
-    public Course(String subjectCode, String courseNum, JsonObject jsonSections) {
+    public Course(String subjectCode, String courseNum, JSONObject jsonSections, TimeTable timeTable) {
         this.subjectCode = subjectCode;
         this.courseNum = courseNum;
-        this.jsonSections = jsonSections;
+        this.timeTable = timeTable;
+
+        allActivities = new HashMap<>();
+        addAllSections(jsonSections);
+        countActivity();
+        countPrimary();
     }
 
     //Constructors
@@ -38,94 +37,68 @@ public class Course implements Comparable<Course> {
     }
 
     // getters
-    public JsonObject getJsonSections() {
-        return jsonSections;
-    }
-
-    // getters
     public String getSubjectCode() {
         return subjectCode;
     }
 
-    // getters
     public String getCourseNum() {
         return courseNum;
     }
 
-    // getters
     public ArrayList<Section> getAllSection() {
         return allSection;
     }
 
-    // getters
     public HashMap<String, HashMap<String, ArrayList<Section>>> getAllActivities() {
         return allActivities;
     }
 
-    // getters
     public HashMap<String, Integer> getActivitySize() {
         return activitySize;
     }
 
-    // getters
     public int getPrimaryCounter() {
         return primaryCounter;
     }
 
-    // getters
     public boolean isHasTerm1() {
         return hasTerm1;
     }
 
-    // getters
     public boolean isHasTerm2() {
         return hasTerm2;
     }
 
-    // setters
-    public void setTimeTable(TimeTable timeTable) {
-        this.timeTable = timeTable;
-    }
-
-
-
     // MODIFIES: this
     // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
-    public void addAllSections() {
-        initializeArrays();
-        ArrayList<String> objKey = new ArrayList<>(jsonSections.keySet());
-        Section sec;
-        Gson gson = new Gson();
-        String status;
+    private void addAllSections(JSONObject jsonSections) {
+        allSection = new ArrayList<>();
 
-        for (String k : objKey) {
-            // referenced https://stackoverflow.com/questions/17651395/convert-jsonobject-to-string.
-            // referenced https://mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/.
-
-            String obj = jsonSections.get(k).toString();
-
-            sec = gson.fromJson(obj, Section.class);
-            status = sec.getStatus();
+        for (int i = 0; i < jsonSections.names().length(); i++) {
+            JSONObject section = jsonSections.getJSONObject(jsonSections.names().getString(i));
+            Section sec = parseJsonObject(section);
+            String status = sec.getStatus();
             containsTerms(sec);
 
             if (!status.equalsIgnoreCase("STT")) {
-                sec.setTimeTable(timeTable);
-                sec.crucialFieldsBlank();
-                sec.checkRequired();
-                sec.formatDatesAndTime();
-
                 allSection.add(sec);
                 mapActivity(sec);
             }
         }
     }
 
-    // MODIFIES: this
-    // EFFECT: Initializes arrays because GSON doesn't actually call the constructor...
-    private void initializeArrays() {
-        allSection = new ArrayList<>();
-        activitySize = new HashMap<>();
-        allActivities = new HashMap<>();
+    private Section parseJsonObject(JSONObject obj) {
+        String status = obj.getString("status");
+        String section = obj.getString("section");
+        String activity = obj.getString("activity");
+        String term = obj.getString("term");
+        String days = obj.getString("days");
+        String start = obj.getString("start");
+        String end = obj.getString("end");
+
+        return new Section(status, section, start, end, activity, term, days, timeTable);
+        // String status, String section, String start, String end, String activity, String term, String days,
+        //                   TimeTable timeTable
     }
 
     // MODIFIES: this
@@ -142,6 +115,7 @@ public class Course implements Comparable<Course> {
     // MODIFIES: this
     // EFFECT: Adds to lists divided by activity type and time preference.
     private void mapActivity(Section section) {
+
         String time;
         if (section.isCrucialFieldsBlank()) {
             time = timeTable.primaryTimePref;
@@ -171,7 +145,9 @@ public class Course implements Comparable<Course> {
 
     // MODIFIES: this
     // EFFECT: Counts the number of activities for each available type, and maps it.
-    public void countActivity() {
+    private void countActivity() {
+        activitySize = new HashMap<>();
+
         Set<String> allKeys = allActivities.keySet();
         String[] timePrefs = {timeTable.primaryTimePref, timeTable.secondaryTimePref, timeTable.tertiaryTimePref};
         /*
@@ -196,7 +172,7 @@ public class Course implements Comparable<Course> {
     // REQUIRES: allActivities is already mapped.
     // MODIFIES: this
     // EFFECT: Count number of primary time-slotted sections.
-    public void countPrimary() {
+    private void countPrimary() {
         Set<String> allKeys = allActivities.keySet();
 
         int counter = 0;

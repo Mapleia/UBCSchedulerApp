@@ -1,6 +1,5 @@
 package model;
 
-import com.google.gson.JsonObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -18,11 +17,10 @@ class CourseTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0);
-        timeTable.setTimePref(timeTableTimeArr);
+        timeTable = new TimeTable(2020, 0, timeTableTimeArr, true);
 
         try {
-            timeTable.addCourse("BIOl", "112");
+            timeTable.addCourse("BIOL", "112");
             timeTable.addCourse("BIOL", "200");
             course = timeTable.getCourseList().get(0);
             course2 = timeTable.getCourseList().get(1);
@@ -41,18 +39,18 @@ class CourseTest {
 
     @Test
     public void testAddAllSections() {
-        assertEquals("BIOL 112 101", course.getAllSection().get(0).getSection());
-        assertEquals("BIOL 200 101", course2.getAllSection().get(0).getSection());
+        assertEquals("BIOL 112 T21", course.getAllSection().get(0).getSection());
+        assertEquals("BIOL 200 T61", course2.getAllSection().get(0).getSection());
 
     }
 
     @Test
     public void testMapActivity() {
         ArrayList<Section> sec = course.getAllActivities().get("Web-Oriented Course").get(timeTable.tertiaryTimePref);
-        assertTrue(sec.contains(course.getAllSection().get(0)));
+        assertTrue(sec.contains(course.getAllSection().get(44)));
 
         ArrayList<Section> sec2 = course2.getAllActivities().get("Web-Oriented Course").get(timeTable.primaryTimePref);
-        assertTrue(sec2.contains(course2.getAllSection().get(2)));
+        assertTrue(sec2.contains(course2.getAllSection().get(35)));
 
 
     }
@@ -64,13 +62,12 @@ class CourseTest {
 
         assertTrue(course2.isHasTerm2() && course2.isHasTerm1());
 
-        course2.countPrimary();
         assertEquals(27, course2.getPrimaryCounter());
     }
 
     @Test
     public void testSummer() {
-        TimeTable timeTable2 = new TimeTable(2020, 1);
+        TimeTable timeTable2 = new TimeTable(2020, 1, timeTableTimeArr, true);
 
         try {
             timeTable2.addCourse("BIOL", "112");
@@ -82,14 +79,18 @@ class CourseTest {
     }
 
     @Test
-    public void testConstructor() {
-        JsonObject jsonSections = course.getJsonSections();
+    public void testEqualsTrue() {
+        assertEquals(new Course("BIOL", "112"), course);
+    }
 
-        Course courseTest = new Course("BIOL", "112", jsonSections);
-        courseTest.setTimeTable(timeTable);
-        courseTest.addAllSections();
+    @Test
+    public void testEqualsFalse() {
+        assertNotEquals(course2, course);
+    }
 
-        assertEquals(courseTest.getAllSection().get(0).getSection(), course.getAllSection().get(0).getSection());
+    @Test
+    public void testEqualsFalseNotCourse() {
+        assertNotEquals(course2.getAllSection().get(0), course);
     }
 
     @Test
@@ -102,14 +103,12 @@ class CourseTest {
         List<Course> courseListT = timeTable.getCourseList();
         Collections.sort(courseListT);
 
-
         assertEquals(courseList.get(0).getSubjectCode(), courseList.get(0).getSubjectCode());
 
     }
 
     @Test
     public void testCountPrim() {
-        course.countPrimary();
         assertEquals(19, course.getPrimaryCounter());
     }
 }

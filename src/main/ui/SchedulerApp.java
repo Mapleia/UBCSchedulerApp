@@ -8,26 +8,28 @@ import model.TimeTable;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
 public class SchedulerApp {
-    private static Scanner input;
+    private static final Scanner input = new Scanner(System.in);
     private static TimeTable timeTable;
 
     private static String userName;
-    private static int year;
+    private static final int year = LocalDateTime.now().getYear();
+    private static int winterOrSummer;
+    private static String[] timePreferences;
+    private static boolean spreadClasses = true;
 
     // constructor
     public SchedulerApp() {
-        input = new Scanner(System.in);
-        year = LocalDateTime.now().getYear();
-        timeTable = new TimeTable(year);
 
         askName();
         askTerm();
         askTimePreference();
         // askClassSpread();
+        timeTable = new TimeTable(year, winterOrSummer, timePreferences, spreadClasses);
         askCourses();
         confirmCourses();
         askRemoveCourses();
@@ -47,16 +49,15 @@ public class SchedulerApp {
     public static void askTerm() {
         System.out.println("Hello " + userName + "! Is this a winter terms or summer terms? (w / s)");
         if (input.nextLine().equalsIgnoreCase("W")) {
-            timeTable.setWinterOrSummer(0);
+            winterOrSummer = 0;
         } else {
-            timeTable.setWinterOrSummer(1);
+            winterOrSummer = 1;
         }
     }
 
     // MODIFIES: timeTable, this.
     // EFFECT: Ask user their class time preferences in PST. (Morning / Afternoon / Evening).
     public static void askTimePreference() {
-        String[] preferenceInput;
 
         System.out.println("Please list your preference in order of preferred timeslots.");
         System.out.println("EX: Afternoon, Evening, Morning");
@@ -65,11 +66,9 @@ public class SchedulerApp {
         System.out.println("Evening: 17:00 ~ 21:00 PST");
         System.out.println("If you like the example, please enter [D].");
         if (input.nextLine().equalsIgnoreCase("D")) {
-            String[] modeDefault = {"Afternoon", "Evening", "Morning"};
-            timeTable.setTimePref(modeDefault);
+            timePreferences = new String[]{"Afternoon", "Evening", "Morning"};
         } else {
-            preferenceInput = input.nextLine().trim().split(",");
-            timeTable.setTimePref(preferenceInput);
+            timePreferences = input.nextLine().trim().split(",");
         }
 
     }
@@ -81,7 +80,7 @@ public class SchedulerApp {
         System.out.println("Would you like to have your classes spread out over the week?");
         System.out.println("If no, schedule will concentrate classes on either MON/WED/FRI or TUES/THURS.");
         preference = input.nextLine();
-        timeTable.setSpreadClasses(preference.equalsIgnoreCase("yes"));
+        spreadClasses = preference.equalsIgnoreCase("yes");
     }
 
     // MODIFIES: timeTable, this.
@@ -91,7 +90,7 @@ public class SchedulerApp {
         System.out.println("Please enter the courses that you'd like to be have in your schedule.");
         System.out.println("Please format the course in course code (XXXX) hyphen (-) then number (###). XXXX-###");
         System.out.println("If you have multiple courses to add, please list them and differentiate using"
-                + "{, }");
+                + " {, }");
         System.out.println("EX: CPSC-210, BIOL-200, CHEM-233");
         while (moreCourse) {
             String course = input.nextLine();
@@ -171,10 +170,9 @@ public class SchedulerApp {
         System.out.println("Creating your sample timetable. Please wait.");
         System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
 
+        List<Section> schedule = scheduleMaker.getFinalTimeTable();
         try {
-            scheduleMaker.makeTimeTable();
-
-            for (Section s : scheduleMaker.getFinalTimeTable()) {
+            for (Section s : schedule) {
                 System.out.println(s.getSection());
                 System.out.println("Days: " + s.getDays());
                 System.out.println("Times: " + s.getStart() + " ~ " + s.getEnd());

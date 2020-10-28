@@ -16,7 +16,8 @@ public class Section {
     private boolean crucialFieldsBlank = false;
 
     // constructor
-    public Section(String status, String section, String start, String end, String activity, String term, String days) {
+    public Section(String status, String section, String start, String end, String activity, String term, String days,
+                   TimeTable timeTable) {
         this.status = status;
         this.section = section;
         this.start = start;
@@ -24,6 +25,11 @@ public class Section {
         this.activity = activity;
         this.term = term;
         this.days = days;
+        this.timeTable = timeTable;
+
+        this.crucialFieldsBlank();
+        this.checkRequired();
+        this.formatDatesAndTime();
     }
 
     public Section(String section, String activity) {
@@ -36,88 +42,56 @@ public class Section {
         return status;
     }
 
-    // getters
     public String getSection() {
         return section;
     }
 
-    // getters
     public String getStart() {
         return start;
     }
 
-    // getters
     public String getEnd() {
         return end;
     }
 
-    // getters
     public String getActivity() {
         return activity;
     }
 
-    // getters
     public String getTerm() {
         return term;
     }
 
-    // getters
     public String getDays() {
         return days;
     }
 
-    // getters
     public String getTimeSlot() {
         return timeSpans.get(0).getTimeSlot();
     }
 
-    // getters
     public List<TimeSpan> getTimeSpans() {
         return timeSpans;
     }
 
-    // getters
     public boolean isCrucialFieldsBlank() {
         return crucialFieldsBlank;
     }
 
-    // setters
-    public void setTimeTable(TimeTable timeTable) {
-        this.timeTable = timeTable;
-    }
-
-    // setters
-    public void setCrucialFieldsBlank(boolean crucialFieldsBlank) {
-        this.crucialFieldsBlank = crucialFieldsBlank;
-    }
-
-    // REQUIRES: crucialFieldsBlank to be already set.
-    // MODIFIES: this.
-    // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
-    public void formatDatesAndTime() {
-        timeSpans = new ArrayList<>();
-        if (!crucialFieldsBlank) {
-            TimeSpan timeSpan;
-            String[] daysArr = days.trim().split(" ");
-
-            for (String s : daysArr) {
-                if (timeTable.winterOrSummer == 0) {
-                    if (term.equals("1")) {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
-                    } else {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
-                    }
-                } else {
-                    if (term.equals("1")) {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
-                    } else {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
-                    }
-                }
-                timeSpans.add(timeSpan);
-            }
-            Collections.sort(timeSpans);
+    @Override
+    public boolean equals(Object section) {
+        // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
+        if (!(section instanceof Section)) {
+            return false;
         }
+        Section s = (Section) section;
+        return (this.section.equals(s.section) && this.activity.equals(s.activity));
+    }
+
+    @Override
+    public int hashCode() {
+        // referenced: https://www.baeldung.com/java-hashcode
+        return section.hashCode() * activity.hashCode();
     }
 
     // REQUIRES: valid section
@@ -167,14 +141,14 @@ public class Section {
     // REQUIRES: start, end and days to be string.
     // MODIFIES: this.
     // EFFECT: sets crucialFieldsBlank to true if start (time in str) end or days is blank.
-    public void crucialFieldsBlank() {
+    private void crucialFieldsBlank() {
         crucialFieldsBlank = (start.trim().equals("") || end.trim().equals("") || days.trim().equals(""));
     }
 
     // MODIFIES: this
     // EFFECT: sets the activity type to required if any of the crucial fields are blank.
     // (* usually indicates that it's a mandatory section everyone has to register in. )
-    public void checkRequired() {
+    private void checkRequired() {
         if (crucialFieldsBlank) {
             if (activity.equalsIgnoreCase("Web-Oriented Course")
                     || activity.equalsIgnoreCase("Lecture")) {
@@ -183,19 +157,33 @@ public class Section {
         }
     }
 
-    @Override
-    public boolean equals(Object section) {
-        // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
-        if (!(section instanceof Section)) {
-            return false;
+    // REQUIRES: crucialFieldsBlank to be already set.
+    // MODIFIES: this.
+    // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
+    private void formatDatesAndTime() {
+        timeSpans = new ArrayList<>();
+        if (!crucialFieldsBlank) {
+            TimeSpan timeSpan;
+            String[] daysArr = days.trim().split(" ");
+
+            for (String s : daysArr) {
+                if (timeTable.winterOrSummer == 0) {
+                    if (term.equals("1")) {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
+                    } else {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
+                    }
+                } else {
+                    if (term.equals("1")) {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
+                    } else {
+                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
+                    }
+                }
+                timeSpans.add(timeSpan);
+            }
+            Collections.sort(timeSpans);
         }
-        Section s = (Section) section;
-        return (this.section.equals(s.section) && this.activity.equals(s.activity));
     }
 
-    @Override
-    public int hashCode() {
-        // referenced: https://www.baeldung.com/java-hashcode
-        return section.hashCode() * activity.hashCode();
-    }
 }

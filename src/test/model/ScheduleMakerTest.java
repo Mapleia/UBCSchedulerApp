@@ -17,8 +17,7 @@ public class ScheduleMakerTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0);
-        timeTable.setTimePref(timeTableTimeArr);
+        timeTable = new TimeTable(2020, 0, timeTableTimeArr, true);
 
         try {
             timeTable.addCourse("CPSC", "210");
@@ -35,7 +34,6 @@ public class ScheduleMakerTest {
 
     @Test
     public void testHasAllCourses() {
-        scheduleMaker.makeTimeTable();
         List<Section> finalTable = scheduleMaker.getFinalTimeTable();
 
         Set<String> courseCodeNames = new HashSet<>();
@@ -54,38 +52,40 @@ public class ScheduleMakerTest {
 
     @Test
     public void testErrorLog() {
+        TimeTable newTimetable = new TimeTable(2020, 0, timeTableTimeArr, true);
+
         try {
-            timeTable.addCourse("ACAM", "250");
-            timeTable.addCourse("BIOL", "155");
-            timeTable.addCourse("BIOL", "201");
-            timeTable.addCourse("BIOL", "203");
-            timeTable.addCourse("BIOL", "204");
-            timeTable.addCourse("BIOL", "205");
-            timeTable.addCourse("BIOL", "210");
-            timeTable.addCourse("BIOL", "260");
-            timeTable.addCourse("BIOL", "234");
-            timeTable.addCourse("BIOL", "301");
-            timeTable.addCourse("BIOL", "306");
-            timeTable.addCourse("BIOL", "310");
-            timeTable.addCourse("BIOL", "327");
-            timeTable.addCourse("BIOL", "335");
+            newTimetable.addCourse("ACAM", "250");
+            newTimetable.addCourse("BIOL", "155");
+            newTimetable.addCourse("BIOL", "201");
+            newTimetable.addCourse("BIOL", "203");
+            newTimetable.addCourse("BIOL", "204");
+            newTimetable.addCourse("BIOL", "205");
+            newTimetable.addCourse("BIOL", "210");
+            newTimetable.addCourse("BIOL", "260");
+            newTimetable.addCourse("BIOL", "234");
+            newTimetable.addCourse("BIOL", "301");
+            newTimetable.addCourse("BIOL", "306");
+            newTimetable.addCourse("BIOL", "310");
+            newTimetable.addCourse("BIOL", "327");
+            newTimetable.addCourse("BIOL", "335");
 
         } catch (Exception e) {
             e.printStackTrace();
         }
+        ScheduleMaker scheduleMaker2 = new ScheduleMaker(newTimetable);
 
-        scheduleMaker.makeTimeTable();
 
-        HashMap<String, String> errorMap = scheduleMaker.getErrorLog();
+        HashMap<String, String> errorMap = scheduleMaker2.getErrorLog();
 
         Set<String> allErrorCourses = errorMap.keySet();
         Set<String> allCourseNames = new HashSet<>();
 
-        for (Course c : scheduleMaker.getAllCourses()) {
+        for (Course c : scheduleMaker2.getAllCourses()) {
             allCourseNames.add(c.getSubjectCode() + "-" + c.getCourseNum());
         }
         assertTrue(allCourseNames.containsAll(allErrorCourses));
-        assertTrue(scheduleMaker.getErrorLog().size()> 0);
+        assertTrue(scheduleMaker2.getErrorLog().size()> 0);
     }
 
     @Test
@@ -95,7 +95,6 @@ public class ScheduleMakerTest {
         } catch (Exception e) {
             fail();
         }
-        scheduleMaker.makeTimeTable();
 
         assertFalse(scheduleMaker.getFinalTimeTable()
                 .contains(new Section("CHEM 233 1W1", "Waiting List")));

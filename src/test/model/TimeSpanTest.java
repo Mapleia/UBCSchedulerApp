@@ -3,9 +3,7 @@ package model;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.time.LocalDateTime;
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
+import java.time.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.fail;
@@ -13,13 +11,16 @@ import static org.junit.jupiter.api.Assertions.fail;
 public class TimeSpanTest {
     public TimeTable timeTable;
     public String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
+
     public Course course;
     public Course course2;
     public TimeSpan timeSpan;
+    public TimeSpan timeSpan1213Fall;
+
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0);
-        timeTable.setTimePref(timeTableTimeArr);
+        timeTable = new TimeTable(2020, 0, timeTableTimeArr, true);
+        timeSpan1213Fall = new TimeSpan("12:00", "13:00", "Mon", 2020, 9, 7);
 
         try {
             timeTable.addCourse("BIOl", "112");
@@ -47,10 +48,8 @@ public class TimeSpanTest {
 
     @Test
     public void testConvertStrTime() {
-        timeSpan = new TimeSpan("12:00", "13:00", "Mon", 2020, 9, 7);
 
-        timeSpan.convertStrTime("12:00");
-        assertEquals(timeSpan.getStart(), timeSpan.convertStrTime("12:00"));
+        assertEquals(timeSpan1213Fall.getStart(), timeSpan1213Fall.convertStrTime("12:00"));
     }
 
     @Test
@@ -61,28 +60,29 @@ public class TimeSpanTest {
 
     @Test
     public void testIsOverlappingTrue() {
-        timeSpan = new TimeSpan("12:00", "13:00", "Mon", 2020, 9, 7);
-
-        assertTrue(timeSpan.isOverlapping(new TimeSpan("12:30",
+        assertTrue(timeSpan1213Fall.isOverlapping(new TimeSpan("12:30",
                 "14:00", "Mon", 2020, 9, 7)));
 
+        assertTrue(timeSpan1213Fall.isOverlapping(new TimeSpan("12:30",
+                "12:45", "Mon", 2020, 9, 7)));
+
+        assertTrue(timeSpan1213Fall.isOverlapping(new TimeSpan("11:30",
+                "12:45", "Mon", 2020, 9, 7)));
     }
 
     @Test
     public void testIsOverlappingFalse() {
-        timeSpan = new TimeSpan("17:00", "18:00", "Mon", 2020, 9, 7);
+        TimeSpan timeSpan2 = new TimeSpan("17:00", "18:00", "Mon", 2020, 9, 7);
 
-        assertFalse(timeSpan.isOverlapping(new TimeSpan("12:30",
+        assertFalse(timeSpan2.isOverlapping(new TimeSpan("12:30",
                 "14:00", "Mon", 2020, 9, 7)));
 
     }
 
     @Test
     public void testGetters() {
-        timeSpan = new TimeSpan("12:00", "13:00", "Mon", 2020, 9, 7);
-
-        assertEquals("Afternoon", timeSpan.getTimeSlot());
-        assertEquals(timeSpan.convertStrTime("13:00"), timeSpan.getEnd());
+        assertEquals("Afternoon", timeSpan1213Fall.getTimeSlot());
+        assertEquals(timeSpan1213Fall.convertStrTime("13:00"), timeSpan1213Fall.getEnd());
 
     }
 

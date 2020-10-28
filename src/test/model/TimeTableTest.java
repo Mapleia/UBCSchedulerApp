@@ -1,63 +1,34 @@
 package model;
 
-import com.google.gson.Gson;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import java.io.File;
-import java.io.FileReader;
-import java.io.Reader;
-import java.time.LocalDate;
-import java.time.ZonedDateTime;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TimeTableTest {
     public TimeTable timeTable;
     public String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
-    public Gson gson;
-    public File file;
-    public Reader readFile;
 
     @BeforeEach
     public void setup() {
-        gson = new Gson();
-
-        timeTable = new TimeTable(2020, 0);
-        timeTable.setTimePref(timeTableTimeArr);
+        timeTable = new TimeTable(2020, 0, timeTableTimeArr, true);
+        try {
+            timeTable.addCourse("CPSC", "210");
+        } catch (Exception e) {
+            fail();
+        }
     }
 
     @Test
     public void testAddCourseValid() {
-        try {
-            timeTable.addCourse("CPSC", "210");
-        }
-        catch (Exception e) {
-            e.printStackTrace();
-            fail();
-        }
-
-        file = new File("data\\2020W\\CPSC\\CPSC 210.json");
-        try {
-            readFile = new FileReader(file);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        Course cpscCourse = gson.fromJson(readFile, Course.class);
-        cpscCourse.setTimeTable(timeTable);
-        cpscCourse.addAllSections();
-        cpscCourse.countActivity();
-
         Course courseFromTT = timeTable.getCourseList().get(0);
-        assertEquals(cpscCourse.getCourseNum(), courseFromTT.getCourseNum());
-        assertEquals(cpscCourse.getSubjectCode(), courseFromTT.getSubjectCode());
-        assertEquals(cpscCourse.getAllSection().get(0).getSection(),
-                        courseFromTT.getAllSection().get(0).getSection());
+        assertEquals("210", courseFromTT.getCourseNum());
+        assertEquals("CPSC", courseFromTT.getSubjectCode());
+        assertEquals("CPSC 210 L1F", courseFromTT.getAllSection().get(0).getSection());
     }
 
     @Test
     public void testSetTimePref() {
-        timeTable.setTimePref(timeTableTimeArr);
         assertEquals(timeTableTimeArr[0], timeTable.primaryTimePref);
         assertEquals(timeTableTimeArr[1], timeTable.secondaryTimePref);
         assertEquals(timeTableTimeArr[2], timeTable.tertiaryTimePref);
@@ -81,8 +52,8 @@ public class TimeTableTest {
 
     @Test
     public void testSummerInValid() {
-        TimeTable timeTable1 = new TimeTable(2021);
-        timeTable1.setWinterOrSummer(1);
+        TimeTable timeTable1 = new TimeTable(2021, 1, timeTableTimeArr, true);
+
         try {
             timeTable1.addCourse("BIOL", "112");
             fail();
