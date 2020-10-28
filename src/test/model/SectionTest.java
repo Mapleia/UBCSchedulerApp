@@ -140,6 +140,7 @@ public class SectionTest {
         assertEquals(5, section.getTimeSpans().get(0).getStart().getMonthValue());
     }
 
+
     @Test
     public void testSummerT2() {
         TimeTable timeTable2 = new TimeTable(2020, 1, timeTableTimeArr, true);
