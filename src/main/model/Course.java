@@ -6,6 +6,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.annotations.SerializedName;
 
+// Represents the general course offered by the institution, and has a list of sections.
 public class Course implements Comparable<Course> {
     @SerializedName("subject_code")
     private final String subjectCode;

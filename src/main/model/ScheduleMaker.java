@@ -3,6 +3,7 @@ package model;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// Represents the object that manipulates TimeTable to create the final product (list of sections).
 public class ScheduleMaker {
     private final TimeTable timeTable;
     private final List<Section> finalTimeTable;

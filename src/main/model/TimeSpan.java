@@ -8,6 +8,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+// Represents the time span of which each section takes on a particular day.
 public class TimeSpan implements Comparable<TimeSpan> {
     public static final String TIMEZONE = "America/Vancouver";
 

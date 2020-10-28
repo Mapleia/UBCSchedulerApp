@@ -9,6 +9,7 @@ import java.io.Reader;
 
 import java.util.ArrayList;
 
+// Represents the general information about their schedule, and stores selected courses.
 public class TimeTable {
     private final ArrayList<Course> courseList = new ArrayList<>();
     private boolean spreadClasses = false;
