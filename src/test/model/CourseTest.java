@@ -1,13 +1,9 @@
 package model;
 
-import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -19,8 +15,6 @@ class CourseTest {
     public Course course2;
     public TimeTable timeTable;
     public String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
-    File file;
-    Reader readFile;
 
     @BeforeEach
     public void setup() {
