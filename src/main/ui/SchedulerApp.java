@@ -30,6 +30,7 @@ public class SchedulerApp {
         // askClassSpread();
         askCourses();
         confirmCourses();
+        askRemoveCourses();
         printTimeTable();
     }
 
@@ -120,17 +121,37 @@ public class SchedulerApp {
         System.out.println("Would you like to add more?");
         if (input.nextLine().equalsIgnoreCase("yes")) {
             askCourses();
-        } else {
-            System.out.println("Would you like to remove some courses?");
-            if (input.nextLine().equalsIgnoreCase("yes")) {
-                System.out.println("Please enter the course by formatting it XXXX-###.");
+        }
+    }
+
+    private static void askRemoveCourses() {
+        boolean moreCourse = true;
+
+        String[] courseSplit;
+        String course;
+        System.out.println("Would you like to remove some courses?");
+        System.out.println("If so, please format the course in course code (XXXX) hyphen (-) then number (###). "
+                + "XXXX-###");
+
+        while (moreCourse) {
+            course = input.nextLine();
+            courseSplit = course.split("-");
+            try {
+                timeTable.removeCourse(courseSplit[0], courseSplit[1]);
+            } catch (NoCourseFound e) {
+                System.out.println(course + " not found.");
+            } catch (Exception e) {
+                e.printStackTrace();
             }
+
+            System.out.println("Do you have any more courses to add? (yes / no)");
+            moreCourse = input.nextLine().equalsIgnoreCase("yes");
         }
     }
 
     // REQUIRES: course list size > 0.
     // EFFECT: Print out finished timetable.
-    public static void printTimeTable() {
+    private static void printTimeTable() {
         ScheduleMaker scheduleMaker = new ScheduleMaker(timeTable);
 
         System.out.println("Creating your sample timetable. Please wait.");
@@ -152,6 +173,7 @@ public class SchedulerApp {
                 System.out.println("There has seem to be no possible sections found for the following:");
                 for (String s: keySet) {
                     System.out.println(s + ": " + scheduleMaker.errorLog.get(s));
+
                 }
             }
 

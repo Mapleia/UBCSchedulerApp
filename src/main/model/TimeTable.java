@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import exceptions.NoCourseFound;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.Reader;
 
@@ -74,7 +75,7 @@ public class TimeTable {
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
-    public void addCourse(String courseCode, String courseNum) throws Exception {
+    public void addCourse(String courseCode, String courseNum) throws NoCourseFound, FileNotFoundException {
         // Gson code referenced http://tutorials.jenkov.com/java-json/gson.html.
         String path;
 
@@ -98,8 +99,13 @@ public class TimeTable {
         }
     }
 
-    public void removeCourse(String courseCode, String courseNum) {
-        courseList.remove(new Course(courseCode, courseNum));
+    public void removeCourse(String courseCode, String courseNum) throws NoCourseFound {
+        Course removedCourse = new Course(courseCode, courseNum);
+        if (courseList.indexOf(removedCourse) < 0) {
+            throw new NoCourseFound();
+        } else {
+            courseList.remove(removedCourse);
+        }
     }
 
 }
