@@ -12,7 +12,7 @@ public class TimeTableTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
         try {
             timeTable.addCourse("CPSC 210");
         } catch (Exception e) {
@@ -46,6 +46,7 @@ public class TimeTableTest {
         try {
             timeTable.addCourse("CPSS 210");
             Course course = timeTable.getCourse("CPSS 210");
+            System.out.println(course.getAllKeys());
             fail();
         } catch (Exception e){
             System.out.println("No course found.");
@@ -54,7 +55,7 @@ public class TimeTableTest {
 
     @Test
     public void testSummerInValid() {
-        TimeTable timeTable1 = new TimeTable(2021, 1, timeTableTimeArr);
+        TimeTable timeTable1 = new TimeTable(2021, false, timeTableTimeArr);
 
         try {
             timeTable1.addCourse("BIOL 112");
@@ -69,7 +70,10 @@ public class TimeTableTest {
         try {
             timeTable.getCourse("LFS 100");
             fail();
-        } catch (Exception e) {}
+        } catch (Exception e) {
+            System.out.println("Success!");
+
+        }
     }
 
     @Test
@@ -86,7 +90,10 @@ public class TimeTableTest {
         try {
             timeTable.removeCourse("LFS 100");
             fail();
-        } catch (Exception e) {}
+        } catch (Exception e) {
+            System.out.println("Success!");
+
+        }
     }
 
     @Test

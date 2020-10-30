@@ -2,7 +2,7 @@ package model;
 
 import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
-import exceptions.NoTimeSpamAdded;
+import exceptions.NoTimeSpanAdded;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -21,7 +21,7 @@ public class CourseTest {
 
     @BeforeEach
     public void setup() {
-        timeTableW = new TimeTable(2020, 0, PREFERENCE_ARRAY);
+        timeTableW = new TimeTable(2020, true, PREFERENCE_ARRAY);
 
         try {
             cpsc210 = Course.createCourse("CPSC", "210", timeTableW);
@@ -100,7 +100,7 @@ public class CourseTest {
             assertEquals(bioCourse, Course.createCourse("BIOL", "330", timeTableW));
             assertTrue(cpsc210.compareTo(bioCourse)> bioCourse.compareTo(cpsc210));
 
-        } catch (NoCourseFound | NoTimeSpamAdded e) {
+        } catch (NoCourseFound | NoTimeSpanAdded e) {
             fail("No bio course found.");
             e.printStackTrace();
         } catch (Exception e) {

@@ -15,7 +15,7 @@ public class JsonWriterTest {
     @BeforeEach
     public void setup() {
         timeTableTimeArr =  new String[]{"Afternoon", "Evening", "Morning"};
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
     }
 
 
@@ -56,6 +56,8 @@ public class JsonWriterTest {
             JsonWriter.saveFile(scheduleMaker, "TRYME");
             fail();
         } catch (Exception e) {
+            System.out.println("Success!");
+
         }
     }
 }

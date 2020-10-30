@@ -17,7 +17,7 @@ public class JsonReader {
             throws NoCourseFound, IOException {
         String path;
 
-        if (table.winterOrSummer == 0) {
+        if (table.isWinter) {
             path = "data\\" + table.yearFall + "W" + "\\" + code + "\\" + code + " " + number + ".json";
         } else {
             path = "data\\" + table.yearSummer + "S" + "\\" + code + "\\" + code + " " + number + ".json";

@@ -1,6 +1,5 @@
 package model;
 
-import exceptions.NoTimeSpamAdded;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -17,11 +16,10 @@ public class Section {
     private final List<TimeSpan> timeSpans;
     private final TimeTable timeTable;
     private boolean crucialFieldsBlank = false;
-    private boolean doubleTerm = false;
 
     // constructor
     public Section(String status, String section, String start, String end, String activity, String term, String days,
-                   TimeTable timeTable) throws NoTimeSpamAdded {
+                   TimeTable timeTable) {
         this.status = status;
         this.section = section;
         this.start = start;
@@ -99,7 +97,7 @@ public class Section {
         return section.hashCode() * activity.hashCode();
     }
 
-    public static Section createSection(JSONObject obj, TimeTable table) throws NoTimeSpamAdded {
+    public static Section createSection(JSONObject obj, TimeTable table) {
         String status = obj.getString("status");
         String section = obj.getString("section");
         String activity = obj.getString("activity");
@@ -177,54 +175,52 @@ public class Section {
     // REQUIRES: crucialFieldsBlank to be already set.
     // MODIFIES: this.
     // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
-    private void formatDatesAndTime() throws NoTimeSpamAdded {
+    private void formatDatesAndTime() {
         if (!crucialFieldsBlank) {
-            TimeSpan timeSpan;
             String[] daysArr = days.trim().split(" ");
 
             for (String s : daysArr) {
-                if (timeTable.winterOrSummer == 0) {
-                    if (term.equals("1-2")) {
-                        for (int i = 0; i < 2; i++) {
-                            timeSpan = winterTimeSpan(s);
-                            timeSpans.add(timeSpan);
-                        }
-                    }
-                    timeSpan = winterTimeSpan(s);
-                } else if (timeTable.winterOrSummer == 1) {
-                    timeSpan = summerTimeSpan(s);
+                if (timeTable.isWinter) {
+                    timeSpans.addAll(winterTimeSpan(s));
                 } else {
-                    throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
+                    timeSpans.addAll(summerTimeSpan(s));
                 }
-                timeSpans.add(timeSpan);
             }
+
             Collections.sort(timeSpans);
         }
     }
 
-    private TimeSpan winterTimeSpan(String s) throws NoTimeSpamAdded {
-        switch (term) {
-            case "1":
-                return new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
+    private List<TimeSpan> winterTimeSpan(String s) {
+        List<TimeSpan> list = new ArrayList<>();
 
+        switch (term) {
             case "2":
-                return new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
+                list.add(new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING));
+                return list;
             case "1-2":
-                doubleTerm = true;
-                term = "2";
-                return new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
-            default:
-                throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
+                list.add(new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL));
+                list.add(new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING));
+                return list;
+            default: // term 1
+                list.add(new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL));
+                return list;
         }
     }
 
-    private TimeSpan summerTimeSpan(String s) throws NoTimeSpamAdded {
-        if (term.equals("1")) {
-            return new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
-        } else if (term.equals("2")) {
-            return new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
-        } else {
-            throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
+    private List<TimeSpan> summerTimeSpan(String s)  {
+        List<TimeSpan> list = new ArrayList<>();
+        switch (term) {
+            case "2":
+                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2));
+                return list;
+            case "1-2":
+                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1));
+                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2));
+                return list;
+            default: // term 1
+                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1));
+                return list;
         }
     }
 

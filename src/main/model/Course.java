@@ -5,7 +5,7 @@ import java.util.*;
 
 import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
-import exceptions.NoTimeSpamAdded;
+import exceptions.NoTimeSpanAdded;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import persistence.JsonReader;
@@ -25,7 +25,7 @@ public class Course implements Comparable<Course> {
     private boolean hasTerm2 = false;
 
     // Constructors
-    public Course(String subjectCode, String courseNum, JSONObject json, TimeTable timeTable) throws NoTimeSpamAdded {
+    public Course(String subjectCode, String courseNum, JSONObject json, TimeTable timeTable) {
         this.subjectCode = subjectCode;
         this.courseNum = courseNum;
         this.jsonSection = json;
@@ -85,12 +85,12 @@ public class Course implements Comparable<Course> {
     }
 
     public static Course createCourse(String c, String n, TimeTable t)
-            throws NoCourseFound, NoTimeSpamAdded, IOException {
+            throws NoCourseFound, NoTimeSpanAdded, IOException {
         JSONObject obj = JsonReader.findCourseFile(c, n, t);
         return parseFromJsonObject(obj, t);
     }
 
-    private static Course parseFromJsonObject(JSONObject obj, TimeTable table) throws NoTimeSpamAdded {
+    private static Course parseFromJsonObject(JSONObject obj, TimeTable table) throws NoTimeSpanAdded {
         return new Course(obj.getString("subject_code"),
                 obj.getString("course_number"),
                 obj.getJSONObject("sections"),
@@ -99,7 +99,7 @@ public class Course implements Comparable<Course> {
 
     // MODIFIES: this
     // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
-    private void addAllSections() throws NoTimeSpamAdded {
+    private void addAllSections() {
         JSONArray allNames = jsonSection.names();
 
         for (int i = 0; i < allNames.length(); i++) {

@@ -1,13 +1,10 @@
 package persistence;
 
-import exceptions.NoCourseFound;
 import model.ScheduleMaker;
 import model.TimeTable;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import java.io.IOException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -17,7 +14,7 @@ public class JsonReaderTest {
     @BeforeEach
     public void setup() {
         timeTableTimeArr =  new String[]{"Afternoon", "Evening", "Morning"};
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
     }
 
 
@@ -35,12 +32,13 @@ public class JsonReaderTest {
 
     @Test
     public void testFindCourseFileException() {
-        timeTable = new TimeTable(2020, 1, timeTableTimeArr);
+        timeTable = new TimeTable(2020, false, timeTableTimeArr);
         try {
             assertEquals("CPSC 210", JsonReader.findCourseFile("CPSC", "210", timeTable)
                     .getString("course_name"));
             fail();
         } catch (Exception e) {
+            System.out.println("Success!");
         }
     }
 
@@ -76,6 +74,7 @@ public class JsonReaderTest {
             JsonReader.findSavedFile("FIND_ME4");
             fail();
         } catch (Exception e) {
+            System.out.println("Success!");
 
         }
 

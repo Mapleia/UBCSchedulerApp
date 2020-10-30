@@ -2,7 +2,7 @@ package model;
 
 
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpamAdded;
+import exceptions.NoTimeSpanAdded;
 
 import java.io.IOException;
 import java.util.TreeMap;
@@ -15,7 +15,7 @@ public class TimeTable {
     public String secondaryTimePref;
     public String tertiaryTimePref;
 
-    public int winterOrSummer; // 0 = Winter, 1 = Summer
+    public boolean isWinter; // 0 = Winter, 1 = Summer
     public int yearFall;
     public int yearSpring;
     public int yearSummer;
@@ -26,11 +26,11 @@ public class TimeTable {
     public static final int TERM_SUMMER2 = 7;
 
     // constructor
-    public TimeTable(int year, int winterOrSummer, String[] preferenceArray) {
+    public TimeTable(int year, boolean isWinter, String[] preferenceArray) {
         this.yearFall = year;
         this.yearSpring = year + 1;
         this.yearSummer = year;
-        this.winterOrSummer = winterOrSummer;
+        this.isWinter = isWinter;
 
         this.primaryTimePref = preferenceArray[0];
         this.secondaryTimePref = preferenceArray[1];
@@ -54,7 +54,7 @@ public class TimeTable {
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
-    public void addCourse(String input) throws NoCourseFound, NoTimeSpamAdded, IOException {
+    public void addCourse(String input) throws NoCourseFound, NoTimeSpanAdded, IOException {
         String[] inputArr = input.split(" ");
         courseList.putIfAbsent(input, Course.createCourse(inputArr[0], inputArr[1], this));
     }

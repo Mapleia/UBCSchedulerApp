@@ -1,7 +1,7 @@
 package model;
 
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpamAdded;
+import exceptions.NoTimeSpanAdded;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -21,7 +21,7 @@ public class ScheduleMakerTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
 
         try {
             timeTable.addCourse("CPSC 210");
@@ -51,7 +51,7 @@ public class ScheduleMakerTest {
 
     @Test
     public void testErrorLog() {
-        TimeTable newTimetable = new TimeTable(2020, 0, timeTableTimeArr);
+        TimeTable newTimetable = new TimeTable(2020, true, timeTableTimeArr);
 
         try {
             newTimetable.addCourse("ACAM 250");
@@ -80,7 +80,7 @@ public class ScheduleMakerTest {
         } catch (NoCourseFound n) {
             n.printCourse();
             fail();
-        } catch (NoTimeSpamAdded t) {
+        } catch (NoTimeSpanAdded t) {
             t.printTerm();
             fail();
         } catch (Exception e) {
@@ -117,7 +117,7 @@ public class ScheduleMakerTest {
     @Test
     public void testOtherPreferences() {
         timeTableTimeArr = new String[]{"Evening", "Morning", "Afternoon"};
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
 
         try {
             timeTable.addCourse("CPSC 210");
@@ -143,7 +143,7 @@ public class ScheduleMakerTest {
     @Test
     public void testAddLotOfCrucialBlanks() {
         try {
-            TimeTable timeTableSM = new TimeTable(2020, 0, timeTableTimeArr);
+            TimeTable timeTableSM = new TimeTable(2020, true, timeTableTimeArr);
 
             timeTableSM.addCourse("LFS 100");
             timeTableSM.addCourse("LFS 150");
@@ -153,7 +153,7 @@ public class ScheduleMakerTest {
             ScheduleMaker sm = new ScheduleMaker(timeTableSM, "userSM");
 
             List<Section> table = sm.getFinalTimeTable();
-            assertTrue(sm.getFinalTimeTable().contains(timeTableSM.getCourse("LFS 100").get("LFS 100 XMT")));
+            assertTrue(table.contains(timeTableSM.getCourse("LFS 100").get("LFS 100 XMT")));
         } catch (Exception e) {
             fail();
         }
@@ -172,7 +172,6 @@ public class ScheduleMakerTest {
             timeTable.addCourse("BIOL 155");
             ScheduleMaker sm = new ScheduleMaker(timeTable, "userSM");
 
-            List<Section> table = sm.getFinalTimeTable();
             assertTrue(sm.noTypeDupeList.contains("CPSC 210 Web-Oriented Course"));
         } catch (Exception e) {
             fail();

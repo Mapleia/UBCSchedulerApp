@@ -1,11 +1,9 @@
 package model;
 
-import jdk.jfr.Timespan;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.*;
-import java.util.Set;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.fail;
@@ -18,7 +16,7 @@ public class TimeSpanTest {
 
     @BeforeEach
     public void setup() {
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
          try {
             b112 = Course.createCourse("BIOL","112", timeTable);
             timeSpan112 = b112.get("BIOL 112 101").getTimeSpans().get(0);
@@ -91,6 +89,7 @@ public class TimeSpanTest {
         assertFalse(TimeSpan.isOverlapping(timeSpan112, timeSpan));
         assertFalse(TimeSpan.isOverlapping(timeSpan112, timeSpanSat));
         assertFalse(TimeSpan.isOverlapping(timeSpan112, timeSpanSun));
+        assertFalse(TimeSpan.isOverlapping(timeSpan112, timeSpanMon));
 
 
     }

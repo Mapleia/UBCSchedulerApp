@@ -12,8 +12,7 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class FileFormatTest {
     FileFormat file;
@@ -21,7 +20,7 @@ public class FileFormatTest {
     @BeforeEach
     public void setup() {
         String[] timeTableTimeArr = {"Afternoon", "Evening", "Morning"};
-        timeTable = new TimeTable(2020, 0, timeTableTimeArr);
+        timeTable = new TimeTable(2020, true, timeTableTimeArr);
 
         try {
             timeTable.addCourse("CPSC 210");
@@ -48,10 +47,9 @@ public class FileFormatTest {
             sections.add(timeTable.getCourse("BIOL 200").get("BIOL 200 103"));
             sections.add(timeTable.getCourse("BIOL 140").get("BIOL 140 1B1"));
 
-        } catch (NoSectionFound noSectionFound) {
-            noSectionFound.printStackTrace();
-        } catch (NoCourseFound noCourseFound) {
-            noCourseFound.printStackTrace();
+        } catch (NoSectionFound | NoCourseFound n) {
+            n.printStackTrace();
+            fail();
         }
 
         assertEquals("user", file.getUserName());

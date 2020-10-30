@@ -1,7 +1,7 @@
 package ui;
 
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpamAdded;
+import exceptions.NoTimeSpanAdded;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;
@@ -20,7 +20,7 @@ public class SchedulerApp {
 
     private static String userName;
     private static final int year = LocalDateTime.now().getYear();
-    private static int winterOrSummer;
+    private static boolean isWinter;
     private static String[] timePreferences;
 
     private static boolean hasFile = false;
@@ -75,11 +75,7 @@ public class SchedulerApp {
     // EFFECTS: Gathers the term that the user is looking for.
     public static void askTerm() {
         System.out.println("Is this a winter terms or summer terms? (w / s)");
-        if (input.nextLine().equalsIgnoreCase("W")) {
-            winterOrSummer = 0;
-        } else {
-            winterOrSummer = 1;
-        }
+        isWinter = input.nextLine().equalsIgnoreCase("W");
     }
 
     // MODIFIES: timeTable, this.
@@ -103,9 +99,8 @@ public class SchedulerApp {
     // MODIFIES: timeTable, this.
     // EFFECT: Ask user to input courses to be added to their schedule.
     public static void askCourses() {
-        timeTable = new TimeTable(year, winterOrSummer, timePreferences);
+        timeTable = new TimeTable(year, isWinter, timePreferences);
 
-        boolean moreCourse = true;
         System.out.println("Please enter the courses that you'd like to be have in your schedule.");
         System.out.println("Please format the course in course code (XXXX) space ' ' then number (###). XXXX ###");
         System.out.println("If you have multiple courses to add, please list them and differentiate using"
@@ -113,10 +108,16 @@ public class SchedulerApp {
         System.out.println("EX: CPSC 210, BIOL 200, CHEM 233");
         System.out.println("If you have no more courses to add, please enter 'skip'. ");
         hasFileAddCourses();
+        whileHasMoreCourse();
+
+
+    }
+
+    private static void whileHasMoreCourse() {
+        boolean moreCourse = true;
 
         while (moreCourse) {
             if (input.nextLine().equalsIgnoreCase("skip")) {
-                moreCourse = false;
                 break;
             }
             String course = input.nextLine();
@@ -133,7 +134,6 @@ public class SchedulerApp {
             System.out.println("Do you have any more courses to add? (yes / no)");
             moreCourse = input.nextLine().equalsIgnoreCase("yes");
         }
-
     }
 
     private static void hasFileAddCourses() {
@@ -155,7 +155,7 @@ public class SchedulerApp {
             timeTable.addCourse(str);
         } catch (NoCourseFound noCourseFound) {
             noCourseFound.printCourse();
-        } catch (NoTimeSpamAdded t) {
+        } catch (NoTimeSpanAdded t) {
             t.printTerm();
         } catch (Exception e) {
             e.printStackTrace();
