@@ -1,7 +1,6 @@
 package ui;
 
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpanAdded;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;
@@ -155,8 +154,6 @@ public class SchedulerApp {
             timeTable.addCourse(str);
         } catch (NoCourseFound noCourseFound) {
             noCourseFound.printCourse();
-        } catch (NoTimeSpanAdded t) {
-            t.printTerm();
         } catch (Exception e) {
             e.printStackTrace();
         }

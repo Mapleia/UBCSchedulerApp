@@ -1,7 +1,6 @@
 package model;
 
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpanAdded;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -28,6 +27,7 @@ public class ScheduleMakerTest {
             timeTable.addCourse("MATH 103");
             timeTable.addCourse("BIOL 200");
             timeTable.addCourse("BIOL 140");
+            timeTable.addCourse("LFS 100");
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -79,9 +79,6 @@ public class ScheduleMakerTest {
             assertTrue(scheduleMaker2.getErrorLog().size()> 0);
         } catch (NoCourseFound n) {
             n.printCourse();
-            fail();
-        } catch (NoTimeSpanAdded t) {
-            t.printTerm();
             fail();
         } catch (Exception e) {
             fail();

@@ -5,7 +5,6 @@ import java.util.*;
 
 import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
-import exceptions.NoTimeSpanAdded;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import persistence.JsonReader;
@@ -85,12 +84,12 @@ public class Course implements Comparable<Course> {
     }
 
     public static Course createCourse(String c, String n, TimeTable t)
-            throws NoCourseFound, NoTimeSpanAdded, IOException {
+            throws NoCourseFound, IOException {
         JSONObject obj = JsonReader.findCourseFile(c, n, t);
         return parseFromJsonObject(obj, t);
     }
 
-    private static Course parseFromJsonObject(JSONObject obj, TimeTable table) throws NoTimeSpanAdded {
+    private static Course parseFromJsonObject(JSONObject obj, TimeTable table) {
         return new Course(obj.getString("subject_code"),
                 obj.getString("course_number"),
                 obj.getJSONObject("sections"),

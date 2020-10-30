@@ -1,8 +1,6 @@
 package model;
 
-
 import exceptions.NoCourseFound;
-import exceptions.NoTimeSpanAdded;
 
 import java.io.IOException;
 import java.util.TreeMap;
@@ -54,7 +52,7 @@ public class TimeTable {
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
-    public void addCourse(String input) throws NoCourseFound, NoTimeSpanAdded, IOException {
+    public void addCourse(String input) throws NoCourseFound, IOException {
         String[] inputArr = input.split(" ");
         courseList.putIfAbsent(input, Course.createCourse(inputArr[0], inputArr[1], this));
     }

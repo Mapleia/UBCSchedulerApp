@@ -1,8 +1,6 @@
 package model;
 
-import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
-import exceptions.NoTimeSpanAdded;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -100,9 +98,6 @@ public class CourseTest {
             assertEquals(bioCourse, Course.createCourse("BIOL", "330", timeTableW));
             assertTrue(cpsc210.compareTo(bioCourse)> bioCourse.compareTo(cpsc210));
 
-        } catch (NoCourseFound | NoTimeSpanAdded e) {
-            fail("No bio course found.");
-            e.printStackTrace();
         } catch (Exception e) {
             fail();
         }
