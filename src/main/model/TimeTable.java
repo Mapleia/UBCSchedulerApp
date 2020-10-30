@@ -60,11 +60,15 @@ public class TimeTable {
     }
 
     public void removeCourse(String course) throws NoCourseFound {
-        if (!courseList.containsKey(course)) {
-            String[] arr = course.split(" ");
+        String[] arr = course.split(" ");
+        Course hasKey;
+        try {
+            hasKey = courseList.remove(course);
+            if (hasKey == null) {
+                throw new NoCourseFound(arr[0], arr[1]);
+            }
+        } catch (Exception e) {
             throw new NoCourseFound(arr[0], arr[1]);
-        } else {
-            courseList.remove(course);
         }
     }
 

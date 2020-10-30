@@ -21,7 +21,7 @@ public class TimeTableTest {
     }
 
     @Test
-    public void testAddCourseValid() {
+    public void testGetCourseValid() {
         Course courseFromTT = null;
         try {
             courseFromTT = timeTable.getCourse("CPSC 210");
@@ -32,6 +32,26 @@ public class TimeTableTest {
         assertEquals("210", courseFromTT.getCourseNum());
         assertEquals("CPSC", courseFromTT.getSubjectCode());
         assertTrue(courseFromTT.contains("CPSC 210 L1F"));
+    }
+
+    @Test
+    public void testAddCourseValid() {
+        try {
+            timeTable.addCourse("BIOL 155");
+            assertEquals("BIOL", timeTable.getCourse("BIOL 155").getSubjectCode());
+        } catch (Exception e) {
+            fail();
+        }
+    }
+
+    @Test
+    public void testAlreadyThere() {
+        try {
+            timeTable.addCourse("CPSC 210");
+        } catch (Exception e) {
+            fail();
+            e.printStackTrace();
+        }
     }
 
     @Test

@@ -176,6 +176,12 @@ public class ScheduleMakerTest {
         } catch (Exception e) {
             fail();
         }
+    }
 
+    @Test
+    public void noCourses() {
+        TimeTable tt = new TimeTable(2020, true, timeTableTimeArr);
+        ScheduleMaker sm = new ScheduleMaker(tt, "user");
+        assertTrue(sm.getFinalTimeTable().isEmpty());
     }
 }

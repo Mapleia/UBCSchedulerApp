@@ -42,20 +42,9 @@ public class SectionTest {
             sectionL1U = cpsc210.get(cpsc210L1U[0]);
             sectionT = Section.createSection(obj.getJSONObject("sections").getJSONObject("L1U"), timeTableW);
 
-        } catch (NoCourseFound e) {
+        } catch (Exception e) {
             fail("No course found, setup failed.");
             e.printStackTrace();
-        } catch (JSONException e) {
-            fail("Failed to get JSONObject.");
-            e.printStackTrace();
-        } catch (NoSectionFound n) {
-            fail("Fail to find section.");
-            n.printStackTrace();
-        } catch (NoTimeSpanAdded t) {
-            fail("Fail to make timespan, no term.");
-            t.printStackTrace();
-        } catch (Throwable e) {
-            fail();
         }
     }
 
