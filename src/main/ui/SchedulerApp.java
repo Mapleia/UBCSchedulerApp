@@ -1,17 +1,17 @@
 package ui;
 
 import exceptions.NoCourseFound;
-import model.Course;
+import exceptions.NoTimeSpamAdded;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;
+import org.json.JSONObject;
+import persistence.JsonReader;
 import persistence.JsonWriter;
 
+import java.io.IOException;
 import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-import java.util.Set;
+import java.util.*;
 
 public class SchedulerApp {
     private static final Scanner input = new Scanner(System.in);
@@ -22,14 +22,17 @@ public class SchedulerApp {
     private static final int year = LocalDateTime.now().getYear();
     private static int winterOrSummer;
     private static String[] timePreferences;
-    private static boolean spreadClasses = true;
+
+    private static boolean hasFile = false;
+    private static JSONObject savedFile;
 
     // constructor
     public SchedulerApp() {
+        loadFromSaveFile();
         askName();
         askTerm();
         askTimePreference();
-        // askClassSpread();
+
 
         askCourses();
         confirmCourses();
@@ -39,22 +42,39 @@ public class SchedulerApp {
     }
 
     public static void loadFromSaveFile() {
+        System.out.println("Welcome! Do you have a saved file to work from?");
+        if (input.nextLine().equalsIgnoreCase("yes")) {
+            hasFile = true;
+            System.out.println("Please enter your file name (no file extension needed).");
+            try {
+                savedFile = JsonReader.findSavedFile(input.nextLine());
+                userName = savedFile.get("username").toString();
 
+            } catch (Exception e) {
+                e.printStackTrace();
+                System.out.println("No file found.");
+                System.exit(1);
+            }
+
+        }
     }
 
 
     // MODIFIES: this.
     // EFFECTS: Gathers user's name.
     public static void askName() {
-        System.out.println("Welcome to UBC Course Scheduler for " + year +  ". What is your name?");
-        userName = input.nextLine();
-
+        if (hasFile) {
+            System.out.println("Welcome back " + userName + "!");
+        } else {
+            System.out.println("Welcome to UBC Course Scheduler for " + year +  ". What is your name?");
+            userName = input.nextLine();
+        }
     }
 
     // MODIFIES: timeTable and this.
     // EFFECTS: Gathers the term that the user is looking for.
     public static void askTerm() {
-        System.out.println("Hello " + userName + "! Is this a winter terms or summer terms? (w / s)");
+        System.out.println("Is this a winter terms or summer terms? (w / s)");
         if (input.nextLine().equalsIgnoreCase("W")) {
             winterOrSummer = 0;
         } else {
@@ -81,35 +101,32 @@ public class SchedulerApp {
     }
 
     // MODIFIES: timeTable, this.
-    // EFFECT: Ask if they'd rather have their class spread out or concentrated on a couple of days.
-    public static void askClassSpread() {
-        String preference;
-        System.out.println("Would you like to have your classes spread out over the week?");
-        System.out.println("If no, schedule will concentrate classes on either MON/WED/FRI or TUES/THURS.");
-        preference = input.nextLine();
-        spreadClasses = preference.equalsIgnoreCase("yes");
-    }
-
-    // MODIFIES: timeTable, this.
     // EFFECT: Ask user to input courses to be added to their schedule.
     public static void askCourses() {
-        timeTable = new TimeTable(year, winterOrSummer, timePreferences, spreadClasses);
+        timeTable = new TimeTable(year, winterOrSummer, timePreferences);
 
         boolean moreCourse = true;
         System.out.println("Please enter the courses that you'd like to be have in your schedule.");
-        System.out.println("Please format the course in course code (XXXX) hyphen (-) then number (###). XXXX-###");
+        System.out.println("Please format the course in course code (XXXX) space ' ' then number (###). XXXX ###");
         System.out.println("If you have multiple courses to add, please list them and differentiate using"
-                + " {, }");
-        System.out.println("EX: CPSC-210, BIOL-200, CHEM-233");
+                + " (, )");
+        System.out.println("EX: CPSC 210, BIOL 200, CHEM 233");
+        System.out.println("If you have no more courses to add, please enter 'skip'. ");
+        hasFileAddCourses();
+
         while (moreCourse) {
+            if (input.nextLine().equalsIgnoreCase("skip")) {
+                moreCourse = false;
+                break;
+            }
             String course = input.nextLine();
             if (course.length() > 8) {
                 System.out.println("List detected.");
-                String[] courseListString = course.split(", ");
-                for (String str : courseListString) {
+                String[] courseListString = course.split(",");
+                String[] arr = Arrays.stream(courseListString).map(String::trim).toArray(String[]::new);
+                for (String str : arr) {
                     courseAddTry(str);
                 }
-                System.out.println("All courses added.");
             } else {
                 courseAddTry(course);
             }
@@ -119,47 +136,56 @@ public class SchedulerApp {
 
     }
 
+    private static void hasFileAddCourses() {
+        if (hasFile) {
+            List<Object> courseObj = savedFile.getJSONArray("courses").toList();
+            for (Object o : courseObj) {
+                try {
+                    timeTable.addCourse(o.toString());
+                } catch (Exception e) {
+                    System.out.println("Error found.");
+                }
+            }
+        }
+    }
+
+
     private static void courseAddTry(String str) {
-        String[] courseSplit = str.split("-");
         try {
-            timeTable.addCourse(courseSplit[0], courseSplit[1]);
-            System.out.println(str + " added.");
-        } catch (NoCourseFound e) {
-            System.out.println(str + " not found.");
+            timeTable.addCourse(str);
+        } catch (NoCourseFound noCourseFound) {
+            noCourseFound.printCourse();
+        } catch (NoTimeSpamAdded t) {
+            t.printTerm();
         } catch (Exception e) {
             e.printStackTrace();
         }
+        System.out.println(str + " added.");
     }
 
     // EFFECT: Prints out and confirm list of courses to the user.
     private static void confirmCourses() {
         System.out.println("Here are all your courses.");
-        ArrayList<Course> allCourses = timeTable.getCourseList();
-        for (Course c : allCourses) {
-            System.out.println(c.getSubjectCode() + "-" + c.getCourseNum());
-        }
-        System.out.println("Would you like to add more?");
-        if (input.nextLine().equalsIgnoreCase("yes")) {
-            askCourses();
+        Set<String> allCourses = timeTable.getCourseList().keySet();
+        for (String c : allCourses) {
+            System.out.println(c);
         }
     }
 
     private static void askRemoveCourses() {
         boolean moreCourse = true;
 
-        String[] courseSplit;
         String course;
         System.out.println("Would you like to remove some courses? (yes / no)");
         if (input.nextLine().equalsIgnoreCase("yes")) {
-            System.out.println("If so, please format the course in course code (XXXX) hyphen (-) then number (###). "
-                    + "XXXX-###");
+            System.out.println("If so, please format the course in course code (XXXX) space ( ) then number (###). "
+                    + "XXXX ###");
 
             while (moreCourse) {
                 course = input.nextLine();
-                courseSplit = course.split("-");
                 try {
-                    timeTable.removeCourse(courseSplit[0], courseSplit[1]);
-                } catch (NoCourseFound e) {
+                    timeTable.removeCourse(course);
+                } catch (NullPointerException e) {
                     System.out.println(course + " not found.");
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -208,7 +234,11 @@ public class SchedulerApp {
         if (input.nextLine().equalsIgnoreCase("YES")) {
             System.out.println("Please name your file:");
             String fileName = input.nextLine();
-            JsonWriter.saveFile(scheduleMaker, fileName);
+            try {
+                JsonWriter.saveFile(scheduleMaker, fileName);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         } else {
             System.out.println("Thank you for using UBC Course Scheduler! Have a nice day.");
             System.exit(0);

@@ -1,17 +1,15 @@
 package model;
 
-import com.google.common.base.Charsets;
-import com.google.common.io.Files;
-import exceptions.NoCourseFound;
-import org.json.JSONObject;
 
-import java.io.File;
-import java.util.ArrayList;
+import exceptions.NoCourseFound;
+import exceptions.NoTimeSpamAdded;
+
+import java.io.IOException;
+import java.util.TreeMap;
 
 // Represents the general information about their schedule, and stores selected courses.
 public class TimeTable {
-    private final ArrayList<Course> courseList = new ArrayList<>();
-    private boolean spreadClasses;
+    private final TreeMap<String, Course> courseList = new TreeMap<>();
 
     public String primaryTimePref;
     public String secondaryTimePref;
@@ -28,7 +26,7 @@ public class TimeTable {
     public static final int TERM_SUMMER2 = 7;
 
     // constructor
-    public TimeTable(int year, int winterOrSummer, String[] preferenceArray, boolean spreadClasses) {
+    public TimeTable(int year, int winterOrSummer, String[] preferenceArray) {
         this.yearFall = year;
         this.yearSpring = year + 1;
         this.yearSummer = year;
@@ -37,86 +35,36 @@ public class TimeTable {
         this.primaryTimePref = preferenceArray[0];
         this.secondaryTimePref = preferenceArray[1];
         this.tertiaryTimePref = preferenceArray[2];
-
-        this.spreadClasses = spreadClasses;
     }
 
     // getters
-    public ArrayList<Course> getCourseList() {
+    public Course getCourse(String course) throws NoCourseFound {
+        if (!courseList.containsKey(course)) {
+            String[] arr = course.split(" ");
+            throw new NoCourseFound(arr[0], arr[1]);
+        } else {
+            return courseList.get(course);
+        }
+    }
+
+    public TreeMap<String, Course> getCourseList() {
         return courseList;
     }
 
-    public boolean getSpreadClasses() {
-        return spreadClasses;
-    }
-
-    // setters
-    public void setSpreadClasses(Boolean choice) {
-        spreadClasses = choice;
-    }
-
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
-    public void addCourse(String courseCode, String courseNum) throws Exception {
-        String path;
-        if (winterOrSummer == 0) {
-            path = "data\\" + yearFall + "W" + "\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
-        } else {
-            path = "data\\" + yearSummer + "S" + "\\" + courseCode + "\\" + courseCode + " " + courseNum + ".json";
-        }
-        File file = new File(path);
-        if (file.exists()) {
-            String jsonCourseString = Files.asCharSource(file, Charsets.UTF_8).read();
-            JSONObject obj = new JSONObject(jsonCourseString);
-            Course course = parseFromJsonObject(obj);
-            courseList.add(course);
-
-        } else {
-            throw new NoCourseFound();
-        }
-
-
-
-
+    public void addCourse(String input) throws NoCourseFound, NoTimeSpamAdded, IOException {
+        String[] inputArr = input.split(" ");
+        courseList.putIfAbsent(input, Course.createCourse(inputArr[0], inputArr[1], this));
     }
 
-    // REQUIRES: Valid course code, course number (both as a string) and format.
-    // MODIFIES: this
-    // EFFECT: Adds course to the list of courses.
-    public void addCourse(String input) throws Exception {
-        String[] inputArr = input.split("-");
-        String path;
-        if (winterOrSummer == 0) {
-            path = "data\\" + yearFall + "W" + "\\" + inputArr[0] + "\\" + inputArr[0] + " " + inputArr[1] + ".json";
+    public void removeCourse(String course) throws NoCourseFound {
+        if (!courseList.containsKey(course)) {
+            String[] arr = course.split(" ");
+            throw new NoCourseFound(arr[0], arr[1]);
         } else {
-            path = "data\\" + yearSummer + "S" + "\\" + inputArr[0] + "\\" + inputArr[0] + " " + inputArr[1] + ".json";
-        }
-        File file = new File(path);
-        if (file.exists()) {
-            String jsonCourseString = Files.asCharSource(file, Charsets.UTF_8).read();
-            JSONObject obj = new JSONObject(jsonCourseString);
-            Course course = parseFromJsonObject(obj);
-            courseList.add(course);
-
-        } else {
-            throw new NoCourseFound();
-        }
-    }
-
-    private Course parseFromJsonObject(JSONObject obj) {
-        return new Course(obj.getString("subject_code"),
-                obj.getString("course_number"),
-                obj.getJSONObject("sections"),
-                this);
-    }
-
-    public void removeCourse(String courseCode, String courseNum) throws NoCourseFound {
-        Course removedCourse = new Course(courseCode, courseNum);
-        if (!courseList.contains(removedCourse)) {
-            throw new NoCourseFound();
-        } else {
-            courseList.remove(removedCourse);
+            courseList.remove(course);
         }
     }
 

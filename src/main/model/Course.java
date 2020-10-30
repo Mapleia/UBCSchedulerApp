@@ -1,7 +1,12 @@
 package model;
 
+import java.io.IOException;
 import java.util.*;
 
+import exceptions.NoCourseFound;
+import exceptions.NoSectionFound;
+import exceptions.NoTimeSpamAdded;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import persistence.JsonReader;
 
@@ -9,32 +14,28 @@ import persistence.JsonReader;
 public class Course implements Comparable<Course> {
     private final String subjectCode;
     private final String courseNum;
+    private final JSONObject jsonSection;
 
-    private ArrayList<Section> allSection;
-    private HashMap<String, Integer> activitySize;
-    private HashMap<String, HashMap<String, ArrayList<Section>>> allActivities;
-    private int primaryCounter;
-    private TimeTable timeTable;
+    private final HashMap<String, Section> allSections;
+    private final Set<String> allKeys;
+    private final HashMap<String, HashMap<String, HashSet<Section>>> allActivities;
+    private final TimeTable timeTable;
 
     private boolean hasTerm1 = false;
     private boolean hasTerm2 = false;
 
     // Constructors
-    public Course(String subjectCode, String courseNum, JSONObject jsonSections, TimeTable timeTable) {
+    public Course(String subjectCode, String courseNum, JSONObject json, TimeTable timeTable) throws NoTimeSpamAdded {
         this.subjectCode = subjectCode;
         this.courseNum = courseNum;
+        this.jsonSection = json;
         this.timeTable = timeTable;
 
+        allSections = new HashMap<>();
         allActivities = new HashMap<>();
-        addAllSections(jsonSections);
-        countActivity();
-        countPrimary();
-    }
+        allKeys = new HashSet<>();
 
-    //Constructors
-    public Course(String subjectCode, String courseNum) {
-        this.subjectCode = subjectCode;
-        this.courseNum = courseNum;
+        addAllSections();  // allSections
     }
 
     // getters
@@ -46,20 +47,12 @@ public class Course implements Comparable<Course> {
         return courseNum;
     }
 
-    public ArrayList<Section> getAllSection() {
-        return allSection;
+    public Set<String> getAllKeys() {
+        return allKeys;
     }
 
-    public HashMap<String, HashMap<String, ArrayList<Section>>> getAllActivities() {
+    public HashMap<String, HashMap<String, HashSet<Section>>> getAllActivities() {
         return allActivities;
-    }
-
-    public HashMap<String, Integer> getActivitySize() {
-        return activitySize;
-    }
-
-    public int getPrimaryCounter() {
-        return primaryCounter;
     }
 
     public boolean isHasTerm1() {
@@ -70,36 +63,60 @@ public class Course implements Comparable<Course> {
         return hasTerm2;
     }
 
-    // MODIFIES: this
-    // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
-    private void addAllSections(JSONObject jsonSections) {
-        allSection = new ArrayList<>();
+    public boolean contains(String section) {
+        return allSections.containsKey(section);
+    }
 
-        for (int i = 0; i < jsonSections.names().length(); i++) {
-            JSONObject section = jsonSections.getJSONObject(jsonSections.names().getString(i));
-            Section sec = parseFromJsonObject(section);
-            String status = sec.getStatus();
-            containsTerms(sec);
+    public int size() {
+        return allSections.size();
+    }
 
-            if (!status.equalsIgnoreCase("STT")) {
-                allSection.add(sec);
-                mapActivity(sec);
-            }
+    public long preferenceSize(String time) {
+        return allSections.values().stream().filter(section -> section.getTimeSlot().equals(time)).count();
+    }
+
+    public Section get(String str) throws NoSectionFound {
+        Section section = allSections.get(str);
+        if (section == null) {
+            throw new NoSectionFound();
+        } else {
+            return section;
         }
     }
 
-    private Section parseFromJsonObject(JSONObject obj) {
-        String status = obj.getString("status");
-        String section = obj.getString("section");
-        String activity = obj.getString("activity");
-        String term = obj.getString("term");
-        String days = obj.getString("days");
-        String start = obj.getString("start");
-        String end = obj.getString("end");
+    public static Course createCourse(String c, String n, TimeTable t)
+            throws NoCourseFound, NoTimeSpamAdded, IOException {
+        JSONObject obj = JsonReader.findCourseFile(c, n, t);
+        return parseFromJsonObject(obj, t);
+    }
 
-        return new Section(status, section, start, end, activity, term, days, timeTable);
-        // String status, String section, String start, String end, String activity, String term, String days,
-        //                   TimeTable timeTable
+    private static Course parseFromJsonObject(JSONObject obj, TimeTable table) throws NoTimeSpamAdded {
+        return new Course(obj.getString("subject_code"),
+                obj.getString("course_number"),
+                obj.getJSONObject("sections"),
+                table);
+    }
+
+    // MODIFIES: this
+    // EFFECT: Create Section Java Object for every section from JSON data. Makes list based on available activities.
+    private void addAllSections() throws NoTimeSpamAdded {
+        JSONArray allNames = jsonSection.names();
+
+        for (int i = 0; i < allNames.length(); i++) {
+
+            String name = allNames.getString(i);
+            JSONObject obj = jsonSection.getJSONObject(name);
+
+            Section sec = Section.createSection(obj, timeTable);
+            allKeys.add(sec.getActivity());
+            containsTerms(sec);
+            if (!sec.getStatus().equalsIgnoreCase("STT")) {
+                allSections.put(sec.getSection(), sec);
+                mapActivity(sec);
+            }
+
+
+        }
     }
 
     // MODIFIES: this
@@ -116,7 +133,6 @@ public class Course implements Comparable<Course> {
     // MODIFIES: this
     // EFFECT: Adds to lists divided by activity type and time preference.
     private void mapActivity(Section section) {
-
         String time;
         if (section.isCrucialFieldsBlank()) {
             time = timeTable.primaryTimePref;
@@ -124,71 +140,36 @@ public class Course implements Comparable<Course> {
             time = section.getTimeSlot();
         }
 
-        String activityType = section.getActivity();
+        String typeName = section.getActivity();
 
-        HashMap<String, ArrayList<Section>> setOfActivity = new HashMap<>();
-        setOfActivity.putIfAbsent(timeTable.primaryTimePref, new ArrayList<>());
-        setOfActivity.putIfAbsent(timeTable.secondaryTimePref, new ArrayList<>());
-        setOfActivity.putIfAbsent(timeTable.tertiaryTimePref, new ArrayList<>());
+        // ======== SETUP ========
+        //      TYPE:
+        //          PRIMARY:   ();
+        //          SECONDARY: ();
+        //          TERTIARY:  ();
+        HashMap<String, HashSet<Section>> setOfActivity = new HashMap<>();
+        setOfActivity.putIfAbsent(timeTable.primaryTimePref, new HashSet<>());
+        setOfActivity.putIfAbsent(timeTable.secondaryTimePref, new HashSet<>());
+        setOfActivity.putIfAbsent(timeTable.tertiaryTimePref, new HashSet<>());
 
-        allActivities.putIfAbsent(activityType, setOfActivity);
+        allActivities.putIfAbsent(typeName, setOfActivity);
 
         if (time.equalsIgnoreCase(timeTable.primaryTimePref)) {
-            allActivities.get(activityType).get(timeTable.primaryTimePref).add(section);
+            allActivities.get(typeName).get(timeTable.primaryTimePref).add(section);
 
         } else if (time.equalsIgnoreCase(timeTable.secondaryTimePref)) {
-            allActivities.get(activityType).get(timeTable.secondaryTimePref).add(section);
+            allActivities.get(typeName).get(timeTable.secondaryTimePref).add(section);
 
         } else {
-            allActivities.get(activityType).get(timeTable.tertiaryTimePref).add(section);
+            allActivities.get(typeName).get(timeTable.tertiaryTimePref).add(section);
         }
-    }
-
-    // MODIFIES: this
-    // EFFECT: Counts the number of activities for each available type, and maps it.
-    private void countActivity() {
-        activitySize = new HashMap<>();
-
-        Set<String> allKeys = allActivities.keySet();
-        String[] timePrefs = {timeTable.primaryTimePref, timeTable.secondaryTimePref, timeTable.tertiaryTimePref};
-        /*
-         * (Activity1: [Primary: (Section1, Section2, Section3),
-         *              Secondary: (Section4, Section5),
-         *              Tertiary: (EMPTY)],
-         *  Activity2: [Primary: (Section6, Section7),
-         *              Secondary: (Section8),
-         *              Tertiary: ()] )
-         */
-        // referenced https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap.
-        for (String act : allKeys) {
-            int counter = 0;
-            for (String s : timePrefs) {
-                counter += allActivities.get(act).get(s).size();
-            }
-
-            activitySize.put(act, counter);
-        }
-    }
-
-    // REQUIRES: allActivities is already mapped.
-    // MODIFIES: this
-    // EFFECT: Count number of primary time-slotted sections.
-    private void countPrimary() {
-        Set<String> allKeys = allActivities.keySet();
-
-        int counter = 0;
-        for (String act : allKeys) {
-            counter += allActivities.get(act).get(timeTable.primaryTimePref).size();
-        }
-
-        primaryCounter = counter;
     }
 
     // REQUIRES: Another valid course.
     // EFFECT: A compareTo used to sort list of courses.
     @Override
     public int compareTo(Course o) {
-        return Integer.compare(primaryCounter, o.getPrimaryCounter());
+        return Long.compare(preferenceSize(timeTable.primaryTimePref), o.preferenceSize(timeTable.primaryTimePref));
     }
 
     @Override

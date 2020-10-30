@@ -10,15 +10,12 @@ import java.io.Writer;
 public class JsonWriter {
     public static Writer writer;
 
-    public static void saveFile(ScheduleMaker schedule, String fileName) {
-        try {
-            writer = new FileWriter(new File("./data/timetables", fileName + ".json"));
-            FileFormat file = new FileFormat(schedule);
-            writer.write(file.createObject().toString());
-            writer.close();
+    public static void saveFile(ScheduleMaker schedule, String fileName) throws IOException {
+        writer = new FileWriter(new File("./data/timetables", fileName + ".json"));
+        FileFormat file = new FileFormat(schedule);
+        writer.write(file.createObject().toString());
+        writer.close();
 
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+
     }
 }

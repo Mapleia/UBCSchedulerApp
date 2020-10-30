@@ -1,25 +1,27 @@
 package model;
 
+import exceptions.NoTimeSpamAdded;
 import org.json.JSONObject;
 
 import java.util.*;
 
 public class Section {
-    private String status;
+    private final String status;
     private final String section;
     private String activity;
     private String term;
-    private String days;
-    private String start;
-    private String end;
+    private final String days;
+    private final String start;
+    private final String end;
 
-    private List<TimeSpan> timeSpans;
-    private TimeTable timeTable;
+    private final List<TimeSpan> timeSpans;
+    private final TimeTable timeTable;
     private boolean crucialFieldsBlank = false;
+    private boolean doubleTerm = false;
 
     // constructor
     public Section(String status, String section, String start, String end, String activity, String term, String days,
-                   TimeTable timeTable) {
+                   TimeTable timeTable) throws NoTimeSpamAdded {
         this.status = status;
         this.section = section;
         this.start = start;
@@ -29,14 +31,10 @@ public class Section {
         this.days = days;
         this.timeTable = timeTable;
 
-        this.crucialFieldsBlank();
-        this.checkRequired();
-        this.formatDatesAndTime();
-    }
-
-    public Section(String section, String activity) {
-        this.section = section;
-        this.activity = activity;
+        crucialFieldsBlank();
+        checkRequired();
+        timeSpans = new ArrayList<>();
+        formatDatesAndTime();
     }
 
     // getters
@@ -69,7 +67,10 @@ public class Section {
     }
 
     public String getTimeSlot() {
-        return timeSpans.get(0).getTimeSlot();
+        if (!timeSpans.isEmpty()) {
+            return timeSpans.get(0).getTimeSlot();
+        }
+        return "";
     }
 
     public List<TimeSpan> getTimeSpans() {
@@ -81,19 +82,33 @@ public class Section {
     }
 
     @Override
-    public boolean equals(Object section) {
+    public boolean equals(Object o) {
         // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
-        if (!(section instanceof Section)) {
+        if (!(o instanceof Section)) {
             return false;
         }
-        Section s = (Section) section;
-        return (this.section.equals(s.section) && this.activity.equals(s.activity));
+        Section s = (Section) o;
+        boolean boolSection = this.section.equals(s.getSection());
+        boolean boolActivity = this.activity.equals(s.getActivity());
+        return boolSection && boolActivity;
     }
 
     @Override
     public int hashCode() {
         // referenced: https://www.baeldung.com/java-hashcode
         return section.hashCode() * activity.hashCode();
+    }
+
+    public static Section createSection(JSONObject obj, TimeTable table) throws NoTimeSpamAdded {
+        String status = obj.getString("status");
+        String section = obj.getString("section");
+        String activity = obj.getString("activity");
+        String term = obj.getString("term");
+        String days = obj.getString("days");
+        String start = obj.getString("start");
+        String end = obj.getString("end");
+
+        return new Section(status, section, start, end, activity, term, days, table);
     }
 
     // REQUIRES: valid section
@@ -115,7 +130,7 @@ public class Section {
         search: {
             for (TimeSpan entry : map1) {
                 for (TimeSpan entry2 : map2) {
-                    if (entry2.isOverlapping(entry)) {
+                    if (TimeSpan.isOverlapping(entry, entry2) || TimeSpan.isOverlapping(entry2, entry)) {
                         result = true;
                         break search;
                     }
@@ -140,8 +155,6 @@ public class Section {
         return result;
     }
 
-
-
     // REQUIRES: start, end and days to be string.
     // MODIFIES: this.
     // EFFECT: sets crucialFieldsBlank to true if start (time in str) end or days is blank.
@@ -164,25 +177,24 @@ public class Section {
     // REQUIRES: crucialFieldsBlank to be already set.
     // MODIFIES: this.
     // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
-    private void formatDatesAndTime() {
-        timeSpans = new ArrayList<>();
+    private void formatDatesAndTime() throws NoTimeSpamAdded {
         if (!crucialFieldsBlank) {
             TimeSpan timeSpan;
             String[] daysArr = days.trim().split(" ");
 
             for (String s : daysArr) {
                 if (timeTable.winterOrSummer == 0) {
-                    if (term.equals("1")) {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
-                    } else {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
+                    if (term.equals("1-2")) {
+                        for (int i = 0; i < 2; i++) {
+                            timeSpan = winterTimeSpan(s);
+                            timeSpans.add(timeSpan);
+                        }
                     }
+                    timeSpan = winterTimeSpan(s);
+                } else if (timeTable.winterOrSummer == 1) {
+                    timeSpan = summerTimeSpan(s);
                 } else {
-                    if (term.equals("1")) {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
-                    } else {
-                        timeSpan = new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
-                    }
+                    throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
                 }
                 timeSpans.add(timeSpan);
             }
@@ -190,5 +202,30 @@ public class Section {
         }
     }
 
+    private TimeSpan winterTimeSpan(String s) throws NoTimeSpamAdded {
+        switch (term) {
+            case "1":
+                return new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
+
+            case "2":
+                return new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING);
+            case "1-2":
+                doubleTerm = true;
+                term = "2";
+                return new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL);
+            default:
+                throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
+        }
+    }
+
+    private TimeSpan summerTimeSpan(String s) throws NoTimeSpamAdded {
+        if (term.equals("1")) {
+            return new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1);
+        } else if (term.equals("2")) {
+            return new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2);
+        } else {
+            throw new NoTimeSpamAdded(term, timeTable.winterOrSummer, section);
+        }
+    }
 
 }

@@ -1,45 +1,35 @@
 package persistence;
 
-import model.Course;
 import model.ScheduleMaker;
 import model.Section;
+import model.TimeTable;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Set;
 
 public class FileFormat {
-    private ArrayList<String> courseNamesAndCode;
-    private List<Section> finalSchedule;
-    private String userName;
-    private HashMap<String, String> errorLog;
-    private List<String> noTypeDupeList;
-    private ScheduleMaker scheduleMakerFile;
+    private final Set<String> courses;
+    private final List<Section> finalSchedule;
+    private final String userName;
+    private final HashMap<String, String> errorLog;
+    private final TimeTable timeTable;
 
     public FileFormat(ScheduleMaker scheduleMaker) {
-        this.scheduleMakerFile = scheduleMaker;
-        courseNamesAndCode = new ArrayList<>();
-        this.createListOfCourses();
-        this.finalSchedule = scheduleMakerFile.getFinalTimeTable();
-        this.userName = scheduleMakerFile.getUserName();
-        this.errorLog = scheduleMakerFile.errorLog;
-        this.noTypeDupeList = scheduleMakerFile.noTypeDupeList;
-    }
-
-    private void createListOfCourses() {
-        for (Course c : scheduleMakerFile.getTimeTable().getCourseList()) {
-            courseNamesAndCode.add(c.getSubjectCode() + "-" + c.getCourseNum());
-        }
+        courses = scheduleMaker.getAllCourses().keySet();
+        this.finalSchedule = scheduleMaker.getFinalTimeTable();
+        this.timeTable = scheduleMaker.getTimeTable();
+        this.userName = scheduleMaker.getUserName();
+        this.errorLog = scheduleMaker.errorLog;
     }
 
     public JSONObject createObject() {
         JSONObject obj = new JSONObject();
-        obj.put("courses", courseNamesAndCode);
+        obj.put("courses", courses);
         obj.put("schedule", finalSchedule);
         obj.put("username", userName);
         obj.put("error log", errorLog);
-        obj.put("noTypeDupeList", noTypeDupeList);
 
         return obj;
     }
@@ -52,15 +42,16 @@ public class FileFormat {
         return errorLog;
     }
 
-    public ArrayList<String> getCourseNamesAndCode() {
-        return courseNamesAndCode;
+    public Set<String> getCourses() {
+        return courses;
     }
 
     public List<Section> getFinalSchedule() {
         return finalSchedule;
     }
 
-    public List<String> getNoTypeDupeList() {
-        return noTypeDupeList;
+    public TimeTable getTimeTable() {
+        return timeTable;
     }
+
 }
