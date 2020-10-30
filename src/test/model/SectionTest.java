@@ -21,7 +21,9 @@ import static org.junit.jupiter.api.Assertions.*;
 public class SectionTest {
     private static final String[] PREFERENCE_ARRAY = {"Afternoon", "Morning", "Evening"};
     private TimeTable timeTableW;
+    private TimeTable timeTableS;
     private Course cpsc210;
+    private Course biol155;
     private Section sectionL1U;
     private Section sectionT;
     private final String[] cpsc210L1U = new String[]{"CPSC 210 L1U", "Laboratory"};
@@ -30,8 +32,10 @@ public class SectionTest {
     @BeforeEach
     public void setup() {
         timeTableW = new TimeTable(2020, true, PREFERENCE_ARRAY);
+        timeTableS = new TimeTable(2021, false, PREFERENCE_ARRAY);
 
         try {
+            biol155 = Course.createCourse("BIOL", "155", timeTableS);
             cpsc210 = Course.createCourse("CPSC", "210", timeTableW);
             JSONObject obj = JsonReader.findCourseFile("CPSC", "210", timeTableW);
 
@@ -50,7 +54,7 @@ public class SectionTest {
         } catch (NoTimeSpanAdded t) {
             fail("Fail to make timespan, no term.");
             t.printStackTrace();
-        } catch (Exception e) {
+        } catch (Throwable e) {
             fail();
         }
     }
@@ -324,13 +328,13 @@ public class SectionTest {
     @Test
     public void testSummerT12() {
         try {
-            TimeTable tt = new TimeTable(2021, false, PREFERENCE_ARRAY);
-            Section section = Course.createCourse("BIOL", "155", tt).get("BIOL 155 001");
-            assertEquals(5, section.getTimeSpans().get(0).getStart().getMonthValue());
-            assertEquals(7, section.getTimeSpans().get(2).getStart().getMonthValue());
+
+            assertEquals(5, biol155.get("BIOL 155 001").getTimeSpans().get(0).getStart().getMonthValue());
+            assertEquals(7, biol155.get("BIOL 155 001").getTimeSpans().get(2).getStart().getMonthValue());
 
         } catch (Exception e) {
             fail();
+            e.printStackTrace();
         }
     }
 }
