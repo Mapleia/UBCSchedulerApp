@@ -3,7 +3,6 @@ package model;
 import java.io.IOException;
 import java.util.*;
 
-import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -83,8 +82,7 @@ public class Course implements Comparable<Course> {
         }
     }
 
-    public static Course createCourse(String c, String n, TimeTable t)
-            throws NoCourseFound, IOException {
+    public static Course createCourse(String c, String n, TimeTable t) throws IOException {
         JSONObject obj = JsonReader.findCourseFile(c, n, t);
         return parseFromJsonObject(obj, t);
     }

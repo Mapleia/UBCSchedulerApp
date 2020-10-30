@@ -152,8 +152,6 @@ public class SchedulerApp {
     private static void courseAddTry(String str) {
         try {
             timeTable.addCourse(str);
-        } catch (NoCourseFound noCourseFound) {
-            noCourseFound.printCourse();
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -77,9 +77,6 @@ public class ScheduleMakerTest {
 
             assertTrue(scheduleMaker2.getAllCourses().keySet().containsAll(allErrorCourses));
             assertTrue(scheduleMaker2.getErrorLog().size()> 0);
-        } catch (NoCourseFound n) {
-            n.printCourse();
-            fail();
         } catch (Exception e) {
             fail();
         }

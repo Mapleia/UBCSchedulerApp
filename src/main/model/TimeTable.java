@@ -52,9 +52,10 @@ public class TimeTable {
     // REQUIRES: Valid course code, course number (both as a string) and format.
     // MODIFIES: this
     // EFFECT: Adds course to the list of courses.
-    public void addCourse(String input) throws NoCourseFound, IOException {
+    public void addCourse(String input) throws IOException {
         String[] inputArr = input.split(" ");
-        courseList.putIfAbsent(input, Course.createCourse(inputArr[0], inputArr[1], this));
+        Course course = Course.createCourse(inputArr[0], inputArr[1], this);
+        courseList.put(input, course);
     }
 
     public void removeCourse(String course) throws NoCourseFound {

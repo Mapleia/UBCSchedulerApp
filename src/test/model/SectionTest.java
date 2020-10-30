@@ -1,7 +1,6 @@
 package model;
 
 
-import exceptions.NoCourseFound;
 import exceptions.NoSectionFound;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
@@ -301,9 +300,6 @@ public class SectionTest {
                     TimeSpan.isOverlapping(s1.getTimeSpans().get(0), s2.getTimeSpans().get(2))
                 || TimeSpan.isOverlapping(s2.getTimeSpans().get(2), s1.getTimeSpans().get(0)));
             assertTrue(s1.isOverlapping(s2));
-        } catch (NoCourseFound n) {
-            n.printCourse();
-            fail();
         } catch (NoSectionFound | IOException noSectionFound) {
             noSectionFound.printStackTrace();
         }
