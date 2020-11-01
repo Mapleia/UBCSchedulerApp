@@ -12,6 +12,8 @@ public class Main {
 
         while (startOver) {
             new SchedulerApp();
+            startOver = false;
+            showOptions();
         }
     }
 
