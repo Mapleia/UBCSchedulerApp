@@ -166,7 +166,7 @@ public class SchedulerApp {
 
     private void printTerms(String term) {
         System.out.println(term);
-        for (Section sec : user.getFinalTimeTable().get(term).values()) {
+        for (Section sec : user.getFinalTimeTable().get(term)) {
             System.out.println("\tSECTION: " + sec.getSection());
             System.out.println("\tStart: " + sec.getStart());
             System.out.println("\tDays: " + sec.getDays());

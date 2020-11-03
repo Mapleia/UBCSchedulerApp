@@ -56,21 +56,24 @@ public class UserTest {
     public void testAddSectionsToUser() {
         JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
         try {
-            JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
-
+            user = jsonReader.readUser();
         } catch (Exception e) {
             fail();
         }
 
         assertEquals("BIOL 112 101",
-                user.getFinalTimeTable().get("Term1").get("BIOL 112 101").getSection());
+                user.getFinalTimeTable().get("Term1").get(0).getSection());
         assertEquals("BIOL 112 T01",
-                user.getFinalTimeTable().get("Term1").get("BIOL 112 T01").getSection());
+                user.getFinalTimeTable().get("Term1").get(1).getSection());
         assertEquals("CPSC 210 202",
-                user.getFinalTimeTable().get("Term2").get("CPSC 210 202").getSection());
+                user.getFinalTimeTable().get("Term2").get(0).getSection());
         assertEquals("CPSC 210 L2H",
-                user.getFinalTimeTable().get("Term2").get("CPSC 210 L2H").getSection());
+                user.getFinalTimeTable().get("Term2").get(1).getSection());
+        List<String> list = new ArrayList<>();
+        list.add("CPSC 210");
+        list.add("BIOL 112");
+        assertTrue(list.equals(user.getCourseList()));
+        assertEquals("2020W", user.getTerm());
     }
 
     @Test

@@ -28,7 +28,7 @@ public class JsonReader {
         StringBuilder contentBuilder = new StringBuilder();
 
         try (Stream<String> stream = Files.lines(Paths.get(source), StandardCharsets.UTF_8)) {
-            stream.forEach(s -> contentBuilder.append(s));
+            stream.forEach(contentBuilder::append);
         }
 
         return contentBuilder.toString();
@@ -52,7 +52,7 @@ public class JsonReader {
     // Throws NoCourseFound exception from addCourses
     // Throws JSONException exception if getString encounters an error.
     private User parseUser(JSONObject jsonObject) throws JSONException, NoCourseFound {
-        String term = jsonObject.getString("term");
+        String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
 

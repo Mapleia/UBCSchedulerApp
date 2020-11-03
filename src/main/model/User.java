@@ -12,7 +12,7 @@ public class User {
     private String term = null;
     private List<String> courseList;
     private Set<Course> courseSet;
-    private HashMap<String, HashMap<String, Section>> finalTimeTable;
+    private HashMap<String, ArrayList<Section>> finalTimeTable;
     private String[] errorLog; //strings of missed sections
 
     // constructs user and initializes it.
@@ -34,7 +34,7 @@ public class User {
     }
 
     // getter for finalTimeTable
-    public HashMap<String, HashMap<String, Section>> getFinalTimeTable() {
+    public HashMap<String, ArrayList<Section>> getFinalTimeTable() {
         return finalTimeTable;
     }
 
@@ -57,9 +57,9 @@ public class User {
 
         JSONObject schedule = new JSONObject();
         for (String term : finalTimeTable.keySet()) {
-            JSONObject perTerm = new JSONObject();
-            for (String key : finalTimeTable.get(term).keySet()) {
-                perTerm.put(key, finalTimeTable.get(term).get(key).toJson());
+            JSONArray perTerm = new JSONArray();
+            for (Section section : finalTimeTable.get(term)) {
+                perTerm.put(section.toJson());
             }
             schedule.put(term, perTerm);
         }
@@ -74,12 +74,12 @@ public class User {
         Set<String> terms = schedule.keySet();
 
         for (String term : terms) {
-            JSONArray perTerm = schedule.getJSONArray(term);
-            HashMap<String, Section> list = new HashMap<>();
-            for (Object o : perTerm) {
-                JSONObject obj = (JSONObject) o;
-                Section section = new Section(obj);
-                list.put(section.getSection(), section);
+
+            List<Object> perTerm = schedule.getJSONArray(term).toList();
+            ArrayList<Section> list = new ArrayList<>();
+            for (int i = 0; i < perTerm.size(); i++) {
+                Section section = new Section(schedule.getJSONArray(term).getJSONObject(i));
+                list.add(section);
             }
 
             finalTimeTable.put(term, list);
@@ -122,5 +122,13 @@ public class User {
         } catch (Exception e) {
             return false;
         }
+    }
+
+    public List<String> getCourseList() {
+        return courseList;
+    }
+
+    public String getTerm() {
+        return term;
     }
 }
