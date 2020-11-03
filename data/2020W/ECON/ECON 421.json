@@ -1,0 +1,99 @@
+{
+  "course_name": "ECON 421",
+  "subject_code": "ECON",
+  "course_number": "421",
+  "course_title": "Introduction to Game Theory and Applications.",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 421 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=421&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "421",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NODA, SHUNYA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "43",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 421 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=421&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "421",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAVES, JONATHAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 421 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=421&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "421",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "38",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of rational behaviour in strategic situations and various notions of equilibrium useful in predicting outcomes. Applications from economics, business, politics, law and biology.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

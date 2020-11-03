@@ -1,0 +1,70 @@
+{
+  "course_name": "VISA 401F",
+  "subject_code": "VISA",
+  "course_number": "401F",
+  "course_title": "Advanced Open Studio - ADV OPEN STUDIO",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=401F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 401F 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=401F&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "If registration for VISA 401F 001 is blocked, the course is full and you should register in waitlist VISA 401F 01W. Students will be moved from the waitlist into the course as seats become available, and then notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "401F",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCRUM, PHILLIP"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 401F 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=401F&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "VISA 401F 01W is the waitlist for VISA 401F 001. Students will be moved off the waitlist into the class as seats become available and then notified of their registration via email. Note that registering on the waitlist does not guarantee you a seat in the course.",
+      "subject_code": "VISA",
+      "course_number": "401F",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "91",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "91"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Research-based studio with thematic or disciplinary focus.  Intended for senior Visual Art undergraduate students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

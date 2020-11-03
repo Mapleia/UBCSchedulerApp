@@ -1,0 +1,43 @@
+{
+  "course_name": "KIN 564",
+  "subject_code": "KIN",
+  "course_number": "564",
+  "course_title": "Psycho-Social Aspects of Physical Activity",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=564&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 564 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=564&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "**Class is scheduled for online delivery.Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0",
+      "subject_code": "KIN",
+      "course_number": "564",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEAUCHAMP, MARK"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Selected psycho-social considerations in sport: initial and continuing involvement in the competitive sport environment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

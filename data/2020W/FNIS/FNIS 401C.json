@@ -1,0 +1,44 @@
+{
+  "course_name": "FNIS 401C",
+  "subject_code": "FNIS",
+  "course_number": "401C",
+  "course_title": "Special Topics - SPECIAL TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=401C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNIS 401C 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=401C&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "FNIS 401C - Indigenous Oral History Interviewing: Theory, Method, and Practice: Due to cultural differences and western constructions of history, much of the history of Indigenous communities, organizations, and individuals, especially as understood by them, is not widely known. Oral history is one way of adding to public or community records when there is the desire to do so. This course will consider the theory, methods, and practice for interviewing, organizing, and activating records and the ethics and complexities involved in creating them. Under current circumstances, the uses of internet technology as an alternative method for interviewing will also be a focus. This section is for undergraduate students only, FNIS 501C is the graduate section. If the course is full please email ci and ~s.program@ubc.ca to be added to the waitlist.",
+      "subject_code": "FNIS",
+      "course_number": "401C",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KESLER, ROLAND LINCOLN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics will vary from year to year. Consult the departmental website: http://fnsp.arts.ubc.ca.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

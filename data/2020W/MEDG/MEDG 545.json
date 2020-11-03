@@ -1,0 +1,101 @@
+{
+  "course_name": "MEDG 545",
+  "subject_code": "MEDG",
+  "course_number": "545",
+  "course_title": "Current Topics in Medical Genetics Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=545&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 545 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=545&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Journal Clubs descriptions are posted on the Medical Genetics website under \"Current Students - Courses\". All Journal Clubs will be conducted online for term 1 of 2020W (and possibly for term 2 - to be confirmed later).Registration is blocked. MEDG and non-MEDG students obtain permission from the Journal Club coordinator, then email Cheryl Bishop at medical.genetics@ubc.ca for registration in MEDG 545.",
+      "subject_code": "MEDG",
+      "course_number": "545",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONIBEAR, ELIZABETH(Coordinator)",
+        "FRIEDMAN, JAN MARSHALL(Coordinator)",
+        "LEFEBVRE, LOUIS(Coordinator)",
+        "TAUBERT, STEFAN(Coordinator)"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "15",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MEDG 545 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=545&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact Cheryl Bishop at medical.genetics@ubc.ca for registration procedure.",
+      "subject_code": "MEDG",
+      "course_number": "545",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MEDG 545 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=545&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "January-start students (MEDG  and  non-MEDG students): Contact Cheryl Bishop at medical.genetics@ubc.ca for registration procedure.",
+      "subject_code": "MEDG",
+      "course_number": "545",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Critical discussion of current primary research literature in medical genetics.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Seminar"
+  ]
+}

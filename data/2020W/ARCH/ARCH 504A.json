@@ -1,0 +1,44 @@
+{
+  "course_name": "ARCH 504A",
+  "subject_code": "ARCH",
+  "course_number": "504A",
+  "course_title": "Topics in Architectural History I (Pre-1900) - EMPIRE BUILDING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=504A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 504A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=504A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "504A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEVENS, SARA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

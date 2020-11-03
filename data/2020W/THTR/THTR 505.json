@@ -1,0 +1,43 @@
+{
+  "course_name": "THTR 505",
+  "subject_code": "THTR",
+  "course_number": "505",
+  "course_title": "Scenery Design Studio I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 505 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=505&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Scenery design for theatre and other performance forms. Restricted to students in UBC's MFA Theatre Design program except with special permission of the instructor.Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "THTR",
+      "course_number": "505",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Scenery design for theatre and other performance forms.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "ASTR 405",
+  "subject_code": "ASTR",
+  "course_number": "405",
+  "course_title": "Astronomical Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=405&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 405 2LA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=405&section=2LA&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "All 2020W labs will be run online in Term 2.",
+      "subject_code": "ASTR",
+      "course_number": "405",
+      "section_number": "2LA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "8",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Experiments in the use of astronomical instrumentation and data analysis. Use of the 40-cm reflector, spectrograph and electronic detectors. Photometric and spectroscopic analysis of digital data.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

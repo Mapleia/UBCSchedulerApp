@@ -1,0 +1,72 @@
+{
+  "course_name": "MECH 473",
+  "subject_code": "MECH",
+  "course_number": "473",
+  "course_title": "Heating, Ventilating and Air Conditioning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=473&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 473 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=473&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "473",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ATABAKI, NIMA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 473 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=473&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "473",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ATABAKI, NIMA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of air conditioning; psychometrics and refrigeration. Heat transfer through building materials. Estimation of heating and cooling loads including the use of current software. System design. Ground, air and water source heat pumps.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

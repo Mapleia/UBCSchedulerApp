@@ -1,0 +1,121 @@
+{
+  "course_name": "LAW 281",
+  "subject_code": "LAW",
+  "course_number": "281",
+  "course_title": "Legal Research and Writing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=281&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 281 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=281&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "281",
+      "section_number": "001",
+      "building": "Allard Hall (LAW)",
+      "room": "123",
+      "instructors": [
+        "LOMO, ZACHARY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 281 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=281&section=002&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "281",
+      "section_number": "002",
+      "building": "Allard Hall (LAW)",
+      "room": "104",
+      "instructors": [
+        "TSIAKOS, GEORGE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 281 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=281&section=003&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "281",
+      "section_number": "003",
+      "building": "Allard Hall (LAW)",
+      "room": "106",
+      "instructors": [
+        "RUSSO, ROBERT"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 281 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=281&section=004&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "281",
+      "section_number": "004",
+      "building": "Allard Hall (LAW)",
+      "room": "106",
+      "instructors": [
+        "KOLLBRAND, VERONIKA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Introduction to legal research and writing skills and the use of legal databases.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

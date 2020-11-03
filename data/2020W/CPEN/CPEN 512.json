@@ -1,0 +1,70 @@
+{
+  "course_name": "CPEN 512",
+  "subject_code": "CPEN",
+  "course_number": "512",
+  "course_title": "Parallel and Reconfigurable Computing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=512&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CPEN 512 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=512&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "512",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEMIEUX, GUY"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "7",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 512 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=512&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "512",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Credit will only be given for one of CPEN 512 or EECE 528.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

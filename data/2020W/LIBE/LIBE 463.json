@@ -1,0 +1,149 @@
+{
+  "course_name": "LIBE 463",
+  "subject_code": "LIBE",
+  "course_number": "463",
+  "course_title": "Selection of Learning Resources I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LIBE&course=463&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LIBE 463 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=463&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Teacher-Librarianship, the Certificate in Teacher-Librarianship, and the Diploma in Education - Literacy Education. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 463 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LIBE",
+      "course_number": "463",
+      "section_number": "63A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HUSIEFF, KRISTEN LEIGH"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Blocked",
+      "section": "LIBE 463 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=463&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Teacher-Librarianship, the Certificate in Teacher-Librarianship, and the Diploma in Education - Literacy Education. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 463 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LIBE",
+      "course_number": "463",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HUSIEFF, KRISTEN LEIGH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "LIBE 463 63D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=463&section=63D&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Teacher-Librarianship, the Certificate in Teacher-Librarianship, and the Diploma in Education - Literacy Education. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 463 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LIBE",
+      "course_number": "463",
+      "section_number": "63D",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BEAUDRY, RICHARD"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Blocked",
+      "section": "LIBE 463 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=463&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LIBE 463 in Winter 1. For information about how LIBE wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LIBE",
+      "course_number": "463",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Blocked",
+      "section": "LIBE 463 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=463&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LIBE 463 in Winter 2. For information about how LIBE wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LIBE",
+      "course_number": "463",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

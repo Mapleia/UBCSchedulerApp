@@ -1,0 +1,43 @@
+{
+  "course_name": "HIST 500",
+  "subject_code": "HIST",
+  "course_number": "500",
+  "course_title": "Readings in Canadian History",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=500&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 500 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=500&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "500",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MYERS, TAMARA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

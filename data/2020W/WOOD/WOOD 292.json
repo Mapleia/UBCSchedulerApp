@@ -1,0 +1,70 @@
+{
+  "course_name": "WOOD 292",
+  "subject_code": "WOOD",
+  "course_number": "292",
+  "course_title": "Two-Dimensional and Solid Computer-Aided Graphics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=292&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "WOOD 292 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=292&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "292",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, VINCENT"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    },
+    {
+      "status": "Restricted",
+      "section": "WOOD 292 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=292&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "292",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, VINCENT"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Computer-aided graphics software used in the wood products sector.  Visualization of product designs and specifications in two and three dimensions.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "MIDW 101",
+  "subject_code": "MIDW",
+  "course_number": "101",
+  "course_title": "Counselling for Maternity Care Providers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MIDW 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "101",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RYPKEMA, TERRI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory, knowledge, strategies, and skills of person-centered counselling including family systems, trauma theory, theory, grief counselling, motivational interviewing skills, self-awareness and mindfulness, interprofessional communication, and cultural competency in continuity of care.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

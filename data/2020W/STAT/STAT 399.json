@@ -1,0 +1,70 @@
+{
+  "course_name": "STAT 399",
+  "subject_code": "STAT",
+  "course_number": "399",
+  "course_title": "Co-operative Work Placement II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=399&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "STAT 399 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=399&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "RESTRICTED TO STUDENTS ADMITTED TO THE CO-OP EDUC PRGM IN STATS",
+      "subject_code": "STAT",
+      "course_number": "399",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "STAT 399 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=399&section=201&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "RESTRICTED TO STUDENTS ADMITTED TO THE CO-OP EDUC PRGM IN STATS",
+      "subject_code": "STAT",
+      "course_number": "399",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Work experience in an industrial research setting. Normally taken during Summer Session following third year. Restricted to students admitted to the Co-operative Education Program in Statistics.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

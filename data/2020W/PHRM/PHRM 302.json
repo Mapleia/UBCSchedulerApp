@@ -1,0 +1,70 @@
+{
+  "course_name": "PHRM 302",
+  "subject_code": "PHRM",
+  "course_number": "302",
+  "course_title": "Directed Studies in Clinical Pharmacy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 302 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=302&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "302",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHRM 302 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=302&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "302",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Individual assignments involving library and clinical investigation of specific problems relating to drug utilization and information topics.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

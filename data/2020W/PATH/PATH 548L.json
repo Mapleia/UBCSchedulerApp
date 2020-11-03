@@ -1,0 +1,44 @@
+{
+  "course_name": "PATH 548L",
+  "subject_code": "PATH",
+  "course_number": "548L",
+  "course_title": "Directed Studies - EXPERIMENTAL DES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=548L&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 548L 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=548L&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Pathology Students Only.",
+      "subject_code": "PATH",
+      "course_number": "548L",
+      "section_number": "001",
+      "building": "UBC Hospital - Koerner Pavilion",
+      "room": "G221",
+      "instructors": [
+        "COTE, HELENE",
+        "KALLOGER, STEVE ERNEST"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

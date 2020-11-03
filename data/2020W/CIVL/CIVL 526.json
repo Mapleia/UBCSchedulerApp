@@ -1,0 +1,44 @@
+{
+  "course_name": "CIVL 526",
+  "subject_code": "CIVL",
+  "course_number": "526",
+  "course_title": "Virtual Design and Construction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=526&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CIVL 526 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=526&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Note that registration priority in this course is given first to Civil Engineering students specializing in Project  and  Construction Management, and then all other Civil Engineering students.Please do NOT contact the professor regarding registration problems.If the course is full, please fill out the online course registration form available at the below web link http://www.civil.ubc.ca/webform/course-request-registration-form and submit it electronically.Please check back regularly to see if space opens up in the class.  All applications requesting admission to the course will be considered in August.  Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  You will be advised in August if you have been admitted to the class or not.",
+      "subject_code": "CIVL",
+      "course_number": "526",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZADEH, PUYAN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Building information modelling (BIM), 4D/5D modelling, design coordination, BIM execution and performance assessment, and integrated project delivery methods. Credit will be granted for only one of CIVL 426 or CIVL 526.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

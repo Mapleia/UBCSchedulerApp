@@ -1,0 +1,43 @@
+{
+  "course_name": "MTRL 557",
+  "subject_code": "MTRL",
+  "course_number": "557",
+  "course_title": "Separation Science in Aqueous Metal Processing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=557&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MTRL 557 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=557&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "557",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DREISINGER, DAVID"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "10",
+      "restrictedRemaining": "18"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The theory of solvent extraction and ion exchange, membrane separations, chemical precipitation, electrochemical separations and other techniques for aqueous metal processing, applications from the metal processing literature.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

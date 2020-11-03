@@ -1,0 +1,127 @@
+{
+  "course_name": "SOCI 217",
+  "subject_code": "SOCI",
+  "course_number": "217",
+  "course_title": "Research Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=217&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 217 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=217&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "217",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAN, ELIC"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "99",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 217 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=217&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "217",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAN, ELIC"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "73",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 217 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=217&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "217",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHAZIANI, AMIN"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "57",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 217 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=217&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "217",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "101",
+      "currentlyRegistered": "59",
+      "generalRemaining": "101",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to research designs and methodologies.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

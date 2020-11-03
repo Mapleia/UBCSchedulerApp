@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 493A",
+  "subject_code": "MUSC",
+  "course_number": "493A",
+  "course_title": "Music Performance (Major) - KEYBOARD INST'S",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=493A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MUSC 493A 700",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=493A&section=700&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "493A",
+      "section_number": "700",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ANDERSON, LEONARD",
+        "DAWSON, TERENCE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

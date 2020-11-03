@@ -1,0 +1,45 @@
+{
+  "course_name": "ENGL 244",
+  "subject_code": "ENGL",
+  "course_number": "244",
+  "course_title": "Environment and Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=244&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 244 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=244&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "244",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PARELES, MARISSA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "43",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Literary, critical, and/or pop-culture texts about environmentalism and ecology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

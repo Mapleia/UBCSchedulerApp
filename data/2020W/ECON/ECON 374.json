@@ -1,0 +1,45 @@
+{
+  "course_name": "ECON 374",
+  "subject_code": "ECON",
+  "course_number": "374",
+  "course_title": "Land Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=374&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 374 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=374&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Course cross-listed with FRE 374",
+      "subject_code": "ECON",
+      "course_number": "374",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOACK, FREDERIK"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "98",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Economic analysis applied to problems of land use. Rent theory. Land valuation. Land conservation. Techniques for assessing economic efficiency of land use. Effects of institutions and public policies on land use.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

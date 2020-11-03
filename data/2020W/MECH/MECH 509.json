@@ -1,0 +1,45 @@
+{
+  "course_name": "MECH 509",
+  "subject_code": "MECH",
+  "course_number": "509",
+  "course_title": "Controls",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=509&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 509 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=509&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "509",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAGAMUNE, RYOZO"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "22",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "State space model; stability; controlability; observability; Kalman decomposition; state feedback; oberver; linear quadratic regulator; Kalman filter. Credit will be granted for only one of MECH 468 or 509.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

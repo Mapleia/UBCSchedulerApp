@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 411",
+  "subject_code": "MUSC",
+  "course_number": "411",
+  "course_title": "Analysis of Tonal Music",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 411 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=411&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Tonal Analysis.  With Music 500A. This course focuses on sonata form around the turn of the nineteenth century, with a special focus on works by Schubert. The analytical approach encompasses techniques that complement Schenkerian analysis. Topics include chromaticism and enharmonicism, harmonic rhythm and phrase rhythm, and divergences from Classical-era formal norms. There is no textbook, but several advanced readings will be assigned. Prerequisites: MUSC 201, or permission of the instructor.If course is full, register for wait list.",
+      "subject_code": "MUSC",
+      "course_number": "411",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN HANDEL, LEIGH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analytical approaches that complement Schenkerian analysis, including motivic construction, harmonic rhythm and phrase rhythm, chromaticism and enharmonicism, features of musical form, aspects of structure and hierarchy at the small and large scale.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

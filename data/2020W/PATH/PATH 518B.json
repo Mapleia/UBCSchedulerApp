@@ -1,0 +1,43 @@
+{
+  "course_name": "PATH 518B",
+  "subject_code": "PATH",
+  "course_number": "518B",
+  "course_title": "Pulmonary Pathophysiology - PULMNRY PTHPYSIO",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=518B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 518B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=518B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Instructor: Dr. Ayas, Najib. Meets in Gourlay Conference Room, iCAPTURE centre. Cross-listed with MEDI 560. This course is restricted to students with one of these specializations: ****PATH AND in one of these faculties: GRAD",
+      "subject_code": "PATH",
+      "course_number": "518B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "AYAS, NAJIB"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A review of current topics in pulmonary pathophysiology at an advanced level suitable for graduate students majoring in pathology, medicine, surgery or anaesthesiology. Topics will include lung anatomy, ventilation, blood flow, gas and fluid exchange.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

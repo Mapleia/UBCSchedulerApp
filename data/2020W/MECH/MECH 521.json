@@ -1,0 +1,124 @@
+{
+  "course_name": "MECH 521",
+  "subject_code": "MECH",
+  "course_number": "521",
+  "course_title": "Fundamentals of Microelectromechanical Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=521&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 521 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=521&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "521",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "6",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 521 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=521&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "521",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "4",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 521 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=521&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "521",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "MECH 521 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=521&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "521",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "MEDD 448",
+  "subject_code": "MEDD",
+  "course_number": "448",
+  "course_title": "Transition into Postgraduate Education and Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=448&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDD 448 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=448&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MEDD",
+      "course_number": "448",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "298",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": "Enables students to effectively transition from medical school to residency and medical practice. Complex clinical presentations that integrate foundational sciences and practice themes. Prepares students for practice as residents and physicians. Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

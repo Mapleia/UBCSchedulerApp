@@ -1,0 +1,1463 @@
+{
+  "course_name": "APSC 160",
+  "subject_code": "APSC",
+  "course_number": "160",
+  "course_title": "Introduction to Computation in Engineering Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=160&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "APSC 160 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "No labs during the first week of classes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRECU, CRISTIAN SORIN",
+        "GRECU, CRISTIAN SORIN(Coordinator)",
+        "SCHROEDER, JONATAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "No labs during the first week of classes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRECU, CRISTIAN SORIN",
+        "TIEN, GEOFFREY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIEN, GEOFFREY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "No labs during the first week of classes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOK, HENDRIK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1G&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1H&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1I",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1I&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1I",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1J&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1K&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1L&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1M&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1N&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1O",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1O&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1O",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1P&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1Q",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1Q&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1Q",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1R&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1S&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1S",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1T&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1T",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1U",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1U&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1U",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1V",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1V&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1V",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L1X",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L1X&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L1X",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "APSC 160 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students who register in this waitlist section are not guaranteed registration in the course. Students will be accomodated into the course provided seats are available.This waitlist is for both lecture and lab sections.   Please check the SSC during the first week of classes to view the registration changes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "80"
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2A",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2B",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2C",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2D",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2E",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2F",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2G&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2G",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2H&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2H",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "APSC 160 L2I",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2I&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2I",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "APSC 160 L2J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2J&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2J",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2K&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2K",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2L&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2L",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2M&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2M",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2N&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2N",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2O",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2O&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2O",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2P&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2P",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2Q",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2Q&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2Q",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2R&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2R",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2S&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2S",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2U",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2U&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2U",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2V",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2V&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2V",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 L2X",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=L2X&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "L2X",
+      "building": "Civil and Mechanical Engineering",
+      "room": "2212",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "APSC 160 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students who register in this waitlist section are not guaranteed registration in the course. Students will be accomodated into the course provided seats are available.  Please check your SSC during the first week of classes to view the registration changes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "97",
+      "currentlyRegistered": "23",
+      "generalRemaining": "16",
+      "restrictedRemaining": "81"
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 9AR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=9AR&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "9AR",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 VE1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=VE1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "VE1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRECU, CRISTIAN SORIN",
+        "SCHROEDER, JONATAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 VL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=VL1&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "This section is reserved for UBC Vantage College students only. No labs during the first week of classes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "VL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 160 VL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=160&section=VL2&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "This section is reserved for UBC Vantage College students only. No labs during the first week of classes.",
+      "subject_code": "APSC",
+      "course_number": "160",
+      "section_number": "VL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analysis and simulation, laboratory data acquisition and processing, measurement interfaces, engineering tools, computer systems organization, programming languages. Credit will only be given for one of: APSC 160, CPSC 301, or EOSC 211.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List",
+    "Lecture"
+  ]
+}

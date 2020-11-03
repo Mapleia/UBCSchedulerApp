@@ -1,0 +1,78 @@
+{
+  "course_name": "MATH 223",
+  "subject_code": "MATH",
+  "course_number": "223",
+  "course_title": "Linear Algebra",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=223&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 223 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=223&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "223",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PLAN, YANIV",
+        "PLAN, YANIV(Coordinator)"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "54",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 223 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=223&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "223",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "1",
+        "31",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

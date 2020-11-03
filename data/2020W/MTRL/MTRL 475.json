@@ -1,0 +1,71 @@
+{
+  "course_name": "MTRL 475",
+  "subject_code": "MTRL",
+  "course_number": "475",
+  "course_title": "Microstructure Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=475&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 475 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=475&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "475",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILITZER, MATTHIAS"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 475 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=475&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "475",
+      "section_number": "T2A",
+      "building": "Frank Forward",
+      "room": "217",
+      "instructors": [
+        "MILITZER, MATTHIAS"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Follows the production of metallurgical products, focusing on process design models used to describe solidification, recrystallization, and precipitation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Tutorial"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "course_name": "RUSS 301",
+  "subject_code": "RUSS",
+  "course_number": "301",
+  "course_title": "Third-Year Russian I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RUSS&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RUSS 301 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RUSS&course=301&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "RUSS",
+      "course_number": "301",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRYKHODKO, DARIYA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Advanced intermediate oral practice, syntax and composition. Credit will be granted for only one of RUSS 301 or 300.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

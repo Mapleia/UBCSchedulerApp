@@ -1,0 +1,105 @@
+{
+  "course_name": "MATH 190",
+  "subject_code": "MATH",
+  "course_number": "190",
+  "course_title": "Calculus Survey",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=190&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MATH 190 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=190&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This course is for Forestry Students Only.   Correct Prerequisites are:  Principles of Mathematics 12 and registraton in the BSF or BSCN programs.  Please register for either lab section L1A or L1B.",
+      "subject_code": "MATH",
+      "course_number": "190",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALPERT, HANNAH",
+        "RECHNITZER, ANDREW(Coordinator)",
+        "MUKHTAR, NABA(Lead)",
+        "ZENG, EDWARD JIAYU"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "69",
+      "generalRemaining": "0",
+      "restrictedRemaining": "31"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 190 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=190&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course is for Forestry Students Only.   Correct Prerequisites are:  Principles of Mathematics 12 and registraton in the BSF or BSCN programs.  Please register for either lab section L1A or L1B.",
+      "subject_code": "MATH",
+      "course_number": "190",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "MUKHTAR, NABA(Lead)",
+        "MUTANGANA, M FRED"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "MATH 190 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=190&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course is for Forestry Students Only.   Correct Prerequisites are:  Principles of Mathematics 12 and registraton in the BSF or BSCN programs.  Please register for either lab section L1A or L1B.",
+      "subject_code": "MATH",
+      "course_number": "190",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "MUKHTAR, NABA(Lead)",
+        "MUTANGANA, M FRED"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "36",
+      "generalRemaining": "11",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Functions, derivatives, integrals, curve sketching growth functions, volume calculations.  Only for credit in the Faculty of Forestry.  Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

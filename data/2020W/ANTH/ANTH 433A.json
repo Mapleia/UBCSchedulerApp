@@ -1,0 +1,97 @@
+{
+  "course_name": "ANTH 433A",
+  "subject_code": "ANTH",
+  "course_number": "433A",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=433A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ANTH 433A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=433A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "08:30",
+      "comments": "Needs Instructor Approval.",
+      "subject_code": "ANTH",
+      "course_number": "433A",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ANTH 433A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=433A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "433A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ANTH 433A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=433A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "433A",
+      "section_number": "003",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student. No more than six credits of Directed Studies may be taken for credit toward the Major or Honours program.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

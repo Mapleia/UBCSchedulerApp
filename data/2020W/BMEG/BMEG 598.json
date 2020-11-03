@@ -1,0 +1,97 @@
+{
+  "course_name": "BMEG 598",
+  "subject_code": "BMEG",
+  "course_number": "598",
+  "course_title": "Biomedical Engineering Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BMEG 598 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=598&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is for students who will be completing their program by December 2020. In order to register, contact SBME Student Services at students@bme.ubc.ca.",
+      "subject_code": "BMEG",
+      "course_number": "598",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, KAREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BMEG 598 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=598&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is for students who entered the program in January 2021. In order to register, contact SBME Student Services at students@bme.ubc.ca.",
+      "subject_code": "BMEG",
+      "course_number": "598",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CHEUNG, KAREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "BMEG 598 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=598&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "598",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, KAREN"
+      ],
+      "totalRemaining": "39",
+      "currentlyRegistered": "111",
+      "generalRemaining": "0",
+      "restrictedRemaining": "39"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Presentation and discussion of current topics in biomedical engineering research and development. A required course for all graduate students in Biomedical Engineering.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

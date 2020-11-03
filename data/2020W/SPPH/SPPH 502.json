@@ -1,0 +1,70 @@
+{
+  "course_name": "SPPH 502",
+  "subject_code": "SPPH",
+  "course_number": "502",
+  "course_title": "Epidemiological Methods 1",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=502&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 502 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=502&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:30",
+      "end": "17:30",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "502",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUMMER, TREVOR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "104",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "SPPH 502 DL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=502&section=DL1&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI*"
+      ],
+      "start": "13:30",
+      "end": "17:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.caPlease note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.* every second week starting with start week",
+      "subject_code": "SPPH",
+      "course_number": "502",
+      "section_number": "DL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PEARCE, MARGO",
+        "SCHECHTER, MARTIN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Sources and uses of epidemiologic data for health services planning and administration including methods of data collection and study design.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

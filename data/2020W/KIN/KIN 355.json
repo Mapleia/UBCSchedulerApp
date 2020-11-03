@@ -1,0 +1,71 @@
+{
+  "course_name": "KIN 355",
+  "subject_code": "KIN",
+  "course_number": "355",
+  "course_title": "Movement Experiences for Young Children",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 355 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=355&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course is formerly KIN 366 . Students can receive credit for either KIN 366 or KIN 355",
+      "subject_code": "KIN",
+      "course_number": "355",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BREDIN, SHANNON"
+      ],
+      "totalRemaining": "94",
+      "currentlyRegistered": "106",
+      "generalRemaining": "0",
+      "restrictedRemaining": "94"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 355 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=355&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 366 . Students can receive credit for either KIN 366 or KIN 355",
+      "subject_code": "KIN",
+      "course_number": "355",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The design and implementation of movement experiences for children in early childhood years.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

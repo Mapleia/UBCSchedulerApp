@@ -1,0 +1,44 @@
+{
+  "course_name": "ARBC 202",
+  "subject_code": "ARBC",
+  "course_number": "202",
+  "course_title": "Intermediate Classical and Quranic Arabic II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARBC&course=202&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARBC 202 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARBC&course=202&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. Students who have received credit for ARBC 400 may not also receive credit for ARBC 201 or 202",
+      "subject_code": "ARBC",
+      "course_number": "202",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHAZI, BUSHRA SEEMI YASMIN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Classical Arabic. Designed to further enrich vocabulary and grammar and to enhance fluency in reading and interpreting longer texts from Qur'an, Hadith and other genres.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

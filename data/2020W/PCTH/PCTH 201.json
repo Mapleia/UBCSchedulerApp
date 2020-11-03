@@ -1,0 +1,51 @@
+{
+  "course_name": "PCTH 201",
+  "subject_code": "PCTH",
+  "course_number": "201",
+  "course_title": "Drugs and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PCTH 201 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=201&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PCTH",
+      "course_number": "201",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERNATCHEZ, PASCAL",
+        "GRIESDALE, DONALD E",
+        "HORNE, ANDREW",
+        "HORNE, ANDREW(Coordinator)",
+        "LEUNG, JOANNE Y T",
+        "PANG, CATHERINE C",
+        "SHABBITS, JENNIFER ANNE",
+        "WU, KEITH"
+      ],
+      "totalRemaining": "82",
+      "currentlyRegistered": "68",
+      "generalRemaining": "82",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introductory principles of drug action. Historical and present day medical and non-medical use of drugs.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

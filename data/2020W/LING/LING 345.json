@@ -1,0 +1,45 @@
+{
+  "course_name": "LING 345",
+  "subject_code": "LING",
+  "course_number": "345",
+  "course_title": "Pragmatics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=345&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LING 345 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=345&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "345",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Selected topics in pragmatics and information structure, including variations in their cross-linguistic expression and the corresponding influence of sentence form on context.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

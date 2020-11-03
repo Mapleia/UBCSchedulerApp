@@ -1,0 +1,43 @@
+{
+  "course_name": "JRNL 534",
+  "subject_code": "JRNL",
+  "course_number": "534",
+  "course_title": "Media Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=534&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "JRNL 534 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=534&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This course will take place online.  Course access will be emailed to students prior to start of the first class.",
+      "subject_code": "JRNL",
+      "course_number": "534",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURNETT, DANIEL WILLIAM"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

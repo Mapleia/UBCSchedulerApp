@@ -1,0 +1,45 @@
+{
+  "course_name": "PHYS 401",
+  "subject_code": "PHYS",
+  "course_number": "401",
+  "course_title": "Electromagnetic Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 401 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=401&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "401",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHLEICH, KRISTIN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "105",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Applications of Maxwell's theory. Wave propagation in dielectrics, conductors and plasmas, wave guides, radiation, antennae, and special relativity.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

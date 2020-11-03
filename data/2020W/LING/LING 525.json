@@ -1,0 +1,44 @@
+{
+  "course_name": "LING 525",
+  "subject_code": "LING",
+  "course_number": "525",
+  "course_title": "Semantic Theory and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=525&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 525 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=525&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "525",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORZYCKI, MARCIN"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "6",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Discussion and critical analysis of current issues in semantic theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

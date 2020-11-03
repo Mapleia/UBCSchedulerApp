@@ -1,0 +1,72 @@
+{
+  "course_name": "PHYS 420C",
+  "subject_code": "PHYS",
+  "course_number": "420C",
+  "course_title": "Physics Demonstrations - PHYS DEMONSTRATS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=420C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 420C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=420C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "For September 2020W Term 1, this course will run online. No regular meetings in T2 and students will present demonstrations at local schools in T2. Minimum 68% cumulative average required to be allowed in the course. Students who do not meet the requirement will be removed from the course before course starts.",
+      "subject_code": "PHYS",
+      "course_number": "420C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOTLICKI, ANDRZEJ",
+        "MCKENNA, JANIS"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 420C 00W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=420C&section=00W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please sign up on the waitlist if you wish to take PHYS 420C. Minimum 68% cumulative average required to be allowed in the course. Qualified students will be moved into the course from the waitlist.",
+      "subject_code": "PHYS",
+      "course_number": "420C",
+      "section_number": "00W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The students will prepare, under the supervision of a faculty member, a demonstration or series of demonstrations intended to illustrate physical principles to diverse audiences. Intended for third- or fourth-year Physics Majors and Math/Science Education students.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

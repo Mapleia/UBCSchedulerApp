@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 554",
+  "subject_code": "MUSC",
+  "course_number": "554",
+  "course_title": "University Choral Union",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=554&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 554 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=554&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "For graduate students (undergraduates register in MUSC 554 001). OPEN TO NON-MUSIC STUDENTS. How do I register for ensembles?  For most ensembles an audition is required to secure your place.  Auditions for ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html. Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.",
+      "subject_code": "MUSC",
+      "course_number": "554",
+      "section_number": "001",
+      "building": "Music",
+      "room": "116",
+      "instructors": [
+        "LANGAGER, GRAEME"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Open only to graduate students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

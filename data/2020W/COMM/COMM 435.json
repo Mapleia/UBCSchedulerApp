@@ -1,0 +1,43 @@
+{
+  "course_name": "COMM 435",
+  "subject_code": "COMM",
+  "course_number": "435",
+  "course_title": "CIO Strategies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=435&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 435 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=435&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "435",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOO, CARSON C"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Common issues faced by Chief Information Officers (CIO): Cost and value of information technology (IT), IT priorities, IT and the Board of Directors, Business-IT alignment, IT governance, IT talent management, standardization vs. innovation, project and vendor management/partnering, and managing security and risks.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

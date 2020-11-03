@@ -1,0 +1,45 @@
+{
+  "course_name": "RUSS 202",
+  "subject_code": "RUSS",
+  "course_number": "202",
+  "course_title": "Second-Year Russian II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RUSS&course=202&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "RUSS 202 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RUSS&course=202&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "RUSS 202 is part of the Russian Language Program in the Department of CENES. This course refines the learners' skills in reading, writing, speaking and listening comprehension. Classes will be conducted in an interactive, seminar style, using a combination of the explicit teaching of the Russian language using instructor's explanations and/or demonstrations of the material, direct instruction, small and large group discussion, and small and large group activities. This course will be taught synchronously online.",
+      "subject_code": "RUSS",
+      "course_number": "202",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHITNEV, VETA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A continuation of RUSS 201. Intermediate oral practice, grammar, reading, composition. A special section may be provided for Science students. Credit will be granted for only one of RUSS 202 or RUSS 200.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

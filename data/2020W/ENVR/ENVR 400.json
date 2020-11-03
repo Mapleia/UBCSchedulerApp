@@ -1,0 +1,47 @@
+{
+  "course_name": "ENVR 400",
+  "subject_code": "ENVR",
+  "course_number": "400",
+  "course_title": "Community Project in Environmental Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENVR&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENVR 400 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=400&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ENVR",
+      "course_number": "400",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "IVANOCHKO, TARA",
+        "LIPSEN, MICHAEL",
+        "TUZLAK, DAPHNEE",
+        "BEUTEL, REBECCA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Instructor-guided collaboration between student teams and community partners on community-based environmental science projects. Teams articulate project questions and goals, devise methods, conduct research and communicate results. Credit will be given for only one of ENVR 400 or ENVR 449.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

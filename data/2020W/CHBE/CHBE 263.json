@@ -1,0 +1,121 @@
+{
+  "course_name": "CHBE 263",
+  "subject_code": "CHBE",
+  "course_number": "263",
+  "course_title": "Introduction to Chemical and Biological Engineering Laboratory Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=263&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 263 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=263&section=101&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "263",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 263 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=263&section=102&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "263",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 263 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=263&section=103&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "263",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 263 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=263&section=104&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "263",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Introduction to Chemical and Biological Engineering laboratory practice with topics in physical, inorganic and organic chemistry.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

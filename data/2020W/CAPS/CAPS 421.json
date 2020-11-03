@@ -1,0 +1,45 @@
+{
+  "course_name": "CAPS 421",
+  "subject_code": "CAPS",
+  "course_number": "421",
+  "course_title": "Advanced Cellular and Molecular Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CAPS&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CAPS 421 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=421&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CAPS",
+      "course_number": "421",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NABI, IVAN ROBERT",
+        "UNDERHILL, TULLY MICHAEL"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "27",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Recent advancements in cellular and molecular physiology that have revolutionized our understanding of cell function in health and disease.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

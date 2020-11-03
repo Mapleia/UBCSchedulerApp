@@ -1,0 +1,44 @@
+{
+  "course_name": "HIST 368",
+  "subject_code": "HIST",
+  "course_number": "368",
+  "course_title": "Europe in the 19th Century",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=368&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 368 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=368&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "368",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATHESON, MARY"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "35",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An investigation of main themes in European history from the French Revolution to the beginning of the 20th century. Topics of particular importance are: domestic politics; the interaction of states; the formation of new states; social and economic transformations affecting the whole civilization; major cultural expressions of the century.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

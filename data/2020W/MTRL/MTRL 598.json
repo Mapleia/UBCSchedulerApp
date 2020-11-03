@@ -1,0 +1,73 @@
+{
+  "course_name": "MTRL 598",
+  "subject_code": "MTRL",
+  "course_number": "598",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MTRL 598 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=598&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "MTRL MERC for MTRL Graduate Students Only",
+      "subject_code": "MTRL",
+      "course_number": "598",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MTRL 598 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=598&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "598",
+      "section_number": "201",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": "Presentation and discussion of current topics in metals and materials research. A required course for graduate students in metals and materials which carries no academic credit.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

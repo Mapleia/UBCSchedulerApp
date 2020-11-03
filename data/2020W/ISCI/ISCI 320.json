@@ -1,0 +1,43 @@
+{
+  "course_name": "ISCI 320",
+  "subject_code": "ISCI",
+  "course_number": "320",
+  "course_title": "Research Development Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ISCI 320 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=320&section=201&sessyr=2020&sesscd=W",
+      "activity": "Field Trip",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SUN"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "The dates for this course are tentatively scheduled as April 29th- May 7, 2021.This is a web-oriented offering of the ISCI 320 field course.",
+      "subject_code": "ISCI",
+      "course_number": "320",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Retreat to develop skills in writing scientific research proposals.  Emphasis on formulating and testing hypotheses to explain observations.  Course location will vary; fee payable prior to retreat.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Field Trip"
+  ]
+}

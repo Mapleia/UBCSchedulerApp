@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 533",
+  "subject_code": "MECH",
+  "course_number": "533",
+  "course_title": "Biofluids",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=533&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MECH 533 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=533&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "533",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 533 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=533&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "533",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRECOV, DANA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in the human body. Credit will be granted for only one of MECH 433 or 533.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

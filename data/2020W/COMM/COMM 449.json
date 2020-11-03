@@ -1,0 +1,71 @@
+{
+  "course_name": "COMM 449",
+  "subject_code": "COMM",
+  "course_number": "449",
+  "course_title": "Supply-Chain Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 449 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=449&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "449",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WERKER, GREGORY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 449 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=449&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "449",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WERKER, GREGORY"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "34",
+      "generalRemaining": "5",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Integrated management of production and logistics systems; management of inter-organizational  relationships in the supply chain, including vendor selection, bidding and negotiation processes, partnering and performance measurement.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

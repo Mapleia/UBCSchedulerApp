@@ -1,0 +1,72 @@
+{
+  "course_name": "ARTH 321",
+  "subject_code": "ARTH",
+  "course_number": "321",
+  "course_title": "Public and Private Bodies: Italian Renaissance Art and Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARTH 321 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=321&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Explores changing roles of visual art and culture within communes, courts, religious practices, and private lives in Renaissance Italy. New patrons and uses for artworks prompted artistic activity that shaped contemporary values, ideas, beliefs, and identities. For example, bankers, merchants, and mercenaries exploited the power of art to forge and buttress their public image and family name. Churches and guilds propagated their claims through visual imagery. Gender, sexuality, and space provided frameworks through which power and legitimacy were staged and contested during a pivotal century shaped by the printing press, the discovery of worlds previously unknown to Europeans, the invasion of Italy by foreigners, the Reformation and Counter-Reformation, and the rising status of the artis and ~t.",
+      "subject_code": "ARTH",
+      "course_number": "321",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MONTEYNE, JOSEPH"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "76",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 321 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=321&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "ARTH 321 01W is a waitlist for ARTH 321 001. Students will be moved from the waitlist into the lecture as seats become available, and then notified of their registration via email.",
+      "subject_code": "ARTH",
+      "course_number": "321",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "96",
+      "currentlyRegistered": "3",
+      "generalRemaining": "96",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Visual art and culture within the social, political, and religious contexts of the Papacy and the city-states ca. 1350-1550 (Siena, Florence, Venice, Mantua).",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

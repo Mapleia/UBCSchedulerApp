@@ -1,0 +1,47 @@
+{
+  "course_name": "MATH 226",
+  "subject_code": "MATH",
+  "course_number": "226",
+  "course_title": "Advanced Calculus I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=226&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 226 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=226&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "All students attend M and F 11am, and one of W 11am or W 6pm.The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "226",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LABA, IZABELLA",
+        "LABA, IZABELLA(Coordinator)",
+        "WHITE, ETHAN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "76",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Functions of several variables: limits, continuity, differentiability; implicit functions; Taylor's theorem; extrema; Lagrange multipliers; multiple integration, Fubini's theorem; improper integrals. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

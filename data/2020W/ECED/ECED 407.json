@@ -1,0 +1,123 @@
+{
+  "course_name": "ECED 407",
+  "subject_code": "ECED",
+  "course_number": "407",
+  "course_title": "Supporting Early Learning in the Pre-School Years",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ECED 407 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=407&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ECED",
+      "course_number": "407",
+      "section_number": "63A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PIGHINI, MARIA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECED 407 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=407&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 407 / W3C",
+      "subject_code": "ECED",
+      "course_number": "407",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KIM, JI EUN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 407 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=407&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This waitlist is now closed.",
+      "subject_code": "ECED",
+      "course_number": "407",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 407 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=407&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for ECED 407 / 63C. Waitlist works on a priority basis.Students registered in the degree programs MED, MA, DEDU EYED, DEDU IDSC, CEYED, CIDSC or BA MIN EDUC, EMP ECED, as well as Unclassified students, are switched to available seats first.  Students will be moved from the waitlist and into the course ONCE PER DAY.",
+      "subject_code": "ECED",
+      "course_number": "407",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Planning and implementing pre-kindergarten learning experiences; resources, materials, curriculum integration, evaluation, scheduling, and classroom design.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

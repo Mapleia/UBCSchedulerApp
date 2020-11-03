@@ -1,0 +1,366 @@
+{
+  "course_name": "CPSC 317",
+  "subject_code": "CPSC",
+  "course_number": "317",
+  "course_title": "Internet Computing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=317&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 317 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAGNER, ALAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "192",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 317 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ACTON, DONALD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "176",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "21",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "44",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "43",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "32",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 317 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAGNER, ALAN"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 317 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "9",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T2C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "39",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 T2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=T2D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "T2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "39",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 317 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=317&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "317",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "832",
+      "currentlyRegistered": "167",
+      "generalRemaining": "832",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Computer networking, basic communication protocols, network infrastructure and routing.  Common application-level protocols and principles associated with developing distributed applications.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

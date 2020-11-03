@@ -1,0 +1,44 @@
+{
+  "course_name": "LING 530J",
+  "subject_code": "LING",
+  "course_number": "530J",
+  "course_title": "Linguistic Problems in a Special Area - PROB IN SPC AREA",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=530J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 530J 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=530J&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Topics in Computational Linguistics: Computational Morphology",
+      "subject_code": "LING",
+      "course_number": "530J",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILFVERBERG, MIIKKA PIETARI"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "6",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

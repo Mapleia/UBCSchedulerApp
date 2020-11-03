@@ -1,0 +1,74 @@
+{
+  "course_name": "CPSC 406",
+  "subject_code": "CPSC",
+  "course_number": "406",
+  "course_title": "Computational Optimization",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 406 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=406&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "406",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOSHI, BABHRU"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "113",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 406 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=406&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "406",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "986",
+      "currentlyRegistered": "13",
+      "generalRemaining": "986",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

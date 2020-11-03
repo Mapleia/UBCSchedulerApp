@@ -1,0 +1,126 @@
+{
+  "course_name": "COMM 436",
+  "subject_code": "COMM",
+  "course_number": "436",
+  "course_title": "Information Systems Analysis and Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=436&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 436 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=436&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "436",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAGHAVI, ATEFEH"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 436 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=436&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "436",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAGHAVI, ATEFEH"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "45",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 436 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=436&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "436",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOO, CARSON C"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "47",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 436 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=436&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "436",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOO, CARSON C"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "43",
+      "generalRemaining": "1",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The process of information systems development; modern techniques and tools for systems analysis and design.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

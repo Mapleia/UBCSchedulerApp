@@ -1,0 +1,45 @@
+{
+  "course_name": "MATH 421",
+  "subject_code": "MATH",
+  "course_number": "421",
+  "course_title": "Real Analysis II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 421 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=421&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This course will be held in MATH 126",
+      "subject_code": "MATH",
+      "course_number": "421",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LABA, IZABELLA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Banach spaces, linear operators, bounded and compact operators, strong, weak, and weak* topology.  Hahn-Banach, open mapping, and closed graph theorems.  Hilbert spaces, symmetric and self-adjoint operators, spectral theory for bounded operators.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

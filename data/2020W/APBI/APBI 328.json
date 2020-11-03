@@ -1,0 +1,124 @@
+{
+  "course_name": "APBI 328",
+  "subject_code": "APBI",
+  "course_number": "328",
+  "course_title": "Weed Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=328&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 328 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=328&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "328",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRENZ, JENNIFER"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 328 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=328&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "328",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRENZ, JENNIFER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 328 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=328&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "328",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRENZ, JENNIFER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 328 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=328&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "328",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRENZ, JENNIFER"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Importance, identification, dissemination and biology of weeds; preventive, cultural, biological and chemical methods of control.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

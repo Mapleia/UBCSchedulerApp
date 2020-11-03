@@ -1,0 +1,122 @@
+{
+  "course_name": "BUSI 101",
+  "subject_code": "BUSI",
+  "course_number": "101",
+  "course_title": "Capital Markets and Real Estate",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "101",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 101 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=101&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "101",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 101 01T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=101&section=01T&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "101",
+      "section_number": "01T",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 101 02T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=101&section=02T&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "101",
+      "section_number": "02T",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic principles of macroeconomics and application to current economic problems.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

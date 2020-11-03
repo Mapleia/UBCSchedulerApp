@@ -1,0 +1,71 @@
+{
+  "course_name": "KIN 211",
+  "subject_code": "KIN",
+  "course_number": "211",
+  "course_title": "Human Motor Behaviour I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 211 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=211&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course is formerly KIN 230 . Students can receive credit for either KIN 230 or KIN 211",
+      "subject_code": "KIN",
+      "course_number": "211",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HODGES, NICOLA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "214",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 211 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=211&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.",
+      "subject_code": "KIN",
+      "course_number": "211",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

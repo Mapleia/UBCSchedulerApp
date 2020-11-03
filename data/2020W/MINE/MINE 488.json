@@ -1,0 +1,70 @@
+{
+  "course_name": "MINE 488",
+  "subject_code": "MINE",
+  "course_number": "488",
+  "course_title": "Heavy Oil Sand Mining and Processing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=488&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Temp. Unavailable",
+      "section": "MINE 488 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=488&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "cross-listed with APSC 498A",
+      "subject_code": "MINE",
+      "course_number": "488",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHOEN, MICHAEL"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Temp. Unavailable",
+      "section": "MINE 488 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=488&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "cross-listed with APSC 498APre-reqs: MINE 310",
+      "subject_code": "MINE",
+      "course_number": "488",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHOEN, MICHAEL"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Life cycle of the production of Oil Sands resources, including mining, bitumen extraction, and reclamation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

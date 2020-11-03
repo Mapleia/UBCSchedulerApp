@@ -1,0 +1,43 @@
+{
+  "course_name": "STAT 589",
+  "subject_code": "STAT",
+  "course_number": "589",
+  "course_title": "M.Sc. Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=589&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "STAT 589 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=589&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "STAT",
+      "course_number": "589",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

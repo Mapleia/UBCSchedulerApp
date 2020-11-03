@@ -1,0 +1,70 @@
+{
+  "course_name": "LAW 489",
+  "subject_code": "LAW",
+  "course_number": "489",
+  "course_title": "Clinical Term: Paper",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=489&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 489 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=489&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Registration by permission only.  This course does NOT fulfill the 3 credit seminar requirement.",
+      "subject_code": "LAW",
+      "course_number": "489",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARKASKAS, PATRICIA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "7",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 489 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=489&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Registration by permission only.  This course does NOT fulfill the 3 credit seminar requirement.",
+      "subject_code": "LAW",
+      "course_number": "489",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARKASKAS, PATRICIA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "The graded component of LAW 488.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

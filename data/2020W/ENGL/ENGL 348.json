@@ -1,0 +1,129 @@
+{
+  "course_name": "ENGL 348",
+  "subject_code": "ENGL",
+  "course_number": "348",
+  "course_title": "Shakespeare",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=348&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 348 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=348&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "348",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIRLUCK, KATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 348 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=348&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "348",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAVELL, RICHARD ANTHONY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "40",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 348 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=348&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "348",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NARDIZZI, VINCENT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 348 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=348&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "348",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BOSE, SARIKA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "19",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A detailed study of Shakespeare's works. Consult department website for current year's offerings.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

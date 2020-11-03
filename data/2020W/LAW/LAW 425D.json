@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 425D",
+  "subject_code": "LAW",
+  "course_number": "425D",
+  "course_title": "Cyberspace Law - CYBERSPACE LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=425D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 425D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=425D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "*Cross-listed with LAW 572.001*",
+      "subject_code": "LAW",
+      "course_number": "425D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATSUI, SHIGENORI"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "18",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Legal issues arising from the development of the Internet and cyberspace.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

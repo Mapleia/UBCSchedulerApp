@@ -1,0 +1,43 @@
+{
+  "course_name": "PCTH 513",
+  "subject_code": "PCTH",
+  "course_number": "513",
+  "course_title": "Pharmacology of Anesthesia",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=513&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 513 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=513&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course has not been given since the co-ordinator retired in 2017W.This course has not been given since the co-ordinator retired in 2017W.",
+      "subject_code": "PCTH",
+      "course_number": "513",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Pharmacology of drugs used in anesthesia. Conferences, assigned reading and laboratory exercises demonstrating the actions of drugs as currently applied in the practice of anesthesia.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

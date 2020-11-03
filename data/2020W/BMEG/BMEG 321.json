@@ -1,0 +1,123 @@
+{
+  "course_name": "BMEG 321",
+  "subject_code": "BMEG",
+  "course_number": "321",
+  "course_title": "Biomedical Instrumentation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 321 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=321&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "321",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "BMEG 321 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=321&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:30",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "321",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "BMEG 321 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=321&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "321",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "BMEG 321 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=321&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "321",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Fundamental principles of operation and types of medical equipment used for measurements of respiratory and circulatory systems, and biopotential signals, as well as open, minimally-invasive, and robotic surgery. Other topics include medical imaging, image processing, and simulations. Credit will only be granted for one of BMEG 321, ELEC 371.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

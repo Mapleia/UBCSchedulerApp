@@ -1,0 +1,44 @@
+{
+  "course_name": "PSYC 371",
+  "subject_code": "PSYC",
+  "course_number": "371",
+  "course_title": "Behavioural Neuroscience II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 371 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=371&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "371",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SNYDER, JASON"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "98",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Neurodevelopment and neuroplasticity, the physiological bases of several motivated behaviours (sleep, sexual behaviour, hunger and eating, drugs and addiction), cognition, the stress response, and brain dysfunction and recovery.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "MTRL 280",
+  "subject_code": "MTRL",
+  "course_number": "280",
+  "course_title": "Materials in Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MTRL 280 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=280&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "280",
+      "section_number": "201",
+      "building": "Chemistry",
+      "room": "B250",
+      "instructors": [
+        "SINCLAIR, CHADWICK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MTRL 280 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=280&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "280",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINCLAIR, CHADWICK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The process of materials selection for different design criteria; the importance of shape and processing variables; the use of computer software in the selection process.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

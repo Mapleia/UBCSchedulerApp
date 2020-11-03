@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 581C",
+  "subject_code": "SPPH",
+  "course_number": "581C",
+  "course_title": "Selected Topics - DATA ANALYSIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=581C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SPPH 581C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=581C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Classroom Location: SPPH B138Course is held entirely online.  To access course module, go to UBC Canvas at www.canvas.ubc.caCourse registration is restricted. Please contact the instructor Jason Sutherland for permission to register. Email  jason.sutherland@ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "581C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUTHERLAND, JASON"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "By seminar and directed readings, certain topics of current interest are explored in depth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

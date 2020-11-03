@@ -1,0 +1,49 @@
+{
+  "course_name": "PCTH 404",
+  "subject_code": "PCTH",
+  "course_number": "404",
+  "course_title": "Drug Assay and Pharmacometrics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PCTH 404 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=404&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Some or all activities in Term 2 may return to being conducted in person, depending on provincial and university policies in response to the COVID-19 pandemic; should this happen, the course director will work with any students unable to return to campus to allow for completion of the course.",
+      "subject_code": "PCTH",
+      "course_number": "404",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARR, ALASDAIR",
+        "BERNATCHEZ, PASCAL",
+        "CARLETON, BRUCE",
+        "GOODCHILD, SAMUEL",
+        "HORNE, ANDREW",
+        "HORNE, ANDREW(Coordinator)",
+        "WALKER, MICHAEL"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "16",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The techniques, including methods of statistical analysis, used to detect and measure the actions of endogenous or exogenous chemicals, using chemical assays and bioassays as appropriate. Enrolment limited to students in Pharmacology and others with permission of the department head.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

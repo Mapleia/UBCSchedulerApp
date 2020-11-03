@@ -1,0 +1,73 @@
+{
+  "course_name": "APBI 426",
+  "subject_code": "APBI",
+  "course_number": "426",
+  "course_title": "Plant-Microbe Interactions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=426&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 426 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=426&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "426",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANEY, CARA",
+        "KRONSTAD, JAMES"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 426 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=426&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "426",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Biology and physiology of selected plant-microbe relationships. Impacts of plant-microbe relationships on society.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

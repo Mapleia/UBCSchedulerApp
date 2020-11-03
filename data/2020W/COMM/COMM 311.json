@@ -1,0 +1,43 @@
+{
+  "course_name": "COMM 311",
+  "subject_code": "COMM",
+  "course_number": "311",
+  "course_title": "Research Theory for Commerce Scholars",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "COMM 311 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=311&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This course is restricted to students accepted to the Commerce Scholars Program. See the BCom website for details: mybcom.sauder.ubc.ca/csp",
+      "subject_code": "COMM",
+      "course_number": "311",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEIDEL, MARC-DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Social science research: theory, research design, methods, and criticism. For students in the Commerce Scholars Program only.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

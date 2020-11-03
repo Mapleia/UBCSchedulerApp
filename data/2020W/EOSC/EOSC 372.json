@@ -1,0 +1,113 @@
+{
+  "course_name": "EOSC 372",
+  "subject_code": "EOSC",
+  "course_number": "372",
+  "course_title": "Introductory Oceanography: Circulation and Plankton",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 372 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=372&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "EOSC 372 can not be taken by students who have credit for EOSC 370, EOSC 371, or BIOL 305. Students in the Environmental Engineering program should register on the waitlist and contact Alicia Warkentin; Senior Program Assistant; Undergraduate Programs at awarkentin@eoas.ubc.ca; to be transfered into the course.",
+      "subject_code": "EOSC",
+      "course_number": "372",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOCK, STEPHANIE",
+        "MALDONADO-PAREJA, MARIA",
+        "ORIANS, KRISTIN",
+        "HENDERSON, CONNOR",
+        "MASON, EDWARD",
+        "MCEWAN, NICOLE",
+        "WAUGH, LORI-JON"
+      ],
+      "totalRemaining": "42",
+      "currentlyRegistered": "138",
+      "generalRemaining": "39",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 372 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=372&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "introduced Evening section for fall 2020",
+      "subject_code": "EOSC",
+      "course_number": "372",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOCK, STEPHANIE",
+        "MALDONADO-PAREJA, MARIA",
+        "ORIANS, KRISTIN",
+        "HENDERSON, CONNOR",
+        "MCEWAN, NICOLE",
+        "WAUGH, LORI-JON"
+      ],
+      "totalRemaining": "128",
+      "currentlyRegistered": "32",
+      "generalRemaining": "128",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 372 W-L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=372&section=W-L&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "372",
+      "section_number": "W-L",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical and chemical processes and their controls on the distribution of plankton in the ocean.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

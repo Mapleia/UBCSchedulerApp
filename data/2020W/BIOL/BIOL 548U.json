@@ -1,0 +1,45 @@
+{
+  "course_name": "BIOL 548U",
+  "subject_code": "BIOL",
+  "course_number": "548U",
+  "course_title": "Advanced Topics in Biology - ADV TOPICS BIOL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548U&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "BIOL 548U 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548U&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Course description. SCIENTIFIC DATA MANAGEMENT FOR ECOLOGY AND EVOLUTION  This course will develop best practices in data management in ecology and evolution research. We will use a combination of instruction, in-class activities and projects to guide students through all parts of the research data lifecycle, starting with the collection and storage of data, progressing through the organizing of data (database design, \u001ctidy\u001d data principles, data versioning), the cleaning of data (quality assessment, geospatial and taxonomic data standards), and ending with the sharing of data (metadata and documentation, and archiving and accessing data in digital repositories following the new FAIR principles). Each student will work progressively through the course on an individual data management plan for the data they will collect - or have already collected - for one of  and ~their research projects. As well, students will work in small groups on preparing an existing biological dataset for archiving using R scripts. This course, one of the first such courses in Canada specifically geared to ecology and evolution, will give students the tools for managing their own research data as well as rescuing previously collected data.Pre-requisites\"\tGraduate student conducting thesis research specifically in Ecology or Evolutionary Biology\"\tIn order to create a Data Management Plan (major part of course grade), you are at a stage where you have an idea of what data you are likely to collect for part of your thesis, or you have already collected data for your thesis or a previous research project.\"\tIntroductory R programming experience (i.e. base R)Delivery format\"\t8 sessions, 1.5 hours per session\"\teach session generally includes a lecture and hands-on component, each varying in length among sessionsFull syllabus: https://osf.io/sjf2g/wiki/Course%20outline/Tuesday, Thursday  10:30-12:00 PDT. Nov2-Dec4 excl. the week of Nov 9Instructors: Sally Taylor, Diane Srivastava, Raymond Ng , and postdocs from Living Data Project.",
+      "subject_code": "BIOL",
+      "course_number": "548U",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMUNDRUD, SARAH",
+        "SRIVASTAVA, DIANE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

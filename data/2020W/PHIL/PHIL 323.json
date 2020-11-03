@@ -1,0 +1,45 @@
+{
+  "course_name": "PHIL 323",
+  "subject_code": "PHIL",
+  "course_number": "323",
+  "course_title": "Non-Classical Logics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 323 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=323&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "COVID-19 notice: Scheduled meeting times will be utilized to discuss the course material, go over proofs, and provide a live forum in which students can ask questions. Most students will probably find these interactive meetings the best way to learn the required material. However, attendance at these sessions will not be required (though it is strongly encouraged).",
+      "subject_code": "PHIL",
+      "course_number": "323",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GILBERT, DAVID ROBERT"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "16",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "One or more of conditional logic, deontic logic, epistemic logic, many-valued logic, systems of belief dynamics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

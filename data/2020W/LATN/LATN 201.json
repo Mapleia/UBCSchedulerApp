@@ -1,0 +1,72 @@
+{
+  "course_name": "LATN 201",
+  "subject_code": "LATN",
+  "course_number": "201",
+  "course_title": "Intermediate Latin I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LATN&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LATN 201 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=201&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 200 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 201 or 202.",
+      "subject_code": "LATN",
+      "course_number": "201",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MULDER, TARA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 201 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=201&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "13:30",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 200 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 201 or 202.",
+      "subject_code": "LATN",
+      "course_number": "201",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MINARD, ANTONE"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "17",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Completion of the grammatical foundations of classical Latin, Part I.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

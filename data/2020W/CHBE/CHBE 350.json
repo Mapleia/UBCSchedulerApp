@@ -1,0 +1,70 @@
+{
+  "course_name": "CHBE 350",
+  "subject_code": "CHBE",
+  "course_number": "350",
+  "course_title": "Mass Transfer Bridge Module",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 350 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=350&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "350",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAGHERZADEH HOSSEINI, SEYYED ALIREZA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Unreleased",
+      "section": "CHBE 350 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=350&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "350",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAGHERZADEH HOSSEINI, SEYYED ALIREZA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Mass transfer; molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; mass transfer coefficients; interphase mass transfer.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

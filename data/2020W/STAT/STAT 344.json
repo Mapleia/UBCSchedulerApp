@@ -1,0 +1,46 @@
+{
+  "course_name": "STAT 344",
+  "subject_code": "STAT",
+  "course_number": "344",
+  "course_title": "Sample Surveys",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 344 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=344&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS! For information on registration and wait lists, see https://www.stat.ubc.ca/undergrad-registration-info-and-faqsSeats reserved for Statistics specializations will be released on August 4th if not filled.",
+      "subject_code": "STAT",
+      "course_number": "344",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WU, LANG",
+        "WU, LANG(Coordinator)"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "171",
+      "generalRemaining": "24",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Planning and practice of sample surveys. Random sampling, bias and variance, unequal probability sampling, systematic, multistage and stratified sampling, ratio and regression estimators, post-stratification, establishing a frame, pretesting, pilot studies, nonresponse and additional topics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

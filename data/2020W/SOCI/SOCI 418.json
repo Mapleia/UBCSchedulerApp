@@ -1,0 +1,44 @@
+{
+  "course_name": "SOCI 418",
+  "subject_code": "SOCI",
+  "course_number": "418",
+  "course_title": "Social Statistics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=418&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 418 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=418&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "418",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "QIAN, YUE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Primary emphasis on applications of statistical techniques to data in Sociology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

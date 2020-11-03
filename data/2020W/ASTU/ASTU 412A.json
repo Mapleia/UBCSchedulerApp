@@ -1,0 +1,43 @@
+{
+  "course_name": "ASTU 412A",
+  "subject_code": "ASTU",
+  "course_number": "412A",
+  "course_title": "Co-operative Work Placement V - COOP PLACEMENT V",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=412A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASTU 412A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=412A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "412A",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

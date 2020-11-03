@@ -1,0 +1,71 @@
+{
+  "course_name": "CHBE 488",
+  "subject_code": "CHBE",
+  "course_number": "488",
+  "course_title": "Carbon Capture, Conversion and Sequestration Technologies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=488&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 488 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=488&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "488",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, NAOKO"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 488 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=488&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "CHBE",
+      "course_number": "488",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, NAOKO"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Examination of carbon capture technologies, and CO2 conversion and sequestration options. Technical foundations on carbon cycle, thermodynamics, transport, absorption, adsorption, sequestration, process control, mineralization and conversion. Analysis of cases in the context of technology, policy and regulatory framework. Credit will be granted for only one of CHBE 488 or CHBE 588.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Tutorial"
+  ]
+}

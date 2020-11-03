@@ -1,0 +1,103 @@
+{
+  "course_name": "RELG 201",
+  "subject_code": "RELG",
+  "course_number": "201",
+  "course_title": "Near Eastern and Biblical Mythology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RELG 201 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=201&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.RELG 201 and RELG 203 REPLACE RELG 202If the course is full or blocked, please register in the Wait List.  People on the wait list will be added to the main course in order of registration as spaces open up.",
+      "subject_code": "RELG",
+      "course_number": "201",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PETERS, KURTIS",
+        "POREBSKA-SMITH, MAYA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "60",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "RELG 201 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=201&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. RELG 201 and RELG 203 REPLACE RELG 202If the course is full or blocked, please register in the Wait List.  People on the wait list will be added to the main course in order of registration as spaces open up.",
+      "subject_code": "RELG",
+      "course_number": "201",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHNEIDER, THOMAS"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "79",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "RELG 201 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=201&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Wait List for RELG 201-002. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "RELG",
+      "course_number": "201",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the world of Near Eastern mythology, from the Gilgamesh Epic to the Book of Genesis and beyond.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

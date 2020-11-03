@@ -1,0 +1,44 @@
+{
+  "course_name": "ASTR 404",
+  "subject_code": "ASTR",
+  "course_number": "404",
+  "course_title": "Astronomical and Astrophysical Measurements",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 404 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=404&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "404",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HINSHAW, GARY"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Astronomical instrumentation and techniques for ground and space-based observations. Theory of measurement, imaging, interferometry and spectroscopy of electromagnetic radiation at optical, radio, infrared, and X-ray wavelengths. Astronomical data analysis.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "SOCI 420",
+  "subject_code": "SOCI",
+  "course_number": "420",
+  "course_title": "Sociology of the Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 420 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=420&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "420",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUDDART KENNEDY, EMILY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Sociological approaches to the study of environmental conflicts, issues, movements, impact of changing technology, economic development on the environment.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

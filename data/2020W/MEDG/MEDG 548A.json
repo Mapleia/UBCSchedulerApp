@@ -1,0 +1,70 @@
+{
+  "course_name": "MEDG 548A",
+  "subject_code": "MEDG",
+  "course_number": "548A",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=548A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 548A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=548A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "A non-Medical Genetics graduate student whose supervisor has an appointment in the Department of Medical Genetics may, with permission from the Department,  take MEDG 548.  Please email medical.genetics@ubc.ca.",
+      "subject_code": "MEDG",
+      "course_number": "548A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MEDG 548A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=548A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "A non-Medical Genetics graduate student whose supervisor has an appointment in the Department of Medical Genetics may, with permission from the Department,  take MEDG 548.  Please email medical.genetics@ubc.ca.",
+      "subject_code": "MEDG",
+      "course_number": "548A",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A series of laboratory sessions, directed readings and directed counselling interviews related to selected areas of Medical Genetics. This advanced course may be taken upon approval of the department head.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

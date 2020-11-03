@@ -1,0 +1,99 @@
+{
+  "course_name": "MECH 445",
+  "subject_code": "MECH",
+  "course_number": "445",
+  "course_title": "Fuel Cell Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 445 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=445&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "445",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAJARIAN, SIAMAK"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 445 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=445&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "445",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 445 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=445&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "445",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Energy system architecture and electrochemical energy conversion: fuel cell thermodynamics and electrochemistry; Proton Exchange Membrane Fuel Cells (PMFCs) and Solid Oxide Fuel Cells (SOFCSs); hydrogen production, storage, and distribution. Credit cannot be obtained for both MECH 445 and MECH 545.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

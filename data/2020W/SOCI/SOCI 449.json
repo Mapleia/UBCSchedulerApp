@@ -1,0 +1,43 @@
+{
+  "course_name": "SOCI 449",
+  "subject_code": "SOCI",
+  "course_number": "449",
+  "course_title": "Honours Tutorial",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOCI 449 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=449&section=301&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "449",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBINSON, ORAL"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Requires the presentation of at least one research paper. Restricted to students in the Sociology Honours program.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

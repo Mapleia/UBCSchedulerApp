@@ -1,0 +1,72 @@
+{
+  "course_name": "GEOG 560E",
+  "subject_code": "GEOG",
+  "course_number": "560E",
+  "course_title": "Economic Geography - ECONOMIC GEOG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=560E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 560E 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=560E&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "In-person seminar. Remote participation requires instructor's prior approval.",
+      "subject_code": "GEOG",
+      "course_number": "560E",
+      "section_number": "201",
+      "building": "Geography",
+      "room": "223",
+      "instructors": [
+        "PECK, JAMIE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 560E 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=560E&section=202&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "GEOG",
+      "course_number": "560E",
+      "section_number": "202",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

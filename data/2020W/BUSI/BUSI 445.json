@@ -1,0 +1,70 @@
+{
+  "course_name": "BUSI 445",
+  "subject_code": "BUSI",
+  "course_number": "445",
+  "course_title": "Real Estate Development I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 445 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=445&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "445",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 445 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=445&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "445",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Real estate development process from the project idea to the cursory feasibility stage.  Steps in development planning, including analysis, design and evaluation.  Evaluating development potential, land acquisition, and site planning.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

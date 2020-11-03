@@ -1,0 +1,71 @@
+{
+  "course_name": "PLAN 321",
+  "subject_code": "PLAN",
+  "course_number": "321",
+  "course_title": "Indigeneity and the City",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PLAN 321 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=321&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "321",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "46",
+      "currentlyRegistered": "4",
+      "generalRemaining": "46",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 321 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=321&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "321",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Place-based exploration of the multiple, complex and contested ways urban Indigeneity is constituted in Canada today, with opportunities for field trips and hands-on learning.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "LLED 325A",
+  "subject_code": "LLED",
+  "course_number": "325A",
+  "course_title": "Teaching and Learning French in Elementary Schools - T & L FREN ELEM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=325A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "LLED 325A 105",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=325A&section=105&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "325A",
+      "section_number": "105",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOSTUR, SANDI",
+        "NAVARRO, LIZA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Taught in French. Strategies, theoretical foundations, and approaches related to teaching elementary French (Immersion, Core, Intensive) programs. Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

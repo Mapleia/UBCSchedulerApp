@@ -1,0 +1,43 @@
+{
+  "course_name": "VISA 101",
+  "subject_code": "VISA",
+  "course_number": "101",
+  "course_title": "BFA Studio Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "VISA 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 101 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements).",
+      "subject_code": "VISA",
+      "course_number": "101",
+      "section_number": "001",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "3007",
+      "instructors": [
+        "MCCRUM, PHILLIP"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to a broad range of contemporary studio practice. Intended for first year Bachelor of Fine Arts VISA students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

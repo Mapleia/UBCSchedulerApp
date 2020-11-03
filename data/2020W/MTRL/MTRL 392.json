@@ -1,0 +1,69 @@
+{
+  "course_name": "MTRL 392",
+  "subject_code": "MTRL",
+  "course_number": "392",
+  "course_title": "Engineering Technical Communication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=392&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MTRL 392 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=392&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "392",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROGALSKI, PAMELA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MTRL 392 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=392&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "392",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROGALSKI, PAMELA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Written and oral technical communication. Report preparation and oral presentation of technical information.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

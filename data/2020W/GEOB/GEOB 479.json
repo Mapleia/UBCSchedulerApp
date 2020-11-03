@@ -1,0 +1,100 @@
+{
+  "course_name": "GEOB 479",
+  "subject_code": "GEOB",
+  "course_number": "479",
+  "course_title": "Research in Geographic Information Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=479&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOB 479 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=479&section=201&sessyr=2020&sesscd=W",
+      "activity": "Research",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "Mix of asynchronous and synchronous components: Several synchronous online lectures held during the scheduled class time.",
+      "subject_code": "GEOB",
+      "course_number": "479",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLINKENBERG, BRIAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 479 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=479&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "479",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLINKENBERG, BRIAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 479 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=479&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 479, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "479",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "4",
+        "1",
+        "4",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Students use GIS in primary research applications in conservation biology, crime analysis, and health geography; theoretical and practical aspects considered in a hands-on environment.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Research",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

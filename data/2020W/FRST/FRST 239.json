@@ -1,0 +1,98 @@
+{
+  "course_name": "FRST 239",
+  "subject_code": "FRST",
+  "course_number": "239",
+  "course_title": "Tree and Stand Level Measurements",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=239&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 239 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=239&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "239",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEMAY, VALERIE"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "53",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 239 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=239&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "239",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEMAY, VALERIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 239 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=239&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "239",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEMAY, VALERIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to measurement of individual trees and stands; use of aerial photographs, maps, and various measurement instruments.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

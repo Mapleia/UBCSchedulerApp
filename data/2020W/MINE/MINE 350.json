@@ -1,0 +1,72 @@
+{
+  "course_name": "MINE 350",
+  "subject_code": "MINE",
+  "course_number": "350",
+  "course_title": "Modelling and Simulation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 350 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=350&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "-  Select one Laboratory from sections L1A",
+      "subject_code": "MINE",
+      "course_number": "350",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNBAR, W SCOTT",
+        "POKHREL, SAJJAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MINE 350 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=350&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "350",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNBAR, W SCOTT"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

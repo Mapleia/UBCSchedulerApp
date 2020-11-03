@@ -1,0 +1,44 @@
+{
+  "course_name": "MECH 544",
+  "subject_code": "MECH",
+  "course_number": "544",
+  "course_title": "Machine Tool Structures and Vibrations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=544&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 544 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=544&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "544",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "8",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Review of metal cutting mechanics, milling, static deformations of machine tools. Machine tool vibrations, forced and self excited vibrations in machining, chatter, stability. Sensors for machine tool monitoring and adaptive control. Sensor assisted intelligent machining techniques.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 545",
+  "subject_code": "PHYS",
+  "course_number": "545",
+  "course_title": "Anatomy, Physiology and Statistics for Medical Physicists",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=545&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 545 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=545&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "545",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FORD, NANCY",
+        "SINGER, JOEL"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "7",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Restricted to graduate students in the M.Sc. (Medical Physics) Specialization.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

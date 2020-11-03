@@ -1,0 +1,44 @@
+{
+  "course_name": "PHIL 351",
+  "subject_code": "PHIL",
+  "course_number": "351",
+  "course_title": "Philosophical Perspectives on Cognitive Systems Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=351&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHIL 351 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=351&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course is an advanced introduction to recent, empirically-engaged, philosophical work on cognition. Lots of academic fields often do empirical work on cognition (e.g., all of: psychology, linguistics, computer science, cognitive science, and neuroscience). So, we will study work that can variously be categorized as philosophy of psychology, philosophy of linguistics, and so on. The biggest aim of this course is to spark students to think about various aspects of their mental lives and to do so in a way that is informed by research that is both philosophically incisive and empirically grounded.Prerequisite: 3 credits selected from any of PHIL 211, 212, 220, 230, 235, 240, 250, 260, or COGS 200",
+      "subject_code": "PHIL",
+      "course_number": "351",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DODD, JORDAN ROY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Philosophical exploration of questions and theories arising from research into the mind, as conducted in psychology, linguistics, and computer science.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 154A",
+  "subject_code": "MUSC",
+  "course_number": "154A",
+  "course_title": "University Choral Union - UBC CHORAL UNION",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=154A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 154A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=154A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "For undergraduates (graduate students register in MUSC 554 001). OPEN TO NON-MUSIC STUDENTS. How do I register for ensembles?  For most ensembles an audition is required to secure your place.  Auditions for large ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html.  Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.",
+      "subject_code": "MUSC",
+      "course_number": "154A",
+      "section_number": "001",
+      "building": "Music",
+      "room": "116",
+      "instructors": [
+        "LANGAGER, GRAEME"
+      ],
+      "totalRemaining": "136",
+      "currentlyRegistered": "89",
+      "generalRemaining": "136",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

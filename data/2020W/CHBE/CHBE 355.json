@@ -1,0 +1,72 @@
+{
+  "course_name": "CHBE 355",
+  "subject_code": "CHBE",
+  "course_number": "355",
+  "course_title": "Kinetics and Reactor Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 355 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=355&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "355",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YADAV, VIKRAMADITYA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "123",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 355 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=355&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "355",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YADAV, VIKRAMADITYA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "123",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Kinetics of homogeneous chemical and biological reactions, isothermal ideal reactor design, analysis of non-ideal reactors using residence time distribution and mixing models.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

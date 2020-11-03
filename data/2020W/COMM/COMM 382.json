@@ -1,0 +1,44 @@
+{
+  "course_name": "COMM 382",
+  "subject_code": "COMM",
+  "course_number": "382",
+  "course_title": "Economics of Entrepreneurship and Innovation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 382 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=382&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "382",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MINNS, STEVEN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Fundamental economic issues faced by entrepreneurs who want to commercialize innovations within start-ups and established firms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

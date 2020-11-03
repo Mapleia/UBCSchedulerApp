@@ -1,0 +1,44 @@
+{
+  "course_name": "LAW 577",
+  "subject_code": "LAW",
+  "course_number": "577",
+  "course_title": "Immigration Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=577&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 577 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=577&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "*Cross-listed to LAW 377.001*",
+      "subject_code": "LAW",
+      "course_number": "577",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KAUSHAL, ASHA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Admission of immigrants into Canada; refugee protection; practice and procedure before immigration tribunals and the courts. Credit will only be granted for one of LAW 577 or LAW 377.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

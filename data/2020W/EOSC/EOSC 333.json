@@ -1,0 +1,97 @@
+{
+  "course_name": "EOSC 333",
+  "subject_code": "EOSC",
+  "course_number": "333",
+  "course_title": "Elemental and Isotopic Geochemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 333 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=333&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Students must have pre-requisite: EOSC 221.Book Summary:Geochemistry, W.M. White, Wiley-Blackwell, April 2013.Geochemistry: An Introduction, F. Albarede, Cambridge University Press, 2009.",
+      "subject_code": "EOSC",
+      "course_number": "333",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WEIS, DOMINIQUE"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "24",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 333 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=333&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "333",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "11",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 333 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=333&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "333",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analytical methods in geochemistry, major and trace element geochemistry, radiogenic isotopes, geochemistry of seawater, the mantle, basalts, subduction zones, sedimentary rocks, continental crust.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

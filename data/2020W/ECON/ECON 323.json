@@ -1,0 +1,72 @@
+{
+  "course_name": "ECON 323",
+  "subject_code": "ECON",
+  "course_number": "323",
+  "course_title": "Quantitative Economic Modelling with Data Science Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 323 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=323&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "323",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WU, PEIFAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 323 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=323&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "323",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHRIMPF, PAUL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Computational tools used in modern economics. Including application of data science in economics; visualization and manipulation of economic data; solving and simulating dynamic economic models.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

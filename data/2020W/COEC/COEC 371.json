@@ -1,0 +1,73 @@
+{
+  "course_name": "COEC 371",
+  "subject_code": "COEC",
+  "course_number": "371",
+  "course_title": "Investment Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COEC&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "COEC 371 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COEC&course=371&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "COEC",
+      "course_number": "371",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BALDAUF, MARKUS",
+        "SKOULAKIS, GEORGIOS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "COEC 371 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COEC&course=371&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "COEC",
+      "course_number": "371",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BALDAUF, MARKUS",
+        "SKOULAKIS, GEORGIOS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic concepts of finance, including security valuation, security markets, and financial decisions concerning risk and return. Credit will be granted for only one of COEC 371 or COMM 371.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

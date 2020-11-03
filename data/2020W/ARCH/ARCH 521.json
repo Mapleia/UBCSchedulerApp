@@ -1,0 +1,46 @@
+{
+  "course_name": "ARCH 521",
+  "subject_code": "ARCH",
+  "course_number": "521",
+  "course_title": "Architectural Design Studio IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=521&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 521 009",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=521&section=009&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "521",
+      "section_number": "009",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KILLAM, LAURA",
+        "ROECKER, INGE",
+        "SOULES, MATTHEW"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "71",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

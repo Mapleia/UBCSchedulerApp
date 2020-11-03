@@ -1,0 +1,124 @@
+{
+  "course_name": "CPEN 432",
+  "subject_code": "CPEN",
+  "course_number": "432",
+  "course_title": "Real-time System Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CPEN 432 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=432&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "We will cancel this course if we cannot find an instructor.  If you are interested in this course, please register in the waiting list for now.",
+      "subject_code": "CPEN",
+      "course_number": "432",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "29",
+      "generalRemaining": "13",
+      "restrictedRemaining": "18"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 432 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=432&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "432",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 432 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=432&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "432",
+      "section_number": "T2W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "4",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 432 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=432&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "432",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Multi-tasking; interrupt-driven systems; task scheduling; schedulability analysis; inter-process communication and synchronization; resource management; performance measurement; hardware/software integration; hardware/software tradeoffs; system reliability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

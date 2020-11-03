@@ -1,0 +1,99 @@
+{
+  "course_name": "AFST 250A",
+  "subject_code": "AFST",
+  "course_number": "250A",
+  "course_title": "Introduction to African Studies - INTRO AFRI STUDY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AFST&course=250A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AFST 250A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AFST&course=250A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "AFST",
+      "course_number": "250A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GBOLONYO, JUSTICE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "40",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "AFST 250A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AFST&course=250A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "AFST",
+      "course_number": "250A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GBOLONYO, JUSTICE"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "AFST 250A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AFST&course=250A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "AFST",
+      "course_number": "250A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GBOLONYO, JUSTICE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Cultural, historical, and geographical issues of African Studies.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

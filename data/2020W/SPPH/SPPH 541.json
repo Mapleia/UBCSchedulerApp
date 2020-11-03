@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 541",
+  "subject_code": "SPPH",
+  "course_number": "541",
+  "course_title": "Economic Evaluation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=541&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 541 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=541&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Course will be delivered entirely online.  To access course module, visit UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "541",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZHANG, WEIHUA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "19",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Economic evaluation of health service interventions and programs, with emphasis on methods and components of program costing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

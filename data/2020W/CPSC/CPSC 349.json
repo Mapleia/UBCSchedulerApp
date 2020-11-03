@@ -1,0 +1,43 @@
+{
+  "course_name": "CPSC 349",
+  "subject_code": "CPSC",
+  "course_number": "349",
+  "course_title": "Honours Research Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=349&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 349 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=349&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Consult an honours advisor",
+      "subject_code": "CPSC",
+      "course_number": "349",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREENSTREET, MARK"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": "Students will attend a series of research seminars presented by faculty members, produce a thesis proposal, and choose their honours thesis supervisor. Available to Honours students. Majors students with satisfactory standing may also be permitted to enrol.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "PATH 477",
+  "subject_code": "PATH",
+  "course_number": "477",
+  "course_title": "Basic Epidemiology for Infection Control",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=477&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 477 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=477&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ALL STUDENTS MUST REGISTER IN THE WAIT LIST SECTION.   STUDENTS WILL BE MOVED TO THE ON-LINE COURSE SECTION, SPACE PERMITTING, ON A FIRST COME BASIS.   STUDENTS WHO HAVE NOT COMPLETED PATH 427 (prerequisite) WILL BE DROPPED FROM THE COURSE.",
+      "subject_code": "PATH",
+      "course_number": "477",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "NAUS, MONIKA",
+        "LOPEZ, JIMMY"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "PATH 477 99X",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=477&section=99X&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ALL STUDENTS MUST REGISTER IN THE WAIT LIST SECTION.   STUDENTS WILL BE MOVED TO THE ON-LINE COURSE SECTION 99C, SPACE PERMITTING, ON A FIRST COME BASIS.   STUDENTS WHO HAVE NOT COMPLETED PATH 427 (prerequisite) WILL BE DROPPED FROM THE COURSE.",
+      "subject_code": "PATH",
+      "course_number": "477",
+      "section_number": "99X",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Epidemiology, study, design and analysis, and outbreak investigation as it applies to institutional infection control.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

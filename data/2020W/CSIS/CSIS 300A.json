@@ -1,0 +1,70 @@
+{
+  "course_name": "CSIS 300A",
+  "subject_code": "CSIS",
+  "course_number": "300A",
+  "course_title": "Introduction to Critical Studies in Sexuality - INTRO CR STDYSEX",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CSIS&course=300A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CSIS 300A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=300A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "When full this section will be blocked to accommodate waitlisted students.",
+      "subject_code": "CSIS",
+      "course_number": "300A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAYLOR, JESSI"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "56",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CSIS 300A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=300A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CSIS",
+      "course_number": "300A",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A multi-disciplinary course which provides an introduction to the study of sexuality, including lesbian, gay, bisexual, heterosexual, and transgender issues and related topics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

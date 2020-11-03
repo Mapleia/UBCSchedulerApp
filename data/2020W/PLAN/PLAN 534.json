@@ -1,0 +1,70 @@
+{
+  "course_name": "PLAN 534",
+  "subject_code": "PLAN",
+  "course_number": "534",
+  "course_title": "Introduction to Geographic Information Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=534&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 534 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=534&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "534",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUSHUE, BILL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 534 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=534&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "534",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "GUSHUE, BILL"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Theory, history and capabilities behind GIS, with customized laboratory exercises that incorporate urban design and planning themes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

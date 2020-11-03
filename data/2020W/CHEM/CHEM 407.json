@@ -1,0 +1,44 @@
+{
+  "course_name": "CHEM 407",
+  "subject_code": "CHEM",
+  "course_number": "407",
+  "course_title": "Statistical Mechanics in Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 407 233",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=407&section=233&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "407",
+      "section_number": "233",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATEY, GRENFELL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "8",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introductory concepts of statistical mechanics and statistical thermodynamics. Applications to chemistry with emphasis on understanding chemical reactivity. Credit will be granted  for only one of CHEM 503/CHEM 407 or PHYS 455.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

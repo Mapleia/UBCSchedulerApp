@@ -1,0 +1,70 @@
+{
+  "course_name": "FIST 332",
+  "subject_code": "FIST",
+  "course_number": "332",
+  "course_title": "Studies in Genre or Period",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=332&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FIST 332 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=332&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:30",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIST 332, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIST",
+      "course_number": "332",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHAMASH, SARAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FIST 332 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=332&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:30",
+      "comments": "This is a WAITLIST section for FIST 332 Section 99A. Once you have registered in the waitlist there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available.",
+      "subject_code": "FIST",
+      "course_number": "332",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A seminar examining one or more genres or periods, such as the Western, Film Noir, Science Fiction, Films of the 1980's. Also includes study of national cinemas.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

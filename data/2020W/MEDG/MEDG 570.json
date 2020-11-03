@@ -1,0 +1,43 @@
+{
+  "course_name": "MEDG 570",
+  "subject_code": "MEDG",
+  "course_number": "570",
+  "course_title": "Introductory Clinical and Laboratory Rotation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=570&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDG 570 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=570&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MEDG",
+      "course_number": "570",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "OH, TRACEY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "6",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Clinical experience in prenatal procedures and counselling; teratogen counselling. Clinically relevant experience in cytogenetics, molecular, biochemical disease and embryopathology laboratories.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

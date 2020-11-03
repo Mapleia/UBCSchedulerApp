@@ -1,0 +1,100 @@
+{
+  "course_name": "FRST 320",
+  "subject_code": "FRST",
+  "course_number": "320",
+  "course_title": "Abiotic Disturbances: Fire and Climate",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 320 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=320&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "320",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DANIELS, LORI",
+        "GALVAO DE SOUSA MAGALHAES, JULIANA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "70",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 320 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=320&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Please be advised that the lab section for FRST 320 alternates with the lab section for FRST 305.",
+      "subject_code": "FRST",
+      "course_number": "320",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DANIELS, LORI",
+        "GALVAO DE SOUSA MAGALHAES, JULIANA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "59",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 320 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=320&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "320",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DANIELS, LORI",
+        "GALVAO DE SOUSA MAGALHAES, JULIANA"
+      ],
+      "totalRemaining": "51",
+      "currentlyRegistered": "9",
+      "generalRemaining": "51",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Ecological effects of fire and climatic (wind, temperature, and snow) disturbances; fire danger rating, principles of fire management and prescribed fire use; windthrow risk modelling and management.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

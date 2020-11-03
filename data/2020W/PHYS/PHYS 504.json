@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 504",
+  "subject_code": "PHYS",
+  "course_number": "504",
+  "course_title": "Special Relativity and Classical Electromagnetism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=504&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 504 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=504&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "504",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCOTT, DOUGLAS"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "7",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Boundary-value problems, Green's functions and multipole expansions, magnetostatics, Faraday's law of induction, retarded potentials, Poynting's theorem and conservation laws, gauge invariance. Propagation of electromagnetic waves. Presentation of radiation from moving charges, classical electron theory.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

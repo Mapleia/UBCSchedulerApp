@@ -1,0 +1,72 @@
+{
+  "course_name": "FRE 585",
+  "subject_code": "FRE",
+  "course_number": "585",
+  "course_title": "Quantitative Methods for Business and Natural Resource Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=585&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 585 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=585&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Restricted to students registered in MFRE",
+      "subject_code": "FRE",
+      "course_number": "585",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, MICHAEL"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "40"
+    },
+    {
+      "status": "Restricted",
+      "section": "FRE 585 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=585&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "Restricted to students registered in MFRE",
+      "subject_code": "FRE",
+      "course_number": "585",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, MICHAEL"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "COMM 407",
+  "subject_code": "COMM",
+  "course_number": "407",
+  "course_title": "Real Estate Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 407 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=407&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "407",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, SANGHOON"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 407 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=407&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "407",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, SANGHOON"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The economics of real estate markets. Topics include real estate cycles and bubbles, search models and vacancy, the relationship between real estate and the economy, housing demand, and models of housing supply.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

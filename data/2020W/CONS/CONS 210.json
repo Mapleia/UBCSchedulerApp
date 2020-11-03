@@ -1,0 +1,44 @@
+{
+  "course_name": "CONS 210",
+  "subject_code": "CONS",
+  "course_number": "210",
+  "course_title": "Visualizing Climate Change",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CONS 210 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=210&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "This is a new course - \"Visualizing Climate Change\". There are no prerequisites and it can be taken by Arts, Sciences, Education, Forestry, Engineering, Computer Science, and other students (recommended for 2nd year or higher). If you have questions, please contact the instructor.",
+      "subject_code": "CONS",
+      "course_number": "210",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMASELLI CRESPO, MARIA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "170",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to climate change through the lens of local landscapes and future scenarios, using visual media to communicate the underlying science and psychology, and engage communities in local climate change solutions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

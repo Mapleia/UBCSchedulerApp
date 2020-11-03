@@ -1,0 +1,43 @@
+{
+  "course_name": "CRWR 406B",
+  "subject_code": "CRWR",
+  "course_number": "406B",
+  "course_title": "Writing for the Screen I - WRT FOR SCREEN I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=406B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 406B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=406B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR courses for Term 2 (January-April) will be held online. This particular course will be a blend of synchronous/asynchronous (partially live on Zoom and partially working through modules and text discussions by posting on Canvas).",
+      "subject_code": "CRWR",
+      "course_number": "406B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEDVED, MAUREEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A workshop class in writing for the screen.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

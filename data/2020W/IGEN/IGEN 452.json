@@ -1,0 +1,69 @@
+{
+  "course_name": "IGEN 452",
+  "subject_code": "IGEN",
+  "course_number": "452",
+  "course_title": "Pipeline Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=IGEN&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "IGEN 452 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=452&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "IGEN",
+      "course_number": "452",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISAACSON, MICHAEL D"
+      ],
+      "totalRemaining": "52",
+      "currentlyRegistered": "8",
+      "generalRemaining": "29",
+      "restrictedRemaining": "23"
+    },
+    {
+      "status": " ",
+      "section": "IGEN 452 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=452&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "IGEN",
+      "course_number": "452",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISAACSON, MICHAEL D"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pipeline and pipeline system design reflecting technical, regulatory, environmental, societal, professional, and economic aspects; pipeline design project.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

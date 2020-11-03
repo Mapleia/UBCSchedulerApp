@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 528B",
+  "subject_code": "PHYS",
+  "course_number": "528B",
+  "course_title": "Elementary Particle Physics - TP ELEM PARTICLE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=528B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 528B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=528B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course will be held at TRIUMF. The instructor will provide room info at start of term.",
+      "subject_code": "PHYS",
+      "course_number": "528B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORRISSEY, DAVID"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

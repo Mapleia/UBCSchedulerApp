@@ -1,0 +1,203 @@
+{
+  "course_name": "MECH 421",
+  "subject_code": "MECH",
+  "course_number": "421",
+  "course_title": "Mechatronics System Instrumentation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 421 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Labs will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 421 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "Labs will be held in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "MECH 421 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Labs will be held in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 421 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "Labs will be held in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 421 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Labs will be held in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 421 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Please see instructor for location",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOH, MINKYUN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 421 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=421&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "421",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Architecture of mechatronics devices; integration of mechanical, electronics, sensors, actuators, computer and real time software systems; PLC and PC based systems; discrete and continuous automation system design.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

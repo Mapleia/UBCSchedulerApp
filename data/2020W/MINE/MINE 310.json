@@ -1,0 +1,72 @@
+{
+  "course_name": "MINE 310",
+  "subject_code": "MINE",
+  "course_number": "310",
+  "course_title": "Surface Mining and Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 310 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=310&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "-  Select one Laboratory from sections L1A, L1B, or L1C",
+      "subject_code": "MINE",
+      "course_number": "310",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TEYMOURI, SHERVIN",
+        "BALLESTEROS PEÑA, CARLOS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MINE 310 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=310&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "cross-listed with MINE 590C",
+      "subject_code": "MINE",
+      "course_number": "310",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TEYMOURI, SHERVIN"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "26",
+      "generalRemaining": "11",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Surface mining methods, calculation of pit limits, cutoff grades, break-even criteria, stripping ratios, ultimate pit depth and dimensions, and pit sequencing.  Geotechnical inputs to surface mine design.  Loading and hauling equipment, production rates, capacity and systems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

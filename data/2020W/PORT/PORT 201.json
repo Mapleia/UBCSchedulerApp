@@ -1,0 +1,45 @@
+{
+  "course_name": "PORT 201",
+  "subject_code": "PORT",
+  "course_number": "201",
+  "course_title": "Second-Year Portuguese I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PORT&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PORT 201 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PORT&course=201&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "PORT 201 is the first half of second-year Portuguese language learning through a culture-oriented and interactive course. The rich cultures of Brazil, Portugal and other Lusophone countries are incorporated in all materials used in class, providing students with an opportunity to immerse in authentic socio-cultural situations. Students participate in communicative activities that will help them develop listening, speaking, reading and writing skills. PORT 201 further develops the fundamentals learned in PORT 101 and 102. Lessons are focused on slightly more complex grammar structures that enhance the skills acquired.Required text:Clémence de Jouët-Pastré, Anna Klobucka, et al., Ponto de Encontro: Portuguese as a World Language package, 2nd Edition, Pearson Canada, 2013. (Ponto de Encontro package includes: Ponto de Encontro textbook [Brazilian Portuguese] and MyPortugueseLab [24 months access]. This textbook package is used in PORT 101, 102, 201 and 202)",
+      "subject_code": "PORT",
+      "course_number": "201",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROCA, ANDREA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "9",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Grammar, composition, translation, oral practice, readings. Credit will be granted for only one of PORT 201 or PORT 210",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

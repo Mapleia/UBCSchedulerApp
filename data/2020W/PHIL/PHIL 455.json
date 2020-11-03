@@ -1,0 +1,43 @@
+{
+  "course_name": "PHIL 455",
+  "subject_code": "PHIL",
+  "course_number": "455",
+  "course_title": "Topics in the Philosophy of Cognitive Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHIL 455 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=455&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "The Structure of the Mind: Do people with radically different background theories perceive the world in different ways? Is language essential to some forms of cognition? Are moral judgments more dependent on reason or emotion? This section of PHIL 455 will look at these and other high-level questions about the structure of the mind where the best research is equally grounded in developments in philosophy and cognitive sciences.Prerequisites: PHIL 240 or COGS 200 if accompanied by 3 credits in PHIL at the 200-level or above, plus at least 3rd year undergraduate status. Recommended for this section: PHIL 451 (philosophy of mind) or PHIL 441 (philosophy of perception), and a general background in philosophy and/or cognitive science.For more information about this course, including details regarding online course delivery, please visit Dr. Margolis' website: https://www.margolisphilosophy.com/phil455-topics-in-philosophy-and-cognitive-science.html.",
+      "subject_code": "PHIL",
+      "course_number": "455",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARGOLIS, ERIC"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Philosophical topics in the cognitive sciences, such as empiricism vs. nativism, consciousness, mental representation, cognitive architecture, language and thought, and situated cognition.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

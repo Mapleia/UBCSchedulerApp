@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 411D",
+  "subject_code": "LAW",
+  "course_number": "411D",
+  "course_title": "Tax Policy - TAX POLICY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=411D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 411D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=411D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "*Cross-listed with LAW 566.001*",
+      "subject_code": "LAW",
+      "course_number": "411D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CUI, WEI"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The policies underlying the creation and implementation of tax laws. Not offered each year, consult Faculty. Credit will be granted for only one of LAW 411 or LAW 566.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

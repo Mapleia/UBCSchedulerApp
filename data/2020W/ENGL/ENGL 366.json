@@ -1,0 +1,99 @@
+{
+  "course_name": "ENGL 366",
+  "subject_code": "ENGL",
+  "course_number": "366",
+  "course_title": "Twentieth-Century Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=366&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 366 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=366&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "366",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEWART, ANNE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 366 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=366&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "366",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTA, MIGUEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 366 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=366&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "366",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "NELSON-MCDERMOTT, CATHERINE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "31",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Fiction, poetry and/or drama written between 1900 and 1999. May encompass multiple genres and contexts. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 366 and/or 464.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

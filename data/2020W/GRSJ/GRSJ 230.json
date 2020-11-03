@@ -1,0 +1,74 @@
+{
+  "course_name": "GRSJ 230",
+  "subject_code": "GRSJ",
+  "course_number": "230",
+  "course_title": "Gender, Race, Sexuality, and Representation in Modern Asia",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GRSJ 230 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=230&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "When this course is full it may be blocked to accommodate waitlisted students.",
+      "subject_code": "GRSJ",
+      "course_number": "230",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATTERSON, CHRISTOPHER"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "43",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 230 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=230&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "230",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The complex relationships between mechanisms of power, gender, and representation in Asia in different spaces examined through an interdisciplinary lens.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

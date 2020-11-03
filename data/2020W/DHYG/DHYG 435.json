@@ -1,0 +1,103 @@
+{
+  "course_name": "DHYG 435",
+  "subject_code": "DHYG",
+  "course_number": "435",
+  "course_title": "Oral Medicine and Pathology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=435&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 435 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=435&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "435",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "DHYG 435 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=435&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This is a \"Wait List\" for Section 99A of DHYG 435 offered in September.",
+      "subject_code": "DHYG",
+      "course_number": "435",
+      "section_number": "1W1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "13",
+        "0",
+        "13",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "DHYG 435 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=435&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning  at : http://ctlt.ubc.ca/ Admission to the Faculty of Dentistry is mandatory before registering (see website www.dentistry.ubc.ca)",
+      "subject_code": "DHYG",
+      "course_number": "435",
+      "section_number": "99A",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "4",
+        "21",
+        "4",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pathobiology of oral diseases. Available in online distance education format only.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List",
+    "Distance Education"
+  ]
+}

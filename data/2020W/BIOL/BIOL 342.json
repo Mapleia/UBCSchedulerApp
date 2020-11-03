@@ -1,0 +1,334 @@
+{
+  "course_name": "BIOL 342",
+  "subject_code": "BIOL",
+  "course_number": "342",
+  "course_title": "Integrative Biology Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=342&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 342 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "First class/lab will be on the first Monday of the term.",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEANDER, CELESTE",
+        "BLANCHARD, TESSA",
+        "KIM, ANNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "101",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 342 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEANDER, CELESTE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "96",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 342 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 342-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L21",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L21&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L21",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L22",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L22&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L22",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L24",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L24&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L24",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L26",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L26&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L26",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 342-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L11",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L11&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L11",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L12",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L12&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L12",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L14",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L14&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L14",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 342 L16",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=342&section=L16&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "342",
+      "section_number": "L16",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Field-based and laboratory-based investigation of organisms.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Laboratory"
+  ]
+}

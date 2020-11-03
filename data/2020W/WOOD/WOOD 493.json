@@ -1,0 +1,122 @@
+{
+  "course_name": "WOOD 493",
+  "subject_code": "WOOD",
+  "course_number": "493",
+  "course_title": "Project in Program Major",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=493&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "WOOD 493 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=493&section=101&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "493",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 493 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=493&section=201&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "493",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 493 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=493&section=610&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is the off-campus section of Wood 493",
+      "subject_code": "WOOD",
+      "course_number": "493",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 493 611",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=493&section=611&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is an off-campus Term 1 section of Wood 493 - registration is only permitted by Program Director or Faculty advisor.",
+      "subject_code": "WOOD",
+      "course_number": "493",
+      "section_number": "611",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A report (approved by a faculty supervisor and the Program Director) based on either a technical description of a study, an extension of the senior co-op report, a detailed literature review, a research-based project, or a guided independent study developed by the student.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

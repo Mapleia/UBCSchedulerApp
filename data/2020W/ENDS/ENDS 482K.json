@@ -1,0 +1,44 @@
+{
+  "course_name": "ENDS 482K",
+  "subject_code": "ENDS",
+  "course_number": "482K",
+  "course_title": "Special Topics - ARC STRUCTURES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482K&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENDS 482K 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482K&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482K",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEYBOOM, ANNALISA"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "23"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

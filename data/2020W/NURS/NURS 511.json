@@ -1,0 +1,149 @@
+{
+  "course_name": "NURS 511",
+  "subject_code": "NURS",
+  "course_number": "511",
+  "course_title": "Theoretical Foundations of Nursing Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=511&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 511 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=511&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for MSN and MPHMSN students.This course provides students with the opportunity to explore the evolution of nursing knowledge and the processes of theoretical and analytical reasoning as they apply to nursing. In the context of the course students will apply critical thinking to the understanding and resolution of nursing problems.",
+      "subject_code": "NURS",
+      "course_number": "511",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEGARIC, CHERYL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "NURS 511 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=511&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This course is prioritized for 1st Year MN-NP students.This course provides students with the opportunity to explore the evolution of nursing knowledge and the processes of theoretical and analytical reasoning as they apply to nursing. In the context of the course students will apply critical thinking to the understanding and resolution of nursing problems.",
+      "subject_code": "NURS",
+      "course_number": "511",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAMPBELL, SUZANNE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "NURS 511 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=511&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This course is prioritized for MSN and MPHMSN students.Theoretical Foundations of Nursing Practice - This course provides students with the opportunity to explore the evolution of nursing knowledge and the processes of theoretical and analytical reasoning as they apply to nursing. In the context of the course students will apply critical thinking to the understanding and resolution of nursing problems.",
+      "subject_code": "NURS",
+      "course_number": "511",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAASE, KRISTEN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 511 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=511&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist Section for NURS 511-101",
+      "subject_code": "NURS",
+      "course_number": "511",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 511 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=511&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist Section for NURS 511-002",
+      "subject_code": "NURS",
+      "course_number": "511",
+      "section_number": "02W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

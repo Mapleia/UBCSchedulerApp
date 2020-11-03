@@ -1,0 +1,72 @@
+{
+  "course_name": "ECON 317",
+  "subject_code": "ECON",
+  "course_number": "317",
+  "course_title": "Poverty and Inequality",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=317&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 317 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=317&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "317",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DOUGLAS, CATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "120",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ECON 317 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=317&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is for students in the BIE Program only.",
+      "subject_code": "ECON",
+      "course_number": "317",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREEN, DAVID"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Economic inequality in Canada and other countries; measurement and causes. Inequality in the distribution of wealth; redistribution of income and wealth; notions of distributive justice.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

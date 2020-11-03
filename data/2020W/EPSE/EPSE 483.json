@@ -1,0 +1,70 @@
+{
+  "course_name": "EPSE 483",
+  "subject_code": "EPSE",
+  "course_number": "483",
+  "course_title": "Reading and Interpreting Research in Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=483&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 483 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=483&section=074&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EPSE",
+      "course_number": "483",
+      "section_number": "074",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FABER, SHAWNA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 483 W74",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=483&section=W74&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for EPSE 483 section 074",
+      "subject_code": "EPSE",
+      "course_number": "483",
+      "section_number": "W74",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introductory research methods course for students who wish to be critical readers rather than producers of educational research.  Develops skills for locating, understanding, interpreting and critiquing educational empirical research.  May not be used as a prerequisite to EPSE 592 or EPSE 596.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

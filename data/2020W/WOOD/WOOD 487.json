@@ -1,0 +1,99 @@
+{
+  "course_name": "WOOD 487",
+  "subject_code": "WOOD",
+  "course_number": "487",
+  "course_title": "Wood Composites",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=487&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 487 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=487&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "487",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAI, CHUNPING"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "37",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 487 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=487&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "487",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAI, CHUNPING"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "36",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "WOOD 487 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=487&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "487",
+      "section_number": "L02",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "27",
+        "0",
+        "27",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical, chemical and mechanical variables involved in adhesive bonding of composite wood products; characteristics of adhesives; plywood, composite wood panels, hardboard, medium density fibreboard, laminated wood and engineered lumber composites manufacturing processes; important physical and chemical properties of products.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

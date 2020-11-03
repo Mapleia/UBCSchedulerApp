@@ -1,0 +1,43 @@
+{
+  "course_name": "PHRM 141",
+  "subject_code": "PHRM",
+  "course_number": "141",
+  "course_title": "Seminar: Pharmacists in Practice I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=141&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 141 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=141&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "141",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Current and future roles for pharmacists and controversies in pharmacy practice.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

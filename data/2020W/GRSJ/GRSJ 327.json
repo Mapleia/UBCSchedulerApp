@@ -1,0 +1,72 @@
+{
+  "course_name": "GRSJ 327",
+  "subject_code": "GRSJ",
+  "course_number": "327",
+  "course_title": "Theories of Representation and Difference",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 327 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=327&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "327",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CATUNGAL, JOHN PAUL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 327 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=327&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "327",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "5",
+      "generalRemaining": "19",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Feminist scholarship emphasizing languages and processes of representation and the construction of difference in cultural discourses and institutions.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

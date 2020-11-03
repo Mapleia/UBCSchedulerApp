@@ -1,0 +1,70 @@
+{
+  "course_name": "ENGL 539B",
+  "subject_code": "ENGL",
+  "course_number": "539B",
+  "course_title": "Studies in the Twentieth Century - STUDIES 20TH C",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=539B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 539B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=539B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "Online delivery",
+      "subject_code": "ENGL",
+      "course_number": "539B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PALTIN, JUDITH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 539B 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=539B&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "WAITING LIST",
+      "subject_code": "ENGL",
+      "course_number": "539B",
+      "section_number": "02W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

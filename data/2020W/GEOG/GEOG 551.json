@@ -1,0 +1,43 @@
+{
+  "course_name": "GEOG 551",
+  "subject_code": "GEOG",
+  "course_number": "551",
+  "course_title": "Urban Social Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=551&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 551 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=551&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This online seminar has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "551",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AREFIN, MOHAMMED"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "11",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

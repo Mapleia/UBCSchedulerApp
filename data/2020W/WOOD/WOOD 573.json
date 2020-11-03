@@ -1,0 +1,74 @@
+{
+  "course_name": "WOOD 573",
+  "subject_code": "WOOD",
+  "course_number": "573",
+  "course_title": "Advanced Wood Physics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=573&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 573 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=573&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "573",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "LOSS, CRISTIANO"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 573 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=573&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "573",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "LOSS, CRISTIANO"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Thermo-physical and mechano-sorptive properties of wood and their effect on service performance.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

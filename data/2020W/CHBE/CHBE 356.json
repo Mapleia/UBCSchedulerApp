@@ -1,0 +1,72 @@
+{
+  "course_name": "CHBE 356",
+  "subject_code": "CHBE",
+  "course_number": "356",
+  "course_title": "Process Dynamics and Control",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=356&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 356 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=356&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "356",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAO, YANKAI"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "145",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 356 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=356&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "First lab is January 3, 2018.",
+      "subject_code": "CHBE",
+      "course_number": "356",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAO, YANKAI"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "144",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to modelling of chemical processes; transient response analysis; design of feedback control systems; stability analysis; frequency response analysis; process control applications; instrumentation; advanced control techniques; distributed control systems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

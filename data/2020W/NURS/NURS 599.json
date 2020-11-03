@@ -1,0 +1,97 @@
+{
+  "course_name": "NURS 599",
+  "subject_code": "NURS",
+  "course_number": "599",
+  "course_title": "Master's Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=599&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "NURS 599 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=599&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please contact academic.support@nursing.ubc.ca to register in this section.A Master's Thesis is the written report of a formal, systematic scholarly inquiry following accepted methodology to answer questions relevant to the discipline of nursing or the broader field of health sciences scholarship.",
+      "subject_code": "NURS",
+      "course_number": "599",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "64",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "64"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 599 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=599&section=202&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please contact academic.support@nursing.ubc.ca to register in this section.A Master's Thesis is the written report of a formal, systematic scholarly inquiry following accepted methodology to answer questions relevant to the discipline of nursing or the broader field of health sciences scholarship.",
+      "subject_code": "NURS",
+      "course_number": "599",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "62",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "62"
+    },
+    {
+      "status": "Restricted",
+      "section": "NURS 599 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=599&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "A Master's Thesis is the written report of a formal, systematic scholarly inquiry following accepted methodology to answer questions relevant to the discipline of nursing or the broader field of health sciences scholarship.",
+      "subject_code": "NURS",
+      "course_number": "599",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "71",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "71"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

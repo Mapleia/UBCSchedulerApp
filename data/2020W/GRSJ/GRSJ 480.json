@@ -1,0 +1,70 @@
+{
+  "course_name": "GRSJ 480",
+  "subject_code": "GRSJ",
+  "course_number": "480",
+  "course_title": "Decolonizing Praxis: A Practicum in Social Justice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=480&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 480 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=480&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Restricted to GRSJ Majors.  A waitlist is available for GRSJ majors only (section WL1).",
+      "subject_code": "GRSJ",
+      "course_number": "480",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SNOWDEN, KIM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 480 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=480&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "480",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Connects feminist and critical race theory and practice through placement in a community organization. As is the case with all UBC practice-related courses, this course requires a Criminal Record Check. Open to GRSJ Majors. This course is graded Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

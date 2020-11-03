@@ -1,0 +1,43 @@
+{
+  "course_name": "MEDG 448C",
+  "subject_code": "MEDG",
+  "course_number": "448C",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=448C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 448C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=448C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:00",
+      "comments": "Permission to register required.  Email Cheryl Bishop at medical.genetics@ubc.ca.",
+      "subject_code": "MEDG",
+      "course_number": "448C",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A supervised individual program of study of a topic to be agreed upon by a member of faculty and the student. Permission of the appropriate supervisor and the department head is required.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

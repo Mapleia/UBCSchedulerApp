@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 540A",
+  "subject_code": "MECH",
+  "course_number": "540A",
+  "course_title": "Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation - SFTWR DSGN MECH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=540A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 540A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=540A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "540A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIELMANN, CHRISTOPH"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 540A L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=540A&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "540A",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "course_name": "COGS 200",
+  "subject_code": "COGS",
+  "course_number": "200",
+  "course_title": "Introduction to Cognitive Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COGS&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COGS 200 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=200&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "The number of hours required to complete the online version of this course is the same as is required when the course is given on campus. A variety of online methods will be used in its teaching. Some but not all of these methods allow students to determine the pace and timing of their own learning. To avoid scheduling conflicts, students should ensure that they are able to log in to the course's canvas site during the scheduled class hours. Inability to participate in the course's online requirements can be accommodated only when the university's policy on academic concession applies.",
+      "subject_code": "COGS",
+      "course_number": "200",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BABEL, MOLLY",
+        "MOLE, CHRISTOPHER",
+        "PAI-SPERING, MIRIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "200",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COGS 200 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=200&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "The number of hours required to complete the online version of this course are the same as those required when the course is given on campus. A variety of online methods will be used in its teaching. Some but not all of these methods allow students to determine the pace and timing of their own learning. To avoid scheduling conflicts, students should ensure that they are able to login to the course's canvas site during the scheduled class hours. Inability to participate in the course's online requirements can be accommodated only when the university's policy on academic concession (https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions#are-you-eligible-for-an-academic-concession) applies.",
+      "subject_code": "COGS",
+      "course_number": "200",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BITTNER, THOMAS JACOB",
+        "LEYTON-BROWN, KEVIN",
+        "TAYLOR, RYAN"
+      ],
+      "totalRemaining": "54",
+      "currentlyRegistered": "146",
+      "generalRemaining": "54",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Interdisciplinary examination of human mental processes and how these are mediated by the brain. Will draw on cognitive psychology, linguistics, cognitive neuroscience, philosophy, artificial intelligence.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

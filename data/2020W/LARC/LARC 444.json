@@ -1,0 +1,177 @@
+{
+  "course_name": "LARC 444",
+  "subject_code": "LARC",
+  "course_number": "444",
+  "course_title": "Green Network Planning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=444&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 444 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Full",
+      "section": "LARC 444 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "LARC 444 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    },
+    {
+      "status": "Full",
+      "section": "LARC 444 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LARC 444 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "L04",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "LARC 444 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=444&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "444",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and methods of long-range green space planning for urban areas.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Discussion",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

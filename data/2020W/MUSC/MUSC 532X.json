@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 532X",
+  "subject_code": "MUSC",
+  "course_number": "532X",
+  "course_title": "Advanced Studies in Music History and Musicology - CRTV PRFMNCE PRC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=532X&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 532X 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=532X&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Explorations in Creative Process for Classical Performers.  This course explores artistic legacies and missions, approaches for effective practicing and rehearsal techniques, creative performance practice, modes of community outreach, and interdisciplinary connections. The weekly meeting comprises dynamic class discussions, workshops with guest presenters, and student projects. Its diverse content is aimed at developing skills and philosophical perspectives for the 21st century Western classical musician, and will be somewhat reflective of student input. The course is open to Performance students in all degree programs. Auditors from all MUSC degrees are welcome to attend on a drop-in basis.   With 403X.",
+      "subject_code": "MUSC",
+      "course_number": "532X",
+      "section_number": "001",
+      "building": "Music",
+      "room": "113",
+      "instructors": [
+        "SHARON, RENA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Research seminar on a core or emerging topic in music history or musicology. May be repeated to a maximum of 12 credits if different topics are covered.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

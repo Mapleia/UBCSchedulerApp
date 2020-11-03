@@ -1,0 +1,70 @@
+{
+  "course_name": "CHIN 415",
+  "subject_code": "CHIN",
+  "course_number": "415",
+  "course_title": "Media Chinese I (Heritage)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHIN&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHIN 415 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=415&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "This course will be delivered in a mixed-mode format (1.5 hrs synchronous + 1.5 hrs asynchronous). Students are expected to meet with the instructor synchronously online for the sessions at the above listed days and times. In addition to the synchronous meetings, the remaining course content will be delivered asynchronously, as outlined on the syllabus, and students are expected to complete on their own time. The total workload for this 3-credit course remains the same as a normal class that is delivered in-person.",
+      "subject_code": "CHIN",
+      "course_number": "415",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, HSUEH-NI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHIN 415 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=415&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHIN",
+      "course_number": "415",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, HSUEH-NI"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Reading and understanding Chinese as used in newspapers, radio/TV, and the internet news. Credit will be granted for only one of CHIN 415 or CHIN 309.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "THTR 399L",
+  "subject_code": "THTR",
+  "course_number": "399L",
+  "course_title": "Production II - PRODUCTION II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=399L&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 399L 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=399L&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "NOTE: Lighting practicum, consult instructor.",
+      "subject_code": "THTR",
+      "course_number": "399L",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "101",
+      "instructors": [
+        "GARDINER, ROBERT"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Assigned projects in theatre design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "ELEC 461",
+  "subject_code": "ELEC",
+  "course_number": "461",
+  "course_title": "Nanotechnology in Electronics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 461 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=461&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "461",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALUS, KONRAD"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics of special importance to understanding and designing electronic devices in which quantum effects and the discrete nature of matter become important.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "COEC 497",
+  "subject_code": "COEC",
+  "course_number": "497",
+  "course_title": "New Enterprise Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COEC&course=497&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COEC 497 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COEC&course=497&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COEC",
+      "course_number": "497",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The particular problems and experiences encountered in starting, developing, and managing new enterprises. The course includes lectures, guest speakers, and case studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

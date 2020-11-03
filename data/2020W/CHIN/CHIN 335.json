@@ -1,0 +1,70 @@
+{
+  "course_name": "CHIN 335",
+  "subject_code": "CHIN",
+  "course_number": "335",
+  "course_title": "Intermediate Chinese II: Part I (Non-Heritage)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHIN&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHIN 335 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=335&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "-  PLACEMENT PROCEDURE: ALL students who wish to take ANY CHIN courses, (CNTO or CLCH 389/399) are required to complete an \"On-Line Placement Questionnaire\" to obtain a placement approval for registration. Please only register for the course that you have approval for. To get your placement approval, please go to https://placement.asia.ubc.ca/ - For further information regarding CHIN courses, please go to http://www.chinese.arts.ubc.ca/front.htmIf this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course will be delivered in a mixed-mode format (2 hrs synchronous + 2 hrs asynchronous). Students are expected to meet with the instructor synchronously online for the sessions at the above listed days and times. In addition to the synchronous meetings, the remaining course content will be delivered asynchronously, as outlined on the syllabus, and students are expected to complete on their own time. The total workload for this 3-credit course remains the same as a normal class that is delivered in-person.",
+      "subject_code": "CHIN",
+      "course_number": "335",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, AN-YI"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHIN 335 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=335&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "CHIN",
+      "course_number": "335",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, AN-YI"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Skills in listening, speaking, reading, and writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN 335 or CHIN 205 or CHIN 338.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

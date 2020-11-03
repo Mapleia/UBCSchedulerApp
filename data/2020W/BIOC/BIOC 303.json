@@ -1,0 +1,48 @@
+{
+  "course_name": "BIOC 303",
+  "subject_code": "BIOC",
+  "course_number": "303",
+  "course_title": "Molecular Biochemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOC 303 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=303&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "303",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUONG VAN HOA, FRANCK",
+        "HOWE, LEANN",
+        "KRISINGER, MICHAEL",
+        "MAYOR, THIBAULT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "122",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Structure, function and metabolism of lipids, steroids, amino acids and nucleotides; the biochemistry and molecular biology of replication, transcription, translation and gene regulation. For students in Biochemistry and Honours programs in other life sciences.  Credit will be granted for only one of BIOC 302 or BIOC 303.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

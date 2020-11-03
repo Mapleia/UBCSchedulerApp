@@ -1,0 +1,44 @@
+{
+  "course_name": "COMM 485",
+  "subject_code": "COMM",
+  "course_number": "485",
+  "course_title": "Social Entrepreneurship",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=485&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 485 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=485&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "485",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIRUCHITTAMPALAM, DHARINI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An applied course that examines the innovative, growing, and rapidly evolving field of social entrepreneurship, which tackles social and environmental challenges through business perspectives and methods.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

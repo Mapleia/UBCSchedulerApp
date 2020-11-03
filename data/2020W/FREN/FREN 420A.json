@@ -1,0 +1,44 @@
+{
+  "course_name": "FREN 420A",
+  "subject_code": "FREN",
+  "course_number": "420A",
+  "course_title": "Selected Topics in French Literature and Culture - TPCS FREN LIT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=420A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 420A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=420A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Course content will vary. May be taken up to 3 times, with different content, for a maximum of 9 credits. Full course description: https://fhis.ubc.ca/course-description/fren420a/",
+      "subject_code": "FREN",
+      "course_number": "420A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAROUSSI, FARID"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "13",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Course content will vary. May be taken up to 3 times, with different content, for a maximum of 9 credits.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

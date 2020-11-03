@@ -1,0 +1,73 @@
+{
+  "course_name": "PHRM 330",
+  "subject_code": "PHRM",
+  "course_number": "330",
+  "course_title": "Pharmacy Practice in Acute and Critically Ill Patients",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 330 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=330&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Previously PHRM 301N",
+      "subject_code": "PHRM",
+      "course_number": "330",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "PHRM 330 1WL",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=330&section=1WL&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "WAITLIST",
+      "subject_code": "PHRM",
+      "course_number": "330",
+      "section_number": "1WL",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pharmaceutical care concepts for managing acute and critically ill patients.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

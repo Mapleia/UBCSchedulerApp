@@ -1,0 +1,43 @@
+{
+  "course_name": "ENGL 492N",
+  "subject_code": "ENGL",
+  "course_number": "492N",
+  "course_title": "Senior Honours Seminar - SR HONORS SEMNR2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=492N&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENGL 492N 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=492N&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "492N",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VESSEY, MARK"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Offerings in literary research.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

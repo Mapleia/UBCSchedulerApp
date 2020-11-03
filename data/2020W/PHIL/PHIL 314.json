@@ -1,0 +1,45 @@
+{
+  "course_name": "PHIL 314",
+  "subject_code": "PHIL",
+  "course_number": "314",
+  "course_title": "Philosophy in the 17th Century",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=314&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 314 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=314&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "314",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMIJEE, FATEMA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "69",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Survey of 17th-century philosophy from Bacon to Leibniz, including the writings of Hobbes, Descartes, and Spinoza. The influence of science and religion on philosophy.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

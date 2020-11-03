@@ -1,0 +1,44 @@
+{
+  "course_name": "CHEM 503",
+  "subject_code": "CHEM",
+  "course_number": "503",
+  "course_title": "Equilibrium Statistical Mechanics in Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=503&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 503 233",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=503&section=233&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "503",
+      "section_number": "233",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATEY, GRENFELL"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introductory principles of Statistical Mechanics with illustrations of chemical importance. Applications to molecular gases, liquids, solids, independent particle statistics, electric and magnetic moments, radiation, chemical equilibrium and reaction rates. Credit will be granted for only one of CHEM 407/CHEM 503 or PHYS 455.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "course_name": "MATH 440",
+  "subject_code": "MATH",
+  "course_number": "440",
+  "course_title": "Complex Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 440 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=440&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "CROSSLISTED WITH MATH 508/101.",
+      "subject_code": "MATH",
+      "course_number": "440",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MURUGAN, MATHAV",
+        "MURUGAN, MATHAV(Coordinator)"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The residue theorem, the argument principle, conformal mapping, the maximum modulus principle, harmonic functions, representation of functions by integrals, series, and products. Other topics at the discretion of the instructor.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

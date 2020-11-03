@@ -1,0 +1,77 @@
+{
+  "course_name": "FNH 355",
+  "subject_code": "FNH",
+  "course_number": "355",
+  "course_title": "International Nutrition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 355 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=355&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "355",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIDEOUT, CANDICE",
+        "CABALLERO DE LA PENA, KATIA",
+        "EMMONDS, FRANCINE",
+        "FISCHER, JORDIE",
+        "JHAJJ, SOPHIA",
+        "MA, RACHEL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "198",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 355 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=355&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "355",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIDEOUT, CANDICE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "264",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

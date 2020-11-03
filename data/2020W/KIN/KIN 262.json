@@ -1,0 +1,125 @@
+{
+  "course_name": "KIN 262",
+  "subject_code": "KIN",
+  "course_number": "262",
+  "course_title": "Health Policy and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=262&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 262 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=262&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "262",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUNDON, ANDREA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "126",
+      "generalRemaining": "0",
+      "restrictedRemaining": "24"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 262 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=262&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "262",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HURD, LAURA"
+      ],
+      "totalRemaining": "105",
+      "currentlyRegistered": "95",
+      "generalRemaining": "0",
+      "restrictedRemaining": "105"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 262 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=262&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "262",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 262 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=262&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "262",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "39",
+      "currentlyRegistered": "11",
+      "generalRemaining": "39",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Health policy and the social context in relation to active health.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "course_name": "MATH 215",
+  "subject_code": "MATH",
+  "course_number": "215",
+  "course_title": "Elementary Differential Equations I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=215&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 215 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=215&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "CROSSLISTED WITH MATH 255/101.  The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "215",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABID, NAJMUL",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "49",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 215 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=215&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "CROSSLISTED WITH MATH 255/102.  The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "215",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABID, NAJMUL",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 215 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=215&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "CROSSLISTED WITH MATH 255/104.  The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "215",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAO DUC, KHANH",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "71",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 215 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=215&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "215",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "139",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 215 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=215&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "215",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "6",
+        "139",
+        "6",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems. Applications of these topics will be emphasized. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "ELEC 422",
+  "subject_code": "ELEC",
+  "course_number": "422",
+  "course_title": "Biosignals and Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=422&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 422 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=422&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "422",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WANG, ZHEN"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "30",
+      "generalRemaining": "1",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 422 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=422&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "422",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Data acquisition, time and frequency domain analysis, analog and discrete filter design, sampling theory, time-dependent processing, linear prediction, random signals, biomedical system modelling, and stability analysis; introduction to nonlinear systems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

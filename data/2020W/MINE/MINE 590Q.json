@@ -1,0 +1,44 @@
+{
+  "course_name": "MINE 590Q",
+  "subject_code": "MINE",
+  "course_number": "590Q",
+  "course_title": "Special Advanced Topics - ADV MIN WSTEMGMT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=590Q&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MINE 590Q 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=590Q&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "- Please email course instructor for registration- cross-listed with MINE 480",
+      "subject_code": "MINE",
+      "course_number": "590Q",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRISCU, CAIUS"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "4",
+      "generalRemaining": "9",
+      "restrictedRemaining": "27"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A special advanced course may be arranged upon the approval of the department head.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

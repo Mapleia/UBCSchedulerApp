@@ -1,0 +1,72 @@
+{
+  "course_name": "FNH 302",
+  "subject_code": "FNH",
+  "course_number": "302",
+  "course_title": "Food Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FNH 302 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=302&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "302",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEE, DEREK",
+        "MOHAMMADI, XANYAR"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "46",
+      "generalRemaining": "10",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "FNH 302 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=302&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:30",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "302",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEE, DEREK"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "46",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of and procedures for analysis of the chemical and physical properties of food; proximate analysis; introduction to instrumental analysis; reporting and analysis of data.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

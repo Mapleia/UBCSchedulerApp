@@ -1,0 +1,97 @@
+{
+  "course_name": "CONS 481",
+  "subject_code": "CONS",
+  "course_number": "481",
+  "course_title": "Conservation Planning and Wildland Recreation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=481&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CONS 481 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=481&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "481",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEITNER, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "121",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CONS 481 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=481&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "481",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEITNER, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "61",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CONS 481 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=481&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "481",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEITNER, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and tools needed for the selection and design of protected areas, the designation of land use types, and the management and conservation of wildland recreation resources.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

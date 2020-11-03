@@ -1,0 +1,97 @@
+{
+  "course_name": "SOWK 310A",
+  "subject_code": "SOWK",
+  "course_number": "310A",
+  "course_title": "Interviewing Skills - INTERVIEWING SKL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=310A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 310A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=310A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Formerly SOWK310.001 and SOWK440P.001.  SOWK310A.001 is a 6 credits course for Term 1  and  2.",
+      "subject_code": "SOWK",
+      "course_number": "310A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHARLES, GRANT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOWK 310A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=310A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Formerly SOWK310.002 and SOWk440P.002.  SOWK310A.002 is a 6 credits course for Term 1  and 2.",
+      "subject_code": "SOWK",
+      "course_number": "310A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NIGHTBIRD, MARIE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "19",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOWK 310A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=310A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Formerly SOWK310.001 and SOWK440P.001.  SOWK310A.001 is a 6 credits course for Term 1  and  2.",
+      "subject_code": "SOWK",
+      "course_number": "310A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLISON, KELLY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Communication theory and interviewing skills and their application to the Social Work interview. Enrolment is limited to students in the BSW program.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "course_name": "SPAN 401",
+  "subject_code": "SPAN",
+  "course_number": "401",
+  "course_title": "Upper Intermediate Spanish I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 401 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=401&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Purpose, practice, and methodologies of translation from Spanish into English and back. Includes translation theory, translation from a variety of sources (i.e. literary, journalistic, legal, technical). Full description: https://fhis.ubc.ca/course-description/span401/",
+      "subject_code": "SPAN",
+      "course_number": "401",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARBONETTI, MARIA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "29",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 401 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=401&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SPAN",
+      "course_number": "401",
+      "section_number": "W01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Strengthening fluency and accuracy in spoken and written communication. Emphasis on mediation, interpretation, and metalinguistic competencies through translation and comparative stylistics. Aligned with CEFR level B2 objectives.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

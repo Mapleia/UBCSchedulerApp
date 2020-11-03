@@ -1,0 +1,70 @@
+{
+  "course_name": "COMM 381",
+  "subject_code": "COMM",
+  "course_number": "381",
+  "course_title": "Co-operative Work Placement II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=381&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "COMM 381 601",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=381&section=601&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "381",
+      "section_number": "601",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "COMM 381 602",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=381&section=602&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "381",
+      "section_number": "602",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised work experience for a minimum of 3.5 months. Normally taken during the summer term of the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Commerce.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

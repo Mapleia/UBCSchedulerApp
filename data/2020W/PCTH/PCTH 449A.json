@@ -1,0 +1,43 @@
+{
+  "course_name": "PCTH 449A",
+  "subject_code": "PCTH",
+  "course_number": "449A",
+  "course_title": "Honours Thesis - HONOURS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=449A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 449A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=449A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PCTH",
+      "course_number": "449A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PANG, CATHERINE C"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A research problem directed by a faculty member. Restricted to Honours Pharmacology students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

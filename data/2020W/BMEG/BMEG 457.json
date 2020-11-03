@@ -1,0 +1,100 @@
+{
+  "course_name": "BMEG 457",
+  "subject_code": "BMEG",
+  "course_number": "457",
+  "course_title": "Biomedical Engineering Design Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=457&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 457 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=457&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Term 1 lectures, studios, and tutorials will occur online. Decisions about term 2 will be communicated.",
+      "subject_code": "BMEG",
+      "course_number": "457",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR",
+        "NEWELL, ROBYN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 457 S0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=457&section=S0A&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "Term 1 lectures, studios, and tutorials will occur online. Decisions about term 2 will be communicated.",
+      "subject_code": "BMEG",
+      "course_number": "457",
+      "section_number": "S0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR",
+        "NEWELL, ROBYN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 457 T0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=457&section=T0A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Term 1 lectures, studios, and tutorials will occur online. Decisions about term 2 will be communicated.",
+      "subject_code": "BMEG",
+      "course_number": "457",
+      "section_number": "T0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAGHEGH HARANDI, NEGAR",
+        "NEWELL, ROBYN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Studio",
+    "Tutorial"
+  ]
+}

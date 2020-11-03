@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 570B",
+  "subject_code": "MECH",
+  "course_number": "570B",
+  "course_title": "Emerging Topics in Thermofluids - MICROFLUIDICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=570B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 570B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=570B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course was previously listed as MECH 550L. You cannot receive credit if you have already taken MECH 550L.",
+      "subject_code": "MECH",
+      "course_number": "570B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELFRING, GWYNN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 570B T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=570B&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This course was previously listed as MECH 550L. You cannot receive credit if you have already taken MECH 550l.",
+      "subject_code": "MECH",
+      "course_number": "570B",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELFRING, GWYNN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "7",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

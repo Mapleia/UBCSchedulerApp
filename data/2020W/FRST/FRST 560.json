@@ -1,0 +1,47 @@
+{
+  "course_name": "FRST 560",
+  "subject_code": "FRST",
+  "course_number": "560",
+  "course_title": "Forest Business Enterprise",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 560 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=560&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Restricted Registration. Condensed module course in January; registered students will receive exact schedule from the Program Coordinator.",
+      "subject_code": "FRST",
+      "course_number": "560",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NIKOLAKIS, WILLIAM"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

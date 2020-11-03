@@ -1,0 +1,44 @@
+{
+  "course_name": "LING 510",
+  "subject_code": "LING",
+  "course_number": "510",
+  "course_title": "Phonological Theory and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=510&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 510 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=510&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "510",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANSSON, GUNNAR"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Discussion and critical analysis of current issues in phonological theory.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

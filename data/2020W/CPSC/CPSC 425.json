@@ -1,0 +1,131 @@
+{
+  "course_name": "CPSC 425",
+  "subject_code": "CPSC",
+  "course_number": "425",
+  "course_title": "Computer Vision",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=425&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 425 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=425&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "425",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIGAL, LEONID"
+      ],
+      "totalRemaining": "55",
+      "currentlyRegistered": "105",
+      "generalRemaining": "0",
+      "restrictedRemaining": "55"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 425 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=425&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "425",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LITTLE, JAMES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "159",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 425 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=425&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "425",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIGAL, LEONID"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 425 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=425&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "425",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "933",
+      "currentlyRegistered": "66",
+      "generalRemaining": "933",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to the processing and interpretation of images.  Image sensing, sampling, and filtering.  Algorithms for colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "CNPS 504",
+  "subject_code": "CNPS",
+  "course_number": "504",
+  "course_title": "School Counselling",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=504&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CNPS 504 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=504&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "504",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUCHANAN, MARLA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and practice of school counselling.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

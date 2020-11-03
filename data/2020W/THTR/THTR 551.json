@@ -1,0 +1,43 @@
+{
+  "course_name": "THTR 551",
+  "subject_code": "THTR",
+  "course_number": "551",
+  "course_title": "Lighting Design Studio 1",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=551&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 551 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=551&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "551",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "101",
+      "instructors": [
+        "GARDINER, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Lighting design for theatre and other performance forms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

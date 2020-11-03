@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 587C",
+  "subject_code": "LAW",
+  "course_number": "587C",
+  "course_title": "Environmental Law - ENVIRONMENTL LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=587C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 587C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=587C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "*Cross-listed with LAW 387C.001*",
+      "subject_code": "LAW",
+      "course_number": "587C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STACEY, JOCELYN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A foundation course dealing with the regulatory and policy framework for the protection of the environment in Canada, such as pollution control and biodiversity conservation. Credit will only be granted for one of LAW 587 or LAW 387.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

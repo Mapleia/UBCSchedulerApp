@@ -1,0 +1,44 @@
+{
+  "course_name": "KIN 500D",
+  "subject_code": "KIN",
+  "course_number": "500D",
+  "course_title": "Special Topics in Kinesiology - SPEC TPCS KIN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=500D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 500D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=500D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Special Topics: Neurophysiology of Human Movement. Critical review and in-depth discussion of research literature on the sensori-motor control of human balance. Topics include: the biomechanical and neuro-physiological factors contributing to healthy static and dynamic balance control, techniques and tools used to measure human balance, and functional outcomes associated with balance disorders due to age and disease.\u001d**Class is scheduled for online delivery. Course is taught with KIN 313. Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0",
+      "subject_code": "KIN",
+      "course_number": "500D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "INGLIS, J TIMOTHY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

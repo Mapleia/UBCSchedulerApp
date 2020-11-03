@@ -1,0 +1,97 @@
+{
+  "course_name": "ECED 599A",
+  "subject_code": "ECED",
+  "course_number": "599A",
+  "course_title": "Master's Thesis - MASTER'S THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=599A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ECED 599A 051",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=599A&section=051&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to graduate students in the ECED MA program.",
+      "subject_code": "ECED",
+      "course_number": "599A",
+      "section_number": "051",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECED 599A 052",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=599A&section=052&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to graduate students in the ECED MA program.",
+      "subject_code": "ECED",
+      "course_number": "599A",
+      "section_number": "052",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECED 599A 053",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=599A&section=053&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to graduate students in the ECED MA program.",
+      "subject_code": "ECED",
+      "course_number": "599A",
+      "section_number": "053",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

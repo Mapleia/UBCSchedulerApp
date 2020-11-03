@@ -1,0 +1,44 @@
+{
+  "course_name": "MTRL 571",
+  "subject_code": "MTRL",
+  "course_number": "571",
+  "course_title": "Advanced Nanofibre Technology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=571&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 571 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=571&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "571",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAHI, ARDESHIR"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Processing and properties of nanomaterials in the context of fibrous and composite materials. Credit will only be given for one of MTRL 471, 571.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

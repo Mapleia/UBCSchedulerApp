@@ -1,0 +1,180 @@
+{
+  "course_name": "MUSC 205",
+  "subject_code": "MUSC",
+  "course_number": "205",
+  "course_title": "Aural Skills III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=205&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 205 110",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=110&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "110",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Full",
+      "section": "MUSC 205 120",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=120&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "120",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MUSC 205 121",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=121&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "121",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 205 220",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=220&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "220",
+      "building": "Music",
+      "room": "302",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 205 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Students are encouraged to attend one 20-minute online tutorial at an assigned time during their timetabled block (MW 9-10, or MW 10-11 or MW 11-12), and to view 15 minutes of tutorials on their own time. In addition they will complete worksheets and online sight-singing exercises, for a total time commitment of about 2 hours/week, plus practicing.Register for MUSC 205 001 plus 1 tutorial section",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 205 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=205&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Register for MUSC 205 002 plus 1 tutorial section",
+      "subject_code": "MUSC",
+      "course_number": "205",
+      "section_number": "002",
+      "building": "Music",
+      "room": "201",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Continuation of MUSC 106. Restricted to B.Mus. students.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Tutorial",
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

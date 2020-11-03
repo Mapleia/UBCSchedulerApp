@@ -1,0 +1,70 @@
+{
+  "course_name": "FRST 449F",
+  "subject_code": "FRST",
+  "course_number": "449F",
+  "course_title": "Directed Studies in Forestry - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=449F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "FRST 449F 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449F&section=102&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449F",
+      "section_number": "102",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 449F 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449F&section=006&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449F",
+      "section_number": "006",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

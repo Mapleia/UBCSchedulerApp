@@ -1,0 +1,72 @@
+{
+  "course_name": "FNIS 100",
+  "subject_code": "FNIS",
+  "course_number": "100",
+  "course_title": "Indigenous Foundations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNIS 100 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=100&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Credits will be granted for only one of FNIS 100, FNSP 100, or FNSP 200.  This course is intended for undergraduate students only. If you are a graduate student, please visit: http://fnis.arts.ubc.ca/graduate-courses/. This course is now full, please register in the waitlist section FNIS 100 WL1.",
+      "subject_code": "FNIS",
+      "course_number": "100",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GAERTNER, DAVID"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FNIS 100 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=100&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This is a waitlist section for undergraduate students  - only register in this section if FNIS 100 001 is full. Registering in the waitlist section does not guarantee you a spot in the course. When spots open up you will be moved from this section to the actual course. Email cis.program@ubc.ca with any questions.",
+      "subject_code": "FNIS",
+      "course_number": "100",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "70",
+      "currentlyRegistered": "0",
+      "generalRemaining": "70",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The historical, cultural, political, economic and legal issues that inform the experiences of Indigenous peoples in Canada, examined from both Indigenous and non-Indigenous perspectives. Credit will be granted for only one of FNIS 100, FNSP 100, or FNSP 200.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

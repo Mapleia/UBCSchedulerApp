@@ -1,0 +1,43 @@
+{
+  "course_name": "PSYC 358",
+  "subject_code": "PSYC",
+  "course_number": "358",
+  "course_title": "Evolutionary Psychology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=358&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 358 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=358&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "358",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHARIFF, AZIM"
+      ],
+      "totalRemaining": "37",
+      "currentlyRegistered": "143",
+      "generalRemaining": "37",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and research on the evolution of the human mind, with emphasis on implications for cognition and behaviour in contemporary environments.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

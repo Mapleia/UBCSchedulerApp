@@ -1,0 +1,48 @@
+{
+  "course_name": "PATH 404",
+  "subject_code": "PATH",
+  "course_number": "404",
+  "course_title": "Diagnostic Histochemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PATH 404 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=404&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:30",
+      "end": "16:30",
+      "comments": "RESTRICTED TO BMLS STUDENTSDetails on in person sessions will be communicated via email.",
+      "subject_code": "PATH",
+      "course_number": "404",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "1",
+        "22",
+        "0",
+        "1",
+        "",
+        "in one of these categories: Degree Student\nin one of these programs: BMLS\nin one of these faculties: MEDI\nin year: =3\n\n"
+      ],
+      "totalRemaining": "in one of these categories: Degree Student\nin one of these programs: BMLS\nin one of these faculties: MEDI\nin year: =3\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A lecture and laboratory course that encompasses the theory and the practice of currently available histochemical techniques. This course is to supplement the histopathological technique course taken as a requirement for CSLT (RT).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

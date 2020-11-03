@@ -1,0 +1,43 @@
+{
+  "course_name": "FRST 399",
+  "subject_code": "FRST",
+  "course_number": "399",
+  "course_title": "Introduction to Research Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=399&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 399 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=399&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "399",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CULBERT, PATRICK"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "41",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Lectures and seminars in research philosophies and the scientific method, with special emphasis on field research.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "course_name": "ARCH 404A",
+  "subject_code": "ARCH",
+  "course_number": "404A",
+  "course_title": "Topics in Architectural History I (Pre-1900) - EMPIRE BUILDING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=404A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ARCH 404A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=404A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "404A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEVENS, SARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ARCH 404A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=404A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "404A",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEVENS, SARA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Discussion",
+    "Waiting List"
+  ]
+}

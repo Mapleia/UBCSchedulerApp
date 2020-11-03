@@ -1,0 +1,127 @@
+{
+  "course_name": "MECH 306",
+  "subject_code": "MECH",
+  "course_number": "306",
+  "course_title": "Data Analysis and Mechatronics Laboratories",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 306 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=306&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "306",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 306 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=306&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:30",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "306",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 306 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=306&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "306",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": " ",
+      "section": "MECH 306 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=306&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "306",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "The use of probability and statistical methods for engineering applications. Mechanics of materials and heat transfer. Instrumentation, data acquisition, and data manipulation using modern computational tools. Common mechanical devices. For students in the Mechatronics Option only.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

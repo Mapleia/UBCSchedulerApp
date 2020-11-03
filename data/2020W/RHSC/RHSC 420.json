@@ -1,0 +1,96 @@
+{
+  "course_name": "RHSC 420",
+  "subject_code": "RHSC",
+  "course_number": "420",
+  "course_title": "Elements of Neuroanatomy and Neurophysiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RHSC 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is reserved for MOT students.",
+      "subject_code": "RHSC",
+      "course_number": "420",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "90",
+      "currentlyRegistered": "0",
+      "generalRemaining": "90",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "RHSC 420 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=420&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "12:00",
+      "comments": "This section is reserved for MPT students.",
+      "subject_code": "RHSC",
+      "course_number": "420",
+      "section_number": "002",
+      "building": "Friedman Building",
+      "room": "153",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "101",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "RHSC 420 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=420&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is reserved for MOT students.",
+      "subject_code": "RHSC",
+      "course_number": "420",
+      "section_number": "L01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "An introduction to the structure and function of the human nervous system.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

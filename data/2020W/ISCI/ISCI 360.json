@@ -1,0 +1,70 @@
+{
+  "course_name": "ISCI 360",
+  "subject_code": "ISCI",
+  "course_number": "360",
+  "course_title": "Systems Approaches to Regional Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ISCI 360 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=360&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "ISCI 360 is the prerequisite for ISCI 361. ISCI 361 will tentatively be offered in the summer of 2021 in Iceland and Winter term 2 2021 in Hawaii (over reading break). Please contact the IntSci department if you would like more info about either ISCI 360 or ISCI 361 (intsci@science.ubc.ca). The course is restricted to Integrated Sciences students. If space becomes available students in faculties other than the Faculty of Science may register in the course. These students should contact the IntSci office directly to be registered in the waitlist.",
+      "subject_code": "ISCI",
+      "course_number": "360",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GABRIEL, DENISE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ISCI 360 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=360&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "360",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Application of systems science encompassing geological, hydrological, ecological, atmospheric sciences, and energy systems approaches to study regional sustainability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

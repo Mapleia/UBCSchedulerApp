@@ -1,0 +1,97 @@
+{
+  "course_name": "FRST 498",
+  "subject_code": "FRST",
+  "course_number": "498",
+  "course_title": "B.Sc. Thesis in Forestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=498&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FRST 498 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=498&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Dr. Carroll will meet regularly with FRST 498 students to discuss thesis requirements and review progress.",
+      "subject_code": "FRST",
+      "course_number": "498",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARROLL, ALLAN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 498 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=498&section=102&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a special Term 1 only section of FRST 498 - students can only be registered by the Associate Dean.",
+      "subject_code": "FRST",
+      "course_number": "498",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARROLL, ALLAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 498 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=498&section=610&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "498",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MARSHALL, PETER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "An independent study or research project of a subject of special interest to the student under the direction of a staff member. Available only to students in the BSFS Honours specialization.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Thesis"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "course_name": "BUSI 393",
+  "subject_code": "BUSI",
+  "course_number": "393",
+  "course_title": "Introduction to Business Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=393&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 393 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=393&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "393",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCINTOSH, ELLEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 393 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=393&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "393",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COX, BARBARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 393 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=393&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "393",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANHAI, DEVIN MATTHEW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to the law of contracts, with particular reference to contracts for sale of goods and related law of personal property, principles of agency, partnership, and company law.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "MANU 265",
+  "subject_code": "MANU",
+  "course_number": "265",
+  "course_title": "Machine Dynamics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=265&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MANU 265 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=265&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "265",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MANU 265 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=265&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "265",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Classifications of mechanisms, velocity, acceleration and force analysis, graphical and computer-oriented vector and matrix methods, balancing, flywheels, gears, gear trains, cams.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

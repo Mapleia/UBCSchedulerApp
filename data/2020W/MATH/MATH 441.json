@@ -1,0 +1,45 @@
+{
+  "course_name": "MATH 441",
+  "subject_code": "MATH",
+  "course_number": "441",
+  "course_title": "Mathematical Modelling: Discrete Optimization Problems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 441 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=441&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "441",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOLYMOSI, JOZSEF",
+        "SOLYMOSI, JOZSEF(Coordinator)"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "48",
+      "generalRemaining": "5",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Formulation of real-world optimization problems using techniques such as linear programming, network flows, integer programming, dynamic programming. Solution by appropriate software.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

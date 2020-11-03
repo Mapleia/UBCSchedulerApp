@@ -1,0 +1,44 @@
+{
+  "course_name": "ASTR 406",
+  "subject_code": "ASTR",
+  "course_number": "406",
+  "course_title": "High-Energy Astrophysics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 406 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=406&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "406",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN WAERBEKE, LUDOVIC"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Radiative processes. White dwarfs, neutron stars, and black holes. Accreting systems. Gamma-ray bursts.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

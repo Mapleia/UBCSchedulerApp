@@ -1,0 +1,45 @@
+{
+  "course_name": "ENGL 308",
+  "subject_code": "ENGL",
+  "course_number": "308",
+  "course_title": "Rhetorical Criticism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=308&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 308 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=308&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "308",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HILL, IAN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "30",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A study of literary texts from a rhetorical perspective.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

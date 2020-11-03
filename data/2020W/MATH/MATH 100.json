@@ -1,0 +1,1987 @@
+{
+  "course_name": "MATH 100",
+  "subject_code": "MATH",
+  "course_number": "100",
+  "course_title": "Differential Calculus with Applications to Physical Sciences and Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 100 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MATH 100 is comprised of a two hour asynchronous lecture and a one hour synchronous workshop. Attending lectures will not be required as they will be recorded and can be viewed at any time, but attending workshops will be required. All students are to register in MATH 100 101 and a workshop. Some workshops are reserved for STT students, but there are many workshops with general seats. Workshops later in the evening have been scheduled for students in different time zones, please be considerate when you register. If you cannot register in one of the available workshops, we will place you later in the summer.Prerequisites for this course will be strictly enforced.  If you have 80% or higher in Pre-Calculus 12 but do nothave the high school calculus prerequisite for this course, please register yourself in MATH 180.  If you do not have a grade of 80% or better in Pre-Calclulus 12, please register in MATH 110.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACHMANN, SVEN",
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "BOWLES, MALCOLM NORMAN STANLEY",
+        "LONDNER, ITAY",
+        "ZARE BEZGABADI, MARJAN",
+        "ALINIAEIFARD, FARID",
+        "LANGER, BENJAMIN(Lead)",
+        "SOOFIANI, AMIN(Lead)",
+        "THIEU, MAI UYEN(Lead)",
+        "CHOUDHARY, PRADUMN",
+        "DI BENEDETTO, DANIEL",
+        "GHEORGHIU, MAX",
+        "MALETTO, SIMONE",
+        "MARTIN, ISABELLA",
+        "NIE, YONGQI",
+        "YANG, TONGOU"
+      ],
+      "totalRemaining": "43",
+      "currentlyRegistered": "1557",
+      "generalRemaining": "43",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 010",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=010&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "19:30",
+      "end": "20:30",
+      "comments": "Science One section",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "010",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "ALINIAEIFARD, FARID",
+        "CHOUDHARY, PRADUMN",
+        "MARTIN, ISABELLA",
+        "NIE, YONGQI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 100 V1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=V1A&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "V1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "TURKMENAFSAR, SERDAR(Lead)"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 V1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=V1B&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "V1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SADOUGHIANZADEH, REZA(Lead)",
+        "BASEFAT, KIMIA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 V1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=V1C&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "V1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "KOHUT, HANNAH(Lead)"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 V1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=V1D&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is restricted to UBC Vantage College students only.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "V1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "THIEU, MAI UYEN(Lead)",
+        "KIM, JONGYOON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFA&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "ZARE BEZGABADI, MARJAN",
+        "JU, LI"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFB&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "NGUYEN, DAC NHAM TAM(Lead)",
+        "LI, MICHELLE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFC&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFC",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "NGUYEN, DAC NHAM TAM(Lead)",
+        "WANG, ANNA TIANQI"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFD&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "THIEU, MAI UYEN(Lead)",
+        "ZHANG, YIYANG"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WFE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFE&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFE",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "ZARE BEZGABADI, MARJAN",
+        "BAINS, KARAN PARTAP"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MATH 100 WFF",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFF&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFF",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "KOHUT, HANNAH(Lead)",
+        "XIONG, XINZE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WFG",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFG&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFG",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "DUCHARME, NOE(Lead)",
+        "DESBRISAY, MADELEINE RUTH LANGRAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WFH",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFH&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFH",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GOLDTHORPE, ZACHARIAH(Lead)",
+        "CHAN, ELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WFI",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFI&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFI",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SADOUGHIANZADEH, REZA(Lead)",
+        "TAMBERI, FRANCESCA LAURA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFJ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFJ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFJ",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "NGUYEN, DAC NHAM TAM(Lead)",
+        "HUANG, FENGPENG"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "23",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFK",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFK&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFK",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "FRIEDMAN, BENJAMIN(Lead)",
+        "XIAO, ELIZABETH"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WFL",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WFL&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WFL",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SADOUGHIANZADEH, REZA(Lead)",
+        "TONG, KAITAI"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMA&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "LONDNER, ITAY",
+        "JU, LI"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMB&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "STOCKTON, JACOB(Lead)",
+        "HUANG, KATE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMC&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMC",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALINIAEIFARD, FARID",
+        "BENNETT, MICHAEL",
+        "BAINS, KARAN PARTAP"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMD&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "BOWLES, MALCOLM NORMAN STANLEY",
+        "WANG, ANNA TIANQI"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WME",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WME&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WME",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "LONDNER, ITAY",
+        "BASEFAT, KIMIA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMF",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMF&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMF",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "LI, XIAOWEI(Lead)",
+        "DENG, JIANRU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WMG",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMG&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMG",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "TURKMENAFSAR, SERDAR(Lead)",
+        "WU, YUNTAO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMH",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMH&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMH",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALINIAEIFARD, FARID",
+        "BENNETT, MICHAEL",
+        "DESBRISAY, MADELEINE RUTH LANGRAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMI",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMI&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMI",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "BOWLES, MALCOLM NORMAN STANLEY",
+        "TAMBERI, FRANCESCA LAURA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMJ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMJ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMJ",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "STOCKTON, JACOB(Lead)",
+        "CHAN, ELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMK",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMK&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMK",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "FRIEDMAN, BENJAMIN(Lead)",
+        "XIAO, ELIZABETH"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WML",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WML&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WML",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "YIP, CHI HOI(Lead)",
+        "XIONG, XINZE"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "17",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WMM",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMM&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMM",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "VAEZ GHAEMI, ROZA(Lead)",
+        "GAO, CHUNTONG"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMN",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMN&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMN",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "VAEZ GHAEMI, ROZA(Lead)",
+        "TONG, KAITAI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMO",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMO&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMO",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "YIP, CHI HOI(Lead)",
+        "OZAKI, BRUNO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMP",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMP&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMP",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "FRIEDMAN, BENJAMIN(Lead)",
+        "GAO, CHUNTONG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WMQ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WMQ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WMQ",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "KOHUT, HANNAH(Lead)",
+        "ZHANG, JOE JIN LIN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WRA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRA&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "LANGER, BENJAMIN(Lead)",
+        "BAINS, KARAN PARTAP"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WRB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRB&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "PEREIRA PINHEIRO, IGOR(Lead)",
+        "VUONG, QUANG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WRC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRC&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRC",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "ARCILA MAYA, NINY(Lead)",
+        "GUO, YIXING"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WRD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRD&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GOLDTHORPE, ZACHARIAH(Lead)",
+        "PELLEGRIN, ZACHARY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WRE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRE&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRE",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "LANGER, BENJAMIN(Lead)",
+        "HUANG, FENGPENG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WRF",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRF&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRF",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "DUCHARME, NOE(Lead)",
+        "GE, SHIYUAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WRG",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WRG&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WRG",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "PEREIRA PINHEIRO, IGOR(Lead)",
+        "KWAN, NICHOLAS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WTA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTA&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "LANGER, BENJAMIN(Lead)",
+        "CHAN, ELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WTB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTB&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "PEREIRA PINHEIRO, IGOR(Lead)",
+        "VUONG, QUANG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WTC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTC&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTC",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "ARCILA MAYA, NINY(Lead)",
+        "GE, SHIYUAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WTD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTD&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GOLDTHORPE, ZACHARIAH(Lead)",
+        "HUANG, FENGPENG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WTE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTE&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTE",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "LANGER, BENJAMIN(Lead)",
+        "PELLEGRIN, ZACHARY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WTF",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WTF&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WTF",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "DUCHARME, NOE(Lead)",
+        "KWAN, NICHOLAS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWA&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "LONDNER, ITAY",
+        "PELLEGRIN, ZACHARY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWB&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "PEREIRA PINHEIRO, IGOR(Lead)",
+        "JU, LI"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWC&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWC",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GARBUZ, BENJAMIN(Lead)",
+        "GE, SHIYUAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "23",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWD&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GOLDTHORPE, ZACHARIAH(Lead)",
+        "TAMBERI, FRANCESCA LAURA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWE&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWE",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "BOWLES, MALCOLM NORMAN STANLEY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWF",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWF&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWF",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GARBUZ, BENJAMIN(Lead)",
+        "KIM, JONGYOON"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWG",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWG&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWG",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "LONDNER, ITAY",
+        "ZHANG, YIYANG"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWH",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWH&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWH",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALINIAEIFARD, FARID",
+        "BENNETT, MICHAEL",
+        "BUDIARDJO, NATHANIEL"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWI",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWI&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWI",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "STOCKTON, JACOB(Lead)",
+        "BAINS, KARAN PARTAP"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WWJ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWJ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWJ",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "THIEU, MAI UYEN(Lead)",
+        "WU, YUNTAO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WWK",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWK&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWK",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "ZARE BEZGABADI, MARJAN",
+        "DENG, JIANRU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 100 WWL",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWL&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWL",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "GARBUZ, BENJAMIN(Lead)",
+        "VUONG, QUANG"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WWM",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWM&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWM",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SOOFIANI, AMIN(Lead)"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WWN",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWN&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWN",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALINIAEIFARD, FARID",
+        "BENNETT, MICHAEL",
+        "HUANG, KATE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 100 WWO",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWO&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This workshop is for APSC STT students",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWO",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "ZARE BEZGABADI, MARJAN",
+        "BUDIARDJO, NATHANIEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWP",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWP&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWP",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SOOFIANI, AMIN(Lead)",
+        "XIAO, ELIZABETH"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWQ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWQ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWQ",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "YIP, CHI HOI(Lead)"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "17",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWR&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWR",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "VAEZ GHAEMI, ROZA(Lead)",
+        "OZAKI, BRUNO"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWS",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWS&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWS",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "SOOFIANI, AMIN(Lead)",
+        "ZHANG, JOE JIN LIN"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 100 WWT",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=100&section=WWT&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "This workshop is intended for students in different time zones to Vancouver. Please be considerate when you register.",
+      "subject_code": "MATH",
+      "course_number": "100",
+      "section_number": "WWT",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "YIP, CHI HOI(Lead)",
+        "BAINS, KARAN PARTAP"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture",
+    "Workshop"
+  ]
+}

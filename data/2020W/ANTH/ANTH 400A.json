@@ -1,0 +1,72 @@
+{
+  "course_name": "ANTH 400A",
+  "subject_code": "ANTH",
+  "course_number": "400A",
+  "course_title": "History of Anthropology - HISTORY OF ANTH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=400A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 400A 200",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=400A&section=200&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "400A",
+      "section_number": "200",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, BRUCE"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "29",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ANTH 400A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=400A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This seminar will explore the development of key concepts in anthropology theory from foundational work in social philosophy to contemporary theory.Western social thought has dealt extensively with key issues: the relationship between the individual and society, the relationship between nature and culture, the nature of change in human societies, and the relationship between us and them. These themes run though the history of anthropology from its early pre-professional formation to contemporary research and theory.During the course you will examine theorists who have contributed to the books and articles you have read during your academic career.",
+      "subject_code": "ANTH",
+      "course_number": "400A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCKELLIN, WILLIAM"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "33",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The development of anthropological theory and practice in institutional contexts.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

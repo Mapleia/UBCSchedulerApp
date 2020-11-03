@@ -1,0 +1,44 @@
+{
+  "course_name": "GERM 408",
+  "subject_code": "GERM",
+  "course_number": "408",
+  "course_title": "Selected Issues in German Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=408&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GERM 408 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=408&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Detailed information at http://blogs.ubc.ca/gassnercourses/",
+      "subject_code": "GERM",
+      "course_number": "408",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GASSNER, FLORIAN"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "In depth study of one topic from German cultural history, varying from year to year. Possible topics: Germany of the New Europe; Gender and nation in German culture; topics from theory, such as the Frankfurt School.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

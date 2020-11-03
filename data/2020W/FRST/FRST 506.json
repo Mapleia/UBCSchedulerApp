@@ -1,0 +1,43 @@
+{
+  "course_name": "FRST 506",
+  "subject_code": "FRST",
+  "course_number": "506",
+  "course_title": "Advanced Forest Pathology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=506&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 506 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=506&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "3-hour weekly lecture. Exact day/time will be determined with the instructor at the start of the course.",
+      "subject_code": "FRST",
+      "course_number": "506",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAMELIN, RICHARD"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Hereditary, physiological, anatomical, environmental, and microbiological factors influencing forest tree diseases.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "course_name": "DSCI 524",
+  "subject_code": "DSCI",
+  "course_number": "524",
+  "course_title": "Collaborative Software Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 524 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=524&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "524",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 524 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=524&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "524",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 524 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=524&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "524",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Software life cycle. Unit testing. Continuous integration. Submission to a relevant repository for distribution. Packaging for installation and use by others. Software licenses. Classes and abstraction.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

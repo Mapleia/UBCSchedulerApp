@@ -1,0 +1,44 @@
+{
+  "course_name": "BIOL 346",
+  "subject_code": "BIOL",
+  "course_number": "346",
+  "course_title": "Microbes and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=346&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "BIOL 346 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=346&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "346",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An elementary course in molecular biology primarily for Arts students. The historical development of recent discoveries in molecular biology with emphasis on bacteria and viruses and their interaction with humans. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.) Not for credit in Life Sciences.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

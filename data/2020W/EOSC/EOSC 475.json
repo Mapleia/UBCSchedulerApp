@@ -1,0 +1,45 @@
+{
+  "course_name": "EOSC 475",
+  "subject_code": "EOSC",
+  "course_number": "475",
+  "course_title": "Marine Microbiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=475&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 475 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=475&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "475",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUTTLE, CURTIS"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "31",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Advanced biology, ecology and diversity of marine microbes. Emphasis on the roles of bacteria and viruses in marine foodwebs and geochemical cycles.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

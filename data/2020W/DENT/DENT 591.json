@@ -1,0 +1,45 @@
+{
+  "course_name": "DENT 591",
+  "subject_code": "DENT",
+  "course_number": "591",
+  "course_title": "Endodontic Case Management I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=591&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 591 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=591&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "591",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COIL, JEFFREY MARTIN",
+        "HAAPASALO, MARKUS",
+        "SHEN, YA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "3",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Modern endodontic technology and clinical endodontics. Lectures, seminars, and simulation training.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

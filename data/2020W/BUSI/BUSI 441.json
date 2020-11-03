@@ -1,0 +1,70 @@
+{
+  "course_name": "BUSI 441",
+  "subject_code": "BUSI",
+  "course_number": "441",
+  "course_title": "Real Estate Management I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 441 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=441&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "441",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 441 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=441&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "441",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Examines the day-to-day issues which affect the practice of property management.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

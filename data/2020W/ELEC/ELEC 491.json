@@ -1,0 +1,133 @@
+{
+  "course_name": "ELEC 491",
+  "subject_code": "ELEC",
+  "course_number": "491",
+  "course_title": "Electrical Engineering Capstone Design Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ELEC 491 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=491&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "The section for Capstone January + Summer is ELEC 400Y.",
+      "subject_code": "ELEC",
+      "course_number": "491",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "132",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 491 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=491&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "491",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AHMADI, HAMED",
+        "BOTMAN, PIETER",
+        "CONROY, PATRICK",
+        "GRECU, CRISTIAN SORIN",
+        "IVANOV, ANDRE",
+        "LEE, TERRY",
+        "LUSINA, PAUL",
+        "NASIOPOULOS, PANOS",
+        "YAN, JOSEPH"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "130",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 491 00W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=491&section=00W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "491",
+      "section_number": "00W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 491 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=491&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "491",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 10",
+  "description": "Design, analysis, and implementation of solutions in response to a real world electrical engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

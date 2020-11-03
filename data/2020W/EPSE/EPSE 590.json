@@ -1,0 +1,43 @@
+{
+  "course_name": "EPSE 590",
+  "subject_code": "EPSE",
+  "course_number": "590",
+  "course_title": "Graduating Paper/Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=590&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 590 077",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=590&section=077&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPED - This section is restricted to M.Ed. SPED  and  HDLC studentsThis section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "590",
+      "section_number": "077",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CANNON, JOANNA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

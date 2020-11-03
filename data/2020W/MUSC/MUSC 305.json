@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 305",
+  "subject_code": "MUSC",
+  "course_number": "305",
+  "course_title": "Readings in Orchestral Repertoire",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 305 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=305&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "With MUSC 506 and 606.",
+      "subject_code": "MUSC",
+      "course_number": "305",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRARD, JONATHAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "28",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "A laboratory course for orchestral performance majors. Emphasis on reading a large cross-section of standard orchestral repertoire with further emphasis given to music currently being programmed by local professional orchestras. The course is restricted to Orchestral Instruments majors, except by permission of the instructor.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

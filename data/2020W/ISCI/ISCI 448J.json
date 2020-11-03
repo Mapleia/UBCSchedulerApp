@@ -1,0 +1,46 @@
+{
+  "course_name": "ISCI 448J",
+  "subject_code": "ISCI",
+  "course_number": "448J",
+  "course_title": "Directed Studies - DIR STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=448J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ISCI 448J 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=448J&section=101&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "448J",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "0",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Permission of the Director is required.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Discussion"
+  ]
+}

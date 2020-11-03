@@ -1,0 +1,45 @@
+{
+  "course_name": "FREN 330",
+  "subject_code": "FREN",
+  "course_number": "330",
+  "course_title": "Selected Works of Quebecois Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 330 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=330&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Representative works viewed in their historical, social, and cultural contexts. Full course description: https://fhis.ubc.ca/course-description/fren330/",
+      "subject_code": "FREN",
+      "course_number": "330",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROCHELEAU, ALAIN-MICHEL"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "26",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Representative works viewed in their historical, social, and cultural contexts.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

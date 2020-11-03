@@ -1,0 +1,126 @@
+{
+  "course_name": "LAW 380A",
+  "subject_code": "LAW",
+  "course_number": "380A",
+  "course_title": "Externship Reflection - EXTRNSHP REFLECT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=380A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 380A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "Registration by permission only.",
+      "subject_code": "LAW",
+      "course_number": "380A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACK, RYAN",
+        "GRATTON, TYSON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "Registration by permission only.",
+      "subject_code": "LAW",
+      "course_number": "380A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACK, RYAN",
+        "GRATTON, TYSON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "SAT",
+        "SUN"
+      ],
+      "start": "09:00",
+      "end": "16:30",
+      "comments": "Registration by permission only.  Fall Term Seminar: September 12, 13, 19 and November 28, 2020, (9:00am-4:30pm each day)",
+      "subject_code": "LAW",
+      "course_number": "380A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TSE, ERIKA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SAT",
+        "SUN"
+      ],
+      "start": "09:00",
+      "end": "16:30",
+      "comments": "*Registration by permission only.  Spring Term Seminar:  January 9, 10, 16 and Mar 27, 2021 (9:00am-4:30pm each day)*",
+      "subject_code": "LAW",
+      "course_number": "380A",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TSE, ERIKA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Structured reflective exercises on the LAW 379 Externship experience.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Workshop"
+  ]
+}

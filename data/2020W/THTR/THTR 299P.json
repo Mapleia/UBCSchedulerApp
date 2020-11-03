@@ -1,0 +1,44 @@
+{
+  "course_name": "THTR 299P",
+  "subject_code": "THTR",
+  "course_number": "299P",
+  "course_title": "Production I - PRODUCTION I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=299P&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 299P 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=299P&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Scenic Painting Practicum - please consult the instructor.",
+      "subject_code": "THTR",
+      "course_number": "299P",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FOWLER, RUTH SKAI",
+        "WEST, LORRAINE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Assigned projects in theatre production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

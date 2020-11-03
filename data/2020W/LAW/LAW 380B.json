@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 380B",
+  "subject_code": "LAW",
+  "course_number": "380B",
+  "course_title": "Externship Reflection - EXTRNSHP REFLECT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=380B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 380B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Registration by Permission Only.",
+      "subject_code": "LAW",
+      "course_number": "380B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARRETT, NICOLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Structured reflective exercises on the LAW 379 Externship experience.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

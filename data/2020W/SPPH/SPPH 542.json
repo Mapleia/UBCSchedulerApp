@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 542",
+  "subject_code": "SPPH",
+  "course_number": "542",
+  "course_title": "Canadian Health Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 542 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=542&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "542",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORGAN, STEVEN"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "54",
+      "generalRemaining": "10",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analysis of the evolution and structure of the Canadian health care system.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

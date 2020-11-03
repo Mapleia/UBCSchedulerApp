@@ -1,0 +1,103 @@
+{
+  "course_name": "MICB 325",
+  "subject_code": "MICB",
+  "course_number": "325",
+  "course_title": "Analysis of Microbial Genes and Genomes ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MICB 325 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=325&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "325",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DHILLON, BHAVJINDER",
+        "ELTIS, LINDSAY",
+        "HANEY, CARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "136",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MICB 325 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=325&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "325",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "132",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    },
+    {
+      "status": " ",
+      "section": "MICB 325 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=325&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "325",
+      "section_number": "WL2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "2",
+      "generalRemaining": "2",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

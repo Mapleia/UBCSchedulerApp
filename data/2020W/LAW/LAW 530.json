@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 530",
+  "subject_code": "LAW",
+  "course_number": "530",
+  "course_title": "Advanced Legal Research and Writing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=530&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 530 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=530&section=001&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Enrolment priority to LLMCL students, then open to LLM and PHD students.",
+      "subject_code": "LAW",
+      "course_number": "530",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TSIAKOS, GEORGE"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "17",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Workshop"
+  ]
+}

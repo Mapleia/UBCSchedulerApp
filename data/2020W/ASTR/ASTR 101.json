@@ -1,0 +1,177 @@
+{
+  "course_name": "ASTR 101",
+  "subject_code": "ASTR",
+  "course_number": "101",
+  "course_title": "Introduction to the Solar System",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 101 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "150",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 101 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "All lab sections for 2020W Term 1 will be run online.",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "42",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 101 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "All lab sections for 2020W Term 1 will be run online.",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 101 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All lab sections for 2020W Term 1 will be run online.",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 101 L1M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=L1M&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "All lab sections for 2020W Term 1 will be run online.*This lab section reserved for students who are residing outside of the Pacific Time Zone*",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "L1M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOLEY, AARON"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "30",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASTR 101 10W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=101&section=10W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "101",
+      "section_number": "10W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "General principles of the celestial sphere, laws of motion and light, optics, and telescopes; current knowledge of the Sun and Solar System.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

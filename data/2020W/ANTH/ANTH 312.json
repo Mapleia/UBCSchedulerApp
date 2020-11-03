@@ -1,0 +1,44 @@
+{
+  "course_name": "ANTH 312",
+  "subject_code": "ANTH",
+  "course_number": "312",
+  "course_title": "Anthropology of Gender",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=312&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 312 200",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=312&section=200&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "312",
+      "section_number": "200",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VIVALDI PASQUA, ANA INES"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theoretical approaches to, and the ethnographic study of, gender in cross-cultural contexts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

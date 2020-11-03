@@ -1,0 +1,73 @@
+{
+  "course_name": "BIOL 421",
+  "subject_code": "BIOL",
+  "course_number": "421",
+  "course_title": "Plant-Microbe Interactions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOL 421 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=421&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "421",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANEY, CARA",
+        "KRONSTAD, JAMES"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 421 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=421&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "421",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Biology and physiology of selected plant-microbe relationships. Impacts of plant-microbe relationships on society.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

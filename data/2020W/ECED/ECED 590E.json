@@ -1,0 +1,98 @@
+{
+  "course_name": "ECED 590E",
+  "subject_code": "ECED",
+  "course_number": "590E",
+  "course_title": "Graduating Project - GRADUATING PRJCT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=590E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECED 590E 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=590E&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC18 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "590E",
+      "section_number": "61A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PIGHINI, MARIA"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "1",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 590E 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=590E&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC18 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "590E",
+      "section_number": "62A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PIGHINI, MARIA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "0",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 590E 67A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=590E&section=67A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC18 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "590E",
+      "section_number": "67A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BERGER, IRIS",
+        "PIGHINI, MARIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

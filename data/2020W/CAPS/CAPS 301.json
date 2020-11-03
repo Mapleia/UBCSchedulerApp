@@ -1,0 +1,81 @@
+{
+  "course_name": "CAPS 301",
+  "subject_code": "CAPS",
+  "course_number": "301",
+  "course_title": "Human Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CAPS&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CAPS 301 01D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=301&section=01D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "If you have not completed the prerequisites, you are not eligible to register in this course. Please direct all questions to caps.301@ubc.ca. Please include your student name, number and registration release date/time in all correspondence. NO 1st OR 2nd YEAR STUDENTS ARE ELIGIBLE TO REGISTER.  If you are a Year 1 or 2 student registered in the course, you will be deregistered.",
+      "subject_code": "CAPS",
+      "course_number": "301",
+      "section_number": "01D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ACCILI, ERIC",
+        "JOHNSON, JAMES",
+        "KINDLER, PAWEL",
+        "KWOK, YIN NAM KENNY",
+        "MASON, BARRY",
+        "MOUKHLES, HAKIMA",
+        "OSBORNE, SALMA"
+      ],
+      "totalRemaining": "205",
+      "currentlyRegistered": "295",
+      "generalRemaining": "203",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "CAPS 301 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=301&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "If you have not completed the prerequisites, you are not eligible to register in this course. Please direct all questions to CAPS.301@ubc.ca. Please include your student name, number and registration release date/time in all correspondence.",
+      "subject_code": "CAPS",
+      "course_number": "301",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Organ systems function with particular reference to mammalian and human physiology.  See credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

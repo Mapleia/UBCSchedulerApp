@@ -1,0 +1,127 @@
+{
+  "course_name": "APSC 278",
+  "subject_code": "APSC",
+  "course_number": "278",
+  "course_title": "Engineering Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=278&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APSC 278 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=278&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "278",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COCKCROFT, STEVEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "264",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "APSC 278 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=278&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "278",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, GABRIELLE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "APSC 278 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=278&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "If you need to register in this course outside of your STT, please register here.",
+      "subject_code": "APSC",
+      "course_number": "278",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "100"
+    },
+    {
+      "status": "Restricted",
+      "section": "APSC 278 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=278&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "278",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "93",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "93"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Atomic bonding; crystal structures and imperfections; properties of metals, ceramics, polymers, wood, concrete and fibre composite materials; selection of materials; corrosion; mechanical testing and heat treatment.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

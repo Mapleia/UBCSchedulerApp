@@ -1,0 +1,43 @@
+{
+  "course_name": "POLI 420C",
+  "subject_code": "POLI",
+  "course_number": "420C",
+  "course_title": "Advanced Topics in Comparative Politics - ADV TPCS CMP PLI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=420C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "POLI 420C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=420C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This is an online course, and will be cross-listed with POLI 514B. Please contact Prof. Quirk directly for registration.",
+      "subject_code": "POLI",
+      "course_number": "420C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "QUIRK, PAUL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Seminar in comparative analysis of politics in democratic systems. For specific content in a given year, consult the departmental website.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

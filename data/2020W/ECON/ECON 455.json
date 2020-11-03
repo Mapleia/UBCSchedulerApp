@@ -1,0 +1,98 @@
+{
+  "course_name": "ECON 455",
+  "subject_code": "ECON",
+  "course_number": "455",
+  "course_title": "International Trade",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 455 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=455&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is NOT for students registered in the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "455",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SWIECKI, TOMASZ"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "17",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 455 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=455&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "455",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "42",
+      "currentlyRegistered": "13",
+      "generalRemaining": "42",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECON 455 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=455&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This section is restricted to students in the 3rd and 4th year of the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "455",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORR, PATRICK SCOTT"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "74",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "International trade theory and policy in general equilibrium; relative costs, factor proportions, imperfect competition and the pattern of trade; efficiency and distribution. Credit granted for only one of ECON355 and ECON455.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "SOWK 201",
+  "subject_code": "SOWK",
+  "course_number": "201",
+  "course_title": "Introduction to Social Work Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOWK 201 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=201&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "Please note:  this course is not open to 1st year students.",
+      "subject_code": "SOWK",
+      "course_number": "201",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "SOWK 201 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=201&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "WAIT LIST. Students will be notified by email if they are moved to regular section.",
+      "subject_code": "SOWK",
+      "course_number": "201",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the knowledge, skills and values of social work practice in its many forms, emphasizing different ways of understanding the context of social and personal problems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

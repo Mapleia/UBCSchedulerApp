@@ -1,0 +1,201 @@
+{
+  "course_name": "CPEN 223",
+  "subject_code": "CPEN",
+  "course_number": "223",
+  "course_title": "Software Design for Engineers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=223&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 223 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "THIS COURSE IS FOR BMEG AND MANU STUDENTS ONLYCPEN OR ENPH STUDENTS, PLEASE REGISTER IN CPEN 221 SECTION 101, THANK YOU.",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "101",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPEN 223 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPEN 223 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPEN 223 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "33"
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 223 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CPEN 223 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 223 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=223&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "THIS COURSE IS FOR BMEG AND MANU STUDENTS ONLYCPEN OR ENPH STUDENTS, PLEASE REGISTER IN CPEN 221 SECTION 101, THANK YOU.",
+      "subject_code": "CPEN",
+      "course_number": "223",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Introduction to robust software design: static typing, procedural specifications, unit testing, black-box and white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

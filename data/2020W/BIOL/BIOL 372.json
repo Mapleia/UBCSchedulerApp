@@ -1,0 +1,73 @@
+{
+  "course_name": "BIOL 372",
+  "subject_code": "BIOL",
+  "course_number": "372",
+  "course_title": "Principles of Neurobiology II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 372 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=372&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "372",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORDON, MICHAEL",
+        "MATTHEWS, BENJAMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "200",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 372 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=372&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This is the wait-list for BIOL 372-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students\u0019 responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "372",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Examination of the neural systems underlying sensation, action, and complex behaviours using representative vertebrate and invertebrate species.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

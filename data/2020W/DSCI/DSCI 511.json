@@ -1,0 +1,96 @@
+{
+  "course_name": "DSCI 511",
+  "subject_code": "DSCI",
+  "course_number": "511",
+  "course_title": "Programming for Data Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=511&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 511 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=511&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Reserved for MDS-Vancouver and MDS-Computational Linguistic students.",
+      "subject_code": "DSCI",
+      "course_number": "511",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "133",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 511 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=511&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "511",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 511 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=511&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "511",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Pseudo-code. Program design and structure. Flow control. Iteration. Lists (arrays). Functions. File I/O. Classes, objects, methods, and libraries.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

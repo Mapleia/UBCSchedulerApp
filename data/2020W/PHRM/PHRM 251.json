@@ -1,0 +1,43 @@
+{
+  "course_name": "PHRM 251",
+  "subject_code": "PHRM",
+  "course_number": "251",
+  "course_title": "Institutional Practice Skills",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=251&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PHRM 251 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=251&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "251",
+      "section_number": "001",
+      "building": "Pharmaceutical Sciences Building",
+      "room": "1101",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Preparation for experiential learning in the hospital setting. Focuses on enhancing familiarity with the care environment and developing skills suited for students to apply to patient care during institutional experiential rotations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

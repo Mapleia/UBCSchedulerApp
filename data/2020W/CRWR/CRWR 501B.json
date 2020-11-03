@@ -1,0 +1,71 @@
+{
+  "course_name": "CRWR 501B",
+  "subject_code": "CRWR",
+  "course_number": "501B",
+  "course_title": "Advanced Writing of Poetry I - ADV POETRY I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=501B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 501B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "501B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATE, BRONWEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 501B D02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501B&section=D02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "501B",
+      "section_number": "D02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATE, BRONWEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

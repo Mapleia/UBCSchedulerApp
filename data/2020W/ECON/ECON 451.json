@@ -1,0 +1,44 @@
+{
+  "course_name": "ECON 451",
+  "subject_code": "ECON",
+  "course_number": "451",
+  "course_title": "Economics of Public Expenditures",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=451&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 451 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=451&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "451",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLIGAN, KEVIN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "42",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The role of government in the economy; efficiency and economic justice. Theory of public goods; applications to topics such as education, medical care and social services. Pricing and investment rules for public enterprises.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

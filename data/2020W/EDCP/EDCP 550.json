@@ -1,0 +1,70 @@
+{
+  "course_name": "EDCP 550",
+  "subject_code": "EDCP",
+  "course_number": "550",
+  "course_title": "Mathematics Education: Origins and Issues",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDCP 550 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=550&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "550",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NICOL, CYNTHIA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 550 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=550&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is reserved for students in the MAED Master of Education cohort. No other students will be registered.",
+      "subject_code": "EDCP",
+      "course_number": "550",
+      "section_number": "62A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "NICOL, CYNTHIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

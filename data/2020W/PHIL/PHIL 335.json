@@ -1,0 +1,45 @@
+{
+  "course_name": "PHIL 335",
+  "subject_code": "PHIL",
+  "course_number": "335",
+  "course_title": "Power and Oppression",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHIL 335 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=335&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "I will produce a video-recorded lecture in lieu of class on most Mondays of the term; students do not need to be available to meet on Mondays.  Most Wednesdays and Fridays will involve synchronous lectures and discussions and sometimes exercises during class time.  Students who are in variant time zones may be assigned to meet with other students in similar time zones and/or sometimes with the TA at times other than during the normal class meeting time to engage in class discussion and exercises.  Participation is not evaluated in this course, though strongly encouraged.",
+      "subject_code": "PHIL",
+      "course_number": "335",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANDERSON, SCOTT ALLEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "90",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Philosophical approaches to historical problems of inequality and social harm, with readings drawn from historical and contemporary sources. Topics to be studied may include slavery, colonialism, labour, and the position of women in society.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

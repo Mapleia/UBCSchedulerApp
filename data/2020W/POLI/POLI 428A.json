@@ -1,0 +1,43 @@
+{
+  "course_name": "POLI 428A",
+  "subject_code": "POLI",
+  "course_number": "428A",
+  "course_title": "Comparative Public Management - COMP PUBL MGMT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=428A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 428A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=428A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This section will be crosslisted with POLI 504A.",
+      "subject_code": "POLI",
+      "course_number": "428A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TUPPER, ALLAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Major changes in the structures and processes of government in advanced democracies, including the welfare state, citizenship, ethics, accountability, and institutional reform.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "course_name": "EOSC 211",
+  "subject_code": "EOSC",
+  "course_number": "211",
+  "course_title": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 211 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=211&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "If the course is full, please register on the waitlist.",
+      "subject_code": "EOSC",
+      "course_number": "211",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AUSTIN, PHILIP",
+        "JOHNSON, CATHERINE",
+        "HOWATT, TARA",
+        "OH, GUNHO",
+        "PETERSON, GEORGIA",
+        "STEVENS, SAMUEL"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "97",
+      "generalRemaining": "13",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 211 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=211&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "211",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "58",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 211 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=211&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "211",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "39",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EOSC 211 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=211&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "211",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Mathematical computer-based problem solving in the physical, chemical, and biological sciences. Problems drawn from studies of the earth, the oceans and the atmosphere. Credit will be granted for only one of APSC 160, CPSC 301, or EOSC 211.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

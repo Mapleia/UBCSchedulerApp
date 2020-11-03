@@ -1,0 +1,53 @@
+{
+  "course_name": "PCTH 305",
+  "subject_code": "PCTH",
+  "course_number": "305",
+  "course_title": "Basic Human Pharmacology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 305 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=305&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "PCTH 305 is a restricted course.  Students taking this course should have >75% academic average each year.  If you are interested in taking PCTH 305, please contact Dr. C.C.Y. Pang by email:  ccypang@mail.ubc.caSome or all activities in Term 2 may return to being conducted in person, depending on provincial and university policies in response to the COVID-19 pandemic; should this happen, the course director will work with any students unable to return to campus to allow for completion of the course.",
+      "subject_code": "PCTH",
+      "course_number": "305",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABADI, SHIRIN S.A.",
+        "DORMUTH, COLIN",
+        "HORNE, ANDREW",
+        "KARIM, SULTAN",
+        "LEUNG, JOANNE Y T",
+        "PANG, CATHERINE C",
+        "PANG, CATHERINE C(Coordinator)",
+        "SCHWARZ, STEPHAN",
+        "WALKER, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Lectures and assigned reading on the effects, mechanisms of action, absorption, distribution, fate and excretion of major classes of therapeutic agents. Indications for the use of particular drugs will be discussed in terms of risk versus benefit for the individual and for society.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

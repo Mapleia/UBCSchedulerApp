@@ -1,0 +1,182 @@
+{
+  "course_name": "FMST 210",
+  "subject_code": "FMST",
+  "course_number": "210",
+  "course_title": "Family Context of Human Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FMST&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FMST 210 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PITMAN, ROBYN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "138",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FMST 210 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "The course has been blocked. Please contact the instructor to enrol in this course.",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREAVES, KATHLEEN"
+      ],
+      "totalRemaining": "59",
+      "currentlyRegistered": "341",
+      "generalRemaining": "59",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FMST 210 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAINER, RAFAEL"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "163",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FMST 210 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREAVES, KATHLEEN"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "253",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FMST 210 206",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=206&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "206",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PITMAN, ROBYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "170",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FMST 210 207",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FMST&course=210&section=207&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FMST",
+      "course_number": "210",
+      "section_number": "207",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAINER, RAFAEL"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "159",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The influence of family dynamics and social conditions on human development.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

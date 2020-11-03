@@ -1,0 +1,45 @@
+{
+  "course_name": "CLST 334",
+  "subject_code": "CLST",
+  "course_number": "334",
+  "course_title": "Roman Religion",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=334&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 334 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=334&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "CLST",
+      "course_number": "334",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCARTY, MATTHEW"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "66",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Roman religions between the ninth century BCE and the fourth century CE, including mystery religions, magic, emperor worship, and early Christianity, with particular attention devoted to the primary sources. Some knowledge of ancient Rome is recommended.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

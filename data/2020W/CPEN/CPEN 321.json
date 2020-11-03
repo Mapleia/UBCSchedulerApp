@@ -1,0 +1,174 @@
+{
+  "course_name": "CPEN 321",
+  "subject_code": "CPEN",
+  "course_number": "321",
+  "course_title": "Software Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 321 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RUBIN, JULIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 321 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "25",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 321 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 321 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RUBIN, JULIA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "31",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 321 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 321 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=321&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "321",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RUBIN, JULIA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Engineering practices for the development of non-trivial software-intensive systems including requirements specification, software architecture, implementation, verification, and maintenance. Iterative development. Recognized standards, guidelines, and models. Credit will only be granted for only one of CPSC 310, EECE 310, or CPEN 321.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

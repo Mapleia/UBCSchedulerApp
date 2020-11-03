@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 513",
+  "subject_code": "SPPH",
+  "course_number": "513",
+  "course_title": "Clinical Epidemiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=513&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SPPH 513 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=513&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.caNote: Any non-MHSc, SPPH students wishing to register in this course, please contact Emily van Gulik at emily.vangulik@ubc.ca. For non-SPPH students, please contact the instructor and visit http://spph.ubc.ca/courses/graduate-courses/visiting-students/.",
+      "subject_code": "SPPH",
+      "course_number": "513",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRANDS, RALPH"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles and methods of epidemiology are applied to clinical problems. Evaluation and design of laboratory and clinical tests and of therapeutic interventions.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

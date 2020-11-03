@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 606",
+  "subject_code": "MUSC",
+  "course_number": "606",
+  "course_title": "Readings in Orchestral Repertoire",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=606&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 606 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=606&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "With 305 and 506",
+      "subject_code": "MUSC",
+      "course_number": "606",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRARD, JONATHAN"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Continuation of MUSC 506.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

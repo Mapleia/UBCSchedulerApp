@@ -1,0 +1,262 @@
+{
+  "course_name": "MECH 368",
+  "subject_code": "MECH",
+  "course_number": "368",
+  "course_title": "Engineering Measurements and Instrumentation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=368&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 368 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 368 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 368 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "STT",
+      "section": "MECH 368 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 368 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 368 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "All labs will take place in KAIS 1210",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHIAO, MU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 368 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 368 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 368 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=368&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "368",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Industrial measurement needs including: architecture of electronic instrumentation systems; electrical representation of physical quantities; sensors and actuators; analog signal processing using linear and non-linear circuits; computer based readout including programming for user-interface and data acquisition.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

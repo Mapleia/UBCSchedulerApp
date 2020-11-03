@@ -1,0 +1,74 @@
+{
+  "course_name": "FOPR 362",
+  "subject_code": "FOPR",
+  "course_number": "362",
+  "course_title": "Harvesting Systems and Forest Access",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FOPR&course=362&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FOPR 362 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=362&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "FOPR",
+      "course_number": "362",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRIESS, HOLGER",
+        "ROESER, DOMINIK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "FOPR 362 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=362&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "FOPR",
+      "course_number": "362",
+      "section_number": "L01",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "35",
+        "0",
+        "35",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The mechanics and productivity of a broad range of forest harvesting systems combined with topics on forest access.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

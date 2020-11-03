@@ -1,0 +1,69 @@
+{
+  "course_name": "MTRL 489",
+  "subject_code": "MTRL",
+  "course_number": "489",
+  "course_title": "Seminar III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=489&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 489 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=489&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "489",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WASSINK, BEREND"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "23"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 489 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=489&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "489",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WASSINK, BEREND"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "28"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Training and practice in public speaking and presentation of technical papers.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

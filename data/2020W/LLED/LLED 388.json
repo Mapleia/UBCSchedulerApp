@@ -1,0 +1,44 @@
+{
+  "course_name": "LLED 388",
+  "subject_code": "LLED",
+  "course_number": "388",
+  "course_title": "Secondary Theatre: Principles and Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=388&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LLED 388 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=388&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "20:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "LLED",
+      "course_number": "388",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEARE, DAVID",
+        "HERSHLER, LAEN"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

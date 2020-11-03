@@ -1,0 +1,70 @@
+{
+  "course_name": "MTRL 456",
+  "subject_code": "MTRL",
+  "course_number": "456",
+  "course_title": "Environmental Degradation of Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=456&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MTRL 456 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=456&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "456",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASSELIN, EDOUARD"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "27"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 456 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=456&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "456",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASSELIN, EDOUARD"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Fundamental aspects of environmental degradation of metals (corrosion), ceramics, adn polymers, with an empasis on aqueous environments.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

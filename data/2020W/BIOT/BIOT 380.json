@@ -1,0 +1,43 @@
+{
+  "course_name": "BIOT 380",
+  "subject_code": "BIOT",
+  "course_number": "380",
+  "course_title": "Advanced Biotechnology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOT&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "BIOT 380 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOT&course=380&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOT",
+      "course_number": "380",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": "Block registration for the microbiology, molecular genetics, biochemistry, management and regulatory affairs, process systems, analytical chemistry and communication courses taken in the BCIT/UBC Joint Degree in Biotechnology.  Credit limited to students in the Joint Degree Program.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

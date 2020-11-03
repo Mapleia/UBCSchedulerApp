@@ -1,0 +1,74 @@
+{
+  "course_name": "GEOG 352",
+  "subject_code": "GEOG",
+  "course_number": "352",
+  "course_title": "Urbanization in the Global South",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 352 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=352&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "Mix of asynchronous and synchronous components: Several synchronous online lectures held during the scheduled class time.",
+      "subject_code": "GEOG",
+      "course_number": "352",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NARAYAN, PRITI"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "85",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 352 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=352&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 352, section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "352",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Urbanization in the developing countries of Latin America, Africa, and Asia; the role of cities in the development process and the features and problems of rapid urbanization.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

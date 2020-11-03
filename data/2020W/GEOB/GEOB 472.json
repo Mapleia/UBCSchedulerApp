@@ -1,0 +1,74 @@
+{
+  "course_name": "GEOB 472",
+  "subject_code": "GEOB",
+  "course_number": "472",
+  "course_title": "Research in Cartography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=472&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOB 472 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=472&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Note: This course requries a $20.00 lab fee to be paid in the first month of class.This online seminar has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "472",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERGMANN, LUKE ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 472 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=472&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 472, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "472",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "7",
+        "3",
+        "7",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Use of cartography in primary research applications. Discussion of contemporary topics in cognitive, social, and technical cartography and data visualization.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

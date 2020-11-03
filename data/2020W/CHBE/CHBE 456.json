@@ -1,0 +1,72 @@
+{
+  "course_name": "CHBE 456",
+  "subject_code": "CHBE",
+  "course_number": "456",
+  "course_title": "Heterogenous Catalysis and Advanced Reactor Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=456&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 456 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=456&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "456",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, KEVIN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "106",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 456 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=456&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "CHBE",
+      "course_number": "456",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, KEVIN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "106",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Definition of heterogeneous catalysis; properties of catalysts; kinetics of catalytic reactions; ideal heterogeneous reactors; non-isothermal reactor design; mass and heat transfer effects in heterogeneous reactors; examples of industrial reactors.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Problem Session"
+  ]
+}

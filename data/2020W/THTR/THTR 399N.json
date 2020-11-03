@@ -1,0 +1,43 @@
+{
+  "course_name": "THTR 399N",
+  "subject_code": "THTR",
+  "course_number": "399N",
+  "course_title": "Production II - PRODUCTION II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=399N&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 399N 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=399N&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "399N",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "2",
+      "instructors": [
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Assigned projects in theatre design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

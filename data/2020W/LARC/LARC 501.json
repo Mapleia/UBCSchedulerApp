@@ -1,0 +1,45 @@
+{
+  "course_name": "LARC 501",
+  "subject_code": "LARC",
+  "course_number": "501",
+  "course_title": "Landscape Architecture Design Studio I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 501 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=501&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "501",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "BRACONNIER, STEPHANIE",
+        "PETERS, PAUL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": "Landscape design methods and processes. Restricted to M.L.A. students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

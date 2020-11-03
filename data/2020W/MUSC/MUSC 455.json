@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 455",
+  "subject_code": "MUSC",
+  "course_number": "455",
+  "course_title": "History of Opera II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 455 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=455&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "2020W format:  Synchronous, online delivery. 19th and 20th centuy.  Offered in even academic years (alternates with 454). Restricted to BMUS - 3rd year and above.",
+      "subject_code": "MUSC",
+      "course_number": "455",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VELLUTINI, CLAUDIO"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "22"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The development of opera between 1800 and the present.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

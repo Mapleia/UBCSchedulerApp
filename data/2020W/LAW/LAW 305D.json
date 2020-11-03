@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 305D",
+  "subject_code": "LAW",
+  "course_number": "305D",
+  "course_title": "Law, Society and State - LAW, SOC & STATE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=305D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 305D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=305D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Priority registration to 3rd and 2nd year Allard JD students.",
+      "subject_code": "LAW",
+      "course_number": "305D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOUNG, MARGOT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theories of the relationship between the legal system, social relations and the state. Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

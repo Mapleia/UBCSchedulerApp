@@ -1,0 +1,43 @@
+{
+  "course_name": "MECH 410F",
+  "subject_code": "MECH",
+  "course_number": "410F",
+  "course_title": "Special Topics in Mechanical Engineering - UNDRGRD RSRCH II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=410F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 410F 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=410F&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "410F",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUSHE, WILLIAM KENDAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Lectures and readings on specialized topics of current interest in Mechanical Engineering.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "CHBE 376",
+  "subject_code": "CHBE",
+  "course_number": "376",
+  "course_title": "Computer Flowsheeting and Unit Operation Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=376&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 376 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=376&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "376",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "121",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 376 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=376&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Problem based labs in CHBE undergraduate computer rooms on 3rd floor in rooms 314 and 318.",
+      "subject_code": "CHBE",
+      "course_number": "376",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "121",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Theory and practice of computer flowsheeting in chemical plant design; hands-on use of modern process simulators, prediction of thermodynamic properties of fluids; behaviour of single and multiphase systems. Design of unit operations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Problem Session"
+  ]
+}

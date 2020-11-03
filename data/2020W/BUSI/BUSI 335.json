@@ -1,0 +1,70 @@
+{
+  "course_name": "BUSI 335",
+  "subject_code": "BUSI",
+  "course_number": "335",
+  "course_title": "Information Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 335 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=335&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "335",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMLANI, ALYM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "103",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 335 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=335&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "335",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMLANI, ALYM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "56",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to information technology related to business use: design, implementation, and application of information systems.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

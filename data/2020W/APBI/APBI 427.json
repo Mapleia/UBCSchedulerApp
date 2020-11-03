@@ -1,0 +1,45 @@
+{
+  "course_name": "APBI 427",
+  "subject_code": "APBI",
+  "course_number": "427",
+  "course_title": "Insect Ecology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=427&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 427 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=427&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "427",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Behavioural, population, and community ecology of insects. Interaction between insects and plants and the application of the principals of insect ecology to biological control of insects and weeds.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

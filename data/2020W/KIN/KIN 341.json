@@ -1,0 +1,97 @@
+{
+  "course_name": "KIN 341",
+  "subject_code": "KIN",
+  "course_number": "341",
+  "course_title": "Instructional Strategies for Including Persons with Disabilities in Physical Activity",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=341&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 341 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=341&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "341",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, JASMIN"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "84",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 341 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=341&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "341",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "7",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 341 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=341&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "341",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, JASMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "84",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Examining curricular and instructional adaptations for accommodating participants with disabilities in inclusive physical activity environments.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Laboratory"
+  ]
+}

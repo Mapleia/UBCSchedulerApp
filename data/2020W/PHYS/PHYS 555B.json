@@ -1,0 +1,153 @@
+{
+  "course_name": "PHYS 555B",
+  "subject_code": "PHYS",
+  "course_number": "555B",
+  "course_title": "Directed Studies in Physics - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=555B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHYS 555B 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555B&section=102&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555B",
+      "section_number": "102",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 555B 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555B&section=104&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555B",
+      "section_number": "104",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 555B 206",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555B&section=206&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is Matt Choptiuk's \"Advanced Computational Physics\" course.",
+      "subject_code": "PHYS",
+      "course_number": "555B",
+      "section_number": "206",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 555B 207",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555B&section=207&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555B",
+      "section_number": "207",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 555B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555B",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "With approval of the department head, advanced studies under the direction of a staff member may be arranged in special cases.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Lecture",
+    "Directed Studies"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "AUDI 580",
+  "subject_code": "AUDI",
+  "course_number": "580",
+  "course_title": "Speech Perception and Hearing Ability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=580&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "AUDI 580 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=580&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "580",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "0",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

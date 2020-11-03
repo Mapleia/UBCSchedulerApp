@@ -1,0 +1,96 @@
+{
+  "course_name": "WOOD 461",
+  "subject_code": "WOOD",
+  "course_number": "461",
+  "course_title": "Globalization and Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 461 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=461&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "Select one of the laboratory sections L01 or L02 associated with lecture section 201.  This course is also open to non-Forestry students.",
+      "subject_code": "WOOD",
+      "course_number": "461",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULL, JUSTIN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "93",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 461 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=461&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "461",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULL, JUSTIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "47",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 461 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=461&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "461",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULL, JUSTIN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "43",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Examination of globalization and its impact on sustainability, including social, economic, and environmental aspects.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

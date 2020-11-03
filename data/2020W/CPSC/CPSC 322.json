@@ -1,0 +1,127 @@
+{
+  "course_name": "CPSC 322",
+  "subject_code": "CPSC",
+  "course_number": "322",
+  "course_title": "Introduction to Artificial Intelligence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=322&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 322 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=322&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "322",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POOLE, DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "178",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 322 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=322&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "322",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONATI, CRISTINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "158",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 322 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=322&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "322",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POOLE, DAVID"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 322 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=322&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "322",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "868",
+      "currentlyRegistered": "131",
+      "generalRemaining": "868",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Problem-solving and planning; state/action models and graph searching. Natural language understanding Computational vision. Applications of artificial intelligence.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

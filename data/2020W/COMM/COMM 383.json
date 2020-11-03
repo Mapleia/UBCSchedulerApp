@@ -1,0 +1,44 @@
+{
+  "course_name": "COMM 383",
+  "subject_code": "COMM",
+  "course_number": "383",
+  "course_title": "Innovation Leadership",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=383&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 383 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=383&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "383",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEIDEL, MARC-DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Social science frameworks useful for understanding organizational innovation processes and application of these frameworks to innovation. Diagnosing and solving a broad range of organizational innovation challenges from the perspective of an innovation leader.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

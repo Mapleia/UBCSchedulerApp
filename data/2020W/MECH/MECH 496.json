@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 496",
+  "subject_code": "MECH",
+  "course_number": "496",
+  "course_title": "Engineering Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=496&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 496 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=496&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "496",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAWLINGS, GEORGE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "62",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 496 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=496&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "496",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Organization structures. Management styles. Cost systems and control. Financial statements; accounting procedures. Budgets and performance control. Project management. Human resources management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

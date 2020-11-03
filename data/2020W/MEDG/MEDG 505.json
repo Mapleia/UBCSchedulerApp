@@ -1,0 +1,45 @@
+{
+  "course_name": "MEDG 505",
+  "subject_code": "MEDG",
+  "course_number": "505",
+  "course_title": "Genome Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDG 505 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=505&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "A background in the fundamentals of genetics is required.To be placed on the MEDG 505 wait list, email Rachel Rodrigues (medical.genetics@ubc.ca) your student # and your grade in BIOL 234 or equivalent course with an explanation of the relevant topics covered. Qualified students will be registered from the wait list on a 'first-come, first-served' basis.Course offered on-line only for 2020W.",
+      "subject_code": "MEDG",
+      "course_number": "505",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIROL, INANC",
+        "HIETER, PHILIP",
+        "HIETER, PHILIP(Coordinator)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "18",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Investigation of genetic information as it is organized within genomes, genetic and physical map construction, sequencing technologies, gene identification, database accessing and integration, functional organization of genomes from contemporary, historic and evolutionary perspectives.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

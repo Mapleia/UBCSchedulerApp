@@ -1,0 +1,70 @@
+{
+  "course_name": "NURS 530",
+  "subject_code": "NURS",
+  "course_number": "530",
+  "course_title": "Advanced Practice in Nursing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=530&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 530 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=530&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This course is prioritized for MSN and MPHMSN students.Advanced Practice Nursing - This course explores the theoretical foundations and practical experience/mentorship required for the development of knowledge and skills related to an advanced practice nursing role. Through classroom experiences we will explore the key elements of APN roles and the skills required to enact these roles.",
+      "subject_code": "NURS",
+      "course_number": "530",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAUCK, SANDRA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 530 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=530&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "waitlist for NURS 530-002",
+      "subject_code": "NURS",
+      "course_number": "530",
+      "section_number": "02W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Study of advanced practice nursing models, their development and implementation with a changing health care system.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum",
+    "Waiting List"
+  ]
+}

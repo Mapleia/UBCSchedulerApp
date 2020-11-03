@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 365",
+  "subject_code": "MUSC",
+  "course_number": "365",
+  "course_title": "Song Repertoire I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=365&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 365 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=365&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Offered in even academic years only (alternates with MUSC 465).  For BMUS students only.2020W format:  Students attend an online class every Friday from 2-3:30 pm",
+      "subject_code": "MUSC",
+      "course_number": "365",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EPP, RICHARD ARTHUR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "An exploration of the solo art song repertoire from 1600 to the Romantic period. Repertoire essential to the performer and teacher will be studied through live and recorded performance with special attention given to poetic content and musical style.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

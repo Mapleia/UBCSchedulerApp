@@ -1,0 +1,73 @@
+{
+  "course_name": "GEOB 309",
+  "subject_code": "GEOB",
+  "course_number": "309",
+  "course_title": "Geographical Sciences Field Course",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=309&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "GEOB 309 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=309&section=201&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Mix of asynchronous and synchronous components: synchronous lessons every other Friday to indtroduce data and techniques; Field week, if in-person is not possible, will consist of desktop activities to examine datasets and Virtual experiences. Please contact instructor for more information.",
+      "subject_code": "GEOB",
+      "course_number": "309",
+      "section_number": "201",
+      "building": "Geography",
+      "room": "214",
+      "instructors": [
+        "HEWITT, NINA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 309 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=309&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 309, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "309",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "4",
+        "1",
+        "4",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Field sampling, instrumentation, surveying, mapping techniques, and data analysis; mandatory multi-day field camp in April or May. Special fees and liability insurance are required.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "course_name": "MECH 329",
+  "subject_code": "MECH",
+  "course_number": "329",
+  "course_title": "Materials for Mechanical Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=329&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 329 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=329&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "329",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACCA, MATTIA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 329 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=329&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "329",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACCA, MATTIA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 329 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=329&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "329",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

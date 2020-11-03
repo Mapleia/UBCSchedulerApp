@@ -1,0 +1,44 @@
+{
+  "course_name": "COEC 498",
+  "subject_code": "COEC",
+  "course_number": "498",
+  "course_title": "International Business Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COEC&course=498&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COEC 498 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COEC&course=498&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "COEC",
+      "course_number": "498",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIKKAWA, AYUMU"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Credit will be granted for only one of COEC 498 or COMM 498.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

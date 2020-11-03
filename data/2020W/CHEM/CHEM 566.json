@@ -1,0 +1,45 @@
+{
+  "course_name": "CHEM 566",
+  "subject_code": "CHEM",
+  "course_number": "566",
+  "course_title": "Advanced Organic Synthesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=566&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 566 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=566&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "566",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAMMIS, GLENN"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Discussion of modern synthetic methods and applications to the synthesis of complex organic molecules. Credit will be granted for only one of CHEM 566 or CHEM 411.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

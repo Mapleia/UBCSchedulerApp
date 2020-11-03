@@ -1,0 +1,96 @@
+{
+  "course_name": "FRST 538",
+  "subject_code": "FRST",
+  "course_number": "538",
+  "course_title": "Advanced Remote Sensing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=538&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 538 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=538&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "Meets with FRST 443.",
+      "subject_code": "FRST",
+      "course_number": "538",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COOPS, NICHOLAS CHARLES"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 538 LA2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=538&section=LA2&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "Meets with FRST 443.",
+      "subject_code": "FRST",
+      "course_number": "538",
+      "section_number": "LA2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COOPS, NICHOLAS CHARLES"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 538 LA4",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=538&section=LA4&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "Meets with FRST 443.",
+      "subject_code": "FRST",
+      "course_number": "538",
+      "section_number": "LA4",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COOPS, NICHOLAS CHARLES"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "7",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

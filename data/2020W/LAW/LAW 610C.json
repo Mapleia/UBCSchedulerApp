@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 610C",
+  "subject_code": "LAW",
+  "course_number": "610C",
+  "course_title": "Doctoral Seminar I: Issues in Legal Theory - DOC SEM  I: ISS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=610C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 610C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=610C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Enrolment restricted to Ph.D. students only.",
+      "subject_code": "LAW",
+      "course_number": "610C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SARFATY, GALIT"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "4",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Including law and feminism, Marxism, post-modernism, social theory, law and the state; legal liberalism and its critics, and other jurisprudential discourses.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "FOPR 264",
+  "subject_code": "FOPR",
+  "course_number": "264",
+  "course_title": "Introduction to Forest Operations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FOPR&course=264&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FOPR 264 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=264&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "FOPR",
+      "course_number": "264",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRIESS, HOLGER",
+        "ROESER, DOMINIK"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "60",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Basic geomatics, surveying and forest operations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

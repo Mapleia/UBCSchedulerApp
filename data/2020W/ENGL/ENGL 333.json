@@ -1,0 +1,44 @@
+{
+  "course_name": "ENGL 333",
+  "subject_code": "ENGL",
+  "course_number": "333",
+  "course_title": "History of the Book",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 333 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=333&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "333",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ECHARD, SIAN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "41",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Survey of development of text technologies (such as manuscripts, printed books, new media forms), through historical, cultural, and theoretical frameworks. Consult department website for current year's offerings. Credit granted for up to 6 credits of ENGL 333 and 419.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "course_name": "LARC 504",
+  "subject_code": "LARC",
+  "course_number": "504",
+  "course_title": "Landscape Architecture Design Studio IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=504&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LARC 504 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=504&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "504",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROEHR, DANIEL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "LARC 504 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=504&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "504",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BYRNE, FIONN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Blocked",
+      "section": "LARC 504 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=504&section=003&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "504",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIANG, ANNIE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

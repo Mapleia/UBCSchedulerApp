@@ -1,0 +1,45 @@
+{
+  "course_name": "FRE 474",
+  "subject_code": "FRE",
+  "course_number": "474",
+  "course_title": "Data for Land and Resource Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=474&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRE 474 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=474&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "474",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GULATI, SUMEET"
+      ],
+      "totalRemaining": "63",
+      "currentlyRegistered": "2",
+      "generalRemaining": "63",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Data applied to resource use and conservation, estimating the causal impact of policies and economic development on environmental outcomes, application of empirical methods to problems in environmental economics and resource conservation. Knowledge of R is beneficial but not required.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

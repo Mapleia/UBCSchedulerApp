@@ -1,0 +1,69 @@
+{
+  "course_name": "PHIL 585",
+  "subject_code": "PHIL",
+  "course_number": "585",
+  "course_title": "Directed Reading",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=585&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHIL 585 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=585&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Directed Reading: Canonical Texts of Phenomenology",
+      "subject_code": "PHIL",
+      "course_number": "585",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, EVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHIL 585 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=585&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "585",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEATTY, JOHN HENRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

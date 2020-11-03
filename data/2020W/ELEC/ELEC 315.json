@@ -1,0 +1,124 @@
+{
+  "course_name": "ELEC 315",
+  "subject_code": "ELEC",
+  "course_number": "315",
+  "course_title": "Electronic Materials and Devices",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 315 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=315&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "315",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MADDEN, JOHN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "123",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 315 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=315&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Please email registration@ece.ubc.ca if you need assistance, thank you.",
+      "subject_code": "ELEC",
+      "course_number": "315",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MADDEN, JOHN"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "43",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 315 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=315&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "315",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 315 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=315&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "315",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Fundamental aspects of electronic materials such as: semiconductors, metals, dielectrics, piezoelectrics, magnetic materials, and their applications in devices such as diodes, transistors, and transducers.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

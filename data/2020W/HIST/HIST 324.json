@@ -1,0 +1,44 @@
+{
+  "course_name": "HIST 324",
+  "subject_code": "HIST",
+  "course_number": "324",
+  "course_title": "Inventing Canada, 1840-1896",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=324&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 324 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=324&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "324",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUCHARME, MICHEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An examination of political, cultural and national developments within the British North American colonies in the second half of the nineteenth century. Credit will not be granted for both HIST 324 or 326, if 326 was taken before 2007W.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

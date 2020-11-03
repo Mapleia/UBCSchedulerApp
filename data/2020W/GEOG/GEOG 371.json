@@ -1,0 +1,155 @@
+{
+  "course_name": "GEOG 371",
+  "subject_code": "GEOG",
+  "course_number": "371",
+  "course_title": "Research Strategies in Human Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 371 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=371&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This asynchronous online lecture does not have a scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "371",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "59",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 371 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=371&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "371",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 371 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=371&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "371",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 371 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=371&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "371",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 371 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=371&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 371, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "371",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

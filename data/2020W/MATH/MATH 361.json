@@ -1,0 +1,45 @@
+{
+  "course_name": "MATH 361",
+  "subject_code": "MATH",
+  "course_number": "361",
+  "course_title": "Introduction to Mathematical Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=361&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 361 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=361&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "361",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CYTRYNBAUM, ERIC"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "47",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Mathematical modelling of basic biological processes in ecology, physiology, neuroscience and genetics. Dynamic behavior of difference equations, differential equations, and partial differential equations, explained with reference to concrete biological examples.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

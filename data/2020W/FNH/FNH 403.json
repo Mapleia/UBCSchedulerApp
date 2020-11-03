@@ -1,0 +1,125 @@
+{
+  "course_name": "FNH 403",
+  "subject_code": "FNH",
+  "course_number": "403",
+  "course_title": "Food Laws, Regulations and Quality Assurance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNH 403 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=403&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "This section is FULL so has been blocked from registration - if you wish to be considered for the course, please register for the waitlist (FNH 403 0W1). FNH 403 is restricted to students with Year 3 or above.",
+      "subject_code": "FNH",
+      "course_number": "403",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSS, NANCY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "105",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 403 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=403&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "403",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSS, NANCY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "73",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": " ",
+      "section": "FNH 403 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=403&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "403",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSS, NANCY"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "32",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FNH 403 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=403&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for FNH 403 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "FNH",
+      "course_number": "403",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "course_name": "CHEM 154",
+  "subject_code": "CHEM",
+  "course_number": "154",
+  "course_title": "Chemistry for Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=154&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 111",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=111&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "111",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "17",
+        "242",
+        "17",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 133",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=133&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "The majority of the seats in this section are available only via the appropriate Applied Science Standard Timetable.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "133",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "41",
+        "307",
+        "41",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 177",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=177&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "20:00",
+      "end": "21:30",
+      "comments": "The majority of the seats in this section are available only via the appropriate Applied Science Standard Timetable.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "177",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "36",
+        "302",
+        "36",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab is online.Students who do not attend the first laboratory meeting of this course will be DEREGISTERED from the course.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MONGA, VISHAKHA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "374",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab is online.Students who do not attend the first laboratory meeting of this course will be DEREGISTERED from the course.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MONGA, VISHAKHA"
+      ],
+      "totalRemaining": "42",
+      "currentlyRegistered": "320",
+      "generalRemaining": "42",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "Lab is online.Students who do not attend the first laboratory meeting of this course will be DEREGISTERED from the course.Students who live outside the time zone of Vancouver are encouraged to register in this section so that synchronous activities will occur during their local daytime hours",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MONGA, VISHAKHA"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "148",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 XMT",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=XMT&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Lab for EXEMPTED students only.  Lab XMT is NOT available for direct registration by students.Lab XMT is **ONLY** for students repeating this course who have successfully completed the laboratory component of this course during their previous registration in the course.  Such students should **NOT** register in a regular laboratory; the department will place you into the exempt laboratory. Students registered in a regular laboratory via standard timetable who are laboratory exempt should contact the department to arrange transfer into section XMT. Students who are registered in laboratory section XMT do NOT have to attend the laboratory orientation for the course.  Your previous grade in the laboratory will be used in determining your final grade this year.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "XMT",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "0",
+        "7",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This waitlist is for BOTH the lecture and the laboratory. You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 154 9AR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=154&section=9AR&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Faculty of Applied Science *internal use only* and all inquiries need to be directed to this faculty.  Please do NOT contact the Department of Chemistry regarding this particular section.",
+      "subject_code": "CHEM",
+      "course_number": "154",
+      "section_number": "9AR",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

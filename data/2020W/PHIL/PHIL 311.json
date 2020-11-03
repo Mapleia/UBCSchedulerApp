@@ -1,0 +1,45 @@
+{
+  "course_name": "PHIL 311",
+  "subject_code": "PHIL",
+  "course_number": "311",
+  "course_title": "The Philosophy of Aristotle",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Please note that, STARTING IN WEEK 2, students will be expected to participate in one hour of synchronous instruction per week through Zoom on Mondays from 11:00am-12:00pm (Pacific). All remaining elements of instruction will be asynchronous, except for office hours.",
+      "subject_code": "PHIL",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOMMERVILLE, BROOKS"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "73",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A study of Aristotle's writings and his influence on subsequent philosophy.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

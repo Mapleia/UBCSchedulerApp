@@ -1,0 +1,44 @@
+{
+  "course_name": "GERM 404",
+  "subject_code": "GERM",
+  "course_number": "404",
+  "course_title": "Religion and German Literature (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GERM 404 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=404&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Detailed information at http://blogs.ubc.ca/gassnercourses/",
+      "subject_code": "GERM",
+      "course_number": "404",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GASSNER, FLORIAN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "5",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Religion and literature in Germanic cultural history.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

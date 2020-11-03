@@ -1,0 +1,43 @@
+{
+  "course_name": "BMEG 500",
+  "subject_code": "BMEG",
+  "course_number": "500",
+  "course_title": "Orientation to Clinical Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=500&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 500 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=500&section=101&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "This course meets at Vancouver General Hospital at the Centre for Hip Health and Mobility.This course is for the Biomedical Engineering Program Engineers in Scrubs (BME EiS) students. No other students are allowed in this course.",
+      "subject_code": "BMEG",
+      "course_number": "500",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAM, ROGER"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Operation of biomedical and clinical engineering facilities at hospitals. Daily activities of healthcare workers. Patients experience.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

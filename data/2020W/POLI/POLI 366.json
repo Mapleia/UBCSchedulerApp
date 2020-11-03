@@ -1,0 +1,130 @@
+{
+  "course_name": "POLI 366",
+  "subject_code": "POLI",
+  "course_number": "366",
+  "course_title": "International Political Economy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=366&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "POLI 366 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=366&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "366",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FARKASCH, ROBERT",
+        "BOUTRON, CHLOE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "71",
+      "generalRemaining": "3",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Restricted",
+      "section": "POLI 366 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=366&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "366",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FARKASCH, ROBERT"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "POLI 366 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=366&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "366",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUEBNER, KURT",
+        "KIM, DONGWOO"
+      ],
+      "totalRemaining": "53",
+      "currentlyRegistered": "47",
+      "generalRemaining": "7",
+      "restrictedRemaining": "46"
+    },
+    {
+      "status": " ",
+      "section": "POLI 366 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=366&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "366",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUTTON, BRENT"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "69",
+      "generalRemaining": "1",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An analysis of governmental policies and international political bargaining in regard to such issues as international investment, trade, and monetary relations. Pre-requisite: ECON 100 or 309 are recommended.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

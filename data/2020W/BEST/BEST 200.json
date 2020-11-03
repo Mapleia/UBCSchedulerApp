@@ -1,0 +1,45 @@
+{
+  "course_name": "BEST 200",
+  "subject_code": "BEST",
+  "course_number": "200",
+  "course_title": "Foundations in Bioproducts and the Bioeconomy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BEST&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BEST 200 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BEST&course=200&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BEST",
+      "course_number": "200",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RENNECKAR, SCOTT"
+      ],
+      "totalRemaining": "41",
+      "currentlyRegistered": "9",
+      "generalRemaining": "41",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to the production, use, and attributes of renewable products and energy derived from biobased materials. Sustainability paradigms related to the bioeconomy; potential environmental and socio-political impacts associated with biobased technologies and transitions to sustainable economies.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "MUSC 512E",
+  "subject_code": "MUSC",
+  "course_number": "512E",
+  "course_title": "Directed Individual Studies - DOCT THESIS PREP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=512E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 512E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "512E",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 512E 010",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512E&section=010&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "512E",
+      "section_number": "010",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "0",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approval by the Director, School of Music, is required.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course_name": "FNH 325",
+  "subject_code": "FNH",
+  "course_number": "325",
+  "course_title": "Food Science Laboratory I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 325 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=325&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This course will take place ONLINE for 20W, term 1.  This course is open only to students in the BSFN program, majoring in either Food Science, or the Food  and  Nutritional Science double major. Please note: FNH 300, FNH 301, FNH 302 can be taken as corequisites, but the SISC system won't recognize this - therefore please contact students@landfood.ubc.ca for assistance with your registration.",
+      "subject_code": "FNH",
+      "course_number": "325",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HINGSTON, PATRICIA",
+        "CHEUNG, KA YAN LENNIE",
+        "LU, YU TONG",
+        "RUTAKOMOZIBWA, ANGELA MERCY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 325 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=325&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This course will take place ONLINE for 20W, term 1.",
+      "subject_code": "FNH",
+      "course_number": "325",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HINGSTON, PATRICIA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Integrated laboratory introducing techniques used in food processing and analysis. Enrolment restricted to Food Science students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory",
+    "Tutorial"
+  ]
+}

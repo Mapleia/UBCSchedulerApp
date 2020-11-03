@@ -1,0 +1,176 @@
+{
+  "course_name": "ENPH 353",
+  "subject_code": "ENPH",
+  "course_number": "353",
+  "course_title": "Engineering Physics Project I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENPH&course=353&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENPH 353 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "If you cannot register yourself in ENPH 353, register on the wait list:  ENPH 353 WL1.   This course is a core requirement for Engineering Physics students who entered the Program in 18W and later.  Priority will be given to students who require this course.",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISBASESCU, IOAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENPH 353 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "If you cannot register yourself in ENPH 353, register on the wait list:  ENPH 353 WL2.   This course is a core requirement for Engineering Physics students who entered the Program in 18W and later.  Priority will be given to students who require this course.",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISBASESCU, IOAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Full",
+      "section": "ENPH 353 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISBASESCU, IOAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENPH 353 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISBASESCU, IOAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENPH 353 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This wait list is for all sections of this course in term one.",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENPH 353 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=353&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This wait list is for all sections of this course in term two.",
+      "subject_code": "ENPH",
+      "course_number": "353",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Engineering project planning, execution and reporting. The course involves carrying out an open-ended Engineering project to meet specific performance metrics on an industry relevant topic selected by instructors. Reporting on progress is both oral and written.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture-Laboratory",
+    "Waiting List"
+  ]
+}

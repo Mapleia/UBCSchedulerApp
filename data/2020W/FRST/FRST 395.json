@@ -1,0 +1,149 @@
+{
+  "course_name": "FRST 395",
+  "subject_code": "FRST",
+  "course_number": "395",
+  "course_title": "Forest Wildlife Ecology and Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=395&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 395 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=395&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is also open to non-Forestry students who meet the prerequisite.",
+      "subject_code": "FRST",
+      "course_number": "395",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURTON, COLE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "145",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 395 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=395&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "395",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURTON, COLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 395 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=395&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "395",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURTON, COLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 395 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=395&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "395",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURTON, COLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 395 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=395&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "395",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURTON, COLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Biology of important bird and mammal species resident in forested regions, with particular emphasis on the influences of silvicultural and logging practices.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

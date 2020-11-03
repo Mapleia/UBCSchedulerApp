@@ -1,0 +1,150 @@
+{
+  "course_name": "ELEC 451",
+  "subject_code": "ELEC",
+  "course_number": "451",
+  "course_title": "Power Electronics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=451&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 451 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=451&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "451",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORDONEZ, MARTIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 451 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=451&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "451",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORDONEZ, MARTIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 451 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=451&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "451",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORDONEZ, MARTIN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "28",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 451 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=451&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "451",
+      "section_number": "L1W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 451 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=451&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "451",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Power diodes, thyristors, transistors and FETs; analysis of idealized circuits with generalized loads; AC-DC, DC-DC, DC-AC, AC-AC converters, modulation techniques, gating circuits; practical design and applications.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

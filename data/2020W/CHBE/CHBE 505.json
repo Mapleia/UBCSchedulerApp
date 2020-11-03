@@ -1,0 +1,47 @@
+{
+  "course_name": "CHBE 505",
+  "subject_code": "CHBE",
+  "course_number": "505",
+  "course_title": "Introduction to Chemical Engineering for Non-Chemical Engineers ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 505 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=505&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "505",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HATZIKIRIAKOS, SAVVAS",
+        "SMITH, KEVIN",
+        "TRAJANO, HEATHER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

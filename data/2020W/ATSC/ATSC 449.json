@@ -1,0 +1,43 @@
+{
+  "course_name": "ATSC 449",
+  "subject_code": "ATSC",
+  "course_number": "449",
+  "course_title": "Honours Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ATSC 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "449",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VER, LEAH MAY"
+      ],
+      "totalRemaining": "44",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "44"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Honours students must submit a graduating report based on a project undertaken with the approval of the Associate Chair of the Atmospheric Science Program.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

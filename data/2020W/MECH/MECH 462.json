@@ -1,0 +1,97 @@
+{
+  "course_name": "MECH 462",
+  "subject_code": "MECH",
+  "course_number": "462",
+  "course_title": "Finite Element Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=462&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 462 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=462&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Some lessons will be held in ICICS X060 (PACE lab)",
+      "subject_code": "MECH",
+      "course_number": "462",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACCA, MATTIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 462 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=462&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "462",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACCA, MATTIA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 462 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=462&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "462",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and element selection. Virtual work and weighted residual formulation. Linear elastic analysis. Heat transfer analysis. Isoparametic elements. Development of computer programs for simple problems. Utilization of existing computer packages. Application to mechanical engineering problems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

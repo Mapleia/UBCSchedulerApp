@@ -1,0 +1,45 @@
+{
+  "course_name": "MINE 552",
+  "subject_code": "MINE",
+  "course_number": "552",
+  "course_title": "Mining Geostatistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=552&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 552 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=552&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "cross-listed with MINE 420",
+      "subject_code": "MINE",
+      "course_number": "552",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, ILIJA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic geostatistical concepts. Applications of geostatistical techniques and stochastic simulation to orebody modelling and grade control.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "course_name": "MINE 292",
+  "subject_code": "MINE",
+  "course_number": "292",
+  "course_title": "Introduction to Mineral Processing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=292&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 292 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=292&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "292",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLEIN, BERN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MINE 292 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=292&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Coal and Mineral Processing Laboratory",
+      "subject_code": "MINE",
+      "course_number": "292",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLEIN, BERN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MINE 292 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=292&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "Coal and Mineral Processing Laboratory",
+      "subject_code": "MINE",
+      "course_number": "292",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLEIN, BERN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Overview; extracting a mineral or final product from an ore.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

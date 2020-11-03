@@ -1,0 +1,70 @@
+{
+  "course_name": "EPSE 432",
+  "subject_code": "EPSE",
+  "course_number": "432",
+  "course_title": "Classroom Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 432 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=432&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:\"\tSpecialization SPED, EYED and IDSC\"\tProgram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7Restriction will be removed for BKIN, and BA - specialization PSYC > = to Year 3 on July 21.Restriction will be removed for UNCL on July 28Restrictions will be removed for 3rd  and  4th Year students in general on August 4",
+      "subject_code": "EPSE",
+      "course_number": "432",
+      "section_number": "63C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ERVIN, RUTH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "EPSE 432 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=432&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "432",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

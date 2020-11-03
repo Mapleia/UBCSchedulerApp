@@ -1,0 +1,43 @@
+{
+  "course_name": "MIDW 310",
+  "subject_code": "MIDW",
+  "course_number": "310",
+  "course_title": "Senior Research Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 310 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=310&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "310",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KORNELSEN, JUDE"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 5",
+  "description": "An original piece of scholarship that builds on knowledge and skills acquired from coursework and in consultation with faculty mentors. This self-directed course can be taken in year 1, 2, or 3 of the Program.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

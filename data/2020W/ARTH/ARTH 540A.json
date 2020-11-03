@@ -1,0 +1,43 @@
+{
+  "course_name": "ARTH 540A",
+  "subject_code": "ARTH",
+  "course_number": "540A",
+  "course_title": "Studies in 20th Century Art - 20TH CENT ART",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=540A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARTH 540A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=540A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARTH",
+      "course_number": "540A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

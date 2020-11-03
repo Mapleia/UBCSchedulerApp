@@ -1,0 +1,43 @@
+{
+  "course_name": "FRE 500",
+  "subject_code": "FRE",
+  "course_number": "500",
+  "course_title": "MSc Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=500&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRE 500 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=500&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "500",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOACK, FREDERIK"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

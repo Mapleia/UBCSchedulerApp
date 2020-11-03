@@ -1,0 +1,104 @@
+{
+  "course_name": "MATH 255",
+  "subject_code": "MATH",
+  "course_number": "255",
+  "course_title": "Ordinary Differential Equations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=255&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MATH 255 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=255&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "FOR APPLIED SCIENCE STUDENTS ONLY.",
+      "subject_code": "MATH",
+      "course_number": "255",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABID, NAJMUL",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 255 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=255&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "FOR APPLIED SCIENCE STUDENTS ONLY.",
+      "subject_code": "MATH",
+      "course_number": "255",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SPINKA, YINON",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "88",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 255 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=255&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "FOR APPLIED SCIENCE STUDENTS ONLY.",
+      "subject_code": "MATH",
+      "course_number": "255",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAO DUC, KHANH",
+        "DAO DUC, KHANH(Coordinator)"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "57",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Review of linear systems; nonlinear equations and applications; phase plane analysis; Laplace transforms; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

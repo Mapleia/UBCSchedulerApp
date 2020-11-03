@@ -1,0 +1,46 @@
+{
+  "course_name": "CLST 211",
+  "subject_code": "CLST",
+  "course_number": "211",
+  "course_title": "Greek Philosophy I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 211 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=211&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. If this course is blocked for registration, it is because it is full. Please register in the Wait List section,  and if and when a space becomes available, students will be transferred from the wait list in order of registration.",
+      "subject_code": "CLST",
+      "course_number": "211",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRIFFIN, MICHAEL",
+        "FREUND, GABRIEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "57",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The Pre-Socratics; Socrates; Sophists; Plato. Recommended as preparation for CLST/PHIL 212 and PHIL 310.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

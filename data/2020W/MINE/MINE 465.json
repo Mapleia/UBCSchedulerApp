@@ -1,0 +1,45 @@
+{
+  "course_name": "MINE 465",
+  "subject_code": "MINE",
+  "course_number": "465",
+  "course_title": "Materials Handling",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=465&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 465 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=465&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "465",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHOREISHI-MADISEH, SEYED",
+        "KUYUK, ALI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "73",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Knowledge and understanding of equipment used in mining operations, including diesel, electro-mechanical, hydraulic and pneumatic equipment as well as conveyors, load-haul-dump trucks and pumps.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

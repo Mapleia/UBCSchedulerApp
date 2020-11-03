@@ -1,0 +1,72 @@
+{
+  "course_name": "PHIL 451",
+  "subject_code": "PHIL",
+  "course_number": "451",
+  "course_title": "Philosophy of Mind",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=451&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 451 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=451&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "451",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AYDEDE, MURAT"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "63",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 451 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=451&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "We will examine philosophical issues arising from cognitive science research on consciousness and the self. What is consciousness and how is it related to the brain, body, and physical world? Can consciousness be explained in physical terms? Can there be a scientific understanding of consciousness or will consciousness remain forever mysterious? Is there a self or is the self an illusion? Guided by these questions, we will examine consciousness and the sense of self across waking perception, dreaming, and deep sleep, as well as altered states such as lucid dreaming, out-of-body experiences, and near-death experiences. We will also examine meditative states of consciousness and what meditative methods of training attention and awareness can tell us about consciousness and the self.THIS COURSE WILL BE DELIVERED ASYNCHRONOUSLY THROUGH CANVAS. This means that there are no scheduled class meetings. Instead, the content will consist of remotely delivered modules, each of which will include a reading assignment, video and audio files, and lecture slides. We will use the Discussions tool in Canvas for discussion and questions arising about the class content.",
+      "subject_code": "PHIL",
+      "course_number": "451",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, EVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "72",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The nature of the mental and physical; the relation between minds and bodies; the character of psychological explanation.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "COMM 616",
+  "subject_code": "COMM",
+  "course_number": "616",
+  "course_title": "Optimization Theory and Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=616&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 616 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=616&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "616",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCORMICK, S THOMAS",
+        "RYAN, CHRISTOPHER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

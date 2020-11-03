@@ -1,0 +1,43 @@
+{
+  "course_name": "MEDD 441",
+  "subject_code": "MEDD",
+  "course_number": "441",
+  "course_title": "Senior Elective",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDD 441 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=441&section=021&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MEDD",
+      "course_number": "441",
+      "section_number": "021",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "296",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "A senior clinical elective for fourth-year students. Students will participate in all relevant clinical and academic activities associated with the particular elective. Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

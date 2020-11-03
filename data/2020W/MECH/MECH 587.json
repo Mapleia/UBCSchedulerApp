@@ -1,0 +1,45 @@
+{
+  "course_name": "MECH 587",
+  "subject_code": "MECH",
+  "course_number": "587",
+  "course_title": "Computational Fluid Dynamics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=587&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 587 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=587&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This course was previously listed as MECH 510.",
+      "subject_code": "MECH",
+      "course_number": "587",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OLLIVIER-GOOCH, CARL"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "16",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Analytical, computational, and experimental methods in fluid mechanics. Overview of CFD program development. Finite volume methods, spacial discretization and spatial accuracy analysis. Boundary conditions. Time advance methods, time accuracy, and stability. Application to model problems and to the incompressible laminar Navier-Stokes equations. Validation techniques for CFD codes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

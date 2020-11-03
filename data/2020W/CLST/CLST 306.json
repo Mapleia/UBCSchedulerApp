@@ -1,0 +1,45 @@
+{
+  "course_name": "CLST 306",
+  "subject_code": "CLST",
+  "course_number": "306",
+  "course_title": "Ancient Technology: Greece and Rome",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 306 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=306&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.",
+      "subject_code": "CLST",
+      "course_number": "306",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE ANGELIS, FRANCO"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "31",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The origins, achievements, and social impacts of applied technology in the Greek and Roman world from the Bronze Age to Late Antiquity (c. 1500 BCE - 400 CE), with special attention to archaeological evidence.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

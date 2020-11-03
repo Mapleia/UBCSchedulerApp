@@ -1,0 +1,128 @@
+{
+  "course_name": "ELEC 481",
+  "subject_code": "ELEC",
+  "course_number": "481",
+  "course_title": "Economic Analysis of Engineering Projects",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=481&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ELEC 481 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=481&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "481",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARMICHAEL, JEFFREY"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "56",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 481 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=481&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "481",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "30",
+        "70",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 481 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=481&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "481",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 481 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=481&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "481",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Time-money relationships; economic analysis of alternatives including the effects of interest rates, inflation, depreciation, taxation and uncertainty; cost estimation and budgeting; financial analysis of engineering operations.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

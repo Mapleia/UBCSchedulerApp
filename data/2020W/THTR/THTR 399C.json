@@ -1,0 +1,47 @@
+{
+  "course_name": "THTR 399C",
+  "subject_code": "THTR",
+  "course_number": "399C",
+  "course_title": "Production II - PRODUCTION II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=399C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 399C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=399C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students wishing to take 399C must be registered in at least ONE of the following courses in the same term:THTR 305, 306, 307, 308, 350, 352, 354, 356",
+      "subject_code": "THTR",
+      "course_number": "399C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GARDINER, ROBERT",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Assigned projects in theatre design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

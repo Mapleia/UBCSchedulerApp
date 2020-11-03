@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 572B",
+  "subject_code": "MUSC",
+  "course_number": "572B",
+  "course_title": "Music Performance (Secondary) - VOICE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=572B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 572B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=572B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "572B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "200",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "100"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

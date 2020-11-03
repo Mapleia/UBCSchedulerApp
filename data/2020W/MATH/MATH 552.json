@@ -1,0 +1,46 @@
+{
+  "course_name": "MATH 552",
+  "subject_code": "MATH",
+  "course_number": "552",
+  "course_title": "Introduction to Dynamical Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=552&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 552 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=552&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "552",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAGATA, K WAYNE",
+        "NAGATA, K WAYNE(Coordinator)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Ideas, methods and applications of bifurcation theory and dynamical systems: differential and difference equations, local bifurcations, perturbation methods, chaos.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

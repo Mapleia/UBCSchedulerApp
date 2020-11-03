@@ -1,0 +1,70 @@
+{
+  "course_name": "PLAN 561",
+  "subject_code": "PLAN",
+  "course_number": "561",
+  "course_title": "Seminar in Real Property Development and Planning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=561&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 561 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=561&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "561",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOLLENBERG, JAY"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 561 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=561&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "561",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "WOLLENBERG, JAY"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics will vary.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "ISCI 398",
+  "subject_code": "ISCI",
+  "course_number": "398",
+  "course_title": "Co-operative Work Placement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ISCI 398 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=398&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "398",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ISCI 398 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=398&section=201&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "398",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Industrial or academic work experience for a minimum of 4 months. Normally taken in Winter Session of third year or Summer Session after third year. Technical report required. Restricted to students in the ISP Co-op program.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

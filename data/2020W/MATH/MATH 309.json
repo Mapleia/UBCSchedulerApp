@@ -1,0 +1,45 @@
+{
+  "course_name": "MATH 309",
+  "subject_code": "MATH",
+  "course_number": "309",
+  "course_title": "Topics in Geometry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=309&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 309 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=309&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "309",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WATSON, LIAM",
+        "WATSON, LIAM(Coordinator)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "72",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics chosen by the instructor. These may include conic sections, projective configuration, convexity, non-Euclidean geometries, fractal geometry, combinatorial problems of points in the plane.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

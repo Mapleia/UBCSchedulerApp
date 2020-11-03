@@ -1,0 +1,43 @@
+{
+  "course_name": "KIN 567",
+  "subject_code": "KIN",
+  "course_number": "567",
+  "course_title": "Human Motor Performance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=567&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 567 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=567&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "*Course delivery is online.Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0",
+      "subject_code": "KIN",
+      "course_number": "567",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HODGES, NICOLA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Processes underlying the ability to learn and perform motor skills.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

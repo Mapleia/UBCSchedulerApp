@@ -1,0 +1,279 @@
+{
+  "course_name": "CPEN 211",
+  "subject_code": "CPEN",
+  "course_number": "211",
+  "course_title": "Introduction to Microcomputers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CPEN 211 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "CPEN 211 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "68",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 211 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 211 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 211 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "CPEN 211 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 211 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 211 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AAMODT, TOR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CPEN 211 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 211 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=211&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "211",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "0",
+      "generalRemaining": "60",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 5",
+  "description": "Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers. Credit will be granted for only one of CPEN 211, CPEN 312, EECE 256, EECE 259 or EECE 355.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

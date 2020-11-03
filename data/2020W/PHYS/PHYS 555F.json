@@ -1,0 +1,76 @@
+{
+  "course_name": "PHYS 555F",
+  "subject_code": "PHYS",
+  "course_number": "555F",
+  "course_title": "Directed Studies in Physics - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=555F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHYS 555F 105",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555F&section=105&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555F",
+      "section_number": "105",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 555F 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=555F&section=204&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "555F",
+      "section_number": "204",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "With approval of the department head, advanced studies under the direction of a staff member may be arranged in special cases.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

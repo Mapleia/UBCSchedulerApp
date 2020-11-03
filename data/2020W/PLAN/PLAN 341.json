@@ -1,0 +1,123 @@
+{
+  "course_name": "PLAN 341",
+  "subject_code": "PLAN",
+  "course_number": "341",
+  "course_title": "Smart Cities: Concepts, Methods and Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=341&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 341 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=341&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "341",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TRAN, MARTINO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "59",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PLAN 341 0T1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=341&section=0T1&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "341",
+      "section_number": "0T1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 341 0T2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=341&section=0T2&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "341",
+      "section_number": "0T2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 341 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=341&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "341",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TRAN, MARTINO"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding \"Smart Cities\".",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

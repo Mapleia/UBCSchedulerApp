@@ -1,0 +1,97 @@
+{
+  "course_name": "LAW 649",
+  "subject_code": "LAW",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 649 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=649&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "LAW 649 Section 101: For students completing their thesis by  December.",
+      "subject_code": "LAW",
+      "course_number": "649",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 649 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=649&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "LAW 649 Section 201: For students commmencing their thesis in January.",
+      "subject_code": "LAW",
+      "course_number": "649",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

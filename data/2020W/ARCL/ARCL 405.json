@@ -1,0 +1,43 @@
+{
+  "course_name": "ARCL 405",
+  "subject_code": "ARCL",
+  "course_number": "405",
+  "course_title": "Archaeological and Anthropological Mapping",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=405&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 405 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=405&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "405",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SPRINGER, CHRIS"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Current methods in mapping spatial information in archaeology and related subfields of anthropology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

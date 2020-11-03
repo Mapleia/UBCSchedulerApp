@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 452",
+  "subject_code": "LAW",
+  "course_number": "452",
+  "course_title": "Succession",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 452 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=452&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "*Cross-listed to LAW 574.001*",
+      "subject_code": "LAW",
+      "course_number": "452",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DOSANJH, SANDEEP"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The law of wills and intestate succession, variation of wills, principles of probate and administration of estates.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

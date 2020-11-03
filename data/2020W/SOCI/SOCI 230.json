@@ -1,0 +1,44 @@
+{
+  "course_name": "SOCI 230",
+  "subject_code": "SOCI",
+  "course_number": "230",
+  "course_title": "Shopping, Society, and Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 230 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=230&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "230",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUDDART KENNEDY, EMILY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Major theories of consumer society, evaluating impacts of shopping on human and non-human environments and popular solutions to these impacts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "CIVL 406",
+  "subject_code": "CIVL",
+  "course_number": "406",
+  "course_title": "Water Treatment and Waste Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 406 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=406&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "406",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VASSOS, TROY"
+      ],
+      "totalRemaining": "37",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "37"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Processes used in water and wastewater treatment. Conditions which necessitate treatment of water or wastewater, water and wastewater treatment processes and plant design. Municipal services required and associated with solid waste management.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

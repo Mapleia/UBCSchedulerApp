@@ -1,0 +1,71 @@
+{
+  "course_name": "EOSC 471",
+  "subject_code": "EOSC",
+  "course_number": "471",
+  "course_title": "Waves, Currents and Ocean Mixing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=471&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 471 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=471&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "471",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAWLOWICZ, RICHARD",
+        "HOWATT, TARA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "3",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 471 TU1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=471&section=TU1&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "471",
+      "section_number": "TU1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAWLOWICZ, RICHARD"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Use of observations, theory and model results to solve physical oceanographic problems including applications to transport and mixing of pollutants or nutrients.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

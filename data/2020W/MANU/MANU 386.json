@@ -1,0 +1,96 @@
+{
+  "course_name": "MANU 386",
+  "subject_code": "MANU",
+  "course_number": "386",
+  "course_title": "Industrial Automation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=386&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MANU 386 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=386&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "386",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MANU 386 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=386&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "386",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MANU 386 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=386&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "386",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principle components of manufacturing automation, modelling of sensors-actuators and control systems, robotic programming, programmable logical control (PLC) systems and development of PLC ladder diagrams.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

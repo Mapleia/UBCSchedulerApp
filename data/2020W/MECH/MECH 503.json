@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 503",
+  "subject_code": "MECH",
+  "course_number": "503",
+  "course_title": "Linear Elasticity",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=503&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 503 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=503&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "503",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PONGA DE LA TORRE, MAURICIO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 503 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=503&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "503",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PONGA DE LA TORRE, MAURICIO"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Stress and strain in three dimensions, fundamental field equations of linear elasticity; equilibrium, compatibility, Hooke's law; Papkovitch-Neuber solution, plane stress and plane strain; torsion, torsion of thin-walled members with warping restraint; plate theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

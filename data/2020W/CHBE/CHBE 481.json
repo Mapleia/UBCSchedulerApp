@@ -1,0 +1,71 @@
+{
+  "course_name": "CHBE 481",
+  "subject_code": "CHBE",
+  "course_number": "481",
+  "course_title": "Bioprocess Engineering II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=481&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 481 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=481&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "481",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAYNES, CHARLES"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 481 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=481&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "CHBE",
+      "course_number": "481",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAYNES, CHARLES"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Bioprocess flowsheeting; production-scale fermenter design; product recovery and purification; bioseparations; chromatography; viral inactivation and removal; process validation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Problem Session"
+  ]
+}

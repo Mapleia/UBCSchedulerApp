@@ -1,0 +1,45 @@
+{
+  "course_name": "MUSC 320",
+  "subject_code": "MUSC",
+  "course_number": "320",
+  "course_title": "Computer Music",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 320 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=320&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Prerequisite: MUSC 319.  Permission of the instructor is also required.  Contact instructor to register.",
+      "subject_code": "MUSC",
+      "course_number": "320",
+      "section_number": "001",
+      "building": "Music",
+      "room": "303",
+      "instructors": [
+        "HAMEL, KEITH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The study of computer applications to music, focusing on digital synthesis techniques and languages, methods of algorithmic composition, and the design of music editors.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

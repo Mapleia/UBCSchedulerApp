@@ -1,0 +1,45 @@
+{
+  "course_name": "FREN 335",
+  "subject_code": "FREN",
+  "course_number": "335",
+  "course_title": "French-Canadian Civilization",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 335 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=335&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "A thematic approach to selected topics in French-Canadian culture and civilization. Full course description: https://fhis.ubc.ca/course-description/fren335/",
+      "subject_code": "FREN",
+      "course_number": "335",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROCHELEAU, ALAIN-MICHEL"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "33",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A thematic approach to selected topics in French-Canadian culture and civilization.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "ELEC 415",
+  "subject_code": "ELEC",
+  "course_number": "415",
+  "course_title": "Semiconductor Devices: Physics, Design and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 415 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=415&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "415",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SALFI, JOSEPH"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "30",
+      "generalRemaining": "8",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 415 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=415&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "415",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physics of operation, and design and analysis of semiconductor devices of topical interest, e.g., solar cells, LEDs, high-speed MOSFETs, high-frequency HBTs, low-noise HEMTs.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

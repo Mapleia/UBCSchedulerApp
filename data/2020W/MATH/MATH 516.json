@@ -1,0 +1,46 @@
+{
+  "course_name": "MATH 516",
+  "subject_code": "MATH",
+  "course_number": "516",
+  "course_title": "Partial Differential Equations I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=516&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 516 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=516&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "516",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIM, YOUNG-HEON",
+        "KIM, YOUNG-HEON(Coordinator)"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "7",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "course_name": "FRST 562",
+  "subject_code": "FRST",
+  "course_number": "562",
+  "course_title": "Topics in International Forestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=562&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 562 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=562&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "In-person course, September through to April.",
+      "subject_code": "FRST",
+      "course_number": "562",
+      "section_number": "001",
+      "building": "Orchard Commons",
+      "room": "4074",
+      "instructors": [
+        "BOEDHIHARTONO, AGNI",
+        "LANGSTON, JAMES",
+        "SAYER, JEFFREY"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Contemporary and emerging issues in international forestry.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

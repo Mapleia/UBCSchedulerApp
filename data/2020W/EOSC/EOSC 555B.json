@@ -1,0 +1,43 @@
+{
+  "course_name": "EOSC 555B",
+  "subject_code": "EOSC",
+  "course_number": "555B",
+  "course_title": "Nonlinear Inverse Theory - NON-LINR INV THR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=555B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 555B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=555B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "555B",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HABER, ELDAD"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Model construction, appraisal of nonuniqueness, and inference in nonlinear problems. Stochastic inverses, constrained optimization, joint inversions and image processing.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

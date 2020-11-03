@@ -1,0 +1,72 @@
+{
+  "course_name": "ENGL 223",
+  "subject_code": "ENGL",
+  "course_number": "223",
+  "course_title": "Literature in the United States",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=223&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 223 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=223&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "NOTE #1: If you are a year 2, 3, or 4 student with 6 credits of 1st year ENGL, or ARTS ONE, or 6.0 credits of ASTU 100A, or 3 credits of 1st year ENGL plus 3.0 credits of ASTU 100B or 3.0 credits of ASTU 150, you are eligible to take this course.  Add the course to your worklist, enroll when your registration opens, and ignore incorrect warning message about prerequisites.  Direct any questions to english.undergraduate@ubc.ca NOTE #2: If you are a year 1 student with 6.0 credits of 1st year English completed or with advanced credits for 1st year English through AP or higher-level IB English, contact english.undergraduate@ubc.ca for assistance with your English registration.",
+      "subject_code": "ENGL",
+      "course_number": "223",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMC, SANDRA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 223 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=223&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "223",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAURO, EVAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The major types of American writing: fiction, poetry, drama and non-fictional prose.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

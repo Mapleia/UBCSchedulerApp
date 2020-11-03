@@ -1,0 +1,261 @@
+{
+  "course_name": "MECH 325",
+  "subject_code": "MECH",
+  "course_number": "325",
+  "course_title": "Machine Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 325 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Students must register for a tutorial section - one of T1A, T1B, or T1C",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIKKELSEN, JON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 325 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Students must register for a tutorial section - one of T1D, T1E, or T1F.",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIKKELSEN, JON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 325 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MECH 325 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIKKELSEN, JON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 325 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Full",
+      "section": "MECH 325 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 325 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIKKELSEN, JON"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Full",
+      "section": "MECH 325 T1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=T1F&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "T1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 325 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=325&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "325",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Selection of flexible drives, bearings, fluid power system components, and couplings. Design of bolted joints and power screws. Design and selection of gears, gear trains, and mechanisms.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "MTRL 592E",
+  "subject_code": "MTRL",
+  "course_number": "592E",
+  "course_title": "Advanced Topics in Materials Engineering - ADVANCED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=592E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MTRL 592E 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=592E&section=202&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "592E",
+      "section_number": "202",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "May be arranged on approval of the department head.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

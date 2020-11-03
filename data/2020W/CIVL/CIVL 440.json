@@ -1,0 +1,72 @@
+{
+  "course_name": "CIVL 440",
+  "subject_code": "CIVL",
+  "course_number": "440",
+  "course_title": "Transportation Engineering II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 440 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=440&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Do NOT contact the professor regarding registration problems.If the course is full, please fill out the online course registration form available at the below web link http://www.civil.ubc.ca/webform/course-request-registration-form and submit it electronically. Please check back regularly to see if space opens up in the class.  All applications requesting admission to the course will be considered in August.  Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  You will be advised in August if you have been admitted to the class or not.",
+      "subject_code": "CIVL",
+      "course_number": "440",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIM, CLARK"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "CIVL 440 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=440&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "440",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIM, CLARK"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "41",
+      "generalRemaining": "20",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Traffic operations and network analysis: traffic studies and data design; traffic stream flow and roadway analysis; weaving and interchange ramp analysis; intersection traffic control measures and control design; progressive signal system design; flows prediction; road network simulation and assignment algorithms; motor vehicle accident analysis; field exercises.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Problem Session"
+  ]
+}

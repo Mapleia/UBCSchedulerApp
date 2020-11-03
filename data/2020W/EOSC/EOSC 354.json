@@ -1,0 +1,73 @@
+{
+  "course_name": "EOSC 354",
+  "subject_code": "EOSC",
+  "course_number": "354",
+  "course_title": "Analysis of Time Series and Inverse Theory for Earth Scientists",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=354&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 354 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=354&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "354",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOSTOCK, MICHAEL",
+        "MERRILL, REID"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "2",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 354 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=354&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "354",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Continuous and discrete Fourier transforms, correlation and convolution, spectral estimates, optimum least-squares filters, deconvolution and prediction, frequency-wave number filtering. A practical course on computer techniques applied to the analysis of a wide range of geophysical phenomena.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

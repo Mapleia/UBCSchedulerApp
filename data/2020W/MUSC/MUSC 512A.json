@@ -1,0 +1,70 @@
+{
+  "course_name": "MUSC 512A",
+  "subject_code": "MUSC",
+  "course_number": "512A",
+  "course_title": "Directed Individual Studies - INDIVDL STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=512A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 512A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Term 1 - 3 credits",
+      "subject_code": "MUSC",
+      "course_number": "512A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 512A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "512A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approval by the Director, School of Music, is required.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

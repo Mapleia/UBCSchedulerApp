@@ -1,0 +1,47 @@
+{
+  "course_name": "MEDD 421",
+  "subject_code": "MEDD",
+  "course_number": "421",
+  "course_title": "Foundations of Medical Practice III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDD 421 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=421&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MEDD",
+      "course_number": "421",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "288",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 15",
+  "description": "Increasingly complex clinical presentations integrating foundational sciences and clinical practice themes. Developmental, case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

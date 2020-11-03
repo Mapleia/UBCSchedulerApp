@@ -1,0 +1,70 @@
+{
+  "course_name": "PLAN 542",
+  "subject_code": "PLAN",
+  "course_number": "542",
+  "course_title": "Practical Practice: City Planning as a Craft",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 542 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=542&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "542",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEASLEY, LARRY"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 542 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=542&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "542",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BEASLEY, LARRY"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approach, role, style, and essential skills of practical urban planning: working at the community level; developing overall policy; managing development; undertaking urban design; and engaging in the political process.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

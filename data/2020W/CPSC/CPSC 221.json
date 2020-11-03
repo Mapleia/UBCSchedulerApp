@@ -1,0 +1,1318 @@
+{
+  "course_name": "CPSC 221",
+  "subject_code": "CPSC",
+  "course_number": "221",
+  "course_title": "Basic Algorithms and Data Structures",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CPSC 221 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "If all the lab and/or tutorial seats are full the department will ensure that there are enough lab/tutorial seats available for the number of students registered in the course by either adding additional lab/tutorial sections or expenadind the number of seats in the activity once we know how many extra students we will need to accommodate. However, there is no guarantee that these seats will fit your preferred time.  You may need to change your registration in other courses to get access to a lab/tutorial where there are available seats.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEEREN, CINDA"
+      ],
+      "totalRemaining": "67",
+      "currentlyRegistered": "123",
+      "generalRemaining": "66",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "If all the lab and/or tutorial seats are full the department will ensure that there are enough lab/tutorial seats available for the number of students registered in the course by either adding additional lab/tutorial sections or expenadind the number of seats in the activity once we know how many extra students we will need to accommodate. However, there is no guarantee that these seats will fit your preferred time.  You may need to change your registration in other courses to get access to a lab/tutorial where there are available seats.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, WILLIAM"
+      ],
+      "totalRemaining": "43",
+      "currentlyRegistered": "117",
+      "generalRemaining": "38",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "If all the lab and/or tutorial seats are full the department will ensure that there are enough lab/tutorial seats available for the number of students registered in the course by either adding additional lab/tutorial sections or expenadind the number of seats in the activity once we know how many extra students we will need to accommodate. However, there is no guarantee that these seats will fit your preferred time.  You may need to change your registration in other courses to get access to a lab/tutorial where there are available seats.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEEREN, CINDA"
+      ],
+      "totalRemaining": "43",
+      "currentlyRegistered": "137",
+      "generalRemaining": "43",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Please register on wait list section 2W1 if this section is full or you are not elgible for any of the available restricted seats.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEEREN, CINDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "191",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, JORDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "194",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "195",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "27",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "23",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "23",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "27",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "24",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "26",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1G&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "26",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1H&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "27",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1J&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "26",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1K&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "23",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1N&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "26",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1P&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "22",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L1R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1R&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1S&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1S",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "22",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L1T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L1T&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L1T",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "26",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "If all the lab and/or tutorial seats are full the department will ensure that there are enough lab/tutorial seats available for the number of students registered in the course by either adding additional lab/tutorial sections or expenadind the number of seats in the activity once we know how many extra students we will need to accommodate. However, there is no guarantee that these seats will fit your preferred time.  You may need to change your registration in other courses to get access to a lab/tutorial where there are available seats.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEEREN, CINDA"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "1W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, WILLIAM"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 1W3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=1W3&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "1W3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEEREN, CINDA"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 221 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2G&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 L2H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2H&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "0",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2J&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2K&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2L&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2M&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2N&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2P&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2Q",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2Q&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2Q",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2R&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 L2S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2S&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2S",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "16",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 221 L2T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2T&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2T",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2U",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2U&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2U",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 L2V",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2V&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2V",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "0",
+      "generalRemaining": "13",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 221 L2Y",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2Y&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2Y",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 221 L2Z",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=L2Z&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "L2Z",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "0",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Students will be moved from the wait list to the coresponding section if space permits.",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "946",
+      "currentlyRegistered": "53",
+      "generalRemaining": "946",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "2W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "929",
+      "currentlyRegistered": "70",
+      "generalRemaining": "929",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 221 2W3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=221&section=2W3&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "221",
+      "section_number": "2W3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "967",
+      "currentlyRegistered": "32",
+      "generalRemaining": "967",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

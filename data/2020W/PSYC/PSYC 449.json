@@ -1,0 +1,43 @@
+{
+  "course_name": "PSYC 449",
+  "subject_code": "PSYC",
+  "course_number": "449",
+  "course_title": "Honours Seminar and Essay",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "PSYC Hons only",
+      "subject_code": "PSYC",
+      "course_number": "449",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ENNS, JAMES"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Students carry out a research project and report on its development during seminars. Students also discuss research by Departmental staff, with emphasis on choice of problems, research design and data analysis.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Essay/Report"
+  ]
+}

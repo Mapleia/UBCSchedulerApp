@@ -1,0 +1,73 @@
+{
+  "course_name": "MINE 291",
+  "subject_code": "MINE",
+  "course_number": "291",
+  "course_title": "Introduction to Mining",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=291&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 291 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=291&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "291",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNBAR, W SCOTT",
+        "ELMO, DAVIDE",
+        "SELLO, RETSEPILE(Lead)"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 291 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=291&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "291",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNBAR, W SCOTT",
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Leading practices and technologies employed in the design, planning, and operation of mining systems. Life cycle of surface and underground mining systems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

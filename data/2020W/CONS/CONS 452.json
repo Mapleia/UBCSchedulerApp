@@ -1,0 +1,48 @@
+{
+  "course_name": "CONS 452",
+  "subject_code": "CONS",
+  "course_number": "452",
+  "course_title": "Global Perspectives Capstone",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CONS 452 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=452&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "This course is for 4th year Conservation students in the Global Perspectives major.  Students must have completed their international experience and GIS requirements, and have been approved by the Program Director.  Only qualified candidates may register.",
+      "subject_code": "CONS",
+      "course_number": "452",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RHEMTULLA, JEANINE",
+        "SUNDERLAND, TERENCE",
+        "ZERRIFFI, HISHAM"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 12",
+  "description": "Examination of global resources and sustainability via scenario evaluation, modelling, and prescription.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

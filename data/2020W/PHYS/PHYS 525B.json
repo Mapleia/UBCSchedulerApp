@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 525B",
+  "subject_code": "PHYS",
+  "course_number": "525B",
+  "course_title": "Advanced Condensed Matter Physics - ADV COND MATTER",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=525B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 525B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=525B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "525B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZHOU, FEI"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "3",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Current issues in condensed matter theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

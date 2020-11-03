@@ -1,0 +1,74 @@
+{
+  "course_name": "ASIA 372",
+  "subject_code": "ASIA",
+  "course_number": "372",
+  "course_title": "Development of Traditional Chinese Thought",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 372 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=372&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.",
+      "subject_code": "ASIA",
+      "course_number": "372",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASHTON, CLAYTON"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "46",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 372 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=372&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "ASIA",
+      "course_number": "372",
+      "section_number": "W01",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "ASHTON, CLAYTON"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Chinese thought from the Han dynasty (206 BCE to 220 CE) to Wang Yangming (1472-1529) in its historical and cultural contexts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

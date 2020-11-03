@@ -1,0 +1,71 @@
+{
+  "course_name": "MINE 524",
+  "subject_code": "MINE",
+  "course_number": "524",
+  "course_title": "Processing of Precious Metal Ores",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 524 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=524&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "cross-listed with MINE 434",
+      "subject_code": "MINE",
+      "course_number": "524",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLEIN, BERN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 524 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=524&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "cross-listed with MINE 434",
+      "subject_code": "MINE",
+      "course_number": "524",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KLEIN, BERN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Advances in science and technology for recovering gold, silver, and platinum group elements. Credit will be granted for only one of MINE 524 or MINE 577.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

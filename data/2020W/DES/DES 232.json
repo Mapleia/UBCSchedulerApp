@@ -1,0 +1,44 @@
+{
+  "course_name": "DES 232",
+  "subject_code": "DES",
+  "course_number": "232",
+  "course_title": "Material Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=232&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 232 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=232&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "232",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NETTE, LINDSEY",
+        "SCHELLINGERHOUDT, DAVID"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An investigation of building materials and associated design objectives, environmental conditions, historical context, regulatory controls, and economic constraints. Credit will be granted for only one of DES 232 or ARCH 411.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "THTR 399E",
+  "subject_code": "THTR",
+  "course_number": "399E",
+  "course_title": "Production II - PRODUCTION II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=399E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "THTR 399E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=399E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "WEB-ORIENTED COURSE.Improv for Collaborative Projects: Drawing from a number of improvisational traditions, learners can expect to practice activities and work on short term projects in groups. In-class and remote activities aim to support collaborative design skills and processes.",
+      "subject_code": "THTR",
+      "course_number": "399E",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PENNEFATHER, PATRICK"
+      ],
+      "totalRemaining": "74",
+      "currentlyRegistered": "1",
+      "generalRemaining": "74",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Assigned projects in theatre design and production.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

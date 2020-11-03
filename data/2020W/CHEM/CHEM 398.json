@@ -1,0 +1,70 @@
+{
+  "course_name": "CHEM 398",
+  "subject_code": "CHEM",
+  "course_number": "398",
+  "course_title": "Co-operative Work Placement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 398 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=398&section=610&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Section for \"out of phase\" students",
+      "subject_code": "CHEM",
+      "course_number": "398",
+      "section_number": "610",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "1",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 398 620",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=398&section=620&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Note:  Once your workplacement position has been confirmed, you must drop all other second-term courses.",
+      "subject_code": "CHEM",
+      "course_number": "398",
+      "section_number": "620",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Taken during the winter term of the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Chemistry.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

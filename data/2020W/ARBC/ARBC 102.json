@@ -1,0 +1,72 @@
+{
+  "course_name": "ARBC 102",
+  "subject_code": "ARBC",
+  "course_number": "102",
+  "course_title": "Beginning Classical and Quranic Arabic II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARBC&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARBC 102 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARBC&course=102&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.Students who have received credit for ARBC 300 can not also receive credit for ARBC 101 or 102If the course is full or blocked please register in the wait list. Please note the Department cannot provide information on your position on the waitlist.",
+      "subject_code": "ARBC",
+      "course_number": "102",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHAZI, BUSHRA SEEMI YASMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARBC 102 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARBC&course=102&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Wait List for ARBC 102-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "ARBC",
+      "course_number": "102",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Classical Arabic, with further introduction to vocabulary and grammar and the reading of Qur'anic texts in the original.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

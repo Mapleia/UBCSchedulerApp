@@ -1,0 +1,153 @@
+{
+  "course_name": "COMM 468",
+  "subject_code": "COMM",
+  "course_number": "468",
+  "course_title": "Marketing Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=468&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 468 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=468&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "468",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DICKSON, JENNY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 468 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=468&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "468",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DICKSON, JENNY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 468 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=468&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "468",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROTTE, KRISTIN NOEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 468 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=468&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "468",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DICKSON, JENNY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 468 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=468&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "468",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DICKSON, JENNY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Applied marketing planning with emphasis on a major industrial analysis and the subsequent development of a detailed marketing plan for an operating organization.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

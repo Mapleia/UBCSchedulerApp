@@ -1,0 +1,43 @@
+{
+  "course_name": "FSCT 490",
+  "subject_code": "FSCT",
+  "course_number": "490",
+  "course_title": "Advanced Forensic Science II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FSCT&course=490&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FSCT 490 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FSCT&course=490&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FSCT",
+      "course_number": "490",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": "Block registration for the expert witness testimony instrumental analysis for forensic chemistry and forensic toxicology courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

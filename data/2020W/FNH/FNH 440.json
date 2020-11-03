@@ -1,0 +1,72 @@
+{
+  "course_name": "FNH 440",
+  "subject_code": "FNH",
+  "course_number": "440",
+  "course_title": "Food Service Systems Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 440 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=440&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Open to Dietetics majors only.",
+      "subject_code": "FNH",
+      "course_number": "440",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KASTEN, GERRY",
+        "GUO, YU JACQUELINE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 440 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=440&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Open only to students accepted into the Dietetics Major program.",
+      "subject_code": "FNH",
+      "course_number": "440",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KASTEN, GERRY",
+        "ZIBRIK, DEBORAH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Management responsibilities in quantity food production with emphasis on menu planning, purchasing and service. Includes planning and equipping food services. Restricted to students in the Dietetics major. Note: Course registrants are required to possess a Foodsafe II certificate.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

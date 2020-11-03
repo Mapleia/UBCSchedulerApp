@@ -1,0 +1,43 @@
+{
+  "course_name": "PLAN 525",
+  "subject_code": "PLAN",
+  "course_number": "525",
+  "course_title": "Planning Practice Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=525&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 525 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=525&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "MCRP core course requirement. MCRP students only.",
+      "subject_code": "PLAN",
+      "course_number": "525",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEVENS, MARK"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "course_name": "MTRL 365",
+  "subject_code": "MTRL",
+  "course_number": "365",
+  "course_title": "Mechanical Behaviour of Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=365&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MTRL 365 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=365&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "365",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POOLE, WARREN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Polycrystalline and single crystal deformation; dislocation theory; strengthening mechanisms; fracture mechanics; fatigue; high temperature deformation mechanisms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

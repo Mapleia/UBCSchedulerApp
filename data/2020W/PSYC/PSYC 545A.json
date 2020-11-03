@@ -1,0 +1,44 @@
+{
+  "course_name": "PSYC 545A",
+  "subject_code": "PSYC",
+  "course_number": "545A",
+  "course_title": "Advanced Statistics I - ADV STATS 1",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=545A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 545A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=545A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "Class: Tues/Thurs 1000-1130Lab: Wed 1200-1400Non-PSYC grad students MUST obtain written permission of the instructor to take course.",
+      "subject_code": "PSYC",
+      "course_number": "545A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIESANZ, JEREMY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

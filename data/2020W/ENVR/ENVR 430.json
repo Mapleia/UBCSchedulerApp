@@ -1,0 +1,71 @@
+{
+  "course_name": "ENVR 430",
+  "subject_code": "ENVR",
+  "course_number": "430",
+  "course_title": "Ecological Dimensions of Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENVR&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENVR 430 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=430&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ENVR",
+      "course_number": "430",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAN, KAI",
+        "NGO, TRISA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "57",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENVR 430 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=430&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENVR",
+      "course_number": "430",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

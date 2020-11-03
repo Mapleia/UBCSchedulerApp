@@ -1,0 +1,163 @@
+{
+  "course_name": "CHEM 205",
+  "subject_code": "CHEM",
+  "course_number": "205",
+  "course_title": "Physical Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=205&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CHEM 205 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=205&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "205",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "200",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CHEM 205 210",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=205&section=210&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "205",
+      "section_number": "210",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 205 222",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=205&section=222&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "205",
+      "section_number": "222",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "58",
+        "142",
+        "58",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 205 299",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=205&section=299&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "205",
+      "section_number": "299",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "70",
+        "130",
+        "70",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 205 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=205&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This waitlist is for ALL lecture sections. You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "205",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "97",
+      "currentlyRegistered": "3",
+      "generalRemaining": "97",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "course_name": "CHEM 327",
+  "subject_code": "CHEM",
+  "course_number": "327",
+  "course_title": "Introduction to Materials Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 327 212",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=327&section=212&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "327",
+      "section_number": "212",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RODRIGUEZ NUNEZ, JOSE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "86",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 327 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=327&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "327",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic principles of materials chemistry: classification; nomenclature; synthetic methods; characterization.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

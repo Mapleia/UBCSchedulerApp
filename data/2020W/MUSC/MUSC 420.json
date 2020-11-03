@@ -1,0 +1,70 @@
+{
+  "course_name": "MUSC 420",
+  "subject_code": "MUSC",
+  "course_number": "420",
+  "course_title": "Music Technology Capstone Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Music Technology Capstone Project - Section for Term 1",
+      "subject_code": "MUSC",
+      "course_number": "420",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PRITCHARD, ROBERT"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 420 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=420&section=002&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Music Technology Capstone Project - section for Term 2",
+      "subject_code": "MUSC",
+      "course_number": "420",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRITCHARD, ROBERT"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Supervised individual music technology project on an approved topic. Restricted to students in the Minor in Applied Music Technology",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

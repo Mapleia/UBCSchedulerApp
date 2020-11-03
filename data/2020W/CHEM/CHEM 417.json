@@ -1,0 +1,46 @@
+{
+  "course_name": "CHEM 417",
+  "subject_code": "CHEM",
+  "course_number": "417",
+  "course_title": "Nuclear Chemistry and Radiochemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=417&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CHEM 417 212",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=417&section=212&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "417",
+      "section_number": "212",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACFARLANE, WILLIAM ANDREW",
+        "RADCHENKO, VALERY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic treatment of the nucleus, with analogy to concepts in chemistry. Nuclear stabilities and associated radioactive decay processes. Nuclear structure. Applications of radioisotopes in chemistry. The interaction of radiation with matter.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

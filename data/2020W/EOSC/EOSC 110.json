@@ -1,0 +1,103 @@
+{
+  "course_name": "EOSC 110",
+  "subject_code": "EOSC",
+  "course_number": "110",
+  "course_title": "The Solid Earth: A Dynamic Planet",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 110 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=110&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "EOSC 111 is recommended. EOSC 110 will involve regular online synchronous lectures (2 per week), with opportunities to participate in class activities and discussions with your instructors and your peers. Instructor and TA office hours and tutorial times will be determined based on a student survey at the start of the semester.",
+      "subject_code": "EOSC",
+      "course_number": "110",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PEACOCK, SIMON",
+        "PORRITT, LUCY",
+        "MEHRABIFARD, ALI",
+        "PERFECT, OWEN"
+      ],
+      "totalRemaining": "41",
+      "currentlyRegistered": "109",
+      "generalRemaining": "41",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 110 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=110&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "EOSC 111 is recommended.",
+      "subject_code": "EOSC",
+      "course_number": "110",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KENNEDY, LORI"
+      ],
+      "totalRemaining": "265",
+      "currentlyRegistered": "85",
+      "generalRemaining": "265",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "EOSC 110 V01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=110&section=V01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "EOSC",
+      "course_number": "110",
+      "section_number": "V01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GILLEY, BRETT(Coordinator)"
+      ],
+      "totalRemaining": "64",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "64"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Earth's origin, composition, structure, and natural resources. Plate tectonics as the driving force for volcanism, mountain building, and earthquakes.  Imaging Earth's interior. Environmental geoscience and sustainability. (Consult the Credit Exclusion list for the Faculty of Science section of  the Calendar.)",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

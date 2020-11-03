@@ -1,0 +1,129 @@
+{
+  "course_name": "GEOG 419",
+  "subject_code": "GEOG",
+  "course_number": "419",
+  "course_title": "Research in Environmental Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=419&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "GEOG 419 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=419&section=101&sessyr=2020&sesscd=W",
+      "activity": "Research",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Students can choose to participate synchronous online seminars at the scheduled meeting time or review content asynchronously. Please contact instructor for syllabus and other course related questions.",
+      "subject_code": "GEOG",
+      "course_number": "419",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 419 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=419&section=201&sessyr=2020&sesscd=W",
+      "activity": "Research",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Please contact instructor for syllabus and other course related questions.This online seminar has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "419",
+      "section_number": "201",
+      "building": "Geography",
+      "room": "229",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 419 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=419&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 419, section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "419",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "GEOG 419 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=419&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 419, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "419",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "7",
+        "3",
+        "7",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Details available from Geography Undergraduate Advisor. Not necessarily offered each year.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Research",
+    "Waiting List"
+  ]
+}

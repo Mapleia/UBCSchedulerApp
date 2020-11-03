@@ -1,0 +1,175 @@
+{
+  "course_name": "VISA 230",
+  "subject_code": "VISA",
+  "course_number": "230",
+  "course_title": "Painting",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 230 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "VISA 230 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "107",
+      "instructors": [
+        "STOCKBRIDGE, CAROLYN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "VISA 230 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "002",
+      "building": "Dorothy Somerset Studio",
+      "room": "107",
+      "instructors": [
+        "STOCKBRIDGE, CAROLYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "VISA 230 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=003&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "003",
+      "building": "Dorothy Somerset Studio",
+      "room": "200",
+      "instructors": [
+        "MCCRUM, PHILLIP"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 230 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "VISA 230 01W is a waiting list for VISA 230 001.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 230 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "VISA 230 02W is a waiting list for VISA 230 002. Students will be moved from the waiting list into the course, space permitting, in order of registration date.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "02W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "91",
+      "currentlyRegistered": "8",
+      "generalRemaining": "91",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 230 03W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=230&section=03W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 230 03W is a waiting list for VISA 230 003. Students will be moved from the waiting list into the course, space permitting, in order of registration date.While we hope all interested students will obtain a seat in this class, please be aware that being in the waiting list does not guarantee you will obtain a seat in the class.",
+      "subject_code": "VISA",
+      "course_number": "230",
+      "section_number": "03W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "95",
+      "currentlyRegistered": "4",
+      "generalRemaining": "95",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

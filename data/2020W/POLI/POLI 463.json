@@ -1,0 +1,96 @@
+{
+  "course_name": "POLI 463",
+  "subject_code": "POLI",
+  "course_number": "463",
+  "course_title": "International Interdependence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=463&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 463 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=463&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This is an online course.",
+      "subject_code": "POLI",
+      "course_number": "463",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALGER, JUSTIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "POLI 463 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=463&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "463",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALGER, JUSTIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "POLI 463 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=463&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "This course will be cross-listed with POLI 513B 001.",
+      "subject_code": "POLI",
+      "course_number": "463",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIBERGHIEN, YVES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "This seminar analyses issues relating to the politics of international economic relations. For specific content in a given year, consult the brochure issued by the Department.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

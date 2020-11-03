@@ -1,0 +1,126 @@
+{
+  "course_name": "EOSC 425",
+  "subject_code": "EOSC",
+  "course_number": "425",
+  "course_title": "Paleontology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=425&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 425 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=425&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "425",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUTHERLAND, STUART",
+        "CATON, SUMMER"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "19",
+      "generalRemaining": "5",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 425 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=425&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "425",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 425 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=425&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "425",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 425 W-L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=425&section=W-L&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "425",
+      "section_number": "W-L",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Paleobiogeography in the context of plate tectonics. Mass extinction events. Fossilization and biases in the fossil record. Species concepts in paleontology. Biostratigraphy. Paleontological evidence for early life; the colonization of oceanic and terrestrial environments and; the evolution of the primates.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "course_name": "PUNJ 102",
+  "subject_code": "PUNJ",
+  "course_number": "102",
+  "course_title": "Introductory Punjabi",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PUNJ&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PUNJ 102 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PUNJ&course=102&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Students who have taken Grade 11 or Grade 12 Punjabi are not allowed to register in this course.If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.) - This course will be offered online in the Fall, and there will be no in-class component in Term 1. No decision has yet been made for Term 2 in January 2021. Note that once the University makes an accouncement declaring whether Term 2 will be conducted online or not, this messaging will be removed.Punjabi courses will be offered online in the Fall, and there will be no in-class component in Term 1. No decision has yet been made for Term 2 in January 2021.",
+      "subject_code": "PUNJ",
+      "course_number": "102",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANN, GURINDERPAL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "23",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PUNJ 102 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PUNJ&course=102&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)Punjabi courses will be offered online in the Fall, and there will be no in-class component in Term 1. No decision has yet been made for Term 2 in January 2021. Note that once the University makes an accouncement declaring whether Term 2 will be conducted online or not, this messaging will be removed.",
+      "subject_code": "PUNJ",
+      "course_number": "102",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANN, GURINDERPAL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "22",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PUNJ 102 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PUNJ&course=102&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "PUNJ",
+      "course_number": "102",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANN, GURINDERPAL"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PUNJ 102 W02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PUNJ&course=102&section=W02&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "PUNJ",
+      "course_number": "102",
+      "section_number": "W02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANN, GURINDERPAL"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

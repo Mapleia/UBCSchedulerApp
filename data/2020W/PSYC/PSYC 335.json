@@ -1,0 +1,45 @@
+{
+  "course_name": "PSYC 335",
+  "subject_code": "PSYC",
+  "course_number": "335",
+  "course_title": "Gambling and Decision Making",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 335 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=335&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "335",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLARK, LUKE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "160",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The psychology of gambling behaviour, with emphasis on relevant work from judgment and decision-making, the cognitive neuroscience of choice, and clinical perspectives on disordered gambling.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

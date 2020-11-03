@@ -1,0 +1,71 @@
+{
+  "course_name": "MTRL 578",
+  "subject_code": "MTRL",
+  "course_number": "578",
+  "course_title": "Microstructural Evolution of Deformed Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=578&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 578 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=578&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "578",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILITZER, MATTHIAS"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 578 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=578&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "578",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILITZER, MATTHIAS"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical mechanisms of microstructure evolution; structure, energy and mobilities of grain boundaries, grain boundary segregation, precipitation, recovery, recrystallization, grain growth; microstructure engineering of steels.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Tutorial"
+  ]
+}

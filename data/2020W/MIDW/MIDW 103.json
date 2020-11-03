@@ -1,0 +1,43 @@
+{
+  "course_name": "MIDW 103",
+  "subject_code": "MIDW",
+  "course_number": "103",
+  "course_title": "Applied Health Services for Maternity Providers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=103&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MIDW 103 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=103&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "103",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HODGSON, ZOE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to diagnostics related to cellular and humoral immune responses in pregnant women and newborns, the properties of viruses, epidemiology, the principles of bacterial pathogenesis, and related physiologic responses.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

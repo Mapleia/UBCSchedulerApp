@@ -1,0 +1,71 @@
+{
+  "course_name": "CHBE 220",
+  "subject_code": "CHBE",
+  "course_number": "220",
+  "course_title": "Founding Principles in Chemical and Biological Engineering I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=220&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHBE 220 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=220&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "220",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CHBE 220 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=220&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "220",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Introduction to Chemical and Biological Engineering profession and the physical sciences that form the founding principles of the discipline.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

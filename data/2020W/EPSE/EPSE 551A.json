@@ -1,0 +1,43 @@
+{
+  "course_name": "EPSE 551A",
+  "subject_code": "EPSE",
+  "course_number": "551A",
+  "course_title": "School-based Consultation - SCH-BASED CONSLT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=551A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 551A 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=551A&section=074&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Restricted to SACP and SPED onlyThis section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "551A",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLOTH, ALLISON"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

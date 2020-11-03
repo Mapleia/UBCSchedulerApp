@@ -1,0 +1,69 @@
+{
+  "course_name": "EDCP 501",
+  "subject_code": "EDCP",
+  "course_number": "501",
+  "course_title": "Master's Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDCP 501 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=501&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the HOP2 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "EDCP",
+      "course_number": "501",
+      "section_number": "61A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBSON, CLAIRE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 501 61B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=501&section=61B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the off-campus (online) MED HE19 cohort students only. Administered by PDCE",
+      "subject_code": "EDCP",
+      "course_number": "501",
+      "section_number": "61B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RENWICK, KERRY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "4",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

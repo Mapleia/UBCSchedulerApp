@@ -1,0 +1,70 @@
+{
+  "course_name": "PSYC 331",
+  "subject_code": "PSYC",
+  "course_number": "331",
+  "course_title": "Forensic Psychology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=331&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 331 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=331&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "22:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "331",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILSON, CATHERINE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "167",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 331 902",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=331&section=902&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "22:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "331",
+      "section_number": "902",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILSON, CATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "170",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The application of psychological theory and research to legal issues and the criminal justice system.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "MINE 304",
+  "subject_code": "MINE",
+  "course_number": "304",
+  "course_title": "Rock Fragmentation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 304 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=304&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "cross-listed with MINE 504",
+      "subject_code": "MINE",
+      "course_number": "304",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TEYMOURI, SHERVIN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and practice of rock fragmentation by drilling and blasting; introduction to explosives and initiation systems; design of surface and underground blasts; machine excavation systems for tunneling and stoping; environmental impacts, safety, and risk assessment.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

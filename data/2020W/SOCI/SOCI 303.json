@@ -1,0 +1,126 @@
+{
+  "course_name": "SOCI 303",
+  "subject_code": "SOCI",
+  "course_number": "303",
+  "course_title": "Sociology of Migration",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 303 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=303&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "303",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GULMANELLI, STEFANO"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "20",
+      "generalRemaining": "60",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 303 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=303&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "303",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GULMANELLI, STEFANO"
+      ],
+      "totalRemaining": "64",
+      "currentlyRegistered": "16",
+      "generalRemaining": "64",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 303 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=303&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "303",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEONG, AMANDA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "72",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 303 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=303&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "303",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RYNIKER, DAVID"
+      ],
+      "totalRemaining": "74",
+      "currentlyRegistered": "6",
+      "generalRemaining": "74",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Sociological approaches to the movement of peoples and its impact over time.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

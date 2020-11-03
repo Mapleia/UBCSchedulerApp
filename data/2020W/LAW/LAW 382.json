@@ -1,0 +1,44 @@
+{
+  "course_name": "LAW 382",
+  "subject_code": "LAW",
+  "course_number": "382",
+  "course_title": "Health Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 382 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=382&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "382",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SACHEDINA, ZULIE",
+        "WASHINGTON, PENNY"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "25",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Legal and policy issues relating to the health care system, including legal aspects of individual and public health decision-making.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

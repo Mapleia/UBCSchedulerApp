@@ -1,0 +1,45 @@
+{
+  "course_name": "LLED 372",
+  "subject_code": "LLED",
+  "course_number": "372",
+  "course_title": "Teaching French Language and Literacy: Secondary",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LLED 372 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=372&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "372",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GEORGE, NICOLE",
+        "NAVARRO, LIZA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Language of instruction is French. Pass/Fail for B.Ed. students. Non-B.Ed. students are eligible for percentage grading or Credit/D/Fail grading.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

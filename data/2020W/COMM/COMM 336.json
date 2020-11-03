@@ -1,0 +1,71 @@
+{
+  "course_name": "COMM 336",
+  "subject_code": "COMM",
+  "course_number": "336",
+  "course_title": "Introduction to Digital Business",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=336&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 336 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=336&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "336",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAUNDERS, ADAM"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "COMM 336 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=336&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "336",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAUNDERS, ADAM"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "41",
+      "generalRemaining": "2",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Business fundamentals in the digital economy: leveraging digitization and automation; data and analytics; platforms; crowdsourcing; understanding the impact of digital technologies on firms, markets, economies as well as individuals and society.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

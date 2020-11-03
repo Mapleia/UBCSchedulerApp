@@ -1,0 +1,45 @@
+{
+  "course_name": "PHYS 305",
+  "subject_code": "PHYS",
+  "course_number": "305",
+  "course_title": "Introduction to Biophysics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 305 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=305&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "305",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PLOTKIN, STEVEN"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "20",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical principles involved in biological systems at the microscopic and molecular scales. Diffusion, low Reynolds number dynamics, the physicist's view of biomolecular structure, models of molecular motors and membranes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

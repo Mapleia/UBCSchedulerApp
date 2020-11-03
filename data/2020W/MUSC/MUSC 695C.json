@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 695C",
+  "subject_code": "MUSC",
+  "course_number": "695C",
+  "course_title": "Music Performance (Major) - STRING INST'S",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=695C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 695C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=695C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "695C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "WILSON, ERIC",
+        "WOOD, JASPER"
+      ],
+      "totalRemaining": "200",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "100"
+    }
+  ],
+  "credits": "Credits: 10",
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

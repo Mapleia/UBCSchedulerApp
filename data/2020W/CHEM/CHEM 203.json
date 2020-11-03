@@ -1,0 +1,74 @@
+{
+  "course_name": "CHEM 203",
+  "subject_code": "CHEM",
+  "course_number": "203",
+  "course_title": "Introduction to Organic Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=203&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 203 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=203&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "2020W CHEM203 lecture is not offered.  See CHEM223 instead.2020W CHEM203 lecture is not offered.  See CHEM223 instead.",
+      "subject_code": "CHEM",
+      "course_number": "203",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TANNER, MARTIN"
+      ],
+      "totalRemaining": "78",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "78"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 203 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=203&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "2020W CHEM203 is not offered.  See CHEM223 (lecture) and CHEM225 (lab) instead.This waitlist is for BOTH the lecture and the laboratory. You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "203",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Credit will be granted for only one of CHEM 203 or CHEM 223, CHEM 225 or CHEM 233, 235.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

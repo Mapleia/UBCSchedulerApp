@@ -1,0 +1,45 @@
+{
+  "course_name": "PHYS 542",
+  "subject_code": "PHYS",
+  "course_number": "542",
+  "course_title": "Nuclear Magnetic Resonance Imaging",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 542 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=542&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "542",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACKAY, ALEXANDER",
+        "XIANG, QING-SAN"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "8",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

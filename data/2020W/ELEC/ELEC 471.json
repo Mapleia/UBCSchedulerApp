@@ -1,0 +1,45 @@
+{
+  "course_name": "ELEC 471",
+  "subject_code": "ELEC",
+  "course_number": "471",
+  "course_title": "Medical Imaging",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=471&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 471 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=471&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "471",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROHLING, ROBERT"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "15",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics, and interventions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

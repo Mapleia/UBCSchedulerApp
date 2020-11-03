@@ -1,0 +1,158 @@
+{
+  "course_name": "BIOL 203",
+  "subject_code": "BIOL",
+  "course_number": "203",
+  "course_title": "Eukaryotic Microbiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=203&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 203 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=203&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "203",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KEELING, PATRICK JOHN",
+        "SALDARRIAGA, JUAN",
+        "COUCH, BRETT(Coordinator)",
+        "BJORNSON, SAELIN",
+        "WHELAN, THOMAS"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "71",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 203 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=203&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "203",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COUCH, BRETT",
+        "COUCH, BRETT(Coordinator)"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "21",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 203 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=203&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "203",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COUCH, BRETT",
+        "COUCH, BRETT(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 203 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=203&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "203",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COUCH, BRETT",
+        "COUCH, BRETT(Coordinator)"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "23",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 203 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=203&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 203-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "203",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Introduction to the origin and diversity of protists (protozoa and algae) at both cellular and genomic levels, including the role of endosymbiosis in evolution.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

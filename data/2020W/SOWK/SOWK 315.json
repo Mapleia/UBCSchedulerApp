@@ -1,0 +1,98 @@
+{
+  "course_name": "SOWK 315",
+  "subject_code": "SOWK",
+  "course_number": "315",
+  "course_title": "Practicum I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOWK 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "315",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ONO, ERIKA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "SOWK 315 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=315&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "315",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KIA, HANNAH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "SOWK 315 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=315&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "315",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DEL VECCHIO, RHEA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A supervised practicum in an assigned social service, two days a week throughout the program year. Limited to students in the B.S.W. program. This course will be graded Pass/Fail.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

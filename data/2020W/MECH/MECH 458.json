@@ -1,0 +1,104 @@
+{
+  "course_name": "MECH 458",
+  "subject_code": "MECH",
+  "course_number": "458",
+  "course_title": "Mechatronics Design Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=458&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 458 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=458&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "458",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ATABAKI, NIMA",
+        "FENGLER, MARKUS",
+        "LI, WEN",
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "PRODANOVIC, VLADAN",
+        "RAWLINGS, GEORGE",
+        "VAN DER LOOS, HENDRIK",
+        "WINKELMAN, PAUL"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 458 L0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=458&section=L0A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "458",
+      "section_number": "L0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 458 T0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=458&section=T0A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "458",
+      "section_number": "T0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A capstone design program designed to give students experience in the design/development of practical mechanical and mechatronics devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH 454, MECH 457, MECH 458, MECH 459, or APSC 496.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Tutorial"
+  ]
+}

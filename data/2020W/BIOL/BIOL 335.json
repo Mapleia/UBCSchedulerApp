@@ -1,0 +1,551 @@
+{
+  "course_name": "BIOL 335",
+  "subject_code": "BIOL",
+  "course_number": "335",
+  "course_title": "Molecular Genetics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 335 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, LIANE",
+        "ZHANG, YUELIN",
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "190",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 335 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, LIANE",
+        "ZHANG, YUELIN",
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "180",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T51",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T51&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "TUT schedule will be announced in LEC",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T51",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T52",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T52&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T52",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T53",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T53&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T53",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T54",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T54&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T54",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T55",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T55&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T55",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T56",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T56&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T56",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T57",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T57&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T57",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T58",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T58&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T58",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T59",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T59&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T59",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T61",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T61&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T61",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T62",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T62&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T62",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 335 T63",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T63&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T63",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T64",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T64&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T64",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 335 T65",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T65&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T65",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T67",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T67&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T67",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 335 T71",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=T71&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "T71",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEREZOWSKY, CRAIG M S(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 335 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This is the wait-list for BIOL 335-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 335 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=335&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This is the wait-list for BIOL 335-202.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "335",
+      "section_number": "2W2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Isolation and identification of genes, analysis of gene structure; gene expression and its regulation in prokaryotes and in eukaryotes; developmental genetics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

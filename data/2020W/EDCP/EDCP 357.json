@@ -1,0 +1,70 @@
+{
+  "course_name": "EDCP 357",
+  "subject_code": "EDCP",
+  "course_number": "357",
+  "course_title": "Physics - Secondary: Curriculum and Pedagogy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=357&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 357 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=357&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "357",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILNER-BOLOTIN, MARINA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": "Restricted",
+      "section": "EDCP 357 640",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=357&section=640&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "EDCP 357 SECTION 640 IS RESTRICTED TO STUDENTS IN THE WEST KOOTENAY TEACHER EDUCATION PROGRAM.",
+      "subject_code": "EDCP",
+      "course_number": "357",
+      "section_number": "640",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory",
+    "Web-Oriented Course"
+  ]
+}

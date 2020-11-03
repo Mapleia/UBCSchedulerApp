@@ -1,0 +1,44 @@
+{
+  "course_name": "APSC 540",
+  "subject_code": "APSC",
+  "course_number": "540",
+  "course_title": "Entrepreneurial Thinking for Applied Scientists",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=540&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APSC 540 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=540&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "540",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ETMANNSKI, TAMARA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "23",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Issues and case studies in creating and running ventures, with a particular emphasis on exploring applied science projects through a new venture lens, strategic planning, finance and risk.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

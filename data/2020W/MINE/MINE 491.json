@@ -1,0 +1,43 @@
+{
+  "course_name": "MINE 491",
+  "subject_code": "MINE",
+  "course_number": "491",
+  "course_title": "Mine and Plant Engineering Design Feasibility Study",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 491 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=491&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "491",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "D'AMBRA, SONIA"
+      ],
+      "totalRemaining": "52",
+      "currentlyRegistered": "34",
+      "generalRemaining": "2",
+      "restrictedRemaining": "50"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Mining Engineering design project from scope definition to final design and project feasibility. Based on a problem from industry and/or research.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

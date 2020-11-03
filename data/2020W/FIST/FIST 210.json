@@ -1,0 +1,70 @@
+{
+  "course_name": "FIST 210",
+  "subject_code": "FIST",
+  "course_number": "210",
+  "course_title": "Early Cinema",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIST 210 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=210&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIST 210, Section WL2. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIST",
+      "course_number": "210",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLARK, JOE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "FIST 210 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=210&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This is a WAIT LIST section for FIST 210, Section 002. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "FIST",
+      "course_number": "210",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Aesthetics, economics, history, and technological characteristics of international early film.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

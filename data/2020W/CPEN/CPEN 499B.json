@@ -1,0 +1,177 @@
+{
+  "course_name": "CPEN 499B",
+  "subject_code": "CPEN",
+  "course_number": "499B",
+  "course_title": "Undergraduate Thesis - UNDERGRAD THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=499B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CPEN 499B 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPEN 499B 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=202&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "202",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPEN 499B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FEDOROVA, ALEXANDRA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 499B 00W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=00W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "00W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPEN 499B 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "1W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPEN 499B 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499B&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499B",
+      "section_number": "2W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Project in electrical engineering or computer engineering involving design, experimental and/or computer simulation work as selected from topics supplied by faculty members. An individual project thesis is to be prepared according to specifications available from the departmental office.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Thesis",
+    "Waiting List"
+  ]
+}

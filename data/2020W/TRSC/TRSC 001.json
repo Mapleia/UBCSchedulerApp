@@ -1,0 +1,43 @@
+{
+  "course_name": "TRSC 001",
+  "subject_code": "TRSC",
+  "course_number": "001",
+  "course_title": "FIRST YEAR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=TRSC&course=001&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "TRSC 001 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=TRSC&course=001&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "TRSC",
+      "course_number": "001",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

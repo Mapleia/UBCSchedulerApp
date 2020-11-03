@@ -1,0 +1,152 @@
+{
+  "course_name": "MATH 210",
+  "subject_code": "MATH",
+  "course_number": "210",
+  "course_title": "Introduction to Mathematical Computing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 210 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=210&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "A seat pool is for students who are NOT in ECMA, MASC, MATH, or STAT.  Because of limited capacity in MATH 210, this section is restricted to students in MATH, MASC, and STAT programs.  Register for one of MATH 210, Section L2A, L2B, or L2C.",
+      "subject_code": "MATH",
+      "course_number": "210",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALLS, PATRICK",
+        "WALLS, PATRICK(Coordinator)"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "188",
+      "generalRemaining": "16",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "MATH 210 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=210&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Register for one of MATH 210, Section L2A or L2B.",
+      "subject_code": "MATH",
+      "course_number": "210",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "61",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MATH 210 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=210&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Register for one of MATH 210, Section L2A or L2B.",
+      "subject_code": "MATH",
+      "course_number": "210",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "63",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 210 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=210&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "210",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "57",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 210 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=210&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "210",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to numerical computation, computer algebra, mathematical graphics. Primarily for second year students taking a degree in mathematics. One hour laboratory each week.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

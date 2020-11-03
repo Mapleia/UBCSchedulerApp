@@ -1,0 +1,76 @@
+{
+  "course_name": "PERS 101",
+  "subject_code": "PERS",
+  "course_number": "101",
+  "course_title": "Basic Persian II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PERS&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PERS 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PERS&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "THU",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This course seeks to increase a student's basic Persian ability and is designed for the students who have passed PERS 100.Prerequisites: PERS 100 (not open to students of Iranian heritage)All students are required to complete a placement interview to ensure that they are registered in the appropriate level. For upcoming interview dates, please go to our website at www.asia.ubc.ca to view under \"Placement exams\".If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "PERS",
+      "course_number": "101",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "7",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PERS 101 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PERS&course=101&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "THU",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "PERS",
+      "course_number": "101",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Continuation of PERS 100.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

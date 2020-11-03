@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 531",
+  "subject_code": "PHYS",
+  "course_number": "531",
+  "course_title": "Particle Detection Techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=531&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 531 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=531&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "531",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRYMAN, DOUGLAS"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

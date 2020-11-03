@@ -1,0 +1,75 @@
+{
+  "course_name": "CIVL 303",
+  "subject_code": "CIVL",
+  "course_number": "303",
+  "course_title": "Computational Tools in Civil Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CIVL 303 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=303&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "303",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISAACSON, MICHAEL D",
+        "NAZHAT, YAHYA",
+        "YONEMITSU, NOBORU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CIVL 303 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=303&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "303",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISAACSON, MICHAEL D",
+        "NAZHAT, YAHYA",
+        "YONEMITSU, NOBORU"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Computational and numerical solutions to civil engineering problems; application to a civil engineering design project that reflects community, economic, environmental and technical considerations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

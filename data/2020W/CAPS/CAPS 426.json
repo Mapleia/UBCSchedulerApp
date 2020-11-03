@@ -1,0 +1,44 @@
+{
+  "course_name": "CAPS 426",
+  "subject_code": "CAPS",
+  "course_number": "426",
+  "course_title": "Physiological Basis of Central Nervous System Functions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CAPS&course=426&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CAPS 426 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=426&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "This course will be held in LSC 1510.",
+      "subject_code": "CAPS",
+      "course_number": "426",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAAS, KURT"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "44",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An integrated study of the structural and functional organization of the central nervous system with special emphasis on neurophysiological mechanisms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

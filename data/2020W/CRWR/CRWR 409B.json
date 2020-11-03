@@ -1,0 +1,95 @@
+{
+  "course_name": "CRWR 409B",
+  "subject_code": "CRWR",
+  "course_number": "409B",
+  "course_title": "Writing Fiction I - WRITING FIC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=409B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 409B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR Winter Term 2 (January-April) courses/sections will be held online. This particular course will have a flexible approach to online learning with core elements such as workshop and lectures delivered asynchronously through Canvas. There will also be regular opportunities to connect synchronously through Zoom for writing exercises, group work, and one-on-one meetings with the instructor.",
+      "subject_code": "CRWR",
+      "course_number": "409B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ARMSTRONG, THEODORA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 409B 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409B&section=004&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "409B",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAILLARD, KEITH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 409B 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409B&section=006&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "409B",
+      "section_number": "006",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATER, MALLORY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A workshop class in the writing of fiction.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

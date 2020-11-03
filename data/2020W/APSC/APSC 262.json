@@ -1,0 +1,154 @@
+{
+  "course_name": "APSC 262",
+  "subject_code": "APSC",
+  "course_number": "262",
+  "course_title": "Technology and Society II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=262&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APSC 262 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=262&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "262",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "APSC 262 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=262&section=203&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "262",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE",
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "APSC 262 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=262&section=204&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "262",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FOSTER, EARL",
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": "Restricted",
+      "section": "APSC 262 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=262&section=205&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "262",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FOSTER, EARL",
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": "Restricted",
+      "section": "APSC 262 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=262&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "**This waitlist is for Post - Secondary transfer students only.Students who register in this waitlist section are not guaranteed registration in the course. Please check your SSC during the first week of classes to view the registration changes.",
+      "subject_code": "APSC",
+      "course_number": "262",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture",
+    "Waiting List"
+  ]
+}

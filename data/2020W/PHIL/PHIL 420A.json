@@ -1,0 +1,45 @@
+{
+  "course_name": "PHIL 420A",
+  "subject_code": "PHIL",
+  "course_number": "420A",
+  "course_title": "Topics in Symbolic Logic - TOPICS:SYMB LOGI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=420A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 420A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=420A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Prerequisites: in addition to PHIL 220, students must have completed at least one of PHIL 320, 322, or 323 prior to taking this course, with completion of PHIL 320 being strongly recommended.",
+      "subject_code": "PHIL",
+      "course_number": "420A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GILBERT, DAVID ROBERT"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Formal semantics, proof theory, incompleteness and decidability, axiomatic set theory, independence results. Consult the Department as to which topics are offered in a given year.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

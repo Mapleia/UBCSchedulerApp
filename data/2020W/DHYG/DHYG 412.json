@@ -1,0 +1,73 @@
+{
+  "course_name": "DHYG 412",
+  "subject_code": "DHYG",
+  "course_number": "412",
+  "course_title": "Oral Health Care Trends and Topics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=412&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 412 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=412&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "412",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "DHYG 412 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=412&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "B",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/ Admission to the Faculty of Dentistry is mandatory before registering (see website www.dentistry.ubc.ca)It is important to be sure that your distance course is eligible under the student loan program.  For your reference: http://www.students.ubc.ca/finance/loans.cfm?page=courseloads",
+      "subject_code": "DHYG",
+      "course_number": "412",
+      "section_number": "99A",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "11",
+        "14",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Critical analysis of health care trends and oral health care delivery with emphasis on underserved diverse populations.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture",
+    "Distance Education"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "PHIL 448",
+  "subject_code": "PHIL",
+  "course_number": "448",
+  "course_title": "Topics in Continental Philosophy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=448&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 448 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=448&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course explores how notions of perversion were questioned and undermined by two continental traditions: Psychoanalysis and Phenomenology. It explores the relationship between the \"normal\" and the \"pathological\" through philosophical accounts of embodiment and sexuality. We begin with a reading of Sigmund Freud's \"Three Essays on Sexuality.\" We then examine Freud's accounts of femininity and homosexuality alongside works of Luce Irigaray and Sara Ahmed. Next, Jacques Lacan's articulation of the position of desire will be considered with Judith Butler's response to him in \"Bodies That Matter.\" Finally, we read Maurice Merleau-Ponty and Ahmed to consider the role of phenomenology in broadening our understanding of the healthy desiring body and what it means to be a sexual being today.",
+      "subject_code": "PHIL",
+      "course_number": "448",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERKERK, WILLOW"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A study of European philosophers from amongst Husserl, Heidegger, Habermas, Foucault, Derrida, Lacan, Levinas, and others. Credit will be granted for only one of PHIL 448 or PHIL 449.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

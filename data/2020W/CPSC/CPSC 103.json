@@ -1,0 +1,1406 @@
+{
+  "course_name": "CPSC 103",
+  "subject_code": "CPSC",
+  "course_number": "103",
+  "course_title": "Introduction to Systematic Program Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=103&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 103 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "CPSC 103 is for any UBC student who wants to learn how to program in an introductory setting. You will learn sound programming skills that will allow you to solve problems in a discipline of your choice. You will learn the Python programming language but your main focus in this course will be on learning to design small, well-structured, readable programs rather than focusing on learning a particular programming language. You may take this course after taking CPSC 100, but may not take CPSC 100 after taking CPSC 103.  For more information on how to select a first year CS course go to: https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-course",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLEN, MEGHAN"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "257",
+      "generalRemaining": "0",
+      "restrictedRemaining": "28"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 103 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "CPSC 103 is for any UBC student who wants to learn how to program in an introductory setting. You will learn sound programming skills that will allow you to solve problems in a discipline of your choice. You will learn the Python programming language but your main focus in this course will be on learning to design small, well-structured, readable programs rather than focusing on learning a particular programming language. You may take this course after taking CPSC 100, but may not take CPSC 100 after taking CPSC 103.  For more information on how to select a first year CS course go to: https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-course",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLEN, MEGHAN"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "260",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "CPSC 103 is for any UBC student who wants to learn how to program in an introductory setting. You will learn sound programming skills that will allow you to solve problems in a discipline of your choice. You will learn the Python programming language but your main focus in this course will be on learning to design small, well-structured, readable programs rather than focusing on learning a particular programming language. You may take this course after taking CPSC 100, but may not take CPSC 100 after taking CPSC 103.  For more information on how to select a first year CS course go to: https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-course",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOCHETTI DE MAGALHAES, KARINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "263",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "285",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "24",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "24",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "22",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1F&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "21",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1H&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "21",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1I",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1I&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1I",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "23",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1J&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "25",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1K&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "24",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1L&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "9",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1M&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "22",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1N&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "25",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1O",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1O&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1O",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "19",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1P&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "20",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T1Q",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1Q&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1Q",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T1R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1R&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1S&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1S",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "27",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1T&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1T",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "25",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1U",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1U&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1U",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "25",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T1V",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T1V&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T1V",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "28",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLEN, MEGHAN"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "1W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLEN, MEGHAN"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2F&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "21",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 T2H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2H&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "23",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2J&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2K&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2L&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2M&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2N&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2P&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2R&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2S",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2S&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2S",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 T2T",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2T&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2T",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "0",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2U",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2U&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2U",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 T2V",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2V&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2V",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "0",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 103 T2X",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2X&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2X",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 T2Y",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2Y&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2Y",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "0",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 T2Z",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=T2Z&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "T2Z",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "0",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 103 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "979",
+      "currentlyRegistered": "20",
+      "generalRemaining": "979",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 103 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=103&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "103",
+      "section_number": "2W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

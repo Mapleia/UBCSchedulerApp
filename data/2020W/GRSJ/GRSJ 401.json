@@ -1,0 +1,70 @@
+{
+  "course_name": "GRSJ 401",
+  "subject_code": "GRSJ",
+  "course_number": "401",
+  "course_title": "Body, Gender and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 401 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=401&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "When this course is full it will be Blocked.  Any seats that subsequently open up will be reserved for wait listed students.",
+      "subject_code": "GRSJ",
+      "course_number": "401",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SNOWDEN, KIM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 401 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=401&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "401",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An interdisciplinary examination of the body, exploring how social relations and space are implicated in the constitution and experience of gendered bodies and identities, with an emphasis on feminist analyses of body-societal relations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

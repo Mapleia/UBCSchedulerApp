@@ -1,0 +1,44 @@
+{
+  "course_name": "PATH 415",
+  "subject_code": "PATH",
+  "course_number": "415",
+  "course_title": "Immunopathology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PATH 415 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=415&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "RESTRICTED TO BMLSc STUDENTS",
+      "subject_code": "PATH",
+      "course_number": "415",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, DEBORAH"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Immunological events causing tissue injury.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

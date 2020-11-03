@@ -1,0 +1,70 @@
+{
+  "course_name": "CRWR 303",
+  "subject_code": "CRWR",
+  "course_number": "303",
+  "course_title": "Intermediate Writing for Children and Young Adults",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 303 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=303&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "303",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ACHESON, ALISON"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "52",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 303 LS1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=303&section=LS1&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Students must also register for CRWR 303, the web-based lecture portion of this course.",
+      "subject_code": "CRWR",
+      "course_number": "303",
+      "section_number": "LS1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ACHESON, ALISON"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "49",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The writing of work for children and young adults in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture-Seminar"
+  ]
+}

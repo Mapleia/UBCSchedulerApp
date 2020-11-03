@@ -1,0 +1,44 @@
+{
+  "course_name": "CHEM 413",
+  "subject_code": "CHEM",
+  "course_number": "413",
+  "course_title": "Bioorganic Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=413&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 413 199",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=413&section=199&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "413",
+      "section_number": "199",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TANNER, MARTIN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Enzyme catalysis; mechanistic enzymology; chemistry of cofactors; biosynthetic transformations; natural product biosynthesis; topics in chemical biology. Credit will be granted for only one of CHEM 413, CHEM 569, or BIOC 403.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

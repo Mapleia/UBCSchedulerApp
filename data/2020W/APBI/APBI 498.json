@@ -1,0 +1,100 @@
+{
+  "course_name": "APBI 498",
+  "subject_code": "APBI",
+  "course_number": "498",
+  "course_title": "Undergraduate Essay",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=498&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APBI 498 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=498&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 498 can be found at https://wiki.ubc.ca/Course:APBI498.  Please note that students registered in the undergraduate essay will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates.",
+      "subject_code": "APBI",
+      "course_number": "498",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 498 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=498&section=102&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 498 can be found at https://wiki.ubc.ca/Course:APBI498.  Please note that students registered in the undergraduate essay will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates.",
+      "subject_code": "APBI",
+      "course_number": "498",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 498 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=498&section=001&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 498 can be found at https://wiki.ubc.ca/Course:APBI498.  Please note that students registered in the undergraduate essay will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates.",
+      "subject_code": "APBI",
+      "course_number": "498",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Preparation of a comprehensive and analytical review of an approved topic under the supervision of a faculty member. Consultation with a program advisor is required.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Essay/Report"
+  ]
+}

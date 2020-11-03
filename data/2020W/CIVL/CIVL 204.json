@@ -1,0 +1,45 @@
+{
+  "course_name": "CIVL 204",
+  "subject_code": "CIVL",
+  "course_number": "204",
+  "course_title": "Fundamentals of Environmental Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=204&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CIVL 204 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=204&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "204",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VASSOS, TROY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "189",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Environmental engineering issues and projects; application of scientific and engineering principles to addressing these; soil, water and air pollution, and remediation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

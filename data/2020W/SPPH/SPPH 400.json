@@ -1,0 +1,77 @@
+{
+  "course_name": "SPPH 400",
+  "subject_code": "SPPH",
+  "course_number": "400",
+  "course_title": "Statistics for Health Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 400 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=400&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca   |Please note this is a Graduate level course. / Please note there are optional dropin tutorials for this course which you do NOT register for.Prerequisite: Ability to use high school algebra and simple graphs",
+      "subject_code": "SPPH",
+      "course_number": "400",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOBOLEV, BORIS",
+        "MARIN, MICHAEL",
+        "NIKIFORUK, ADIAN MCKERRELL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "115",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "SPPH 400 DL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=400&section=DL1&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca   |  Please note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.",
+      "subject_code": "SPPH",
+      "course_number": "400",
+      "section_number": "DL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "70",
+        "0",
+        "55",
+        "15",
+        "",
+        "in one of these programs: MPH\n-OR-\nin one of these programs: MPHMSN\n-OR-\nin one of these programs: MPHDPH\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MPH\n-OR-\nin one of these programs: MPHMSN\n-OR-\nin one of these programs: MPHDPH\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Planned collection, numeric and graphic summarization, and elementary statistical analysis of data. Examples primarily from health sciences illustrate standard techniques for parametric and non-parametric hypothesis testing; regression and correlation; contingency tables. Also randomization, \"blindfolding\" and other specifically biomedical topics in statistics. Class size may be limited.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "course_name": "PHYS 404",
+  "subject_code": "PHYS",
+  "course_number": "404",
+  "course_title": "Introduction to Medical Physics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 404 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=404&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "404",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOZLOWSKI, PIOTR",
+        "LAULE, CORNELIA",
+        "LLOYD, SAMANTHA",
+        "MACKAY, ALEXANDER",
+        "THAKUR, YOGESH",
+        "URIBE MUNOZ, CARLOS"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "41",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Radiotherapy, X-ray imaging, nuclear medicine, magnetic resonance imaging and biomedical optics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

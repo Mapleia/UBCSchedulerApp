@@ -1,0 +1,71 @@
+{
+  "course_name": "EPSE 512",
+  "subject_code": "EPSE",
+  "course_number": "512",
+  "course_title": "Critical Issues in Special Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=512&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 512 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=512&section=074&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPEDThe restriction will be removed for EDUC graduate students on June 26.This section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "512",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEIKKILA, MARY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "EPSE 512 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=512&section=075&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EPSE",
+      "course_number": "512",
+      "section_number": "075",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FOSSETT, BRENDA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

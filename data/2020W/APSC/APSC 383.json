@@ -1,0 +1,45 @@
+{
+  "course_name": "APSC 383",
+  "subject_code": "APSC",
+  "course_number": "383",
+  "course_title": "Prototyping",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=383&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APSC 383 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=383&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "383",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, DAVID",
+        "NAKANE, JONATHAN"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Systematic approach and use of tools for prototyping.  Using software, electronics, and physical components for practical advancement of initiatives in innovation, product development market identification, and problem solving.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

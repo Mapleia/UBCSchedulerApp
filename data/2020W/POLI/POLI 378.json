@@ -1,0 +1,75 @@
+{
+  "course_name": "POLI 378",
+  "subject_code": "POLI",
+  "course_number": "378",
+  "course_title": "The Politics of Terrorism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=378&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 378 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=378&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Please note: Students who took THE POLITICS OF TERRORISM with Dr. Farkasch as POLI 369D may NOT take this course (this is the same course under a different course code).",
+      "subject_code": "POLI",
+      "course_number": "378",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FARKASCH, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "103",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "POLI 378 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=378&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "378",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FARKASCH, ROBERT",
+        "GOLOBOKOV, ANDREI"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "97",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Exploration of contemporary terrorism as a contested area of understanding and as a social construct.  Includes origins and motives, evolution of terrorist groups, strategies and tactics, and anti-terrorism and counter-terrorism responses.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "course_name": "MATH 510",
+  "subject_code": "MATH",
+  "course_number": "510",
+  "course_title": "Functional Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=510&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MATH 510 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=510&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This course will be held in MATH 126",
+      "subject_code": "MATH",
+      "course_number": "510",
+      "section_number": "201",
+      "building": "Mathematics",
+      "room": "202",
+      "instructors": [
+        "0",
+        "10",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

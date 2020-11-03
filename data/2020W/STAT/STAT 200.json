@@ -1,0 +1,134 @@
+{
+  "course_name": "STAT 200",
+  "subject_code": "STAT",
+  "course_number": "200",
+  "course_title": "Elementary Statistics for Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 200 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=200&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS!If course is full, please watch enrollment for a space to open up.",
+      "subject_code": "STAT",
+      "course_number": "200",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, MELISSA",
+        "LEE, MELISSA(Coordinator)"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "379",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "STAT 200 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=200&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS!",
+      "subject_code": "STAT",
+      "course_number": "200",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO",
+        "LOURENZUTTI, RODOLFO(Coordinator)"
+      ],
+      "totalRemaining": "67",
+      "currentlyRegistered": "318",
+      "generalRemaining": "67",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "STAT 200 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=200&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "There will be no labs for this class this term",
+      "subject_code": "STAT",
+      "course_number": "200",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO",
+        "LOURENZUTTI, RODOLFO(Coordinator)"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "345",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "STAT 200 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=200&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Waitlist for Stat 200 - 101  9-10 AM",
+      "subject_code": "STAT",
+      "course_number": "200",
+      "section_number": "WL1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Classical, nonparametric, and robust inferences about means, variances, and analysis of variance, using computers. Emphasis on problem formulation, assumptions, and interpretation. See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

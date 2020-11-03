@@ -1,0 +1,97 @@
+{
+  "course_name": "CHBE 599",
+  "subject_code": "CHBE",
+  "course_number": "599",
+  "course_title": "Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=599&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHBE 599 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=599&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "599",
+      "section_number": "101",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "3",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHBE 599 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=599&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": "08:30",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "599",
+      "section_number": "201",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHBE 599 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=599&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "599",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "58",
+      "currentlyRegistered": "37",
+      "generalRemaining": "44",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": "Credits: 12",
+  "description": "For M.A.Sc.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

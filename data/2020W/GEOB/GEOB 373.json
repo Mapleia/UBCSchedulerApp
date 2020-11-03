@@ -1,0 +1,155 @@
+{
+  "course_name": "GEOB 373",
+  "subject_code": "GEOB",
+  "course_number": "373",
+  "course_title": "Introductory Remote Sensing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "GEOB 373 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=373&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This course requires a $20.00 lab fee to be paid in the first month of class.This asynchronous online lecture does not have a scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "373",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "73",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "GEOB 373 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=373&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "373",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 373 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=373&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "373",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 373 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=373&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "373",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "20",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 373 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=373&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 373, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "373",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "22",
+        "8",
+        "22",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

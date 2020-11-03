@@ -1,0 +1,97 @@
+{
+  "course_name": "GEOB 308",
+  "subject_code": "GEOB",
+  "course_number": "308",
+  "course_title": "Quaternary and Applied Geomorphology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=308&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOB 308 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=308&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Mix of asynchronous and synchronous components: Synchronous online activities and discussions held every Thursday at the scheduled class time.",
+      "subject_code": "GEOB",
+      "course_number": "308",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOPPES, MICHELE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 308 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=308&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "308",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOPPES, MICHELE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 308 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=308&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "308",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOPPES, MICHELE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

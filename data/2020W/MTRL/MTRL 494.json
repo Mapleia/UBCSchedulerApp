@@ -1,0 +1,44 @@
+{
+  "course_name": "MTRL 494",
+  "subject_code": "MTRL",
+  "course_number": "494",
+  "course_title": "Composite Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=494&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MTRL 494 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=494&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "494",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KEULEN, CASEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "62",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Understanding the properties and the mechanical behaviour of composite materials with emphasis on analysis, design, and manufacturing. Credit will only be given for one of MTRL 494, 594.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

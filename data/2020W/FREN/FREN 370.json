@@ -1,0 +1,45 @@
+{
+  "course_name": "FREN 370",
+  "subject_code": "FREN",
+  "course_number": "370",
+  "course_title": "Introduction to French Linguistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 370 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=370&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "A survey of basic terminology, methods, problems, and theoretical trends in French linguistics, specifically designed to provide students with a foundation for advanced language study in French. Full course description: https://fhis.ubc.ca/course-description/fren370/",
+      "subject_code": "FREN",
+      "course_number": "370",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOUCHARD, MARIE-EVE"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "28",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A survey of basic terminology, methods, problems, and theoretical trends in French linguistics, specifically designed to provide students with a foundation for advanced language study in French.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

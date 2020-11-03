@@ -1,0 +1,72 @@
+{
+  "course_name": "LLED 371",
+  "subject_code": "LLED",
+  "course_number": "371",
+  "course_title": "Foundations of Teaching French: Secondary",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LLED 371 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=371&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "371",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RUEST, CARL",
+        "NAVARRO, LIZA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "LLED 371 640",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=371&section=640&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "LLED 371 section 640 is restricted to students in the West Kootenay Teacher Education Program.",
+      "subject_code": "LLED",
+      "course_number": "371",
+      "section_number": "640",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ROBERTSON, HEATHER"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

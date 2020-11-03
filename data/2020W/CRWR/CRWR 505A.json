@@ -1,0 +1,98 @@
+{
+  "course_name": "CRWR 505A",
+  "subject_code": "CRWR",
+  "course_number": "505A",
+  "course_title": "Advanced Writing of Creative Non-Fiction I - ADV CRTV N-FIC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=505A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 505A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular coures will consist of synchronous and asynchronous online discussions, small group exercises, craft talks and workshopping.",
+      "subject_code": "CRWR",
+      "course_number": "505A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHABEN, CAROL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 505A D01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505A&section=D01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "505A",
+      "section_number": "D01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATE, BRONWEN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 505A D02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505A&section=D02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "505A",
+      "section_number": "D02",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CATRON, MANDY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

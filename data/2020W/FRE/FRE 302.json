@@ -1,0 +1,44 @@
+{
+  "course_name": "FRE 302",
+  "subject_code": "FRE",
+  "course_number": "302",
+  "course_title": "Small Business Management in Agri-food Industries",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 302 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=302&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "302",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WISEMAN, KELLEEN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Emphasizes the building of a business plan by exploring topics such as the planning process and financing, marketing and human resource concepts, as applied to an agri-food business, domestically and internationally.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

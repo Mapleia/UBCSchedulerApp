@@ -1,0 +1,44 @@
+{
+  "course_name": "ANTH 317A",
+  "subject_code": "ANTH",
+  "course_number": "317A",
+  "course_title": "Linguistic Anthropology - LINGUISTIC ANTH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=317A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ANTH 317A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=317A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "317A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "55",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A survey of the ethnographic uses of language data and the techniques of linguistic analysis.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

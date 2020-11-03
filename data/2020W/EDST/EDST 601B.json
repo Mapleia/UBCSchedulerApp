@@ -1,0 +1,43 @@
+{
+  "course_name": "EDST 601B",
+  "subject_code": "EDST",
+  "course_number": "601B",
+  "course_title": "Doctoral Seminar - DOCTORAL SEM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=601B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDST 601B 081",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=601B&section=081&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "These seats are reserved for students in First Year PhD Program.This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "601B",
+      "section_number": "081",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAN, JENNIFER"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Required of students in the first year of a doctoral program. Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

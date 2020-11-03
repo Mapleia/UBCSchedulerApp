@@ -1,0 +1,70 @@
+{
+  "course_name": "THTR 307",
+  "subject_code": "THTR",
+  "course_number": "307",
+  "course_title": "Lighting Design I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=307&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 307 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=307&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Stage lighting principles and practice: equipment, control systems and design fundamentals. Priority will be given to BFA Design and Production majors.",
+      "subject_code": "THTR",
+      "course_number": "307",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "101",
+      "instructors": [
+        "GARDINER, ROBERT"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "10",
+      "generalRemaining": "9",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": " ",
+      "section": "THTR 307 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=307&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This is a WAIT LIST section for THTR 307, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "307",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The optical, distribution, and control systems used in stage lighting design.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

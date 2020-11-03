@@ -1,0 +1,44 @@
+{
+  "course_name": "HIST 305",
+  "subject_code": "HIST",
+  "course_number": "305",
+  "course_title": "History of British Columbia",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 305 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=305&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "HIST 305 will be primarily asynchronous, with an option to participate in synchronous discussions on Thursdays during scheduled class times. There will also be an asynchronous discussion alternative, so students do not need to be available during listed class times to participate fully in the course.There is no cost for textbooks in this course.",
+      "subject_code": "HIST",
+      "course_number": "305",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISHIGURO, LAURA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The social, political, cultural, environmental, and economic transformations that have made British Columbia. Topics include the histories of Indigenous and settler peoples, the modern state, migration, activism, and identity.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

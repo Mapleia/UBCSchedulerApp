@@ -1,0 +1,70 @@
+{
+  "course_name": "EDCP 322A",
+  "subject_code": "EDCP",
+  "course_number": "322A",
+  "course_title": "Physical Education - Secondary: Curriculum and Pedagogy - PHYS ED SEC C&P",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=322A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 322A 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=322A&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "EDCP 322A IS RESTRICTED TO BED SECONDARY STUDENTS WITH PHYSICAL EDUCATION AS A TEACHABLE SUBJECT.This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "322A",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGINLEY, STEPHEN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": "Restricted",
+      "section": "EDCP 322A 640",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=322A&section=640&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "EDCP 322A SECTION 640 IS RESTRICTED TO STUDENTS IN THE WEST KOOTENAY TEACHER EDUCATION PROGRAM.",
+      "subject_code": "EDCP",
+      "course_number": "322A",
+      "section_number": "640",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DOVGALA, DEBORAH"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory",
+    "Web-Oriented Course"
+  ]
+}

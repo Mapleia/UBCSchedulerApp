@@ -1,0 +1,52 @@
+{
+  "course_name": "PCTH 402",
+  "subject_code": "PCTH",
+  "course_number": "402",
+  "course_title": "Systematic Pharmacology Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PCTH 402 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=402&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "18:00",
+      "comments": "Some or all activities in Term 2 may return to being conducted in person, depending on provincial and university policies in response to the COVID-19 pandemic; should this happen, the course director will work with any students unable to return to campus to allow for completion of the course.",
+      "subject_code": "PCTH",
+      "course_number": "402",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERNATCHEZ, PASCAL",
+        "BHAGAVATULA, SASTRY",
+        "FEDIDA, DAVID",
+        "HORNE, ANDREW",
+        "KARIM, SULTAN",
+        "LEUNG, JOANNE Y T",
+        "LEUNG, JOANNE Y T(Coordinator)",
+        "PANG, CATHERINE C",
+        "PANG, CATHERINE C(Coordinator)",
+        "WALKER, MICHAEL"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A series of demonstrated, group, and individual laboratory experiments designed to illustrate the concepts and hypotheses of pharmacology. The course is restricted to Honours students in Pharmacology, but may be taken by others with permission of the department head.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

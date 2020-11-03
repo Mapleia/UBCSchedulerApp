@@ -1,0 +1,46 @@
+{
+  "course_name": "MATH 344",
+  "subject_code": "MATH",
+  "course_number": "344",
+  "course_title": "Mathematical Game Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 344 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=344&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "344",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANGEL, OMER",
+        "ANGEL, OMER(Coordinator)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "79",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to mathematical game theory and its applications.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "course_name": "MIDW 320",
+  "subject_code": "MIDW",
+  "course_number": "320",
+  "course_title": "Variations in Midwifery Clinical Care",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 320 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=320&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "320",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUTSKA, LUBA",
+        "ELLIS, CATHRYN",
+        "SIMMONS, VALERIE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 10",
+  "description": "Clinical education experiences with the preventative and therapeutic midwifery care of pregnancy, birth, and the puerperium.  Emphasis on the recognition and management of variations of normal and findings outside normal.  A 12-week practicum in locations around the province.  Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

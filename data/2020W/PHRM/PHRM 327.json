@@ -1,0 +1,70 @@
+{
+  "course_name": "PHRM 327",
+  "subject_code": "PHRM",
+  "course_number": "327",
+  "course_title": "Toxicology and Precision Medicine",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 327 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=327&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Toxicology and Precision MedicineIf section is full, please register in waitlist (PHRM 327.WL1)Please note that all PHRM 327 sessions will be delivered online.",
+      "subject_code": "PHRM",
+      "course_number": "327",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "in one of these programs: PHRMD\nin year: =3\n\n"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 327 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=327&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 327.001 Pharmaceutical ToxicologyInstructor: Dr. Colin Ross",
+      "subject_code": "PHRM",
+      "course_number": "327",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic principles of toxicology; toxicity of pharmaceuticals, and precision medicine approaches to mitigate toxicity.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

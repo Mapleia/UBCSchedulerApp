@@ -1,0 +1,153 @@
+{
+  "course_name": "ELEC 291",
+  "subject_code": "ELEC",
+  "course_number": "291",
+  "course_title": "Electrical Engineering Design Studio I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=291&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 291 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=291&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "291",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "176",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 291 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=291&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "291",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "7",
+        "73",
+        "7",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 291 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=291&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "291",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CALVINO-FRAGA, JESUS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 291 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=291&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "291",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "7",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 291 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=291&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "291",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

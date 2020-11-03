@@ -1,0 +1,70 @@
+{
+  "course_name": "COMM 388",
+  "subject_code": "COMM",
+  "course_number": "388",
+  "course_title": "Design Methods for Business Innovation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=388&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 388 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=388&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "388",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIRUCHITTAMPALAM, DHARINI"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 388 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=388&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "388",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIRUCHITTAMPALAM, DHARINI"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Studio-based experience in thinking strategies and design processes applied to business innovation in the private, public, and social sectors. Emphasis on problem solving, co-creation, and innovation for external clients in a collaborative environment.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

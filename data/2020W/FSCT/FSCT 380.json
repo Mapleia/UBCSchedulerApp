@@ -1,0 +1,43 @@
+{
+  "course_name": "FSCT 380",
+  "subject_code": "FSCT",
+  "course_number": "380",
+  "course_title": "Intermediate Forensic Science I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FSCT&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FSCT 380 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FSCT&course=380&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FSCT",
+      "course_number": "380",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": "Block registration for the forensic biology: DNA typing theory, quality assurance, and business management for forensic science courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science.  Registration is limited to students in the Joint Degree Program.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

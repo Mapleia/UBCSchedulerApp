@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 562",
+  "subject_code": "SPPH",
+  "course_number": "562",
+  "course_title": "Chemical and Biological Hazard Measurement",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=562&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 562 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=562&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Course is held entirely online.  To access course module, go to UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "562",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAVIES, HUGH WILLIAM"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "10",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Industrial hygiene and environmental exposure monitoring, methods, and instrumentation, and theory. Laboratories demonstrate workplace sampling and analysis techniques.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

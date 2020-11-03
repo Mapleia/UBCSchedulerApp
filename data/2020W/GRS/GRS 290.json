@@ -1,0 +1,72 @@
+{
+  "course_name": "GRS 290",
+  "subject_code": "GRS",
+  "course_number": "290",
+  "course_title": "Global Issues in Cultural Context",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRS&course=290&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "GRS 290 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=290&section=104&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is for GRS students who will be on exchange the entire academic year.",
+      "subject_code": "GRS",
+      "course_number": "290",
+      "section_number": "104",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAVKULICH, LESLIE"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    },
+    {
+      "status": "Restricted",
+      "section": "GRS 290 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=290&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "GRS",
+      "course_number": "290",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SKURA, BRENTON",
+        "DIAZ OSORIO, FERNANDA",
+        "GACAD, ALLISON"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "24"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken prior to studying abroad.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies",
+    "Web-Oriented Course"
+  ]
+}

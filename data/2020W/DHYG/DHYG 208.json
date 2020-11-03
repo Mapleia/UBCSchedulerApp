@@ -1,0 +1,41 @@
+{
+  "course_name": "DHYG 208",
+  "subject_code": "DHYG",
+  "course_number": "208",
+  "course_title": "Oral Health Sciences II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=208&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 208 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=208&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "208",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [],
+      "totalRemaining": "Required",
+      "currentlyRegistered": "Required",
+      "generalRemaining": "Required",
+      "restrictedRemaining": "Optional"
+    }
+  ],
+  "credits": "Credits: 12",
+  "description": "An introduction to desease-related concepts during the study of dental materials, general pathology, plaque biofilm, nutrition, radiology, periodontology, and oral pathology.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

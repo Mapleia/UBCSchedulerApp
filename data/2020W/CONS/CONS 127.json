@@ -1,0 +1,43 @@
+{
+  "course_name": "CONS 127",
+  "subject_code": "CONS",
+  "course_number": "127",
+  "course_title": "Observing the Earth from Space",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=127&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CONS 127 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=127&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Please note that for the 20W CONS 127 will only be offered as a Web-Oriented Course (WEB)This course meets the BA Science Requirement - http://www.calendar.ubc.ca/vancouver/?tree=12,197,282,55",
+      "subject_code": "CONS",
+      "course_number": "127",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COOPS, NICHOLAS CHARLES"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "399",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Exploration of innovative Earth observation and other geospatial technologies and how they allow us to better understand the changing Earth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

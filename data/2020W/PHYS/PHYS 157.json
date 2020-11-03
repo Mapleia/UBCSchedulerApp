@@ -1,0 +1,605 @@
+{
+  "course_name": "PHYS 157",
+  "subject_code": "PHYS",
+  "course_number": "157",
+  "course_title": "Introductory Physics for Engineers I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=157&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PHYS 157 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Do NOT contact course instructor for registration help. Students will be moved into regular sections from the wait list sections: lecture 1WL; tutorial T1W. For section change requests, please use section change request form: https://courses.phas.ubc.ca/ugSectionChange.html",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIERKER, STEVEN",
+        "VAN RAAMSDONK, MARK",
+        "ZHOU, FEI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Do NOT contact course instructor for registration help. Students will be moved into regular sections from the wait list sections: lecture 1WL; tutorial T1W. For section change requests, please use section change request form: https://courses.phas.ubc.ca/ugSectionChange.html",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIERKER, STEVEN",
+        "VAN RAAMSDONK, MARK",
+        "ZHOU, FEI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Do NOT contact course instructor for registration help. Students will be moved into regular sections from the wait list sections: lecture 1WL; tutorial T1W. For section change requests, please use section change request form: https://courses.phas.ubc.ca/ugSectionChange.html",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIERKER, STEVEN",
+        "VAN RAAMSDONK, MARK",
+        "ZHOU, FEI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHYS 157 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is only open to APSC students who need to repeat PHYS 157 (who failed the course previously).",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCUTCHEON, WILLIAM"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.*This section is reserved for students living outside of the Pacific Standard Time Zone*",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1F&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1H&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "13:30",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "PHYS 157 T1I",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1I&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "All tutorial sections for 2020W Term 1 will be run online.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1I",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "79",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1J",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1J&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1J",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1K&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "PHYS 157 T1L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1L&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "80",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 T1P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1P&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 157 1WL",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=1WL&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "1WL",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "75",
+      "currentlyRegistered": "0",
+      "generalRemaining": "75",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 157 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "13:30",
+      "comments": "All tutorials in 2020W Term 2 will be run online.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "57",
+      "currentlyRegistered": "12",
+      "generalRemaining": "57",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 157 2WL",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=2WL&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "2WL",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "PHYS 157 9AR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=9AR&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "9AR",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 157 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=157&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "157",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Heat, thermodynamics, oscillations, waves, and sound. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List",
+    "Lecture"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "course_name": "PERS 300",
+  "subject_code": "PERS",
+  "course_number": "300",
+  "course_title": "Intermediate-High Persian I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PERS&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PERS 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PERS&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course is designed for Iranian students who have finished grade 4 or lower at Iranian schools. Main goals of this class are developing skills in reading and writing in Persian, advancing Knowledge of Persian grammar and vocabulary, improving reading skill and developing a greater familiarity with Persian culture.Prerequisites: Open to those who were born in Iran and studied in Iran up to (but not beyond) grade 6 before coming to Canada.The benefits of Persian courses for Heritage speakers are:\"\tPolish both oral and written language skills.\"\tLearn more about your language and your cultural heritage.\"\tMeet students with similar interests and experiences.\"\tIncrease career opportunities.\"\tTake classes that count towards a language requirementTo secure a place in a Persian language course, attendance in all class meetings is mandatory during the first week of classes. Students with unexcused absences will be dropped from the course.If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "PERS",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEHRI, RASTIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PERS 300 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PERS&course=300&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "PERS",
+      "course_number": "300",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEHRI, RASTIN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Graded reading, writing, exposure to textual history, newspaper reading, and translation. Cultural materials presented as appropriate.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

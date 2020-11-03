@@ -1,0 +1,46 @@
+{
+  "course_name": "MATH 418",
+  "subject_code": "MATH",
+  "course_number": "418",
+  "course_title": "Probability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=418&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 418 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=418&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "418",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SLADE, GORDON",
+        "SLADE, GORDON(Coordinator)"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Probability spaces, random variables, distributions, expectation, conditional probabilities, convergence of random variables, generating and characteristic functions, weak and strong laws of large numbers, central limit theorem.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

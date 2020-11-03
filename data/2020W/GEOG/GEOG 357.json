@@ -1,0 +1,74 @@
+{
+  "course_name": "GEOG 357",
+  "subject_code": "GEOG",
+  "course_number": "357",
+  "course_title": "Introduction to Social Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=357&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 357 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=357&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Mix of asynchronous and synchronous components: Several synchronous online discussions held during the scheduled class time.",
+      "subject_code": "GEOG",
+      "course_number": "357",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "79",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 357 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=357&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 357, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "357",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The development of social and behavioural geography, focusing on how places, landscapes, and enviromments both reflect and shape social life.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

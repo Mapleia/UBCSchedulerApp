@@ -1,0 +1,98 @@
+{
+  "course_name": "WOOD 482",
+  "subject_code": "WOOD",
+  "course_number": "482",
+  "course_title": "CAD/CAM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=482&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 482 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=482&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "482",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, VINCENT"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "41",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 482 LA1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=482&section=LA1&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "482",
+      "section_number": "LA1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, VINCENT"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "26",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 482 LA2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=482&section=LA2&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "482",
+      "section_number": "LA2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, VINCENT"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "14",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Introduction to computer assisted design and manufacturing with a focus on the fundamental issues of geometry and machine tools including an understanding of standard computer tools. Applications to secondary wood products manufacturing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

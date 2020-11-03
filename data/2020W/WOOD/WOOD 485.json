@@ -1,0 +1,70 @@
+{
+  "course_name": "WOOD 485",
+  "subject_code": "WOOD",
+  "course_number": "485",
+  "course_title": "Furniture Construction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=485&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 485 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=485&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "485",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "22",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 485 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=485&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "485",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "20",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The theory and practice of modern construction techniques used in the manufacture of furniture and cabinets.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

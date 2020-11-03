@@ -1,0 +1,43 @@
+{
+  "course_name": "EPSE 633",
+  "subject_code": "EPSE",
+  "course_number": "633",
+  "course_title": "Community-Based Services",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=633&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 633 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=633&section=074&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "633",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FORD, LAURIE"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

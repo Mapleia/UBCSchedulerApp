@@ -1,0 +1,153 @@
+{
+  "course_name": "COMM 455",
+  "subject_code": "COMM",
+  "course_number": "455",
+  "course_title": "Principles of Auditing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 455 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=455&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "455",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 455 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=455&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "455",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 455 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=455&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "455",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 455 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=455&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "455",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 455 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=455&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "455",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of internal control, audit evidence, sampling and testing; audit reports; standards; responsibilities of the external auditor.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

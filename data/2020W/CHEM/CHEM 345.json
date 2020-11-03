@@ -1,0 +1,251 @@
+{
+  "course_name": "CHEM 345",
+  "subject_code": "CHEM",
+  "course_number": "345",
+  "course_title": "Integrated Chemistry Laboratory II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=345&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 345 113",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=113&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "113",
+      "building": "Chemistry",
+      "room": "B450",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "STOODLEY, ROBIN",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 345 115",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=115&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "115",
+      "building": "Chemistry",
+      "room": "B450",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "STOODLEY, ROBIN",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 345 135",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=135&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "135",
+      "building": "Chemistry",
+      "room": "B450",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "STOODLEY, ROBIN",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 345 213",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=213&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "213",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "KIL, RICHARD",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 345 215",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=215&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "215",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "KIL, RICHARD",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 345 235",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=235&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "235",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUSSIERE, GUILLAUME",
+        "KIL, RICHARD",
+        "RUEDA BECERRIL, MONTSERRAT",
+        "TERPSTRA, ANDREA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "CHEM 345 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This waitlist is for first-term placement only.  You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 345 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=345&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This waitlist is for second-term placement only.  You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "345",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "10",
+      "generalRemaining": "17",
+      "restrictedRemaining": "23"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Further development of principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry.   Open only to students in Chemistry Major or Honours specializations.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Laboratory",
+    "Waiting List"
+  ]
+}

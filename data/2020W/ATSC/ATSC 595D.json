@@ -1,0 +1,70 @@
+{
+  "course_name": "ATSC 595D",
+  "subject_code": "ATSC",
+  "course_number": "595D",
+  "course_title": "Directed Studies - DIRECT STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=595D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ATSC 595D 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=595D&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "595D",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ATSC 595D 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=595D&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "595D",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

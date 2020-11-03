@@ -1,0 +1,72 @@
+{
+  "course_name": "LAW 379B",
+  "subject_code": "LAW",
+  "course_number": "379B",
+  "course_title": "Externship - EXTERNSHIP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=379B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 379B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=379B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "Registration by permission only.  This class fulfills the Experiential Learning requirement.",
+      "subject_code": "LAW",
+      "course_number": "379B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACK, RYAN",
+        "GRATTON, TYSON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 379B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=379B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "Registration by permission only.  This class fulfills the Experiential Learning requirement.",
+      "subject_code": "LAW",
+      "course_number": "379B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACK, RYAN",
+        "GRATTON, TYSON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Students work for an approved organization, supervised by a Faculty-approved mentor and a faculty member. Consult the Faculty for full eligibility criteria.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

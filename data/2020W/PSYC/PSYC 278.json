@@ -1,0 +1,97 @@
+{
+  "course_name": "PSYC 278",
+  "subject_code": "PSYC",
+  "course_number": "278",
+  "course_title": "Analysis of Behavioural and Neuroscientific Data",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=278&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 278 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=278&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "278",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ENNS, JAMES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 278 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=278&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "278",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 278 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=278&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "278",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Statistical methods for use in behavioural neuroscience. Credit will be granted for only one of PSYC 218 or PSYC 278.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

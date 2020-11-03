@@ -1,0 +1,72 @@
+{
+  "course_name": "PHYS 348",
+  "subject_code": "PHYS",
+  "course_number": "348",
+  "course_title": "Frontiers in Physics and Astronomy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=348&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHYS 348 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=348&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "348",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCKENNA, JANIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 348 10W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=348&section=10W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "WAIT LISTSINCE SECTION 10W IS A WAITLIST ONLY, A PLACE IN SECTION 10W DOES NOT GUARANTEE A PLACE IN PHYS 348.",
+      "subject_code": "PHYS",
+      "course_number": "348",
+      "section_number": "10W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Current research topics in physics and astronomy are investigated and explored. Technical communication and research skills are studied and developed via oral presentations and written scientific reports on these current research topics.\n",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "course_name": "THTR 299A",
+  "subject_code": "THTR",
+  "course_number": "299A",
+  "course_title": "Production I - PRODUCTION I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=299A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 299A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=299A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Theatre 299A has co-requisites:  students should also register in at least one of THTR 205A, 205B or THTR 254. Please contact the Department if you are having trouble registering in this course.",
+      "subject_code": "THTR",
+      "course_number": "299A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALATORRE, CARMEN",
+        "BERG, COLLETTE",
+        "FIRKINS, JACQUELINE",
+        "GARDINER, ROBERT",
+        "KLIPPENSTEIN, VICTORIA",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK",
+        "YOUNG, HEATHER"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Assigned projects in theatre production.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

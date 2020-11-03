@@ -1,0 +1,72 @@
+{
+  "course_name": "BIOL 459",
+  "subject_code": "BIOL",
+  "course_number": "459",
+  "course_title": "Neurobiology of Sensory and Motor Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=459&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 459 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=459&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "459",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORDON, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 459 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=459&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 459-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "459",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analysis of the mechanisms of sensory processing and motor orchestration using vertebrate and invertebrate model systems.  Neural circuit structure, specialization, information coding, integration, and behaviour.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "MUSC 340",
+  "subject_code": "MUSC",
+  "course_number": "340",
+  "course_title": "Piano Pedagogy I: Theory and Studio Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=340&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 340 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=340&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "2020W Format:  Every week, students study online course materials on their own time (asynchronously), and attend one online 80-minute online tutorial, Thursdays 1-2:20 pm. All class observations will be arranged to be online with specific teaching mentors in the community. These will be scheduled between the 340 student and the teaching mentor.Offered in even academic years (alternates with 440).  Registration restricted to BMUS students; others may take it with permission of the instructor.",
+      "subject_code": "MUSC",
+      "course_number": "340",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANDERSON, LEONARD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic principles of teaching piano. Business aspects of establishing and maintaining a music studio. For Piano Performance majors; open to other Bachelor of Music students by permission of the instructor.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

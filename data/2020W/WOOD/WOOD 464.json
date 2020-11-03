@@ -1,0 +1,156 @@
+{
+  "course_name": "WOOD 464",
+  "subject_code": "WOOD",
+  "course_number": "464",
+  "course_title": "Wood Finishing and Protection",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 464 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=464&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "464",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, PHILIP DAVID"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "38",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 464 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=464&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "464",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, PHILIP DAVID"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 464 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=464&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "464",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, PHILIP DAVID"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "38",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 464 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=464&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "20:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "464",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, PHILIP DAVID"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "WOOD 464 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=464&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "464",
+      "section_number": "L01",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "60",
+        "0",
+        "60",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Introduction to polymeric coatings and finishes used in the wood products industry; surface preparation, application equipment and properties of various coatings; wood deterioration and its protection for external applications.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Laboratory"
+  ]
+}

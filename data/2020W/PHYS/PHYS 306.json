@@ -1,0 +1,98 @@
+{
+  "course_name": "PHYS 306",
+  "subject_code": "PHYS",
+  "course_number": "306",
+  "course_title": "Advanced Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 306 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=306&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "306",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROTTLER, JOERG"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "60",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 306 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=306&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:30",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "306",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "34",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 306 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=306&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "306",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "26",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Variational calculus, Lagrangian dynamics, rigid body motion including free and forced precession, Hamiltonian mechanics, Poisson brackets, canonical coordinates, Hamilton-Jacobi theory, action angle variables. Introduction to dynamical chaos: determinism, Lyapunov exponents.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

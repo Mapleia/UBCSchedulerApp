@@ -1,0 +1,43 @@
+{
+  "course_name": "ECON 495",
+  "subject_code": "ECON",
+  "course_number": "495",
+  "course_title": "Honours Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 495 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=495&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:30",
+      "comments": "This is a Web - Oriented course.",
+      "subject_code": "ECON",
+      "course_number": "495",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REHAVI, MICHAL"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "6",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Reports and group discussions of selected topics for fourth-year Honours students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

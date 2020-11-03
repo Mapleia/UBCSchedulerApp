@@ -1,0 +1,99 @@
+{
+  "course_name": "MECH 464",
+  "subject_code": "MECH",
+  "course_number": "464",
+  "course_title": "Industrial Robotics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 464 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=464&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "464",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SALCUDEAN, SEPTIMIU"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 464 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=464&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "464",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SALCUDEAN, SEPTIMIU"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 464 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=464&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "464",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Definition and classification of industrial robotic devices. Selection and implementation issues. Workcell environments. Forward and inverse kinematics, dynamics, trajectory planning. Sensing and manipulation tasks. Control architectures. Credit will be granted for only one of ELEC 442, EECE 571R, EECE 589, MECH 464, or MECH 563.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

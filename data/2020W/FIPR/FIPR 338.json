@@ -1,0 +1,70 @@
+{
+  "course_name": "FIPR 338",
+  "subject_code": "FIPR",
+  "course_number": "338",
+  "course_title": "Motion Picture Sound",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=338&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FIPR 338 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=338&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Restricted to BFA majors in Film Production. This course is held in BUCH B202 Computer Lab. If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR 338, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/* every second week starting with start week^ every second week starting with week following start week",
+      "subject_code": "FIPR",
+      "course_number": "338",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "104",
+      "instructors": [
+        "AUCOIN, JUSTIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "FIPR 338 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=338&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This is a WAIT LIST section for FIPR 338, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/* every second week starting with start week^ every second week starting with week following start week",
+      "subject_code": "FIPR",
+      "course_number": "338",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the technique and aesthetics of creating production and post-production sound for film and media.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

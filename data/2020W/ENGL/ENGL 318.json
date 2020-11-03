@@ -1,0 +1,44 @@
+{
+  "course_name": "ENGL 318",
+  "subject_code": "ENGL",
+  "course_number": "318",
+  "course_title": "History of the English Language: Early History",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=318&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 318 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=318&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "318",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLAKE, SUSAN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "37",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of language change and language typology. The development of the English language from its Indo-European origins to the end of the Anglo-Saxon period.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

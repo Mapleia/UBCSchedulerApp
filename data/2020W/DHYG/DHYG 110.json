@@ -1,0 +1,43 @@
+{
+  "course_name": "DHYG 110",
+  "subject_code": "DHYG",
+  "course_number": "110",
+  "course_title": "Dental Hygiene Theory and Practice I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 110 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=110&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "110",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANJI, ZUL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the Dental Hygiene profession, practice roles and the process of care model.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}
