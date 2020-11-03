@@ -1,0 +1,69 @@
+{
+  "Course List": ["CPSC 210", "BIOL 112"],
+  "Term": "2020W",
+  "Schedule": {
+    "Term1": [
+      {
+        "status": "Blocked",
+        "section": "BIOL 112 101",
+        "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=112&section=101&sessyr=2020&sesscd=W",
+        "activity": "Web-Oriented Course",
+        "term": "1",
+        "interval": "",
+        "days": [
+          "MON",
+          "WED",
+          "FRI"
+        ],
+        "start": "09:00",
+        "end": "10:00",
+        "comments": "",
+        "subject_code": "BIOL",
+        "course_number": "112",
+        "section_number": "101",
+        "building": " ",
+        "room": "",
+        "instructors": [
+          "SMITH, KAREN",
+          "SMITH, KAREN(Coordinator)",
+          "METCALFE-ROACH, AVRIL",
+          "RASHIDABADI, FAHIMEH",
+          "WANG, NICOLE"
+        ],
+        "totalRemaining": "0",
+        "currentlyRegistered": "266",
+        "generalRemaining": "0",
+        "restrictedRemaining": "0"
+      },
+      {
+        "status": " ",
+        "section": "BIOL 112 T01",
+        "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=112&section=T01&sessyr=2020&sesscd=W",
+        "activity": "Tutorial",
+        "term": "1",
+        "interval": "",
+        "days": [
+          "MON"
+        ],
+        "start": "08:00",
+        "end": "09:00",
+        "comments": "",
+        "subject_code": "BIOL",
+        "course_number": "112",
+        "section_number": "T01",
+        "building": " ",
+        "room": "",
+        "instructors": [
+          "TBA",
+          "RASHIDABADI, FAHIMEH"
+        ],
+        "totalRemaining": "1",
+        "currentlyRegistered": "24",
+        "generalRemaining": "1",
+        "restrictedRemaining": "0"
+      }
+
+    ],
+    "Term2": []
+  }
+}

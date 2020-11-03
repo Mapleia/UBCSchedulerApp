@@ -1,0 +1,96 @@
+{
+  "course_name": "PLAN 595",
+  "subject_code": "PLAN",
+  "course_number": "595",
+  "course_title": "Facilitation, Negotiation and Conflict Resolution for Planners",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=595&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 595 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=595&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Course requirement for MCRP students in the Indigenous Community Planning (ICP) concentration. Priority registration given to MCRP students in the ICP concentration. Students not in the ICP concentration may register for the waitlist.",
+      "subject_code": "PLAN",
+      "course_number": "595",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ERFAN, AFTAB"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": "Restricted",
+      "section": "PLAN 595 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=595&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "For SCARP students only.",
+      "subject_code": "PLAN",
+      "course_number": "595",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ERFAN, AFTAB"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 595 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=595&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "For non-SCARP students.",
+      "subject_code": "PLAN",
+      "course_number": "595",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}
