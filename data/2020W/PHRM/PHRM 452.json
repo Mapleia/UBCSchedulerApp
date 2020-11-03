@@ -1,0 +1,46 @@
+{
+  "course_name": "PHRM 452",
+  "subject_code": "PHRM",
+  "course_number": "452",
+  "course_title": "Patient Assessment Skills",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 452 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=452&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Course Instructors: Ms. Penny Miller  and  Ms. Fairleth McCuaigStudents to register in PHRM 452 Section 002",
+      "subject_code": "PHRM",
+      "course_number": "452",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MCCUAIG, FAIRLETH",
+        "MCCUAIG, FAIRLETH(Coordinator)",
+        "MILLER, PENELOPE",
+        "MILLER, PENELOPE(Coordinator)"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "27"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Principles and practices of patient assessment, applied to the monitoring of drug efficacy and toxicity. Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

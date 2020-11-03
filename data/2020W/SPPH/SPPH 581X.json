@@ -1,0 +1,46 @@
+{
+  "course_name": "SPPH 581X",
+  "subject_code": "SPPH",
+  "course_number": "581X",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=581X&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "SPPH 581X 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=581X&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Course is delivered entirely online.  To access course module on UBC Canvas, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "581X",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "0",
+        "14",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "By seminar and directed readings, certain topics of current interest are explored in depth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

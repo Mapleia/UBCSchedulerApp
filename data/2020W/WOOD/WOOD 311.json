@@ -1,0 +1,43 @@
+{
+  "course_name": "WOOD 311",
+  "subject_code": "WOOD",
+  "course_number": "311",
+  "course_title": "Co-operative Work Placement II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 311 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=311&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "311",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

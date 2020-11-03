@@ -1,0 +1,157 @@
+{
+  "course_name": "WOOD 225",
+  "subject_code": "WOOD",
+  "course_number": "225",
+  "course_title": "Communications Strategies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=225&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 225 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=225&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "225",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVERIDGE, AUBREY"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "22",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 225 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=225&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "225",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVERIDGE, AUBREY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "23",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WOOD 225 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=225&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "225",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVERIDGE, AUBREY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WOOD 225 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=225&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "225",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVERIDGE, AUBREY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 225 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=225&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "225",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVERIDGE, AUBREY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing.  Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

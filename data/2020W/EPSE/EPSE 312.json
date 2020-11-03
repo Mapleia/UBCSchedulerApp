@@ -1,0 +1,70 @@
+{
+  "course_name": "EPSE 312",
+  "subject_code": "EPSE",
+  "course_number": "312",
+  "course_title": "Introduction to the Study of Exceptional Children",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=312&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 312 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=312&section=074&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPED - Restricted to:specialization SPED orspecialization IDSC orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "312",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEIKKILA, MARY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 312 W74",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=312&section=W74&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for EPSE 312 section 074  SPED - Restricted to:specialization SPED orspecialization IDSC orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "312",
+      "section_number": "W74",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An examination of all groups of exceptional children in terms of definition, incidence, characteristics, diagnosis and treatment. Prerequisite to most other courses in Special Education. Can be taken concurrently with several other introductory courses in Special Education.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

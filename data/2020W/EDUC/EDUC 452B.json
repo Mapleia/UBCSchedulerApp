@@ -1,0 +1,43 @@
+{
+  "course_name": "EDUC 452B",
+  "subject_code": "EDUC",
+  "course_number": "452B",
+  "course_title": "Inquiry Seminar III - INQUIRY SEMNR 3",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=452B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDUC 452B 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=452B&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDUC",
+      "course_number": "452B",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCOTT, SANDRA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

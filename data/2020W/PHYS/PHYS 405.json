@@ -1,0 +1,76 @@
+{
+  "course_name": "PHYS 405",
+  "subject_code": "PHYS",
+  "course_number": "405",
+  "course_title": "Radiation Biophysics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=405&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 405 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=405&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "405",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAKER, JENNIFER",
+        "KORBELIK, MLADEN",
+        "KOSZTYLA, ROBERT",
+        "MINCHINTON, ANDREW",
+        "MOISEENKO, VITALI",
+        "REINSBERG, STEFAN"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 405 10W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=405&section=10W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "405",
+      "section_number": "10W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Physical and chemical interactions of ionizing radiations and their biological effects at the cellular, tissue and whole-animal levels. Credit will be granted for only one of PHYS 405 or PHYS 536. See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "course_name": "FNH 480",
+  "subject_code": "FNH",
+  "course_number": "480",
+  "course_title": "Professional Dietetic Practice III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=480&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 480 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=480&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This course is restricted to students in 4th-Year of the Dietetics Major.",
+      "subject_code": "FNH",
+      "course_number": "480",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVY MILNE, RYNA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Skill development and application for practice education placements and dietetic practice settings.  Restricted to students in the Dietetics Major.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

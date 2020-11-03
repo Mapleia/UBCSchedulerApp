@@ -1,0 +1,44 @@
+{
+  "course_name": "CHBE 551",
+  "subject_code": "CHBE",
+  "course_number": "551",
+  "course_title": "Engineering Thermodynamics and Statistical Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=551&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 551 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=551&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "551",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SREBNIK, SIMCHA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "28"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Classical thermodynamic relations from a molecular perspective. Pressure-volume- temperature relations; chemical equilibria by Gibbs' method; vapor-liquid equilibria; thermodynamic calculations based on macroscopic and statistical methods; nonequilibrium processes; molecular simulations. Credit will be granted for only one of CHBE 451, CHBE 551.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

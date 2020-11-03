@@ -1,0 +1,129 @@
+{
+  "course_name": "MICB 402",
+  "subject_code": "MICB",
+  "course_number": "402",
+  "course_title": "Advanced Immunology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 402 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=402&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "All tutorials will be online.  Some tutorial times are not showing properly.  Please click on the Section Comments for each tutorial to see the times.  Additional tutorial sections may be added during the summer.Registration questions should be directed to Dr. Kion, tkion@mail.ubc.ca.Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21",
+      "subject_code": "MICB",
+      "course_number": "402",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HARDER, KENNETH",
+        "LEVINGS, MEGAN",
+        "SADARANGANI, MANISH"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "57",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 402 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=402&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "All tutorials will be online.  Additional tutorial sections may be added during the summer.This section is offered Thursday 11 am.",
+      "subject_code": "MICB",
+      "course_number": "402",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HARDER, KENNETH"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "45",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 402 T03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=402&section=T03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "13:30",
+      "comments": "All tutorials will be online.  Additional tutorial sections may be added during the summer.This section is offered Tuesday 12:30 pm.",
+      "subject_code": "MICB",
+      "course_number": "402",
+      "section_number": "T03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HARDER, KENNETH"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "10",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 402 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=402&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "402",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Molecular basis of lymphocyte development, activation and adhesion; immunogenetics and the major histocompatibility complex. Consult the credit exclusion list within the Faculty of Science section of the calendar.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

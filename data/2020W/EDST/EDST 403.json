@@ -1,0 +1,175 @@
+{
+  "course_name": "EDST 403",
+  "subject_code": "EDST",
+  "course_number": "403",
+  "course_title": "Education, Knowledge, and Curriculum",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "EDST 403 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OPINI, BATHSEBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDST 403 105",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=105&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "105",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEONE, HELENE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDST 403 109",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=109&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "109",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OPINI, BATHSEBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDST 403 623",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=623&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to students at the Cariboo Field Centre.",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "623",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DIAZ, CLAUDIA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDST 403 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WRIGHT, HANDEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDST 403 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=403&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "EDST",
+      "course_number": "403",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WRIGHT, HANDEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

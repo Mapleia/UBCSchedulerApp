@@ -1,0 +1,43 @@
+{
+  "course_name": "CPEN 513",
+  "subject_code": "CPEN",
+  "course_number": "513",
+  "course_title": "CAD Algorithms for Integrated Circuits",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=513&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 513 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=513&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "513",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILTON, STEVEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Credit will only be given for one of CPEN 513 or EECE 583",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

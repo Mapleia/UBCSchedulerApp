@@ -1,0 +1,73 @@
+{
+  "course_name": "POLI 380",
+  "subject_code": "POLI",
+  "course_number": "380",
+  "course_title": "Quantitative Methods in Political Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "POLI 380 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=380&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "380",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CUTLER, FREDERICK",
+        "RIVARD, ALEXANDRE",
+        "ROJAS LOZANO, DANIEL",
+        "ZHUMATOVA, SALTANAT"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "167",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": "Restricted",
+      "section": "POLI 380 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=380&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "380",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OWEN, ANDREW"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "153",
+      "generalRemaining": "0",
+      "restrictedRemaining": "27"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to quantitative methods as utilized in the study of Political Science. Not available for credit in the Faculty of Commerce and Business Administration.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

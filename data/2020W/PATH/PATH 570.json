@@ -1,0 +1,43 @@
+{
+  "course_name": "PATH 570",
+  "subject_code": "PATH",
+  "course_number": "570",
+  "course_title": "Cardiovascular Pathophysiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=570&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 570 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=570&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Location: St. Paul's Hospital - Conference Room 6 or 8, 1st Floor Providence Building. Cross-listed with MEDI 570. This course is restricted to students with one of these specializations: ****PATH AND in one of these faculties: GRAD",
+      "subject_code": "PATH",
+      "course_number": "570",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SEIDMAN, MICHAEL"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pathogenesis, abnormal physiology, and therapeutic approaches in heart disease including cardiac arrhythmia, heart failure, myocardial infarction, hypertension, atherosclerosis.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

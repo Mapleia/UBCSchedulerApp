@@ -1,0 +1,45 @@
+{
+  "course_name": "LAW 543D",
+  "subject_code": "LAW",
+  "course_number": "543D",
+  "course_title": "Topics in Public Law - TPCS PUBLIC LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=543D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 543D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=543D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "543D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOOGSTRATEN, MARY",
+        "HUGHES, JACQUELINE",
+        "KRUEGER, NAOMI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Credit will only be granted for one of LAW 543 or LAW 343.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

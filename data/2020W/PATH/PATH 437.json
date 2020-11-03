@@ -1,0 +1,45 @@
+{
+  "course_name": "PATH 437",
+  "subject_code": "PATH",
+  "course_number": "437",
+  "course_title": "Viral Infections in Humans",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=437&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PATH 437 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=437&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is cross-listed with MICB 407.",
+      "subject_code": "PATH",
+      "course_number": "437",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HORWITZ, MARC",
+        "MOUAT, ISOBEL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Interactions between viruses and humans; pathogenesis; prompt virological diagnosis; rationale for antiviral chemotherapy and prophylaxis.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

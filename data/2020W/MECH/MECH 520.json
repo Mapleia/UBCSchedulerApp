@@ -1,0 +1,71 @@
+{
+  "course_name": "MECH 520",
+  "subject_code": "MECH",
+  "course_number": "520",
+  "course_title": "Control Sensors and Actuators",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=520&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 520 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=520&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "520",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "16",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 520 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=520&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "520",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Review of control, instrumentation and design. Performance specification of control components, component matching, error analysis. Operating principles, analysis, modelling, design considerations of control sensors and actuators such as analog sensors for motion measurement, digital transducers, stepper motors, DC motors, induction motors, synchronous motors, and hydraulic actuators. Control techniques pertaining to actuators. Applications.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

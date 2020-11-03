@@ -1,0 +1,99 @@
+{
+  "course_name": "CHEM 110",
+  "subject_code": "CHEM",
+  "course_number": "110",
+  "course_title": "Structure, Bonding and Equilibrium in Chemistry (Lecture)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 110 112",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=110&section=112&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "CHEM110 is the lecture portion of the former CHEM111.",
+      "subject_code": "CHEM",
+      "course_number": "110",
+      "section_number": "112",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GARCIA CHAVEZ, MIGUEL ANGEL"
+      ],
+      "totalRemaining": "69",
+      "currentlyRegistered": "181",
+      "generalRemaining": "0",
+      "restrictedRemaining": "69"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 110 M07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=110&section=M07&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "20:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "110",
+      "section_number": "M07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GARCIA CHAVEZ, MIGUEL ANGEL"
+      ],
+      "totalRemaining": "169",
+      "currentlyRegistered": "181",
+      "generalRemaining": "8",
+      "restrictedRemaining": "161"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 110 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=110&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "110",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "250",
+      "currentlyRegistered": "0",
+      "generalRemaining": "250",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

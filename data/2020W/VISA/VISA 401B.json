@@ -1,0 +1,70 @@
+{
+  "course_name": "VISA 401B",
+  "subject_code": "VISA",
+  "course_number": "401B",
+  "course_title": "Advanced Open Studio - ADV OPEN STUDIO",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=401B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 401B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=401B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 401B will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements).This course focuses on the development of the individual practice of each student within the context of contemporary print. Concepts related to the matrix, imprint, index, mechanics of the medium, and multiplicity will be explored, and current theoretical texts discussed. Innovative traditional and non-traditional approaches to print media and printed matter may be explored. This includes the intersection of print with digital imaging, drawing, painting, book arts, sculpture, video, and performance and installation art.",
+      "subject_code": "VISA",
+      "course_number": "401B",
+      "section_number": "001",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "1002",
+      "instructors": [
+        "ZEIGLER, BARBARA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 401B 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=401B&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "VISA 401B 01W is the waitlist for VISA 401B 001. Students will be moved off the waitlist into the class as seats become available and then notified of their registration via email. Note that registering on the waitlist does not guarantee you a seat in the course.",
+      "subject_code": "VISA",
+      "course_number": "401B",
+      "section_number": "01W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "99"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Research-based studio with thematic or disciplinary focus.  Intended for senior Visual Art undergraduate students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

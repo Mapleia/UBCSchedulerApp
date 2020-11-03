@@ -1,0 +1,102 @@
+{
+  "course_name": "BMEG 210",
+  "subject_code": "BMEG",
+  "course_number": "210",
+  "course_title": "Thermodynamics in Biomedical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 210 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=210&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "210",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 210 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=210&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "210",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "BMEG 210 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=210&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "210",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Work, heat and energy; material and energy balances; the first law and second law of thermodynamics; entropy and process reversibility; availability (energy) analysis; Hess's Law; thermodynamic properties of fluids; and applications to biomedical systems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

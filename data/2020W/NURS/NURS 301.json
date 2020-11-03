@@ -1,0 +1,74 @@
+{
+  "course_name": "NURS 301",
+  "subject_code": "NURS",
+  "course_number": "301",
+  "course_title": "Theoretical Perspectives in Nursing: Primary Health Care",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "NURS 301 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=301&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "301",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DHARI, RANJIT KAUR"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "NURS 301 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=301&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "301",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "61",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analysis and application of theories, concepts, evidence and competencies guiding professional nursing practice in the context of primary health care. Students who take NURS 342 cannot earn credit for NURS 336 or NURS 402.\n",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

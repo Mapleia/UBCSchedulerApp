@@ -1,0 +1,70 @@
+{
+  "course_name": "GRSJ 415",
+  "subject_code": "GRSJ",
+  "course_number": "415",
+  "course_title": "Critical Racial and Anti-Colonial Feminist Approaches",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 415 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=415&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "415",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 415 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=415&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "415",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Critical anti-colonial and feminist analyses of colonial and racial subjugation, as well as the many modalities of indigenous and minority resistance.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

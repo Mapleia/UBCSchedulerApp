@@ -1,0 +1,72 @@
+{
+  "course_name": "THTR 311",
+  "subject_code": "THTR",
+  "course_number": "311",
+  "course_title": "Studies in Drama",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - THTR 311, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/THTR 311: Intercultural Theatre: This course examines the historical and contemporary practices and critical debates of intercultural performance. Topic include: pre- and early 20th century European encounters of Asian theatre, intercultural theatre productions and debates of the 1980s and 1990s, Asian Shakespeare productions, and contemporary intercultural performance in North America.  Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "THTR",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIU, SIYUAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 311 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=311&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is a WAIT LIST section for THTR 311, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: https://theatrefilm.ubc.ca/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "311",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics will vary from year to year.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

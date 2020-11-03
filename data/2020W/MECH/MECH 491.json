@@ -1,0 +1,70 @@
+{
+  "course_name": "MECH 491",
+  "subject_code": "MECH",
+  "course_number": "491",
+  "course_title": "Computer-Aided Manufacturing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 491 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=491&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "491",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COJOCARU, SERBAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 491 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=491&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "491",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COJOCARU, SERBAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "NC programming and machining with interactive CAD/CAM systems. Curve and surface geometry for tool-path generation. Tool-path generation methodologies. Geometric modelling techniques for simulation and verification of manufacturing processes. Introduction to Computer-Aided Process Planning. Supplementary tutorial laboratory experiments.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

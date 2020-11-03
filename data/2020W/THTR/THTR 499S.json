@@ -1,0 +1,43 @@
+{
+  "course_name": "THTR 499S",
+  "subject_code": "THTR",
+  "course_number": "499S",
+  "course_title": "Production III - PRODUCTION III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=499S&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 499S 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=499S&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Sound Practicum, please consult the instructor.",
+      "subject_code": "THTR",
+      "course_number": "499S",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "2",
+      "instructors": [
+        "PENNEFATHER, PATRICK"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Assigned projects in Theatre or Film design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

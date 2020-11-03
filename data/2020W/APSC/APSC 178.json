@@ -1,0 +1,97 @@
+{
+  "course_name": "APSC 178",
+  "subject_code": "APSC",
+  "course_number": "178",
+  "course_title": "Electricity, Magnetism, and Waves",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=178&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "APSC 178 VE1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=178&section=VE1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "178",
+      "section_number": "VE1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTAVAS, SALOOME"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 178 VT1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=178&section=VT1&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "178",
+      "section_number": "VT1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 178 VT2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=178&section=VT2&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "178",
+      "section_number": "VT2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Coulomb's law, electric field, Gauss' law, electric potential, conductors, capacitance, electric currents, resistance, DC circuits, magnetic fields and forces, sources of magnetic fields, electromagnetic induction, mechanical waves, electromagnetic waves, light propagation, geometrical optics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

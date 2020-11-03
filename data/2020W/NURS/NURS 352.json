@@ -1,0 +1,43 @@
+{
+  "course_name": "NURS 352",
+  "subject_code": "NURS",
+  "course_number": "352",
+  "course_title": "Relational and Ethical Nursing Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "NURS 352 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=352&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "352",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOSCHMA, GEERTJE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "120",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Relational theoretical underpinnings of nursing practice and healthcare ethics are critically examined. Students who take NURS 352 cannot earn credit for NURS 304, NURS 338 or NURS 341.\n",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

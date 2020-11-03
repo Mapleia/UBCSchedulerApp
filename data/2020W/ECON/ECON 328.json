@@ -1,0 +1,97 @@
+{
+  "course_name": "ECON 328",
+  "subject_code": "ECON",
+  "course_number": "328",
+  "course_title": "Methods of Empirical Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=328&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ECON 328 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=328&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "328",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOFFMANN, FLORIAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 328 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=328&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "328",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 328 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=328&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "328",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Empirical tools used in applied research, with emphasis on the linear regression model. Registration restricted to students in the Bachelor of International Economics program. Credit will be granted for only one of ECON 326, ECON 328, or STAT 306; please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

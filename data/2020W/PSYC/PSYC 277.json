@@ -1,0 +1,97 @@
+{
+  "course_name": "PSYC 277",
+  "subject_code": "PSYC",
+  "course_number": "277",
+  "course_title": "Behavioural and Neuroscientific Research Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=277&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 277 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=277&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "277",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORUC, IPEK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "101",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 277 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=277&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "277",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "51",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "PSYC 277 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=277&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "277",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Research methods used in behavioural neuroscience. Credit will be granted for only one of PSYC 217 or PSYC 277.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

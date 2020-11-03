@@ -1,0 +1,70 @@
+{
+  "course_name": "EOSC 398",
+  "subject_code": "EOSC",
+  "course_number": "398",
+  "course_title": "Co-operative Work Placement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 398 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=398&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "398",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EOSC 398 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=398&section=201&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "398",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 14 weeks. Normally taken in the Summer Session (Terms 1 and 2) following second year. Technical report required. Restricted to students admitted to the Co-operative Education Option in Earth, Ocean and Atmospheric Sciences.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

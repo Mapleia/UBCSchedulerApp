@@ -1,0 +1,44 @@
+{
+  "course_name": "EDCP 378",
+  "subject_code": "EDCP",
+  "course_number": "378",
+  "course_title": "Business Education II - Secondary: Curriculum and Pedagogy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=378&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 378 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=378&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "378",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BILN, HARMAN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

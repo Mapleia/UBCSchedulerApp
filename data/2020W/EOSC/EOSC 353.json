@@ -1,0 +1,72 @@
+{
+  "course_name": "EOSC 353",
+  "subject_code": "EOSC",
+  "course_number": "353",
+  "course_title": "Seismology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=353&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 353 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=353&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Course not offered in 2020W",
+      "subject_code": "EOSC",
+      "course_number": "353",
+      "section_number": "201",
+      "building": "Earth and Ocean Sciences",
+      "room": "121",
+      "instructors": [
+        "BOSTOCK, MICHAEL"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 353 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=353&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "353",
+      "section_number": "L2A",
+      "building": "Earth and Ocean Sciences",
+      "room": "210",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "22",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Hooke's law for isotropic continua, elastic wave equation, reflection and refraction methods for imaging the Earth's internal structure, plane waves in an infinite medium and interaction with boundaries, body wave seismology, inversion of travel-time curves, generalized ray theory, crustal seismology, surface waves and earthquake source studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "CHEM 401",
+  "subject_code": "CHEM",
+  "course_number": "401",
+  "course_title": "Principles of Spectroscopy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 401 299",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=401&section=299&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "401",
+      "section_number": "299",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOMOSE, TAKAMASA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "13",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Rotational, vibrational, electronic and magnetic resonance spectroscopy and associated techniques; group theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

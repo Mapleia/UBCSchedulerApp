@@ -1,0 +1,180 @@
+{
+  "course_name": "CHEM 210",
+  "subject_code": "CHEM",
+  "course_number": "210",
+  "course_title": "Introduction to Chemical Analysis (Lecture)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 210 188",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=188&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "CHEM210 is the lecture portion of the former CHEM211.  CHEM211 is not offered in term 1, 2020W.",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "188",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUAN, TAO"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "204",
+      "generalRemaining": "4",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 210 288",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=288&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "288",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "165",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 210 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "75",
+      "currentlyRegistered": "0",
+      "generalRemaining": "75",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 210 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "74",
+      "currentlyRegistered": "1",
+      "generalRemaining": "74",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 210 M07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=M07&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "M07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUAN, TAO"
+      ],
+      "totalRemaining": "79",
+      "currentlyRegistered": "121",
+      "generalRemaining": "79",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 210 Y07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=210&section=Y07&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "210",
+      "section_number": "Y07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "158",
+      "currentlyRegistered": "42",
+      "generalRemaining": "158",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Quantitative chemical analysis; chemical and physical principles of spectrophotometry, potentiometry, and chromatography. This course is not eligible for Credit/D/Fail grading.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Tutorial"
+  ]
+}

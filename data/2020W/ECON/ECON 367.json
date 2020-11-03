@@ -1,0 +1,72 @@
+{
+  "course_name": "ECON 367",
+  "subject_code": "ECON",
+  "course_number": "367",
+  "course_title": "Economic Analysis of Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=367&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 367 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=367&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "367",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GATEMAN, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "78",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 367 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=367&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "367",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "67",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The economics of market failure, equity and efficiency. Property rights, the economics of accident and contract law, economic theories of law enforcement.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "ECON 371",
+  "subject_code": "ECON",
+  "course_number": "371",
+  "course_title": "Economics of the Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 371 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=371&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "371",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAYLIS, PATRICK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "145",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 371 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=371&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "371",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VANEY, MICHAEL"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "89",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Economic analysis applied to various environmental issues, including sustainable development, quality of life, and environmental impacts of specific industrial and consumption activities. The design and implementation of government policies. Global environmental effects of human economic activity.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

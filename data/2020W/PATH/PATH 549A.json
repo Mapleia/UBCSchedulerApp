@@ -1,0 +1,97 @@
+{
+  "course_name": "PATH 549A",
+  "subject_code": "PATH",
+  "course_number": "549A",
+  "course_title": "M.Sc. Thesis - MSC THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "07:30",
+      "comments": "",
+      "subject_code": "PATH",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "25",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PATH 549A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=549A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "07:30",
+      "comments": "",
+      "subject_code": "PATH",
+      "course_number": "549A",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PATH 549A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=549A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "07:30",
+      "comments": "",
+      "subject_code": "PATH",
+      "course_number": "549A",
+      "section_number": "003",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 18",
+  "description": "Honours/Pass/Fail.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "CRWR 308",
+  "subject_code": "CRWR",
+  "course_number": "308",
+  "course_title": "Intermediate Writing for Graphic Forms",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=308&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 308 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=308&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. Classes may include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual courses/sections.",
+      "subject_code": "CRWR",
+      "course_number": "308",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEAVITT, SARAH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 308 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=308&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 2 (January-April) courses/sections will be held online. This particular course will be asynchronous, though there may be a few synchronous full-class or small-group activities.",
+      "subject_code": "CRWR",
+      "course_number": "308",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEAVITT, SARAH"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "32",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The writing of graphica (comics, manga and graphic novels), using a combination of workshopping and online modules. Manuscript submission not required for admission.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

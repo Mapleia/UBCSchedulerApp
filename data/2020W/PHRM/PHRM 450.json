@@ -1,0 +1,44 @@
+{
+  "course_name": "PHRM 450",
+  "subject_code": "PHRM",
+  "course_number": "450",
+  "course_title": "PharmD Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=450&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 450 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=450&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "450",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PAMMETT, ROBERT",
+        "PAMMETT, ROBERT(Coordinator)"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Seminar course about current and potential roles for pharmacists. Students will also deliver an individual and a group seminar. Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

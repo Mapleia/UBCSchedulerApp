@@ -1,0 +1,44 @@
+{
+  "course_name": "COEC 294",
+  "subject_code": "COEC",
+  "course_number": "294",
+  "course_title": "Managerial Accounting",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COEC&course=294&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COEC 294 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COEC&course=294&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COEC",
+      "course_number": "294",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduction to the development and use of accounting information for management planning and control and the development of cost information for financial reports. Credit will be granted for only one of COEC 294 or COMM 294.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "course_name": "COGS 402",
+  "subject_code": "COGS",
+  "course_number": "402",
+  "course_title": "Research in Cognitive Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COGS&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COGS 402 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=402&section=001&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please see: cogsys.ubc.ca/course-pages/cogs-402 for more information",
+      "subject_code": "COGS",
+      "course_number": "402",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MOLE, CHRISTOPHER"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "33",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COGS 402 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=402&section=002&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please see: cogsys.ubc.ca/course-pages/cogs-402 for more information",
+      "subject_code": "COGS",
+      "course_number": "402",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MOLE, CHRISTOPHER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "59",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COGS 402 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=402&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please note that a seat in the waiting list does not guarantee a seat in the course (it is highly recommended to register for a course section with seats available if there are any). You will be notified if you get moved out of the waiting list and into the course section.",
+      "subject_code": "COGS",
+      "course_number": "402",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Supervised research project in a Cognitive Systems-related laboratory.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Project",
+    "Waiting List"
+  ]
+}

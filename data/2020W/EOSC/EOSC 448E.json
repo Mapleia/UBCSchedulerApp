@@ -1,0 +1,44 @@
+{
+  "course_name": "EOSC 448E",
+  "subject_code": "EOSC",
+  "course_number": "448E",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=448E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 448E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=448E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This Directed Study is for students who have already completed EOSC 326 (achieved 90%+ grade) and would like further study in paleontology. Approval will be dependent on instructors availability. Please contact Professor Stuart Sutherland at ssutherland@eoas.ubc.ca.",
+      "subject_code": "EOSC",
+      "course_number": "448E",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Investigation of a topic to be agreed upon by a member of the faculty and the student. Permission of an undergraduate advisor and of the supervising faculty member is required before registration.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

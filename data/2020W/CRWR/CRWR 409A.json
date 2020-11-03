@@ -1,0 +1,96 @@
+{
+  "course_name": "CRWR 409A",
+  "subject_code": "CRWR",
+  "course_number": "409A",
+  "course_title": "Writing Fiction I - WRITING FIC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=409A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 409A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. Classes may include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual courses/sections.",
+      "subject_code": "CRWR",
+      "course_number": "409A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAU, DORETTA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 409A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will have a flexible approach to online learning with core elements such as workshop and lectures delivered asynchronously through Canvas. There will also be regular opportunities to connect synchronously through Zoom for writing exercises, group work, and one-on-one meetings with the instructor.",
+      "subject_code": "CRWR",
+      "course_number": "409A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ARMSTRONG, THEODORA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 409A 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=409A&section=005&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. Because this particular course relies heavily upon dialogue, it will be synchronous; that is, it is in \u001creal time.\u001d Students should download Skype and make sure that it is working properly for them.Students considering taking this course and wishing to discuss it with me can contact me at maillard@mail.ubc.ca",
+      "subject_code": "CRWR",
+      "course_number": "409A",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAILLARD, KEITH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A workshop class in the writing of fiction.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Seminar"
+  ]
+}

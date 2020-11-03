@@ -1,0 +1,71 @@
+{
+  "course_name": "COMM 443",
+  "subject_code": "COMM",
+  "course_number": "443",
+  "course_title": "Service Operations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=443&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 443 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=443&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "443",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WERKER, GREGORY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 443 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=443&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "443",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WERKER, GREGORY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "This primarily case-based course will cover service operations in general (50%), health care operations (25%), and revenue management (25%). Applications of queuing models will be included in both services in general and healthcare.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "course_name": "EOSC 332",
+  "subject_code": "EOSC",
+  "course_number": "332",
+  "course_title": "Tectonic Evolution of North America",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=332&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 332 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=332&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "332",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMIT, MATTHIJS"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "38",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An overview of the geology and tectonic evolution of North America; comparisons and contrasts between Precambrian rocks of the North American craton and Phanerozoic belts of the Cordilleran, Appalachian, Ouachita and Innuitian orogens;  interrelations between sedimentation, deformation, metamorphism and magmatism in a plate tectonic context.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

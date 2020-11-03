@@ -1,0 +1,45 @@
+{
+  "course_name": "RELG 531",
+  "subject_code": "RELG",
+  "course_number": "531",
+  "course_title": "Graduate Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=531&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "RELG 531 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=531&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Registration requires permission of the instructor.",
+      "subject_code": "RELG",
+      "course_number": "531",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KEDDIE, GEORGE ANTHONY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "2",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

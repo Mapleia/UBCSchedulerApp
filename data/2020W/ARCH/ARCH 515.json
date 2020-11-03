@@ -1,0 +1,72 @@
+{
+  "course_name": "ARCH 515",
+  "subject_code": "ARCH",
+  "course_number": "515",
+  "course_title": "Design Media I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=515&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 515 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=515&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "515",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SATTERFIELD, BLAIR",
+        "TAK, THENA"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "33"
+    },
+    {
+      "status": "Restricted",
+      "section": "ARCH 515 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=515&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "515",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "BRACONNIER, STEPHANIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Foundations of manual and digital skills and concepts employing a variety of subjects, techniques and software. Credit will be granted for only one of ARCH 515, DES 211 or ENDS 320.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

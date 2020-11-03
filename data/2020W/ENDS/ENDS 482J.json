@@ -1,0 +1,70 @@
+{
+  "course_name": "ENDS 482J",
+  "subject_code": "ENDS",
+  "course_number": "482J",
+  "course_title": "Special Topics - VSUAL REP + COMM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENDS 482J 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482J&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482J",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BYRNE, FIONN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENDS 482J WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482J&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482J",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BYRNE, FIONN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

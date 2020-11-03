@@ -1,0 +1,43 @@
+{
+  "course_name": "PSYC 440C",
+  "subject_code": "PSYC",
+  "course_number": "440C",
+  "course_title": "Directed Studies in Psychology - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=440C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 440C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=440C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Min. GPA requirement of 72% on most recent 30 credits.Students must see PSYC Undergrad. Advisor for registration.",
+      "subject_code": "PSYC",
+      "course_number": "440C",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Directed investigation of an experimental problem, requiring a written report of the findings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

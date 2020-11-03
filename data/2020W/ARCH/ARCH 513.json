@@ -1,0 +1,44 @@
+{
+  "course_name": "ARCH 513",
+  "subject_code": "ARCH",
+  "course_number": "513",
+  "course_title": "Environmental Systems and Controls I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=513&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 513 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=513&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "513",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RYSANEK, ADAM"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Building form and fabric considerations to assure appropriate thermal, luminous, sonic, and atmospheric conditions within buildings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

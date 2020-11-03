@@ -1,0 +1,72 @@
+{
+  "course_name": "SPPH 520",
+  "subject_code": "SPPH",
+  "course_number": "520",
+  "course_title": "Control of Communicable Disease",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=520&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 520 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=520&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course will be held online via Canvas:  www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "520",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATRICK, DAVID"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "SPPH 520 DL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=520&section=DL2&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Classroom location: SPPH B104Please note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.",
+      "subject_code": "SPPH",
+      "course_number": "520",
+      "section_number": "DL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "20",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Epidemiology of viral, bacterial and parasitic infections with emphasis on the control of these infections in human populations. Immunization programs will be stressed.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

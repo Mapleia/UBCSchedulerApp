@@ -1,0 +1,71 @@
+{
+  "course_name": "FRE 521D",
+  "subject_code": "FRE",
+  "course_number": "521D",
+  "course_title": "Topics in Food and Resource Economics - TOPICS IN FRE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=521D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 521D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=521D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "521D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLANCY, MARK"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "35"
+    },
+    {
+      "status": "Restricted",
+      "section": "FRE 521D L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=521D&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "521D",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLANCY, MARK"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "35"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

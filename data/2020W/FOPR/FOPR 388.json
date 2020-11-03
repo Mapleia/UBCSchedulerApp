@@ -1,0 +1,72 @@
+{
+  "course_name": "FOPR 388",
+  "subject_code": "FOPR",
+  "course_number": "388",
+  "course_title": "Analytical Methods in Forest Hydrology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FOPR&course=388&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FOPR 388 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=388&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This course is cross listed with FRST 385 and is intended for BSF Forest Operations students.",
+      "subject_code": "FOPR",
+      "course_number": "388",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FOPR 388 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=388&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "This lab section is for Forest Operations students only.  The day/time/location will be determined at the start of term to suit all the students enrolled in this lab.",
+      "subject_code": "FOPR",
+      "course_number": "388",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analytical methods in forest hydrology and their applications in the planning of forest operations with a focus on the hydrologic and hydraulic design procedures for stream crossings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

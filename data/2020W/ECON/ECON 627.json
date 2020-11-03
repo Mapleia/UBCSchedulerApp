@@ -1,0 +1,70 @@
+{
+  "course_name": "ECON 627",
+  "subject_code": "ECON",
+  "course_number": "627",
+  "course_title": "Econometric Theory II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=627&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECON 627 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=627&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "For economics PhD students.Prerequisite: ECON 626.Course description TBA.",
+      "subject_code": "ECON",
+      "course_number": "627",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARMER, VADIM"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "ECON 627 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=627&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "627",
+      "section_number": "L1A",
+      "building": "Buchanan",
+      "room": "D201",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

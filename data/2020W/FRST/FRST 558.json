@@ -1,0 +1,75 @@
+{
+  "course_name": "FRST 558",
+  "subject_code": "FRST",
+  "course_number": "558",
+  "course_title": "Landscape-Level Forest Land Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=558&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 558 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=558&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "16:00",
+      "comments": "Restricted to MSFM cohort. Exact schedule will be communicated to students closer to the start of the course.",
+      "subject_code": "FRST",
+      "course_number": "558",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE LONG, DEBORAH",
+        "MAN, COSMIN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 558 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=558&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "558",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE LONG, DEBORAH",
+        "MAN, COSMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": "Preparation of landscape-level sustainable forest management plans that integrate ecological, social, and economic components.\t",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

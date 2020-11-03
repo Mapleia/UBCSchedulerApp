@@ -1,0 +1,72 @@
+{
+  "course_name": "KORN 410B",
+  "subject_code": "KORN",
+  "course_number": "410B",
+  "course_title": "Modern Korean Short Fiction - MOD KORN SHRT FC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KORN&course=410B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KORN 410B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KORN&course=410B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "KORN",
+      "course_number": "410B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FULTON, BRUCE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "KORN 410B W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KORN&course=410B&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "KORN",
+      "course_number": "410B",
+      "section_number": "W01",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "FULTON, BRUCE"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Reading and translating twentieth-century Korean short fiction.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "course_name": "APSC 183",
+  "subject_code": "APSC",
+  "course_number": "183",
+  "course_title": "Matter and Energy II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=183&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "APSC 183 VE1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=183&section=VE1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "183",
+      "section_number": "VE1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAGHERZADEH HOSSEINI, SEYYED ALIREZA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 183 VL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=183&section=VL1&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "This section is reserved for UBC Vantage College students only.EVERY SECOND WEEK STARTING WITH START WEEK^ every second week starting with week following start week",
+      "subject_code": "APSC",
+      "course_number": "183",
+      "section_number": "VL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 183 VL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=183&section=VL2&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "This section is reserved for UBC Vantage College students only.EVERY SECOND WEEK STARTING WITH START WEEK* every second week starting with start week",
+      "subject_code": "APSC",
+      "course_number": "183",
+      "section_number": "VL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "APSC 183 VT1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=183&section=VT1&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "APSC",
+      "course_number": "183",
+      "section_number": "VT1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Atomic structures and bonding, solid crystals, chemical equilibrium, reactions in gas phase and in aqueous solutions, acid-base and redox reactions, kinetics of chemical reactions, thermochemistry, electrochemistry.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Tutorial"
+  ]
+}

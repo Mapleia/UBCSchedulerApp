@@ -1,0 +1,45 @@
+{
+  "course_name": "SPPH 546",
+  "subject_code": "SPPH",
+  "course_number": "546",
+  "course_title": "Introduction to Health Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=546&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SPPH 546 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=546&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "546",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANIS, ASLAM",
+        "ANIS, ASLAM(Coordinator)",
+        "AU, SHANIA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Broad understanding of the health system and health system change from an economics perspective, with a focus on delivery, organization, and financing of healthcare.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

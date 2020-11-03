@@ -1,0 +1,43 @@
+{
+  "course_name": "CIVL 538",
+  "subject_code": "CIVL",
+  "course_number": "538",
+  "course_title": "Computational Mechanics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=538&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 538 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=538&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "538",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAZIRI, REZA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "12",
+      "generalRemaining": "16",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Finite elements for geometrically nonlinear problems: Lagrangian and Eulerian formulations. Review of constitutive models: Finite elements for materially nonlinear problems. Incremental formulations. Iterative solution algorithms. Application to project type problems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

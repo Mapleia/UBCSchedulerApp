@@ -1,0 +1,71 @@
+{
+  "course_name": "DENT 570",
+  "subject_code": "DENT",
+  "course_number": "570",
+  "course_title": "Periodontal Case Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=570&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 570 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=570&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "570",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LARJAVA, HANNU",
+        "OAKLEY, CAROL"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DENT 570 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=570&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "570",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "2",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": " ",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

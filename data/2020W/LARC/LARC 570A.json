@@ -1,0 +1,97 @@
+{
+  "course_name": "LARC 570A",
+  "subject_code": "LARC",
+  "course_number": "570A",
+  "course_title": "Co-operative Education - COOP EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=570A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LARC 570A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=570A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please complete Internship Forms package.  Advisor permission required.",
+      "subject_code": "LARC",
+      "course_number": "570A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Blocked",
+      "section": "LARC 570A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=570A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Internship Forms Package Required.  Please seek Advisor Permission",
+      "subject_code": "LARC",
+      "course_number": "570A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Blocked",
+      "section": "LARC 570A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=570A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please see Department",
+      "subject_code": "LARC",
+      "course_number": "570A",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised work experience in an established company or organization for a minimum of one academic term.  Technical report required.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

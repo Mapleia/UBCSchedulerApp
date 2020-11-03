@@ -1,0 +1,70 @@
+{
+  "course_name": "CHBE 230",
+  "subject_code": "CHBE",
+  "course_number": "230",
+  "course_title": "Computational Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CHBE 230 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=230&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "230",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FENG, JAMES JINGTAO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "164",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "CHBE 230 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=230&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "230",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FENG, JAMES JINGTAO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Mathematical formulation of chemical and biological engineering problems; standard techniques of numerical analysis and their application to chemical, environmental and biotechnological systems; program development; use of commercial numerical analysis software.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

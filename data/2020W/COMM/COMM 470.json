@@ -1,0 +1,71 @@
+{
+  "course_name": "COMM 470",
+  "subject_code": "COMM",
+  "course_number": "470",
+  "course_title": "Venture Capital",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=470&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 470 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=470&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "470",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORNALL, WILL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 470 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=470&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "470",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORNALL, WILL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory and evidence concerning venture capital markets. Contracting, fundraising, and financing choice covered in depth, with the aim of catering to students looking to raise money for entrepreneurial ventures or to invest in entrepreneurial ventures.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

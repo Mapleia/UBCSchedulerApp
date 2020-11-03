@@ -1,0 +1,43 @@
+{
+  "course_name": "ASIA 373",
+  "subject_code": "ASIA",
+  "course_number": "373",
+  "course_title": "History of Hong Kong ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASIA 373 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=373&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:30",
+      "end": "18:30",
+      "comments": "Please go to HIST 373 to register for this course in the 2020W term.UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.",
+      "subject_code": "ASIA",
+      "course_number": "373",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHIN, LEO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "History, culture, and identities of Hong Kong from the early 1800s to the present.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "course_name": "CLST 231",
+  "subject_code": "CLST",
+  "course_number": "231",
+  "course_title": "Ancient Greece",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=231&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 231 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=231&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.If this course is full or blocked, please register in the wait list sectionStudents who received credit for CLST 331 (6 credits) prior to 2008/09 may not also receive credit for CLST 231 and CLST 232.",
+      "subject_code": "CLST",
+      "course_number": "231",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, CARL"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "41",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A survey of the ancient Greek world from the Minoan and Mycenaean (about 2000-1000 BCE) to the Hellenistic Period (323-30 BCE).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

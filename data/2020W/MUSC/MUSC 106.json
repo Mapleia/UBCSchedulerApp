@@ -1,0 +1,128 @@
+{
+  "course_name": "MUSC 106",
+  "subject_code": "MUSC",
+  "course_number": "106",
+  "course_title": "Aural Skills II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=106&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 106 210",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=106&section=210&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "106",
+      "section_number": "210",
+      "building": "Music",
+      "room": "301",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MUSC 106 220",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=106&section=220&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "106",
+      "section_number": "220",
+      "building": "Music",
+      "room": "301",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 106 230",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=106&section=230&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "106",
+      "section_number": "230",
+      "building": "Music",
+      "room": "301",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 106 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=106&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Register for MUSC 106 002 plus 1 tutorial section",
+      "subject_code": "MUSC",
+      "course_number": "106",
+      "section_number": "002",
+      "building": "Music",
+      "room": "201",
+      "instructors": [
+        "PASLAWSKI, GORDON"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "57",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Continuation of MUSC 105. Restricted to B.Mus. students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Tutorial",
+    "Lecture"
+  ]
+}

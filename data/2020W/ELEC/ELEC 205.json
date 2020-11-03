@@ -1,0 +1,95 @@
+{
+  "course_name": "ELEC 205",
+  "subject_code": "ELEC",
+  "course_number": "205",
+  "course_title": "Electronics Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=205&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 205 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=205&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "205",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTAVAS, SALOOME"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 205 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=205&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "205",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTAVAS, SALOOME"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 205 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=205&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "205",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTAVAS, SALOOME"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Experiments involving electronic devices and circuits.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

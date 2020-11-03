@@ -1,0 +1,44 @@
+{
+  "course_name": "ENGL 243",
+  "subject_code": "ENGL",
+  "course_number": "243",
+  "course_title": "Speculative Fiction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=243&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 243 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=243&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "243",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAXTER, GISELE MARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "75",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Genres and sub-genres of speculative fiction, such as science fiction and fantasy, alternate history, dystopian and post-apocalyptic narrative, and slipstream, as well as the intersections among them.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

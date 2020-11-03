@@ -1,0 +1,97 @@
+{
+  "course_name": "MICB 649",
+  "subject_code": "MICB",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 649 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=649&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "649",
+      "section_number": "101",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "12",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 649 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=649&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "649",
+      "section_number": "201",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:30",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "48",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

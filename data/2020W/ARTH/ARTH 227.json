@@ -1,0 +1,149 @@
+{
+  "course_name": "ARTH 227",
+  "subject_code": "ARTH",
+  "course_number": "227",
+  "course_title": "What is Modern Art?",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=227&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 227 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=227&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "ARTH 227 001 and the associated tutorials will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components. If the course is blocked, the class is full and you should register in the associated waitlist, ARTH 227 01W. Students will be moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "ARTH",
+      "course_number": "227",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SANCHEZ, MARISA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "45",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 227 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=227&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "To register in a tutorial section you must first be registered in the lecture.",
+      "subject_code": "ARTH",
+      "course_number": "227",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 227 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=227&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "To register in a tutorial section you must first be registered in the lecture.",
+      "subject_code": "ARTH",
+      "course_number": "227",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 227 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=227&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "To register in a tutorial section you must first be registered in the lecture.",
+      "subject_code": "ARTH",
+      "course_number": "227",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 227 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=227&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "ARTH 227 01W is a waiting list for ARTH 227 001. Students will be moved from the waiting list into the course, space permitting, in order of registration date. While we hope all interested students will obtain a seat in this class, please be aware that being in the waiting list does not guarentee you will obtain a seat in the class.",
+      "subject_code": "ARTH",
+      "course_number": "227",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Select issues in 20th-century art and the visual and built environment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

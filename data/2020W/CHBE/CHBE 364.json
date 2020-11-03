@@ -1,0 +1,43 @@
+{
+  "course_name": "CHBE 364",
+  "subject_code": "CHBE",
+  "course_number": "364",
+  "course_title": "Environmental Engineering Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=364&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 364 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=364&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "364",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KANNANGARA, DHANESHWARIE"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Laboratory experiments to illustrate key concepts and measurement techniques in environmental engineering as used by  engineers.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

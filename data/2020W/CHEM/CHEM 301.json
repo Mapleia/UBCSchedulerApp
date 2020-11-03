@@ -1,0 +1,75 @@
+{
+  "course_name": "CHEM 301",
+  "subject_code": "CHEM",
+  "course_number": "301",
+  "course_title": "Aqueous Environmental Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 301 109",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=301&section=109&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "301",
+      "section_number": "109",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEKHI, PRIYA"
+      ],
+      "totalRemaining": "59",
+      "currentlyRegistered": "161",
+      "generalRemaining": "59",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 301 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=301&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "301",
+      "section_number": "1W1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "20",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Properties of natural waters, including gas and solid equilibria, pH, redox, complexation analysis, corrosion treatment, ion exchange, colloids and microbial transformations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

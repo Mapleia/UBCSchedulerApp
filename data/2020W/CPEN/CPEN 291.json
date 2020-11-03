@@ -1,0 +1,150 @@
+{
+  "course_name": "CPEN 291",
+  "subject_code": "CPEN",
+  "course_number": "291",
+  "course_title": "Computer Engineering Design Studio I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=291&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CPEN 291 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=291&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "291",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIS, MIESZKO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CPEN 291 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=291&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "291",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIS, MIESZKO"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "65",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 291 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=291&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "291",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIS, MIESZKO"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "66",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 291 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=291&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "291",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 291 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=291&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "291",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Design projects involving hardware (electronic devices and circuits, microcomputers) and software.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

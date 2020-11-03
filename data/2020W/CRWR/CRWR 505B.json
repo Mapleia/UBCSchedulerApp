@@ -1,0 +1,98 @@
+{
+  "course_name": "CRWR 505B",
+  "subject_code": "CRWR",
+  "course_number": "505B",
+  "course_title": "Advanced Writing of Creative Non-Fiction I - ADV CRTV N-FIC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=505B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 505B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "505B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHABEN, CAROL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 505B D02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505B&section=D02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "505B",
+      "section_number": "D02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERGUSON, JENNY LEE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 505B D04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=505B&section=D04&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "505B",
+      "section_number": "D04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CATRON, MANDY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

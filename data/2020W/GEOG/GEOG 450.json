@@ -1,0 +1,73 @@
+{
+  "course_name": "GEOG 450",
+  "subject_code": "GEOG",
+  "course_number": "450",
+  "course_title": "Urban Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=450&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOG 450 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=450&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This online seminar has a synchronous scheduled meeting time. There will be some asynchronous lecture material as well.",
+      "subject_code": "GEOG",
+      "course_number": "450",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYLY, ELVIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 450 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=450&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait ist for GEOG 450, section 201, Term 2.",
+      "subject_code": "GEOG",
+      "course_number": "450",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "18",
+        "2",
+        "18",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Historical, legal, and quantitative analysis of urban research. Emphasis on spatial, racial, and political dynamics of urban inequality.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

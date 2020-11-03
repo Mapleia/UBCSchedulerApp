@@ -1,0 +1,71 @@
+{
+  "course_name": "CRWR 503A",
+  "subject_code": "CRWR",
+  "course_number": "503A",
+  "course_title": "Advanced Writing for Children I - ADV WRIT CHILD I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=503A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 503A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=503A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course is set for 10-12 a.m. Wednesdays. However, given the COVID situation and the possibility of writers in different time zones, it will be a text-based course, working within Canvas. As a group we will explore the possibilities of having monthly zoom social sessions, possibly \u001copen-mic.\u001d We will discuss.",
+      "subject_code": "CRWR",
+      "course_number": "503A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ACHESON, ALISON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 503A D01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=503A&section=D01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "503A",
+      "section_number": "D01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE VRIES, MARGARET"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

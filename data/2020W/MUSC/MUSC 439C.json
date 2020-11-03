@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 439C",
+  "subject_code": "MUSC",
+  "course_number": "439C",
+  "course_title": "Opera Workshop II - OPERA WORKSHOP 2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=439C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 439C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=439C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "OPEN TO SPECIAL AUDIT",
+      "subject_code": "MUSC",
+      "course_number": "439C",
+      "section_number": "001",
+      "building": "Auditorium",
+      "room": "100",
+      "instructors": [
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "10",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A continuation of MUSC 339.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

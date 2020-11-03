@@ -1,0 +1,44 @@
+{
+  "course_name": "SPPH 581N",
+  "subject_code": "SPPH",
+  "course_number": "581N",
+  "course_title": "Selected Topics - KNOWLDGE TRNSLTN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=581N&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 581N 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=581N&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "581N",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KERSHAW, PAUL",
+        "ROSSA-ROCCOR, VERENA BIRGIT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "13",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "By seminar and directed readings, certain topics of current interest are explored in depth.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

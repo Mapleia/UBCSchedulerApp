@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 593A",
+  "subject_code": "MUSC",
+  "course_number": "593A",
+  "course_title": "Music Performance (Major) - KEYBOARD INST'S",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=593A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 593A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=593A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "593A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DAWSON, TERENCE",
+        "HAMM, COREY"
+      ],
+      "totalRemaining": "196",
+      "currentlyRegistered": "4",
+      "generalRemaining": "99",
+      "restrictedRemaining": "97"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

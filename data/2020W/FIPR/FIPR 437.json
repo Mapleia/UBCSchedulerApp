@@ -1,0 +1,43 @@
+{
+  "course_name": "FIPR 437",
+  "subject_code": "FIPR",
+  "course_number": "437",
+  "course_title": "Cinematography II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=437&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 437 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=437&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "Registration to this course is restricted to majors in the BFA in Film Production program who have successfully completed FIPR 337. If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR 437, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "FIPR",
+      "course_number": "437",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "104",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Advanced camera operation, lighting, and shot design. Open only to students in the FILM BFA Program.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

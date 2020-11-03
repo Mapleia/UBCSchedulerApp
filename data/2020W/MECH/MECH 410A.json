@@ -1,0 +1,44 @@
+{
+  "course_name": "MECH 410A",
+  "subject_code": "MECH",
+  "course_number": "410A",
+  "course_title": "Special Topics in Mechanical Engineering - PULP & PAPER TCH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=410A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 410A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=410A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "THU"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "410A",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DALPKE, BARBARA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Lectures and readings on specialized topics of current interest in Mechanical Engineering.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

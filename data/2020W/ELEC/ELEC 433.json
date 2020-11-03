@@ -1,0 +1,76 @@
+{
+  "course_name": "ELEC 433",
+  "subject_code": "ELEC",
+  "course_number": "433",
+  "course_title": "Error Control Coding for Communications and Computers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=433&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 433 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=433&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "433",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "15",
+        "26",
+        "12",
+        "3",
+        "",
+        "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 433 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=433&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "433",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Design techniques, including Hamming, BCH, Reed-Solomon, LDPC and convolutional codes, ARQ techniques, and LFSR implementation of encoding-decoding algorithms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

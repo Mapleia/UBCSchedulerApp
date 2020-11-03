@@ -1,0 +1,49 @@
+{
+  "course_name": "HIST 102",
+  "subject_code": "HIST",
+  "course_number": "102",
+  "course_title": "World History from 1500 to the Twentieth Century",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 102 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=102&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "In 2020/21, HIST 102 will be entirely online and asynchronous. Students do not need to be available during listed class times to fully participate in the course.",
+      "subject_code": "HIST",
+      "course_number": "102",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRANGE, SEBASTIAN",
+        "JONES, PETER",
+        "KARANGU, PHILIP",
+        "LEISCHNER, EMILY",
+        "THRONESS, AARON",
+        "TIMMERMANN, JOSHUA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "223",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "The civilizations of Asia, Europe, Africa and the Americas, with emphasis on the political, economic, ecological and cultural links among them, and the impact of oceanic contact, imperialism, warfare, migration, and globalization.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

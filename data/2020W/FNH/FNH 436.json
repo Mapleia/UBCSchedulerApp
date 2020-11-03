@@ -1,0 +1,44 @@
+{
+  "course_name": "FNH 436",
+  "subject_code": "FNH",
+  "course_number": "436",
+  "course_title": "Integrated Functional Genomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=436&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FNH 436 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=436&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "436",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, JAE-HYEOK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Global transcript, protein and metabolite profiling technologies, their integration, application, and furtherance of our understanding of how higher organisms function in general.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

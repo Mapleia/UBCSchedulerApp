@@ -1,0 +1,79 @@
+{
+  "course_name": "MATH 400",
+  "subject_code": "MATH",
+  "course_number": "400",
+  "course_title": "Applied Partial Differential Equations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 400 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=400&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "400",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAGATA, K WAYNE",
+        "NAGATA, K WAYNE(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "58",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 400 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=400&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "400",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "18",
+        "74",
+        "0",
+        "18",
+        "",
+        "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ENPH\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ENPH\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Separation of variables, first order equations, Sturm-Liouville theory, integral transform methods.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

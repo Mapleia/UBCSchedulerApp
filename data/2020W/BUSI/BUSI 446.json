@@ -1,0 +1,76 @@
+{
+  "course_name": "BUSI 446",
+  "subject_code": "BUSI",
+  "course_number": "446",
+  "course_title": "Real Estate Development II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=446&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 446 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=446&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "446",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "22",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 446 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=446&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "446",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Analysis of real estate development process with an examination of economic feasibility studies, approval processes, project financing, construction, project management, and marketing phases.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

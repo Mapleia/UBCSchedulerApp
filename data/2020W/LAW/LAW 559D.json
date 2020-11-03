@@ -1,0 +1,72 @@
+{
+  "course_name": "LAW 559D",
+  "subject_code": "LAW",
+  "course_number": "559D",
+  "course_title": "Family Law - FAMILY LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=559D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 559D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=559D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "*Cross-listed with LAW 359.001*",
+      "subject_code": "LAW",
+      "course_number": "559D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TREMBLAY, REGINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 559D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=559D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "*Cross-listed to LAW 359.002*",
+      "subject_code": "LAW",
+      "course_number": "559D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALONI, EREZ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "The law relating to family relationships, including the law of marriage, divorce, maintenance, custody, matrimonial property, and related matters. Credit will only be granted for one of LAW 359 or LAW 559.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

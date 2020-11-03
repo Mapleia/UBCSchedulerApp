@@ -1,0 +1,43 @@
+{
+  "course_name": "MICB 449",
+  "subject_code": "MICB",
+  "course_number": "449",
+  "course_title": "Research Problem",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "SUN"
+      ],
+      "start": "18:30",
+      "end": "19:30",
+      "comments": "Please see the following URL:  https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21For registration into MICB 449, consult Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "449",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "KION, TRACY"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "A laboratory investigation in the final year of the Honours program. The results are presented in a written report, to be reviewed by oral examination.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

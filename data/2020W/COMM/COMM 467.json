@@ -1,0 +1,72 @@
+{
+  "course_name": "COMM 467",
+  "subject_code": "COMM",
+  "course_number": "467",
+  "course_title": "Brand Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=467&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 467 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=467&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "467",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILK, TIMOTHY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 467 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=467&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "467",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILK, TIMOTHY"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Issues and challenges commonly faced by brand managers, including: assessing brand meaning, evaluating brand health, assessing a brand's leverage potential, evaluating brand extensions, managing brands through a crisis, and assessing brand value.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

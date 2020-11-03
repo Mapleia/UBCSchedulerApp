@@ -1,0 +1,70 @@
+{
+  "course_name": "KIN 370",
+  "subject_code": "KIN",
+  "course_number": "370",
+  "course_title": "Co-operative Work Placement",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "KIN 370 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=370&section=001&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "370",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LONGPRE, SIMONE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 370 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=370&section=002&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "370",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LONGPRE, SIMONE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Supervised, technical work experience in an established company or organization for a minimum of three months. Technical report. Restricted to students meeting the requirements of the School of Kinesiology and the Co-operative Education Program.  Pass/Fail.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

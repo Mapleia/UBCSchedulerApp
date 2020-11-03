@@ -1,0 +1,44 @@
+{
+  "course_name": "APBI 440",
+  "subject_code": "APBI",
+  "course_number": "440",
+  "course_title": "Plant Genomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 440 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=440&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "440",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LI, XIN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Concepts, principles, and recent discoveries in genome structure and comparative genomics in plants with a focus on economically important plants; applications of genomics approaches to questions in plant genetics, evolution, and ecology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "PLAN 579",
+  "subject_code": "PLAN",
+  "course_number": "579",
+  "course_title": "Public Health, Transportation, and the Built Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=579&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 579 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=579&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Crosslisted with SPPH 571.",
+      "subject_code": "PLAN",
+      "course_number": "579",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRANK, LAWRENCE"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 579 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=579&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "579",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Health issues associated with transportation and the built environment; design of urban form for non-motorized transportation for the improvement of personal and environmental health; factors that impact transportation choices; applying findings from research to specific transportation planning processes and projects. Credit will be granted for only one of PLAN 579 or SPPH 571.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "course_name": "ENDS 211",
+  "subject_code": "ENDS",
+  "course_number": "211",
+  "course_title": "Introduction to Environmental Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ENDS 211 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=211&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Effective 2020 Winter, ENDS 211 will be offered under the new course code and number DES 130.",
+      "subject_code": "ENDS",
+      "course_number": "211",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ENDS 211 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=211&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Effective 2020 Winter, ENDS 211 will be offered under the new course code and number DES 130.",
+      "subject_code": "ENDS",
+      "course_number": "211",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "1",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Survey of the visual, cultural, ecological and spatial literacies in environmental design and planning.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "course_name": "FRST 449C",
+  "subject_code": "FRST",
+  "course_number": "449C",
+  "course_title": "Directed Studies in Forestry - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=449C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FRST 449C 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449C&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449C",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "9",
+        "1",
+        "9",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 449C 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449C&section=103&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449C",
+      "section_number": "103",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 449C 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449C&section=203&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449C",
+      "section_number": "203",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Temp. Unavailable",
+      "section": "FRST 449C 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449C&section=204&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "PLEASE REGISTER in UFOR 200 (Urban Forests and Well-Being)",
+      "subject_code": "FRST",
+      "course_number": "449C",
+      "section_number": "204",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "0",
+      "generalRemaining": "60",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies",
+    "Lecture"
+  ]
+}

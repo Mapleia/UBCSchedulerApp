@@ -1,0 +1,46 @@
+{
+  "course_name": "EDUC 490H",
+  "subject_code": "EDUC",
+  "course_number": "490H",
+  "course_title": "Special Studies in Education - SPEC STUDIES ED",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=490H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EDUC 490H 302",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=490H&section=302&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "EDUC",
+      "course_number": "490H",
+      "section_number": "302",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACKIE, ANNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Topics not covered in a course. A pilot course may be offered under this name for only one year and with permission of the Associate Dean (Teacher Education).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

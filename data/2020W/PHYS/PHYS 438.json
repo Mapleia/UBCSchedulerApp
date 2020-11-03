@@ -1,0 +1,74 @@
+{
+  "course_name": "PHYS 438",
+  "subject_code": "PHYS",
+  "course_number": "438",
+  "course_title": "Zoological Physics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=438&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 438 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=438&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "438",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSER, SCOTT"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "25",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 438 20W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=438&section=20W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "438",
+      "section_number": "20W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSER, SCOTT"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Animal systems viewed from a physicist's perspective. Topics include sensory systems, energy budgets, locomotion, internal flows, physical advantages of grouping.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

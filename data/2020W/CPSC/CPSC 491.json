@@ -1,0 +1,70 @@
+{
+  "course_name": "CPSC 491",
+  "subject_code": "CPSC",
+  "course_number": "491",
+  "course_title": "Interactive Digital Media Practicum",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CPSC 491 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=491&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "The Interactive Digital Media Practicum Course is by application only. To apply: (1) Register for the waitlist section for the offering you want to join. (2) Apply for the course (and learn more about it) at https://thecdm.ca/program/ubc-sfu-digital-media-practicum. Applications are due at 11:59PM (Vancouver time) on October 25 for Jan-Apr offerings and March 11 for May-Aug offerings. (When the deadline is a weekend/holiday, applications are due at 11:59PM on the next business day.) If you are unable to register for the waitlist because of credit limit issues--e.g., arranging backup courses in case you are not accepted to the practicum--please apply at the website listed above and document your reasons for being unable to register for the waitlist.",
+      "subject_code": "CPSC",
+      "course_number": "491",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 491 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=491&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "The Interactive Digital Media Practicum Course is by application only. To apply: (1) Register for the waitlist section for the offering you want to join. (2) Apply for the course (and learn more about it) at https://thecdm.ca/program/ubc-sfu-digital-media-practicum. Applications are due at 11:59PM (Vancouver time) on October 25 for Jan-Apr offerings and March 11 for May-Aug offerings. (When the deadline is a weekend/holiday, applications are due at 11:59PM on the next business day.) If you are unable to register for the waitlist because of credit limit issues--e.g., arranging backup courses in case you are not accepted to the practicum--please apply at the website listed above and document your reasons for being unable to register for the waitlist.",
+      "subject_code": "CPSC",
+      "course_number": "491",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "10",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Design and implementation of interactive digital media systems using modern processes and tools. Projects provided by external clients or vetted entrepreneurial pitches are developed by interdisciplinary teams composed of one CPSC 491 student and multiple Master of Digital Media students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

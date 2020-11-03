@@ -1,0 +1,44 @@
+{
+  "course_name": "ARCH 517",
+  "subject_code": "ARCH",
+  "course_number": "517",
+  "course_title": "Design Media II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=517&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 517 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=517&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "517",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAK, THENA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "63",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Intermediate manual and digital skills and concepts employing a variety of subjects, techniques and software. Credit will be granted for only one of ARCH 517, ARCH 437 or DES 212.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "CHBE 553",
+  "subject_code": "CHBE",
+  "course_number": "553",
+  "course_title": "Mathematical Operations in Chemical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=553&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 553 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=553&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "553",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WACHS, ANTHONY"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "23"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics vary from year to year. Amongst these will be dimensional analysis and model theory; treatment and interpretation of chemical engineering data; formulation and solution of differential and finite difference equations; graphical, numerical and statistical methods.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

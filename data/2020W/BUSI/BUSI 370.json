@@ -1,0 +1,122 @@
+{
+  "course_name": "BUSI 370",
+  "subject_code": "BUSI",
+  "course_number": "370",
+  "course_title": "Business Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 370 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=370&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "370",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAJWANI, AZIZ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 370 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=370&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "370",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAJWANI, AZIZ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "85",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 370 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=370&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "370",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAJWANI, AZIZ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 370 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=370&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "370",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCINTOSH, JOHN GRAHAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the basic principles of financial valuation and an examination of corporate enterprise decisions including working capital management; capital budgeting; capital structures and dividend policy.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

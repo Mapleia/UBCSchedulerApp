@@ -1,0 +1,44 @@
+{
+  "course_name": "AUDI 550A",
+  "subject_code": "AUDI",
+  "course_number": "550A",
+  "course_title": "Advanced Topics in Audiology - ADV TPCS AUDI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=550A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 550A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=550A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "550A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BLACK, ALEXIS",
+        "CIOCCA, VALTER"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "May be taken more than once for credit.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

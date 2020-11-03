@@ -1,0 +1,75 @@
+{
+  "course_name": "BMEG 401",
+  "subject_code": "BMEG",
+  "course_number": "401",
+  "course_title": "Economics of Healthcare Solutions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 401 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=401&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "401",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIMONITE, JAMES BLAIR",
+        "TIGHE, ALLYSON PAIGE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "BMEG 401 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=401&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "401",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Canadian and USA engineering economics in BME and healthcare systems.  Economic equivalence, cost estimation, risk assessment, regulatory frameworks, economic optimization, intangible factors, ethics, sustainability, financial tools, commercialization and regulator regimes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

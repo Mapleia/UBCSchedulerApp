@@ -1,0 +1,106 @@
+{
+  "course_name": "STAT 321",
+  "subject_code": "STAT",
+  "course_number": "321",
+  "course_title": "Stochastic Signals and Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 321 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=321&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Please register in Stat 321- T1AReserved seats will be released one month after registration opens if not filled.Students can also get credit for ELEC 321, which is cross listed with Stat 321, and offered in term 2.If seats are full please register in the Waitlist STAT 321 WL1",
+      "subject_code": "STAT",
+      "course_number": "321",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO",
+        "LOURENZUTTI, RODOLFO(Coordinator)",
+        "WANG, LELE",
+        "WANG, LELE(Coordinator)"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "93",
+      "generalRemaining": "12",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": " ",
+      "section": "STAT 321 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=321&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "STAT",
+      "course_number": "321",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO",
+        "LOURENZUTTI, RODOLFO(Coordinator)",
+        "WANG, LELE",
+        "WANG, LELE(Coordinator)"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "81",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "STAT 321 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=321&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Please register on this wait list if the lecture is full. As seats become available, we will move students over to the lecture. We will not be emailing students as they are moved, so please monitor your registration carefully. Please note that, while we will do our best to accommodate everyone, registration in the wait list does no guarantee a seat in the course.",
+      "subject_code": "STAT",
+      "course_number": "321",
+      "section_number": "WL1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Stochastic behaviour of signals and systems (e.g., communication systems); discrete and continuous probability; random processes; modelling and identification of linear time-invariant systems; binary hypothesis testing and decision making.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

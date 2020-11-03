@@ -1,0 +1,44 @@
+{
+  "course_name": "BIOC 559",
+  "subject_code": "BIOC",
+  "course_number": "559",
+  "course_title": "Advanced Topics in Protein Chemistry II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=559&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOC 559 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=559&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Offered in 2020W.  Not offered in 2021W.Contemporary theoretical and experimental investigation of protein structure-function relationships. Biological X-ray crystallography.",
+      "subject_code": "BIOC",
+      "course_number": "559",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN PETEGEM, FILIP"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": "Contemporary theoretical and experimental investigation of protein structure-function relationships. Topics will vary.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

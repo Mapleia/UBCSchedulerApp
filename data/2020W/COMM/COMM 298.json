@@ -1,0 +1,234 @@
+{
+  "course_name": "COMM 298",
+  "subject_code": "COMM",
+  "course_number": "298",
+  "course_title": "Introduction to Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=298&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 298 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOMBARD, CAREN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "65",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOMBARD, CAREN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "116",
+      "generalRemaining": "1",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOMBARD, CAREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "118",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FREEDMAN, RUTH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "118",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FREEDMAN, RUTH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "120",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEGRAAF, DARREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "119",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 206",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=206&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "206",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEGRAAF, DARREN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "115",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 298 207",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=298&section=207&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "298",
+      "section_number": "207",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEGRAAF, DARREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "118",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Introduces the basic principles of financial valuation, including the time-value of money and the risk/return tradeoff. Develops tools for the quantitative analysis of corporate and/or individual financing and saving decisions, and of capital budgeting decisions. Credit will be granted for only one of COMM 298 or COEC 298.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

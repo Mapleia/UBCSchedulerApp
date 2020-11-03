@@ -1,0 +1,44 @@
+{
+  "course_name": "LAW 400",
+  "subject_code": "LAW",
+  "course_number": "400",
+  "course_title": "Advanced Criminal Procedure",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 400 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=400&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "EXAM CONFLICT:  STUDENTS REGISTERED IN 334.001 OR 400.001 ARE NOT ALLOWED TO BE REGISTERED IN 525.001 OR 416.001, AND VICE VERSA.",
+      "subject_code": "LAW",
+      "course_number": "400",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HARRIS, NIKOS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Selected topics relating to procedural law and practice in criminal matters. Credit will be granted for only one of LAW 260 or LAW 400.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

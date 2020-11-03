@@ -1,0 +1,101 @@
+{
+  "course_name": "CHEM 218",
+  "subject_code": "CHEM",
+  "course_number": "218",
+  "course_title": "Fundamentals of Reactivity in Inorganic Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=218&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHEM 218 212",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=218&section=212&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "218",
+      "section_number": "212",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEHRKHODAVANDI, PARISA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CHEM 218 T07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=218&section=T07&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "218",
+      "section_number": "T07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEHRKHODAVANDI, PARISA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 218 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=218&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "218",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Chemical reactivity of inorganic systems: oxidation/reduction chemistry; multiply-bonded systems; main group chemistry.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

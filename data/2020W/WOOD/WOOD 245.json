@@ -1,0 +1,71 @@
+{
+  "course_name": "WOOD 245",
+  "subject_code": "WOOD",
+  "course_number": "245",
+  "course_title": "Programming for Wood Products Manufacturing Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=245&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 245 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=245&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "20:00",
+      "end": "22:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "245",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, GREGORY"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "42",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 245 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=245&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "20:00",
+      "end": "22:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "245",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, GREGORY"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "42",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Practical computer and problem solving cases taken from wood products manufacturing industrial applications.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

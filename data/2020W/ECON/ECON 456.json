@@ -1,0 +1,71 @@
+{
+  "course_name": "ECON 456",
+  "subject_code": "ECON",
+  "course_number": "456",
+  "course_title": "International Macroeconomics and Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=456&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ECON 456 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=456&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This section is restricted to students in the 3rd and 4th year of the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "456",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEVEREUX, MICHAEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "ECON 456 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=456&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This section is NOT for students registered in the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "456",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEVEREUX, MICHAEL"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "59",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Balance of payments; market for foreign exchange; mechanism for adjusting the balance of payments; internal vs. external stability; current problems and issues. Credit will be granted for only one of ECON 456, COEC 377, or COMM 377.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

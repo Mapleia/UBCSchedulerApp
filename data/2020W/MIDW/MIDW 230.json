@@ -1,0 +1,45 @@
+{
+  "course_name": "MIDW 230",
+  "subject_code": "MIDW",
+  "course_number": "230",
+  "course_title": "Midwifery Theory for Primary Care",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 230 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=230&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "230",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "BROTEN, COURTNEY",
+        "CAMPBELL, ALLISON",
+        "SIMMONS, VALERIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Care of normal pregnancy, labour, birth, and puerperium with an empahsis on the intrapartum period and assessment and management skills.  Inludes a four-week intensive session in Vancouver, a series of online tutorials, and simulation and skills lab practice.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

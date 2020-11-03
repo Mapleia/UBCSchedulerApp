@@ -1,0 +1,43 @@
+{
+  "course_name": "LLED 580C",
+  "subject_code": "LLED",
+  "course_number": "580C",
+  "course_title": "Problems in Education - PROB IN EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=580C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 580C 060",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=580C&section=060&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "580C",
+      "section_number": "060",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Investigation and report of a problem.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

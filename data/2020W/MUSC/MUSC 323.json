@@ -1,0 +1,72 @@
+{
+  "course_name": "MUSC 323",
+  "subject_code": "MUSC",
+  "course_number": "323",
+  "course_title": "History of Popular Music",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 323 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=323&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course explores a wide range of popular music genres from the 1950s to the present, including rock, blues, pop, dance music (funk, disco, and edm), and hip hop.  Attention will be paid to the musical elements that define the individual genres and how those elements have changed over time.  Cultural issues raised by the different genres will also be discussed.  Only non-MUSC students are permitted to register in this course.Students are not required to have a musical background.  All musical concepts will be introduced in class.  There is no textbook.  Assigned readings and listening will be made available to students.  The graded course work includes quizzes and a paper.",
+      "subject_code": "MUSC",
+      "course_number": "323",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "METZER, DAVID"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "99",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 323 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=323&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Wait list for MUSC 323 001. Students will be moved to the class in order of DATE REGISTRATION on this waitlist, as/if space becomes available in the class.",
+      "subject_code": "MUSC",
+      "course_number": "323",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "METZER, DAVID"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Genres of popular music from 1950 to the present and their changing aesthetic, social, cultural, and historical dimensions. Prior experience with music notation and terminology is not required. This course is not acceptable for credit toward the B.Mus., or toward the B.A. major, honours, or minor in Music.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

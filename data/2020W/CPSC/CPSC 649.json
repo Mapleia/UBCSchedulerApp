@@ -1,0 +1,43 @@
+{
+  "course_name": "CPSC 649",
+  "subject_code": "CPSC",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "649",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "83",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

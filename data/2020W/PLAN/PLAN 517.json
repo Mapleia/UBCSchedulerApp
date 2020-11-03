@@ -1,0 +1,71 @@
+{
+  "course_name": "PLAN 517",
+  "subject_code": "PLAN",
+  "course_number": "517",
+  "course_title": "Theory and Methods of Urban Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=517&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 517 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=517&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "MCRP course requirement for MCRP students in the Urban Design (UD) concentration. Priority registration given to MCRP students in the UD concentration.",
+      "subject_code": "PLAN",
+      "course_number": "517",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VILLAGOMEZ, ERICK",
+        "FOGELSON, YUVAL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 517 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=517&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "517",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "VILLAGOMEZ, ERICK"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Application of urban design theory to a neighbourhood design.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "THTR 271",
+  "subject_code": "THTR",
+  "course_number": "271",
+  "course_title": "Beginning B.F.A. Acting I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=271&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 271 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=271&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Restricted to 2nd Year students in the BFA Acting Program.",
+      "subject_code": "THTR",
+      "course_number": "271",
+      "section_number": "001",
+      "building": "Chan Centre",
+      "room": "150",
+      "instructors": [
+        "MORRIS, LEORA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Open only to B.F.A. Acting students. An audition is required.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

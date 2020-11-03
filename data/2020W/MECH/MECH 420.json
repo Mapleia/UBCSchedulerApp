@@ -1,0 +1,177 @@
+{
+  "course_name": "MECH 420",
+  "subject_code": "MECH",
+  "course_number": "420",
+  "course_title": "Sensors and Actuators",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 420 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Please note, lab sections will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MECH 420 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Please note, lab sections will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MECH 420 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Please note, lab sections will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 420 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "Please note, lab sections will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 420 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "Please note, lab sections will take place in KAIS 1230",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE SILVA, CLARENCE WILFRED"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 420 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=420&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "420",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Measurement of motion, stress, force, torque, temperature, flow and pressure; principles of sensors and signal conditioning methods; selection and sizing of actuators.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

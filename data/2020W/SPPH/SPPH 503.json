@@ -1,0 +1,44 @@
+{
+  "course_name": "SPPH 503",
+  "subject_code": "SPPH",
+  "course_number": "503",
+  "course_title": "Epidemiological Methods 2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=503&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 503 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=503&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "503",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANGES, AMEE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Critical thinking in epidemiology; principles and methods of study design; context for epidemiological investigations of human health.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

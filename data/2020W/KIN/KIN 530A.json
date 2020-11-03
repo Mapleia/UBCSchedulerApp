@@ -1,0 +1,70 @@
+{
+  "course_name": "KIN 530A",
+  "subject_code": "KIN",
+  "course_number": "530A",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=530A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 530A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=530A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "KIN 530A contract must be signed prior to registration. See: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Resources-3",
+      "subject_code": "KIN",
+      "course_number": "530A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 530A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=530A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "KIN 530A contract must be signed prior to registration. See: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Resources-3",
+      "subject_code": "KIN",
+      "course_number": "530A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Topics selected by the student, with the approval of the Graduate Advisor, can be studied under the supervision of a member of the faculty.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

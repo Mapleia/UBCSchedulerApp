@@ -1,0 +1,152 @@
+{
+  "course_name": "SOCI 310",
+  "subject_code": "SOCI",
+  "course_number": "310",
+  "course_title": "Canadian Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 310 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=310&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "310",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILKES, RIMA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "79",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 310 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=310&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "310",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILKES, RIMA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 310 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=310&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "310",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PENTECOST, DEBRA"
+      ],
+      "totalRemaining": "46",
+      "currentlyRegistered": "34",
+      "generalRemaining": "46",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 310 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=310&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "310",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAINER, RAFAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 310 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=310&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "310",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PENTECOST, DEBRA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "64",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Social organization of Canadian society: relationships between social institutions and social processes (e.g., economics, education, family, law, media, and politics); including issues of ancestry, ethnicity, gender, region, and social class.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

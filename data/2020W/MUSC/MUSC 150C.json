@@ -1,0 +1,45 @@
+{
+  "course_name": "MUSC 150C",
+  "subject_code": "MUSC",
+  "course_number": "150C",
+  "course_title": "Large Instrumental Ensemble - LRGE INST ENSEMB",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=150C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 150C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "MUSC 150C Large Instrumental Ensemble - UBC Concert WindsOpen only to undergraduate students (see MUSC 550c for graduate registration).Open to non-music majors and secondary concentrators who are performers on woodwinds, brass, or percussion. Open to other students by audition, with credit, as stipulated by their faculties. May be repeated for credit. The ensemble rehearses MW 6-8:00 and makes four performances each year, with the majority of rehearsals and concerts taking place in the Chan Centre. While every effort is made to place students in appropriate ensembles based upon audition results, those taking this course as an elective are advised to have an alternate course ready in the unlikely case where an ensemble placement is not available. Entrance by audition each September. For more info: http://music.ubc.ca/student-ensembles",
+      "subject_code": "MUSC",
+      "course_number": "150C",
+      "section_number": "001",
+      "building": "Chan Centre",
+      "room": "141",
+      "instructors": [
+        "REARDON MACLELLAN, CHRISTIN",
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "88",
+      "currentlyRegistered": "12",
+      "generalRemaining": "88",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

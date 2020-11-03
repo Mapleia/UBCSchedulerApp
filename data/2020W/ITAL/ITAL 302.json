@@ -1,0 +1,45 @@
+{
+  "course_name": "ITAL 302",
+  "subject_code": "ITAL",
+  "course_number": "302",
+  "course_title": "Intermediate Italian II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITAL 302 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=302&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through written communication and discussion of relevant cultural topics. Full description: https://fhis.ubc.ca/course-description/ital302/",
+      "subject_code": "ITAL",
+      "course_number": "302",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZAMPIERI, ELENA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "10",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through written communication and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives.\n",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

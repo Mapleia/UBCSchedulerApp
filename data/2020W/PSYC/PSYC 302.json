@@ -1,0 +1,155 @@
+{
+  "course_name": "PSYC 302",
+  "subject_code": "PSYC",
+  "course_number": "302",
+  "course_title": "Infancy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 302 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=302&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "302",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAY, LILLIAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "337",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 302 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=302&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "302",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAY, LILLIAN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "102",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 302 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=302&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "302",
+      "section_number": "005",
+      "building": "Buchanan",
+      "room": "A102",
+      "instructors": [
+        "HAMLIN, JANE"
+      ],
+      "totalRemaining": "66",
+      "currentlyRegistered": "79",
+      "generalRemaining": "66",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 302 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=302&section=006&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "302",
+      "section_number": "006",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAMLIN, JANE"
+      ],
+      "totalRemaining": "44",
+      "currentlyRegistered": "66",
+      "generalRemaining": "44",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 302 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=302&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. Please note that this is a distance learning section and may have no synchronous (live, real-time) component. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/Where applicable, please visit this site for examination information: http://www.students.ubc.ca/coursesreg/exams/",
+      "subject_code": "PSYC",
+      "course_number": "302",
+      "section_number": "99C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIRCH, SUSAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "110",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "MIDW 325",
+  "subject_code": "MIDW",
+  "course_number": "325",
+  "course_title": "Professional Issues in Midwifery",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 325 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=325&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "325",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROTEN, COURTNEY",
+        "METCALFE, QUINN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Professional issues in midwifery including responsibilities and conduct, self-care, peer review, interprofessional relations and communication, legal and business concepts, and continuous quality assurance and improvement in practice.  A series of lectures and workshops delivered in an intensive format over two weeks.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

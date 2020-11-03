@@ -1,0 +1,44 @@
+{
+  "course_name": "MINE 406",
+  "subject_code": "MINE",
+  "course_number": "406",
+  "course_title": "Mine Project Valuation and Risk Assessment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 406 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=406&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "cross-listed with MINE 554",
+      "subject_code": "MINE",
+      "course_number": "406",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOPES DA COSTA, JOSE",
+        "LOPES DA COSTA, JOSE(Coordinator)"
+      ],
+      "totalRemaining": "55",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "55"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Mineral economics and finance. Analytical tools and techniques used in the valuation of mining companies and the financial analysis and risk assessment methods.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

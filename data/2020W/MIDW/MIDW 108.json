@@ -1,0 +1,45 @@
+{
+  "course_name": "MIDW 108",
+  "subject_code": "MIDW",
+  "course_number": "108",
+  "course_title": "Foundations for Midwifery Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=108&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 108 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=108&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "108",
+      "section_number": "002",
+      "building": "Food, Nutrition and Health",
+      "room": "320",
+      "instructors": [
+        "CAMPBELL, KIM",
+        "TURNER, MICHELLE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 7",
+  "description": "Scope of practice of a midwife, regulatory framework, skills for basic midwifery practice. A series of lectures and clinical lab sessions.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

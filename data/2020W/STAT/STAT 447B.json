@@ -1,0 +1,45 @@
+{
+  "course_name": "STAT 447B",
+  "subject_code": "STAT",
+  "course_number": "447B",
+  "course_title": "Special Topics in Statistics - STAT COMPUTING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=447B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 447B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=447B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Statistical computing topics covered include:R statistical software, reproducible code, pseudo-code, writing functions,documentation, validation, debugging, numerical methods, profiling.Please refer to the following link for further information http://ugrad.stat.ubc.ca/~hjoe/stat447/A team project will be a major activity.Pre-reqs: Stat 306",
+      "subject_code": "STAT",
+      "course_number": "447B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOE, HARRY SUE WAH",
+        "JOE, HARRY SUE WAH(Coordinator)"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "48",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Students should consult the Statistics Department for the particular topics offered in a given year.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "APBI 342",
+  "subject_code": "APBI",
+  "course_number": "342",
+  "course_title": "Soil Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=342&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 342 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=342&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Students in the Faculty of Land and Food Systems should be registering in the APBI 342 section, not the FRST 310 section.",
+      "subject_code": "APBI",
+      "course_number": "342",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 342 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=342&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "342",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHANWAY, CHRISTOPHER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The diversity of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; interactions between soil organisms; responses to environmental change.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "course_name": "WOOD 386",
+  "subject_code": "WOOD",
+  "course_number": "386",
+  "course_title": "Applied Mechanics of Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=386&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 386 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=386&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "386",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, FRANK"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "39",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 386 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=386&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "386",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, FRANK"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "39",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Beam analysis, shaft analysis, columns, stress/strain transformations, thin-walled pressure vessels, material strength failure, criteria, fatigue, design and sizing, ISO standards.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

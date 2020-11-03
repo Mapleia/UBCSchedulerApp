@@ -1,0 +1,44 @@
+{
+  "course_name": "PHYS 400",
+  "subject_code": "PHYS",
+  "course_number": "400",
+  "course_title": "Introduction to Elementary Particles",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 400 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=400&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "400",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATTISON, THOMAS"
+      ],
+      "totalRemaining": "62",
+      "currentlyRegistered": "13",
+      "generalRemaining": "62",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Standard model, classification of elementary particles and forces of nature, symmetries, conservation laws, quark model, quantum electrodynamics, quantum chromodynamics, and the theory of weak interactions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

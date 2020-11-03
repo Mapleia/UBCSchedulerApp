@@ -1,0 +1,43 @@
+{
+  "course_name": "SPPH 567",
+  "subject_code": "SPPH",
+  "course_number": "567",
+  "course_title": "Quantitative Methods for the Assessment and Analysis of Exposure Data",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=567&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 567 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=567&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is held entirely online.  To access course module, go to UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "567",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HENDERSON, SARAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Determinants of exposure, sampling strategies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

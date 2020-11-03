@@ -1,0 +1,214 @@
+{
+  "course_name": "COMM 205",
+  "subject_code": "COMM",
+  "course_number": "205",
+  "course_title": "Introduction to Management Information Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=205&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 205 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAVUSOGLU, HASAN",
+        "SVEDIC, ZORANA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "103",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 205 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAVUSOGLU, HASAN",
+        "SVEDIC, ZORANA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "100",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 205 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAVUSOGLU, HASAN",
+        "SVEDIC, ZORANA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "110",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 205 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAI, SABRINA",
+        "SAUNDERS, ADAM"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "106",
+      "generalRemaining": "1",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 205 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAI, SABRINA",
+        "SAUNDERS, ADAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "108",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 205 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAUNDERS, ADAM",
+        "SVEDIC, ZORANA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "106",
+      "generalRemaining": "1",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 205 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=205&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "205",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAUNDERS, ADAM",
+        "SVEDIC, ZORANA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "103",
+      "generalRemaining": "1",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Overview of computer technology and terminology; use of computers as managerial and administrative tools; the management of computer resources and the influence of information technology within the organization. Credit will be granted for only one of COMM 205 or COMM 391.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

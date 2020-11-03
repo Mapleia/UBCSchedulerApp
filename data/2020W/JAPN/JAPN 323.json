@@ -1,0 +1,74 @@
+{
+  "course_name": "JAPN 323",
+  "subject_code": "JAPN",
+  "course_number": "323",
+  "course_title": "Intermediate Japanese II B",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JAPN&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "JAPN 323 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JAPN&course=323&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "-  If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course will be delivered in a mix-mode format (3hrs synchronous + 1 hr asynchronous). Students are expected to meet with the instructor synchronously online for the sessions at the above listed days and times. In addition to the synchronous meetings, the remaining course materials will be delivered asynchronously, as outlined on the course syllabus, and students are expected to complete on their own time. The total workload for this 3-credit course remains the same as a normal class that is delivered in-person.",
+      "subject_code": "JAPN",
+      "course_number": "323",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOSHI, SAORI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "JAPN 323 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JAPN&course=323&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "-  Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "JAPN",
+      "course_number": "323",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOSHI, SAORI"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "3",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "A continuation of JAPN 322. It is strongly recommended that students plan to complete both JAPN 322 and JAPN 323 within one year. Credit will be granted for only one of JAPN 322 and JAPN 212 or JAPN 361.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

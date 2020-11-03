@@ -1,0 +1,44 @@
+{
+  "course_name": "PSYC 368",
+  "subject_code": "PSYC",
+  "course_number": "368",
+  "course_title": "Perceptual Processing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=368&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 368 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=368&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Prereq:  Psyc 367",
+      "subject_code": "PSYC",
+      "course_number": "368",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIASCHI, DEBORAH"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "97",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Perceptual phenomena and their underlying brain mechanisms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

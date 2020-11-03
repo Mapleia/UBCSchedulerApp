@@ -1,0 +1,43 @@
+{
+  "course_name": "FIPR 333",
+  "subject_code": "FIPR",
+  "course_number": "333",
+  "course_title": "Film and Media Production II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 333 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=333&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "RESTRICTED to students in the 3rd year of the BFA Major in Film Production Program.",
+      "subject_code": "FIPR",
+      "course_number": "333",
+      "section_number": "001",
+      "building": "Buchanan",
+      "room": "B202",
+      "instructors": [
+        "BOURGES, ANTOINE"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 9",
+  "description": "Intermediate film and media production. Open only to students in the Film Production BFA Program. Students who have not already completed FIPR 337, FIPR 338 must complete them at the same time as FIPR 333.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

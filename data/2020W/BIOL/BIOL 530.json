@@ -1,0 +1,45 @@
+{
+  "course_name": "BIOL 530",
+  "subject_code": "BIOL",
+  "course_number": "530",
+  "course_title": "The Biology of the Cell",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=530&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 530 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=530&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:30",
+      "end": "12:30",
+      "comments": "Scheduled in (LSC) 1410 / OnlineTo register, please contact BIOL 530 course instructor, Ninan Abraham, at Ninan@mail.ubc.ca .",
+      "subject_code": "BIOL",
+      "course_number": "530",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABRAHAM, NINAN",
+        "CLAYWORTH, KATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

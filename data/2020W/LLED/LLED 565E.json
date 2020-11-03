@@ -1,0 +1,43 @@
+{
+  "course_name": "LLED 565E",
+  "subject_code": "LLED",
+  "course_number": "565E",
+  "course_title": "Special Course in Subject Matter Field - SPC C SUBJ MTFLD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=565E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LLED 565E 061",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=565E&section=061&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Cross-listed with LLED 480E 061.Energy Literacy in Educational and Environmental Futures.This section will be offered online.",
+      "subject_code": "LLED",
+      "course_number": "565E",
+      "section_number": "061",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GLADWIN, DEREK"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

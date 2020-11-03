@@ -1,0 +1,82 @@
+{
+  "course_name": "CAPS 390",
+  "subject_code": "CAPS",
+  "course_number": "390",
+  "course_title": "Introduction to Microscopic Human Anatomy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CAPS&course=390&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CAPS 390 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=390&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CAPS",
+      "course_number": "390",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOPP, JANEL",
+        "LOEWEN, CHRISTOPHER",
+        "MOUKHLES, HAKIMA",
+        "O'CONNOR, TIMOTHY",
+        "ROSKELLEY, CALVIN",
+        "TANENTZAPF, GUY",
+        "VIAU, VICTOR",
+        "VOGL, A WAYNE",
+        "YULE, HEATHER"
+      ],
+      "totalRemaining": "259",
+      "currentlyRegistered": "243",
+      "generalRemaining": "259",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CAPS 390 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CAPS&course=390&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CAPS",
+      "course_number": "390",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Organ system development, structure and function at the microscopic level.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

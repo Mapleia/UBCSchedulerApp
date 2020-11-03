@@ -1,0 +1,71 @@
+{
+  "course_name": "EDCP 375A",
+  "subject_code": "EDCP",
+  "course_number": "375A",
+  "course_title": "Business Education I - Secondary: Curriculum and Pedagogy - BUS ED I SEC C&P",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=375A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 375A 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=375A&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "EDCP 375A SECTION 301 IS RESTRICTED TO STUDENTS IN THE BED SECONDARY PROGRAM WITH A TEACHABLE SUBJECT IN BUSINESS EDUCATION.",
+      "subject_code": "EDCP",
+      "course_number": "375A",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BILN, HARMAN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "EDCP 375A 640",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=375A&section=640&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "EDCP 375A SECTION 301 IS RESTRICTED TO STUDENTS IN THE WEST KOOTENAY TEACHER EDUCATION PROGRAM.",
+      "subject_code": "EDCP",
+      "course_number": "375A",
+      "section_number": "640",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture"
+  ]
+}

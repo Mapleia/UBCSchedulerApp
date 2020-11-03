@@ -1,0 +1,46 @@
+{
+  "course_name": "STAT 461",
+  "subject_code": "STAT",
+  "course_number": "461",
+  "course_title": "Statistical Inference II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 461 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=461&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "STAT",
+      "course_number": "461",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, JIAHUA",
+        "CHEN, JIAHUA(Coordinator)"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "5",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Hypothesis testing and model selection in modern statistics, confidence regions, multiple testing, model comparison criteria. Intended for Honours students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

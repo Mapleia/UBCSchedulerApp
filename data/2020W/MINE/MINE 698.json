@@ -1,0 +1,97 @@
+{
+  "course_name": "MINE 698",
+  "subject_code": "MINE",
+  "course_number": "698",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=698&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 698 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=698&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "- cross-listed with MINE 598",
+      "subject_code": "MINE",
+      "course_number": "698",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENSEN, CARMEN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": " ",
+      "section": "MINE 698 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=698&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "- cross-listed with MINE 598",
+      "subject_code": "MINE",
+      "course_number": "698",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENSEN, CARMEN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": " ",
+      "section": "MINE 698 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=698&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "698",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "26",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Topics in mining and mineral processing for Ph.D. students.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

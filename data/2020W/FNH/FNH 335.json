@@ -1,0 +1,72 @@
+{
+  "course_name": "FNH 335",
+  "subject_code": "FNH",
+  "course_number": "335",
+  "course_title": "Introduction to Wine Science II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 335 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=335&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "335",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCARTHUR, DAVID"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "FNH 335 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=335&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "335",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCARTHUR, DAVID"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Review of diverse styles of wine with consideration of classic wine-producing areas. Concepts in wine microbiology/chemistry; overview of steps in grape processing for diverse wine styles. Comparison of regulations for Canadian VQA systems with international systems. Wine sensory analysis.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

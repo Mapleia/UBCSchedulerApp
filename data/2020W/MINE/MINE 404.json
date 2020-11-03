@@ -1,0 +1,44 @@
+{
+  "course_name": "MINE 404",
+  "subject_code": "MINE",
+  "course_number": "404",
+  "course_title": "Mine Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 404 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=404&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "404",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEEN, JOHN THOMAS"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "62",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Human relations in an organization; types of organizations; personnel evaluations and job rating systems; impact of manpower planning on decision-making; union negotiations; public relations; dealing with the media; corporate responsibilities to society and employees.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

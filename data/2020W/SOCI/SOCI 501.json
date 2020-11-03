@@ -1,0 +1,43 @@
+{
+  "course_name": "SOCI 501",
+  "subject_code": "SOCI",
+  "course_number": "501",
+  "course_title": "Contemporary Sociological Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SOCI 501 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=501&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "501",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABRUTYN, SETH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "course_name": "MINE 598",
+  "subject_code": "MINE",
+  "course_number": "598",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 598 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=598&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "FOR DECEMBER GRADUATES- cross-listed with MINE 698",
+      "subject_code": "MINE",
+      "course_number": "598",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENSEN, CARMEN"
+      ],
+      "totalRemaining": "56",
+      "currentlyRegistered": "4",
+      "generalRemaining": "26",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": " ",
+      "section": "MINE 598 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=598&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "FOR JANUARY ENTRANTS- cross-listed with MINE 698",
+      "subject_code": "MINE",
+      "course_number": "598",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENSEN, CARMEN"
+      ],
+      "totalRemaining": "56",
+      "currentlyRegistered": "4",
+      "generalRemaining": "26",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": " ",
+      "section": "MINE 598 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=598&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "cross-listed with MINE 698",
+      "subject_code": "MINE",
+      "course_number": "598",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENSEN, CARMEN"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Topics in mining, mineral processing and the environment for M.A.Sc. and M.Eng. students.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

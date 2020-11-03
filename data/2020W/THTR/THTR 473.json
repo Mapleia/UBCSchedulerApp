@@ -1,0 +1,45 @@
+{
+  "course_name": "THTR 473",
+  "subject_code": "THTR",
+  "course_number": "473",
+  "course_title": "Advanced Speech and Movement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=473&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 473 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=473&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:30",
+      "comments": "This course is restricted to students enrolled in the final year of the UBC BFA Acting Program.Vocal and physical practices for characterization and self created performance",
+      "subject_code": "THTR",
+      "course_number": "473",
+      "section_number": "001",
+      "building": "Frederic Wood Theatre",
+      "room": "102",
+      "instructors": [
+        "ORMOND, ERIN",
+        "MURPHY, GAYLE(Coordinator)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Open only to B.F.A. Acting students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

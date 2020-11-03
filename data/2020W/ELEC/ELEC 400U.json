@@ -1,0 +1,101 @@
+{
+  "course_name": "ELEC 400U",
+  "subject_code": "ELEC",
+  "course_number": "400U",
+  "course_title": "Topics in Electrical Engineering - UGRAD RESRCH EXP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=400U&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ELEC 400U 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400U&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Details for registration: http://ece.ubc.ca/course/cpenelec-400u",
+      "subject_code": "ELEC",
+      "course_number": "400U",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABOLMAESUMI, PURANG",
+        "KAMGARPOUR, MARYAM",
+        "WALUS, KONRAD"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 400U 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400U&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Details for registration: http://ece.ubc.ca/course/cpenelec-400u",
+      "subject_code": "ELEC",
+      "course_number": "400U",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 400U 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400U&section=001&sessyr=2020&sesscd=W",
+      "activity": "Research",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "400U",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAMPE, LUTZ",
+        "SALFI, JOSEPH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Lectures or projects on subjects of current interest.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Research"
+  ]
+}

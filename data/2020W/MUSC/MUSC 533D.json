@@ -1,0 +1,44 @@
+{
+  "course_name": "MUSC 533D",
+  "subject_code": "MUSC",
+  "course_number": "533D",
+  "course_title": "Advanced Studies in Music Theory - PERIODICITY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=533D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 533D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=533D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:30",
+      "comments": "A cross-cultural, multi-disciplinary study of rhythm, meter and time in a selection of world music genres, focusing on music theory, analysis and transcription.  With 403D. 2020W Format:  Students attend an online seminar every Tuesday from 1-3:30 pm.",
+      "subject_code": "MUSC",
+      "course_number": "533D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROEDER, JOHN BARLOW",
+        "TENZER, MICHAEL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Research seminar on a core or emerging topic in music theory. May be repeated to a maximum of 12 credits if different topics are covered.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

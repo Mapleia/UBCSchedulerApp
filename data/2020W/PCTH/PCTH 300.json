@@ -1,0 +1,54 @@
+{
+  "course_name": "PCTH 300",
+  "subject_code": "PCTH",
+  "course_number": "300",
+  "course_title": "Introduction to Pharmacology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Some or all activities in Term 2 may return to being conducted in person, depending on provincial and university policies in response to the COVID-19 pandemic; should this happen, the course director will work with any students unable to return to campus to allow for completion of the course.",
+      "subject_code": "PCTH",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABADI, SHIRIN S.A.",
+        "DORMUTH, COLIN",
+        "HORNE, ANDREW",
+        "KARIM, SULTAN",
+        "KARIM, SULTAN(Coordinator)",
+        "LEUNG, JOANNE Y T",
+        "PANG, CATHERINE C",
+        "PANG, CATHERINE C(Coordinator)",
+        "SCHWARZ, STEPHAN",
+        "WALKER, MICHAEL"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "23",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "The concepts, language and techniques of scientific pharmacology. Intended primarily for Honours and Major students in Pharmacology.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

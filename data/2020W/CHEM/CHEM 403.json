@@ -1,0 +1,45 @@
+{
+  "course_name": "CHEM 403",
+  "subject_code": "CHEM",
+  "course_number": "403",
+  "course_title": "Surface Chemistry and Surface Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 403 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=403&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "403",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIZZOTTO, DAN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "16",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Surfaces and phenomena occurring at surfaces and interfaces: adsorption, thermodynamic treatments, technological applications. Methods for characterization and modification of surfaces. Dynamic electrochemistry and its application to understanding fuel cells.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

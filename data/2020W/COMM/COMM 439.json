@@ -1,0 +1,99 @@
+{
+  "course_name": "COMM 439",
+  "subject_code": "COMM",
+  "course_number": "439",
+  "course_title": "Business Telecommunications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=439&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 439 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=439&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "439",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, YAU MAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 439 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=439&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "439",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, YAU MAN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "35",
+      "generalRemaining": "1",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 439 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=439&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "439",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, YAU MAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Basic data communications concepts and technology; local area, wide area, and enterprise networks; the Internet; wireless networking; network development life cycle; network security and management.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "course_name": "PHIL 375",
+  "subject_code": "PHIL",
+  "course_number": "375",
+  "course_title": "Philosophy and Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=375&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 375 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=375&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "\"Philosophy and Literature\" addresses philosophical issues in works of literature or arising from theories of literary interpretation. Topics include issues relating to relativism, the nature of morality, free will, personal identity, and the nature of emotions. This course in particular will be about the question of what the interpretation of texts and the methods associated with interpretation (hermeneutics) can teach us about more general philosophical questions such as metaphysics, scientific method, moral responsibility, and personal identity.COVID-19 notice: The instructor will provide asynchronous lecture material for each reading. Students will be assessed about these materials in the assessment quizzes. Furthermore, once a week there will be a synchronous tutorial session online, which you can either attend or for which you can submit an audio question asynchronously. Attendance at the tutorial OR submission of an audio question count towards your attendance grade. The tutorials are not meant for new lecture material, but for question and answer sessions with the instructor. This course is designed to accommodate students who cannot attend online meetings. The tutorials, which are online meetings, do not require attendance as they will be recorded and audio questions can be submitted in lieu of attendance. All lecture mat and ~erials will be provided so students can access them at their convenience. However, students must have the capability for one online meeting: the final exam interview with the instructor.",
+      "subject_code": "PHIL",
+      "course_number": "375",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LUKITS, STEFAN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "80",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 375 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=375&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This course will proceed asynchronously, but with opportunities available for those who wish to meet synchronously for one-to-one office hours and small group meetings. There will be short video segments posted each week to introduce the week's texts and/or writing prompts, and students will be expected to contribute substantially to discussions of the week's topics using online forums. Participation in these discussions is not graded, but making at least a few contributions every week is a necessary condition to pass the course. Assessment is via coursework (essays and philosophical writing).",
+      "subject_code": "PHIL",
+      "course_number": "375",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JENKINS, CAROLINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "90",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Philosophical issues in works of literature or arising from theories of literary interpretation. Topics include issues relating to relativism, the nature of morality, free will, personal identity, the nature of the emotions.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

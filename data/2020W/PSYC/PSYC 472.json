@@ -1,0 +1,45 @@
+{
+  "course_name": "PSYC 472",
+  "subject_code": "PSYC",
+  "course_number": "472",
+  "course_title": "Advanced Neuroscience of Motivation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=472&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 472 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=472&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "472",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WINSTANLEY, CATHARINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Neurobiological pathways mediating five core aspects of motivated behaviour: (1) affective decision making; (2) motivated drive; (3) goal-directed vs. habit-based behaviour; (4) learning from negative reinforcers; and (5) disorders of motivation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "course_name": "LAW 430",
+  "subject_code": "LAW",
+  "course_number": "430",
+  "course_title": "Advanced Legal Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 430 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=430&section=002&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This workshop does NOT fulfill the 3 credit seminar requirement. Registration restricted to 3rd year students.",
+      "subject_code": "LAW",
+      "course_number": "430",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FLYNN, ALEXANDRA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 430 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=430&section=003&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "This workshop does NOT fulfill the 3 credit seminar requirement. Registration restricted to 3rd year students.",
+      "subject_code": "LAW",
+      "course_number": "430",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEDUC, EMILIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 430 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=430&section=004&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "This workshop does NOT fulfill the 3 credit seminar requirement. Registration restricted to third year students.",
+      "subject_code": "LAW",
+      "course_number": "430",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORDON, BRADY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Research using electronic databases, information systems, and non-legal databases relevant to the resolution of legal issues.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Workshop"
+  ]
+}

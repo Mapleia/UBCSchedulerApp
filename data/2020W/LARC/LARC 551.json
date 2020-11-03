@@ -1,0 +1,44 @@
+{
+  "course_name": "LARC 551",
+  "subject_code": "LARC",
+  "course_number": "551",
+  "course_title": "Professional Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=551&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 551 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=551&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "551",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRLING, CYNTHIA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Ethical, legal and business context of professional practice, including contracts, project management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

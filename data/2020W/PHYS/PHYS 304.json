@@ -1,0 +1,100 @@
+{
+  "course_name": "PHYS 304",
+  "subject_code": "PHYS",
+  "course_number": "304",
+  "course_title": "Introduction to Quantum Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 304 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=304&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "304",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOUNG, JEFF"
+      ],
+      "totalRemaining": "61",
+      "currentlyRegistered": "71",
+      "generalRemaining": "61",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 304 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=304&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "304",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZHITNITSKY, ARIEL"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "108",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 304 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=304&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "All tutorial sections are running online for 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "304",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOUNG, JEFF"
+      ],
+      "totalRemaining": "69",
+      "currentlyRegistered": "71",
+      "generalRemaining": "69",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles and applications of quantum mechanics, wave mechanics, the Schroedinger equation, expectation values, Hermitian operators, commuting observables,  one-dimensional systems, harmonic oscillators, angular momentum, three dimensional systems. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

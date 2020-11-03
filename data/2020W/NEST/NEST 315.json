@@ -1,0 +1,45 @@
+{
+  "course_name": "NEST 315",
+  "subject_code": "NEST",
+  "course_number": "315",
+  "course_title": "Introduction to Akkadian",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NEST&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "NEST 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NEST&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.",
+      "subject_code": "NEST",
+      "course_number": "315",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILSTEIN, SARA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The basic grammar and introduction to the cuneiform writing system of the Akkadian language of the Ancient Near East.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

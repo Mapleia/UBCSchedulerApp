@@ -1,0 +1,44 @@
+{
+  "course_name": "RMST 221B",
+  "subject_code": "RMST",
+  "course_number": "221B",
+  "course_title": "Literatures and Cultures of the Romance World I: Medieval to Early Modern - LIT&CULT RMNCE I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RMST&course=221B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "RMST 221B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RMST&course=221B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "An introduction to the main themes that shaped the Western part of Europe as its different national identities emerged in the Mediterranean sphere. Full description: https://fhis.ubc.ca/course-description/rmst221b/",
+      "subject_code": "RMST",
+      "course_number": "221B",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the main themes that shaped the Western part of Europe as its different national identities emerged in the Mediterranean sphere.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

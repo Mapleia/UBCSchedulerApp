@@ -1,0 +1,45 @@
+{
+  "course_name": "STAT 535A",
+  "subject_code": "STAT",
+  "course_number": "535A",
+  "course_title": "Statistical Computing - CONVEX OPTIM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=535A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "STAT 535A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=535A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "This course focuses on algorithms for solving convex optimization problems and the implications for statistical estimation. Course topics will include convex functions; KKT conditions and subdifferentials; implications for estimators; and first-order optimization algorithms. We will also discuss path algorithms and other tricks for penalized estimators.As a prerequisite, students should have taken Stat 560 and 561, as well as a graduate level course in Probability (Stat 547C)",
+      "subject_code": "STAT",
+      "course_number": "535A",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCDONALD, DANIEL",
+        "MCDONALD, DANIEL(Coordinator)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

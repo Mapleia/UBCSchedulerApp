@@ -1,0 +1,44 @@
+{
+  "course_name": "CIVL 432",
+  "subject_code": "CIVL",
+  "course_number": "432",
+  "course_title": "Advanced Structural Steel Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 432 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=432&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "432",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOLINA HUTT, CARLOS"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Design of steel structures to resist vertical and lateral loads. Floor and roof systems including conceptual layout, floor deck, beams, joists, trusses, and columns. Stability issues and limit states design. Connections and construction aspects. Seismic design.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

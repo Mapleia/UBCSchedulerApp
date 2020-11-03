@@ -1,0 +1,43 @@
+{
+  "course_name": "MRNE 415",
+  "subject_code": "MRNE",
+  "course_number": "415",
+  "course_title": "Structure and Function in Marine Animals",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MRNE&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MRNE 415 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MRNE&course=415&section=610&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MRNE",
+      "course_number": "415",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Principles of classification, evolution, morphology, biomechanics, physiology and biochemistry will be illustrated in representatives from a variety of animal phyla.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "SOCI 442",
+  "subject_code": "SOCI",
+  "course_number": "442",
+  "course_title": "Families and Work",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=442&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 442 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=442&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "442",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FULLER, SYLVIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "The effect of combining family and work roles. Credit will be granted for only one of SOCI 442 and FMST 442.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

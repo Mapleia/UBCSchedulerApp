@@ -1,0 +1,44 @@
+{
+  "course_name": "CIVL 508",
+  "subject_code": "CIVL",
+  "course_number": "508",
+  "course_title": "Dynamics of Structures II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 508 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=508&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "Do NOT contact the professor regarding registration problems.If the course is full, please fill out the online course registration form available at the below web link http://www.civil.ubc.ca/webform/course-request-registration-form and submit it electronically. Please check back regularly to see if space opens up in the class.  All applications requesting admission to the course will be considered in August.  Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  You will be advised in August if you have been admitted to the class or not.",
+      "subject_code": "CIVL",
+      "course_number": "508",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VENTURA, CARLOS ESTUARDO"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "21",
+      "generalRemaining": "6",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Dynamic response of discrete and continuous systems; structural property matrices and eigenvalue problem; introduction to random vibrations; wave propagation analysis; experimental techniques and computer modelling.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

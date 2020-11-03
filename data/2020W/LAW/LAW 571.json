@@ -1,0 +1,43 @@
+{
+  "course_name": "LAW 571",
+  "subject_code": "LAW",
+  "course_number": "571",
+  "course_title": "Communications Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=571&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 571 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=571&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "*Cross-listed to LAW 424.001*",
+      "subject_code": "LAW",
+      "course_number": "571",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FESTINGER, JONATHAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Selected legal issues relating to the communications industries and their regulation. Not offered each year, consult Faculty. Credit will only be granted for one of LAW 571 or LAW 424.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

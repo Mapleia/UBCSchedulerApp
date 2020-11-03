@@ -1,0 +1,70 @@
+{
+  "course_name": "COMM 420",
+  "subject_code": "COMM",
+  "course_number": "420",
+  "course_title": "Marketing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 420 DD1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=420&section=DD1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is restricted to students in the Bachelor  and  Master of Management Dual Degree program.",
+      "subject_code": "COMM",
+      "course_number": "420",
+      "section_number": "DD1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SWAFFIELD, MARY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "59",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 420 DD2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=420&section=DD2&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is restricted to students in the Bachelor  and  Master of Management Dual Degree program.",
+      "subject_code": "COMM",
+      "course_number": "420",
+      "section_number": "DD2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": "Basic considerations affecting the domestic and international marketing of goods and services. Analytical frameworks and techniques that are used to guide marketing strategy decisions. For Master of Management - Dual Degree Option students only.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

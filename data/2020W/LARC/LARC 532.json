@@ -1,0 +1,44 @@
+{
+  "course_name": "LARC 532",
+  "subject_code": "LARC",
+  "course_number": "532",
+  "course_title": "Landscape Technologies II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=532&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 532 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=532&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "532",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOOSHMAND, SOMAYE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Hard landscape materials.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

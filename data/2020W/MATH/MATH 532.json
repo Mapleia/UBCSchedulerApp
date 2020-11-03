@@ -1,0 +1,45 @@
+{
+  "course_name": "MATH 532",
+  "subject_code": "MATH",
+  "course_number": "532",
+  "course_title": "Algebraic Geometry I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=532&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 532 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=532&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "532",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KARU, KALLE",
+        "KARU, KALLE(Coordinator)"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

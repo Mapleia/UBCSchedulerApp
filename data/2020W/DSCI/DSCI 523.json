@@ -1,0 +1,96 @@
+{
+  "course_name": "DSCI 523",
+  "subject_code": "DSCI",
+  "course_number": "523",
+  "course_title": "Programming for Data Manipulation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=523&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 523 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=523&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Reserved for MDS-Vancouver and MDS-Computational Linguistic students.",
+      "subject_code": "DSCI",
+      "course_number": "523",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "133",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 523 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=523&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "523",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 523 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=523&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "523",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Program design and data manipulation using industry-standard software tools designed for statistical work. Organizing, filtering, sorting, grouping, reformatting, converting, and cleaning data to prepare it for further analysis. This course is not eligible for Credit/D/Fail grading.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

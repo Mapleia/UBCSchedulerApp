@@ -1,0 +1,73 @@
+{
+  "course_name": "SPPH 531",
+  "subject_code": "SPPH",
+  "course_number": "531",
+  "course_title": "Health Care Systems Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=531&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 531 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=531&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Course will be delivered entirely online.  To access course module, visit UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "531",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGRAIL, KIMBERLYN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "SPPH 531 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=531&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Class location: SPPH 424There are no prerequisites for this course, but it is intended to be a 2nd (or subsequent) (graduate-level) year course.",
+      "subject_code": "SPPH",
+      "course_number": "531",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "20",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theory, concepts, measurement, and practical skills using administrative data for analysis of health care systems.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

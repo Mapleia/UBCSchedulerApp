@@ -1,0 +1,72 @@
+{
+  "course_name": "ENGL 373",
+  "subject_code": "ENGL",
+  "course_number": "373",
+  "course_title": "Indigenous Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 373 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=373&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "373",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NASON, DOROTHY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 373 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=373&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "The instructor for this course is Alexa Manuel.",
+      "subject_code": "ENGL",
+      "course_number": "373",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Indigenous writing and cultural expression in national and/or international contexts. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 373 and/or 476.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

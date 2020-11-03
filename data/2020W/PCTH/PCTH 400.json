@@ -1,0 +1,59 @@
+{
+  "course_name": "PCTH 400",
+  "subject_code": "PCTH",
+  "course_number": "400",
+  "course_title": "Systematic Pharmacology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PCTH 400 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=400&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Some or all activities in Term 2 may return to being conducted in person, depending on provincial and university policies in response to the COVID-19 pandemic; should this happen, the course director will work with any students unable to return to campus to allow for completion of the course.",
+      "subject_code": "PCTH",
+      "course_number": "400",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANSERMINO, JOHN MARK",
+        "BARR, ALASDAIR",
+        "BERNATCHEZ, PASCAL",
+        "BHAGAVATULA, SASTRY",
+        "BHAGAVATULA, SASTRY(Coordinator)",
+        "CHOI, PETER TSZ LUNG",
+        "DORMUTH, COLIN",
+        "FEDIDA, DAVID",
+        "GRIESDALE, DONALD E",
+        "HACKETT, TILLIE-LOUISE",
+        "HORNE, ANDREW",
+        "LAHER, ISMAIL",
+        "PRESTON, ROANNE",
+        "RIVERA ACEVEDO, RICARDO",
+        "WALKER, MICHAEL"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "22",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Lectures and discussions in scientific pharmacology. All aspects of the study of drugs will be covered, but the course will concentrate on the scientific aspects of the pharmacology of neurohumoral transmission, mathematics of pharmacology, cardiovascular and clinical pharmacology, and to a lesser extent on the pharmacology of various organs and tissues.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "course_name": "EXCH 375",
+  "subject_code": "EXCH",
+  "course_number": "375",
+  "course_title": "Student Exchange Program, Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EXCH&course=375&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EXCH 375 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EXCH&course=375&section=101&sessyr=2020&sesscd=W",
+      "activity": "Exchange Program",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EXCH",
+      "course_number": "375",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "900",
+      "currentlyRegistered": "0",
+      "generalRemaining": "900",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EXCH 375 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EXCH&course=375&section=201&sessyr=2020&sesscd=W",
+      "activity": "Exchange Program",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EXCH",
+      "course_number": "375",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "900",
+      "currentlyRegistered": "0",
+      "generalRemaining": "900",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EXCH 375 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EXCH&course=375&section=001&sessyr=2020&sesscd=W",
+      "activity": "Exchange Program",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EXCH",
+      "course_number": "375",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "900",
+      "currentlyRegistered": "0",
+      "generalRemaining": "900",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 0",
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Exchange Program"
+  ]
+}

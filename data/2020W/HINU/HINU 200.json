@@ -1,0 +1,73 @@
+{
+  "course_name": "HINU 200",
+  "subject_code": "HINU",
+  "course_number": "200",
+  "course_title": "Intermediate Hindi-Urdu",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HINU&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HINU 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HINU&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.) - This course will be offered online in the Fall, and there will be no in-class component in Term 1. No decision has yet been made for Term 2 in January 2021. Note that once the University makes an accouncement declaring whether Term 2 will be conducted online or not, this messaging will be removed.",
+      "subject_code": "HINU",
+      "course_number": "200",
+      "section_number": "001",
+      "building": "Neville Scarfe",
+      "room": "204A",
+      "instructors": [
+        "KUMAR BHATT, SUNIL"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "4",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "HINU 200 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HINU&course=200&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "HINU",
+      "course_number": "200",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUMAR BHATT, SUNIL"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Conversation and grammar; an introduction to Hindi literature; an introduction to the Urdu script. As of 2011W, credit will be granted for only one of HINU 201/202 or HINU 200.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

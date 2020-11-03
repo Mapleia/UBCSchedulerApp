@@ -1,0 +1,69 @@
+{
+  "course_name": "ISCI 448E",
+  "subject_code": "ISCI",
+  "course_number": "448E",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=448E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "ISCI 448E 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=448E&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "448E",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ISCI 448E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=448E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ISCI",
+      "course_number": "448E",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "GROAT, LEE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Permission of the Director is required.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

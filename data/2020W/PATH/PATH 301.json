@@ -1,0 +1,95 @@
+{
+  "course_name": "PATH 301",
+  "subject_code": "PATH",
+  "course_number": "301",
+  "course_title": "Basic and Physical Biochemistry for Medical Laboratory Scientists",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PATH 301 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=301&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "RESTRICTED TO BMLS STUDENTS",
+      "subject_code": "PATH",
+      "course_number": "301",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [],
+      "totalRemaining": "Optional",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PATH 301 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=301&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "PATH",
+      "course_number": "301",
+      "section_number": "L01",
+      "building": "UBC Hospital - Koerner Pavilion",
+      "room": "G131",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "PATH 301 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=301&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:30",
+      "end": "16:30",
+      "comments": "Details on in-person labs will be communicated to students via email.",
+      "subject_code": "PATH",
+      "course_number": "301",
+      "section_number": "L02",
+      "building": "UBC Hospital - Koerner Pavilion",
+      "room": "G131",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "An integrated approach to specific areas of the theoretical and practical aspects of those physical and biological sciences relevant to medical laboratory science. Emphasis will be placed upon the application of basic science to those clinical disciplines practised by the medical laboratory scientist, e.g., histochemistry, clinical chemistry, microbiology, haematology, etc.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

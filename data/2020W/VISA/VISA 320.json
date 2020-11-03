@@ -1,0 +1,70 @@
+{
+  "course_name": "VISA 320",
+  "subject_code": "VISA",
+  "course_number": "320",
+  "course_title": "Intermediate Drawing I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 320 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=320&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "VISA 320 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components. If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "320",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JAMES, GARETH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 320 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=320&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "VISA 320 01W is a waitlist for VISA 320 001. Pre-req: VISA 220. Students who do not have the appropriate pre-requisite will be de-registered.Students will be moved from the waitlist into the class, space permitting, in order of registration date. While we hope to accommodate all interested students in this class, please be aware that being registered on the waitlist does not guarantee you will obtain a seat.",
+      "subject_code": "VISA",
+      "course_number": "320",
+      "section_number": "01W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "99"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Investigation of drawing as a discipline in the context of contemporary art. Emphasis on expanding definitions of the drawing practice while focusing on technical and conceptual development.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

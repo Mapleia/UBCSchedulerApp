@@ -1,0 +1,43 @@
+{
+  "course_name": "CNPS 524",
+  "subject_code": "CNPS",
+  "course_number": "524",
+  "course_title": "Counselling Adults",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CNPS 524 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=524&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "524",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HORWITZ, ERIKA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Major issues and problems of adult development. Selection of appropriate counselling interventions for use in education and other counselling settings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

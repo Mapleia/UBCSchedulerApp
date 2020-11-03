@@ -1,0 +1,44 @@
+{
+  "course_name": "ECON 447",
+  "subject_code": "ECON",
+  "course_number": "447",
+  "course_title": "Monetary Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=447&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 447 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=447&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "447",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NEWMAN, GEOFFREY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Theoretical analysis of economies that use money; the emergence of money; the roles of money in the economy; models of money demand; the optimal quantity of money seignorage and inflation; monetary policy and macroeconomic stability; monetary policy in an open economy.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

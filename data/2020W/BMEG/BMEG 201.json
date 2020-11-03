@@ -1,0 +1,130 @@
+{
+  "course_name": "BMEG 201",
+  "subject_code": "BMEG",
+  "course_number": "201",
+  "course_title": "Technical Communication for Biomedical Engineers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "BMEG 201 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=201&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "201",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EYKING, ADRIANNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BMEG 201 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=201&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Students who wish to take BMEG 201 section 202 and are registered in BMEG 250 L2A should email undergrad@bme.ubc.ca for registration.",
+      "subject_code": "BMEG",
+      "course_number": "201",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EYKING, ADRIANNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BMEG 201 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=201&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "201",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EYKING, ADRIANNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 201 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=201&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "201",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "29",
+        "1",
+        "29",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Report preparation, business correspondence, and oral presentation in biomedical engineering specific cases and projects. Credit will be granted for only one of BMEG 201 or APSC 201.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

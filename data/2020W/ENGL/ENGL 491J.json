@@ -1,0 +1,43 @@
+{
+  "course_name": "ENGL 491J",
+  "subject_code": "ENGL",
+  "course_number": "491J",
+  "course_title": "Senior Honours Seminar - SR HONORS SEMNR1",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=491J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 491J 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=491J&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "491J",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GASTON, LISE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Offerings in literary theory.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

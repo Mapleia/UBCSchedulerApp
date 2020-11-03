@@ -1,0 +1,97 @@
+{
+  "course_name": "MICB 203",
+  "subject_code": "MICB",
+  "course_number": "203",
+  "course_title": "Basic Microbiology Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=203&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 203 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=203&section=201&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "203",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, KAREN"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "9",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 203 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=203&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "203",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, KAREN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "8",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "MICB 203 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=203&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "203",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Procedures and principles associated with isolation, characterization and handling of microorganisms. Intended for students requiring a basic microbiology laboratory course.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Tutorial",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

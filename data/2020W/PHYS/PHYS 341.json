@@ -1,0 +1,72 @@
+{
+  "course_name": "PHYS 341",
+  "subject_code": "PHYS",
+  "course_number": "341",
+  "course_title": "Physics of Music",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=341&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 341 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=341&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "341",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN RAAMSDONK, MARK"
+      ],
+      "totalRemaining": "67",
+      "currentlyRegistered": "33",
+      "generalRemaining": "67",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 341 20W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=341&section=20W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "341",
+      "section_number": "20W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the physical principles important to the production, transmission and perception of musical sounds. The treatment will be non-mathematical; with emphasis on demonstrations. Topics may include the description of sound waves, resonances, scales, physics of hearing, examination of specific musical instruments, etc. Not for credit in the Faculties of Science and Applied Science.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

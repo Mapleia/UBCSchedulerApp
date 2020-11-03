@@ -1,0 +1,73 @@
+{
+  "course_name": "ECON 441",
+  "subject_code": "ECON",
+  "course_number": "441",
+  "course_title": "The Process of Economic Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ECON 441 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=441&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This section is reserved for students in the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "441",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCASLAND, JAMIE"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "64",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": " ",
+      "section": "ECON 441 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=441&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This section of ECON441 is NOT for students in the BIE program.",
+      "subject_code": "ECON",
+      "course_number": "441",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VALENCIA CAICEDO, FELIPE"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "52",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Industrialization of an agrarian economy; how the West grew rich; history of Japanese development; technical progress and growth; evolution of the patterns of income distribution; role of international trade in development; environment and development.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

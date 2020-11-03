@@ -1,0 +1,74 @@
+{
+  "course_name": "BMEG 400C",
+  "subject_code": "BMEG",
+  "course_number": "400C",
+  "course_title": "Topics in Biomedical Engineering - MDRN BME OPT IMG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=400C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 400C 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400C&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Non-BMEG students should contact the instructor for permission to register in BMEG 400C and register in the waitlist.",
+      "subject_code": "BMEG",
+      "course_number": "400C",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JU, MYEONG JIN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 400C WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400C&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "400C",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Lectures or projects on specialized topics in Biomedical Engineering.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

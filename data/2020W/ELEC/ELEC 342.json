@@ -1,0 +1,637 @@
+{
+  "course_name": "ELEC 342",
+  "subject_code": "ELEC",
+  "course_number": "342",
+  "course_title": "Electro-Mechanical Energy Conversion and Transmission",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=342&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 342 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 342 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LINARES, LUIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "91",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "0",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "0",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 342 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JATSKEVICH, JURI"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 342 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LINARES, LUIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 342 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LINARES, LUIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 342 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LINARES, LUIS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 342 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LINARES, LUIS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L1A",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "2",
+        "98",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "9",
+        "11",
+        "9",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 OPB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=OPB&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "OPB",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "0",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 OPC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=OPC&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "OPC",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "0",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 OPD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=OPD&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "OPD",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "0",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 342 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ELEC 342 TME",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=342&section=TME&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "342",
+      "section_number": "TME",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "0",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors. Credit will only be given for one of EECE 373, ELEC 342, and EECE 374.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "course_name": "COHR 401",
+  "subject_code": "COHR",
+  "course_number": "401",
+  "course_title": "Organizational Change",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COHR&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COHR 401 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COHR&course=401&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COHR",
+      "course_number": "401",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAWCLIFFE, WAYNE"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "15",
+      "generalRemaining": "18",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": "Credits: 1.5",
+  "description": "The tactics and strategies for implementing constructive modifications in organizations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

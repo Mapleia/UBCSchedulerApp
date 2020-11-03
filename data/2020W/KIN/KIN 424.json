@@ -1,0 +1,70 @@
+{
+  "course_name": "KIN 424",
+  "subject_code": "KIN",
+  "course_number": "424",
+  "course_title": "Medical Aspects of Sport and Exercise",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=424&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 424 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=424&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "This course is formerly KIN 471 . Students can receive credit for either KIN 471 or KIN 424",
+      "subject_code": "KIN",
+      "course_number": "424",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOEHLE, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "323",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 424 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=424&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 471 . Students can receive credit for either KIN 471 or KIN 424",
+      "subject_code": "KIN",
+      "course_number": "424",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "41",
+      "currentlyRegistered": "9",
+      "generalRemaining": "41",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Training and safety strategies for the management and prevention of disorders of internal organs and central nervous system. Topics include environmental and nutritional factors in conditioning and pre-event preparation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

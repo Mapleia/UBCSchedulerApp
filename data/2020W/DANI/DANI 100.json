@@ -1,0 +1,46 @@
+{
+  "course_name": "DANI 100",
+  "subject_code": "DANI",
+  "course_number": "100",
+  "course_title": "Elementary Danish I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DANI&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "DANI 100 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DANI&course=100&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DANI",
+      "course_number": "100",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Danish courses (DANI 100 and DANI 110), but are welcome to join the intermediate courses (DANI 200 and DANI 210).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

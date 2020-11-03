@@ -1,0 +1,99 @@
+{
+  "course_name": "SOCI 369",
+  "subject_code": "SOCI",
+  "course_number": "369",
+  "course_title": "Sociology of Sexualities",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=369&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 369 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=369&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "369",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSS, BECKY"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "64",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 369 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=369&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "369",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILVA, TONY"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "47",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 369 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=369&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "369",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "109",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Historical and social construction of sexual identities, desires, communities, and politics in the twentieth century.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

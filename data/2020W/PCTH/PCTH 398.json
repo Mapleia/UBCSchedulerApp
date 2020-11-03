@@ -1,0 +1,43 @@
+{
+  "course_name": "PCTH 398",
+  "subject_code": "PCTH",
+  "course_number": "398",
+  "course_title": "Co-operative Work Placement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PCTH 398 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=398&section=001&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PCTH",
+      "course_number": "398",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "6",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Co-operative Education Program in Pharmacology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

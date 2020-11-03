@@ -1,0 +1,74 @@
+{
+  "course_name": "BIOL 464",
+  "subject_code": "BIOL",
+  "course_number": "464",
+  "course_title": "Animal Developmental Genetics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 464 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=464&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "464",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIZUMOTO, KOTA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 464 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=464&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This is the wait-list for BIOL 464-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "464",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Role of genes in embryonic development.  Emphasis on tissue specific expression patterns and the role of genetic networks in establishing cell types.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

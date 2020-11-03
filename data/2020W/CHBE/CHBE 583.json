@@ -1,0 +1,45 @@
+{
+  "course_name": "CHBE 583",
+  "subject_code": "CHBE",
+  "course_number": "583",
+  "course_title": "Energy Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=583&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 583 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=583&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "583",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILKINSON, DAVID"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Supply and use of conventional and alternative fuels and energy. Design and operation of unit operations for processing of fossil fuels, biomass, and other energy sources. Environmental considerations of energy use. Credit will be granted for only one of CHBE 483 or CHBE 583.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "course_name": "DSCI 542",
+  "subject_code": "DSCI",
+  "course_number": "542",
+  "course_title": "Communication and Argumentation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 542 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=542&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "542",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GELBART, MICHAEL",
+        "LAING, DAVID"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 542 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=542&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "542",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GELBART, MICHAEL"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 542 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=542&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "542",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GELBART, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 1",
+  "description": "Claims, reasons, and evidence. Strengths and weaknesses of models. Effective oral and written presentation of scientific results, including interpretation of data and recognition of assumptions, bias, validity, and reliability. Citations, references, and peer-review.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

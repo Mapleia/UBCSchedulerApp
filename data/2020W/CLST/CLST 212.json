@@ -1,0 +1,45 @@
+{
+  "course_name": "CLST 212",
+  "subject_code": "CLST",
+  "course_number": "212",
+  "course_title": "Greek Philosophy II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=212&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 212 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=212&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "CLST",
+      "course_number": "212",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOMMERVILLE, BROOKS"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "22",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Aristotle; selections from Hellenistic and Late Antique Philosophy. Recommended as preparation for PHIL 310 and PHIL 311.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

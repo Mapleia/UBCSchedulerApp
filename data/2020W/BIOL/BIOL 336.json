@@ -1,0 +1,855 @@
+{
+  "course_name": "BIOL 336",
+  "subject_code": "BIOL",
+  "course_number": "336",
+  "course_title": "Fundamentals of Evolutionary Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=336&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 336 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MADDISON, WAYNE",
+        "OTTO, SARAH",
+        "WHITTON, JEANNETTE",
+        "COOPER, CARYN",
+        "FONG, LYDIA",
+        "HEAVYSIDE, JULIAN",
+        "KLIMPERT, NATHANIEL",
+        "KOCH, ELLEN",
+        "LYSENKO-MARTIN, MELANIE",
+        "RADAEVA, MARIIA",
+        "USUI, TAKUJI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "247",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 336 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MADDISON, WAYNE",
+        "OTTO, SARAH",
+        "WHITTON, JEANNETTE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "240",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T40",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T40&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T40",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "USUI, TAKUJI"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T41",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T41&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T41",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "KOCH, ELLEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T42",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T42&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T42",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "HEAVYSIDE, JULIAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T44",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T44&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T44",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "COOPER, CARYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T45",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T45&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T45",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "COOPER, CARYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T46",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T46&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T46",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "RADAEVA, MARIIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T47",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T47&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T47",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "RADAEVA, MARIIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T48",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T48&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T48",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "LYSENKO-MARTIN, MELANIE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T49",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T49&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T49",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "LYSENKO-MARTIN, MELANIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T50",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T50&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T50",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "FONG, LYDIA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T51",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T51&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T51",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "FONG, LYDIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T52",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T52&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T52",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "KLIMPERT, NATHANIEL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T53",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T53&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T53",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "KLIMPERT, NATHANIEL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 336 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This is the wait-list for BIOL 336-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T04&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T05&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T06",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T06&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T06",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T07&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T08",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T08&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T08",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T09",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T09&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T09",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T10",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T10&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T10",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 336 T11",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T11&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T11",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T12",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T12&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T12",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T13",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T13&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T13",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 T14",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=T14&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "T14",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 336 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=336&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This is the wait-list for BIOL 336-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "336",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Natural selection; population genetics, quantitative genetics and systematics; classical and molecular approaches to the study of evolution.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

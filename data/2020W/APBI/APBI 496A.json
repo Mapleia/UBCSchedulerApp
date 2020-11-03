@@ -1,0 +1,97 @@
+{
+  "course_name": "APBI 496A",
+  "subject_code": "APBI",
+  "course_number": "496A",
+  "course_title": "Applied Animal Biology Practicum - APBI PRACTICUM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=496A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APBI 496A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=496A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Information on APBI 496 can be found at https://wiki.ubc.ca/Course:APBI496.   To register, please email the instructor at sara.dubois@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "496A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DUBOIS, SARA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 496A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=496A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Information on APBI 496 can be found at https://wiki.ubc.ca/Course:APBI496.   To register, please email the instructor at sara.dubois@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "496A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DUBOIS, SARA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 496A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=496A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Information on APBI 496 can be found at https://wiki.ubc.ca/Course:APBI496.   To register, please email the instructor at sara.dubois@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "496A",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DUBOIS, SARA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Application of principles and concepts of Applied Animal Biology to experiential learning in the fields of wild, companion, lab, and farm animal welfare and management.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

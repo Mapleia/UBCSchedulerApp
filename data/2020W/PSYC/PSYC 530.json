@@ -1,0 +1,43 @@
+{
+  "course_name": "PSYC 530",
+  "subject_code": "PSYC",
+  "course_number": "530",
+  "course_title": "Assessment: A Critical Survey",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=530&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 530 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=530&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Psyc Clin grads only",
+      "subject_code": "PSYC",
+      "course_number": "530",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HUDEC, KRISTEN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "7",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

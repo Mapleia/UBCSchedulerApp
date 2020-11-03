@@ -1,0 +1,143 @@
+{
+  "course_name": "ATSC 113",
+  "subject_code": "ATSC",
+  "course_number": "113",
+  "course_title": "Applied Meteorology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=113&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ATSC 113 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=113&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ATSC 113 has no required class meetings for any of the 2020 winter-term sections: 101, 201, 99A  and  99C. This is a fully online course.Please refer to the following website to learn more about this course: https://www.eoas.ubc.ca/courses/atsc113/",
+      "subject_code": "ATSC",
+      "course_number": "113",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCOLLOR, DOUGLAS",
+        "STULL, ROLAND",
+        "AGGER, SOFIE",
+        "DEERE, ALISON",
+        "LIN, JINGRONG",
+        "LOEPPKY, ANDREW",
+        "OH, GUNHO",
+        "RACZ, GABRIELA",
+        "RIBBERINK, MARJOLEIN",
+        "ZHANG, YAO"
+      ],
+      "totalRemaining": "626",
+      "currentlyRegistered": "874",
+      "generalRemaining": "626",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ATSC 113 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=113&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ATSC 113 has no required class meetings for any of the 2020 winter-term sections: 101, 201, 99A  and  99C. This is a fully online course.Please refer to the following website to learn more about this course: https://www.eoas.ubc.ca/courses/atsc113/",
+      "subject_code": "ATSC",
+      "course_number": "113",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCOLLOR, DOUGLAS",
+        "STULL, ROLAND"
+      ],
+      "totalRemaining": "752",
+      "currentlyRegistered": "748",
+      "generalRemaining": "752",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ATSC 113 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=113&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ATSC 113 has no required class meetings for any of the 2020 winter-term sections: 101, 201, 99A  and  99C. This is a fully online course.Please refer to the following website to learn more about this course: https://www.eoas.ubc.ca/courses/atsc113/",
+      "subject_code": "ATSC",
+      "course_number": "113",
+      "section_number": "99A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCOLLOR, DOUGLAS",
+        "STULL, ROLAND",
+        "AGGER, SOFIE",
+        "DEERE, ALISON",
+        "LIN, JINGRONG",
+        "LOEPPKY, ANDREW",
+        "OH, GUNHO",
+        "RACZ, GABRIELA",
+        "RIBBERINK, MARJOLEIN",
+        "ZHANG, YAO"
+      ],
+      "totalRemaining": "265",
+      "currentlyRegistered": "235",
+      "generalRemaining": "265",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ATSC 113 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=113&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ATSC 113 has no required class meetings for any of the 2020 winter-term sections: 101, 201, 99A  and  99C. This is a fully online course.Please refer to the following website to learn more about this course: https://www.eoas.ubc.ca/courses/atsc113/Please refer to the following website to learn more about this course: https://www.eoas.ubc.ca/courses/atsc113/",
+      "subject_code": "ATSC",
+      "course_number": "113",
+      "section_number": "99C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCOLLOR, DOUGLAS",
+        "STULL, ROLAND"
+      ],
+      "totalRemaining": "368",
+      "currentlyRegistered": "132",
+      "generalRemaining": "368",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Atmospheric-science principles elucidated by case studies applied to snow sports, sailing, surfing, soaring, and flying.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

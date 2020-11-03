@@ -1,0 +1,72 @@
+{
+  "course_name": "CHBE 485",
+  "subject_code": "CHBE",
+  "course_number": "485",
+  "course_title": "Air Pollution Prevention and Control",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=485&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHBE 485 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=485&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "485",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAU, ANTHONY K"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CHBE 485 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=485&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "CHBE",
+      "course_number": "485",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAU, ANTHONY K"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Impacts of air pollutants on health, visibility, smog formation, ozone depletion and global warming; air quality and emission standards; atmospheric dispersion of air pollutants; prevention and control technologies for particulates, SOx, NOx, VOCs, and CO2. Credit will be granted for only one of CHBE 485, CHBE 575.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

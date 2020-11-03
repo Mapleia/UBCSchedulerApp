@@ -1,0 +1,98 @@
+{
+  "course_name": "MECH 467",
+  "subject_code": "MECH",
+  "course_number": "467",
+  "course_title": "Computer Control of Mechatronics Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=467&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 467 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=467&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "Students will be required to attend additional lab times in the Mechatronics lab throughout the term. Please see Prof for schedule.",
+      "subject_code": "MECH",
+      "course_number": "467",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 467 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=467&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "467",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MECH 467 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=467&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "This tutorial will be taught in RH 123.",
+      "subject_code": "MECH",
+      "course_number": "467",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 4",
+  "description": "Block diagrams and transfer functions, continuous and discrete domain transformations, feedback control system characteristics, control design in both continuous and discrete domain, absolute and relative stability, laboratory examples of Mechatronic systems design. Credit cannot be obtained for both MECH 466 and MECH 467.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory",
+    "Tutorial"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "course_name": "BIOL 438",
+  "subject_code": "BIOL",
+  "course_number": "438",
+  "course_title": "Zoological Physics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=438&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 438 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=438&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "438",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSER, SCOTT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 438 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=438&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This is the wait-list for BIOL 438-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "438",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSER, SCOTT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Animal systems viewed from a physicist's perspective. Topics include sensory systems, energy budgets, locomotion, internal flows, physical advantages of grouping.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

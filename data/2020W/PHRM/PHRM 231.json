@@ -1,0 +1,43 @@
+{
+  "course_name": "PHRM 231",
+  "subject_code": "PHRM",
+  "course_number": "231",
+  "course_title": "Study Design and Interpretation II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=231&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PHRM 231 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=231&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "Please note that all PHRM 231 sessions will be delivered online.",
+      "subject_code": "PHRM",
+      "course_number": "231",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 2",
+  "description": "Principles of screening and diagnostic tests, clinical prediction rules, clinical practice guidelines, conflicts of interest, economic evaluation of therapeutics and medical technologies, harm-benefit analysis, and how to incorporate the best available evidence into practice.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

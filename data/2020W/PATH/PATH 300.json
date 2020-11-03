@@ -1,0 +1,45 @@
+{
+  "course_name": "PATH 300",
+  "subject_code": "PATH",
+  "course_number": "300",
+  "course_title": "Background to Medical Laboratory Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PATH 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "RESTRICTED TO BMLS STUDENTS",
+      "subject_code": "PATH",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARCON, KRISTA",
+        "NICOLSON, HAMISH",
+        "SHIH, ANDREW"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "Introductory lectures and laboratory sessions in clinical chemistry, haematology and blood banking, hospital microbiology, preparation and examination of tissue sections. For Medical Laboratory Science students without previous experience in hospital laboratories.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

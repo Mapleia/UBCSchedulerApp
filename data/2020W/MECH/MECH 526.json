@@ -1,0 +1,43 @@
+{
+  "course_name": "MECH 526",
+  "subject_code": "MECH",
+  "course_number": "526",
+  "course_title": "Mechatronic System Design Project I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=526&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MECH 526 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=526&section=101&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "526",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 6",
+  "description": "The design, analysis, manufacturability, instrumentation and computer control of a selected dynamic machinery assembly will be studied.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

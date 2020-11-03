@@ -1,0 +1,70 @@
+{
+  "course_name": "SOWK 200",
+  "subject_code": "SOWK",
+  "course_number": "200",
+  "course_title": "Introduction to Social Welfare",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE KERCKHOVE, PASCALE"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "108",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "SOWK 200 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=200&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students will be notified by email if they are moved from the waiting list into the regular section.",
+      "subject_code": "SOWK",
+      "course_number": "200",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "An introduction to the perspectives, concepts and theoretical foundations of social welfare, including an analysis of the institutional structures of social welfare in the modern state.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

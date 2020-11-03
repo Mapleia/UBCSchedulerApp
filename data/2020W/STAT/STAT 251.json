@@ -1,0 +1,106 @@
+{
+  "course_name": "STAT 251",
+  "subject_code": "STAT",
+  "course_number": "251",
+  "course_title": "Elementary Statistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=251&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 251 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=251&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "If the course is full please register in the Waitlist STAT 251 WL1As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS!STAT 241 HAS BEEN ELIMINATED. ALL STUDENTS SHOULD NOW REGISTER IN STAT 251.Please note this course will be offered in the summer.",
+      "subject_code": "STAT",
+      "course_number": "251",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA",
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA(Coordinator)"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "352",
+      "generalRemaining": "25",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "STAT 251 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=251&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "PLEASE NOTE THAT STAT 241 HAS BEEN ELIMINATED. ALL STUDENTS SHOULD NOW REGISTER IN STAT 251.There are no longer labs for this course this term.",
+      "subject_code": "STAT",
+      "course_number": "251",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA",
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "390",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "STAT 251 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=251&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "If STAT 251 101 is full please register in this waitlist",
+      "subject_code": "STAT",
+      "course_number": "251",
+      "section_number": "WL1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA",
+        "WIJENDRA ACHARIGE, LASANTHA PREMARATHNA(Coordinator)"
+      ],
+      "totalRemaining": "80",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "50"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Probability, discrete and continuous random variables, joint probability distributions, estimation, hypothesis testing, regression, analysis of variance, goodness of fit. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar).",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

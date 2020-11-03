@@ -1,0 +1,69 @@
+{
+  "course_name": "EDCP 432",
+  "subject_code": "EDCP",
+  "course_number": "432",
+  "course_title": "Special Study in Social Studies: Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 432 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=432&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Register in the same section number for EDCP 333 and EDCP 432.",
+      "subject_code": "EDCP",
+      "course_number": "432",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAWATSKY, ALANA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Full",
+      "section": "EDCP 432 302",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=432&section=302&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Register in the same section number for EDCP 333 and EDCP 432.",
+      "subject_code": "EDCP",
+      "course_number": "432",
+      "section_number": "302",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NUGENT, SEAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": "Credits: 3",
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}
