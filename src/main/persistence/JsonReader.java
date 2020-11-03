@@ -54,6 +54,7 @@ public class JsonReader {
     private User parseUser(JSONObject jsonObject) throws JSONException, NoCourseFound {
         String term = jsonObject.getString("term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
+        JSONObject schedule = jsonObject.getJSONObject("Schedule");
 
         List<String> courses = new ArrayList<>();
         for (int i = 0; i < arr.length(); i++) {
@@ -63,7 +64,7 @@ public class JsonReader {
 
         User user = new User();
         user.setTerm(term);
-        user.addSectionsToUser(jsonObject);
+        user.addSectionsToUser(schedule);
         user.addCourses(courses);
         return user;
     }

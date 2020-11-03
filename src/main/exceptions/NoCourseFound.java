@@ -1,22 +1,25 @@
 package exceptions;
 
-public class NoCourseFound extends NoClassFound {
+import java.util.ArrayList;
+
+public class NoCourseFound extends Exception {
+    ArrayList<String> list;
+
     public NoCourseFound() {
-        super();
+        list = new ArrayList<>();
     }
 
-    @Override
     public void addClasses(String input) {
-        super.addClasses(input);
+        list.add(input);
     }
 
-    @Override
     public int size() {
-        return super.size();
+        return list.size();
     }
 
-    @Override
     public void printClasses() {
-        super.printClasses();
+        for (String s : list) {
+            System.out.println(s);
+        }
     }
 }

@@ -1,5 +1,6 @@
 package model;
 
+import exceptions.NoCourseFound;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -53,7 +54,54 @@ public class UserTest {
 
     @Test
     public void testAddSectionsToUser() {
-        JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Schedule", "")
+        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
+        try {
+            JSONObject jsonObject = new JSONObject(jsonReader.readFile());
+            user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
+
+        } catch (Exception e) {
+            fail();
+        }
+
+        assertEquals("BIOL 112 101",
+                user.getFinalTimeTable().get("Term1").get("BIOL 112 101").getSection());
+        assertEquals("BIOL 112 T01",
+                user.getFinalTimeTable().get("Term1").get("BIOL 112 T01").getSection());
+        assertEquals("CPSC 210 202",
+                user.getFinalTimeTable().get("Term2").get("CPSC 210 202").getSection());
+        assertEquals("CPSC 210 L2H",
+                user.getFinalTimeTable().get("Term2").get("CPSC 210 L2H").getSection());
+    }
+
+    @Test
+    public void testAddCoursesException() {
+        List<String> list = new ArrayList<>();
+        list.add("CPPS 110");
+        list.add("BIOI 312");
+        try {
+            user.setTerm("2020W");
+            user.addCourses(list);
+            fail();
+        } catch (NoCourseFound noCourseFound) {
+            System.out.println("It's fine!");
+        }
+    }
+
+    @Test
+    public void testToJsonWithSchedule() {
+        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
+        try {
+            JSONObject jsonObject = new JSONObject(jsonReader.readFile());
+            user.setTerm("2020W");
+            user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
+
+        } catch (Exception e) {
+            fail();
+        }
+        try {
+            user.toJson();
+        } catch (Exception e) {
+            fail();
+        }
     }
 }

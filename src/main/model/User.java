@@ -70,22 +70,19 @@ public class User {
 
     // MODIFIES: this
     // EFFECTS: parses sections from User File "Schedule" and adds them to user.
-    public void addSectionsToUser(JSONObject jsonObject) {
-
-        JSONObject schedule = jsonObject.getJSONObject("Schedule");
+    public void addSectionsToUser(JSONObject schedule) {
         Set<String> terms = schedule.keySet();
 
         for (String term : terms) {
-            JSONObject perTerm = schedule.getJSONObject(term);
-            Set<String> sections = perTerm.keySet();
-
-            HashMap<String, Section> perTermMap = new HashMap<>();
-
-            for (String sectionName : sections) {
-                Section section = new Section(perTerm.getJSONObject(sectionName));
-                perTermMap.put(section.getSection(), section);
+            JSONArray perTerm = schedule.getJSONArray(term);
+            HashMap<String, Section> list = new HashMap<>();
+            for (Object o : perTerm) {
+                JSONObject obj = (JSONObject) o;
+                Section section = new Section(obj);
+                list.put(section.getSection(), section);
             }
-            finalTimeTable.put(term, perTermMap);
+
+            finalTimeTable.put(term, list);
         }
     }
 
@@ -112,8 +109,6 @@ public class User {
     // EFFECTS: adds to courseList and courseSet if a valid course is made and returns true.
     // Returns false if finds an exception / cannot find course.
     private boolean addCourse(String input) {
-        assert term != null;
-
         String[] split = input.split(" ");
 
         String path = "./data/" + term + "/" + split[0] + "/" + input + ".json";
