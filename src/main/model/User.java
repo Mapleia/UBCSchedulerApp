@@ -114,9 +114,7 @@ public class User {
                 }
             }
         }
-
-
-        finalTimeTable.get(term).add(section);
+        return isOverlappingWithTable;
     }
 
 
