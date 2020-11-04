@@ -6,16 +6,22 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class JsonReaderTest {
     private JsonReader jsonReader;
+    public List<String> preferences = new ArrayList<>();
 
     @BeforeEach
     public void setup() {
         jsonReader = new JsonReader("./data/noSuchFile.json");
+        preferences.add("Afternoon");
+        preferences.add("Evening");
+        preferences.add("Morning");
     }
 
     @Test
@@ -32,7 +38,7 @@ public class JsonReaderTest {
     @Test
     public void testNonExistentFileCourse() {
         try {
-            Course course = jsonReader.readCourse();
+            Course course = jsonReader.readCourse("2020W", preferences);
 
             fail("IOException expected");
         } catch (IOException e) {

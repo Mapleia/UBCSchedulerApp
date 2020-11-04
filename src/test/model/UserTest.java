@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
@@ -15,10 +14,16 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class UserTest {
     private User user;
+    List<String> preferences = new ArrayList<>();
+
 
     @BeforeEach
     public void setup() {
-        user = new User();
+        user = new User("2020W");
+        preferences.add("Afternoon");
+        preferences.add("Evening");
+        preferences.add("Morning");
+        user.setPreferences(preferences);
     }
 
     @Test
@@ -26,10 +31,10 @@ public class UserTest {
         List<String> courses = new ArrayList<>();
         courses.add("CPSC 210");
         courses.add("BIOL 112");
-        user.setTerm("2020W");
         try {
             user.addCourses(courses);
         } catch (Exception e) {
+
             fail();
         }
         JsonReader reader = new JsonReader("./data/timetables/testUserWithCourses.json");
@@ -49,7 +54,7 @@ public class UserTest {
 
     @Test
     public void testErrorLog() {
-        assertTrue(Arrays.equals(new String[]{}, user.getErrorLog()));
+        assertTrue(new ArrayList<>().equals(user.getErrorLog()));
     }
 
     @Test
@@ -81,11 +86,13 @@ public class UserTest {
         List<String> list = new ArrayList<>();
         list.add("CPPS 110");
         list.add("BIOI 312");
+
+
         try {
-            user.setTerm("2020W");
             user.addCourses(list);
             fail();
         } catch (NoCourseFound noCourseFound) {
+            noCourseFound.printClasses();
             System.out.println("It's fine!");
         }
     }
@@ -95,7 +102,6 @@ public class UserTest {
         JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
         try {
             JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.setTerm("2020W");
             user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
 
         } catch (Exception e) {
@@ -106,5 +112,43 @@ public class UserTest {
         } catch (Exception e) {
             fail();
         }
+    }
+
+    @Test
+    public void testSortCourses() {
+        List<String> coursesToAdd = new ArrayList<>();
+        coursesToAdd.add("BIOL 155"); // TERM 1-2
+        coursesToAdd.add("ASIA 100"); // TERM 1
+        coursesToAdd.add("BIOL 112"); // TERM 1 AND 2
+        coursesToAdd.add("ASIA 101"); // TERM 2
+
+        try {
+            user.addCourses(coursesToAdd);
+        } catch (Exception e) {
+            fail();
+        }
+
+        assertFalse(user.createTimeTable());
+
+    }
+
+    @Test
+    public void testSortCoursesALot() {
+        List<String> coursesToAdd = new ArrayList<>();
+        coursesToAdd.add("BIOL 155");
+        coursesToAdd.add("BIOL 200");
+        coursesToAdd.add("BIOL 140");
+        coursesToAdd.add("CHEM 233");
+        coursesToAdd.add("ENGL 110");
+        coursesToAdd.add("CPSC 210");
+
+        try {
+            user.addCourses(coursesToAdd);
+        } catch (Exception e) {
+            fail();
+        }
+
+        assertFalse(user.createTimeTable());
+
     }
 }

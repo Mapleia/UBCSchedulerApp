@@ -85,7 +85,7 @@
       "restrictedRemaining": "0"
     }
   ],
-  "credits": "Credits: 1",
+  "credits": 1,
   "description": "Performance of a classification model. Generalization error, overfitting of training data. Shrinkage, feature selection, Akaike Information Criterion, Bayesian Information Criterion. k-fold cross validation. Bootstrapping. Receiver Operating Characteristic curve. Elastic nets, regularization.",
   "terms": [
     "1"

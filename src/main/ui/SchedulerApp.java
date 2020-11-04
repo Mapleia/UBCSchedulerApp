@@ -8,6 +8,7 @@ import persistence.JsonWriter;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
@@ -21,7 +22,7 @@ public class SchedulerApp {
 
     public SchedulerApp() {
         input = new Scanner(System.in);
-        user = new User();
+        //user = new User();
 
         runApp();
     }
@@ -99,6 +100,7 @@ public class SchedulerApp {
     // FOR ADDING TO SCHEDULE =========================================================================================
     private void createSchedule() {
         setTerm();
+        setPreferences();
 
         boolean tryMore = true;
         String command;
@@ -132,7 +134,19 @@ public class SchedulerApp {
             System.out.println("\t" + term);
         }
         String command = input.next().toUpperCase();
-        user.setTerm(command);
+        user = new User(command);
+    }
+
+    private void setPreferences() {
+        System.out.println("Please list your time preferences in order of preference (whether you'd like to keep your "
+                + "courses during the morning, afternoon or evening.");
+        System.out.println("Afternoon, Morning, Evening");
+        String command = input.nextLine().toUpperCase();
+        List<String> preferencesArr = new ArrayList<>();
+        for (String time : command.trim().split(",")) {
+            preferencesArr.add(time.trim());
+        }
+        user.setPreferences(preferencesArr);
     }
 
     private void addCourses() throws NoCourseFound {

@@ -14,7 +14,6 @@ public class JsonWriterTest {
     @Test
     void testWriterInvalidFile() {
         try {
-            User user = new User();
             JsonWriter writer = new JsonWriter("./data/timetables/my\0illegal:fileName.json");
             writer.open();
             fail("IOException was expected");
@@ -26,8 +25,7 @@ public class JsonWriterTest {
     @Test
     void testWriterEmptyUser() {
         try {
-            User user = new User();
-            user.setTerm("2020W");
+            User user = new User("2020W");
             JsonWriter writer = new JsonWriter("testWriterEmptyUser");
             writer.open();
             writer.write(user);
@@ -45,8 +43,7 @@ public class JsonWriterTest {
     @Test
     void testWriterGeneralUser() {
         try {
-            User user = new User();
-            user.setTerm("2020W");
+            User user = new User("2020W");
             JsonWriter writer = new JsonWriter("testUserWithSections");
 
             JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");

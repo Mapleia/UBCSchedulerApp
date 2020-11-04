@@ -55,15 +55,13 @@ public class JsonReader {
         String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
-
         List<String> courses = new ArrayList<>();
         for (int i = 0; i < arr.length(); i++) {
             String str = arr.getString(i);
             courses.add(str);
         }
 
-        User user = new User();
-        user.setTerm(term);
+        User user = new User(term);
         user.addSectionsToUser(schedule);
         user.addCourses(courses);
         return user;
@@ -74,21 +72,38 @@ public class JsonReader {
     // REQUIRES: Sections in JSON files to be formatted correctly.
     // EFFECTS: reads course from file and returns it;
     // throws IOException if an error occurs reading data from file.
-    public Course readCourse() throws IOException {
+    public Course readCourse(String term, List<String> preferences) throws IOException {
         try {
             String jsonData = readFile();
             JSONObject jsonObject = new JSONObject(jsonData);
-            return parseCourse(jsonObject);
+            return parseCourse(jsonObject, term, preferences);
         } catch (Exception e) {
             throw new IOException();
         }
     }
 
     // EFFECTS: parses Course from JSON object and returns it
-    private Course parseCourse(JSONObject jsonObject) throws JSONException {
+    private Course parseCourse(JSONObject jsonObject, String term, List<String> preferences) throws JSONException {
         String courseName = jsonObject.getString("course_name");
         JSONArray sections = jsonObject.getJSONArray("sections");
-        return new Course(courseName, sections);
+        JSONArray terms = jsonObject.getJSONArray("terms");
+        int credit = jsonObject.getInt("credits");
+
+        List<String> termsList = new ArrayList<>();
+        for (int i = 0; i < terms.length(); i++) {
+            termsList.add(terms.getString(i));
+        }
+        JSONArray activitiesJson = jsonObject.getJSONArray("activities");
+        List<String> activities = new ArrayList<>();
+        for (int j = 0; j < activitiesJson.length(); j++) {
+            activities.add(activitiesJson.getString(j));
+        }
+        try {
+            return new Course(courseName, termsList, activities, sections, term, credit, preferences);
+        } catch (Exception e) {
+            e.printStackTrace();
+            throw new JSONException("Error in parsing " + courseName);
+        }
     }
 
 }

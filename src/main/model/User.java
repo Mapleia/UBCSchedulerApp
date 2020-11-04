@@ -9,28 +9,37 @@ import persistence.JsonReader;
 import java.util.*;
 
 public class User {
-    private String term = null;
+    private String termYear;
     private List<String> courseList;
-    private Set<Course> courseSet;
+    private List<Course> courseSet;
     private HashMap<String, ArrayList<Section>> finalTimeTable;
-    private String[] errorLog; //strings of missed sections
+    private List<String> errorLog; //strings of missed sections
+    private List<String> preferencesArr;
+
+    private HashMap<String, ArrayList<Course>> result;
+    private HashMap<String, Integer> resultsCredits;
+
 
     // constructs user and initializes it.
-    public User() {
+    public User(String termYear) {
+        this.termYear = termYear;
         init();
     }
 
     // initializes all of the fields.
     private void init() {
         courseList = new ArrayList<>();
-        courseSet = new HashSet<>();
-        errorLog = new String[]{};
+        courseSet = new ArrayList<>();
+        errorLog = new ArrayList<>();
         finalTimeTable = new HashMap<>();
-    }
 
-    // setter for term
-    public void setTerm(String term) {
-        this.term = term;
+        result = new HashMap<>();
+        resultsCredits = new HashMap<>();
+        result.put("Term1", new ArrayList<>());
+        result.put("Term2", new ArrayList<>());
+        result.put("Term12", new ArrayList<>());
+        resultsCredits.put("Term1", 0);
+        resultsCredits.put("Term2", 0);
     }
 
     // getter for finalTimeTable
@@ -39,21 +48,84 @@ public class User {
     }
 
     // getter for errorLog.
-    public String[] getErrorLog() {
+    public List<String> getErrorLog() {
         return errorLog;
     }
 
     //TODO: finish this stub.
     public boolean createTimeTable() {
+        sortCourses();
+        Set<String> termSet = result.keySet();
+        for (String t : termSet) {
+            for (Course c : result.get(t)) {
+
+            }
+        }
+
         return false;
     }
+
+    private void sortCourses() {
+        List<Course> copy = new ArrayList<>();
+        copy.addAll(courseSet);
+        Iterator<Course> itr = copy.iterator();
+        while (itr.hasNext()) {
+            Course course = itr.next();
+            if (course.getTerms().size() == 1) {
+                if (course.getTerms().contains("1")) {
+                    addToTerm1Results(itr, course);
+                } else if (course.getTerms().contains("2")) {
+                    addToTerm2Results(itr, course);
+                } else {
+                    result.get("Term12").add(course);
+                    itr.remove();
+                }
+            } else if (resultsCredits.get("Term2") > resultsCredits.get("Term1")) {
+                addToTerm1Results(itr, course);
+            } else {
+                addToTerm2Results(itr, course);
+            }
+        }
+    }
+
+    private void addToTerm1Results(Iterator<Course> itr, Course c) {
+        result.get("Term1").add(c);
+        resultsCredits.put("Term1", resultsCredits.get("Term1") + c.getCredit());
+        itr.remove();
+    }
+
+    private void addToTerm2Results(Iterator<Course> itr, Course c) {
+        result.get("Term2").add(c);
+        resultsCredits.put("Term2", resultsCredits.get("Term2") + c.getCredit());
+        itr.remove();
+    }
+
+    private boolean sectionIsAdded(List<Section> sections, String term) {
+        finalTimeTable.putIfAbsent(term, new ArrayList<>());
+        boolean isOverlappingWithTable = true;
+
+        potentialSections : {
+            for (Section s1 : sections) {
+                for (Section s : finalTimeTable.get(term)) {
+                    if (!s1.isOverlapping(s)) {
+                        isOverlappingWithTable = false;
+                        break potentialSections;
+                    }
+                }
+            }
+        }
+
+
+        finalTimeTable.get(term).add(section);
+    }
+
 
     // EFFECTS: parses User object from Java object to json and returns a JSONObject.
     public JSONObject toJson() throws JSONException {
         JSONObject json = new JSONObject();
 
         json.put("Course List", new JSONArray(courseList));
-        json.put("Term", term);
+        json.put("Term", termYear);
 
         JSONObject schedule = new JSONObject();
         for (String term : finalTimeTable.keySet()) {
@@ -78,7 +150,7 @@ public class User {
             List<Object> perTerm = schedule.getJSONArray(term).toList();
             ArrayList<Section> list = new ArrayList<>();
             for (int i = 0; i < perTerm.size(); i++) {
-                Section section = new Section(schedule.getJSONArray(term).getJSONObject(i));
+                Section section = new Section(schedule.getJSONArray(term).getJSONObject(i), termYear);
                 list.add(section);
             }
 
@@ -111,11 +183,11 @@ public class User {
     private boolean addCourse(String input) {
         String[] split = input.split(" ");
 
-        String path = "./data/" + term + "/" + split[0] + "/" + input + ".json";
+        String path = "./data/" + termYear + "/" + split[0] + "/" + input + ".json";
 
         try {
             JsonReader jsonReader = new JsonReader(path);
-            Course course = jsonReader.readCourse();
+            Course course = jsonReader.readCourse(termYear, preferencesArr);
             courseList.add(input);
             courseSet.add(course);
             return true;
@@ -129,6 +201,14 @@ public class User {
     }
 
     public String getTerm() {
-        return term;
+        return termYear;
+    }
+
+    public void setPreferences(List<String> preferencesArr) {
+        this.preferencesArr = preferencesArr;
+    }
+
+    public List<String> getPreferences() {
+        return preferencesArr;
     }
 }
