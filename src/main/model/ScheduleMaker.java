@@ -72,8 +72,8 @@ public class ScheduleMaker {
             ActivityLoop: {
                 for (String key : keySet) {
                     Set<Section> sectionList = course.getAllActivities().get(key).get(timeTable.primaryTimePref);
-
-                    if (!addValidSectionForActivity(sectionList)) {
+                    boolean added = addValidSectionForActivity(sectionList);
+                    if (!added) {
                         sectionList = course.getAllActivities().get(key).get(timeTable.secondaryTimePref);
                     }
                     if (!addValidSectionForActivity(sectionList)) {
