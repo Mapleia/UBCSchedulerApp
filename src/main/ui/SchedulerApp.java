@@ -118,6 +118,7 @@ public class SchedulerApp {
             if (course.equalsIgnoreCase("skip")) {
                 break;
             }
+            course = input.nextLine();
             if (course.length() > 8) {
                 System.out.println("List detected.");
                 String[] courseListString = course.split(",");
@@ -176,6 +177,7 @@ public class SchedulerApp {
                     + "XXXX ###");
 
             while (moreCourse) {
+                course = input.nextLine();
                 try {
                     timeTable.removeCourse(course);
                 } catch (NullPointerException e) {
