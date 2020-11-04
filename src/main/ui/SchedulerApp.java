@@ -15,11 +15,14 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 // Referenced TellerApp.
+// github: https://github.students.cs.ubc.ca/CPSC210/TellerApp.git
+// The TellerApp is a model of a bank on as a console app where you can deposit / withdraw and see your bank balance.
 public class SchedulerApp {
     private final Scanner input;
     private User user;
     public static final String[] AVAILABLE_TERMS = new String[]{"2020W", "2021S"};
 
+    // constructor
     public SchedulerApp() {
         input = new Scanner(System.in);
         //user = new User();
@@ -27,6 +30,8 @@ public class SchedulerApp {
         runApp();
     }
 
+    // EFFECTS: initializes app and fields.
+    // Referenced TellerApp.
     private void runApp() {
         boolean keepGoing = true;
 
@@ -43,11 +48,14 @@ public class SchedulerApp {
         System.out.println("Thank you for using the app! \n Goodbye!");
     }
 
+    // EFFECTS: welcomes user
     private void welcome() {
         System.out.println("Welcome to the UBC Course Scheduler app!");
         System.out.println("What would you like to do today?");
     }
 
+    // EFFECTS: Prints options to user.
+    // Referenced TellerApp.
     private void showOptions() {
         System.out.println("~~~~~~~~~~~~~~~~ OPTIONS ~~~~~~~~~~~~~~~~");
         System.out.println("\tE - to exit.");
@@ -59,6 +67,8 @@ public class SchedulerApp {
 
     }
 
+    // EFFECTS: Processes commands inputted from user.
+    // Referenced TellerApp.
     private void processCommands(String command) {
         switch (command) {
             case "N":
@@ -83,6 +93,7 @@ public class SchedulerApp {
     }
 
     // FOR LOADING PREVIOUS SAVE FILE =================================================================================
+    // EFFECTS: Load save file specified from user.
     private void loadUser() {
         System.out.println("Reading file from ./data/timetables/ ...");
         System.out.println("Please enter your file name (without .json file extension.)");
@@ -98,6 +109,7 @@ public class SchedulerApp {
     }
 
     // FOR ADDING TO SCHEDULE =========================================================================================
+    // EFFECTS: Creates schedule by asking for term and courses.
     private void createSchedule() {
         setTerm();
         setPreferences();
@@ -125,6 +137,7 @@ public class SchedulerApp {
         }
     }
 
+    // EFFECTS: Sets user's term.
     private void setTerm() {
         System.out.println("Here are the terms available that you can select from. Please enter one.");
         System.out.println("W = Both fall and spring terms.");
@@ -137,6 +150,7 @@ public class SchedulerApp {
         user = new User(command);
     }
 
+    // EFFECTS: Sets user preference for time slots.
     private void setPreferences() {
         System.out.println("Please list your time preferences in order of preference (whether you'd like to keep your "
                 + "courses during the morning, afternoon or evening.");
@@ -149,6 +163,7 @@ public class SchedulerApp {
         user.setPreferences(preferencesArr);
     }
 
+    // EFFECTS: Asks courses from user, and add them to the list of courses. Throws exception if not found.
     private void addCourses() throws NoCourseFound {
 
         System.out.println("Please enter your courses. If you have multiple, please divide by a \",\".");
@@ -163,6 +178,7 @@ public class SchedulerApp {
     }
 
     // FOR PRINTING OUT SCHEDULE ======================================================================================
+    // EFFECTS: Make schedule and print out schedule for user.
     private void printSchedule() {
         boolean isSuccessful = user.createTimeTable();
         if (!isSuccessful) {
@@ -177,7 +193,8 @@ public class SchedulerApp {
             System.out.println("=========================================================");
         }
     }
-
+    
+    // EFFECTS: For each term, print the sections.
     private void printTerms(String term) {
         System.out.println(term);
         for (Section sec : user.getFinalTimeTable().get(term)) {
@@ -188,6 +205,7 @@ public class SchedulerApp {
     }
 
     // FOR SAVING FILE ================================================================================================
+    // EFFECTS: 
     private void saveFile() {
         JsonWriter writer;
         System.out.println("File will be saved to ./data/timetables/ directory.");

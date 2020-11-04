@@ -1,6 +1,5 @@
 package model;
 
-import exceptions.NoCourseFound;
 import exceptions.NoTimeSpan;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -8,6 +7,7 @@ import org.json.JSONObject;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// Represents a course at UBC.
 public class Course {
     private final JSONArray sections;
     private final List<String> terms;
@@ -32,13 +32,32 @@ public class Course {
         init();
     }
 
-    // initializes all of the fields when necessary.
+    // EFFECTS: initializes all of the fields, adds, then sorts sections.
     private void init() throws NoTimeSpan {
         sectionsMap = new HashMap<>();
         addSections();
         sortSections = new HashMap<>();
         sortSections();
     }
+
+    // ================================================================================================================
+    // getters
+    public List<String> getTerms() {
+        return terms;
+    }
+
+    public HashMap<String, Section> getSectionsMap() {
+        return sectionsMap;
+    }
+
+    public int getCredit() {
+        return credit;
+    }
+
+    public HashMap<String, HashMap<String, ArrayList<Section>>> getSortSections() {
+        return sortSections;
+    }
+    // ================================================================================================================
 
     // MODIFIES: course
     // EFFECTS: parses sections from JSON object and adds them to the course.
@@ -50,6 +69,8 @@ public class Course {
         }
     }
 
+    // MODIFIES: this
+    // EFFECTS: sorts sections by activity, then by timespan (morning/afternoon/evening)
     private void sortSections() throws NoTimeSpan {
         List<Section> values = sectionsMap.values().stream().collect(Collectors.toList());
         Iterator<Section> itr = values.iterator();
@@ -70,19 +91,4 @@ public class Course {
         }
     }
 
-    public List<String> getTerms() {
-        return terms;
-    }
-
-    public HashMap<String, Section> getSectionsMap() {
-        return sectionsMap;
-    }
-
-    public int getCredit() {
-        return credit;
-    }
-
-    public HashMap<String, HashMap<String, ArrayList<Section>>> getSortSections() {
-        return sortSections;
-    }
 }

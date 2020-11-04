@@ -3,9 +3,8 @@ package ui;
 
 import java.util.Scanner;
 
+// Runs an instance of the app.
 public class Main {
-    private static boolean startOver = false;
-
     public static void main(String[] args) {
         new SchedulerApp();
     }

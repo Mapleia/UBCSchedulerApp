@@ -14,6 +14,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+
+// Represents a Section of a course.
 public class Section implements Writable {
     private JSONObject jsonObject;
     private String status;
@@ -36,6 +38,48 @@ public class Section implements Writable {
         init();
     }
 
+    // EFFECT: Initializes fields, and runs private methods to populate fields.
+    private void init() {
+        localDateList = new ArrayList<>();
+
+        days = new ArrayList<>();
+        createSection();
+
+        daysInt = new ArrayList<>();
+        for (String day : days) {
+            convertDaysToInt(day);
+        }
+
+        createZonedDateTimes();
+    }
+
+    // ================================================================================================================
+    // getters
+    private LocalTime getEnd() {
+        return end;
+    }
+
+    public String getSection() {
+        return section;
+    }
+
+    public LocalTime getStart() {
+        return start;
+    }
+
+    public List<String> getDays() {
+        return days;
+    }
+
+    public List<LocalDate> getLocalDateList() {
+        return localDateList;
+    }
+
+    public String getActivity() {
+        return activity;
+    }
+    // ================================================================================================================
+
     //TODO: write test cases.
     /* test cases:
     this start is null
@@ -47,22 +91,25 @@ public class Section implements Writable {
     section has more days than this, isOverlapping true;
     section has more days than this, isOverlapping false;
     */
-    public boolean isOverlapping(Section section) {
-        if (section.getStart() == null || start == null) {
+    // EFFECTS: Returns true if the sections are overlapping.
+    public static boolean isOverlapping(Section section1, Section section2) {
+        if (section1.getStart() == null || section2.getStart() == null) {
             return false;
-        } else if (section.getEnd() == null || start == null) {
+        } else if (section1.getEnd() == null || section2.getStart() == null) {
             return false;
         } else {
-            if (section.getLocalDateList().size() > localDateList.size()) {
-                return isOverlapping(section, this);
+            if (section1.getLocalDateList().size() > section2.getLocalDateList().size()) {
+                return isOverlappingHelper(section1, section2);
 
             } else {
-                return isOverlapping(this, section);
+                return isOverlappingHelper(section2, section1);
             }
         }
     }
 
-    private boolean isOverlapping(Section section1, Section section2) {
+    // REQUIRES: section1 to have more days then section2, start & end cannot be null.
+    // EFFECTS: Returns true if sections are overlapping.
+    private static boolean isOverlappingHelper(Section section1, Section section2) {
         boolean result = true;
         for (LocalDate date : section1.getLocalDateList()) {
             for (LocalDate date2 : section2.getLocalDateList()) {
@@ -83,24 +130,45 @@ public class Section implements Writable {
         return result;
     }
 
-    private LocalTime getEnd() {
-        return end;
+    // EFFECT: serializes section object to a JSONObject.
+    @Override
+    public JSONObject toJson() {
+        JSONObject obj = new JSONObject();
+        obj.put("status", status);
+        obj.put("section", section);
+        obj.put("activity", activity);
+        obj.put("term", term);
+        obj.put("days", days);
+        obj.put("start", start.toString());
+        obj.put("end", end.toString());
+
+        return obj;
     }
 
-    private void init() {
-        localDateList = new ArrayList<>();
+    // EFFECT: parses section from JSON object.
+    private void createSection() {
+        status = jsonObject.getString("status");
+        section = jsonObject.getString("section");
+        activity = jsonObject.getString("activity");
+        term = jsonObject.getString("term");
 
-        days = new ArrayList<>();
-        createSection();
-
-        daysInt = new ArrayList<>();
-        for (String day : days) {
-            convertDaysToInt(day);
+        for (int i = 0; i < jsonObject.getJSONArray("days").length(); i++) {
+            days.add(jsonObject.getJSONArray("days").getString(i));
         }
 
-        createZonedDateTimes();
+        if (jsonObject.getString("start").trim().equals("")
+                || jsonObject.getString("end").trim().equals("")) {
+            start = null;
+            end = null;
+        } else {
+            start = LocalTime.parse(jsonObject.getString("start"), DateTimeFormatter.ofPattern("HH:mm"));
+            end = LocalTime.parse(jsonObject.getString("end"), DateTimeFormatter.ofPattern("HH:mm"))
+                    .minusMinutes(10);
+        }
     }
 
+    // EFFECT: From an array of days, convert a day of the week to an int value.
+    //         1 is Monday and so on and so forth. 7 is Sunday.
     private void convertDaysToInt(String day) {
         switch (day) {
             case "MON":
@@ -126,6 +194,8 @@ public class Section implements Writable {
         }
     }
 
+    // EFFECT: Populate "localDateList" field with LocalDate of dates (that the section runs on) and
+    //         of the first week in the term.
     private void createZonedDateTimes() {
         int year = Integer.parseInt(termYear.substring(0, 4));
         LocalDate date1;
@@ -154,67 +224,8 @@ public class Section implements Writable {
         localDateList = localDateList.stream().sorted().collect(Collectors.toList());
     }
 
-    // EFFECT: serializes section object to a JSONObject.
-    @Override
-    public JSONObject toJson() {
-        JSONObject obj = new JSONObject();
-        obj.put("status", status);
-        obj.put("section", section);
-        obj.put("activity", activity);
-        obj.put("term", term);
-        obj.put("days", days);
-        obj.put("start", start.toString());
-        obj.put("end", end.toString());
-
-        return obj;
-    }
-
-    // getter for section
-    public String getSection() {
-        return section;
-    }
-
-    // getter for start
-    public LocalTime getStart() {
-        return start;
-    }
-
-    // getter for days
-    public List<String> getDays() {
-        return days;
-    }
-
-    public List<LocalDate> getLocalDateList() {
-        return localDateList;
-    }
-
-    public String getActivity() {
-        return activity;
-    }
-    
-    
-    // EFFECTS: parses section from JSON object.
-    private void createSection() {
-        status = jsonObject.getString("status");
-        section = jsonObject.getString("section");
-        activity = jsonObject.getString("activity");
-        term = jsonObject.getString("term");
-
-        for (int i = 0; i < jsonObject.getJSONArray("days").length(); i++) {
-            days.add(jsonObject.getJSONArray("days").getString(i));
-        }
-
-        if (jsonObject.getString("start").trim().equals("")
-                || jsonObject.getString("end").trim().equals("")) {
-            start = null;
-            end = null;
-        } else {
-            start = LocalTime.parse(jsonObject.getString("start"), DateTimeFormatter.ofPattern("HH:mm"));
-            end = LocalTime.parse(jsonObject.getString("end"), DateTimeFormatter.ofPattern("HH:mm"))
-                    .minusMinutes(10);
-        }
-    }
-
+    // EFFECT: Returns "MORNING" / "AFTERNOON" / "EVENING" based on the start time and end time of the section.
+    //         Throws NoTimeSpan if a suitable one is not found.
     public String getTimeSpan() throws NoTimeSpan {
         if (start.isAfter(LocalTime.of(17, 59))) {
             return "EVENING";

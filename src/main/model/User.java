@@ -5,10 +5,12 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import persistence.JsonReader;
+import persistence.Writable;
 
 import java.util.*;
 
-public class User {
+// Represents a user of the program, makes their timetable and stores information about them.
+public class User implements Writable {
     private String termYear;
     private List<String> courseList;
     private List<Course> courseSet;
@@ -18,7 +20,6 @@ public class User {
 
     private HashMap<String, ArrayList<Course>> result;
     private HashMap<String, Integer> resultsCredits;
-
 
     // constructs user and initializes it.
     public User(String termYear) {
@@ -42,15 +43,31 @@ public class User {
         resultsCredits.put("Term2", 0);
     }
 
-    // getter for finalTimeTable
+    // getters & setters ==============================================================================================
     public HashMap<String, ArrayList<Section>> getFinalTimeTable() {
         return finalTimeTable;
     }
 
-    // getter for errorLog.
     public List<String> getErrorLog() {
         return errorLog;
     }
+
+    public List<String> getCourseList() {
+        return courseList;
+    }
+
+    public String getTerm() {
+        return termYear;
+    }
+
+    public List<String> getPreferences() {
+        return preferencesArr;
+    }
+
+    public void setPreferences(List<String> preferencesArr) {
+        this.preferencesArr = preferencesArr;
+    }
+    // ================================================================================================================
 
     //TODO: finish this stub.
     public boolean createTimeTable() {
@@ -65,6 +82,9 @@ public class User {
         return false;
     }
 
+    // EFFECTS: Sort courses into Term1, Term2 or Term1-2 ArrayList hashmaps.
+    //          If the course is offered in term1 or 2, it puts the course into the term with the least
+    //          amount of credits.
     private void sortCourses() {
         List<Course> copy = new ArrayList<>();
         copy.addAll(courseSet);
@@ -88,36 +108,42 @@ public class User {
         }
     }
 
+    // EFFECT: Adds Course to Term1 and removes from the list.
     private void addToTerm1Results(Iterator<Course> itr, Course c) {
         result.get("Term1").add(c);
         resultsCredits.put("Term1", resultsCredits.get("Term1") + c.getCredit());
         itr.remove();
     }
 
+    // EFFECT: Adds Course to Term2 and removes from the list.
     private void addToTerm2Results(Iterator<Course> itr, Course c) {
         result.get("Term2").add(c);
         resultsCredits.put("Term2", resultsCredits.get("Term2") + c.getCredit());
         itr.remove();
     }
 
+    // EFFECTS: Adds 1 section from a list of given sections to the final timetable if it fits.
+    //          Returns false if no valid section could be added.
+    //          Returns true if a section was added.
     private boolean sectionIsAdded(List<Section> sections, String term) {
         finalTimeTable.putIfAbsent(term, new ArrayList<>());
-        boolean isOverlappingWithTable = true;
+        boolean success = false;
 
         potentialSections : {
             for (Section s1 : sections) {
-                for (Section s : finalTimeTable.get(term)) {
-                    if (!s1.isOverlapping(s)) {
-                        isOverlappingWithTable = false;
+                for (Section s2 : finalTimeTable.get(term)) {
+                    if (!Section.isOverlapping(s1, s2)) {
+                        success = true;
+                        finalTimeTable.get(term).add(s1);
                         break potentialSections;
                     }
                 }
             }
         }
-        return isOverlappingWithTable;
+        return success;
     }
 
-
+    @Override
     // EFFECTS: parses User object from Java object to json and returns a JSONObject.
     public JSONObject toJson() throws JSONException {
         JSONObject json = new JSONObject();
@@ -158,7 +184,7 @@ public class User {
 
     // MODIFIES: this
     // EFFECTS: Loops through courseList and adds courses.
-    // throws NoCourseFound if it encounters an Exception during the loop.
+    // throws NoCourseFound if it encounters an not successful addition of course during the loop.
     public void addCourses(List<String> courses) throws NoCourseFound {
         NoCourseFound error = new NoCourseFound();
 
@@ -177,7 +203,7 @@ public class User {
 
     // MODIFIES: this
     // EFFECTS: adds to courseList and courseSet if a valid course is made and returns true.
-    // Returns false if finds an exception / cannot find course.
+    // Returns false if finds an exception / cannot find the course.
     private boolean addCourse(String input) {
         String[] split = input.split(" ");
 
@@ -192,21 +218,5 @@ public class User {
         } catch (Exception e) {
             return false;
         }
-    }
-
-    public List<String> getCourseList() {
-        return courseList;
-    }
-
-    public String getTerm() {
-        return termYear;
-    }
-
-    public void setPreferences(List<String> preferencesArr) {
-        this.preferencesArr = preferencesArr;
-    }
-
-    public List<String> getPreferences() {
-        return preferencesArr;
     }
 }

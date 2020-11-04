@@ -8,6 +8,10 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
 // Taken from JSONSerializationDemo project.
+// https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git
+// JsonWriter creates and writes a User file.
+// The demo is an app that works with a "workroom" and "thingy"/"thingies".
+// All methods have references to the JsonWriter (Demo), but it was been reworked to work with Users.
 public class JsonWriter {
     private static final int TAB = 4;
     private final String destination;
@@ -26,7 +30,7 @@ public class JsonWriter {
     }
 
     // MODIFIES: this
-    // EFFECTS: writes JSON representation of workroom to file
+    // EFFECTS: writes JSON representation of User to file
     public void write(User user) {
         JSONObject json = user.toJson();
         saveToFile(json.toString(TAB));

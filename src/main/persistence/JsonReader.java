@@ -14,7 +14,10 @@ import java.util.stream.Stream;
 
 import org.json.*;
 
-// Represents a reader that reads workroom from JSON data stored in file
+// Represents a reader that reads users and courses from JSON data stored in file.
+// Referenced https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git
+// The demo is an app that works with a "workroom" and "thingy"/"thingies".
+// All methods have references to the JsonReader, but it was been reworked to work with Users and Courses.
 public class JsonReader {
     private String source;
 
@@ -34,7 +37,7 @@ public class JsonReader {
         return contentBuilder.toString();
     }
 
-    // ====================== FOR USER OBJECT ==========================
+    // ====================== FOR USER OBJECT =========================================================================
 
     // EFFECTS: reads user from file and returns it;
     // throws IOException if an error occurs reading data from file
@@ -67,7 +70,7 @@ public class JsonReader {
         return user;
     }
 
-    // ======================= FOR COURSE OBJECT ========================
+    // ======================= FOR COURSE OBJECT ======================================================================
 
     // REQUIRES: Sections in JSON files to be formatted correctly.
     // EFFECTS: reads course from file and returns it;
