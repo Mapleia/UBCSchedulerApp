@@ -130,6 +130,9 @@ public class ScheduleMaker {
         boolean result = false;
         String sectionCode = sec.getSection().substring(0, sec.getSection().length() - 4);
         if (noTypeDupeList.contains(sectionCode + " " + "Web-Oriented Course")) {
+            if (sec.getActivity().equals("Lecture")) {
+                result = true;
+            }
             if (sec.getActivity().equals("Waiting List")) {
                 result = true;
             }

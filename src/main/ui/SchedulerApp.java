@@ -64,7 +64,7 @@ public class SchedulerApp {
         if (hasFile) {
             System.out.println("Welcome back " + userName + "!");
         } else {
-            System.out.println("Welcome to UBC Course Scheduler for " + year + ". What is your name?");
+            System.out.println("Welcome to UBC Course Scheduler for " + year +  ". What is your name?");
             userName = input.nextLine();
         }
     }
@@ -114,11 +114,11 @@ public class SchedulerApp {
     private static void whileHasMoreCourse() {
         boolean moreCourse = true;
         String course = input.nextLine();
-
         while (moreCourse) {
             if (course.equalsIgnoreCase("skip")) {
                 break;
-            } else if (course.length() > 8) {
+            }
+            if (course.length() > 8) {
                 System.out.println("List detected.");
                 String[] courseListString = course.split(",");
                 String[] arr = Arrays.stream(courseListString).map(String::trim).toArray(String[]::new);
@@ -170,12 +170,12 @@ public class SchedulerApp {
 
         String course;
         System.out.println("Would you like to remove some courses? (yes / no)");
-        if (input.nextLine().equalsIgnoreCase("yes")) {
+        course = input.nextLine();
+        if (course.equalsIgnoreCase("yes")) {
             System.out.println("If so, please format the course in course code (XXXX) space ( ) then number (###). "
                     + "XXXX ###");
 
             while (moreCourse) {
-                course = input.nextLine();
                 try {
                     timeTable.removeCourse(course);
                 } catch (NullPointerException e) {
@@ -210,7 +210,7 @@ public class SchedulerApp {
             Set<String> keySet = scheduleMaker.errorLog.keySet();
             if (!keySet.isEmpty()) {
                 System.out.println("There has seem to be no possible sections found for the following:");
-                for (String s : keySet) {
+                for (String s: keySet) {
                     System.out.println(s + ": " + scheduleMaker.errorLog.get(s));
 
                 }
