@@ -1,6 +1,5 @@
 package ui;
 
-import exceptions.NoCourseFound;
 import model.ScheduleMaker;
 import model.Section;
 import model.TimeTable;

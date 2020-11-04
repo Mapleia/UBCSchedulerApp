@@ -66,53 +66,55 @@ public class ScheduleMaker {
     // EFFECT: For every course in the list, add the first section (in the time that is the most desired)
     // that fits into the schedule.
     private void makeTimeTablePerTerm(List<Course> courseList) {
-
         for (Course course : courseList) {
-            Set<String> keySet = course.getAllKeys();
+            Set<String> keySet = course.getAllActivities().keySet();
             ActivityLoop: {
                 for (String key : keySet) {
-                    Set<Section> sectionList = course.getAllActivities().get(key).get(timeTable.primaryTimePref);
+                    HashSet<Section> sectionList = course.getAllActivities().get(key).get(timeTable.primaryTimePref);
 
-                    if (!addValidSectionForActivity(sectionList)) {
+                    if (addValidSectionForActivity(sectionList)) {
                         sectionList = course.getAllActivities().get(key).get(timeTable.secondaryTimePref);
-                    }
-                    if (!addValidSectionForActivity(sectionList)) {
-                        sectionList = course.getAllActivities().get(key).get(timeTable.tertiaryTimePref);
-                    }
-                    if (!addValidSectionForActivity(sectionList)) {
-                        errorLog.put(course.getSubjectCode() + " " + course.getCourseNum(), key);
-                        break ActivityLoop;
+
+                        if (addValidSectionForActivity(sectionList)) {
+                            sectionList = course.getAllActivities().get(key).get(timeTable.tertiaryTimePref);
+
+                            if (addValidSectionForActivity(sectionList)) {
+                                errorLog.put(course.getSubjectCode() + "-" + course.getCourseNum(), key);
+                                break ActivityLoop;
+                            }
+                        }
                     }
                 }
             }
+
         }
 
     }
 
     // EFFECT: returns true if 1 valid section could not be added from the list given. Adds to list otherwise.
-    private boolean addValidSectionForActivity(Set<Section> sections) {
-        boolean didAddSection = false;
+    private boolean addValidSectionForActivity(HashSet<Section> sections) {
+        boolean didNotAddSection = true;
 
         for (Section section : sections) {
             if (finalTimeTable.isEmpty()) {
                 successfulAddSection(section);
-                didAddSection = true;
+                didNotAddSection = false;
                 break;
             } else if (isTypeDupes(section)) {
-                didAddSection = true;
+                didNotAddSection = false;
                 break;
             } else if (section.isCrucialFieldsBlank()) {
                 successfulAddSection(section);
-                didAddSection = true;
+                didNotAddSection = false;
                 break;
             } else if (!section.isOverlapping(finalTimeTable)) {
                 successfulAddSection(section);
-                didAddSection = true;
+                didNotAddSection = false;
                 break;
             }
         }
 
-        return didAddSection;
+        return didNotAddSection;
     }
 
     // MODIFIES: this
@@ -143,4 +145,6 @@ public class ScheduleMaker {
     public void addUserName(String userName) {
         this.userName = userName;
     }
+
+
 }
