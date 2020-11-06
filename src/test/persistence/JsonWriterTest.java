@@ -48,7 +48,7 @@ public class JsonWriterTest {
 
             JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
             JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
+            user.addSectionsFromTimeTable(jsonObject.getJSONObject("Schedule"));
 
             writer.open();
             writer.write(user);
@@ -58,13 +58,13 @@ public class JsonWriterTest {
             user = reader.readUser();
             assertEquals("2020W", user.getTerm());
             assertEquals("BIOL 112 101",
-                    user.getFinalTimeTable().get("Term1").get(0).getSection());
+                    user.getFinalTimeTable().get("TERM 1").get(0).getSection());
             assertEquals("BIOL 112 T01",
-                    user.getFinalTimeTable().get("Term1").get(1).getSection());
+                    user.getFinalTimeTable().get("TERM 1").get(1).getSection());
             assertEquals("CPSC 210 202",
-                    user.getFinalTimeTable().get("Term2").get(0).getSection());
+                    user.getFinalTimeTable().get("TERM 1").get(0).getSection());
             assertEquals("CPSC 210 L2H",
-                    user.getFinalTimeTable().get("Term2").get(1).getSection());
+                    user.getFinalTimeTable().get("TERM 2").get(1).getSection());
         } catch (IOException e) {
             fail("Exception should not have been thrown");
         }

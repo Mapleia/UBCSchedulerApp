@@ -2,12 +2,15 @@ package persistence;
 
 import exceptions.NoCourseFound;
 import model.Course;
+import model.Section;
 import model.User;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
@@ -54,7 +57,7 @@ public class JsonReader {
     // EFFECTS: parses User from JSON object and returns it
     // Throws NoCourseFound exception from addCourses
     // Throws JSONException exception if getString encounters an error.
-    private User parseUser(JSONObject jsonObject) throws JSONException, NoCourseFound {
+    private User parseUser(JSONObject jsonObject) throws JSONException, NoCourseFound, IOException {
         String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
@@ -65,7 +68,7 @@ public class JsonReader {
         }
 
         User user = new User(term);
-        user.addSectionsToUser(schedule);
+        user.addSectionsFromTimeTable(schedule);
         user.addCourses(courses);
         return user;
     }
@@ -86,27 +89,82 @@ public class JsonReader {
     }
 
     // EFFECTS: parses Course from JSON object and returns it
-    private Course parseCourse(JSONObject jsonObject, String term, List<String> preferences) throws JSONException {
+    private Course parseCourse(JSONObject jsonObject, String thisTerm, List<String> preferences) throws JSONException {
         String courseName = jsonObject.getString("course_name");
         JSONArray sections = jsonObject.getJSONArray("sections");
         JSONArray terms = jsonObject.getJSONArray("terms");
+        JSONArray activities = jsonObject.getJSONArray("activities");
         int credit = jsonObject.getInt("credits");
+
+        List<Section> sectionList = new ArrayList<>();
+        for (int k = 0; k < sections.length(); k++) {
+            sectionList.add(parseSection(sections.getJSONObject(k), thisTerm));
+        }
 
         List<String> termsList = new ArrayList<>();
         for (int i = 0; i < terms.length(); i++) {
             termsList.add(terms.getString(i));
         }
-        JSONArray activitiesJson = jsonObject.getJSONArray("activities");
-        List<String> activities = new ArrayList<>();
-        for (int j = 0; j < activitiesJson.length(); j++) {
-            activities.add(activitiesJson.getString(j));
+
+        List<String> activitiesList = new ArrayList<>();
+        for (int j = 0; j < activities.length(); j++) {
+            activitiesList.add(activities.getString(j));
         }
+
         try {
-            return new Course(courseName, termsList, activities, sections, term, credit, preferences);
+            return new Course(courseName, termsList, activitiesList, sectionList, thisTerm, credit, preferences);
         } catch (Exception e) {
             e.printStackTrace();
             throw new JSONException("Error in parsing " + courseName);
         }
     }
+
+    // ======================= FOR SECTION OBJECT =====================================================================
+
+    // REQUIRES: Course to exist.
+    // EFFECTS: Reads section from file and returns it;
+    // throws IOException if an error occurs reading data from file.
+    public Section readSection(String term, String section, List<String> preferences) throws IOException {
+        try {
+            String jsonData = readFile();
+            JSONObject jsonObject = new JSONObject(jsonData);
+            Course course = parseCourse(jsonObject, term, preferences);
+            return course.getSectionsMap().get(section);
+        } catch (Exception e) {
+            throw new IOException();
+        }
+    }
+
+    // EFFECT: parses section from JSON object.
+    private Section parseSection(JSONObject jsonObject, String thisTerm) {
+        String status = jsonObject.getString("status");
+        String section = jsonObject.getString("section");
+        String activity = jsonObject.getString("activity");
+        String term = jsonObject.getString("term");
+        String course = jsonObject.getString("subject_code") + " " + jsonObject.getString("course_number");
+
+        LocalTime start;
+        LocalTime end;
+
+        List<String> days = new ArrayList<>();
+        for (int i = 0; i < jsonObject.getJSONArray("days").length(); i++) {
+            days.add(jsonObject.getJSONArray("days").getString(i));
+        }
+
+        if (jsonObject.getString("start").trim().equals("")
+                || jsonObject.getString("end").trim().equals("")) {
+            activity = "Required";
+            start = null;
+            end = null;
+        } else {
+            start = LocalTime.parse(jsonObject.getString("start"), DateTimeFormatter.ofPattern("HH:mm"));
+            end = LocalTime.parse(jsonObject.getString("end"), DateTimeFormatter.ofPattern("HH:mm"))
+                    .minusMinutes(10);
+        }
+
+        return new Section(status, section, course, activity, term, days,
+                            start, end, thisTerm);
+    }
+
 
 }

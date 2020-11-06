@@ -1,6 +1,5 @@
 package model;
 
-import exceptions.NoTimeSpan;
 import org.json.JSONObject;
 import persistence.Writable;
 
@@ -8,7 +7,6 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAdjusters;
 import java.util.ArrayList;
 import java.util.List;
@@ -17,9 +15,9 @@ import java.util.stream.Collectors;
 
 // Represents a Section of a course.
 public class Section implements Writable {
-    private JSONObject jsonObject;
     private String status;
     private String section;
+    private String course;
     private String activity;
     private String term;
     private List<String> days;
@@ -28,34 +26,39 @@ public class Section implements Writable {
 
     private String termYear;
     private List<Integer> daysInt;
-    private List<LocalDate> localDateList;
+    private List<LocalDate> firstWeekList;
 
 
-    // constructor for section.
-    public Section(JSONObject jsonObject, String termYear) {
-        this.jsonObject = jsonObject;
+    //constructor for testing
+    public Section(String status, String section, String course, String activity, String term, List<String> days,
+                   LocalTime start, LocalTime end, String termYear) {
+        this.status = status;
+        this.section = section;
+        this.course = course;
+        this.activity = activity;
+        this.term = term;
+        this.days = days;
+        this.start = start;
+        this.end = end;
         this.termYear = termYear;
+
         init();
     }
 
     // EFFECT: Initializes fields, and runs private methods to populate fields.
     private void init() {
-        localDateList = new ArrayList<>();
-
-        days = new ArrayList<>();
-        createSection();
+        firstWeekList = new ArrayList<>();
 
         daysInt = new ArrayList<>();
         for (String day : days) {
             convertDaysToInt(day);
         }
 
-        createZonedDateTimes();
+        createFirstWeekOfTerm();
     }
 
-    // ================================================================================================================
-    // getters
-    private LocalTime getEnd() {
+    // getters ========================================================================================================
+    public LocalTime getEnd() {
         return end;
     }
 
@@ -67,38 +70,48 @@ public class Section implements Writable {
         return start;
     }
 
+    public String getStartStr() {
+        if (start == null) {
+            return "N/A";
+        } else {
+            return start.toString();
+        }
+    }
+
+    public String getEndStr() {
+        if (end == null) {
+            return "N/A";
+        } else {
+            return end.toString();
+        }
+    }
+
     public List<String> getDays() {
         return days;
     }
 
-    public List<LocalDate> getLocalDateList() {
-        return localDateList;
+    public List<LocalDate> getFirstWeekList() {
+        return firstWeekList;
     }
 
     public String getActivity() {
         return activity;
     }
+
+    public String getCourse() {
+        return course;
+    }
+
     // ================================================================================================================
 
-    //TODO: write test cases.
-    /* test cases:
-    this start is null
-    section start is null
-    this end is null
-    section end is null
-    this has more days than section, isOverlapping true;
-    this has more days than section, isOverlapping false;
-    section has more days than this, isOverlapping true;
-    section has more days than this, isOverlapping false;
-    */
     // EFFECTS: Returns true if the sections are overlapping.
     public static boolean isOverlapping(Section section1, Section section2) {
         if (section1.getStart() == null || section2.getStart() == null) {
             return false;
-        } else if (section1.getEnd() == null || section2.getStart() == null) {
+        } else if (section1.getEnd() == null || section2.getEnd() == null) {
             return false;
         } else {
-            if (section1.getLocalDateList().size() > section2.getLocalDateList().size()) {
+            if (section1.getFirstWeekList().size() > section2.getFirstWeekList().size()) {
                 return isOverlappingHelper(section1, section2);
 
             } else {
@@ -110,9 +123,9 @@ public class Section implements Writable {
     // REQUIRES: section1 to have more days then section2, start & end cannot be null.
     // EFFECTS: Returns true if sections are overlapping.
     private static boolean isOverlappingHelper(Section section1, Section section2) {
-        boolean result = true;
-        for (LocalDate date : section1.getLocalDateList()) {
-            for (LocalDate date2 : section2.getLocalDateList()) {
+        boolean result = false;
+        for (LocalDate date : section1.getFirstWeekList()) {
+            for (LocalDate date2 : section2.getFirstWeekList()) {
                 LocalTime start1 = section1.getStart();
                 LocalTime start2 = section2.getStart();
                 LocalTime end1 = section1.getEnd();
@@ -122,13 +135,19 @@ public class Section implements Writable {
                         || LocalDateTime.of(date, end1).isEqual(LocalDateTime.of(date2, end2))) {
                     result = true;
                 } else {
-                    result = LocalDateTime.of(date, start1).isBefore(LocalDateTime.of(date2, end2))
-                            && LocalDateTime.of(date2, start2).isBefore(LocalDateTime.of(date, end1));
+                    boolean s1IsBeforeS2 = LocalDateTime.of(date, start1).isBefore(LocalDateTime.of(date2, end2));
+                    boolean s2IsBeforeE1 = LocalDateTime.of(date2, start2).isBefore(LocalDateTime.of(date, end1));
+                    if (s1IsBeforeS2 && s2IsBeforeE1) {
+                        result = true;
+                    }
                 }
             }
         }
         return result;
     }
+
+    // EFFECTS: Returns true if given section is a activity type duplicate.
+
 
     // EFFECT: serializes section object to a JSONObject.
     @Override
@@ -136,6 +155,7 @@ public class Section implements Writable {
         JSONObject obj = new JSONObject();
         obj.put("status", status);
         obj.put("section", section);
+        obj.put("course", course);
         obj.put("activity", activity);
         obj.put("term", term);
         obj.put("days", days);
@@ -143,28 +163,6 @@ public class Section implements Writable {
         obj.put("end", end.toString());
 
         return obj;
-    }
-
-    // EFFECT: parses section from JSON object.
-    private void createSection() {
-        status = jsonObject.getString("status");
-        section = jsonObject.getString("section");
-        activity = jsonObject.getString("activity");
-        term = jsonObject.getString("term");
-
-        for (int i = 0; i < jsonObject.getJSONArray("days").length(); i++) {
-            days.add(jsonObject.getJSONArray("days").getString(i));
-        }
-
-        if (jsonObject.getString("start").trim().equals("")
-                || jsonObject.getString("end").trim().equals("")) {
-            start = null;
-            end = null;
-        } else {
-            start = LocalTime.parse(jsonObject.getString("start"), DateTimeFormatter.ofPattern("HH:mm"));
-            end = LocalTime.parse(jsonObject.getString("end"), DateTimeFormatter.ofPattern("HH:mm"))
-                    .minusMinutes(10);
-        }
     }
 
     // EFFECT: From an array of days, convert a day of the week to an int value.
@@ -196,7 +194,7 @@ public class Section implements Writable {
 
     // EFFECT: Populate "localDateList" field with LocalDate of dates (that the section runs on) and
     //         of the first week in the term.
-    private void createZonedDateTimes() {
+    private void createFirstWeekOfTerm() {
         int year = Integer.parseInt(termYear.substring(0, 4));
         LocalDate date1;
         LocalDate date2;
@@ -209,32 +207,36 @@ public class Section implements Writable {
 
             switch (term) {
                 case "1":
-                    localDateList.add(date1);
+                    firstWeekList.add(date1);
                     break;
                 case "2":
-                    localDateList.add(date2);
+                    firstWeekList.add(date2);
                     break;
                 case "1-2":
-                    localDateList.add(date1);
-                    localDateList.add(date2);
+                    firstWeekList.add(date1);
+                    firstWeekList.add(date2);
                     break;
             }
         }
 
-        localDateList = localDateList.stream().sorted().collect(Collectors.toList());
+        firstWeekList = firstWeekList.stream().sorted().collect(Collectors.toList());
     }
 
     // EFFECT: Returns "MORNING" / "AFTERNOON" / "EVENING" based on the start time and end time of the section.
     //         Throws NoTimeSpan if a suitable one is not found.
-    public String getTimeSpan() throws NoTimeSpan {
-        if (start.isAfter(LocalTime.of(17, 59))) {
+    public String getTimeSpan() {
+        if (start == null || end == null) {
+            return "N/A";
+        } else if (start.isAfter(LocalTime.of(17, 59))) {
             return "EVENING";
         } else if (start.isAfter(LocalTime.of(11, 59))) {
             return "AFTERNOON";
-        } else if (start.isBefore(LocalTime.of(12, 0))) {
-            return "MORNING";
         } else {
-            throw new NoTimeSpan();
+            return "MORNING";
         }
+    }
+
+    public boolean isRequired() {
+        return activity.equals("Required");
     }
 }

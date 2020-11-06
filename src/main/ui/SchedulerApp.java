@@ -8,10 +8,7 @@ import persistence.JsonWriter;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 import java.util.stream.Collectors;
 
 // Referenced TellerApp.
@@ -20,7 +17,7 @@ import java.util.stream.Collectors;
 public class SchedulerApp {
     private final Scanner input;
     private User user;
-    public static final String[] AVAILABLE_TERMS = new String[]{"2020W", "2021S"};
+    public static final List<String> AVAILABLE_TERMS = Arrays.asList(new String[]{"2020W", "2021S"});
 
     // constructor
     public SchedulerApp() {
@@ -38,7 +35,7 @@ public class SchedulerApp {
         welcome();
         while (keepGoing) {
             showOptions();
-            String command = input.next().toUpperCase();
+            String command = input.nextLine().toUpperCase();
             if (command.equals("E")) {
                 keepGoing = false;
             } else {
@@ -59,9 +56,10 @@ public class SchedulerApp {
     private void showOptions() {
         System.out.println("~~~~~~~~~~~~~~~~ OPTIONS ~~~~~~~~~~~~~~~~");
         System.out.println("\tE - to exit.");
-        System.out.println("\tL - to load from a previously saved file.");
         System.out.println("\tN - to make a new timetable.");
+        System.out.println("\tS - to save your loaded file.");
         System.out.println("\tP - to print out your timetable file.");
+        System.out.println("\tL - to load from a previously saved file.");
         System.out.println("\tH - to show the options menu again.");
         System.out.println("~~~~~~~~~~~~~~~~ ======= ~~~~~~~~~~~~~~~~");
 
@@ -97,7 +95,7 @@ public class SchedulerApp {
     private void loadUser() {
         System.out.println("Reading file from ./data/timetables/ ...");
         System.out.println("Please enter your file name (without .json file extension.)");
-        String fileName = input.next();
+        String fileName = input.nextLine();
         String filePath = "./data/timetables/" + fileName + ".json";
         JsonReader reader = new JsonReader(filePath);
         try {
@@ -121,7 +119,7 @@ public class SchedulerApp {
             try {
                 addCourses();
                 System.out.println("Do you have anymore to add?");
-                command = input.next().toUpperCase();
+                command = input.nextLine().toUpperCase();
                 if (command.equals("NO")) {
                     tryMore = false;
                 }
@@ -129,7 +127,7 @@ public class SchedulerApp {
                 System.out.println("These course(s) were not valid.");
                 n.printClasses();
                 System.out.println("Would you like to retry? (YES / NO)");
-                command = input.next().toUpperCase();
+                command = input.nextLine().toUpperCase();
                 if (command.equals("NO")) {
                     tryMore = false;
                 }
@@ -146,8 +144,14 @@ public class SchedulerApp {
         for (String term : AVAILABLE_TERMS) {
             System.out.println("\t" + term);
         }
-        String command = input.next().toUpperCase();
-        user = new User(command);
+        String command = input.nextLine().toUpperCase();
+        if (!AVAILABLE_TERMS.contains(command)) {
+            System.out.println("Please re enter your selection.");
+            String retry = input.nextLine().toUpperCase();
+            user = new User(retry);
+        } else {
+            user = new User(command);
+        }
     }
 
     // EFFECTS: Sets user preference for time slots.
@@ -156,7 +160,7 @@ public class SchedulerApp {
                 + "courses during the morning, afternoon or evening.");
         System.out.println("Afternoon, Morning, Evening");
         String command = input.nextLine().toUpperCase();
-        List<String> preferencesArr = new ArrayList<>();
+        List<String> preferencesArr = new LinkedList<>();
         for (String time : command.trim().split(",")) {
             preferencesArr.add(time.trim());
         }
@@ -169,7 +173,6 @@ public class SchedulerApp {
         System.out.println("Please enter your courses. If you have multiple, please divide by a \",\".");
         System.out.println("Please format your course with [SUBJECT_CODE] [COURSE_NUM].\nXXXX ###.");
 
-        input.nextLine();
         String coursesStr = input.nextLine();
         String[] arr = coursesStr.split(",");
         List<String> courses = Arrays.stream(arr).map(String::trim).collect(Collectors.toList());
@@ -190,6 +193,7 @@ public class SchedulerApp {
             System.out.println("======================= TIMETABLE =======================");
             printTerms("TERM 1");
             printTerms("TERM 2");
+            printTerms("TERM 1 2");
             System.out.println("=========================================================");
         }
     }
@@ -197,10 +201,17 @@ public class SchedulerApp {
     // EFFECTS: For each term, print the sections.
     private void printTerms(String term) {
         System.out.println(term);
-        for (Section sec : user.getFinalTimeTable().get(term)) {
-            System.out.println("\tSECTION: " + sec.getSection());
-            System.out.println("\tStart: " + sec.getStart());
-            System.out.println("\tDays: " + sec.getDays());
+        if (user.getFinalTimeTable().get(term) == null) {
+            System.out.println("\tNone in " + term + ".");
+            System.out.println("\t----------------------------");
+        } else {
+            for (Section sec : user.getFinalTimeTable().get(term)) {
+                System.out.println("\tSECTION: " + sec.getSection());
+                System.out.println("\tStart: " + sec.getStartStr());
+                System.out.println("\tEnd: " + sec.getEndStr());
+                System.out.println("\tDays: " + sec.getDays());
+                System.out.println("\t----------------------------");
+            }
         }
     }
 
@@ -210,7 +221,7 @@ public class SchedulerApp {
         JsonWriter writer;
         System.out.println("File will be saved to ./data/timetables/ directory.");
         System.out.println("Please name your file.");
-        String fileName = input.next();
+        String fileName = input.nextLine();
         try {
             writer = new JsonWriter(fileName);
             writer.open();

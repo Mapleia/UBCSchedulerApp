@@ -67,13 +67,13 @@ public class UserTest {
         }
 
         assertEquals("BIOL 112 101",
-                user.getFinalTimeTable().get("Term1").get(0).getSection());
+                user.getFinalTimeTable().get("TERM 1").get(0).getSection());
         assertEquals("BIOL 112 T01",
-                user.getFinalTimeTable().get("Term1").get(1).getSection());
+                user.getFinalTimeTable().get("TERM 1").get(1).getSection());
         assertEquals("CPSC 210 202",
-                user.getFinalTimeTable().get("Term2").get(0).getSection());
+                user.getFinalTimeTable().get("TERM 1").get(0).getSection());
         assertEquals("CPSC 210 L2H",
-                user.getFinalTimeTable().get("Term2").get(1).getSection());
+                user.getFinalTimeTable().get("TERM 2").get(1).getSection());
         List<String> list = new ArrayList<>();
         list.add("CPSC 210");
         list.add("BIOL 112");
@@ -102,7 +102,7 @@ public class UserTest {
         JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
         try {
             JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.addSectionsToUser(jsonObject.getJSONObject("Schedule"));
+            user.addSectionsFromTimeTable(jsonObject.getJSONObject("Schedule"));
 
         } catch (Exception e) {
             fail();
@@ -150,5 +150,25 @@ public class UserTest {
 
         assertFalse(user.createTimeTable());
 
+    }
+
+    @Test
+    public void testALotOfCoursesCreateSchedule() {
+        List<String> coursesToAdd = new ArrayList<>();
+        coursesToAdd.add("BIOL 155");
+        coursesToAdd.add("BIOL 200");
+        coursesToAdd.add("BIOL 140");
+        coursesToAdd.add("CHEM 233");
+        coursesToAdd.add("ENGL 110");
+        coursesToAdd.add("CPSC 210");
+
+        try {
+            user.addCourses(coursesToAdd);
+        } catch (Exception e) {
+            fail();
+        }
+
+        assertTrue(user.createTimeTable());
+        assertTrue(user.getFinalTimeTable().size() > 0);
     }
 }

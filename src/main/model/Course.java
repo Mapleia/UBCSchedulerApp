@@ -1,29 +1,26 @@
 package model;
 
-import exceptions.NoTimeSpan;
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 // Represents a course at UBC.
 public class Course {
-    private final JSONArray sections;
-    private final List<String> terms;
-    private final List<String> activities;
-    private final List<String> preferences;
-    private String term;
     private String courseName;
-    private HashMap<String, Section> sectionsMap;
+    private final List<String> termsList;
+    private final List<String> activities;
+    private final List<Section> sections;
+    private String term;
     private int credit;
+    private final List<String> preferences;
+
+    private HashMap<String, Section> sectionsMap;
     private HashMap<String, HashMap<String, ArrayList<Section>>> sortSections;
 
     // constructor for course
-    public Course(String courseName, List<String> termsList, List<String> activities, JSONArray sections,
-                  String term, int credit, List<String> preferences) throws NoTimeSpan {
+    public Course(String courseName, List<String> termsList, List<String> activities, List<Section> sections,
+                  String term, int credit, List<String> preferences)  {
         this.courseName = courseName;
-        this.terms = termsList;
+        this.termsList = termsList;
         this.activities = activities;
         this.sections = sections;
         this.term = term;
@@ -33,17 +30,17 @@ public class Course {
     }
 
     // EFFECTS: initializes all of the fields, adds, then sorts sections.
-    private void init() throws NoTimeSpan {
+    private void init()  {
+        preferences.add("N/A");
         sectionsMap = new HashMap<>();
-        addSections();
+        mapSections();
         sortSections = new HashMap<>();
         sortSections();
     }
 
-    // ================================================================================================================
-    // getters
+    // getters ========================================================================================================
     public List<String> getTerms() {
-        return terms;
+        return termsList;
     }
 
     public HashMap<String, Section> getSectionsMap() {
@@ -57,23 +54,31 @@ public class Course {
     public HashMap<String, HashMap<String, ArrayList<Section>>> getSortSections() {
         return sortSections;
     }
+
+    public List<String> getActivities() {
+        return activities;
+    }
+
+    public String getCourseName() {
+        return courseName;
+    }
     // ================================================================================================================
 
     // MODIFIES: course
     // EFFECTS: parses sections from JSON object and adds them to the course.
-    private void addSections() {
-        for (Object o : sections) {
-            JSONObject json = (JSONObject) o;
-            Section section = new Section(json, term);
-            sectionsMap.put(section.getSection(), section);
+    private void mapSections() {
+        for (Section sec : sections) {
+            if (sec.isRequired() && !activities.contains("Required")) {
+                activities.add("Required");
+            }
+            sectionsMap.put(sec.getSection(), sec);
         }
     }
 
     // MODIFIES: this
     // EFFECTS: sorts sections by activity, then by timespan (morning/afternoon/evening)
-    private void sortSections() throws NoTimeSpan {
-        List<Section> values = sectionsMap.values().stream().collect(Collectors.toList());
-        Iterator<Section> itr = values.iterator();
+    private void sortSections()  {
+        Iterator<Section> itr = sections.iterator();
         HashMap<String, ArrayList<Section>> timeSorted;
 
         while (itr.hasNext()) {
