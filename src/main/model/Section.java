@@ -102,6 +102,18 @@ public class Section implements Writable {
         return course;
     }
 
+    // EFFECT: Returns true if the activity is a "required" type.
+    public boolean isRequired() {
+        return activity.equals("Required");
+    }
+
+    public String getTerm() {
+        return term;
+    }
+
+    public Object getStatus() {
+        return status;
+    }
     // ================================================================================================================
 
     // EFFECTS: Returns true if the sections are overlapping.
@@ -146,9 +158,6 @@ public class Section implements Writable {
         return result;
     }
 
-    // EFFECTS: Returns true if given section is a activity type duplicate.
-
-
     // EFFECT: serializes section object to a JSONObject.
     @Override
     public JSONObject toJson() {
@@ -159,8 +168,8 @@ public class Section implements Writable {
         obj.put("activity", activity);
         obj.put("term", term);
         obj.put("days", days);
-        obj.put("start", start.toString());
-        obj.put("end", end.toString());
+        obj.put("start", getStartStr());
+        obj.put("end", getEndStr());
 
         return obj;
     }
@@ -234,9 +243,5 @@ public class Section implements Writable {
         } else {
             return "MORNING";
         }
-    }
-
-    public boolean isRequired() {
-        return activity.equals("Required");
     }
 }

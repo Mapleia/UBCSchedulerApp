@@ -5,24 +5,26 @@ import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
+import persistence.JsonWriter;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class UserTest {
     private User user;
-    List<String> preferences = new ArrayList<>();
+    List<String> preferences = new LinkedList<>();
 
 
     @BeforeEach
     public void setup() {
         user = new User("2020W");
-        preferences.add("Afternoon");
-        preferences.add("Evening");
-        preferences.add("Morning");
+        preferences.add("Afternoon".toUpperCase());
+        preferences.add("Evening".toUpperCase());
+        preferences.add("Morning".toUpperCase());
         user.setPreferences(preferences);
     }
 
@@ -33,12 +35,18 @@ public class UserTest {
         courses.add("BIOL 112");
         try {
             user.addCourses(courses);
+            user.createTimeTable();
         } catch (Exception e) {
-
             fail();
         }
-        JsonReader reader = new JsonReader("./data/timetables/testUserWithCourses.json");
+        JsonWriter writer = new JsonWriter("testUserWithCourses");
+
         try {
+            writer.open();
+            writer.write(user);
+            writer.close();
+
+            JsonReader reader = new JsonReader("./data/timetables/testUserWithCourses.json");
             JSONObject obj = new JSONObject(reader.readFile());
             assertTrue(obj.similar(user.toJson()));
         } catch (Exception e) {
@@ -48,18 +56,17 @@ public class UserTest {
 
     @Test
     public void testCreateTimeTable() {
-        assertFalse(user.createTimeTable());
-        assertTrue(new HashMap<String, HashMap<String, Section>>().equals(user.getFinalTimeTable()));
+        assertEquals(user.getFinalTimeTable(), new HashMap<String, ArrayList<Section>>());
     }
 
     @Test
     public void testErrorLog() {
-        assertTrue(new ArrayList<>().equals(user.getErrorLog()));
+        assertEquals(user.getErrorLog(), new ArrayList<>());
     }
 
     @Test
     public void testAddSectionsToUser() {
-        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
+        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithCourses.json");
         try {
             user = jsonReader.readUser();
         } catch (Exception e) {
@@ -67,17 +74,17 @@ public class UserTest {
         }
 
         assertEquals("BIOL 112 101",
-                user.getFinalTimeTable().get("TERM 1").get(0).getSection());
+                user.getFinalTimeTable().get("1").get(0).getSection());
         assertEquals("BIOL 112 T01",
-                user.getFinalTimeTable().get("TERM 1").get(1).getSection());
-        assertEquals("CPSC 210 202",
-                user.getFinalTimeTable().get("TERM 1").get(0).getSection());
-        assertEquals("CPSC 210 L2H",
-                user.getFinalTimeTable().get("TERM 2").get(1).getSection());
+                user.getFinalTimeTable().get("1").get(1).getSection());
+        assertEquals("CPSC 210 201",
+                user.getFinalTimeTable().get("2").get(0).getSection());
+        assertEquals("CPSC 210 L2A",
+                user.getFinalTimeTable().get("2").get(1).getSection());
         List<String> list = new ArrayList<>();
         list.add("CPSC 210");
         list.add("BIOL 112");
-        assertTrue(list.equals(user.getCourseList()));
+        assertEquals(user.getCourseList(), list);
         assertEquals("2020W", user.getTerm());
     }
 
@@ -99,7 +106,7 @@ public class UserTest {
 
     @Test
     public void testToJsonWithSchedule() {
-        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
+        JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithCourses.json");
         try {
             JSONObject jsonObject = new JSONObject(jsonReader.readFile());
             user.addSectionsFromTimeTable(jsonObject.getJSONObject("Schedule"));
@@ -127,8 +134,6 @@ public class UserTest {
         } catch (Exception e) {
             fail();
         }
-
-        assertFalse(user.createTimeTable());
 
     }
 
@@ -168,7 +173,7 @@ public class UserTest {
             fail();
         }
 
-        assertTrue(user.createTimeTable());
+        assertFalse(user.createTimeTable());
         assertTrue(user.getFinalTimeTable().size() > 0);
     }
 }

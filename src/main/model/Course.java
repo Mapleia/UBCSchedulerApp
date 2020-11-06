@@ -25,7 +25,7 @@ public class Course {
         this.sections = sections;
         this.term = term;
         this.credit = credit;
-        this.preferences = preferences;
+        this.preferences = new LinkedList<>(preferences);
         init();
     }
 

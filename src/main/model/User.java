@@ -37,11 +37,11 @@ public class User implements Writable {
 
         result = new HashMap<>();
         resultsCredits = new HashMap<>();
-        result.put("TERM 1", new ArrayList<>());
-        result.put("TERM 2", new ArrayList<>());
-        result.put("TERM 1 2", new ArrayList<>());
-        resultsCredits.put("TERM 1", 0);
-        resultsCredits.put("TERM 2", 0);
+        result.put("1", new ArrayList<>());
+        result.put("2", new ArrayList<>());
+        result.put("1-2", new ArrayList<>());
+        resultsCredits.put("1", 0);
+        resultsCredits.put("2", 0);
     }
 
     // getters & setters ==============================================================================================
@@ -108,10 +108,6 @@ public class User implements Writable {
             containsMap.put("Lecture", true);
             itr.remove();
 
-        } else if (act.equals("Web-Oriented Course") && containsMap.get("Lecture")) {
-            containsMap.put("Web-Oriented Course", true);
-            itr.remove();
-
         } else if (act.equals("Waiting List")
                 && (containsMap.get("Web-Oriented Course") || containsMap.get("Lecture"))) {
             containsMap.put("Waiting List", true);
@@ -156,6 +152,9 @@ public class User implements Writable {
 
         potentialSections : {
             for (Section s1 : sections) {
+                if (!s1.getTerm().equals(term)) {
+                    continue;
+                }
                 if (finalTimeTable.get(term).isEmpty()) {
                     success = true;
                     finalTimeTable.get(term).add(s1);
@@ -188,10 +187,10 @@ public class User implements Writable {
                 } else if (course.getTerms().contains("2")) {
                     addToTerm2Results(itr, course);
                 } else {
-                    result.get("TERM 1 2").add(course);
+                    result.get("1-2").add(course);
                     itr.remove();
                 }
-            } else if (resultsCredits.get("TERM 2") > resultsCredits.get("TERM 1")) {
+            } else if (resultsCredits.get("2") > resultsCredits.get("1")) {
                 addToTerm1Results(itr, course);
             } else {
                 addToTerm2Results(itr, course);
@@ -202,16 +201,16 @@ public class User implements Writable {
     // HELPER FOR sortCourses
     // EFFECT: Adds Course to Term1 and removes from the list.
     private void addToTerm1Results(Iterator<Course> itr, Course c) {
-        result.get("TERM 1").add(c);
-        resultsCredits.put("TERM 1", resultsCredits.get("TERM 1") + c.getCredit());
+        result.get("1").add(c);
+        resultsCredits.put("1", resultsCredits.get("1") + c.getCredit());
         itr.remove();
     }
 
     // HELPER FOR sortCourses
     // EFFECT: Adds Course to Term2 and removes from the list.
     private void addToTerm2Results(Iterator<Course> itr, Course c) {
-        result.get("TERM 2").add(c);
-        resultsCredits.put("TERM 2", resultsCredits.get("TERM 2") + c.getCredit());
+        result.get("2").add(c);
+        resultsCredits.put("2", resultsCredits.get("2") + c.getCredit());
         itr.remove();
     }
 
@@ -221,6 +220,7 @@ public class User implements Writable {
         JSONObject json = new JSONObject();
 
         json.put("Course List", new JSONArray(courseList));
+        json.put("Preferences", new JSONArray(preferencesArr));
         json.put("Term", termYear);
 
         JSONObject schedule = new JSONObject();

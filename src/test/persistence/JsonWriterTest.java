@@ -5,7 +5,9 @@ import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -26,6 +28,7 @@ public class JsonWriterTest {
     void testWriterEmptyUser() {
         try {
             User user = new User("2020W");
+            user.setPreferences(Arrays.asList("AFTERNOON", "MORNING", "EVENING", "N/A"));
             JsonWriter writer = new JsonWriter("testWriterEmptyUser");
             writer.open();
             writer.write(user);
@@ -34,7 +37,7 @@ public class JsonWriterTest {
             JsonReader reader = new JsonReader("./data/timetables/testWriterEmptyUser.json");
             user = reader.readUser();
             assertEquals("2020W", user.getTerm());
-            assertTrue(new HashMap<>().equals(user.getFinalTimeTable()));
+            assertEquals(user.getFinalTimeTable(), new HashMap<>());
         } catch (IOException e) {
             fail("Exception should not have been thrown");
         }
@@ -42,13 +45,19 @@ public class JsonWriterTest {
 
     @Test
     void testWriterGeneralUser() {
+        User user = new User("2020W");
         try {
-            User user = new User("2020W");
-            JsonWriter writer = new JsonWriter("testUserWithSections");
+            List<String> courses = Arrays.asList("CPSC 210", "CPSC 110", "BIOL 112");
+            user.setPreferences(Arrays.asList("AFTERNOON", "EVENING", "MORNING"));
+            user.addCourses(courses);
+            user.createTimeTable();
+        } catch (Exception e) {
+            e.printStackTrace();
+            fail();
+        }
 
-            JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithSchedule.json");
-            JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.addSectionsFromTimeTable(jsonObject.getJSONObject("Schedule"));
+        try {
+            JsonWriter writer = new JsonWriter("testUserWithSections");
 
             writer.open();
             writer.write(user);
@@ -57,15 +66,16 @@ public class JsonWriterTest {
             JsonReader reader = new JsonReader("./data/timetables/testUserWithSections.json");
             user = reader.readUser();
             assertEquals("2020W", user.getTerm());
-            assertEquals("BIOL 112 101",
-                    user.getFinalTimeTable().get("TERM 1").get(0).getSection());
-            assertEquals("BIOL 112 T01",
-                    user.getFinalTimeTable().get("TERM 1").get(1).getSection());
-            assertEquals("CPSC 210 202",
-                    user.getFinalTimeTable().get("TERM 1").get(0).getSection());
-            assertEquals("CPSC 210 L2H",
-                    user.getFinalTimeTable().get("TERM 2").get(1).getSection());
+            assertEquals("CPSC 110 101",
+                    user.getFinalTimeTable().get("1").get(0).getSection());
+            assertEquals("CPSC 110 L12",
+                    user.getFinalTimeTable().get("1").get(1).getSection());
+            assertEquals("CPSC 110 101",
+                    user.getFinalTimeTable().get("1").get(0).getSection());
+            assertEquals("CPSC 210 L2A",
+                    user.getFinalTimeTable().get("2").get(1).getSection());
         } catch (IOException e) {
+            e.printStackTrace();
             fail("Exception should not have been thrown");
         }
     }

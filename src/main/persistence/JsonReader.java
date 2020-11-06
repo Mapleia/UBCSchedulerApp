@@ -12,6 +12,7 @@ import java.nio.file.Paths;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -63,11 +64,17 @@ public class JsonReader {
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
         List<String> courses = new ArrayList<>();
         for (int i = 0; i < arr.length(); i++) {
-            String str = arr.getString(i);
-            courses.add(str);
+            courses.add(arr.getString(i));
+        }
+
+        JSONArray prefArr = jsonObject.getJSONArray("Preferences");
+        List<String> preferences = new LinkedList<>();
+        for (int j = 0; j < prefArr.length(); j++) {
+            preferences.add(prefArr.getString(j));
         }
 
         User user = new User(term);
+        user.setPreferences(preferences);
         user.addSectionsFromTimeTable(schedule);
         user.addCourses(courses);
         return user;
@@ -98,7 +105,10 @@ public class JsonReader {
 
         List<Section> sectionList = new ArrayList<>();
         for (int k = 0; k < sections.length(); k++) {
-            sectionList.add(parseSection(sections.getJSONObject(k), thisTerm));
+            Section sec = parseSection(sections.getJSONObject(k), thisTerm);
+            if (!sec.getStatus().equals("STT")) {
+                sectionList.add(sec);
+            }
         }
 
         List<String> termsList = new ArrayList<>();
@@ -111,12 +121,8 @@ public class JsonReader {
             activitiesList.add(activities.getString(j));
         }
 
-        try {
-            return new Course(courseName, termsList, activitiesList, sectionList, thisTerm, credit, preferences);
-        } catch (Exception e) {
-            e.printStackTrace();
-            throw new JSONException("Error in parsing " + courseName);
-        }
+        return new Course(courseName, termsList, activitiesList, sectionList, thisTerm, credit, preferences);
+
     }
 
     // ======================= FOR SECTION OBJECT =====================================================================
@@ -129,7 +135,11 @@ public class JsonReader {
             String jsonData = readFile();
             JSONObject jsonObject = new JSONObject(jsonData);
             Course course = parseCourse(jsonObject, term, preferences);
-            return course.getSectionsMap().get(section);
+            if (course.getSectionsMap().get(section) == null) {
+                throw new IOException();
+            } else {
+                return course.getSectionsMap().get(section);
+            }
         } catch (Exception e) {
             throw new IOException();
         }

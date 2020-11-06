@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -12,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class CourseTest {
     public Course cpsc210;
     public JsonReader reader;
-    public List<String> preferences = new ArrayList<>();
+    public List<String> preferences = new LinkedList<>();
 
     @BeforeEach
     public void setup() {
@@ -44,7 +45,7 @@ public class CourseTest {
         } catch (Exception e) {
             fail();
         }
-        assertEquals("CPSC 210 L1T", cpsc210.getSortSections().get("Laboratory").get("AFTERNOON").get(0)
+        assertEquals("CPSC 210 L1A", cpsc210.getSortSections().get("Laboratory").get("AFTERNOON").get(0)
                 .getSection());
     }
 }
