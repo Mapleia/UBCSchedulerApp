@@ -161,8 +161,7 @@ public class JsonReader {
             days.add(jsonObject.getJSONArray("days").getString(i));
         }
 
-        if (jsonObject.getString("start").trim().equals("")
-                || jsonObject.getString("end").trim().equals("")) {
+        if (jsonObject.getString("start").trim().equals("")) {
             activity = "Required";
             start = null;
             end = null;

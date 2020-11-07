@@ -104,11 +104,7 @@ public class User implements Writable {
     //          If at Waiting List, and the last one, and no Lecture or W.O.C, add.
     private void addIfPossible(String act, HashMap<String, Boolean> containsMap, Iterator<String> itr,
                                Course c, String t) {
-        if (act.equals("Lecture") && containsMap.get("Web-Oriented Course")) {
-            containsMap.put("Lecture", true);
-            itr.remove();
-
-        } else if (act.equals("Waiting List")
+        if (act.equals("Waiting List")
                 && (containsMap.get("Web-Oriented Course") || containsMap.get("Lecture"))) {
             containsMap.put("Waiting List", true);
             itr.remove();

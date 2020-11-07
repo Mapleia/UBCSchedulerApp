@@ -60,6 +60,17 @@ public class JsonReaderTest {
     }
 
     @Test
+    void testReaderNoStart() {
+        JsonReader reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
+        try {
+            Course course = reader.readCourse("2020W", Arrays.asList("MORNING", "AFTERNOON", "EVENING"));
+
+        } catch (IOException e) {
+            fail("Couldn't read from file");
+        }
+    }
+
+    @Test
     void testWrongSection() {
         JsonReader reader = new JsonReader("./data/2020W/CPSC/CPSC 210.json");
         try {
