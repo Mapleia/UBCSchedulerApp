@@ -1,7 +1,6 @@
 package persistence;
 
 import model.User;
-import org.json.JSONObject;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;

@@ -214,15 +214,15 @@ public class Section implements Writable {
             date2 = date2.with(TemporalAdjusters.firstInMonth(DayOfWeek.of(dayInt)));
 
             switch (term) {
-                case "1":
+                case "1-2":
                     firstWeekList.add(date1);
+                    firstWeekList.add(date2);
                     break;
                 case "2":
                     firstWeekList.add(date2);
                     break;
-                case "1-2":
+                default:
                     firstWeekList.add(date1);
-                    firstWeekList.add(date2);
                     break;
             }
         }

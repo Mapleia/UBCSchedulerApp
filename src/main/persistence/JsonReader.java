@@ -121,7 +121,7 @@ public class JsonReader {
             activitiesList.add(activities.getString(j));
         }
 
-        return new Course(courseName, termsList, activitiesList, sectionList, thisTerm, credit, preferences);
+        return new Course(courseName, termsList, activitiesList, sectionList, credit, preferences);
 
     }
 

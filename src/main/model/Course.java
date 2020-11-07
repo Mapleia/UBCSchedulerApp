@@ -7,9 +7,8 @@ import java.util.*;
 public class Course {
     private String courseName;
     private final List<String> termsList;
-    private final List<String> activities;
-    private final List<Section> sections;
-    private String term;
+    private final List<String> activitiesList;
+    private final List<Section> sectionList;
     private int credit;
     private final List<String> preferences;
 
@@ -17,13 +16,12 @@ public class Course {
     private HashMap<String, HashMap<String, ArrayList<Section>>> sortSections;
 
     // constructor for course
-    public Course(String courseName, List<String> termsList, List<String> activities, List<Section> sections,
-                  String term, int credit, List<String> preferences)  {
+    public Course(String courseName, List<String> termsList, List<String> activitiesList, List<Section> sectionList,
+                  int credit, List<String> preferences)  {
         this.courseName = courseName;
         this.termsList = termsList;
-        this.activities = activities;
-        this.sections = sections;
-        this.term = term;
+        this.activitiesList = activitiesList;
+        this.sectionList = sectionList;
         this.credit = credit;
         this.preferences = new LinkedList<>(preferences);
         init();
@@ -55,8 +53,8 @@ public class Course {
         return sortSections;
     }
 
-    public List<String> getActivities() {
-        return activities;
+    public List<String> getActivitiesList() {
+        return activitiesList;
     }
 
     public String getCourseName() {
@@ -67,9 +65,9 @@ public class Course {
     // MODIFIES: course
     // EFFECTS: parses sections from JSON object and adds them to the course.
     private void mapSections() {
-        for (Section sec : sections) {
-            if (sec.isRequired() && !activities.contains("Required")) {
-                activities.add("Required");
+        for (Section sec : sectionList) {
+            if (sec.isRequired() && !activitiesList.contains("Required")) {
+                activitiesList.add("Required");
             }
             sectionsMap.put(sec.getSection(), sec);
         }
@@ -78,7 +76,7 @@ public class Course {
     // MODIFIES: this
     // EFFECTS: sorts sections by activity, then by timespan (morning/afternoon/evening)
     private void sortSections()  {
-        Iterator<Section> itr = sections.iterator();
+        Iterator<Section> itr = sectionList.iterator();
         HashMap<String, ArrayList<Section>> timeSorted;
 
         while (itr.hasNext()) {

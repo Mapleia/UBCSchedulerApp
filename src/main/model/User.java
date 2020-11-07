@@ -78,11 +78,11 @@ public class User implements Writable {
             for (Course c : result.get(t)) {
                 HashMap<String, Boolean> finalTimeTableContains = new HashMap<>();
 
-                for (String s : c.getActivities()) {
+                for (String s : c.getActivitiesList()) {
                     finalTimeTableContains.put(s, false);
                 }
 
-                Iterator<String> itr = c.getActivities().iterator();
+                Iterator<String> itr = c.getActivitiesList().iterator();
                 while (itr.hasNext()) {
                     String act = itr.next();
                     addIfPossible(act, finalTimeTableContains, itr, c, t);

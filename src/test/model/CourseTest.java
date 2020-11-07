@@ -4,7 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -47,5 +46,19 @@ public class CourseTest {
         }
         assertEquals("CPSC 210 L1A", cpsc210.getSortSections().get("Laboratory").get("AFTERNOON").get(0)
                 .getSection());
+    }
+
+    @Test
+    public void testMapSectionsRequired() {
+        Course japn200 = null;
+        try {
+            reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
+            japn200 = reader.readCourse("2020W", preferences);
+        } catch (Exception e) {
+            fail();
+        }
+        assertEquals("JAPN 200 007", japn200.getSortSections().get("Required").get("N/A").get(0).getSection());
+        assertTrue(japn200.getActivitiesList().contains("Required"));
+        assertEquals("JAPN 200", japn200.getCourseName());
     }
 }

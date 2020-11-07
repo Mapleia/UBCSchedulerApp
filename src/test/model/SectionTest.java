@@ -38,6 +38,7 @@ public class SectionTest {
         assertEquals("18:00", cpsc210.getSectionsMap().get("CPSC 210 L1U").getStart().toString());
         assertEquals("CPSC 210", cpsc210.getSectionsMap().get("CPSC 210 L1U").getCourse());
         assertEquals(cpsc210.getSectionsMap().get("CPSC 210 L1U").getDays(), days);
+        assertEquals(cpsc210.getSectionsMap().get("CPSC 210 L1U").getTerm(), "1");
     }
 
     @Test
@@ -317,7 +318,7 @@ public class SectionTest {
                 "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(20, 0),
                 LocalTime.of(21, 0),"2020W").getTimeSpan());
         assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(23, 00),
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(23, 0),
                 LocalTime.of(23, 1),"2020W").getTimeSpan());
         assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
                 "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(23, 59),
