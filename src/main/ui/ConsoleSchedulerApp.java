@@ -14,13 +14,13 @@ import java.util.stream.Collectors;
 // Referenced TellerApp.
 // github: https://github.students.cs.ubc.ca/CPSC210/TellerApp.git
 // The TellerApp is a model of a bank on as a console app where you can deposit / withdraw and see your bank balance.
-public class SchedulerApp {
+public class ConsoleSchedulerApp {
     private final Scanner input;
     private User user;
     public static final List<String> AVAILABLE_TERMS = Collections.singletonList("2020W");
 
     // constructor
-    public SchedulerApp() {
+    public ConsoleSchedulerApp() {
         input = new Scanner(System.in);
         //user = new User();
 

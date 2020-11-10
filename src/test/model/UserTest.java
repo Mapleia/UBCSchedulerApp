@@ -187,4 +187,6 @@ public class UserTest {
             fail();
         }
     }
+
+    //TODO: tests for removeCourses, both successful and unsuccessful.
 }
