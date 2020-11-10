@@ -23,15 +23,17 @@ public class SectionTest {
         preferences.add("Afternoon");
         preferences.add("Evening");
         preferences.add("Morning");
+
+        try {
+            cpsc210 = reader.readCourse("2020W", preferences);
+            cpsc210.sortSections();
+        } catch (Exception e) {
+            fail();
+        }
     }
 
     @Test
     public void testCreateSection() {
-        try {
-            cpsc210 = reader.readCourse("2020W", preferences);
-        } catch (Exception e) {
-            fail();
-        }
         ArrayList<String> days = new ArrayList<>();
         days.add("TUE");
         assertEquals("CPSC 210 L1U", cpsc210.getSectionsMap().get("CPSC 210 L1U").getSection());
@@ -43,11 +45,6 @@ public class SectionTest {
 
     @Test
     public void testToJson() {
-        try {
-            cpsc210 = reader.readCourse("2020W", preferences);
-        } catch (Exception e) {
-            fail();
-        }
         ArrayList<String> days = new ArrayList<>();
         days.add("TUE");
 
@@ -68,12 +65,7 @@ public class SectionTest {
 
     @Test
     public void testCreateZonedDateTimes() {
-        try {
-            cpsc210 = reader.readCourse("2020W", preferences);
-            cpsc210_101 = cpsc210.getSectionsMap().get("CPSC 210 101");
-        } catch (Exception e) {
-            fail();
-        }
+        cpsc210_101 = cpsc210.getSectionsMap().get("CPSC 210 101");
 
         assertEquals(cpsc210_101.getFirstWeekList().get(0), LocalDate.of(2020, 9, 2));
         assertEquals(cpsc210_101.getFirstWeekList().get(1), LocalDate.of(2020, 9, 4));
@@ -87,6 +79,7 @@ public class SectionTest {
         JsonReader readerNew = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
         try {
             biol200 = readerNew.readCourse("2020W", preferences);
+            biol200.sortSections();
             Section section = biol200.getSectionsMap().get("BIOL 200 000");
             assertEquals("N/A", section.getTimeSpan());
 

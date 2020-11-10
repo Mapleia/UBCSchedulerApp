@@ -53,31 +53,19 @@ public class User implements Writable {
         return errorLog;
     }
 
-    public List<String> getCourseList() {
-        return courseList;
-    }
-
-    public String getTerm() {
-        return termYear;
-    }
-
-    public List<String> getPreferences() {
-        return preferencesArr;
-    }
-
     public void setPreferences(List<String> preferencesArr) {
         this.preferencesArr = preferencesArr;
     }
     // ================================================================================================================
 
     //TODO: finish this stub.
-    public boolean createTimeTable() {
+    public void createTimeTable() {
         sortCourses();
-
         for (String t : result.keySet()) {
             for (Course c : result.get(t)) {
                 HashMap<String, Boolean> finalTimeTableContains = new HashMap<>();
-
+                finalTimeTable.putIfAbsent(t, new ArrayList<>());
+                // setup for finalTimeTableContains map
                 for (String s : c.getActivitiesList()) {
                     finalTimeTableContains.put(s, false);
                 }
@@ -88,13 +76,22 @@ public class User implements Writable {
                     addIfPossible(act, finalTimeTableContains, itr, c, t);
                 }
 
-                if (finalTimeTableContains.containsValue(false)) {
-                    errorLog.add(c.getCourseName());
-                }
+                addToErrorLog(finalTimeTableContains, c);
+
             }
         }
+    }
 
-        return errorLog.size() <= 0;
+    private void addToErrorLog(HashMap<String, Boolean> finalTimeTableContains, Course c) {
+        if (finalTimeTableContains.containsValue(false)) {
+            String sectionStr = " ";
+            for (String s : finalTimeTableContains.keySet()) {
+                if (finalTimeTableContains.get(s) == false) {
+                    sectionStr = sectionStr.concat(s + ", ");
+                }
+            }
+            errorLog.add(c.getCourseName() + ":\n\t" + sectionStr);
+        }
     }
 
     // EFFECTS: Adds or skips activity based on what is already added.
@@ -104,64 +101,44 @@ public class User implements Writable {
     //          If at Waiting List, and the last one, and no Lecture or W.O.C, add.
     private void addIfPossible(String act, HashMap<String, Boolean> containsMap, Iterator<String> itr,
                                Course c, String t) {
-        if (act.equals("Waiting List")
-                && (containsMap.get("Web-Oriented Course") || containsMap.get("Lecture"))) {
+        if (act.equals("Waiting List")) {
             containsMap.put("Waiting List", true);
             itr.remove();
 
-        } else if (!act.equals("Waiting List")) {
-            if (addSectionFromCourseForAct(c, act, t, containsMap)) {
-                containsMap.put(act, true);
-                itr.remove();
+        } else {
+            for (String time : c.getSortSections().get(act).keySet()) {
+                if (sectionIsAdded(c.getSortSections().get(act).get(time), t)) {
+                    containsMap.put(act, true);
+                    itr.remove();
+                    break;
+                }
             }
-
-        } else if (!itr.hasNext() && !containsMap.get("Web-Oriented Course") && !containsMap.get("Lecture")) {
-            if (addSectionFromCourseForAct(c, act, t, containsMap)) {
-                containsMap.put("Waiting List", true);
-                containsMap.put("Web-Oriented Course", true);
-                containsMap.put("Lecture", true);
-                itr.remove();
-            }
-
         }
     }
 
-    // EFFECTS: Loops through the time preferences of a single activity of a course, adds if possible.
-    //          If a section from that activity type is successfully added, return true. False otherwise.
-    private boolean addSectionFromCourseForAct(Course c, String act, String t, HashMap<String, Boolean> containsMap) {
-        for (String time : c.getSortSections().get(act).keySet()) {
-            if (sectionIsAdded(c.getSortSections().get(act).get(time), t)) {
-                containsMap.put(act, true);
-                return true;
-            }
-        }
-        return false;
-    }
-
-    // HELPER FOR addSectionFromCourseForAct
+    // HELPER FOR addIfPossible
     // EFFECTS: Adds 1 section from a list of given sections to the final timetable if it fits.
     //          Returns false if no valid section could be added.
     //          Returns true if a section was added.
     private boolean sectionIsAdded(List<Section> sections, String term) {
-        finalTimeTable.putIfAbsent(term, new ArrayList<>());
         boolean success = false;
-
-        potentialSections : {
+        potentialSections: {
             for (Section s1 : sections) {
-                if (!s1.getTerm().equals(term)) {
-                    continue;
-                }
                 if (finalTimeTable.get(term).isEmpty()) {
                     success = true;
                     finalTimeTable.get(term).add(s1);
                     break potentialSections;
                 } else {
+                    boolean forThisSection = false;
                     for (Section s2 : finalTimeTable.get(term)) {
-                        if (!Section.isOverlapping(s1, s2)) {
-                            success = true;
-                            finalTimeTable.get(term).add(s1);
-                            break potentialSections;
+                        if (Section.isOverlapping(s1, s2)) {
+                            forThisSection = true;
                         }
+                    }
+                    if (!forThisSection) {
+                        success = true;
+                        finalTimeTable.get(term).add(s1);
+                        break potentialSections;
                     }
                 }
             }
@@ -177,37 +154,47 @@ public class User implements Writable {
         Iterator<Course> itr = copy.iterator();
         while (itr.hasNext()) {
             Course course = itr.next();
-            if (course.getTerms().size() == 1) {
-                if (course.getTerms().contains("1")) {
-                    addToTerm1Results(itr, course);
-                } else if (course.getTerms().contains("2")) {
-                    addToTerm2Results(itr, course);
-                } else {
-                    result.get("1-2").add(course);
-                    itr.remove();
-                }
+            if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("1")) {
+                addToTerm1Results(course);
+                itr.remove();
+
+            } else if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("2")) {
+                addToTerm2Results(course);
+                itr.remove();
+
+            } else if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("1-2")) {
+                course.filterForTerm("1-2");
+                course.sortSections();
+                result.get("1-2").add(course);
+                itr.remove();
+
             } else if (resultsCredits.get("2") > resultsCredits.get("1")) {
-                addToTerm1Results(itr, course);
+                addToTerm1Results(course);
+                itr.remove();
+
             } else {
-                addToTerm2Results(itr, course);
+                addToTerm2Results(course);
+                itr.remove();
             }
         }
     }
 
     // HELPER FOR sortCourses
-    // EFFECT: Adds Course to Term1 and removes from the list.
-    private void addToTerm1Results(Iterator<Course> itr, Course c) {
+    // EFFECT: Adds Course to Term1, sort course sections according to term specified and removes from the to-do list.
+    private void addToTerm1Results(Course c) {
+        c.filterForTerm("1");
+        c.sortSections();
         result.get("1").add(c);
         resultsCredits.put("1", resultsCredits.get("1") + c.getCredit());
-        itr.remove();
     }
 
     // HELPER FOR sortCourses
-    // EFFECT: Adds Course to Term2 and removes from the list.
-    private void addToTerm2Results(Iterator<Course> itr, Course c) {
+    // EFFECT: Adds Course to Term2, sort course sections according to term specified and removes from the to-do list.
+    private void addToTerm2Results(Course c) {
+        c.filterForTerm("2");
+        c.sortSections();
         result.get("2").add(c);
         resultsCredits.put("2", resultsCredits.get("2") + c.getCredit());
-        itr.remove();
     }
 
     @Override
@@ -280,7 +267,7 @@ public class User implements Writable {
     private boolean addCourse(String input) {
         String[] split = input.split(" ");
 
-        String path = "./data/" + termYear + "/" + split[0] + "/" + input + ".json";
+        String path = "./data/" + termYear + "/" + split[0].toUpperCase() + "/" + input.toUpperCase() + ".json";
 
         try {
             JsonReader jsonReader = new JsonReader(path);
@@ -291,5 +278,9 @@ public class User implements Writable {
         } catch (Exception e) {
             return false;
         }
+    }
+
+    public void clearTimetable() {
+        finalTimeTable = new HashMap<>();
     }
 }

@@ -5,11 +5,11 @@ import java.util.*;
 
 // Represents a course at UBC.
 public class Course {
-    private String courseName;
+    private final String courseName;
     private final List<String> termsList;
-    private final List<String> activitiesList;
-    private final List<Section> sectionList;
-    private int credit;
+    private List<String> activitiesList;
+    private List<Section> sectionList;
+    private final int credit;
     private final List<String> preferences;
 
     private HashMap<String, Section> sectionsMap;
@@ -33,7 +33,6 @@ public class Course {
         sectionsMap = new HashMap<>();
         mapSections();
         sortSections = new HashMap<>();
-        sortSections();
     }
 
     // getters ========================================================================================================
@@ -73,9 +72,24 @@ public class Course {
         }
     }
 
+    public void filterForTerm(String term) {
+        List<String> filteredActivity = new ArrayList<>();
+        List<Section> filteredSections = new ArrayList<>();
+        for (Section section : sectionList) {
+            if (section.getTerm().equals(term)) {
+                if (!filteredActivity.contains(section.getActivity())) {
+                    filteredActivity.add(section.getActivity());
+                }
+                filteredSections.add(section);
+            }
+        }
+        sectionList = filteredSections;
+        activitiesList = filteredActivity;
+    }
+
     // MODIFIES: this
     // EFFECTS: sorts sections by activity, then by timespan (morning/afternoon/evening)
-    private void sortSections()  {
+    public void sortSections() {
         Iterator<Section> itr = sectionList.iterator();
         HashMap<String, ArrayList<Section>> timeSorted;
 

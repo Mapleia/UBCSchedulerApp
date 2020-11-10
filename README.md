@@ -20,20 +20,21 @@ parameters for creating a schedule was fairly straight forward, and it could be 
 It can also be used for the rest of my degree, given that the course database gets updated every year.
 
 
-## USER STORIES
+## USER STORIES 1
 - As a user, I want to have multiple courses in my schedule.
 - As a user, I want to concentrate my courses in the PST morning, afternoon or evening.
 - As a user, I want to see the final list of sections that I need to register for in my schedule.
+- As a user, I want to remove some courses and add others. 
 
 ## USER STORIES 2
 - As a user, I want to load up a previous session and keep working on it.
 - As a user, I want to download/save the schedule made by the program and retrieve it.
-- As a user, I want to remove some courses and add others. 
+- As a user, I want to print out my schedule in the console so I can read it.
 
 ## CREDITS
 Data found by downloading from https://ubc-courses-api.herokuapp.com/. 
 
 ## DISCLAIMER
-*Pulled from scrapper in September 2020. Course schedule may have changed.*
+*Pulled from scrapper in November 2020. Course schedule may have changed.*
 
 *No UBC 2021 summer courses added to the database yet.*

@@ -20,16 +20,18 @@ public class CourseTest {
         preferences.add("Afternoon");
         preferences.add("Evening");
         preferences.add("Morning");
-    }
 
-    @Test
-    public void testSectionCreation() {
         try {
             cpsc210 = reader.readCourse("2020W", preferences);
+            cpsc210.sortSections();
         } catch (Exception e) {
             fail();
         }
 
+    }
+
+    @Test
+    public void testSectionCreation() {
         assertEquals("CPSC 210 L1U", cpsc210.getSectionsMap().get("CPSC 210 L1U").getSection());
         assertEquals("18:00", cpsc210.getSectionsMap().get("CPSC 210 L1U").getStart().toString());
         assertTrue(cpsc210.getTerms().contains("1"));
@@ -39,11 +41,6 @@ public class CourseTest {
 
     @Test
     public void testSortedSections() {
-        try {
-            cpsc210 = reader.readCourse("2020W", preferences);
-        } catch (Exception e) {
-            fail();
-        }
         assertEquals("CPSC 210 L1A", cpsc210.getSortSections().get("Laboratory").get("AFTERNOON").get(0)
                 .getSection());
     }
@@ -54,6 +51,7 @@ public class CourseTest {
         try {
             reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
             japn200 = reader.readCourse("2020W", preferences);
+            japn200.sortSections();
         } catch (Exception e) {
             fail();
         }

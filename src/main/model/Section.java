@@ -118,17 +118,15 @@ public class Section implements Writable {
 
     // EFFECTS: Returns true if the sections are overlapping.
     public static boolean isOverlapping(Section section1, Section section2) {
-        boolean results;
         if (section1.getStart() == null || section2.getStart() == null) {
-            results = false;
+            return false;
         } else if (section1.getEnd() == null || section2.getEnd() == null) {
-            results = false;
+            return false;
         } else if (section1.getFirstWeekList().size() > section2.getFirstWeekList().size()) {
-            results = isOverlappingHelper(section1, section2);
+            return isOverlappingHelper(section1, section2);
         } else {
-            results = isOverlappingHelper(section2, section1);
+            return isOverlappingHelper(section2, section1);
         }
-        return results;
     }
 
     // REQUIRES: section1 to have more days then section2, start & end cannot be null.

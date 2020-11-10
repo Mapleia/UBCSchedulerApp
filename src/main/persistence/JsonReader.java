@@ -153,19 +153,17 @@ public class JsonReader {
         String term = jsonObject.getString("term");
         String course = jsonObject.getString("subject_code") + " " + jsonObject.getString("course_number");
 
-        LocalTime start;
-        LocalTime end;
+        LocalTime start = null;
+        LocalTime end = null;
 
         List<String> days = new ArrayList<>();
         for (int i = 0; i < jsonObject.getJSONArray("days").length(); i++) {
             days.add(jsonObject.getJSONArray("days").getString(i));
         }
 
-        if (jsonObject.getString("start").trim().equals("")) {
+        if (jsonObject.getString("start").trim().equals("") && !activity.equals("Waiting List")) {
             activity = "Required";
-            start = null;
-            end = null;
-        } else {
+        } else if (!jsonObject.getString("start").trim().equals("")) {
             start = LocalTime.parse(jsonObject.getString("start"), DateTimeFormatter.ofPattern("HH:mm"));
             end = LocalTime.parse(jsonObject.getString("end"), DateTimeFormatter.ofPattern("HH:mm"))
                     .minusMinutes(10);

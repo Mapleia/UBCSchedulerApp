@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 public class SchedulerApp {
     private final Scanner input;
     private User user;
-    public static final List<String> AVAILABLE_TERMS = Arrays.asList(new String[]{"2020W", "2021S"});
+    public static final List<String> AVAILABLE_TERMS = Collections.singletonList("2020W");
 
     // constructor
     public SchedulerApp() {
@@ -54,14 +54,15 @@ public class SchedulerApp {
     // EFFECTS: Prints options to user.
     // Referenced TellerApp.
     private void showOptions() {
-        System.out.println("~~~~~~~~~~~~~~~~ OPTIONS ~~~~~~~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~ OPTIONS ~~~~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("\tE - to exit.");
         System.out.println("\tN - to make a new timetable.");
+        System.out.println("\tL - to load from a previously saved file.");
+        System.out.println("\tA - to add courses to your active schedule.");
         System.out.println("\tS - to save your loaded file.");
         System.out.println("\tP - to print out your timetable file.");
-        System.out.println("\tL - to load from a previously saved file.");
         System.out.println("\tH - to show the options menu again.");
-        System.out.println("~~~~~~~~~~~~~~~~ ======= ~~~~~~~~~~~~~~~~");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~ ======= ~~~~~~~~~~~~~~~~~~~~~~~~");
 
     }
 
@@ -70,16 +71,19 @@ public class SchedulerApp {
     private void processCommands(String command) {
         switch (command) {
             case "N":
-                createSchedule();
+                createNewSchedule();
+                break;
+            case "L":
+                loadUser();
+                break;
+            case "A":
+                addToSchedule();
                 break;
             case "S":
                 saveFile();
                 break;
             case "P":
                 printSchedule();
-                break;
-            case "L":
-                loadUser();
                 break;
             case "H":
                 showOptions();
@@ -106,11 +110,17 @@ public class SchedulerApp {
         }
     }
 
-    // FOR ADDING TO SCHEDULE =========================================================================================
-    // EFFECTS: Creates schedule by asking for term and courses.
-    private void createSchedule() {
+    // FOR CREATING A SCHEDULE =========================================================================================
+    // EFFECTS: Creates a new schedule by asking for term and courses.
+    private void createNewSchedule() {
         setTerm();
         setPreferences();
+        createSchedule();
+    }
+
+    // EFFECTS: Ask to add courses to the user's list of courses.
+    private void createSchedule() {
+        user.clearTimetable();
 
         boolean tryMore = true;
         String command;
@@ -133,17 +143,16 @@ public class SchedulerApp {
                 }
             }
         }
+        user.createTimeTable();
     }
 
     // EFFECTS: Sets user's term.
     private void setTerm() {
         System.out.println("Here are the terms available that you can select from. Please enter one.");
-        System.out.println("W = Both fall and spring terms.");
-        System.out.println("S = Both summer term 1 and summer term 2.");
-
-        for (String term : AVAILABLE_TERMS) {
-            System.out.println("\t" + term);
+        for (int i = 1; i < AVAILABLE_TERMS.size() + 1; i++) {
+            System.out.println("\t" + i + ". " + AVAILABLE_TERMS.get(i - 1));
         }
+
         String command = input.nextLine().toUpperCase();
         if (!AVAILABLE_TERMS.contains(command)) {
             System.out.println("Please re enter your selection.");
@@ -175,38 +184,56 @@ public class SchedulerApp {
 
         String coursesStr = input.nextLine();
         String[] arr = coursesStr.split(",");
-        List<String> courses = Arrays.stream(arr).map(String::trim).collect(Collectors.toList());
+        List<String> courses = Arrays.stream(arr)
+                .map(String::trim)
+                .collect(Collectors.toList());
         user.addCourses(courses);
 
+    }
+
+    // FOR ADDING TO ACTIVE SCHEDULE ==================================================================================
+    // EFFECTS: Add courses to the active schedule.
+    private void addToSchedule() {
+        if (user == null) {
+            System.out.println("No user found. Please create a new timetable, or load from a saved file.");
+        } else {
+            createSchedule();
+        }
     }
 
     // FOR PRINTING OUT SCHEDULE ======================================================================================
     // EFFECTS: Make schedule and print out schedule for user.
     private void printSchedule() {
-        boolean isSuccessful = user.createTimeTable();
-        if (!isSuccessful) {
-            System.out.println("The scheduler could not find a time for these sections.");
-            for (String missed : user.getErrorLog()) {
-                System.out.println(missed);
+        if (user != null) {
+            if (!user.getErrorLog().isEmpty()) {
+                System.out.println("The scheduler could not find a time for these sections.");
+                for (String missed : user.getErrorLog()) {
+                    System.out.println(missed);
+                }
             }
-        } else {
+
             System.out.println("======================= TIMETABLE =======================");
-            printTerms("TERM 1");
-            printTerms("TERM 2");
-            printTerms("TERM 1 2");
+            printTerms("1");
+            printTerms("2");
+            printTerms("1-2");
             System.out.println("=========================================================");
+
+        } else {
+            System.out.println("The scheduler could not create a schedule, because input was invalid/blank.");
+            System.out.println("Please retry.");
         }
     }
-    
+
     // EFFECTS: For each term, print the sections.
     private void printTerms(String term) {
-        System.out.println(term);
+        System.out.println("Term " + term);
         if (user.getFinalTimeTable().get(term) == null) {
-            System.out.println("\tNone in " + term + ".");
+            System.out.println("\tNone in Term " + term + ".");
             System.out.println("\t----------------------------");
         } else {
             for (Section sec : user.getFinalTimeTable().get(term)) {
                 System.out.println("\tSECTION: " + sec.getSection());
+                System.out.println("\tType: " + sec.getActivity());
                 System.out.println("\tStart: " + sec.getStartStr());
                 System.out.println("\tEnd: " + sec.getEndStr());
                 System.out.println("\tDays: " + sec.getDays());
@@ -232,6 +259,4 @@ public class SchedulerApp {
             System.out.println("An error was found writing your file.");
         }
     }
-
-
 }

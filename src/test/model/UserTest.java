@@ -81,11 +81,6 @@ public class UserTest {
                 user.getFinalTimeTable().get("2").get(0).getSection());
         assertEquals("CPSC 210 L2A",
                 user.getFinalTimeTable().get("2").get(1).getSection());
-        List<String> list = new ArrayList<>();
-        list.add("CPSC 210");
-        list.add("BIOL 112");
-        assertEquals(user.getCourseList(), list);
-        assertEquals("2020W", user.getTerm());
     }
 
     @Test
@@ -122,7 +117,7 @@ public class UserTest {
     }
 
     @Test
-    public void testSortCourses() {
+    public void testClearFinalTable() {
         List<String> coursesToAdd = new ArrayList<>();
         coursesToAdd.add("BIOL 155"); // TERM 1-2
         coursesToAdd.add("ASIA 100"); // TERM 1
@@ -131,14 +126,49 @@ public class UserTest {
 
         try {
             user.addCourses(coursesToAdd);
+            user.createTimeTable();
+            user.clearTimetable();
         } catch (Exception e) {
             fail();
         }
-
+        assertEquals(new HashMap<String, ArrayList<Section>>(), user.getFinalTimeTable());
     }
 
     @Test
-    public void testSortCoursesALot() {
+    public void testALotOfCoursesSchedule() {
+        List<String> coursesToAdd = new ArrayList<>();
+        coursesToAdd.add("BIOL 155");
+        coursesToAdd.add("BIOL 200");
+        coursesToAdd.add("BIOL 140");
+        coursesToAdd.add("CHEM 233");
+        coursesToAdd.add("ENGL 110");
+        coursesToAdd.add("CPSC 210");
+        coursesToAdd.add("CPSC 310");
+        coursesToAdd.add("BIOL 234");
+        coursesToAdd.add("JAPN 200");
+        coursesToAdd.add("CHEM 235");
+        coursesToAdd.add("MATH 103");
+        coursesToAdd.add("STAT 200");
+        coursesToAdd.add("PHYS 100");
+        coursesToAdd.add("WRDS 150B");
+        coursesToAdd.add("MICB 201");
+        coursesToAdd.add("CPSC 320");
+        coursesToAdd.add("CPSC 213");
+        coursesToAdd.add("CPSC 410");
+        coursesToAdd.add("BIOL 260");
+
+        try {
+            user.addCourses(coursesToAdd);
+            user.createTimeTable();
+        } catch (Exception e) {
+            e.printStackTrace();
+            fail();
+        }
+        assertTrue(user.getErrorLog().size() >0);
+    }
+
+    @Test
+    public void testStandardCreateSchedule() {
         List<String> coursesToAdd = new ArrayList<>();
         coursesToAdd.add("BIOL 155");
         coursesToAdd.add("BIOL 200");
@@ -149,31 +179,12 @@ public class UserTest {
 
         try {
             user.addCourses(coursesToAdd);
+            user.createTimeTable();
+        }  catch (NoCourseFound n) {
+            n.printClasses();
         } catch (Exception e) {
+            e.printStackTrace();
             fail();
         }
-
-        assertFalse(user.createTimeTable());
-
-    }
-
-    @Test
-    public void testALotOfCoursesCreateSchedule() {
-        List<String> coursesToAdd = new ArrayList<>();
-        coursesToAdd.add("BIOL 155");
-        coursesToAdd.add("BIOL 200");
-        coursesToAdd.add("BIOL 140");
-        coursesToAdd.add("CHEM 233");
-        coursesToAdd.add("ENGL 110");
-        coursesToAdd.add("CPSC 210");
-
-        try {
-            user.addCourses(coursesToAdd);
-        } catch (Exception e) {
-            fail();
-        }
-
-        assertFalse(user.createTimeTable());
-        assertTrue(user.getFinalTimeTable().size() > 0);
     }
 }
