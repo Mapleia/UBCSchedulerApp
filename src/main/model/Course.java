@@ -61,7 +61,7 @@ public class Course {
     }
     // ================================================================================================================
 
-    // MODIFIES: course
+    // MODIFIES: this
     // EFFECTS: parses sections from JSON object and adds them to the course.
     private void mapSections() {
         for (Section sec : sectionList) {
@@ -72,6 +72,8 @@ public class Course {
         }
     }
 
+    // MODIFIES: this
+    // EFFECTS: filters sections that is a part of the provided term.
     public void filterForTerm(String term) {
         List<String> filteredActivity = new ArrayList<>();
         List<Section> filteredSections = new ArrayList<>();

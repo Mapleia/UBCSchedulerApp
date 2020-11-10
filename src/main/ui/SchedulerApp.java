@@ -51,6 +51,8 @@ public class SchedulerApp {
         System.out.println("What would you like to do today?");
     }
 
+    //==================================================================================================================
+
     // EFFECTS: Prints options to user.
     // Referenced TellerApp.
     private void showOptions() {
@@ -59,6 +61,7 @@ public class SchedulerApp {
         System.out.println("\tN - to make a new timetable.");
         System.out.println("\tL - to load from a previously saved file.");
         System.out.println("\tA - to add courses to your active schedule.");
+        System.out.println("\tR - to remove courses from your active/loaded in schedule.");
         System.out.println("\tS - to save your loaded file.");
         System.out.println("\tP - to print out your timetable file.");
         System.out.println("\tH - to show the options menu again.");
@@ -71,19 +74,14 @@ public class SchedulerApp {
     private void processCommands(String command) {
         switch (command) {
             case "N":
-                createNewSchedule();
+            case "A":
+            case "R":
+                processCommandsTable(command);
                 break;
             case "L":
-                loadUser();
-                break;
-            case "A":
-                addToSchedule();
-                break;
             case "S":
-                saveFile();
-                break;
             case "P":
-                printSchedule();
+                processCommandsUser(command);
                 break;
             case "H":
                 showOptions();
@@ -94,7 +92,40 @@ public class SchedulerApp {
         }
     }
 
-    // FOR LOADING PREVIOUS SAVE FILE =================================================================================
+    // EFFECTS: Processes commands related to the user/user's file.
+    //          [L] - load, [S] - save, [P] - print
+    private void processCommandsUser(String command) {
+        switch (command) {
+            case "L":
+                loadUser();
+                break;
+            case "S":
+                saveFile();
+                break;
+            default:
+                printSchedule();
+                break;
+        }
+    }
+
+    //EFFECTS: Processes commands related to the active timetable.
+    //         [N] -  new, [A] -  add, [R] - remove
+    private void processCommandsTable(String command) {
+        switch (command) {
+            case "N":
+                createNewSchedule();
+                break;
+            case "A":
+                addToSchedule();
+                break;
+            default:
+                removeCourse();
+                break;
+
+        }
+    }
+
+    // FOR LOADING PREVIOUS SAVE FILE ==================================================================================
     // EFFECTS: Load save file specified from user.
     private void loadUser() {
         System.out.println("Reading file from ./data/timetables/ ...");
@@ -104,21 +135,21 @@ public class SchedulerApp {
         JsonReader reader = new JsonReader(filePath);
         try {
             user = reader.readUser();
-            System.out.println("Loaded " + fileName + "from ./data/timetables/ .");
+            System.out.println("Loaded " + fileName + "from ./data/timetables/");
         } catch (IOException e) {
             System.out.println("Unable to load your save file.");
         }
     }
 
     // FOR CREATING A SCHEDULE =========================================================================================
-    // EFFECTS: Creates a new schedule by asking for term and courses.
+    // EFFECTS: Creates a fresh schedule by asking for term and courses.
     private void createNewSchedule() {
         setTerm();
         setPreferences();
         createSchedule();
     }
 
-    // EFFECTS: Ask to add courses to the user's list of courses.
+    // EFFECTS: Ask for courses.
     private void createSchedule() {
         user.clearTimetable();
 
@@ -191,7 +222,7 @@ public class SchedulerApp {
 
     }
 
-    // FOR ADDING TO ACTIVE SCHEDULE ==================================================================================
+    // FOR ADDING TO ACTIVE SCHEDULE ===================================================================================
     // EFFECTS: Add courses to the active schedule.
     private void addToSchedule() {
         if (user == null) {
@@ -201,7 +232,32 @@ public class SchedulerApp {
         }
     }
 
-    // FOR PRINTING OUT SCHEDULE ======================================================================================
+    // FOR REMOVING A COURSE FROM SCHEDULE =============================================================================
+    // EFFECTS: Remove course from user and remake the schedule.
+    private void removeCourse() {
+        System.out.println("Please enter the courses you'd like to remove."
+                + " If you have multiple, please divide by a \",\".");
+        System.out.println("Please format your course with [SUBJECT_CODE] [COURSE_NUM].\nXXXX ###.");
+
+        String coursesStr = input.nextLine();
+        String[] arr = coursesStr.split(",");
+        List<String> courses = Arrays.stream(arr)
+                .map(String::trim)
+                .collect(Collectors.toList());
+
+        try {
+            user.removeCourses(courses);
+        } catch (NoCourseFound noCourseFound) {
+            System.out.println("These course(s) were not valid.");
+            noCourseFound.printClasses();
+        }
+
+        user.clearTimetable();
+        user.createTimeTable();
+    }
+
+    // FOR PRINTING OUT SCHEDULE =======================================================================================
+
     // EFFECTS: Make schedule and print out schedule for user.
     private void printSchedule() {
         if (user != null) {
@@ -242,8 +298,8 @@ public class SchedulerApp {
         }
     }
 
-    // FOR SAVING FILE ================================================================================================
-    // EFFECTS: 
+    // FOR SAVING FILE =================================================================================================
+    // EFFECTS: Saves file to predetermined directory.
     private void saveFile() {
         JsonWriter writer;
         System.out.println("File will be saved to ./data/timetables/ directory.");
