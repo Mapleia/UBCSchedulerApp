@@ -1,15 +1,22 @@
 package ui.gui;
 
-import ui.ConsoleSchedulerApp;
+import model.User;
 
 import javax.swing.*;
 import java.awt.*;
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 public class SchedulerApp extends JFrame {
     public static final int WIDTH = 900;
     public static final int HEIGHT = 700;
+    public static final String[] ACADEMIC_YEAR = {"2020W"};
+    private File userFile = null;
+    private List<String> timePrefArr = new ArrayList<>();
+    private User user;
 
-    private StartPanel startPanel;
+    private JPanel panel;
 
     public SchedulerApp() {
         super("UBC Schedule Maker");
@@ -17,9 +24,23 @@ public class SchedulerApp extends JFrame {
         setPreferredSize(new Dimension(WIDTH, HEIGHT));
         setBackground(Color.GRAY);
 
-        startPanel = new StartPanel();
-        add(startPanel);
+        panel = new StartPanel(this);
+        add(panel);
         pack();
         setVisible(true);
     }
+
+    public void setUserFile(File file) {
+        userFile = file;
+    }
+
+    public void nextPanel(JPanel panel, String panelName) {
+        this.panel = panel;
+        Container contain = getContentPane();
+        contain.removeAll();
+        add(panel);
+        contain.validate();
+        contain.repaint();
+    }
+
 }

@@ -2,34 +2,45 @@ package ui.gui;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.File;
 
 public class StartPanel extends JPanel {
     private JButton loadBtn;
+    private JButton nextBtn;
     private File loadedFile;
+    private SchedulerApp app;
 
-    public StartPanel() {
-        setPreferredSize(new Dimension(SchedulerApp.WIDTH, SchedulerApp.HEIGHT));
-        setBackground(Color.GRAY);
+    // constructor
+    public StartPanel(SchedulerApp app) {
+        this.app = app;
 
         init();
     }
 
-
+    // Initializes the StartPanel.
     public void init() {
-        setupButtons();
+        setPreferredSize(new Dimension(SchedulerApp.WIDTH, SchedulerApp.HEIGHT));
+        setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
+
+        ImageIcon icon = new ImageIcon("./data/logo.png");
+        add(new JLabel("UBC Course Scheduler", icon, JLabel.CENTER));
+
+        buttonPanel();
     }
 
+    // EFFECT: Create button panel to load a file, or go to next menu.
     // referenced how to make buttons from:
     // https://www.codejava.net/java-se/swing/jbutton-basic-tutorial-and-examples
     // referenced how to use JFileChooser from:
     // https://www.codejava.net/java-se/swing/show-simple-open-file-dialog-using-jfilechooser
-    public void setupButtons() {
+    private void buttonPanel() {
+        JPanel panel = new JPanel();
+        panel.setLayout(new FlowLayout());
+
+
         loadBtn = new JButton("Load File");
         loadBtn.setActionCommand("Load");
-        add(loadBtn);
+        panel.add(loadBtn);
         loadBtn.addActionListener(e -> {
             JFileChooser fileChooser = new JFileChooser();
             fileChooser.setCurrentDirectory(new File("./data/timetables/"));
@@ -37,8 +48,18 @@ public class StartPanel extends JPanel {
             if (result == JFileChooser.APPROVE_OPTION) {
                 loadedFile = fileChooser.getSelectedFile();
                 System.out.println("Selected file: " + loadedFile.getAbsolutePath());
+                app.setUserFile(loadedFile);
             }
         });
 
+        nextBtn = new JButton("Next");
+        nextBtn.setActionCommand("Next");
+        panel.add(nextBtn);
+
+        nextBtn.addActionListener(e -> {
+            app.nextPanel(new CoursePanel(app), "CoursePanel");
+        });
+
+        add(panel);
     }
 }
