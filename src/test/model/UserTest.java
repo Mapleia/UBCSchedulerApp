@@ -7,10 +7,7 @@ import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 import persistence.JsonWriter;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -30,7 +27,7 @@ public class UserTest {
 
     @Test
     public void testToJson() {
-        List<String> courses = new ArrayList<>();
+        Set<String> courses = new HashSet<>();
         courses.add("CPSC 210");
         courses.add("BIOL 112");
         try {
@@ -91,7 +88,7 @@ public class UserTest {
 
 
         try {
-            user.addCourses(list);
+            user.addCourses(new HashSet<>(list));
             fail();
         } catch (NoCourseFound noCourseFound) {
             noCourseFound.printClasses();
@@ -118,7 +115,7 @@ public class UserTest {
 
     @Test
     public void testClearFinalTable() {
-        List<String> coursesToAdd = new ArrayList<>();
+        Set<String> coursesToAdd = new HashSet<>();
         coursesToAdd.add("BIOL 155"); // TERM 1-2
         coursesToAdd.add("ASIA 100"); // TERM 1
         coursesToAdd.add("BIOL 112"); // TERM 1 AND 2
@@ -136,7 +133,7 @@ public class UserTest {
 
     @Test
     public void testALotOfCoursesSchedule() {
-        List<String> coursesToAdd = new ArrayList<>();
+        Set<String> coursesToAdd = new HashSet<>();
         coursesToAdd.add("BIOL 155");
         coursesToAdd.add("BIOL 200");
         coursesToAdd.add("BIOL 140");
@@ -169,7 +166,7 @@ public class UserTest {
 
     @Test
     public void testStandardCreateSchedule() {
-        List<String> coursesToAdd = new ArrayList<>();
+        Set<String> coursesToAdd = new HashSet<>();
         coursesToAdd.add("BIOL 155");
         coursesToAdd.add("BIOL 200");
         coursesToAdd.add("BIOL 140");

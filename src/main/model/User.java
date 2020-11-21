@@ -13,7 +13,7 @@ import java.util.*;
 // Represents a user of the program, makes their timetable and stores information about them.
 public class User implements Writable {
     private String termYear;
-    private List<String> courseList;
+    private Set<String> courseList;
     private List<Course> courseSet;
     private HashMap<String, ArrayList<Section>> finalTimeTable;
     private List<String> errorLog; //strings of missed sections
@@ -30,7 +30,7 @@ public class User implements Writable {
 
     // initializes all of the fields.
     private void init() {
-        courseList = new ArrayList<>();
+        courseList = new HashSet<>();
         courseSet = new ArrayList<>();
         errorLog = new ArrayList<>();
         finalTimeTable = new HashMap<>();
@@ -47,6 +47,10 @@ public class User implements Writable {
     // getters & setters ==============================================================================================
     public HashMap<String, ArrayList<Section>> getFinalTimeTable() {
         return finalTimeTable;
+    }
+
+    public Set<String> getCourseList() {
+        return courseList;
     }
 
     public List<String> getErrorLog() {
@@ -242,10 +246,11 @@ public class User implements Writable {
     // MODIFIES: this
     // EFFECTS: Loops through courseList and adds courses.
     // throws NoCourseFound if it encounters an not successful addition of course during the loop.
-    public void addCourses(List<String> courses) throws NoCourseFound {
+    public void addCourses(Set<String> courses) throws NoCourseFound {
+        courseList.addAll(courses);
         NoCourseFound error = new NoCourseFound();
 
-        for (String course : courses) {
+        for (String course : courseList) {
             boolean isSuccessful = addCourse(course);
 
             if (!isSuccessful) {
@@ -305,5 +310,9 @@ public class User implements Writable {
         } else {
             return false;
         }
+    }
+
+    public void setYear(String year) {
+        termYear = year;
     }
 }

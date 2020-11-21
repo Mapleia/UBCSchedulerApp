@@ -48,7 +48,7 @@ public class StartPanel extends JPanel {
             if (result == JFileChooser.APPROVE_OPTION) {
                 loadedFile = fileChooser.getSelectedFile();
                 System.out.println("Selected file: " + loadedFile.getAbsolutePath());
-                app.setUserFile(loadedFile);
+                app.setUser(loadedFile);
             }
         });
 
@@ -57,7 +57,7 @@ public class StartPanel extends JPanel {
         panel.add(nextBtn);
 
         nextBtn.addActionListener(e -> {
-            app.nextPanel(new CoursePanel(app), "CoursePanel");
+            app.nextPanel(new CoursePanel(app));
         });
 
         add(panel);

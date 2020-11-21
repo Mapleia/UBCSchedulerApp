@@ -215,9 +215,9 @@ public class ConsoleSchedulerApp {
 
         String coursesStr = input.nextLine();
         String[] arr = coursesStr.split(",");
-        List<String> courses = Arrays.stream(arr)
+        Set<String> courses = Arrays.stream(arr)
                 .map(String::trim)
-                .collect(Collectors.toList());
+                .collect(Collectors.toSet());
         user.addCourses(courses);
 
     }

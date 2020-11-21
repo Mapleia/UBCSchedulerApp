@@ -43,7 +43,7 @@ public class JsonWriterTest {
     public void testWriterGeneralUser() {
         User user = new User("2020W");
         try {
-            List<String> courses = Arrays.asList("CPSC 210", "CPSC 110", "BIOL 112");
+            Set<String> courses = new HashSet<>(Arrays.asList(new String[]{"CPSC 210", "CPSC 110", "BIOL 112"}));
             user.setPreferences(Arrays.asList("AFTERNOON", "EVENING", "MORNING"));
             user.addCourses(courses);
             user.createTimeTable();
@@ -106,7 +106,7 @@ public class JsonWriterTest {
         coursesToAdd.add("BIOL 260");
 
         try {
-            user.addCourses(coursesToAdd);
+            user.addCourses(new HashSet<>(coursesToAdd));
             user.createTimeTable();
         } catch (Exception e) {
             e.printStackTrace();

@@ -1,19 +1,20 @@
 package ui.gui;
 
+import model.Course;
+
+import javax.swing.*;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 // referenced: https://stackoverflow.com/questions/15169674/jtextfield-with-both-actionlistener-and-documentlistener
 // for keyPressed method
 public class SearchBarKeyListener implements KeyListener {
-    private Set<String> courseList;
-    private List<String> deptArr;
+    private final CoursePanel panel;
 
-    public SearchBarKeyListener(List<String> deptArr, Set<String> courseList) {
-        this.deptArr = deptArr;
-        this.courseList = courseList;
+    public SearchBarKeyListener(CoursePanel panel) {
+        this.panel = panel;
     }
 
     @Override
@@ -24,8 +25,13 @@ public class SearchBarKeyListener implements KeyListener {
     public void keyPressed(KeyEvent e) {
         int key = e.getKeyCode();
         if (key == KeyEvent.VK_ENTER) {
+            List<String> deptArr = panel.getDeptArr();
             if (deptArr != null && deptArr.size() == 1) {
-                courseList.add(deptArr.get(0));
+                panel.addCourseList(deptArr.get(0));
+                if (!panel.modelContains(deptArr.get(0))) {
+                    panel.addToCourseModel(deptArr.get(0));
+                }
+                panel.printCourses();
             }
         }
     }

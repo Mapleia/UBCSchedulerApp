@@ -1,5 +1,6 @@
 package ui.gui;
 
+import exceptions.NoCourseFound;
 import model.Overview;
 import persistence.JsonReader;
 
@@ -14,13 +15,14 @@ import java.util.stream.Collectors;
 // Panel to select courses and set settings.
 public class CoursePanel extends JPanel {
     private final SchedulerApp app;
-    private LinkedList<String> arr;
+    private LinkedList<String> timePrefArr;
     private String searchTerm = "";
     private String year = "2020W";
     private List<String> deptArr;
     private Overview overview;
-    private JTextArea courseListField;
+    private JTextArea searchSuggestion;
     private Set<String> courseList;
+    private DefaultListModel courseListModel;
 
     // constructor
     public CoursePanel(SchedulerApp app) {
@@ -32,7 +34,7 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Initializes course choosing panel.
     private void init() {
-        arr = new LinkedList<>(Arrays.asList(new String[]{"  MORNING", "AFTERNOON", "  EVENING", "N/A"}));
+        timePrefArr = new LinkedList<>(Arrays.asList("MORNING", "AFTERNOON", "EVENING", "N/A"));
         courseList = new HashSet<>();
         readOverview();
 
@@ -40,14 +42,33 @@ public class CoursePanel extends JPanel {
         add(courseSearchMasterPanel());
         add(courseSelectMasterPanel());
         add(coursesSoFarPanel());
+        add(nextButton());
 
         validate();
         repaint();
     }
 
-    // EFFECT: getter
-    public JTextArea getCourseListField() {
-        return courseListField;
+    public List<String> getDeptArr() {
+        return deptArr;
+    }
+
+    public void addCourseList(String item) {
+        courseList.add(item);
+    }
+
+    public void addToCourseModel(String item) {
+        courseListModel.addElement(item);
+    }
+
+    public boolean modelContains(String item) {
+        return courseListModel.contains(item);
+    }
+
+    public void printCourses() {
+        System.out.println("==============================");
+        for (String item : courseList) {
+            System.out.println(item);;
+        }
     }
 
     // MODIFIES: this
@@ -91,7 +112,8 @@ public class CoursePanel extends JPanel {
             panel.add(btn);
             btn.addActionListener(e -> {
                 year = yr;
-                updateCourseListPanel(courseListField);
+                app.setYear(year);
+                updateSearchSuggestionPanel();
             });
         }
         return panel;
@@ -129,9 +151,11 @@ public class CoursePanel extends JPanel {
             String entry = textField.getText();
             for (int i = 0; i < 3; i++) {
                 String s = entry.split(",")[i].trim().toUpperCase();
-                arr.set(i, s);
-                updateFeedBackText(textArea, arr, 3);
+                timePrefArr.set(i, s);
+                updateFeedBackText(textArea, timePrefArr, 3);
+
             }
+            app.setTimePref(timePrefArr);
         });
         return textField;
     }
@@ -166,7 +190,7 @@ public class CoursePanel extends JPanel {
 
     // REQUIRES: loop =< array.size()
     // EFFECT: Updates feedback text box.
-    private void updateFeedBackText(JTextArea textArea, List array, int loop) {
+    public static void updateFeedBackText(JTextArea textArea, List<String> array, int loop) {
         textArea.selectAll();
         textArea.replaceSelection("");
 
@@ -180,64 +204,53 @@ public class CoursePanel extends JPanel {
     private JPanel courseSearchMasterPanel() {
         JPanel master = new JPanel();
         master.setLayout(new BoxLayout(master, BoxLayout.Y_AXIS));
-        master.add(searchBarPanel("Search For A Course"));
+        master.add(searchBarPanel());
 
         // Scrollable text area with the list of departments, or the list of courses from the searched department.
-        courseListField = new JTextArea(20, 10);
-        JScrollPane scrollPane = new JScrollPane(courseListField);
-        updateCourseListPanel(courseListField);
+        searchSuggestion = new JTextArea(20, 10);
+        JScrollPane scrollPane = new JScrollPane(searchSuggestion);
+        updateSearchSuggestionPanel();
 
         master.add(scrollPane);
         return master;
     }
 
     // EFFECT: Creates a search bar.
-    private JPanel searchBarPanel(String title) {
+    private JPanel searchBarPanel() {
         JPanel panel = new JPanel();
-        panel.setBorder(BorderFactory.createTitledBorder(title));
+        panel.setBorder(BorderFactory.createTitledBorder("Search For A Course"));
         panel.add(new JLabel("Search (PRESS ENTER)"));
 
         JTextField field = new JTextField();
 
         field.setColumns(10);
         field.getDocument().addDocumentListener(new SearchBarListener(this));
-        field.addKeyListener(new SearchBarKeyListener(deptArr, courseList));
+        field.addKeyListener(new SearchBarKeyListener(this));
 
         panel.add(field);
         return panel;
     }
 
     // EFFECT: Updates and populates supplied JTextArea with courses or department, depending on the searched course.
-    public void updateCourseListPanel(JTextArea field) {
+    public void updateSearchSuggestionPanel() {
         String fieldStr = "";
         deptArr = createOverviewList();
-        for (String dept : deptArr) {
-            fieldStr += (dept + "\n");
+        if (deptArr != null) {
+            for (String dept : deptArr) {
+                fieldStr += (dept + "\n");
+            }
         }
-        field.setText(fieldStr);
+        searchSuggestion.setText(fieldStr);
     }
 
     private List<String> createOverviewList() {
-        ArrayList<String> arr = overview.getDepArr();
-        String dept;
         if (searchTerm.contains(" ")) {
             int i = searchTerm.indexOf(" ");
-            dept = searchTerm.substring(0, i);
+            String dept = searchTerm.substring(0, i);
+            return overview.getCourses(dept).stream().filter(s -> s.contains(searchTerm)).collect(Collectors.toList());
         } else {
-            dept = searchTerm;
+            return overview.getDepArr().stream().filter(s -> s.contains(searchTerm)).collect(Collectors.toList());
         }
-
-        List<String> newArr = arr.stream().filter(s -> s.contains(dept)).collect(Collectors.toList());
-
-        if (newArr.size() == 1) {
-            newArr = overview.getCourses(dept);
-            if (searchTerm.contains(" ")) {
-                newArr = newArr.stream().filter(s -> s.contains(searchTerm)).collect(Collectors.toList());
-            }
-
-        }
-
-        return newArr;
     }
 
     // ================================================================================================================
@@ -254,9 +267,7 @@ public class CoursePanel extends JPanel {
 
         JList courses = new JList(model);
         courses.setVisibleRowCount(18);
-        courses.addListSelectionListener(e -> {
-            potentialSelections.addAll(courses.getSelectedValuesList());
-        });
+        courses.addListSelectionListener(e -> potentialSelections.addAll(courses.getSelectedValuesList()));
 
         master.add(deptComboBox(model));
         master.add(new JScrollPane(courses));
@@ -290,6 +301,11 @@ public class CoursePanel extends JPanel {
         JButton confirmBtn = new JButton("Confirm");
         confirmBtn.addActionListener(e -> {
             courseList.addAll(potentialSelections);
+            courseListModel.removeAllElements();
+            for (String item : courseList) {
+                courseListModel.addElement(item);
+            }
+            printCourses();
         });
 
         return confirmBtn;
@@ -299,9 +315,64 @@ public class CoursePanel extends JPanel {
     // EFFECT: Displays all added courses.
     private JPanel coursesSoFarPanel() {
         JPanel panel = new JPanel();
-        JTextArea text = createTextArea();
-        updateFeedBackText(text, Arrays.asList(courseList.toArray()), courseList.size());
-        panel.add(text);
+        panel.add(new JLabel("Your Courses"));
+        panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
+
+        courseListModel = new DefaultListModel();
+        for (String userItem : app.getUserCourses()) {
+            courseListModel.addElement(userItem);
+        }
+
+        for (String item :  courseList) {
+            courseListModel.addElement(item);
+        }
+
+        JList courses = new JList(courseListModel);
+        courses.setVisibleRowCount(18);
+        panel.add(new JScrollPane(courses));
+
+        panel.add(removeButton(courses));
+
         return panel;
+    }
+
+    private JButton removeButton(JList courses) {
+        JButton removeBtn = new JButton("Remove");
+        removeBtn.addActionListener(e -> {
+            List<String> thingsToRemove = courses.getSelectedValuesList();
+            // referenced https://stackoverflow.com/questions/22743922/how-to-remove-selected-items-from-jlist?rq=1
+            for (Object o : thingsToRemove) {
+                courseListModel.removeElement(o);
+            }
+
+            courseList.removeAll(thingsToRemove);
+        });
+        return removeBtn;
+    }
+
+
+    // ==========================================
+    private JButton nextButton() {
+        JButton nextBtn = new JButton("Next");
+        nextBtn.setActionCommand("Next");
+
+        nextBtn.addActionListener(e -> {
+            if (timePrefArr.isEmpty()) {
+                JOptionPane.showMessageDialog(null,
+                        "You have not filled in your time preference.");
+            } else {
+                try {
+                    app.addCourses(courseList);
+                    app.nextPanel(new SchedulePanel(app));
+                } catch (NoCourseFound noCourseFound) {
+                    noCourseFound.printStackTrace();
+                    JOptionPane.showMessageDialog(null,
+                            "These courses were not found: " + noCourseFound.stringCourses());
+                }
+            }
+
+        });
+
+        return nextBtn;
     }
 }

@@ -62,7 +62,7 @@ public class JsonReader {
         String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
-        List<String> courses = new ArrayList<>();
+        Set<String> courses = new HashSet<>();
         for (int i = 0; i < arr.length(); i++) {
             courses.add(arr.getString(i));
         }
