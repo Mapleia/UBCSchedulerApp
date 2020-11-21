@@ -35,5 +35,6 @@ Data found by downloading from https://ubc-courses-api.herokuapp.com/.
 
 ## DISCLAIMER
 *Pulled from scrapper in November 2020. Course schedule may have changed.*
+*Logo picture from: http://outerspaceinstitute.ca/sponsors.html*
 
 *No UBC 2021 summer courses added to the database yet.*

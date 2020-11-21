@@ -50,7 +50,7 @@ public class SchedulePanel extends JPanel {
     private JPanel termPanel(String term) {
         JPanel panel = new JPanel();
         JTextArea result = new JTextArea();
-        result.setPreferredSize(new Dimension(400, 700));
+        result.setPreferredSize(new Dimension(200, 400));
         result.setBorder(BorderFactory.createLineBorder(Color.black));
         result.setEditable(false);
         printTerm(result, term);
@@ -66,6 +66,7 @@ public class SchedulePanel extends JPanel {
         panel.add(new JLabel("Enter your save file name: "));
 
         JTextField fileName = new JTextField();
+        fileName.setPreferredSize(new Dimension(20, 10));
         fileName.addActionListener(e -> {
             try {
                 JsonWriter writer = new JsonWriter(e.getActionCommand());
