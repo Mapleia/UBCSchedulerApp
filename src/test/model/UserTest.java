@@ -33,6 +33,7 @@ public class UserTest {
         try {
             user.addCourses(courses);
             user.createTimeTable();
+            user.setYear("2020W");
         } catch (Exception e) {
             fail();
         }
@@ -70,13 +71,13 @@ public class UserTest {
             fail();
         }
 
-        assertEquals("BIOL 112 101",
+        assertEquals("BIOL 112 102",
                 user.getFinalTimeTable().get("1").get(0).getSection());
-        assertEquals("BIOL 112 T01",
+        assertEquals("BIOL 112 T04",
                 user.getFinalTimeTable().get("1").get(1).getSection());
-        assertEquals("CPSC 210 201",
+        assertEquals("CPSC 210 202",
                 user.getFinalTimeTable().get("2").get(0).getSection());
-        assertEquals("CPSC 210 L2A",
+        assertEquals("CPSC 210 L2B",
                 user.getFinalTimeTable().get("2").get(1).getSection());
     }
 
@@ -92,6 +93,7 @@ public class UserTest {
             fail();
         } catch (NoCourseFound noCourseFound) {
             noCourseFound.printClasses();
+            noCourseFound.size();
             System.out.println("It's fine!");
         }
     }
@@ -186,4 +188,48 @@ public class UserTest {
     }
 
     //TODO: tests for removeCourses, both successful and unsuccessful.
+
+    @Test
+    public void removeCourses() {
+        Set<String> coursesToAdd = new HashSet<>();
+        coursesToAdd.add("BIOL 155");
+        coursesToAdd.add("BIOL 200");
+        coursesToAdd.add("BIOL 140");
+        coursesToAdd.add("CHEM 233");
+        coursesToAdd.add("ENGL 110");
+        coursesToAdd.add("CPSC 210");
+
+        try {
+            user.addCourses(coursesToAdd);
+            user.removeCourses(Arrays.asList(new String[]{"BIOL 155", "BIOL 200"}));
+            user.createTimeTable();
+        }  catch (NoCourseFound n) {
+            n.printClasses();
+        } catch (Exception e) {
+            e.printStackTrace();
+            fail();
+        }
+    }
+
+    @Test
+    public void removeCoursesFail() {
+        Set<String> coursesToAdd = new HashSet<>();
+        coursesToAdd.add("BIOL 155");
+        coursesToAdd.add("BIOL 200");
+        coursesToAdd.add("CHEM 233");
+        coursesToAdd.add("ENGL 110");
+        coursesToAdd.add("CPSC 210");
+
+        try {
+            user.addCourses(coursesToAdd);
+            user.removeCourses(Arrays.asList(new String[]{"BIOL 140", "BIOL 200"}));
+            user.createTimeTable();
+            fail();
+        }  catch (NoCourseFound n) {
+            n.printClasses();
+        } catch (Exception e) {
+            e.printStackTrace();
+            fail();
+        }
+    }
 }

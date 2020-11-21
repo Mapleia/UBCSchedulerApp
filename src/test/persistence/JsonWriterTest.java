@@ -61,13 +61,13 @@ public class JsonWriterTest {
 
             JsonReader reader = new JsonReader("./data/timetables/testUserWithSections.json");
             user = reader.readUser();
-            assertEquals("CPSC 110 101",
+            assertEquals("BIOL 112 102",
                     user.getFinalTimeTable().get("1").get(0).getSection());
-            assertEquals("CPSC 110 L12",
+            assertEquals("BIOL 112 T04",
                     user.getFinalTimeTable().get("1").get(1).getSection());
-            assertEquals("CPSC 110 101",
-                    user.getFinalTimeTable().get("1").get(0).getSection());
-            assertEquals("CPSC 210 L2A",
+            assertEquals("CPSC 210 202",
+                    user.getFinalTimeTable().get("2").get(0).getSection());
+            assertEquals("CPSC 210 L2B",
                     user.getFinalTimeTable().get("2").get(1).getSection());
         } catch (IOException e) {
             e.printStackTrace();

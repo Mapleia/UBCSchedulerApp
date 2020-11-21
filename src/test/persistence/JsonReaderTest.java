@@ -1,6 +1,7 @@
 package persistence;
 
 import model.Course;
+import model.Overview;
 import model.Section;
 import model.User;
 import org.junit.jupiter.api.BeforeEach;
@@ -100,6 +101,16 @@ public class JsonReaderTest {
         try {
             Section section = reader.readSection("2020W", "CPSC 210 L1A",
                     Arrays.asList("MORNING", "AFTERNOON", "EVENING", "N/A"));
+        } catch (IOException e) {
+            fail();
+        }
+    }
+
+    @Test
+    public void testOverviewRead() {
+        JsonReader reader = new JsonReader("./data/2020W/overview.json");
+        try {
+            Overview file = reader.readOverview();
         } catch (IOException e) {
             fail();
         }

@@ -346,6 +346,13 @@ public class CoursePanel extends JPanel {
             }
 
             courseList.removeAll(thingsToRemove);
+            try {
+                app.getUser().removeCourses(thingsToRemove);
+            } catch (NoCourseFound noCourseFound) {
+                noCourseFound.printStackTrace();
+                JOptionPane.showMessageDialog(null,
+                        "These courses were not found: " + noCourseFound.stringCourses());
+            }
         });
         return removeBtn;
     }
