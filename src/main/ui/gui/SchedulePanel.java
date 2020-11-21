@@ -66,7 +66,7 @@ public class SchedulePanel extends JPanel {
         panel.add(new JLabel("Enter your save file name: "));
 
         JTextField fileName = new JTextField();
-        fileName.setPreferredSize(new Dimension(20, 10));
+        fileName.setPreferredSize(new Dimension(100, 20));
         fileName.addActionListener(e -> {
             try {
                 JsonWriter writer = new JsonWriter(e.getActionCommand());
