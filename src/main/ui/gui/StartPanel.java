@@ -5,10 +5,8 @@ import java.awt.*;
 import java.io.File;
 
 public class StartPanel extends JPanel {
-    private JButton loadBtn;
-    private JButton nextBtn;
     private File loadedFile;
-    private SchedulerApp app;
+    private final SchedulerApp app;
 
     // constructor
     public StartPanel(SchedulerApp app) {
@@ -38,7 +36,7 @@ public class StartPanel extends JPanel {
         panel.setLayout(new FlowLayout());
 
 
-        loadBtn = new JButton("Load File");
+        JButton loadBtn = new JButton("Load File");
         loadBtn.setActionCommand("Load");
         panel.add(loadBtn);
         loadBtn.addActionListener(e -> {
@@ -52,13 +50,11 @@ public class StartPanel extends JPanel {
             }
         });
 
-        nextBtn = new JButton("Next");
+        JButton nextBtn = new JButton("Next");
         nextBtn.setActionCommand("Next");
         panel.add(nextBtn);
 
-        nextBtn.addActionListener(e -> {
-            app.nextPanel(new CoursePanel(app));
-        });
+        nextBtn.addActionListener(e -> app.nextPanel(new CoursePanel(app)));
 
         add(panel);
     }

@@ -1,6 +1,5 @@
 package ui.gui;
 
-import exceptions.NoCourseFound;
 import model.Section;
 import model.User;
 import persistence.JsonReader;
@@ -9,10 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 // GUI app of the schedule maker.
 public class SchedulerApp extends JFrame {
@@ -59,36 +55,42 @@ public class SchedulerApp extends JFrame {
         contain.repaint();
     }
 
-    // EFFECT: Set the time preference of the user.
-    public void setTimePref(List<String> arr) {
+/*    // EFFECT: Set the time preference of the user.
+    public void setTimePref(LinkedList<String> arr) {
         user.setPreferences(arr);
         for (String item: arr) {
             System.out.println(item);
         }
-    }
+    }*/
 
     public User getUser() {
         return user;
     }
 
-    public Set<String> getUserCourses() {
+/*    public Set<String> getUserCourses() {
         return user.getCourseNames();
     }
 
     public void setYear(String year) {
         user.setYear(year);
-    }
+    }*/
 
-    public void addCourses(Set<String> courseList) throws NoCourseFound {
+/*    public void addCourses(Set<String> courseList) throws NoCourseFound {
         user.addCourses(courseList);
-    }
+    }*/
 
     // EFFECT: Creates a timetable and returns it.
-    public HashMap<String, ArrayList<Section>> getTimeTable() {
+    public HashMap<String, HashSet<Section>> getTimeTable() {
         user.clearTimetable();
         user.createTimeTable();
         return user.getFinalTimeTable();
     }
 
+    public JButton backButton(JPanel panel) {
+        JButton button = new JButton("Back");
+        button.setActionCommand("Back");
+        button.addActionListener(e -> nextPanel(panel));
 
+        return button;
+    }
 }

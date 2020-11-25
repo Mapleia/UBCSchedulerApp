@@ -62,13 +62,13 @@ public class JsonReader {
         String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
-        Set<String> courses = new HashSet<>();
+        HashSet<String> courses = new HashSet<>();
         for (int i = 0; i < arr.length(); i++) {
             courses.add(arr.getString(i));
         }
 
-        JSONArray prefArr = jsonObject.getJSONArray("Preferences");
-        List<String> preferences = new LinkedList<>();
+        JSONArray prefArr = jsonObject.getJSONArray("TimePref");
+        LinkedList<String> preferences = new LinkedList<>();
         for (int j = 0; j < prefArr.length(); j++) {
             preferences.add(prefArr.getString(j));
         }
@@ -76,7 +76,8 @@ public class JsonReader {
         User user = new User(term);
         user.setPreferences(preferences);
         user.addSectionsFromTimeTable(schedule);
-        user.addCourses(courses);
+        user.addCourseSet(courses);
+        user.addCourses();
         return user;
     }
 

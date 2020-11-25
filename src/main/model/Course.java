@@ -4,7 +4,7 @@ package model;
 import java.util.*;
 
 // Represents a course at UBC.
-public class Course {
+public class Course implements Comparable<Course> {
     private final String courseName;
     private final List<String> termsList;
     private List<String> activitiesList;
@@ -125,7 +125,14 @@ public class Course {
             return false;
         }
         Course other = (Course) obj;
-        return courseName.equals(other.getCourseName());
+        return courseName.equals(other.getCourseName()) && sectionsMap.size() == other.getSectionsMap().size();
     }
 
+    @Override
+    public int compareTo(Course o) {
+        int sizeMe = sectionsMap.size();
+        int sizeThem = o.getSectionsMap().size();
+
+        return Integer.compare(sizeMe, sizeThem);
+    }
 }

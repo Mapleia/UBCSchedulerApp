@@ -26,7 +26,6 @@ public class SearchBarKeyListener implements KeyListener {
         if (key == KeyEvent.VK_ENTER) {
             List<String> deptArr = panel.getDeptArr();
             if (deptArr != null && deptArr.size() == 1) {
-                panel.addCourseList(deptArr.get(0));
                 if (!panel.modelContains(deptArr.get(0))) {
                     panel.addToCourseModel(deptArr.get(0));
                 }

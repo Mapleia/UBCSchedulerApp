@@ -15,11 +15,11 @@ public class User implements Writable {
     private String termYear;
     private Set<String> courseNames;
     private Set<Course> courseSet;
-    private HashMap<String, ArrayList<Section>> finalTimeTable;
+    private HashMap<String, HashSet<Section>> finalTimeTable;
     private List<String> errorLog; //strings of missed sections
-    private List<String> preferencesArr;
+    private LinkedList<String> preferencesArr;
 
-    private HashMap<String, ArrayList<Course>> result;
+    private HashMap<String, TreeSet<Course>> result;
     private HashMap<String, Integer> resultsCredits;
 
     // constructs user and initializes it.
@@ -37,15 +37,15 @@ public class User implements Writable {
 
         result = new HashMap<>();
         resultsCredits = new HashMap<>();
-        result.put("1", new ArrayList<>());
-        result.put("2", new ArrayList<>());
-        result.put("1-2", new ArrayList<>());
+        result.put("1", new TreeSet<>());
+        result.put("2", new TreeSet<>());
+        result.put("1-2", new TreeSet<>());
         resultsCredits.put("1", 0);
         resultsCredits.put("2", 0);
     }
 
     // getters & setters ==============================================================================================
-    public HashMap<String, ArrayList<Section>> getFinalTimeTable() {
+    public HashMap<String, HashSet<Section>> getFinalTimeTable() {
         return finalTimeTable;
     }
 
@@ -57,9 +57,26 @@ public class User implements Writable {
         return errorLog;
     }
 
-    public void setPreferences(List<String> preferencesArr) {
+    public HashMap<String, TreeSet<Course>> getResult() {
+        return result;
+    }
+
+    public void setPreferences(LinkedList<String> preferencesArr) {
         this.preferencesArr = preferencesArr;
     }
+
+    public void addCourseSet(Set<String> set) {
+        this.courseNames.addAll(set);
+    }
+
+    public void setYear(String year) {
+        termYear = year;
+    }
+
+    public LinkedList<String> getTimePref() {
+        return preferencesArr;
+    }
+
     // ================================================================================================================
 
     // REQUIRES: courses already added and sorted into term 1 or term 2 (or neither, in the case of all year).
@@ -68,7 +85,7 @@ public class User implements Writable {
     public void createTimeTable() {
         sortCourses();
         for (String t : result.keySet()) {
-            finalTimeTable.putIfAbsent(t, new ArrayList<>());
+            finalTimeTable.putIfAbsent(t, new HashSet<>());
 
             for (Course c : result.get(t)) {
                 HashMap<String, Boolean> finalTimeTableContains = new HashMap<>(); // contains type? log per course
@@ -206,6 +223,8 @@ public class User implements Writable {
         json.put("Course List", new JSONArray(courseNames));
         json.put("Preferences", new JSONArray(preferencesArr));
         json.put("Term", termYear);
+        json.put("TimePref", new JSONArray(preferencesArr));
+        json.put("ErrorLog", new JSONArray(errorLog));
 
         JSONObject schedule = new JSONObject();
         for (String term : finalTimeTable.keySet()) {
@@ -228,7 +247,7 @@ public class User implements Writable {
         for (String term : terms) {
 
             List<Object> perTerm = schedule.getJSONArray(term).toList();
-            ArrayList<Section> list = new ArrayList<>();
+            HashSet<Section> list = new HashSet<>();
             for (int i = 0; i < perTerm.size(); i++) {
                 JSONObject sectionJson = schedule.getJSONArray(term).getJSONObject(i);
                 String p = "./data/" + termYear + "/" + sectionJson.getString("course").split(" ")[0].trim()
@@ -244,16 +263,13 @@ public class User implements Writable {
     }
 
     // MODIFIES: this
-    // EFFECTS: Loops through courseList and adds courses.
+    // EFFECTS: Loops through courseList and adds (Course) courses.
     // throws NoCourseFound if it encounters an not successful addition of course during the loop.
-    public void addCourses(Set<String> courses) throws NoCourseFound {
-
-        courseNames.addAll(courses);
+    public void addCourses() throws NoCourseFound {
         NoCourseFound error = new NoCourseFound();
-
+        courseSet = new HashSet<>();
         for (String course : courseNames) {
             boolean isSuccessful = addCourse(course);
-
             if (!isSuccessful) {
                 error.addClasses(course);
             }
@@ -267,11 +283,10 @@ public class User implements Writable {
     // MODIFIES: this
     // EFFECTS: adds to courseList and courseSet if a valid course is made and returns true.
     // Returns false if finds an exception / cannot find the course.
-    private boolean addCourse(String input) {
+    // MADE SO THAT A LIST OF ERROR COURSE CAN BE MADE
+    public boolean addCourse(String input) {
         String[] split = input.split(" ");
-
         String path = "./data/" + termYear + "/" + split[0].toUpperCase() + "/" + input.toUpperCase() + ".json";
-
         try {
             JsonReader jsonReader = new JsonReader(path);
             Course course = jsonReader.readCourse(termYear, preferencesArr);
@@ -305,17 +320,9 @@ public class User implements Writable {
     private boolean removeCourse(String course) {
         if (courseNames.contains(course)) {
             courseNames.remove(course);
-            courseSet.removeIf(course1 -> course1.getCourseName().equals(course));
             return true;
         } else {
             return false;
         }
     }
-
-    public void setYear(String year) {
-        termYear = year;
-    }
-
-
-
 }

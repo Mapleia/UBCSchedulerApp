@@ -6,13 +6,13 @@ import persistence.JsonWriter;
 import javax.swing.*;
 import java.awt.*;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 
 // Panel that shows the user their created timetable.
 public class SchedulePanel extends JPanel {
     private final SchedulerApp app;
-    private HashMap<String, ArrayList<Section>> timetable;
+    private HashMap<String, HashSet<Section>> timetable;
 
     // constructor
     public SchedulePanel(SchedulerApp app) {
@@ -25,10 +25,17 @@ public class SchedulePanel extends JPanel {
     // initializer, populates the panel
     private void init() {
         timetable = app.getTimeTable();
-        add(termPanel("1"));
-        add(termPanel("2"));
-        add(termPanel("1-2"));
+        setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
+        JPanel panel = new JPanel();
+        panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
+        panel.add(termPanel("1"));
+        panel.add(termPanel("2"));
+        panel.add(termPanel("1-2"));
         add(saveFile());
+        add(errorLogPanel());
+        add(panel);
+        add(app.backButton(new CoursePanel(app)));
+        validate();
 
     }
 
@@ -55,13 +62,15 @@ public class SchedulePanel extends JPanel {
     private JPanel termPanel(String term) {
         JPanel panel = new JPanel();
         JTextArea result = new JTextArea();
-        result.setPreferredSize(new Dimension(200, 400));
-        result.setBorder(BorderFactory.createLineBorder(Color.black));
         result.setEditable(false);
+
+        JScrollPane pane = new JScrollPane(result);
+        pane.setPreferredSize(new Dimension(200, 400));
+        pane.setBorder(BorderFactory.createLineBorder(Color.black));
         printTerm(result, term);
 
         panel.add(new JLabel("TERM" + term + ": "));
-        panel.add(new JScrollPane(result));
+        panel.add(pane);
 
         return panel;
     }
@@ -69,13 +78,13 @@ public class SchedulePanel extends JPanel {
     // EFFECT: Creates and returns a panel with the file naming input field for saving a file.
     private JPanel saveFile() {
         JPanel panel = new JPanel();
-        panel.add(new JLabel("Enter your save file name: "));
 
-        JTextField fileName = new JTextField();
+        JTextArea fileName = new JTextArea();
         fileName.setPreferredSize(new Dimension(100, 20));
-        fileName.addActionListener(e -> {
+        JButton saveButton = new JButton("Save");
+        saveButton.addActionListener(e -> {
             try {
-                JsonWriter writer = new JsonWriter(e.getActionCommand());
+                JsonWriter writer = new JsonWriter(fileName.getText());
                 writer.open();
                 writer.write(app.getUser());
                 writer.close();
@@ -84,10 +93,25 @@ public class SchedulePanel extends JPanel {
             } catch (FileNotFoundException ex) {
                 JOptionPane.showMessageDialog(null,"An error was found writing your file.");
             }
-
         });
 
+        panel.add(new JLabel("Enter your save file name: "));
         panel.add(fileName);
+        panel.add(saveButton);
+        return panel;
+    }
+
+    // EFFECT: Create and returns a panel that displays the section type that could not be added.
+    private JPanel errorLogPanel() {
+        JPanel panel = new JPanel();
+        panel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createEtchedBorder(), "Error Log"));
+        JTextArea log = new JTextArea();
+
+        for (String item : app.getUser().getErrorLog()) {
+            log.append(item + "\n");
+        }
+
+        panel.add(log);
         return panel;
     }
 }

@@ -25,7 +25,7 @@ public class JsonWriterTest {
     public void testWriterEmptyUser() {
         try {
             User user = new User("2020W");
-            user.setPreferences(Arrays.asList("AFTERNOON", "MORNING", "EVENING", "N/A"));
+            user.setPreferences(new LinkedList<>(Arrays.asList("AFTERNOON", "MORNING", "EVENING", "N/A")));
             JsonWriter writer = new JsonWriter("testWriterEmptyUser");
             writer.open();
             writer.write(user);
@@ -44,8 +44,9 @@ public class JsonWriterTest {
         User user = new User("2020W");
         try {
             Set<String> courses = new HashSet<>(Arrays.asList(new String[]{"CPSC 210", "CPSC 110", "BIOL 112"}));
-            user.setPreferences(Arrays.asList("AFTERNOON", "EVENING", "MORNING"));
-            user.addCourses(courses);
+            user.setPreferences(new LinkedList<>(Arrays.asList("AFTERNOON", "EVENING", "MORNING", "N/A")));
+            user.addCourseSet(courses);
+            user.addCourses();
             user.createTimeTable();
         } catch (Exception e) {
             e.printStackTrace();
@@ -61,14 +62,7 @@ public class JsonWriterTest {
 
             JsonReader reader = new JsonReader("./data/timetables/testUserWithSections.json");
             user = reader.readUser();
-            assertEquals("BIOL 112 102",
-                    user.getFinalTimeTable().get("1").get(0).getSection());
-            assertEquals("BIOL 112 T04",
-                    user.getFinalTimeTable().get("1").get(1).getSection());
-            assertEquals("CPSC 210 202",
-                    user.getFinalTimeTable().get("2").get(0).getSection());
-            assertEquals("CPSC 210 L2B",
-                    user.getFinalTimeTable().get("2").get(1).getSection());
+            assertFalse(user.getFinalTimeTable().isEmpty());
         } catch (IOException e) {
             e.printStackTrace();
             fail("Exception should not have been thrown");
@@ -78,13 +72,13 @@ public class JsonWriterTest {
     @Test
     public void testLotsOfCoursesUser() {// this user is crazy
         User user = new User("2020W");
-        List<String> preferences = new LinkedList<>();
+        LinkedList<String> preferences = new LinkedList<>();
         preferences.add("Afternoon".toUpperCase());
         preferences.add("Evening".toUpperCase());
         preferences.add("Morning".toUpperCase());
         user.setPreferences(preferences);
 
-        List<String> coursesToAdd = new ArrayList<>();
+        HashSet<String> coursesToAdd = new HashSet<>();
         coursesToAdd.add("BIOL 155");
         coursesToAdd.add("BIOL 200");
         coursesToAdd.add("BIOL 140");
@@ -106,7 +100,8 @@ public class JsonWriterTest {
         coursesToAdd.add("BIOL 260");
 
         try {
-            user.addCourses(new HashSet<>(coursesToAdd));
+            user.addCourseSet(coursesToAdd);
+            user.addCourses();
             user.createTimeTable();
         } catch (Exception e) {
             e.printStackTrace();

@@ -5,7 +5,6 @@ import model.Overview;
 import persistence.JsonReader;
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
 import java.io.IOException;
 import java.util.*;
@@ -15,14 +14,13 @@ import java.util.stream.Collectors;
 // Panel to select courses and set settings.
 public class CoursePanel extends JPanel {
     private final SchedulerApp app;
-    private LinkedList<String> timePrefArr;
     private String searchTerm = "";
     private String year = "2020W";
     private List<String> deptArr;
     private Overview overview;
     private JTextArea searchSuggestion;
-    private Set<String> courseList;
-    private DefaultListModel courseListModel;
+    private DefaultListModel<String> courseListModel;
+    private DefaultListModel<String> timePrefModel;
 
     // constructor
     public CoursePanel(SchedulerApp app) {
@@ -34,15 +32,27 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Initializes course choosing panel.
     private void init() {
-        timePrefArr = new LinkedList<>(Arrays.asList("MORNING", "AFTERNOON", "EVENING", "N/A"));
-        courseList = new HashSet<>();
+        courseListModel = new DefaultListModel();
+        timePrefModel = new DefaultListModel();
+        if (app.getUser().getTimePref() != null) {
+            for (String item : app.getUser().getTimePref()) {
+                timePrefModel.addElement(item);
+            }
+            timePrefModel.removeElement("N/A");
+        } else {
+            timePrefModel.addElement("MORNING");
+            timePrefModel.addElement("AFTERNOON");
+            timePrefModel.addElement("EVENING");
+        }
+
+        //courseList = new HashSet<>();
         readOverview();
 
         add(createSettingsPanel());
         add(courseSearchMasterPanel());
         add(courseSelectMasterPanel());
         add(coursesSoFarPanel());
-        add(nextButton());
+        add(controlPanel());
 
         validate();
         repaint();
@@ -50,10 +60,6 @@ public class CoursePanel extends JPanel {
 
     public List<String> getDeptArr() {
         return deptArr;
-    }
-
-    public void addCourseList(String item) {
-        courseList.add(item);
     }
 
     public void addToCourseModel(String item) {
@@ -64,10 +70,10 @@ public class CoursePanel extends JPanel {
         return courseListModel.contains(item);
     }
 
-    // Prints the current added courses to the console. (More for testing purposes...)
+    // EFFECT: Prints the current added courses to the console. (More for testing purposes...)
     public void printCourses() {
         System.out.println("==============================");
-        for (String item : courseList) {
+        for (Object item : courseListModel.toArray()) {
             System.out.println(item);
         }
     }
@@ -85,7 +91,8 @@ public class CoursePanel extends JPanel {
             overview = reader.readOverview();
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Error occurred while reading overview file. Please try again.");
+            JOptionPane.showMessageDialog(null,
+                    "Error occurred while reading overview file. Please try again.");
         }
     }
 
@@ -113,7 +120,7 @@ public class CoursePanel extends JPanel {
             panel.add(btn);
             btn.addActionListener(e -> {
                 year = yr;
-                app.setYear(year);
+                app.getUser().setYear(year);
                 updateSearchSuggestionPanel();
             });
         }
@@ -124,57 +131,28 @@ public class CoursePanel extends JPanel {
     // EFFECT: Creates and returns panel to input time preference.
     private JPanel timePrefPanel() {
         JPanel timePanel = new JPanel();
-        timePanel.setPreferredSize(new Dimension(200, 320));
         // https://www.tutorialspoint.com/how-to-set-vertical-alignment-for-a-component-in-java
         timePanel.setLayout(new BoxLayout(timePanel, BoxLayout.Y_AXIS));
         timePanel.setBorder(BorderFactory.createTitledBorder("Time Preference"));
 
-        // the result text area
-        JTextArea textArea = createTextArea();
-
-        // the input area
-        JTextField textField = createInputField(textArea);
-
-        // add it all to the panel
-        String instructions = "Please enter your time preferences, in order and separated by a comma.\n "
-                + "EX: \"MORNING, AFTERNOON, EVENING\"";
-        timePanel.add(makeWrappableLabelText(instructions));
-        timePanel.add(textField);
-        timePanel.add(textArea);
+        String instructions = "Please click and drag to order your time preference.";
+        JList orderTimePref = new JList(timePrefModel);
+        orderTimePref.setDragEnabled(true);
+        orderTimePref.setDropMode(DropMode.INSERT);
+        orderTimePref.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+        orderTimePref.setTransferHandler(new DragAndDrop(orderTimePref, timePrefModel));
+        orderTimePref.setBorder(BorderFactory.createEtchedBorder());
+        orderTimePref.setFixedCellHeight(30);
+        orderTimePref.setFixedCellWidth(100);
+        timePanel.add(makeWrapLabelText(instructions));
+        timePanel.add(orderTimePref);
 
         return timePanel;
     }
 
-    // EFFECT: Create and returns an input field for the time preferences, and update the text box with feedback.
-    private JTextField createInputField(JTextArea textArea) {
-        JTextField textField = new JTextField();
-        textField.addActionListener(e -> {
-            String entry = textField.getText();
-            for (int i = 0; i < 3; i++) {
-                String s = entry.split(",")[i].trim().toUpperCase();
-                timePrefArr.set(i, s);
-                updateFeedBackText(textArea, timePrefArr, 3);
-
-            }
-            app.setTimePref(timePrefArr);
-        });
-        return textField;
-    }
-
-    // EFFECT: Create and returns a non focusable textArea that contains result from the inputted time preference.
-    private JTextArea createTextArea() {
-        JTextArea textArea = new JTextArea(3, 7);
-        textArea.setEditable(false);
-        textArea.setFocusable(false);
-        Border border = BorderFactory.createLineBorder(Color.BLACK);
-        textArea.setBorder(BorderFactory.createCompoundBorder(border,
-                BorderFactory.createEmptyBorder(10, 10, 10, 10)));
-        return textArea;
-    }
-
     //     EFFECT: Create label looking like text that can wrap around.
     // referenced: https://stackoverflow.com/questions/26420428/how-to-word-wrap-text-in-jlabel
-    private JTextArea makeWrappableLabelText(String labelText) {
+    private JTextArea makeWrapLabelText(String labelText) {
         JTextArea text = new JTextArea(2, 20);
         text.append(labelText);
         text.setWrapStyleWord(true);
@@ -187,17 +165,6 @@ public class CoursePanel extends JPanel {
         text.setBorder(UIManager.getBorder("Label.border"));
 
         return text;
-    }
-
-    // REQUIRES: loop =< array.size()
-    // EFFECT: Updates feedback text box.
-    public static void updateFeedBackText(JTextArea textArea, List<String> array, int loop) {
-        textArea.selectAll();
-        textArea.replaceSelection("");
-
-        for (int i = 0; i < loop; i++) {
-            textArea.append(array.get(i) + "\n");
-        }
     }
 
     // ================================================================================================================
@@ -223,9 +190,10 @@ public class CoursePanel extends JPanel {
         panel.add(new JLabel("Search (PRESS ENTER)"));
 
         JTextField field = new JTextField();
-
         field.setColumns(10);
+        // listener, updates the "searchTerm" value as it updates
         field.getDocument().addDocumentListener(new SearchBarListener(this));
+        // listener, if enter is pressed, and only 1 course is displayed in the suggested course list, add to model
         field.addKeyListener(new SearchBarKeyListener(this));
 
         panel.add(field);
@@ -279,11 +247,9 @@ public class CoursePanel extends JPanel {
         return master;
     }
 
-    //   EFFECT: Create and returns a panel to select department from a drop down menu.
+    //   EFFECT: Create and returns a panel to select department from a drop down menu by adding to the list model.
     private JPanel deptComboBox(DefaultListModel model) {
         JPanel panel = new JPanel();
-
-
         panel.add(new JLabel("Select a Department"));
 
         JComboBox deptDrownDown = new JComboBox(overview.getDepArr().toArray());
@@ -303,10 +269,10 @@ public class CoursePanel extends JPanel {
     private JButton confirmButton(List<String> potentialSelections) {
         JButton confirmBtn = new JButton("Confirm");
         confirmBtn.addActionListener(e -> {
-            courseList.addAll(potentialSelections);
-            courseListModel.removeAllElements();
-            for (String item : courseList) {
-                courseListModel.addElement(item);
+            for (String item : potentialSelections) {
+                if (!courseListModel.contains(item)) {
+                    courseListModel.addElement(item);
+                }
             }
             printCourses();
         });
@@ -322,13 +288,9 @@ public class CoursePanel extends JPanel {
         panel.setBorder(BorderFactory.createTitledBorder("Your Courses"));
         panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
 
-        courseListModel = new DefaultListModel();
-        for (String userItem : app.getUserCourses()) {
+        // get previously added courses
+        for (String userItem : app.getUser().getCourseNames()) {
             courseListModel.addElement(userItem);
-        }
-
-        for (String item :  courseList) {
-            courseListModel.addElement(item);
         }
 
         JList courses = new JList(courseListModel);
@@ -347,17 +309,8 @@ public class CoursePanel extends JPanel {
         removeBtn.addActionListener(e -> {
             List<String> thingsToRemove = courses.getSelectedValuesList();
             // referenced https://stackoverflow.com/questions/22743922/how-to-remove-selected-items-from-jlist?rq=1
-            for (Object o : thingsToRemove) {
-                courseListModel.removeElement(o);
-            }
-
-            courseList.removeAll(thingsToRemove);
-            try {
-                app.getUser().removeCourses(thingsToRemove);
-            } catch (NoCourseFound noCourseFound) {
-                noCourseFound.printStackTrace();
-                JOptionPane.showMessageDialog(null,
-                        "These courses were not found: " + noCourseFound.stringCourses());
+            for (String item : thingsToRemove) {
+                courseListModel.removeElement(item);
             }
         });
         return removeBtn;
@@ -367,35 +320,46 @@ public class CoursePanel extends JPanel {
     // MODIFIES: SchedulerApp
     //   EFFECT: Create and return a panel with a title and the button to go to the next stage.
     //           Shows warning to user if time preferences are not added, or if courses cannot be found.
-    private JPanel nextButton() {
+    private JPanel controlPanel() {
         JPanel panel = new JPanel();
         panel.setBorder(BorderFactory.createTitledBorder("Create Your Timetable"));
         panel.setPreferredSize(new Dimension(170, 50));
-        JButton nextBtn = new JButton("Next");
-        nextBtn.setActionCommand("Next");
 
-        nextBtn.addActionListener(e -> {
-            if (validTimePref()) {
-                JOptionPane.showMessageDialog(null,
-                        "You have not filled in your time preference.");
-            } else {
-                try {
-                    app.addCourses(courseList);
-                    app.nextPanel(new SchedulePanel(app));
-                } catch (NoCourseFound noCourseFound) {
-                    noCourseFound.printStackTrace();
-                    JOptionPane.showMessageDialog(null,
-                            "These courses were not found: " + noCourseFound.stringCourses());
-                }
-            }
-
-        });
-        panel.add(nextBtn);
+        panel.add(app.backButton(new StartPanel(app)));
+        panel.add(nextButton());
 
         return panel;
     }
 
-    private boolean validTimePref() {
-        return timePrefArr.contains("MORNING") && timePrefArr.contains("EVENING") && timePrefArr.contains("AFTERNOON");
+    private JButton nextButton() {
+        JButton nextBtn = new JButton("Next");
+        nextBtn.setActionCommand("Next");
+        nextBtn.addActionListener(e -> {
+            try {
+                setTimePref();
+                HashSet<String> courseSet = new HashSet<>();
+                for (Object item : courseListModel.toArray()) {
+                    String c = (String) item;
+                    courseSet.add(c);
+                }
+                app.getUser().addCourseSet(courseSet);
+                app.getUser().addCourses();
+                app.nextPanel(new SchedulePanel(app));
+            } catch (NoCourseFound noCourseFound) {
+                noCourseFound.printStackTrace();
+                JOptionPane.showMessageDialog(null,
+                           "These courses were not found: " + noCourseFound.stringCourses());
+            }
+        });
+        return nextBtn;
+    }
+
+    private void setTimePref() {
+        LinkedList<String> timePrefList = new LinkedList<>();
+        for (int i = 0; i < 3; i++) {
+            timePrefList.add(timePrefModel.get(i));
+        }
+        timePrefList.add("N/A");
+        app.getUser().setPreferences(timePrefList);
     }
 }

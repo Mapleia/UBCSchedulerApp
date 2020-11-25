@@ -200,7 +200,7 @@ public class ConsoleSchedulerApp {
                 + "courses during the morning, afternoon or evening.");
         System.out.println("Afternoon, Morning, Evening");
         String command = input.nextLine().toUpperCase();
-        List<String> preferencesArr = new LinkedList<>();
+        LinkedList<String> preferencesArr = new LinkedList<>();
         for (String time : command.trim().split(",")) {
             preferencesArr.add(time.trim());
         }
@@ -218,7 +218,8 @@ public class ConsoleSchedulerApp {
         Set<String> courses = Arrays.stream(arr)
                 .map(String::trim)
                 .collect(Collectors.toSet());
-        user.addCourses(courses);
+        user.addCourseSet(courses);
+        user.addCourses();
 
     }
 

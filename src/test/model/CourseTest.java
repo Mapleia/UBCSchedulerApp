@@ -61,4 +61,31 @@ public class CourseTest {
         assertTrue(japn200.getActivitiesList().contains("Required"));
         assertEquals("JAPN 200", japn200.getCourseName());
     }
+
+    @Test
+    public void testEquals() {
+        Course japn200 = null;
+        Course biol200 = null;
+        Course biol200v2 = null;
+        try {
+            reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
+            japn200 = reader.readCourse("2020W", preferences);
+            japn200.sortSections();
+            reader = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
+            biol200 = reader.readCourse("2020W", preferences);
+            biol200.sortSections();
+            reader = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
+            biol200v2 = reader.readCourse("2020W", preferences);
+            biol200v2.sortSections();
+        } catch (IOException e) {
+            fail();
+        }
+
+        assertEquals(biol200, biol200v2);
+        assertEquals(biol200, biol200);
+        biol200v2 = null;
+        assertNotEquals(biol200v2, biol200);
+        assertNotEquals(biol200, japn200);
+        assertNotEquals(japn200.getSectionsMap().get("JAPN 200 001"), biol200);
+    }
 }
