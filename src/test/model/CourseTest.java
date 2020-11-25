@@ -1,9 +1,11 @@
 package model;
 
+import exceptions.NoCourseFound;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 
+import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -52,7 +54,7 @@ public class CourseTest {
             reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
             japn200 = reader.readCourse("2020W", preferences);
             japn200.sortSections();
-        } catch (Exception e) {
+        } catch (IOException e) {
             fail();
         }
         assertEquals("JAPN 200 007", japn200.getSortSections().get("Required").get("N/A").get(0).getSection());

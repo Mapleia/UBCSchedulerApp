@@ -27,4 +27,12 @@ public class NoCourseFound extends Exception {
             System.out.println(s);
         }
     }
+
+    public String stringCourses() {
+        StringBuilder build = new StringBuilder();
+        for (String item : list) {
+            build.append(item + ", ");
+        }
+        return build.toString();
+    }
 }

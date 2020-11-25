@@ -2,6 +2,7 @@ package persistence;
 
 import exceptions.NoCourseFound;
 import model.Course;
+import model.Overview;
 import model.Section;
 import model.User;
 
@@ -11,9 +12,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Stream;
 
 import org.json.*;
@@ -26,6 +25,7 @@ public class JsonReader {
     private String source;
 
     // EFFECTS: constructs reader to read from source file
+    // source requires: full path
     public JsonReader(String source) {
         this.source = source;
     }
@@ -62,7 +62,7 @@ public class JsonReader {
         String term = jsonObject.getString("Term");
         JSONArray arr = jsonObject.getJSONArray("Course List");
         JSONObject schedule = jsonObject.getJSONObject("Schedule");
-        List<String> courses = new ArrayList<>();
+        Set<String> courses = new HashSet<>();
         for (int i = 0; i < arr.length(); i++) {
             courses.add(arr.getString(i));
         }
@@ -173,5 +173,42 @@ public class JsonReader {
                             start, end, thisTerm);
     }
 
+    // ======================= FOR OVERVIEW FILE ======================================================================
+    // EFFECTS: reads overview file and returns it;
+    // throws IOException if an error occurs reading data from file
+
+    public Overview readOverview() throws IOException {
+        try {
+            String jsonData = readFile();                     // IOException
+            JSONObject jsonObject = new JSONObject(jsonData); // JSONException
+            return parseOverview(jsonObject);                 // JSONException
+        } catch (Exception e) {
+            throw new IOException();
+        }
+    }
+
+    private Overview parseOverview(JSONObject jsonObject) {
+        JSONArray departments = jsonObject.getJSONArray("DEPARTMENT");
+        JSONObject courses = jsonObject.getJSONObject("COURSES");
+        ArrayList<String> depArr = new ArrayList<>();
+        HashMap<String, ArrayList<String>> courseMap = new HashMap<>();
+
+        for (int i = 0; i < departments.length(); i++) {
+            depArr.add(departments.getString(i));
+        }
+
+        Iterator<String> itr = courses.keys();
+
+        while (itr.hasNext()) {
+            String key = itr.next();
+            ArrayList<String> courseList = new ArrayList<>();
+            for (int j = 0; j < courses.getJSONArray(key).length(); j++) {
+                courseList.add(courses.getJSONArray(key).getString(j));
+            }
+            courseMap.put(key, courseList);
+        }
+
+        return new Overview(depArr, courseMap);
+    }
 
 }

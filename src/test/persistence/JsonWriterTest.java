@@ -43,7 +43,7 @@ public class JsonWriterTest {
     public void testWriterGeneralUser() {
         User user = new User("2020W");
         try {
-            List<String> courses = Arrays.asList("CPSC 210", "CPSC 110", "BIOL 112");
+            Set<String> courses = new HashSet<>(Arrays.asList(new String[]{"CPSC 210", "CPSC 110", "BIOL 112"}));
             user.setPreferences(Arrays.asList("AFTERNOON", "EVENING", "MORNING"));
             user.addCourses(courses);
             user.createTimeTable();
@@ -61,13 +61,13 @@ public class JsonWriterTest {
 
             JsonReader reader = new JsonReader("./data/timetables/testUserWithSections.json");
             user = reader.readUser();
-            assertEquals("CPSC 110 101",
+            assertEquals("BIOL 112 102",
                     user.getFinalTimeTable().get("1").get(0).getSection());
-            assertEquals("CPSC 110 L12",
+            assertEquals("BIOL 112 T04",
                     user.getFinalTimeTable().get("1").get(1).getSection());
-            assertEquals("CPSC 110 101",
-                    user.getFinalTimeTable().get("1").get(0).getSection());
-            assertEquals("CPSC 210 L2A",
+            assertEquals("CPSC 210 202",
+                    user.getFinalTimeTable().get("2").get(0).getSection());
+            assertEquals("CPSC 210 L2B",
                     user.getFinalTimeTable().get("2").get(1).getSection());
         } catch (IOException e) {
             e.printStackTrace();
@@ -106,7 +106,7 @@ public class JsonWriterTest {
         coursesToAdd.add("BIOL 260");
 
         try {
-            user.addCourses(coursesToAdd);
+            user.addCourses(new HashSet<>(coursesToAdd));
             user.createTimeTable();
         } catch (Exception e) {
             e.printStackTrace();
