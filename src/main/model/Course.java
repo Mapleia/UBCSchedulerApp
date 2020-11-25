@@ -102,7 +102,7 @@ public class Course implements Comparable<Course> {
 
     @Override
     public int hashCode() {
-        return 31 * courseName.hashCode();
+        return 31 * courseName.hashCode() * sectionsMap.size();
     }
 
     @Override
