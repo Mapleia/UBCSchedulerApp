@@ -13,7 +13,7 @@ public class Course implements Comparable<Course> {
     private final List<String> preferences;
 
     private HashMap<String, Section> sectionsMap;
-    private HashMap<String, HashMap<String, ArrayList<Section>>> sortSections;
+    private HashMap<String, ArrayList<Section>> sortSections;
 
     // constructor for course
     public Course(String courseName, List<String> termsList, List<String> activitiesList, List<Section> sectionList,
@@ -48,7 +48,7 @@ public class Course implements Comparable<Course> {
         return credit;
     }
 
-    public HashMap<String, HashMap<String, ArrayList<Section>>> getSortSections() {
+    public HashMap<String, ArrayList<Section>> getSortSections() {
         return sortSections;
     }
 
@@ -90,23 +90,13 @@ public class Course implements Comparable<Course> {
     }
 
     // MODIFIES: this
-    // EFFECTS: sorts sections by activity, then by timespan (morning/afternoon/evening)
+    // EFFECT: sorts sections by time span
     public void sortSections() {
-        Iterator<Section> itr = sectionList.iterator();
-        HashMap<String, ArrayList<Section>> timeSorted;
-
-        while (itr.hasNext()) {
-            Section section = itr.next();
-            if (!sortSections.containsKey(section.getActivity())) {
-                timeSorted = new HashMap<>();
-                for (String time : preferences) {
-                    timeSorted.put(time.toUpperCase(), new ArrayList<>());
-                }
-                sortSections.putIfAbsent(section.getActivity(), timeSorted);
-            }
-
-            sortSections.get(section.getActivity()).get(section.getTimeSpan()).add(section);
-            itr.remove();
+        for (String time : preferences) {
+            sortSections.put(time.toUpperCase(), new ArrayList<>());
+        }
+        for (Section item : sectionList) {
+            sortSections.get(item.getTimeSpan()).add(item);
         }
     }
 

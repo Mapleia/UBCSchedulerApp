@@ -2,23 +2,43 @@
     "TimePref": [
         "AFTERNOON",
         "EVENING",
-        "MORNING",
-        "N/A"
+        "MORNING"
     ],
     "Schedule": {
         "1": [
             {
+                "activity": "Tutorial",
+                "start": "13:00",
+                "course": "MICB 201",
+                "days": ["MON"],
+                "section": "MICB 201 T01",
+                "term": "1",
+                "end": "13:50",
+                "status": " "
+            },
+            {
                 "activity": "Web-Oriented Course",
                 "start": "11:00",
-                "course": "CPSC 410",
+                "course": "CPSC 210",
                 "days": [
-                    "TUE",
-                    "THU"
+                    "MON",
+                    "WED",
+                    "FRI"
                 ],
-                "section": "CPSC 410 101",
+                "section": "CPSC 210 101",
                 "term": "1",
-                "end": "12:20",
+                "end": "11:50",
                 "status": "Full"
+            },
+            {
+                "activity": "Tutorial",
+                "start": "14:00",
+                "course": "PHYS 100",
+                "days": ["TUE"],
+                "section": "PHYS 100 T1B",
+                "term": "1",
+                "end": "15:50",
+                "status": " "
             },
             {
                 "activity": "Web-Oriented Course",
@@ -50,29 +70,6 @@
             },
             {
                 "activity": "Web-Oriented Course",
-                "start": "17:00",
-                "course": "JAPN 200",
-                "days": [
-                    "TUE",
-                    "THU"
-                ],
-                "section": "JAPN 200 006",
-                "term": "1",
-                "end": "17:50",
-                "status": " "
-            },
-            {
-                "activity": "Required",
-                "start": "N/A",
-                "course": "JAPN 200",
-                "days": [""],
-                "section": "JAPN 200 007",
-                "term": "1",
-                "end": "N/A",
-                "status": " "
-            },
-            {
-                "activity": "Web-Oriented Course",
                 "start": "09:30",
                 "course": "PHYS 100",
                 "days": [
@@ -83,46 +80,6 @@
                 "term": "1",
                 "end": "10:50",
                 "status": "Full"
-            },
-            {
-                "activity": "Tutorial",
-                "start": "14:00",
-                "course": "PHYS 100",
-                "days": ["TUE"],
-                "section": "PHYS 100 T1B",
-                "term": "1",
-                "end": "15:50",
-                "status": " "
-            },
-            {
-                "activity": "Tutorial",
-                "start": "13:00",
-                "course": "MICB 201",
-                "days": ["MON"],
-                "section": "MICB 201 T01",
-                "term": "1",
-                "end": "13:50",
-                "status": " "
-            },
-            {
-                "activity": "Laboratory",
-                "start": "14:00",
-                "course": "CHEM 235",
-                "days": ["THU"],
-                "section": "CHEM 235 L17",
-                "term": "1",
-                "end": "16:50",
-                "status": "Blocked"
-            },
-            {
-                "activity": "Required",
-                "start": "N/A",
-                "course": "CHEM 235",
-                "days": [""],
-                "section": "CHEM 235 XMT",
-                "term": "1",
-                "end": "N/A",
-                "status": "Blocked"
             },
             {
                 "activity": "Web-Oriented Course",
@@ -139,6 +96,19 @@
                 "status": " "
             },
             {
+                "activity": "Web-Oriented Course",
+                "start": "11:00",
+                "course": "CPSC 410",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "CPSC 410 101",
+                "term": "1",
+                "end": "12:20",
+                "status": "Full"
+            },
+            {
                 "activity": "Tutorial",
                 "start": "12:00",
                 "course": "BIOL 234",
@@ -149,18 +119,14 @@
                 "status": " "
             },
             {
-                "activity": "Web-Oriented Course",
-                "start": "11:00",
-                "course": "CPSC 210",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "CPSC 210 101",
+                "activity": "Laboratory",
+                "start": "14:00",
+                "course": "CHEM 235",
+                "days": ["THU"],
+                "section": "CHEM 235 L17",
                 "term": "1",
-                "end": "11:50",
-                "status": "Full"
+                "end": "16:50",
+                "status": "Blocked"
             },
             {
                 "activity": "Laboratory",
@@ -173,43 +139,29 @@
                 "status": "Full"
             },
             {
-                "activity": "Required",
-                "start": "N/A",
-                "course": "BIOL 140",
-                "days": [""],
-                "section": "BIOL 140 101",
-                "term": "1",
-                "end": "N/A",
-                "status": "Blocked"
-            }
-        ],
-        "2": [
-            {
                 "activity": "Web-Oriented Course",
-                "start": "15:30",
-                "course": "BIOL 260",
+                "start": "17:00",
+                "course": "JAPN 200",
                 "days": [
                     "TUE",
                     "THU"
                 ],
-                "section": "BIOL 260 202",
-                "term": "2",
-                "end": "16:50",
-                "status": "Blocked"
-            },
+                "section": "JAPN 200 006",
+                "term": "1",
+                "end": "17:50",
+                "status": " "
+            }
+        ],
+        "2": [
             {
-                "activity": "Web-Oriented Course",
-                "start": "12:00",
-                "course": "MATH 103",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "MATH 103 203",
+                "activity": "Laboratory",
+                "start": "14:00",
+                "course": "CPSC 213",
+                "days": ["MON"],
+                "section": "CPSC 213 L2B",
                 "term": "2",
-                "end": "12:50",
-                "status": "Full"
+                "end": "14:50",
+                "status": " "
             },
             {
                 "activity": "Web-Oriented Course",
@@ -223,39 +175,6 @@
                 "section": "CPSC 320 202",
                 "term": "2",
                 "end": "16:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Tutorial",
-                "start": "13:00",
-                "course": "CPSC 320",
-                "days": ["FRI"],
-                "section": "CPSC 320 T2A",
-                "term": "2",
-                "end": "13:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "11:00",
-                "course": "CPSC 310",
-                "days": [
-                    "TUE",
-                    "THU"
-                ],
-                "section": "CPSC 310 201",
-                "term": "2",
-                "end": "12:20",
-                "status": "Full"
-            },
-            {
-                "activity": "Laboratory",
-                "start": "13:30",
-                "course": "CPSC 310",
-                "days": ["TUE"],
-                "section": "CPSC 310 L2A",
-                "term": "2",
-                "end": "15:20",
                 "status": "Full"
             },
             {
@@ -273,14 +192,17 @@
                 "status": "Full"
             },
             {
-                "activity": "Laboratory",
-                "start": "14:00",
-                "course": "CPSC 213",
-                "days": ["MON"],
-                "section": "CPSC 213 L2B",
+                "activity": "Web-Oriented Course",
+                "start": "15:30",
+                "course": "BIOL 260",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "BIOL 260 202",
                 "term": "2",
-                "end": "14:50",
-                "status": " "
+                "end": "16:50",
+                "status": "Blocked"
             },
             {
                 "activity": "Web-Oriented Course",
@@ -299,11 +221,21 @@
             {
                 "activity": "Tutorial",
                 "start": "13:00",
-                "course": "BIOL 200",
-                "days": ["MON"],
-                "section": "BIOL 200 T60",
+                "course": "CPSC 320",
+                "days": ["FRI"],
+                "section": "CPSC 320 T2A",
                 "term": "2",
                 "end": "13:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Laboratory",
+                "start": "13:30",
+                "course": "CPSC 310",
+                "days": ["TUE"],
+                "section": "CPSC 310 L2A",
+                "term": "2",
+                "end": "15:20",
                 "status": "Full"
             },
             {
@@ -328,6 +260,43 @@
                 "section": "WRDS 150B 871",
                 "term": "2",
                 "end": "15:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "11:00",
+                "course": "CPSC 310",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "CPSC 310 201",
+                "term": "2",
+                "end": "12:20",
+                "status": "Full"
+            },
+            {
+                "activity": "Tutorial",
+                "start": "13:00",
+                "course": "BIOL 200",
+                "days": ["MON"],
+                "section": "BIOL 200 T60",
+                "term": "2",
+                "end": "13:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "12:00",
+                "course": "MATH 103",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "MATH 103 203",
+                "term": "2",
+                "end": "12:50",
                 "status": "Full"
             }
         ],
@@ -361,8 +330,14 @@
     "Preferences": [
         "AFTERNOON",
         "EVENING",
-        "MORNING",
-        "N/A"
+        "MORNING"
+    ],
+    "ErrorLog": [
+        "JAPN 200: [Required]",
+        "MICB 201: [Web-Oriented Course]",
+        "CHEM 235: [Required]",
+        "BIOL 140: [Required, Web-Oriented Course]",
+        "ENGL 110: [Web-Oriented Course]"
     ],
     "Course List": [
         "STAT 200",

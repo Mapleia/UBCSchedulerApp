@@ -9,6 +9,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.temporal.TemporalAdjusters;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -115,6 +116,15 @@ public class Section implements Writable {
         return status;
     }
     // ================================================================================================================
+
+    public static boolean isOverlapping(Section section, Collection<Section> list) {
+        for (Section item : list) {
+            if (isOverlapping(section, item)) {
+                return true;
+            }
+        }
+        return false;
+    }
 
     // EFFECTS: Returns true if the sections are overlapping.
     public static boolean isOverlapping(Section section1, Section section2) {
@@ -240,5 +250,23 @@ public class Section implements Writable {
         } else {
             return "MORNING";
         }
+    }
+
+    @Override
+    public int hashCode() {
+        return 31 * course.hashCode() * activity.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        } else if (obj == null) {
+            return false;
+        } else if (getClass() != obj.getClass()) {
+            return false;
+        }
+        Section other = (Section) obj;
+        return course.equals(other.getCourse()) && activity.equals(other.getActivity());
     }
 }

@@ -66,7 +66,7 @@ public class SchedulePanel extends JPanel {
 
         JScrollPane pane = new JScrollPane(result);
         pane.setPreferredSize(new Dimension(200, 400));
-        pane.setBorder(BorderFactory.createLineBorder(Color.black));
+        pane.setBorder(BorderFactory.createEtchedBorder());
         printTerm(result, term);
 
         panel.add(new JLabel("TERM" + term + ": "));

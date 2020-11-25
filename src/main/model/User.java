@@ -9,9 +9,11 @@ import persistence.Writable;
 
 import java.io.IOException;
 import java.util.*;
+import java.util.stream.Collectors;
 
 // Represents a user of the program, makes their timetable and stores information about them.
 public class User implements Writable {
+    public static final String[] TERMS = new String[] {"1", "2", "1-2"};
     private String termYear;
     private Set<String> courseNames;
     private Set<Course> courseSet;
@@ -45,6 +47,7 @@ public class User implements Writable {
     }
 
     // getters & setters ==============================================================================================
+
     public HashMap<String, HashSet<Section>> getFinalTimeTable() {
         return finalTimeTable;
     }
@@ -77,98 +80,70 @@ public class User implements Writable {
         return preferencesArr;
     }
 
+    // SETTER: sets to blank
+    public void clearTimetable() {
+        finalTimeTable = new HashMap<>();
+    }
     // ================================================================================================================
 
-    // REQUIRES: courses already added and sorted into term 1 or term 2 (or neither, in the case of all year).
     // MODIFIES: this
-    // EFFECTS: Creates a timetable based on the courses added, the time preference stated, and the available sections.
-    public void createTimeTable() {
-        sortCourses();
-        for (String t : result.keySet()) {
-            finalTimeTable.putIfAbsent(t, new HashSet<>());
-
-            for (Course c : result.get(t)) {
-                HashMap<String, Boolean> finalTimeTableContains = new HashMap<>(); // contains type? log per course
-                // For each activity type, add a key and blank value pair, then add a section if possible.
-                for (String s : c.getActivitiesList()) {
-                    finalTimeTableContains.put(s, false);
-                    addIfPossible(s, finalTimeTableContains, c, t);
-                }
-
-                addToErrorLog(finalTimeTableContains, c);
-
+    // EFFECTS: Loops through courseList and adds (Course) courses.
+    // throws NoCourseFound if it encounters an not successful addition of course during the loop.
+    public void addCourses() throws NoCourseFound {
+        NoCourseFound error = new NoCourseFound();
+        courseSet = new HashSet<>();
+        for (String course : courseNames) {
+            boolean isSuccessful = addCourse(course);
+            if (!isSuccessful) {
+                error.addClasses(course);
             }
+        }
+
+        if (error.size() > 0) {
+            throw error;
         }
     }
 
     // MODIFIES: this
-    // EFFECTS: if final timetable failed to add any type of section, an the course and the offending course section is
-    // added to the log.
-    private void addToErrorLog(HashMap<String, Boolean> finalTimeTableContains, Course c) {
-        if (finalTimeTableContains.containsValue(false)) {
-            String sectionStr = " ";
-            for (String s : finalTimeTableContains.keySet()) {
-                if (!finalTimeTableContains.get(s)) {
-                    sectionStr = sectionStr.concat(s + ", ");
-                }
-            }
-            errorLog.add(c.getCourseName() + ":\n\t" + sectionStr);
+    // EFFECTS: adds to courseList and courseSet if a valid course is made and returns true.
+    // Returns false if finds an exception / cannot find the course.
+    // MADE SO THAT A LIST OF ERROR COURSE CAN BE MADE
+    public boolean addCourse(String input) {
+        String[] split = input.split(" ");
+        String path = "./data/" + termYear + "/" + split[0].toUpperCase() + "/" + input.toUpperCase() + ".json";
+        try {
+            JsonReader jsonReader = new JsonReader(path);
+            Course course = jsonReader.readCourse(termYear, preferencesArr);
+            courseSet.add(course);
+            return true;
+        } catch (Exception e) {
+            return false;
         }
     }
 
-    // addIfPossible - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    // EFFECTS: Adds or skips Waiting List based on what is already added.
-    private void addIfPossible(String act, HashMap<String, Boolean> containsMap, Course c, String t) {
-        // If waiting list, skip over it, but report as if it was added.
-        if (act.equals("Waiting List")) {
-            containsMap.put("Waiting List", true);
+    public void removeCourses(List<String> courses) throws NoCourseFound {
+        NoCourseFound error = new NoCourseFound();
 
+        for (String course : courses) {
+            boolean isSuccessful = removeCourse(course);
+
+            if (!isSuccessful) {
+                error.addClasses(course);
+            }
+        }
+
+        if (error.size() > 0) {
+            throw error;
+        }
+    }
+
+    private boolean removeCourse(String course) {
+        if (courseNames.contains(course)) {
+            courseNames.remove(course);
+            return true;
         } else {
-            // for each ordered time slot in the preference array, try adding a section corresponding.
-            // If successful, log as successful (true).
-            for (String time : preferencesArr) {
-                List<Section> potentialSections = c.getSortSections().get(act).get(time);
-                if (sectionIsAdded(potentialSections, t)) {
-                    containsMap.put(act, true);
-                    break;
-                }
-            }
+            return false;
         }
-    }
-
-    // EFFECTS: Adds 1 section from a list of given sections to the final timetable if it fits.
-    //          Returns false if no valid section could be added.
-    //          Returns true if a section was added.
-    private boolean sectionIsAdded(List<Section> sections, String term) {
-        boolean success = false;
-        potentialSections: {
-            for (Section s1 : sections) {
-                // If the term is empty (no sections added yet) just add the section.
-                // Report the activity type as successful.
-                if (finalTimeTable.get(term).isEmpty()) {
-                    success = true;
-                    finalTimeTable.get(term).add(s1);
-                    break potentialSections;
-
-                } else {
-                    boolean forThisSection = false; // true if the section overlapped with any.
-
-                    // Check if that section overlaps with any of the sections already in the timetable.
-                    for (Section s2 : finalTimeTable.get(term)) {
-                        if (Section.isOverlapping(s1, s2)) {
-                            forThisSection = true;
-                        }
-                    }
-                    // If there was absolutely no overlap, then add to table and report as success.
-                    if (!forThisSection) {
-                        success = true;
-                        finalTimeTable.get(term).add(s1);
-                        break potentialSections;
-                    }
-                }
-            }
-        }
-        return success;
     }
 
     // SORT_COURSES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -213,7 +188,58 @@ public class User implements Writable {
         result.get("2").add(c);
         resultsCredits.put("2", resultsCredits.get("2") + c.getCredit());
     }
-    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    // ================================================================================================================
+
+    // REQUIRES: courses already added and sorted into term 1 or term 2 (or neither, in the case of all year).
+    // MODIFIES: this
+    // EFFECTS: Creates a timetable based on the courses added, the time preference stated, and the available sections.
+    public void createTimeTable() {
+        sortCourses();
+
+        for (String t : TERMS) {
+            finalTimeTable.putIfAbsent(t, new HashSet<>());
+            for (Course c : result.get(t)) {
+                for (String p : preferencesArr) {
+                    for (Section s : c.getSortSections().get(p)) {
+                        if (s.getActivity().equals("Waiting List")) {
+                            continue;
+                        }
+                        if (!finalTimeTable.get(t).contains(s) && !Section.isOverlapping(s, finalTimeTable.get(t))) {
+                            finalTimeTable.get(t).add(s);
+                        }
+                    }
+                }
+
+                ArrayList<String> errorResult = canAddToErrorLog(c, finalTimeTable.get(t));
+                if (!errorResult.isEmpty()) {
+                    errorLog.add(c.getCourseName() + ": " + errorResult.toString());
+                }
+            }
+        }
+    }
+
+    private ArrayList<String> canAddToErrorLog(Course course, HashSet<Section> sections) {
+        ArrayList<String> actList = new ArrayList<>();
+        Set<Section> filtered = sections.stream()
+                .filter(s -> s.getCourse().equals(course.getCourseName()))
+                .collect(Collectors.toSet());
+
+        for (String item : course.getActivitiesList()) {
+            if (item.equals("Waiting List")) {
+                continue;
+            }
+            Set<Section> actFilter = filtered.stream()
+                    .filter(section -> section.getActivity().equals(item))
+                    .collect(Collectors.toSet());
+            if (actFilter.isEmpty()) {
+                actList.add(item);
+            }
+        }
+        return actList;
+    }
+
+    // ================================================================================================================
 
     @Override
     // EFFECTS: parses User object from Java object to json and returns a JSONObject.
@@ -259,70 +285,6 @@ public class User implements Writable {
             }
 
             finalTimeTable.put(term, list);
-        }
-    }
-
-    // MODIFIES: this
-    // EFFECTS: Loops through courseList and adds (Course) courses.
-    // throws NoCourseFound if it encounters an not successful addition of course during the loop.
-    public void addCourses() throws NoCourseFound {
-        NoCourseFound error = new NoCourseFound();
-        courseSet = new HashSet<>();
-        for (String course : courseNames) {
-            boolean isSuccessful = addCourse(course);
-            if (!isSuccessful) {
-                error.addClasses(course);
-            }
-        }
-
-        if (error.size() > 0) {
-            throw error;
-        }
-    }
-
-    // MODIFIES: this
-    // EFFECTS: adds to courseList and courseSet if a valid course is made and returns true.
-    // Returns false if finds an exception / cannot find the course.
-    // MADE SO THAT A LIST OF ERROR COURSE CAN BE MADE
-    public boolean addCourse(String input) {
-        String[] split = input.split(" ");
-        String path = "./data/" + termYear + "/" + split[0].toUpperCase() + "/" + input.toUpperCase() + ".json";
-        try {
-            JsonReader jsonReader = new JsonReader(path);
-            Course course = jsonReader.readCourse(termYear, preferencesArr);
-            courseSet.add(course);
-            return true;
-        } catch (Exception e) {
-            return false;
-        }
-    }
-
-    public void clearTimetable() {
-        finalTimeTable = new HashMap<>();
-    }
-
-    public void removeCourses(List<String> courses) throws NoCourseFound {
-        NoCourseFound error = new NoCourseFound();
-
-        for (String course : courses) {
-            boolean isSuccessful = removeCourse(course);
-
-            if (!isSuccessful) {
-                error.addClasses(course);
-            }
-        }
-
-        if (error.size() > 0) {
-            throw error;
-        }
-    }
-
-    private boolean removeCourse(String course) {
-        if (courseNames.contains(course)) {
-            courseNames.remove(course);
-            return true;
-        } else {
-            return false;
         }
     }
 }

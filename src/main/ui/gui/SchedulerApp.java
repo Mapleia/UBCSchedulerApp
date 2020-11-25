@@ -55,29 +55,9 @@ public class SchedulerApp extends JFrame {
         contain.repaint();
     }
 
-/*    // EFFECT: Set the time preference of the user.
-    public void setTimePref(LinkedList<String> arr) {
-        user.setPreferences(arr);
-        for (String item: arr) {
-            System.out.println(item);
-        }
-    }*/
-
     public User getUser() {
         return user;
     }
-
-/*    public Set<String> getUserCourses() {
-        return user.getCourseNames();
-    }
-
-    public void setYear(String year) {
-        user.setYear(year);
-    }*/
-
-/*    public void addCourses(Set<String> courseList) throws NoCourseFound {
-        user.addCourses(courseList);
-    }*/
 
     // EFFECT: Creates a timetable and returns it.
     public HashMap<String, HashSet<Section>> getTimeTable() {

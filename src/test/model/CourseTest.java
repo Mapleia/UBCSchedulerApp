@@ -43,7 +43,7 @@ public class CourseTest {
 
     @Test
     public void testSortedSections() {
-        assertEquals("CPSC 210 L1A", cpsc210.getSortSections().get("Laboratory").get("AFTERNOON").get(0)
+        assertEquals("CPSC 210 102", cpsc210.getSortSections().get("AFTERNOON").get(0)
                 .getSection());
     }
 
@@ -57,7 +57,7 @@ public class CourseTest {
         } catch (IOException e) {
             fail();
         }
-        assertEquals("JAPN 200 007", japn200.getSortSections().get("Required").get("N/A").get(0).getSection());
+        assertEquals("JAPN 200 007", japn200.getSortSections().get("N/A").get(0).getSection());
         assertTrue(japn200.getActivitiesList().contains("Required"));
         assertEquals("JAPN 200", japn200.getCourseName());
     }
