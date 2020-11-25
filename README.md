@@ -1,4 +1,4 @@
-# Personal Project - UBC Course Scheduler
+# CPSC 210 Project - UBC Course Scheduler
 
 ## OVERVIEW
 
@@ -29,6 +29,10 @@ It can also be used for the rest of my degree, given that the course database ge
 - As a user, I want to load up a previous session and keep working on it.
 - As a user, I want to download/save the schedule made by the program and retrieve it.
 - As a user, I want to print out my schedule in the console, so I can read it.
+
+## Phase 4: Task 2
+- Designed a class that is robust (User class, addCourses)
+- Use of map interface (HashMap for sectionMap in Course class)
 
 ## CREDITS
 Data found by downloading from https://ubc-courses-api.herokuapp.com/. 

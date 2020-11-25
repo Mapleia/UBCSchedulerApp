@@ -7,16 +7,6 @@
     "Schedule": {
         "1": [
             {
-                "activity": "Tutorial",
-                "start": "13:00",
-                "course": "MICB 201",
-                "days": ["MON"],
-                "section": "MICB 201 T01",
-                "term": "1",
-                "end": "13:50",
-                "status": " "
-            },
-            {
                 "activity": "Web-Oriented Course",
                 "start": "11:00",
                 "course": "CPSC 210",
@@ -31,27 +21,23 @@
                 "status": "Full"
             },
             {
-                "activity": "Tutorial",
-                "start": "14:00",
-                "course": "PHYS 100",
+                "activity": "Laboratory",
+                "start": "15:30",
+                "course": "CPSC 213",
                 "days": ["TUE"],
-                "section": "PHYS 100 T1B",
+                "section": "CPSC 213 L1A",
                 "term": "1",
-                "end": "15:50",
-                "status": " "
+                "end": "16:20",
+                "status": "Full"
             },
             {
-                "activity": "Web-Oriented Course",
-                "start": "14:00",
-                "course": "STAT 200",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "STAT 200 103",
+                "activity": "Tutorial",
+                "start": "17:00",
+                "course": "PHYS 100",
+                "days": ["TUE"],
+                "section": "PHYS 100 T1M",
                 "term": "1",
-                "end": "14:50",
+                "end": "18:50",
                 "status": " "
             },
             {
@@ -70,33 +56,6 @@
             },
             {
                 "activity": "Web-Oriented Course",
-                "start": "09:30",
-                "course": "PHYS 100",
-                "days": [
-                    "TUE",
-                    "THU"
-                ],
-                "section": "PHYS 100 103",
-                "term": "1",
-                "end": "10:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "10:00",
-                "course": "BIOL 234",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "BIOL 234 101",
-                "term": "1",
-                "end": "10:50",
-                "status": " "
-            },
-            {
-                "activity": "Web-Oriented Course",
                 "start": "11:00",
                 "course": "CPSC 410",
                 "days": [
@@ -109,86 +68,136 @@
                 "status": "Full"
             },
             {
-                "activity": "Tutorial",
+                "activity": "Web-Oriented Course",
+                "start": "09:00",
+                "course": "ENGL 110",
+                "days": [
+                    "MON",
+                    "WED"
+                ],
+                "section": "ENGL 110 001",
+                "term": "1",
+                "end": "09:50",
+                "status": " "
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "17:00",
+                "course": "BIOL 140",
+                "days": ["THU"],
+                "section": "BIOL 140 1N1",
+                "term": "1",
+                "end": "19:50",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "10:00",
+                "course": "BIOL 200",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "BIOL 200 101",
+                "term": "1",
+                "end": "10:50",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "09:30",
+                "course": "PHYS 100",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "PHYS 100 103",
+                "term": "1",
+                "end": "10:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Discussion",
                 "start": "12:00",
-                "course": "BIOL 234",
-                "days": ["WED"],
-                "section": "BIOL 234 T11",
+                "course": "ENGL 110",
+                "days": ["FRI"],
+                "section": "ENGL 110 LF1",
+                "term": "1",
+                "end": "12:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Tutorial",
+                "start": "13:00",
+                "course": "BIOL 200",
+                "days": ["MON"],
+                "section": "BIOL 200 T03",
                 "term": "1",
                 "end": "13:50",
                 "status": " "
             },
             {
                 "activity": "Laboratory",
-                "start": "14:00",
-                "course": "CHEM 235",
-                "days": ["THU"],
-                "section": "CHEM 235 L17",
-                "term": "1",
-                "end": "16:50",
-                "status": "Blocked"
-            },
-            {
-                "activity": "Laboratory",
-                "start": "17:00",
+                "start": "12:00",
                 "course": "CPSC 210",
                 "days": ["WED"],
-                "section": "CPSC 210 L1Q",
+                "section": "CPSC 210 L1F",
                 "term": "1",
-                "end": "18:50",
-                "status": "Full"
+                "end": "13:50",
+                "status": " "
             },
             {
                 "activity": "Web-Oriented Course",
-                "start": "17:00",
+                "start": "14:00",
                 "course": "JAPN 200",
                 "days": [
                     "TUE",
-                    "THU"
+                    "THU",
+                    "FRI"
                 ],
-                "section": "JAPN 200 006",
+                "section": "JAPN 200 005",
                 "term": "1",
-                "end": "17:50",
+                "end": "14:50",
                 "status": " "
             }
         ],
         "2": [
             {
-                "activity": "Laboratory",
-                "start": "14:00",
-                "course": "CPSC 213",
+                "activity": "Tutorial",
+                "start": "13:00",
+                "course": "MICB 201",
                 "days": ["MON"],
-                "section": "CPSC 213 L2B",
+                "section": "MICB 201 T06",
                 "term": "2",
-                "end": "14:50",
-                "status": " "
+                "end": "13:50",
+                "status": "Temp. Unavailable"
             },
             {
                 "activity": "Web-Oriented Course",
-                "start": "16:00",
+                "start": "08:00",
+                "course": "MICB 201",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "MICB 201 201",
+                "term": "2",
+                "end": "09:20",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "10:00",
                 "course": "CPSC 320",
                 "days": [
                     "MON",
                     "WED",
                     "FRI"
                 ],
-                "section": "CPSC 320 202",
+                "section": "CPSC 320 201",
                 "term": "2",
-                "end": "16:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "09:00",
-                "course": "CPSC 213",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "CPSC 213 204",
-                "term": "2",
-                "end": "09:50",
+                "end": "10:50",
                 "status": "Full"
             },
             {
@@ -205,20 +214,6 @@
                 "status": "Blocked"
             },
             {
-                "activity": "Web-Oriented Course",
-                "start": "11:00",
-                "course": "BIOL 200",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "BIOL 200 201",
-                "term": "2",
-                "end": "11:50",
-                "status": " "
-            },
-            {
                 "activity": "Tutorial",
                 "start": "13:00",
                 "course": "CPSC 320",
@@ -229,61 +224,37 @@
                 "status": "Full"
             },
             {
-                "activity": "Laboratory",
-                "start": "13:30",
-                "course": "CPSC 310",
+                "activity": "Tutorial",
+                "start": "11:00",
+                "course": "BIOL 234",
                 "days": ["TUE"],
-                "section": "CPSC 310 L2A",
+                "section": "BIOL 234 T42",
+                "term": "2",
+                "end": "12:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "14:00",
+                "course": "WRDS 150B",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "WRDS 150B 931",
                 "term": "2",
                 "end": "15:20",
                 "status": "Full"
             },
             {
-                "activity": "Discussion",
+                "activity": "Laboratory",
                 "start": "14:00",
-                "course": "ENGL 110",
-                "days": ["FRI"],
-                "section": "ENGL 110 LT1",
+                "course": "CHEM 235",
+                "days": ["WED"],
+                "section": "CHEM 235 L25",
                 "term": "2",
-                "end": "14:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "15:00",
-                "course": "WRDS 150B",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "WRDS 150B 871",
-                "term": "2",
-                "end": "15:50",
-                "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "11:00",
-                "course": "CPSC 310",
-                "days": [
-                    "TUE",
-                    "THU"
-                ],
-                "section": "CPSC 310 201",
-                "term": "2",
-                "end": "12:20",
-                "status": "Full"
-            },
-            {
-                "activity": "Tutorial",
-                "start": "13:00",
-                "course": "BIOL 200",
-                "days": ["MON"],
-                "section": "BIOL 200 T60",
-                "term": "2",
-                "end": "13:50",
-                "status": "Full"
+                "end": "16:50",
+                "status": "Blocked"
             },
             {
                 "activity": "Web-Oriented Course",
@@ -334,10 +305,10 @@
     ],
     "ErrorLog": [
         "JAPN 200: [Required]",
-        "MICB 201: [Web-Oriented Course]",
-        "CHEM 235: [Required]",
-        "BIOL 140: [Required, Web-Oriented Course]",
-        "ENGL 110: [Web-Oriented Course]"
+        "CPSC 213: [Web-Oriented Course]",
+        "BIOL 200: [Required]",
+        "BIOL 140: [Required]",
+        "BIOL 234: [Web-Oriented Course]"
     ],
     "Course List": [
         "STAT 200",
