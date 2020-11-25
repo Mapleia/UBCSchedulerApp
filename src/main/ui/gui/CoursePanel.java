@@ -375,7 +375,7 @@ public class CoursePanel extends JPanel {
         nextBtn.setActionCommand("Next");
 
         nextBtn.addActionListener(e -> {
-            if (timePrefArr.isEmpty()) {
+            if (validTimePref()) {
                 JOptionPane.showMessageDialog(null,
                         "You have not filled in your time preference.");
             } else {
@@ -393,5 +393,9 @@ public class CoursePanel extends JPanel {
         panel.add(nextBtn);
 
         return panel;
+    }
+
+    private boolean validTimePref() {
+        return timePrefArr.contains("MORNING") && timePrefArr.contains("EVENING") && timePrefArr.contains("AFTERNOON");
     }
 }
