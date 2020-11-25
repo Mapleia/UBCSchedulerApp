@@ -64,6 +64,7 @@ public class CoursePanel extends JPanel {
         return courseListModel.contains(item);
     }
 
+    // Prints the current added courses to the console. (More for testing purposes...)
     public void printCourses() {
         System.out.println("==============================");
         for (String item : courseList) {
@@ -243,6 +244,7 @@ public class CoursePanel extends JPanel {
         searchSuggestion.setText(fieldStr);
     }
 
+    // EFFECT: Creates a list of departments or courses depending on the search term input.
     private List<String> createOverviewList() {
         if (searchTerm.contains(" ")) {
             int i = searchTerm.indexOf(" ");
@@ -261,6 +263,7 @@ public class CoursePanel extends JPanel {
         List<String> potentialSelections = new ArrayList<>();
 
         JPanel master = new JPanel();
+        master.setBorder(BorderFactory.createTitledBorder("OR Select Course(s) From a Department"));
         master.setLayout(new BoxLayout(master, BoxLayout.Y_AXIS));
 
         DefaultListModel model = new DefaultListModel();
@@ -279,7 +282,7 @@ public class CoursePanel extends JPanel {
     //   EFFECT: Create and returns a panel to select department from a drop down menu.
     private JPanel deptComboBox(DefaultListModel model) {
         JPanel panel = new JPanel();
-        panel.setBorder(BorderFactory.createTitledBorder("OR Select Course(s) From a Department"));
+
 
         panel.add(new JLabel("Select a Department"));
 
@@ -312,10 +315,11 @@ public class CoursePanel extends JPanel {
     }
 
     // ================================================================================================================
-    // EFFECT: Displays all added courses.
+    // MODIFIES: this
+    //   EFFECT: Displays all added courses.
     private JPanel coursesSoFarPanel() {
         JPanel panel = new JPanel();
-        panel.add(new JLabel("Your Courses"));
+        panel.setBorder(BorderFactory.createTitledBorder("Your Courses"));
         panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
 
         courseListModel = new DefaultListModel();
@@ -336,6 +340,8 @@ public class CoursePanel extends JPanel {
         return panel;
     }
 
+    // MODIFIES: this
+    //   EFFECT: Remove selected courses.
     private JButton removeButton(JList courses) {
         JButton removeBtn = new JButton("Remove");
         removeBtn.addActionListener(e -> {
@@ -357,9 +363,14 @@ public class CoursePanel extends JPanel {
         return removeBtn;
     }
 
-
-    // ==========================================
-    private JButton nextButton() {
+    // ================================================================================================================
+    // MODIFIES: SchedulerApp
+    //   EFFECT: Create and return a panel with a title and the button to go to the next stage.
+    //           Shows warning to user if time preferences are not added, or if courses cannot be found.
+    private JPanel nextButton() {
+        JPanel panel = new JPanel();
+        panel.setBorder(BorderFactory.createTitledBorder("Create Your Timetable"));
+        panel.setPreferredSize(new Dimension(170, 50));
         JButton nextBtn = new JButton("Next");
         nextBtn.setActionCommand("Next");
 
@@ -379,7 +390,8 @@ public class CoursePanel extends JPanel {
             }
 
         });
+        panel.add(nextBtn);
 
-        return nextBtn;
+        return panel;
     }
 }

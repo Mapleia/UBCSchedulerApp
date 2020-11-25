@@ -14,6 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
 
+// GUI app of the schedule maker.
 public class SchedulerApp extends JFrame {
     public static final int WIDTH = 900;
     public static final int HEIGHT = 700;
@@ -23,6 +24,7 @@ public class SchedulerApp extends JFrame {
 
     private JPanel panel;
 
+    // constructor
     public SchedulerApp() {
         super("UBC Schedule Maker");
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
@@ -35,6 +37,7 @@ public class SchedulerApp extends JFrame {
         setVisible(true);
     }
 
+    // EFFECT: Set up a user object from file.
     public void setUser(File file) {
         JsonReader reader = new JsonReader(file.getAbsolutePath());
         try {
@@ -46,6 +49,7 @@ public class SchedulerApp extends JFrame {
         }
     }
 
+    // EFFECT: Change the panel and the contents to the next panel.
     public void nextPanel(JPanel panel) {
         this.panel = panel;
         Container contain = getContentPane();
@@ -55,6 +59,7 @@ public class SchedulerApp extends JFrame {
         contain.repaint();
     }
 
+    // EFFECT: Set the time preference of the user.
     public void setTimePref(List<String> arr) {
         user.setPreferences(arr);
         for (String item: arr) {
@@ -62,8 +67,12 @@ public class SchedulerApp extends JFrame {
         }
     }
 
+    public User getUser() {
+        return user;
+    }
+
     public Set<String> getUserCourses() {
-        return user.getCourseList();
+        return user.getCourseNames();
     }
 
     public void setYear(String year) {
@@ -74,13 +83,12 @@ public class SchedulerApp extends JFrame {
         user.addCourses(courseList);
     }
 
+    // EFFECT: Creates a timetable and returns it.
     public HashMap<String, ArrayList<Section>> getTimeTable() {
         user.clearTimetable();
         user.createTimeTable();
         return user.getFinalTimeTable();
     }
 
-    public User getUser() {
-        return user;
-    }
+
 }

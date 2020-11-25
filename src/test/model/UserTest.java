@@ -71,13 +71,13 @@ public class UserTest {
             fail();
         }
 
-        assertEquals("BIOL 112 102",
+        assertEquals("CPSC 210 102",
                 user.getFinalTimeTable().get("1").get(0).getSection());
-        assertEquals("BIOL 112 T04",
+        assertEquals("CPSC 210 L1A",
                 user.getFinalTimeTable().get("1").get(1).getSection());
-        assertEquals("CPSC 210 202",
+        assertEquals("BIOL 112 202",
                 user.getFinalTimeTable().get("2").get(0).getSection());
-        assertEquals("CPSC 210 L2B",
+        assertEquals("BIOL 112 T51",
                 user.getFinalTimeTable().get("2").get(1).getSection());
     }
 

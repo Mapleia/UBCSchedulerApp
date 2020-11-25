@@ -23,13 +23,6 @@ public class SearchBarListener implements DocumentListener {
         }
     }
 
-    private void setValue(DocumentEvent e) throws BadLocationException {
-        int length = e.getDocument().getLength();
-        value = e.getDocument().getText(0, length);
-        panel.setSearchValue(value);
-        panel.updateSearchSuggestionPanel();
-    }
-
     @Override
     public void removeUpdate(DocumentEvent e) {
         try {
@@ -43,5 +36,12 @@ public class SearchBarListener implements DocumentListener {
 
     @Override
     public void changedUpdate(DocumentEvent e) {
+    }
+
+    private void setValue(DocumentEvent e) throws BadLocationException {
+        int length = e.getDocument().getLength();
+        value = e.getDocument().getText(0, length);
+        panel.setSearchValue(value);
+        panel.updateSearchSuggestionPanel();
     }
 }

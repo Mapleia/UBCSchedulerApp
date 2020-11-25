@@ -9,10 +9,12 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+// Panel that shows the user their created timetable.
 public class SchedulePanel extends JPanel {
     private final SchedulerApp app;
     private HashMap<String, ArrayList<Section>> timetable;
 
+    // constructor
     public SchedulePanel(SchedulerApp app) {
         this.app = app;
 
@@ -20,17 +22,18 @@ public class SchedulePanel extends JPanel {
         init();
     }
 
+    // initializer, populates the panel
     private void init() {
         timetable = app.getTimeTable();
-
         add(termPanel("1"));
         add(termPanel("2"));
         add(termPanel("1-2"));
-        add(saveButton());
+        add(saveFile());
 
     }
 
     // REQUIRES: term == "1", "2" or "1-2"
+    // EFFECT: prints courses of the given term to the given JTextArea.
     private void printTerm(JTextArea result, String term) {
         if (timetable.get(term) == null) {
             result.append("None in Term " + term + ".\n");
@@ -47,6 +50,8 @@ public class SchedulePanel extends JPanel {
         }
     }
 
+    // REQUIRES: term == "1", "2" or "1-2"
+    //   EFFECT: Creates and returns a panel for each term.
     private JPanel termPanel(String term) {
         JPanel panel = new JPanel();
         JTextArea result = new JTextArea();
@@ -56,12 +61,13 @@ public class SchedulePanel extends JPanel {
         printTerm(result, term);
 
         panel.add(new JLabel("TERM" + term + ": "));
-        panel.add(result);
+        panel.add(new JScrollPane(result));
 
         return panel;
     }
 
-    private JPanel saveButton() {
+    // EFFECT: Creates and returns a panel with the file naming input field for saving a file.
+    private JPanel saveFile() {
         JPanel panel = new JPanel();
         panel.add(new JLabel("Enter your save file name: "));
 
@@ -73,7 +79,8 @@ public class SchedulePanel extends JPanel {
                 writer.open();
                 writer.write(app.getUser());
                 writer.close();
-
+                JOptionPane.showMessageDialog(null,
+                        e.getActionCommand() + " was saved successfully.");
             } catch (FileNotFoundException ex) {
                 JOptionPane.showMessageDialog(null,"An error was found writing your file.");
             }

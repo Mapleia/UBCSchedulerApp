@@ -13,8 +13,8 @@ import java.util.*;
 // Represents a user of the program, makes their timetable and stores information about them.
 public class User implements Writable {
     private String termYear;
-    private Set<String> courseList;
-    private List<Course> courseSet;
+    private Set<String> courseNames;
+    private Set<Course> courseSet;
     private HashMap<String, ArrayList<Section>> finalTimeTable;
     private List<String> errorLog; //strings of missed sections
     private List<String> preferencesArr;
@@ -30,8 +30,8 @@ public class User implements Writable {
 
     // initializes all of the fields.
     private void init() {
-        courseList = new HashSet<>();
-        courseSet = new ArrayList<>();
+        courseNames = new HashSet<>();
+        courseSet = new HashSet<>();
         errorLog = new ArrayList<>();
         finalTimeTable = new HashMap<>();
 
@@ -49,8 +49,8 @@ public class User implements Writable {
         return finalTimeTable;
     }
 
-    public Set<String> getCourseList() {
-        return courseList;
+    public Set<String> getCourseNames() {
+        return courseNames;
     }
 
     public List<String> getErrorLog() {
@@ -203,7 +203,7 @@ public class User implements Writable {
     public JSONObject toJson() throws JSONException {
         JSONObject json = new JSONObject();
 
-        json.put("Course List", new JSONArray(courseList));
+        json.put("Course List", new JSONArray(courseNames));
         json.put("Preferences", new JSONArray(preferencesArr));
         json.put("Term", termYear);
 
@@ -247,10 +247,11 @@ public class User implements Writable {
     // EFFECTS: Loops through courseList and adds courses.
     // throws NoCourseFound if it encounters an not successful addition of course during the loop.
     public void addCourses(Set<String> courses) throws NoCourseFound {
-        courseList.addAll(courses);
+
+        courseNames.addAll(courses);
         NoCourseFound error = new NoCourseFound();
 
-        for (String course : courseList) {
+        for (String course : courseNames) {
             boolean isSuccessful = addCourse(course);
 
             if (!isSuccessful) {
@@ -274,7 +275,6 @@ public class User implements Writable {
         try {
             JsonReader jsonReader = new JsonReader(path);
             Course course = jsonReader.readCourse(termYear, preferencesArr);
-            courseList.add(input);
             courseSet.add(course);
             return true;
         } catch (Exception e) {
@@ -303,9 +303,9 @@ public class User implements Writable {
     }
 
     private boolean removeCourse(String course) {
-        if (courseList.contains(course)) {
-            courseList.remove(course);
-            courseSet.removeIf(c -> c.getCourseName().equals(course));
+        if (courseNames.contains(course)) {
+            courseNames.remove(course);
+            courseSet.removeIf(course1 -> course1.getCourseName().equals(course));
             return true;
         } else {
             return false;
@@ -315,4 +315,7 @@ public class User implements Writable {
     public void setYear(String year) {
         termYear = year;
     }
+
+
+
 }
