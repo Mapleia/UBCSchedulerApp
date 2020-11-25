@@ -68,7 +68,7 @@ public class CoursePanel extends JPanel {
     public void printCourses() {
         System.out.println("==============================");
         for (String item : courseList) {
-            System.out.println(item);;
+            System.out.println(item);
         }
     }
 
