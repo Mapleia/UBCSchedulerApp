@@ -12,12 +12,12 @@ import java.io.IOException;
 
 public class DragAndDrop extends TransferHandler {
     private final JList<String> list;
-    private final DefaultListModel model;
+    private final DefaultListModel<String> model;
     private int index;
     private boolean beforeIndex = false;
     //Start with `false` therefore if it is removed from or added to the list it still works
 
-    public DragAndDrop(JList list, DefaultListModel model) {
+    public DragAndDrop(JList<String> list, DefaultListModel<String> model) {
         super();
         this.list = list;
         this.model = model;
@@ -56,7 +56,7 @@ public class DragAndDrop extends TransferHandler {
             String s = (String) support.getTransferable().getTransferData(DataFlavor.stringFlavor);
             JList.DropLocation dl = (JList.DropLocation) support.getDropLocation();
             model.add(dl.getIndex(), s);
-            beforeIndex = dl.getIndex() < index ? true : false;
+            beforeIndex = dl.getIndex() < index;
             return true;
         } catch (UnsupportedFlavorException | IOException e) {
             e.printStackTrace();

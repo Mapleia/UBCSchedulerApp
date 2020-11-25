@@ -15,16 +15,16 @@ import java.util.stream.Collectors;
 
 // Represents a Section of a course.
 public class Section implements Writable {
-    private String status;
-    private String section;
-    private String course;
-    private String activity;
-    private String term;
-    private List<String> days;
-    private LocalTime start;
-    private LocalTime end;
+    private final String status;
+    private final String section;
+    private final String course;
+    private final String activity;
+    private final String term;
+    private final List<String> days;
+    private final LocalTime start;
+    private final LocalTime end;
 
-    private String termYear;
+    private final String termYear;
     private List<Integer> daysInt;
     private List<LocalDate> firstWeekList;
 

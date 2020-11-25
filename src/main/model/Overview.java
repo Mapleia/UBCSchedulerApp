@@ -6,8 +6,8 @@ import java.util.HashMap;
 // Reads overview file for each year.
 public class Overview {
 
-    private ArrayList<String> depArr;
-    private HashMap<String, ArrayList<String>> courseMap;
+    private final ArrayList<String> depArr;
+    private final HashMap<String, ArrayList<String>> courseMap;
 
     // constructor
     public Overview(ArrayList<String> depArr, HashMap<String, ArrayList<String>> courseMap) {

@@ -32,8 +32,8 @@ public class SchedulePanel extends JPanel {
         panel.add(termPanel("2"));
         panel.add(termPanel("1-2"));
         add(saveFile());
-        add(errorLogPanel());
         add(panel);
+        add(errorLogPanel());
         add(app.backButton(new CoursePanel(app)));
         validate();
 
@@ -105,13 +105,18 @@ public class SchedulePanel extends JPanel {
     private JPanel errorLogPanel() {
         JPanel panel = new JPanel();
         panel.setBorder(BorderFactory.createTitledBorder(BorderFactory.createEtchedBorder(), "Error Log"));
-        JTextArea log = new JTextArea();
 
-        for (String item : app.getUser().getErrorLog()) {
-            log.append(item + "\n");
+        if (!app.getUser().getErrorLog().isEmpty()) {
+            JTextArea log = new JTextArea();
+            log.setBorder(BorderFactory.createEtchedBorder());
+
+            for (String item : app.getUser().getErrorLog()) {
+                log.append(item + "\n");
+            }
+
+            panel.add(log);
         }
 
-        panel.add(log);
         return panel;
     }
 }

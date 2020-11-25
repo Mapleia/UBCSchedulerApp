@@ -22,7 +22,7 @@ import org.json.*;
 // The demo is an app that works with a "workroom" and "thingy"/"thingies".
 // All methods have references to the JsonReader, but it was been reworked to work with Users and Courses.
 public class JsonReader {
-    private String source;
+    private final String source;
 
     // EFFECTS: constructs reader to read from source file
     // source requires: full path

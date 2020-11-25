@@ -32,8 +32,8 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Initializes course choosing panel.
     private void init() {
-        courseListModel = new DefaultListModel();
-        timePrefModel = new DefaultListModel();
+        courseListModel = new DefaultListModel<>();
+        timePrefModel = new DefaultListModel<>();
         if (app.getUser().getTimePref() != null) {
             for (String item : app.getUser().getTimePref()) {
                 timePrefModel.addElement(item);
@@ -136,7 +136,7 @@ public class CoursePanel extends JPanel {
         timePanel.setBorder(BorderFactory.createTitledBorder("Time Preference"));
 
         String instructions = "Please click and drag to order your time preference.";
-        JList orderTimePref = new JList(timePrefModel);
+        JList<String> orderTimePref = new JList<>(timePrefModel);
         orderTimePref.setDragEnabled(true);
         orderTimePref.setDropMode(DropMode.INSERT);
         orderTimePref.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
@@ -202,14 +202,14 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Updates and populates supplied JTextArea with courses or department, depending on the searched course.
     public void updateSearchSuggestionPanel() {
-        String fieldStr = "";
+        StringBuilder fieldStr = new StringBuilder();
         deptArr = createOverviewList();
         if (deptArr != null) {
             for (String dept : deptArr) {
-                fieldStr += (dept + "\n");
+                fieldStr.append(dept).append("\n");
             }
         }
-        searchSuggestion.setText(fieldStr);
+        searchSuggestion.setText(fieldStr.toString());
     }
 
     // EFFECT: Creates a list of departments or courses depending on the search term input.
@@ -234,9 +234,9 @@ public class CoursePanel extends JPanel {
         master.setBorder(BorderFactory.createTitledBorder("OR Select Course(s) From a Department"));
         master.setLayout(new BoxLayout(master, BoxLayout.Y_AXIS));
 
-        DefaultListModel model = new DefaultListModel();
+        DefaultListModel<String> model = new DefaultListModel<>();
 
-        JList courses = new JList(model);
+        JList<String> courses = new JList<>(model);
         courses.setVisibleRowCount(18);
         courses.addListSelectionListener(e -> potentialSelections.addAll(courses.getSelectedValuesList()));
 
@@ -248,15 +248,17 @@ public class CoursePanel extends JPanel {
     }
 
     //   EFFECT: Create and returns a panel to select department from a drop down menu by adding to the list model.
-    private JPanel deptComboBox(DefaultListModel model) {
+    private JPanel deptComboBox(DefaultListModel<String> model) {
         JPanel panel = new JPanel();
         panel.add(new JLabel("Select a Department"));
 
-        JComboBox deptDrownDown = new JComboBox(overview.getDepArr().toArray());
+        JComboBox<String> deptDrownDown = new JComboBox<>(overview.getDepArr().toArray(new String[0]));
         deptDrownDown.addActionListener(e -> {
             model.removeAllElements();
-            for (String item :  overview.getCourses(deptDrownDown.getSelectedItem().toString())) {
-                model.addElement(item);
+            if (deptDrownDown.getSelectedItem() != null) {
+                for (String item : overview.getCourses(deptDrownDown.getSelectedItem().toString())) {
+                    model.addElement(item);
+                }
             }
         });
 
@@ -293,7 +295,7 @@ public class CoursePanel extends JPanel {
             courseListModel.addElement(userItem);
         }
 
-        JList courses = new JList(courseListModel);
+        JList<String> courses = new JList<>(courseListModel);
         courses.setVisibleRowCount(18);
         panel.add(new JScrollPane(courses));
 
@@ -304,7 +306,7 @@ public class CoursePanel extends JPanel {
 
     // MODIFIES: this
     //   EFFECT: Remove selected courses.
-    private JButton removeButton(JList courses) {
+    private JButton removeButton(JList<String> courses) {
         JButton removeBtn = new JButton("Remove");
         removeBtn.addActionListener(e -> {
             List<String> thingsToRemove = courses.getSelectedValuesList();
