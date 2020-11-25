@@ -1,1 +1,102 @@
-{"course_name":"EOSC 442","subject_code":"EOSC","course_number":"442","course_title":"Climate Measurement and Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=442&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"EOSC 442 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"","subject_code":"EOSC","course_number":"442","section_number":"101","building":" ","room":"","instructors":["LIPSEN, MICHAEL","JARNIKOVA, TEREZA(Lead)","LUSKOW, FLORIAN(Lead)"],"totalRemaining":"13","currentlyRegistered":"27","generalRemaining":"13","restrictedRemaining":"0"},"201":{"status":" ","section":"EOSC 442 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=201&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"","subject_code":"EOSC","course_number":"442","section_number":"201","building":"Earth and Ocean Sciences","room":"210","instructors":["LIPSEN, MICHAEL","JARNIKOVA, TEREZA(Lead)","LUSKOW, FLORIAN(Lead)"],"totalRemaining":"11","currentlyRegistered":"29","generalRemaining":"11","restrictedRemaining":"0"},"WL2":{"status":" ","section":"EOSC 442 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"442","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Local climate time series collection and analysis. Retrieval and analysis of online climate data and model output."}
+{
+  "course_name": "EOSC 442",
+  "subject_code": "EOSC",
+  "course_number": "442",
+  "course_title": "Climate Measurement and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=442&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 442 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "442",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIPSEN, MICHAEL",
+        "JARNIKOVA, TEREZA(Lead)",
+        "LUSKOW, FLORIAN(Lead)"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "27",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 442 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=201&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "442",
+      "section_number": "201",
+      "building": "Earth and Ocean Sciences",
+      "room": "210",
+      "instructors": [
+        "LIPSEN, MICHAEL",
+        "JARNIKOVA, TEREZA(Lead)",
+        "LUSKOW, FLORIAN(Lead)"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "30",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 442 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=442&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "442",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Local climate time series collection and analysis. Retrieval and analysis of online climate data and model output.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

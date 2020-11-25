@@ -1,1 +1,43 @@
-{"course_name":"EDST 521","subject_code":"EDST","course_number":"521","course_title":"Foundations of Higher Education","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=521&sessyr=2020&sesscd=W","sections":{"021":{"status":" ","section":"EDST 521 021","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=521&section=021&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"16:30","end":"19:30","comments":"","subject_code":"EDST","course_number":"521","section_number":"021","building":"Ponderosa Commons North - Oak/Cedar House","room":"1008","instructors":["METCALFE, AMY"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 521",
+  "subject_code": "EDST",
+  "course_number": "521",
+  "course_title": "Foundations of Higher Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=521&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EDST 521 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=521&section=021&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "521",
+      "section_number": "021",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "METCALFE, AMY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

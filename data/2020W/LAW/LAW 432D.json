@@ -1,1 +1,43 @@
-{"course_name":"LAW 432D","subject_code":"LAW","course_number":"432D","course_title":"Topics in Private Law - TPCS PRIVATE LAW","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=432D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 432D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=432D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"17:30","end":"20:30","comments":"","subject_code":"LAW","course_number":"432D","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 432D",
+  "subject_code": "LAW",
+  "course_number": "432D",
+  "course_title": "Topics in Private Law - TPCS PRIVATE LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=432D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 432D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=432D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "432D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

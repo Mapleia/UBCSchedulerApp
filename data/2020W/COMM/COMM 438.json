@@ -1,1 +1,153 @@
-{"course_name":"COMM 438","subject_code":"COMM","course_number":"438","course_title":"Management of Information Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=438&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 438 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"COMM","course_number":"438","section_number":"101","building":" ","room":"","instructors":["HANNA, BLAKE"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":" ","section":"COMM 438 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMM","course_number":"438","section_number":"102","building":" ","room":"","instructors":["HANNA, BLAKE"],"totalRemaining":"9","currentlyRegistered":"34","generalRemaining":"2","restrictedRemaining":"7"},"201":{"status":"Restricted","section":"COMM 438 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"438","section_number":"201","building":"Henry Angus","room":"350","instructors":["AZIZ, ARSLAN"],"totalRemaining":"1","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"1"},"202":{"status":"Full","section":"COMM 438 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"COMM","course_number":"438","section_number":"202","building":"Henry Angus","room":"350","instructors":["AZIZ, ARSLAN"],"totalRemaining":"0","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Restricted","section":"COMM 438 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"","subject_code":"COMM","course_number":"438","section_number":"203","building":"Henry Angus","room":"235","instructors":["AZIZ, ARSLAN"],"totalRemaining":"1","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"Managerial issues in the administration of computerized information systems."}
+{
+  "course_name": "COMM 438",
+  "subject_code": "COMM",
+  "course_number": "438",
+  "course_title": "Management of Information Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=438&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 438 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "438",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANNA, BLAKE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 438 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "438",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANNA, BLAKE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "34",
+      "generalRemaining": "2",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 438 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "438",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AZIZ, ARSLAN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "1",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 438 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "438",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AZIZ, ARSLAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "39",
+      "generalRemaining": "2",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 438 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=438&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "20:30",
+      "end": "22:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "438",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AZIZ, ARSLAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Managerial issues in the administration of computerized information systems.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

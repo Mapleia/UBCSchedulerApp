@@ -1,1 +1,43 @@
-{"course_name":"POLI 549A","subject_code":"POLI","course_number":"549A","course_title":"Master's Thesis - MASTERS THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"POLI 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"POLI","course_number":"549A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"6","generalRemaining":"24","restrictedRemaining":"0"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "POLI 549A",
+  "subject_code": "POLI",
+  "course_number": "549A",
+  "course_title": "Master's Thesis - MASTERS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "POLI 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "6",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

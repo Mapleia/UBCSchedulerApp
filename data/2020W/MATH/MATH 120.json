@@ -1,1 +1,74 @@
-{"course_name":"MATH 120","subject_code":"MATH","course_number":"120","course_title":"Honours Differential Calculus","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=120&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MATH 120 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=120&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Tue Wed Fri","start":"10:00","end":"11:00","comments":"This is an Honours course.  Prerequisite:  High school calculus and at least 95% in PREC 12 or PREC 12 with a letter of invitation from the Math Department based on performance in the COMC Exam; or permission from the Undergraduate Chair. If you satisfy the prerequisite but are unable to register yourself into the course, please email the Undergraduate Chair, at ugradchair@math.ubc.ca, to register, quoting your UBC student number.","subject_code":"MATH","course_number":"120","section_number":"101","building":" ","room":"","instructors":["MARTIN, GREGORY","MARTIN, GREGORY(Coordinator)"],"totalRemaining":"15","currentlyRegistered":"58","generalRemaining":"15","restrictedRemaining":"0"},"9AR":{"status":"Blocked","section":"MATH 120 9AR","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=120&section=9AR&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MATH","course_number":"120","section_number":"9AR","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "MATH 120",
+  "subject_code": "MATH",
+  "course_number": "120",
+  "course_title": "Honours Differential Calculus",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=120&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 120 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=120&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is an Honours course.  Prerequisite:  High school calculus and at least 95% in PREC 12 or PREC 12 with a letter of invitation from the Math Department based on performance in the COMC Exam; or permission from the Undergraduate Chair. If you satisfy the prerequisite but are unable to register yourself into the course, please email the Undergraduate Chair, at ugradchair@math.ubc.ca, to register, quoting your UBC student number.",
+      "subject_code": "MATH",
+      "course_number": "120",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARTIN, GREGORY",
+        "MARTIN, GREGORY(Coordinator)"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "55",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 120 9AR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=120&section=9AR&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "120",
+      "section_number": "9AR",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

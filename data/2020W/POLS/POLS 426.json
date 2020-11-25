@@ -1,1 +1,44 @@
-{"course_name":"POLS 426","subject_code":"POLS","course_number":"426","course_title":"The German Nazi Holocaust in Polish Literature and Film (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLS&course=426&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLS 426 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLS&course=426&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"POLS","course_number":"426","section_number":"001","building":" ","room":"","instructors":["SWITZER, ANNA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The German Nazi Holocaust in Polish Literature and film."}
+{
+  "course_name": "POLS 426",
+  "subject_code": "POLS",
+  "course_number": "426",
+  "course_title": "The German Nazi Holocaust in Polish Literature and Film (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLS&course=426&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLS 426 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLS&course=426&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "POLS",
+      "course_number": "426",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SWITZER, ANNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The German Nazi Holocaust in Polish Literature and film.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

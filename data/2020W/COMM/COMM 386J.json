@@ -1,1 +1,72 @@
-{"course_name":"COMM 386J","subject_code":"COMM","course_number":"386J","course_title":"Topics in Business III - RESP BUS STRATGY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386J&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"COMM 386J 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386J&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"Full course title: Strategies for Responsible Business  |  Learn more at mybcom.sauder.ubc.ca/comm386j","subject_code":"COMM","course_number":"386J","section_number":"101","building":" ","room":"","instructors":["BULL, JUSTIN"],"totalRemaining":"10","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"10"},"201":{"status":"Restricted","section":"COMM 386J 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386J&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Full course title: Strategies for Responsible Business  |  Learn more at mybcom.sauder.ubc.ca/comm386j","subject_code":"COMM","course_number":"386J","section_number":"201","building":"David Lam Management Research Centre","room":"005","instructors":["BULL, JUSTIN"],"totalRemaining":"7","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"7"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 386J",
+  "subject_code": "COMM",
+  "course_number": "386J",
+  "course_title": "Topics in Business III - RESP BUS STRATGY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 386J 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386J&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Full course title: Strategies for Responsible Business  |  Learn more at mybcom.sauder.ubc.ca/comm386j",
+      "subject_code": "COMM",
+      "course_number": "386J",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULL, JUSTIN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 386J 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386J&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Full course title: Strategies for Responsible Business  |  Learn more at mybcom.sauder.ubc.ca/comm386j",
+      "subject_code": "COMM",
+      "course_number": "386J",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULL, JUSTIN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

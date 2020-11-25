@@ -1,1 +1,43 @@
-{"course_name":"PSYC 388E","subject_code":"PSYC","course_number":"388E","course_title":"Directed Studies in Behavioural Neuroscience - DIR STDY BEHV NS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=388E&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PSYC 388E 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=388E&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Min. GPA requirement of 72% on most recent 30 credits.Students must see PSYC Undergrad. Advisor for manual registration.","subject_code":"PSYC","course_number":"388E","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings."}
+{
+  "course_name": "PSYC 388E",
+  "subject_code": "PSYC",
+  "course_number": "388E",
+  "course_title": "Directed Studies in Behavioural Neuroscience - DIR STDY BEHV NS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=388E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 388E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=388E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Min. GPA requirement of 72% on most recent 30 credits.Students must see PSYC Undergrad. Advisor for manual registration.",
+      "subject_code": "PSYC",
+      "course_number": "388E",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

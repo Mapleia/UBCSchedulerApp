@@ -1,1 +1,151 @@
-{"course_name":"CPSC 436V","subject_code":"CPSC","course_number":"436V","course_title":"Topics in Computer Science - INFO VISUALIZATN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=436V&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 436V 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Introduction to Data Visualization.The prerequisites for this course are: CPSC 310 or CPEN 321","subject_code":"CPSC","course_number":"436V","section_number":"201","building":"Hugh Dempster Pavilion","room":"301","instructors":["MUNZNER, TAMARA"],"totalRemaining":"0","currentlyRegistered":"79","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":" ","section":"CPSC 436V L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"9:00","end":"10:00","comments":"","subject_code":"CPSC","course_number":"436V","section_number":"L2A","building":"Institute for Computing (ICICS/CS)","room":"015","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"25","generalRemaining":"2","restrictedRemaining":"0"},"L2B":{"status":"Full","section":"CPSC 436V L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"CPSC","course_number":"436V","section_number":"L2B","building":"Institute for Computing (ICICS/CS)","room":"015","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":" ","section":"CPSC 436V L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"16:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"436V","section_number":"L2C","building":"Institute for Computing (ICICS/CS)","room":"015","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"20","generalRemaining":"7","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 436V 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"CPSC","course_number":"436V","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"957","currentlyRegistered":"42","generalRemaining":"957","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in a specific area within Computer Science. May be taken more than once for credit with permission of the department."}
+{
+  "course_name": "CPSC 436V",
+  "subject_code": "CPSC",
+  "course_number": "436V",
+  "course_title": "Topics in Computer Science - INFO VISUALIZATN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=436V&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 436V 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Introduction to Data Visualization.The prerequisites for this course are: CPSC 310 or CPEN 321",
+      "subject_code": "CPSC",
+      "course_number": "436V",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MUNZNER, TAMARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "81",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 436V L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "436V",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "26",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 436V L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "436V",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 436V L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "436V",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "19",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 436V 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=436V&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "436V",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "954",
+      "currentlyRegistered": "45",
+      "generalRemaining": "954",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in a specific area within Computer Science. May be taken more than once for credit with permission of the department.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

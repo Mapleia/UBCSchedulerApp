@@ -1,1 +1,43 @@
-{"course_name":"EPSE 546","subject_code":"EPSE","course_number":"546","course_title":"Assistive Technology for Teachers of Students with Visual Impairments","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=546&sessyr=2020&sesscd=W","sections":{"075":{"status":"Restricted","section":"EPSE 546 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=546&section=075&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"SPED - Restricted to Blindness and Visual Impairment","subject_code":"EPSE","course_number":"546","section_number":"075","building":"No Scheduled Meeting","room":"","instructors":["WILTON, ADAM"],"totalRemaining":"8","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"8"}},"credits":"Credits: 3","description":"Credit will be granted for only one of EPSE 415 or EPSE 546."}
+{
+  "course_name": "EPSE 546",
+  "subject_code": "EPSE",
+  "course_number": "546",
+  "course_title": "Assistive Technology for Teachers of Students with Visual Impairments",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=546&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 546 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=546&section=075&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPED - Restricted to Blindness and Visual Impairment",
+      "subject_code": "EPSE",
+      "course_number": "546",
+      "section_number": "075",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "WILTON, ADAM"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will be granted for only one of EPSE 415 or EPSE 546.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

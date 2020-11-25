@@ -1,1 +1,43 @@
-{"course_name":"THTR 445","subject_code":"THTR","course_number":"445","course_title":"Majors and Honours Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=445&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 445 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=445&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"9:30","end":"12:30","comments":"THTR 445: Majors and Honours Seminar Theatre 445 is a 4th year research seminar for BA Majors, Honours, and Minor students in Theatre. Students who are majoring in a related degree program (e.g. BFA Acting, English with a focus on drama) can register with permission of the instructor.TOPIC - Archival Research: early popular entertainment in Vancouver.","subject_code":"THTR","course_number":"445","section_number":"001","building":" ","room":"","instructors":["LIU, SIYUAN"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "THTR 445",
+  "subject_code": "THTR",
+  "course_number": "445",
+  "course_title": "Majors and Honours Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 445 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=445&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "THTR 445: Majors and Honours Seminar Theatre 445 is a 4th year research seminar for BA Majors, Honours, and Minor students in Theatre. Students who are majoring in a related degree program (e.g. BFA Acting, English with a focus on drama) can register with permission of the instructor. Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections. TOPIC - Archival Research: early popular entertainment in Vancouver.",
+      "subject_code": "THTR",
+      "course_number": "445",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIU, SIYUAN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

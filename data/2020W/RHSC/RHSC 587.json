@@ -1,1 +1,78 @@
-{"course_name":"RHSC 587","subject_code":"RHSC","course_number":"587","course_title":"Major Project, Part I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=587&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"RHSC 587 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=587&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"MRSC Major Project Part I.Pre-reqs: Completion of the Major Project Seminar  and  permission from the project coordinator is required.Contact the program office - info@mrsc.ubc.ca - if you wish to register in this course","subject_code":"RHSC","course_number":"587","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["CAMP, PATRICIA","DURAN, LESLIE","HOLSTI, LIISA","HURTUBISE, KAREN","SAUVE, KAREN","ZWICKER, JILL"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"6","restrictedRemaining":"0"},"006":{"status":"Blocked","section":"RHSC 587 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=587&section=006&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"MRSC Major Project Part I.Pre-reqs: Completion of the Major Project Seminar  and  permission from the project coordinator is required.Contact the program office - info@mrsc.ubc.ca - if you wish to register in this course","subject_code":"RHSC","course_number":"587","section_number":"006","building":"No Scheduled Meeting","room":"","instructors":["CAMP, PATRICIA","DURAN, LESLIE","HOLSTI, LIISA","SAUVE, KAREN"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "RHSC 587",
+  "subject_code": "RHSC",
+  "course_number": "587",
+  "course_title": "Major Project, Part I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=587&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "RHSC 587 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=587&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MRSC Major Project Part I.Pre-reqs: Completion of the Major Project Seminar  and  permission from the project coordinator is required.Contact the program office - info@mrsc.ubc.ca - if you wish to register in this course",
+      "subject_code": "RHSC",
+      "course_number": "587",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CAMP, PATRICIA",
+        "DURAN, LESLIE",
+        "HOLSTI, LIISA",
+        "HURTUBISE, KAREN",
+        "SAUVE, KAREN",
+        "ZWICKER, JILL"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "RHSC 587 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=587&section=006&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MRSC Major Project Part I.Pre-reqs: Completion of the Major Project Seminar  and  permission from the project coordinator is required.Contact the program office - info@mrsc.ubc.ca - if you wish to register in this course",
+      "subject_code": "RHSC",
+      "course_number": "587",
+      "section_number": "006",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CAMP, PATRICIA",
+        "DURAN, LESLIE",
+        "HOLSTI, LIISA",
+        "SAUVE, KAREN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

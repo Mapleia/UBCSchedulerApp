@@ -1,1 +1,43 @@
-{"course_name":"PCTH 548C","subject_code":"PCTH","course_number":"548C","course_title":"Directed Studies in Pharmacology - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=548C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PCTH 548C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=548C&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" Sun","start":"16:30","end":"17:30","comments":"","subject_code":"PCTH","course_number":"548C","section_number":"001","building":"To Be Announced","room":"","instructors":["BHAGAVATULA, SASTRY"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"In special cases, with the approval of the department head, advanced courses may be arranged."}
+{
+  "course_name": "PCTH 548C",
+  "subject_code": "PCTH",
+  "course_number": "548C",
+  "course_title": "Directed Studies in Pharmacology - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=548C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 548C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=548C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SUN"
+      ],
+      "start": "16:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "PCTH",
+      "course_number": "548C",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "BHAGAVATULA, SASTRY"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "In special cases, with the approval of the department head, advanced courses may be arranged.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"PHYS 560","subject_code":"PHYS","course_number":"560","course_title":"Physics and Engineering of Particle Accelerators","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=560&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 560 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=560&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PHYS","course_number":"560","section_number":"201","building":"Hennings","room":"301","instructors":["KRUECKEN, REINER"],"totalRemaining":"18","currentlyRegistered":"2","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Injectors, radio frequency acceleration, superconducting acceleration elements, beam dynamics, and applications of electron accelerators."}
+{
+  "course_name": "PHYS 560",
+  "subject_code": "PHYS",
+  "course_number": "560",
+  "course_title": "Physics and Engineering of Particle Accelerators",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 560 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=560&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "560",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KRUECKEN, REINER"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Injectors, radio frequency acceleration, superconducting acceleration elements, beam dynamics, and applications of electron accelerators.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

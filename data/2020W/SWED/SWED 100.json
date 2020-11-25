@@ -1,1 +1,73 @@
-{"course_name":"SWED 100","subject_code":"SWED","course_number":"100","course_title":"Elementary Swedish I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SWED&course=100&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SWED 100 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SWED&course=100&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"SWED","course_number":"100","section_number":"001","building":" ","room":"","instructors":["KARLSTROM, LENA"],"totalRemaining":"9","currentlyRegistered":"21","generalRemaining":"9","restrictedRemaining":"0"},"002":{"status":" ","section":"SWED 100 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SWED&course=100&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"SWED","course_number":"100","section_number":"002","building":" ","room":"","instructors":["KARLSTROM, LENA"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Swedish courses (SWED 100 and SWED 110), but are welcome to join the intermediate courses (SWED 200 and SWED 210)."}
+{
+  "course_name": "SWED 100",
+  "subject_code": "SWED",
+  "course_number": "100",
+  "course_title": "Elementary Swedish I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SWED&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SWED 100 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SWED&course=100&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SWED",
+      "course_number": "100",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KARLSTROM, LENA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SWED 100 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SWED&course=100&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SWED",
+      "course_number": "100",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KARLSTROM, LENA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Swedish courses (SWED 100 and SWED 110), but are welcome to join the intermediate courses (SWED 200 and SWED 210).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

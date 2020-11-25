@@ -1,1 +1,72 @@
-{"course_name":"MTRL 455","subject_code":"MTRL","course_number":"455","course_title":"Economic Aspects of Materials Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=455&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 455 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=455&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"10:00","end":"11:00","comments":"","subject_code":"MTRL","course_number":"455","section_number":"101","building":" ","room":"","instructors":["DREISINGER, DAVID","BURNS, ALEXANDER(Coordinator)","WEST-SELLS, PAUL(Coordinator)"],"totalRemaining":"18","currentlyRegistered":"54","generalRemaining":"0","restrictedRemaining":"18"},"T1A":{"status":"Restricted","section":"MTRL 455 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=455&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:00","end":"11:00","comments":"","subject_code":"MTRL","course_number":"455","section_number":"T1A","building":" ","room":"","instructors":["DREISINGER, DAVID"],"totalRemaining":"18","currentlyRegistered":"54","generalRemaining":"0","restrictedRemaining":"18"}},"credits":"Credits: 3","description":"Time value of money, cash flows, capital and operating cost estimation, financial decision making and relevant case studies."}
+{
+  "course_name": "MTRL 455",
+  "subject_code": "MTRL",
+  "course_number": "455",
+  "course_title": "Economic Aspects of Materials Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 455 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=455&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "455",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DREISINGER, DAVID",
+        "BURNS, ALEXANDER(Coordinator)",
+        "WEST-SELLS, PAUL(Coordinator)"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 455 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=455&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "455",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DREISINGER, DAVID"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    }
+  ],
+  "credits": 3,
+  "description": "Time value of money, cash flows, capital and operating cost estimation, financial decision making and relevant case studies.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

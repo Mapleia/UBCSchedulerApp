@@ -1,1 +1,43 @@
-{"course_name":"SOCI 433B","subject_code":"SOCI","course_number":"433B","course_title":"Directed Studies - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=433B&sessyr=2020&sesscd=W","sections":{"301":{"status":"Blocked","section":"SOCI 433B 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=433B&section=301&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"SOCI","course_number":"433B","section_number":"301","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student."}
+{
+  "course_name": "SOCI 433B",
+  "subject_code": "SOCI",
+  "course_number": "433B",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=433B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOCI 433B 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=433B&section=301&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "433B",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

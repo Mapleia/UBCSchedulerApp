@@ -1,1 +1,44 @@
-{"course_name":"MUSC 436","subject_code":"MUSC","course_number":"436","course_title":"Opera Theatre Techniques II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=436&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 436 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=436&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Mon Wed","start":"13:00","end":"15:00","comments":"Restricted to BMUS.  All others should contact Prof. Nancy Hermiston for permission to register (nancy.hermiston@ubc.ca).","subject_code":"MUSC","course_number":"436","section_number":"001","building":"Auditorium","room":"100","instructors":["HERMISTON, NANCY JANE"],"totalRemaining":"40","currentlyRegistered":"10","generalRemaining":"29","restrictedRemaining":"11"}},"credits":"Credits: 4","description":"Advanced studies in acting, movement, gesture, dance and stage combat. Emphasis on communication and the art of singing and acting recitative in foreign languages."}
+{
+  "course_name": "MUSC 436",
+  "subject_code": "MUSC",
+  "course_number": "436",
+  "course_title": "Opera Theatre Techniques II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=436&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 436 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=436&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Restricted to BMUS.  All others should contact Prof. Nancy Hermiston for permission to register (nancy.hermiston@ubc.ca).",
+      "subject_code": "MUSC",
+      "course_number": "436",
+      "section_number": "001",
+      "building": "Auditorium",
+      "room": "100",
+      "instructors": [
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "10",
+      "generalRemaining": "29",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 4,
+  "description": "Advanced studies in acting, movement, gesture, dance and stage combat. Emphasis on communication and the art of singing and acting recitative in foreign languages.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

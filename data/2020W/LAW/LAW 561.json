@@ -1,1 +1,46 @@
-{"course_name":"LAW 561","subject_code":"LAW","course_number":"561","course_title":"Fundamental Concepts in Tax Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=561&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 561 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=561&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Wed Thu Fri","start":"9:30","end":"16:00","comments":"Course meets Aug 26-Sep 4.  Class does NOT meet on Aug 31.  Registration only for Tax LLM Program students.","subject_code":"LAW","course_number":"561","section_number":"001","building":" ","room":"","instructors":["DUFF, DAVID"],"totalRemaining":"1","currentlyRegistered":"7","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to key concepts in comparative and Canadian tax law."}
+{
+  "course_name": "LAW 561",
+  "subject_code": "LAW",
+  "course_number": "561",
+  "course_title": "Fundamental Concepts in Tax Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=561&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 561 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=561&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "16:00",
+      "comments": "Course meets Aug 26-Sep 4.  Class does NOT meet on Aug 31.  Registration only for Tax LLM Program students.",
+      "subject_code": "LAW",
+      "course_number": "561",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUFF, DAVID"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to key concepts in comparative and Canadian tax law.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"ITST 110","subject_code":"ITST","course_number":"110","course_title":"\"Made in Italy\"","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=110&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ITST 110 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=110&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Where do Italy's glamour, lifestyle, traditions come from? This course introduces Italy's multifaceted ways of being and the cultural creations of the peninsula in their context. Full description: https://fhis.ubc.ca/course-description/itst110/","subject_code":"ITST","course_number":"110","section_number":"201","building":" ","room":"","instructors":["DAGNINO, ARIANNA"],"totalRemaining":"5","currentlyRegistered":"35","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Where do Italy's glamour, lifestyle, traditions come from? This course introduces Italy's multifaceted ways of being and the cultural creations of the peninsula in their context."}
+{
+  "course_name": "ITST 110",
+  "subject_code": "ITST",
+  "course_number": "110",
+  "course_title": "\"Made in Italy\"",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ITST 110 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=110&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Where do Italy's glamour, lifestyle, traditions come from? This course introduces Italy's multifaceted ways of being and the cultural creations of the peninsula in their context. Full description: https://fhis.ubc.ca/course-description/itst110/",
+      "subject_code": "ITST",
+      "course_number": "110",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAGNINO, ARIANNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Where do Italy's glamour, lifestyle, traditions come from? This course introduces Italy's multifaceted ways of being and the cultural creations of the peninsula in their context.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

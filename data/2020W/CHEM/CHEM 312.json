@@ -1,1 +1,72 @@
-{"course_name":"CHEM 312","subject_code":"CHEM","course_number":"312","course_title":"Introduction to Quantum Mechanics and Spectroscopy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=312&sessyr=2020&sesscd=W","sections":{"199":{"status":" ","section":"CHEM 312 199","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=312&section=199&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHEM","course_number":"312","section_number":"199","building":" ","room":"","instructors":["WANG, YAN"],"totalRemaining":"45","currentlyRegistered":"55","generalRemaining":"45","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CHEM 312 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=312&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"CHEM","course_number":"312","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"0","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles of quantum mechanics; atomic wavefunctions; angular momentum; spin; atomic term symbols."}
+{
+  "course_name": "CHEM 312",
+  "subject_code": "CHEM",
+  "course_number": "312",
+  "course_title": "Introduction to Quantum Mechanics and Spectroscopy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=312&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 312 199",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=312&section=199&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "312",
+      "section_number": "199",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WANG, YAN"
+      ],
+      "totalRemaining": "46",
+      "currentlyRegistered": "54",
+      "generalRemaining": "46",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 312 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=312&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "312",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "0",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of quantum mechanics; atomic wavefunctions; angular momentum; spin; atomic term symbols.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

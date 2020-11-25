@@ -1,1 +1,43 @@
-{"course_name":"CRWR 359A","subject_code":"CRWR","course_number":"359A","course_title":"Intermediate Fiction Workshop - INTRMD FICTION","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=359A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CRWR 359A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=359A&section=001&sessyr=2020&sesscd=W","activity":"Workshop","term":"1","interval":"","days":" Thu","start":"12:00","end":"14:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, workshops will be synchronous and will be taking place via Zoom and are a mandatory component of fulfilling the expectations of the course.There will be short asynchronous weekly lectures and activity components on Canvas to enhance writer\u0019s craft studies and to earn participation marks.","subject_code":"CRWR","course_number":"359A","section_number":"001","building":" ","room":"","instructors":["TATER, MALLORY"],"totalRemaining":"15","currentlyRegistered":"15","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An intermediate level workshop class in writing of fiction. Manuscript submission is not required for admission."}
+{
+  "course_name": "CRWR 359A",
+  "subject_code": "CRWR",
+  "course_number": "359A",
+  "course_title": "Intermediate Fiction Workshop - INTRMD FICTION",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=359A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 359A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=359A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, workshops will be synchronous and will be taking place via Zoom and are a mandatory component of fulfilling the expectations of the course.There will be short asynchronous weekly lectures and activity components on Canvas to enhance writer\u0019s craft studies and to earn participation marks.",
+      "subject_code": "CRWR",
+      "course_number": "359A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATER, MALLORY"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An intermediate level workshop class in writing of fiction. Manuscript submission is not required for admission.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Workshop"
+  ]
+}

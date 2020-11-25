@@ -1,1 +1,43 @@
-{"course_name":"CRWR 511A","subject_code":"CRWR","course_number":"511A","course_title":"Advanced Writing for Lyric Forms I - ADV LYRIC FORM I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=511A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"CRWR 511A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=511A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"15:00","end":"17:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will consist of a blend of synchronous and asynchronous content, however any synchronous content will also be made available asynchronously for those unable to participate in real time.","subject_code":"CRWR","course_number":"511A","section_number":"001","building":" ","room":"","instructors":["HUSSAIN, TARIQ"],"totalRemaining":"0","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 511A",
+  "subject_code": "CRWR",
+  "course_number": "511A",
+  "course_title": "Advanced Writing for Lyric Forms I - ADV LYRIC FORM I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=511A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 511A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=511A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will consist of a blend of synchronous and asynchronous content, however any synchronous content will also be made available asynchronously for those unable to participate in real time.",
+      "subject_code": "CRWR",
+      "course_number": "511A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUSSAIN, TARIQ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"PATH 548K","subject_code":"PATH","course_number":"548K","course_title":"Directed Studies - HMST, THRM, HMPH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=548K&sessyr=2020&sesscd=W","sections":{"018":{"status":"Blocked","section":"PATH 548K 018","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=548K&section=018&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Path 548K: Hemostatis Biochemistry. Permission from Instructor required.  Class will be scheduled in accordance with student availability.","subject_code":"PATH","course_number":"548K","section_number":"018","building":" ","room":"","instructors":["PRYZDIAL, EDWARD"],"totalRemaining":"2","currentlyRegistered":"0","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PATH 548K",
+  "subject_code": "PATH",
+  "course_number": "548K",
+  "course_title": "Directed Studies - HMST, THRM, HMPH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=548K&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PATH 548K 018",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=548K&section=018&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:00",
+      "comments": "Path 548K: Hemostatis Biochemistry. Permission from Instructor required.  Class will be scheduled in accordance with student availability.",
+      "subject_code": "PATH",
+      "course_number": "548K",
+      "section_number": "018",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRYZDIAL, EDWARD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

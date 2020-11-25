@@ -1,1 +1,43 @@
-{"course_name":"DENT 724","subject_code":"DENT","course_number":"724","course_title":"Clinical Endodontics, Year 3","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=724&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 724 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=724&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"724","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"4","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic."}
+{
+  "course_name": "DENT 724",
+  "subject_code": "DENT",
+  "course_number": "724",
+  "course_title": "Clinical Endodontics, Year 3",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=724&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 724 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=724&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "724",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "4",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

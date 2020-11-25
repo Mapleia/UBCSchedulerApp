@@ -1,1 +1,187 @@
-{"course_name":"LATN 101","subject_code":"LATN","course_number":"101","course_title":"Beginning Latin I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LATN&course=101&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LATN 101 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"101","section_number":"001","building":" ","room":"","instructors":["HUEMOELLER, KATHARINE"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"LATN 101 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"19:00","end":"20:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"101","section_number":"002","building":" ","room":"","instructors":["MCELDUFF, SIOBHAN"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":" ","section":"LATN 101 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"101","section_number":"003","building":" ","room":"","instructors":["DWYER, JUSTIN"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"},"004":{"status":"Full","section":"LATN 101 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"101","section_number":"004","building":" ","room":"","instructors":["GORRIE, CHARMAINE"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"005":{"status":"Blocked","section":"LATN 101 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=005&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"If the course is full or blocked, please register in the waitlist. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"101","section_number":"005","building":"Neville Scarfe","room":"203","instructors":["GORRIE, CHARMAINE"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"WL5":{"status":" ","section":"LATN 101 WL5","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=WL5&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Wait List for LATN 101-005. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.","subject_code":"LATN","course_number":"101","section_number":"WL5","building":" ","room":"","instructors":["GORRIE, CHARMAINE"],"totalRemaining":"5","currentlyRegistered":"5","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classical Latin, Part I."}
+{
+  "course_name": "LATN 101",
+  "subject_code": "LATN",
+  "course_number": "101",
+  "course_title": "Beginning Latin I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LATN&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LATN 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUEMOELLER, KATHARINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 101 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCELDUFF, SIOBHAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 101 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DWYER, JUSTIN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 101 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORRIE, CHARMAINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LATN 101 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. If the course is full or blocked, please register in the waitlist. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORRIE, CHARMAINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 101 WL5",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=101&section=WL5&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Wait List for LATN 101-005. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "LATN",
+      "course_number": "101",
+      "section_number": "WL5",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GORRIE, CHARMAINE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classical Latin, Part I.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

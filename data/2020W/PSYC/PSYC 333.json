@@ -1,1 +1,73 @@
-{"course_name":"PSYC 333","subject_code":"PSYC","course_number":"333","course_title":"Memory: Historical, Clinical and Cognitive Perspectives","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=333&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 333 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=333&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"333","section_number":"001","building":" ","room":"","instructors":["PALOMBO, DANIELA"],"totalRemaining":"5","currentlyRegistered":"169","generalRemaining":"5","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 333 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=333&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"PSYC","course_number":"333","section_number":"002","building":" ","room":"","instructors":["BELARDETTI, FRANCESCO"],"totalRemaining":"30","currentlyRegistered":"110","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classical and contemporary metaphors for memory and their impact on theory development."}
+{
+  "course_name": "PSYC 333",
+  "subject_code": "PSYC",
+  "course_number": "333",
+  "course_title": "Memory: Historical, Clinical and Cognitive Perspectives",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 333 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=333&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "333",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PALOMBO, DANIELA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "167",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 333 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=333&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "333",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BELARDETTI, FRANCESCO"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "121",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classical and contemporary metaphors for memory and their impact on theory development.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

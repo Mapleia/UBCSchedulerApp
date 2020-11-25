@@ -1,1 +1,176 @@
-{"course_name":"HIST 105G","subject_code":"HIST","course_number":"105G","course_title":"Contemporary Global Issues in Historical Perspective - CONT GLBL ISSUES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=105G&sessyr=2020&sesscd=W","sections":{"V01":{"status":"STT","section":"HIST 105G V01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V01&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"13:00","end":"15:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V01","building":" ","room":"","instructors":["UNWALLA, PHEROZE","JOHN, HENRY RICHARD LAWRENCE","TABBAA, SANAD"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V2A":{"status":"STT","section":"HIST 105G V2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2A&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"15:00","end":"16:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V2A","building":"Orchard Commons","room":"4072","instructors":["UNWALLA, PHEROZE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V2B":{"status":"STT","section":"HIST 105G V2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2B&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"15:00","end":"16:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V2B","building":"Orchard Commons","room":"4058","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V2C":{"status":"STT","section":"HIST 105G V2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2C&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"15:00","end":"16:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V2C","building":"Orchard Commons","room":"3004","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V2D":{"status":"STT","section":"HIST 105G V2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2D&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"17:00","end":"18:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V2D","building":"Orchard Commons","room":"4072","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V2E":{"status":"STT","section":"HIST 105G V2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2E&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"17:00","end":"18:00","comments":"This section is reserved for Vantage College students only.","subject_code":"HIST","course_number":"105G","section_number":"V2E","building":"Orchard Commons","room":"4068","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings."}
+{
+  "course_name": "HIST 105G",
+  "subject_code": "HIST",
+  "course_number": "105G",
+  "course_title": "Contemporary Global Issues in Historical Perspective - CONT GLBL ISSUES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=105G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "HIST 105G V01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "UNWALLA, PHEROZE",
+        "JOHN, HENRY",
+        "TABBAA, SANAD"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 105G V2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "UNWALLA, PHEROZE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 105G V2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 105G V2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 105G V2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 105G V2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=105G&section=V2E&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "HIST",
+      "course_number": "105G",
+      "section_number": "V2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Places issues and problems of current relevance such as disease, terrorism, drugs, or ethnic conflict in historical perspective. Each section will explore a single theme. Check with department for course offerings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

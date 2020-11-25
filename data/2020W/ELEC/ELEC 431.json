@@ -1,1 +1,71 @@
-{"course_name":"ELEC 431","subject_code":"ELEC","course_number":"431","course_title":"Communication Systems I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=431&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ELEC 431 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=431&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ELEC","course_number":"431","section_number":"101","building":" ","room":"","instructors":["LEUNG, CYRIL"],"totalRemaining":"37","currentlyRegistered":"11","generalRemaining":"16","restrictedRemaining":"21"},"1W1":{"status":" ","section":"ELEC 431 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=431&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"431","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Review of probability theory, signals and noise; digital communication over Gaussian noise channels, optimal receiver design, modulation techniques and error performance calculations; measure of information, source coding, symbol and stream codes; channel coding, capacity, simple linear block codes; practical applications."}
+{
+  "course_name": "ELEC 431",
+  "subject_code": "ELEC",
+  "course_number": "431",
+  "course_title": "Communication Systems I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=431&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 431 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=431&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "431",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, CYRIL"
+      ],
+      "totalRemaining": "37",
+      "currentlyRegistered": "11",
+      "generalRemaining": "16",
+      "restrictedRemaining": "21"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 431 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=431&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "431",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Review of probability theory, signals and noise; digital communication over Gaussian noise channels, optimal receiver design, modulation techniques and error performance calculations; measure of information, source coding, symbol and stream codes; channel coding, capacity, simple linear block codes; practical applications.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

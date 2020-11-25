@@ -1,1 +1,41 @@
-{"course_name":"APBI 419","subject_code":"APBI","course_number":"419","course_title":"Fish Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=419&sessyr=2020&sesscd=W","sections":{"99C":{"status":" ","section":"APBI 419 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=419&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.Login to the course through canvas.ubc.ca   Students who are new to Canvas will want to check out a UBC Student\u0019s Guide to CanvasFor more information including resources for distance learners visit distancelearning.ubc.ca","subject_code":"APBI","course_number":"419","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["ACKERMAN, PAIGE ADRIENNE"],"totalRemaining":"18","currentlyRegistered":"12","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Management of fish health in aquaculture; common fish pathogens, epidemiology, prevention, and treatment of diseases."}
+{
+  "course_name": "APBI 419",
+  "subject_code": "APBI",
+  "course_number": "419",
+  "course_title": "Fish Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=419&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 419 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=419&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.Login to the course through canvas.ubc.ca   Students who are new to Canvas will want to check out a UBC Student\u0019s Guide to CanvasFor more information including resources for distance learners visit distancelearning.ubc.ca",
+      "subject_code": "APBI",
+      "course_number": "419",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ACKERMAN, PAIGE ADRIENNE"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Management of fish health in aquaculture; common fish pathogens, epidemiology, prevention, and treatment of diseases.",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

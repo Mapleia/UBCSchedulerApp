@@ -1,1 +1,96 @@
-{"course_name":"THTR 250","subject_code":"THTR","course_number":"250","course_title":"Technical Production","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=250&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 250 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"9:30","end":"11:00","comments":"If you have previously taken stage craft classes or have been a part of backstage theatre production, the THTR 150 pre-req may be waived. Please email the instructor to request waiving the pre-req.  PLEASE NOTE, you must also register for a studio section, THTR 250 S11 or S12. If you are unable to register for this course but are interested in enrolling, please email the instructor. This course replaces THTR 254.","subject_code":"THTR","course_number":"250","section_number":"001","building":"Frederic Wood Theatre","room":"112","instructors":["POWERS, BRADLEY"],"totalRemaining":"1","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"1"},"S11":{"status":"Blocked","section":"THTR 250 S11","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=S11&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:30","comments":"This is a Studio Section for THTR 250, 001. You must be registered in the main section in order to enrol in the Studio.","subject_code":"THTR","course_number":"250","section_number":"S11","building":"Frederic Wood Theatre","room":"125","instructors":["POWERS, BRADLEY"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"},"S12":{"status":"Blocked","section":"THTR 250 S12","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=S12&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Fri","start":"13:30","end":"16:00","comments":"This is a Studio Section for THTR 250, 001. You must be registered in the main section in order to enrol in the Studio.","subject_code":"THTR","course_number":"250","section_number":"S12","building":"Frederic Wood Theatre","room":"125","instructors":["POWERS, BRADLEY"],"totalRemaining":"1","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"The construction and execution of scenery, costumes, properties, lighting, and sound for the stage."}
+{
+  "course_name": "THTR 250",
+  "subject_code": "THTR",
+  "course_number": "250",
+  "course_title": "Technical Production",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 250 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "If you have previously taken stage craft classes or have been a part of backstage theatre production, the THTR 150 pre-req may be waived. Please email the instructor to request waiving the pre-req.  PLEASE NOTE, you must also register for a studio section, THTR 250 S11 or S12. If you are unable to register for this course but are interested in enrolling, please email the instructor. This course replaces THTR 254.",
+      "subject_code": "THTR",
+      "course_number": "250",
+      "section_number": "001",
+      "building": "Frederic Wood Theatre",
+      "room": "112",
+      "instructors": [
+        "POWERS, BRADLEY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "THTR 250 S11",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=S11&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:30",
+      "comments": "This is a Studio Section for THTR 250, 001. You must be registered in the main section in order to enrol in the Studio.",
+      "subject_code": "THTR",
+      "course_number": "250",
+      "section_number": "S11",
+      "building": "Frederic Wood Theatre",
+      "room": "125",
+      "instructors": [
+        "POWERS, BRADLEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "THTR 250 S12",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=250&section=S12&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "16:00",
+      "comments": "This is a Studio Section for THTR 250, 001. You must be registered in the main section in order to enrol in the Studio.",
+      "subject_code": "THTR",
+      "course_number": "250",
+      "section_number": "S12",
+      "building": "Frederic Wood Theatre",
+      "room": "125",
+      "instructors": [
+        "POWERS, BRADLEY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "The construction and execution of scenery, costumes, properties, lighting, and sound for the stage.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Studio"
+  ]
+}

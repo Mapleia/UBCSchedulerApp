@@ -1,1 +1,72 @@
-{"course_name":"FNEL 381","subject_code":"FNEL","course_number":"381","course_title":"Biocultural Diversity: Language, Community, and Environment","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=381&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNEL 381 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=381&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This section is for undergraduate students only. Grad students please email cis.program@ubc.ca for information on registration.","subject_code":"FNEL","course_number":"381","section_number":"001","building":" ","room":"","instructors":["ROSENBLUM, DAISY"],"totalRemaining":"1","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"1"},"WL1":{"status":" ","section":"FNEL 381 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=381&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This is a waitlist section for undergraduate students - only register in this section if FNEL 381 001 is full. Registering in the waitlist section does not guarantee you a spot in the course. When spots open up you will be moved from this section to the actual course. Email cis.program@ubc.ca with any questions.","subject_code":"FNEL","course_number":"381","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Critical exploration of the links between linguistic, biological and cultural diversity; including connections with linguistic relativity, linguistic identity, language and place; and strategies for collective, interdisciplinary action to promote and support the protection of languages, cultures, and the environment."}
+{
+  "course_name": "FNEL 381",
+  "subject_code": "FNEL",
+  "course_number": "381",
+  "course_title": "Biocultural Diversity: Language, Community, and Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=381&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNEL 381 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=381&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is for undergraduate students only. Grad students please email cis.program@ubc.ca for information on registration.",
+      "subject_code": "FNEL",
+      "course_number": "381",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSENBLUM, DAISY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "FNEL 381 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=381&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This is a waitlist section for undergraduate students - only register in this section if FNEL 381 001 is full. Registering in the waitlist section does not guarantee you a spot in the course. When spots open up you will be moved from this section to the actual course. Email cis.program@ubc.ca with any questions.",
+      "subject_code": "FNEL",
+      "course_number": "381",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical exploration of the links between linguistic, biological and cultural diversity; including connections with linguistic relativity, linguistic identity, language and place; and strategies for collective, interdisciplinary action to promote and support the protection of languages, cultures, and the environment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

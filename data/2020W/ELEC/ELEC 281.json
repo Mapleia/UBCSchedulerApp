@@ -1,1 +1,180 @@
-{"course_name":"ELEC 281","subject_code":"ELEC","course_number":"281","course_title":"Technical Communication","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=281&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"ELEC 281 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ELEC","course_number":"281","section_number":"201","building":"Civil and Mechanical Engineering","room":"1204","instructors":["QI, HONGXING ESTELLA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"202":{"status":"STT","section":"ELEC 281 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"10:30","end":"12:00","comments":"","subject_code":"ELEC","course_number":"281","section_number":"202","building":"UBC Life Building","room":"2202","instructors":["SANGHARA, HARTAJ"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"203":{"status":"STT","section":"ELEC 281 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ELEC","course_number":"281","section_number":"203","building":"UBC Life Building","room":"2212","instructors":["CONROY, PATRICK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"204":{"status":"STT","section":"ELEC 281 204","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=204&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ELEC","course_number":"281","section_number":"204","building":"UBC Life Building","room":"2214","instructors":["QI, HONGXING ESTELLA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"205":{"status":"STT","section":"ELEC 281 205","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=205&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ELEC","course_number":"281","section_number":"205","building":"UBC Life Building","room":"2212","instructors":["SANGHARA, HARTAJ"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2W1":{"status":" ","section":"ELEC 281 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"281","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"13","currentlyRegistered":"7","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201."}
+{
+  "course_name": "ELEC 281",
+  "subject_code": "ELEC",
+  "course_number": "281",
+  "course_title": "Technical Communication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=281&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ELEC 281 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "QI, HONGXING ESTELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 281 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SANGHARA, HARTAJ"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 281 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONROY, PATRICK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 281 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "QI, HONGXING ESTELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 281 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SANGHARA, HARTAJ"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 281 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=281&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "281",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "7",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"PHRM 351","subject_code":"PHRM","course_number":"351","course_title":"Practice Management and Leadership","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=351&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PHRM 351 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=351&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Please note that all PHRM 351 sessions will be delivered online.","subject_code":"PHRM","course_number":"351","section_number":"001","building":" ","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Application of management and leadership principles and skills to pharmacy operations."}
+{
+  "course_name": "PHRM 351",
+  "subject_code": "PHRM",
+  "course_number": "351",
+  "course_title": "Practice Management and Leadership",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=351&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 351 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=351&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Please note that all PHRM 351 sessions will be delivered online.",
+      "subject_code": "PHRM",
+      "course_number": "351",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Application of management and leadership principles and skills to pharmacy operations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

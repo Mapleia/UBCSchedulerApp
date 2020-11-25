@@ -1,1 +1,43 @@
-{"course_name":"SOWK 570N","subject_code":"SOWK","course_number":"570N","course_title":"Directed Studies in Social Work - DIRECTED STUDY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=570N&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"SOWK 570N 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=570N&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":" ","end":" ","comments":"","subject_code":"SOWK","course_number":"570N","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["KIA, HANNAH"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 570N",
+  "subject_code": "SOWK",
+  "course_number": "570N",
+  "course_title": "Directed Studies in Social Work - DIRECTED STUDY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=570N&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOWK 570N 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=570N&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "570N",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KIA, HANNAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"LAW 363D","subject_code":"LAW","course_number":"363D","course_title":"Racism and Law - RACISM & LAW","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=363D&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 363D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=363D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"9:30","end":"12:30","comments":"","subject_code":"LAW","course_number":"363D","section_number":"001","building":" ","room":"","instructors":["KAUSHAL, ASHA"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Legal issues relating to race and racism, including related issues of gender, culture or identity. Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 363D",
+  "subject_code": "LAW",
+  "course_number": "363D",
+  "course_title": "Racism and Law - RACISM & LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=363D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 363D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=363D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "363D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KAUSHAL, ASHA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Legal issues relating to race and racism, including related issues of gender, culture or identity. Not offered each year, consult Faculty.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

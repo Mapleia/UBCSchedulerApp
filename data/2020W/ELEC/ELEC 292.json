@@ -1,1 +1,73 @@
-{"course_name":"ELEC 292","subject_code":"ELEC","course_number":"292","course_title":"Biomedical Engineering Design Studio","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=292&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"ELEC 292 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=292&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"14:00","end":"16:00","comments":"","subject_code":"ELEC","course_number":"292","section_number":"201","building":"Forest Sciences Centre","room":"1005","instructors":["CALVINO-FRAGA, JESUS"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":"Full","section":"ELEC 292 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=292&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Thu","start":"13:00","end":"16:00","comments":"","subject_code":"ELEC","course_number":"292","section_number":"L2A","building":"UBC Life Building","room":"2602","instructors":["CALVINO-FRAGA, JESUS"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Design projects involving electronic devices and circuits, electromagnetics, signals and systems, microcomputers with applications in biomedical engineering. Final group project requiring oral presentation of student-prepared slides."}
+{
+  "course_name": "ELEC 292",
+  "subject_code": "ELEC",
+  "course_number": "292",
+  "course_title": "Biomedical Engineering Design Studio",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=292&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 292 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=292&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "292",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 292 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=292&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "292",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "20",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Design projects involving electronic devices and circuits, electromagnetics, signals and systems, microcomputers with applications in biomedical engineering. Final group project requiring oral presentation of student-prepared slides.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

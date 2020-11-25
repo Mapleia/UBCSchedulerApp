@@ -1,1 +1,71 @@
-{"course_name":"FNH 371","subject_code":"FNH","course_number":"371","course_title":"Human Nutrition Over The Life Span","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=371&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNH 371 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=371&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"FNH 371 is currently blocked from registration. If you wish to be considered for the course, please register for the waitlist (FNH 371 0W1).","subject_code":"FNH","course_number":"371","section_number":"001","building":"MacMillan","room":"166","instructors":["BLACK, JENNIFER"],"totalRemaining":"0","currentlyRegistered":"170","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Restricted","section":"FNH 371 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=371&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for FNH 371 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"FNH","course_number":"371","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"7","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Nutritional requirements and dietary patterns of healthy individuals throughout the life span."}
+{
+  "course_name": "FNH 371",
+  "subject_code": "FNH",
+  "course_number": "371",
+  "course_title": "Human Nutrition Over The Life Span",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=371&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNH 371 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=371&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "FNH 371 is currently blocked from registration. If you wish to be considered for the course, please register for the waitlist (FNH 371 0W1).",
+      "subject_code": "FNH",
+      "course_number": "371",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACK, JENNIFER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "170",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FNH 371 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=371&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for FNH 371 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "FNH",
+      "course_number": "371",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Nutritional requirements and dietary patterns of healthy individuals throughout the life span.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

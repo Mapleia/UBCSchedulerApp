@@ -1,1 +1,102 @@
-{"course_name":"STAT 306","subject_code":"STAT","course_number":"306","course_title":"Finding Relationships in Data","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=306&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"STAT 306 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"To note there is NO LABS for the fall term!!!Seats reserved for Stat specializations and CPSC will be released on August 4th if not filledIf course is full, please register on the wait list after reading the registration and wait list information: https://www.stat.ubc.ca/undergrad-registration-info-and-faqsThere will be a \"mirrored\" online class in the early evening as an alternative to the 8am session, most likely from 5pm","subject_code":"STAT","course_number":"306","section_number":"101","building":" ","room":"","instructors":["DUNHAM, BRUCE","DUNHAM, BRUCE(Coordinator)"],"totalRemaining":"56","currentlyRegistered":"143","generalRemaining":"51","restrictedRemaining":"5"},"201":{"status":" ","section":"STAT 306 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"There will be a \"mirrored\" online class in the morning as an alternative to the afternoon session, most likely from 9.30amhttps://www.stat.ubc.ca/undergrad-registration-info-and-faqsThere are now no LABS for the courseIf the class is full please register in the waitlist STAT 306 WL2","subject_code":"STAT","course_number":"306","section_number":"201","building":"Mathematics","room":"100","instructors":["DUNHAM, BRUCE","DUNHAM, BRUCE(Coordinator)"],"totalRemaining":"20","currentlyRegistered":"180","generalRemaining":"19","restrictedRemaining":"1"},"L2A":{"status":" ","section":"STAT 306 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"12:00","end":"13:00","comments":"","subject_code":"STAT","course_number":"306","section_number":"L2A","building":"Earth Sciences Building","room":"1042","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"26","generalRemaining":"10","restrictedRemaining":"0"},"L2B":{"status":" ","section":"STAT 306 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"15:00","end":"16:00","comments":"","subject_code":"STAT","course_number":"306","section_number":"L2B","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"33","generalRemaining":"3","restrictedRemaining":"0"},"L2C":{"status":" ","section":"STAT 306 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"13:00","end":"14:00","comments":"","subject_code":"STAT","course_number":"306","section_number":"L2C","building":"Earth Sciences Building","room":"1042","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"34","generalRemaining":"2","restrictedRemaining":"0"},"L2D":{"status":" ","section":"STAT 306 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"","subject_code":"STAT","course_number":"306","section_number":"L2D","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"35","generalRemaining":"1","restrictedRemaining":"0"},"L2E":{"status":" ","section":"STAT 306 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"16:00","end":"17:00","comments":"","subject_code":"STAT","course_number":"306","section_number":"L2E","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"28","generalRemaining":"8","restrictedRemaining":"0"},"WL2":{"status":" ","section":"STAT 306 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"BEFORE REGISTERING ON THE WAIT LIST, PLEASE READ THE REGISTRATION INFORMATION AND FAQshttps://www.stat.ubc.ca/undergrad-registration-info-and-faqsRegistration on the waitlist does not guarantee a seat in the course.","subject_code":"STAT","course_number":"306","section_number":"WL2","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"21","currentlyRegistered":"9","generalRemaining":"21","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Modelling a response (output) variable as a function of several explanatory (input) variables:  multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data.  Finding low-dimensional structure:  principal components analysis.  Cluster analysis.  (Consult the Credit Exclusion List within the Faculty of Science section in the Calendar)."}
+{
+  "course_name": "STAT 306",
+  "subject_code": "STAT",
+  "course_number": "306",
+  "course_title": "Finding Relationships in Data",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 306 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "To note there is NO LABS for the fall term!!!Seats reserved for Stat specializations and CPSC will be released on August 4th if not filledIf course is full, please register on the wait list after reading the registration and wait list information: https://www.stat.ubc.ca/undergrad-registration-info-and-faqsThere will be a \"mirrored\" online class in the early evening as an alternative to the 8am session, most likely from 5pm",
+      "subject_code": "STAT",
+      "course_number": "306",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNHAM, BRUCE",
+        "DUNHAM, BRUCE(Coordinator)"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "139",
+      "generalRemaining": "52",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "STAT 306 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "There will be a \"mirrored\" online class in the morning as an alternative to the afternoon session, most likely from 9.30amhttps://www.stat.ubc.ca/undergrad-registration-info-and-faqsThere are now no LABS for the courseIf the class is full please register in the waitlist STAT 306 WL2",
+      "subject_code": "STAT",
+      "course_number": "306",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNHAM, BRUCE",
+        "DUNHAM, BRUCE(Coordinator)"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "191",
+      "generalRemaining": "8",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "STAT 306 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=306&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "BEFORE REGISTERING ON THE WAIT LIST, PLEASE READ THE REGISTRATION INFORMATION AND FAQshttps://www.stat.ubc.ca/undergrad-registration-info-and-faqsRegistration on the waitlist does not guarantee a seat in the course.",
+      "subject_code": "STAT",
+      "course_number": "306",
+      "section_number": "WL2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "8",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Modelling a response (output) variable as a function of several explanatory (input) variables:  multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data.  Finding low-dimensional structure:  principal components analysis.  Cluster analysis.  (Consult the Credit Exclusion List within the Faculty of Science section in the Calendar).",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

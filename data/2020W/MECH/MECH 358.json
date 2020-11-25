@@ -1,1 +1,176 @@
-{"course_name":"MECH 358","subject_code":"MECH","course_number":"358","course_title":"Engineering Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=358&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"MECH 358 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"MECH","course_number":"358","section_number":"201","building":"Leonard S. Klinck","room":"201","instructors":["WALLS, PATRICK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":"Restricted","section":"MECH 358 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"9:00","end":"10:00","comments":"Location: ICICS X060 (Pace lab)","subject_code":"MECH","course_number":"358","section_number":"L2A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"12"},"L2B":{"status":"Restricted","section":"MECH 358 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"11:00","end":"12:00","comments":"Location: ICICS X060 (Pace lab)","subject_code":"MECH","course_number":"358","section_number":"L2B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"23","generalRemaining":"0","restrictedRemaining":"9"},"L2C":{"status":"Restricted","section":"MECH 358 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"11:00","end":"12:00","comments":"Location: ICICS X060 (Pace lab)","subject_code":"MECH","course_number":"358","section_number":"L2C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"1"},"L2D":{"status":"Restricted","section":"MECH 358 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"Location: ICICS X060 (Pace lab)","subject_code":"MECH","course_number":"358","section_number":"L2D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"23","generalRemaining":"0","restrictedRemaining":"10"},"WL2":{"status":" ","section":"MECH 358 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"358","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fourier series; auto- and cross-correlation; power spectra; discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing emphasized.  Credit will be granted for only one of MECH 358 and MATH 358."}
+{
+  "course_name": "MECH 358",
+  "subject_code": "MECH",
+  "course_number": "358",
+  "course_title": "Engineering Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=358&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 358 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELFRING, GWYNN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 358 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 358 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 358 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 358 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": " ",
+      "section": "MECH 358 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=358&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "358",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fourier series; auto- and cross-correlation; power spectra; discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing emphasized.  Credit will be granted for only one of MECH 358 and MATH 358.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

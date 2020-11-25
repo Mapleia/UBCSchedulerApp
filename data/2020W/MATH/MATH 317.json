@@ -1,1 +1,106 @@
-{"course_name":"MATH 317","subject_code":"MATH","course_number":"317","course_title":"Calculus IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=317&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MATH 317 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.   If course is blocked, register in the Wait List MATH 317, WL1.","subject_code":"MATH","course_number":"317","section_number":"101","building":" ","room":"","instructors":["MACLEAN, MARK THOMSON","MACLEAN, MARK THOMSON(Coordinator)"],"totalRemaining":"1","currentlyRegistered":"139","generalRemaining":"1","restrictedRemaining":"0"},"201":{"status":" ","section":"MATH 317 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.","subject_code":"MATH","course_number":"317","section_number":"201","building":"Buchanan","room":"A103","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"139","generalRemaining":"1","restrictedRemaining":"0"},"202":{"status":"Full","section":"MATH 317 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.","subject_code":"MATH","course_number":"317","section_number":"202","building":"Buchanan","room":"B213","instructors":["0","100","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "MATH 317",
+  "subject_code": "MATH",
+  "course_number": "317",
+  "course_title": "Calculus IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=317&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 317 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.   If course is blocked, register in the Wait List MATH 317, WL1.",
+      "subject_code": "MATH",
+      "course_number": "317",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACLEAN, MARK THOMSON",
+        "MACLEAN, MARK THOMSON(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "138",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 317 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "317",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "139",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MATH 317 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=317&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "317",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "100",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

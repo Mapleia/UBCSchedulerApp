@@ -1,1 +1,43 @@
-{"course_name":"ECPS 490B","subject_code":"ECPS","course_number":"490B","course_title":"Directed Study in Educational and Counselling Psychology, and Special Education - ED PSY & SP EDU","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECPS&course=490B&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"ECPS 490B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECPS&course=490B&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ECPS","course_number":"490B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Directed investigation of a problem or issue, requiring a written report or alternate mode of reporting or disseminating results of the investigation"}
+{
+  "course_name": "ECPS 490B",
+  "subject_code": "ECPS",
+  "course_number": "490B",
+  "course_title": "Directed Study in Educational and Counselling Psychology, and Special Education - ED PSY & SP EDU",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECPS&course=490B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECPS 490B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECPS&course=490B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ECPS",
+      "course_number": "490B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Directed investigation of a problem or issue, requiring a written report or alternate mode of reporting or disseminating results of the investigation",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

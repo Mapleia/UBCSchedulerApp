@@ -1,1 +1,73 @@
-{"course_name":"ELEC 507","subject_code":"ELEC","course_number":"507","course_title":"Mixed-Signal and RF Integrated Circuits and Systems Test","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=507&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ELEC 507 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=507&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"15:00","end":"16:30","comments":"","subject_code":"ELEC","course_number":"507","section_number":"201","building":"UBC Life Building","room":"2212","instructors":["11","9","11","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2W1":{"status":" ","section":"ELEC 507 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=507&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"507","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Credit will only be given for one of ELEC 507 or EECE 595."}
+{
+  "course_name": "ELEC 507",
+  "subject_code": "ELEC",
+  "course_number": "507",
+  "course_title": "Mixed-Signal and RF Integrated Circuits and Systems Test",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=507&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 507 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=507&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "507",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "9",
+        "11",
+        "9",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 507 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=507&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "507",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will only be given for one of ELEC 507 or EECE 595.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

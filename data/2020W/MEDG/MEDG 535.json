@@ -1,1 +1,44 @@
-{"course_name":"MEDG 535","subject_code":"MEDG","course_number":"535","course_title":"Genetics and Ethics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=535&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MEDG 535 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=535&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:00","end":"18:30","comments":"Classes held at: Children's and Women's Hospital, Room C240.Equivalent to INDS 502K.Course covers ethical and social issues relating to research and clinical practice in medical genetics and genomics. It is primarily directed to graduate students in Medical Genetics and Genetic Counselling; residents and clinical fellows in Medical Genetics; as well as interested students in the ISGP Program. Students in social and natural sciences, humanities, and professional programs may participate if numbers allow. A case-based approach helps students develop basic skills in practical moral reasoning and bioethics. Readings and discussions situate questions of practice within broader social and political debates.","subject_code":"MEDG","course_number":"535","section_number":"001","building":" ","room":"","instructors":["KIEFFER, STEPHANIE","KIEFFER, STEPHANIE(Coordinator)"],"totalRemaining":"8","currentlyRegistered":"10","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This course is intended to serve the diverse needs of genetic counselling students, research graduate students in genetics, genetic residents and clinical fellows, other health professional students, and graduate students from other sciences and humanities."}
+{
+  "course_name": "MEDG 535",
+  "subject_code": "MEDG",
+  "course_number": "535",
+  "course_title": "Genetics and Ethics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=535&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDG 535 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=535&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:30",
+      "comments": "MEDG 535 offered online only for 2020W.Equivalent to INDS 502K.Course covers ethical and social issues relating to research and clinical practice in medical genetics and genomics. It is primarily directed to graduate students in Medical Genetics and Genetic Counselling; residents and clinical fellows in Medical Genetics; as well as interested students in the ISGP Program. Students in social and natural sciences, humanities, and professional programs may participate if numbers allow. A case-based approach helps students develop basic skills in practical moral reasoning and bioethics. Readings and discussions situate questions of practice within broader social and political debates.",
+      "subject_code": "MEDG",
+      "course_number": "535",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIEFFER, STEPHANIE",
+        "KIEFFER, STEPHANIE(Coordinator)"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "11",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This course is intended to serve the diverse needs of genetic counselling students, research graduate students in genetics, genetic residents and clinical fellows, other health professional students, and graduate students from other sciences and humanities.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"MINE 333","subject_code":"MINE","course_number":"333","course_title":"Flotation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=333&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"MINE 333 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:00","comments":"-  Select one Laboratory from sections L2A- Cross-listed with MINE521","subject_code":"MINE","course_number":"333","section_number":"201","building":"Frank Forward","room":"303","instructors":["PAWLIK, MAREK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":"Restricted","section":"MINE 333 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":" ","end":" ","comments":"Coal and Mineral Processing Laboratory","subject_code":"MINE","course_number":"333","section_number":"L2A","building":"No Scheduled Meeting","room":"","instructors":["PAWLIK, MAREK"],"totalRemaining":"3","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"3"},"W-L":{"status":"Restricted","section":"MINE 333 W-L","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=W-L&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Students from outside the department wanting to take any of the following courses (MINE 292, MINE 331, MINE 333, MINE 590J, MINE 581, MINE 462/566, MINE 438/590P, MINE 434/ 577, MINE 224) are required to complete the following safety requirements before registering in the course http://mining.ubc.ca/safety/safety-requirements/.   You will be waitlisted until you have met the requirements.","subject_code":"MINE","course_number":"333","section_number":"W-L","building":"No Scheduled Meeting","room":"","instructors":["PAWLIK, MAREK"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Theory and technology of flotation and ancillary processes."}
+{
+  "course_name": "MINE 333",
+  "subject_code": "MINE",
+  "course_number": "333",
+  "course_title": "Flotation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 333 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "-  Select one Laboratory from sections L2A- Cross-listed with MINE521",
+      "subject_code": "MINE",
+      "course_number": "333",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAWLIK, MAREK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 333 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Coal and Mineral Processing Laboratory",
+      "subject_code": "MINE",
+      "course_number": "333",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAWLIK, MAREK"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 333 W-L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=333&section=W-L&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students from outside the department wanting to take any of the following courses (MINE 292, MINE 331, MINE 333, MINE 590J, MINE 581, MINE 462/566, MINE 438/590P, MINE 434/ 577, MINE 224) are required to complete the following safety requirements before registering in the course http://mining.ubc.ca/safety/safety-requirements/.   You will be waitlisted until you have met the requirements.",
+      "subject_code": "MINE",
+      "course_number": "333",
+      "section_number": "W-L",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAWLIK, MAREK"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory and technology of flotation and ancillary processes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

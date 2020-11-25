@@ -1,1 +1,72 @@
-{"course_name":"APBI 315","subject_code":"APBI","course_number":"315","course_title":"Animal Welfare and the Ethics of Animal Use","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=315&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"APBI 315 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=315&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"APBI 315 is blocked from registration - if you wish to be considered for this course, please register onto the waitlist (APBI 315 0W1).","subject_code":"APBI","course_number":"315","section_number":"001","building":"MacMillan","room":"160","instructors":["FRASER, DAVID","WEARY, DANIEL"],"totalRemaining":"2","currentlyRegistered":"70","generalRemaining":"1","restrictedRemaining":"1"},"0W1":{"status":"Full","section":"APBI 315 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=315&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for APBI 315 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"APBI","course_number":"315","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["FRASER, DAVID"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Scientific assessment of animal well-being, ethical concepts applied to animal use, and animal welfare issues arising in agriculture, biomedical research and other areas. Credit will be granted for only one of APBI 315, ANSC 515, or AANB 515."}
+{
+  "course_name": "APBI 315",
+  "subject_code": "APBI",
+  "course_number": "315",
+  "course_title": "Animal Welfare and the Ethics of Animal Use",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APBI 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "APBI 315 is blocked from registration - if you wish to be considered for this course, please register onto the waitlist (APBI 315 0W1).",
+      "subject_code": "APBI",
+      "course_number": "315",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRASER, DAVID",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "72",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "APBI 315 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=315&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for APBI 315 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "315",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FRASER, DAVID"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Scientific assessment of animal well-being, ethical concepts applied to animal use, and animal welfare issues arising in agriculture, biomedical research and other areas. Credit will be granted for only one of APBI 315, ANSC 515, or AANB 515.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

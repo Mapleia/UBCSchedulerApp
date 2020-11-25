@@ -1,1 +1,100 @@
-{"course_name":"DENT 599","subject_code":"DENT","course_number":"599","course_title":"M.Sc. Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=599&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"DENT 599 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"599","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"33","currentlyRegistered":"2","generalRemaining":"33","restrictedRemaining":"0"},"201":{"status":" ","section":"DENT 599 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"599","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"35","currentlyRegistered":"0","generalRemaining":"35","restrictedRemaining":"0"},"001":{"status":" ","section":"DENT 599 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DENT","course_number":"599","section_number":"001","building":"","room":"","instructors":["28","52","28","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 18","description":"Enrolment restricted to graduate students in Dental Science."}
+{
+  "course_name": "DENT 599",
+  "subject_code": "DENT",
+  "course_number": "599",
+  "course_title": "M.Sc. Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=599&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 599 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "599",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "2",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DENT 599 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "599",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "0",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DENT 599 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=599&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "599",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "28",
+        "52",
+        "28",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 8,
+  "description": "Enrolment restricted to graduate students in Dental Science.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

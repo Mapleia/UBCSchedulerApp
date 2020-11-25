@@ -1,1 +1,43 @@
-{"course_name":"EDCP 598B","subject_code":"EDCP","course_number":"598B","course_title":"Field Experiences - FIELD EXPERIENCE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=598B&sessyr=2020&sesscd=W","sections":{"032":{"status":"Blocked","section":"EDCP 598B 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=598B&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDCP","course_number":"598B","section_number":"032","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation."}
+{
+  "course_name": "EDCP 598B",
+  "subject_code": "EDCP",
+  "course_number": "598B",
+  "course_title": "Field Experiences - FIELD EXPERIENCE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=598B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDCP 598B 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=598B&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "598B",
+      "section_number": "032",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

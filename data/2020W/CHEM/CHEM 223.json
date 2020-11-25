@@ -1,1 +1,74 @@
-{"course_name":"CHEM 223","subject_code":"CHEM","course_number":"223","course_title":"Introduction to Organic Chemistry (Lecture)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=223&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"CHEM 223 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=223&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"CHEM223 is the lecture portion of the former CHEM203.","subject_code":"CHEM","course_number":"223","section_number":"101","building":" ","room":"","instructors":["TANNER, MARTIN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"1W1":{"status":"Blocked","section":"CHEM 223 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=223&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"223","section_number":"1W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"75","currentlyRegistered":"0","generalRemaining":"75","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Students should consult the Credit Exclusion List for credit exclusions relating to second-year organic chemistry courses."}
+{
+  "course_name": "CHEM 223",
+  "subject_code": "CHEM",
+  "course_number": "223",
+  "course_title": "Introduction to Organic Chemistry (Lecture)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=223&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHEM 223 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=223&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "CHEM223 is the lecture portion of the former CHEM203.",
+      "subject_code": "CHEM",
+      "course_number": "223",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TANNER, MARTIN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 223 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=223&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "223",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "75",
+      "currentlyRegistered": "0",
+      "generalRemaining": "75",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Students should consult the Credit Exclusion List for credit exclusions relating to second-year organic chemistry courses.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

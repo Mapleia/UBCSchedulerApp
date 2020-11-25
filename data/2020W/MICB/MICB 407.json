@@ -1,1 +1,73 @@
-{"course_name":"MICB 407","subject_code":"MICB","course_number":"407","course_title":"Viral Infections in Humans.","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=407&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"MICB 407 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=407&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"11:00","end":"12:30","comments":"This course is delivered ONLINE.Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of July.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.This course is credit excluded with PATH 437.","subject_code":"MICB","course_number":"407","section_number":"101","building":" ","room":"","instructors":["HORWITZ, MARC","MOUAT, ISOBEL"],"totalRemaining":"0","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"MICB 407 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=407&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed Fri","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"407","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"2","restrictedRemaining":"34"}},"credits":"Credits: 3","description":"Interactions between viruses and humans; pathogenesis; persistence and viral oncogenesis; virological diagnosis and treatment. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.)"}
+{
+  "course_name": "MICB 407",
+  "subject_code": "MICB",
+  "course_number": "407",
+  "course_title": "Viral Infections in Humans.",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 407 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=407&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is delivered ONLINE.Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of July.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.This course is credit excluded with PATH 437.",
+      "subject_code": "MICB",
+      "course_number": "407",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HORWITZ, MARC",
+        "MOUAT, ISOBEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 407 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=407&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "407",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "2",
+      "restrictedRemaining": "34"
+    }
+  ],
+  "credits": 3,
+  "description": "Interactions between viruses and humans; pathogenesis; persistence and viral oncogenesis; virological diagnosis and treatment. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.)",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

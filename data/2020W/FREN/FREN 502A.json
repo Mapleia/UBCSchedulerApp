@@ -1,1 +1,43 @@
-{"course_name":"FREN 502A","subject_code":"FREN","course_number":"502A","course_title":"Studies in Sixteenth-Century French Literature  - 16TH CENT LIT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=502A&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FREN 502A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=502A&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"15:00","end":"18:00","comments":"Studies in Sixteenth-Century French Literature. Full course description: https://fhis.ubc.ca/course-description/fren502a/","subject_code":"FREN","course_number":"502A","section_number":"101","building":" ","room":"","instructors":["FRELICK, NANCY"],"totalRemaining":"2","currentlyRegistered":"8","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FREN 502A",
+  "subject_code": "FREN",
+  "course_number": "502A",
+  "course_title": "Studies in Sixteenth-Century French Literature  - 16TH CENT LIT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=502A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 502A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=502A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "Studies in Sixteenth-Century French Literature. Full course description: https://fhis.ubc.ca/course-description/fren502a/",
+      "subject_code": "FREN",
+      "course_number": "502A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRELICK, NANCY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

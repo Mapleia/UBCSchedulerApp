@@ -1,1 +1,153 @@
-{"course_name":"COMM 498","subject_code":"COMM","course_number":"498","course_title":"International Business Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=498&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 498 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"498","section_number":"101","building":" ","room":"","instructors":["DERETIC, MOMCILO"],"totalRemaining":"0","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":" ","section":"COMM 498 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"498","section_number":"102","building":" ","room":"","instructors":["DERETIC, MOMCILO"],"totalRemaining":"1","currentlyRegistered":"41","generalRemaining":"1","restrictedRemaining":"0"},"201":{"status":"Restricted","section":"COMM 498 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"498","section_number":"201","building":"Henry Angus","room":"434","instructors":["DERETIC, MOMCILO"],"totalRemaining":"1","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"1"},"202":{"status":"Full","section":"COMM 498 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"498","section_number":"202","building":"Henry Angus","room":"354","instructors":["KIKKAWA, AYUMU"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Full","section":"COMM 498 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri","start":"10:00","end":"11:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"498","section_number":"203","building":"Henry Angus","room":"354","instructors":["DERETIC, MOMCILO"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Credit will be granted for only one of COMM 498 or COEC 498."}
+{
+  "course_name": "COMM 498",
+  "subject_code": "COMM",
+  "course_number": "498",
+  "course_title": "International Business Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=498&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 498 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "498",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 498 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "498",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 498 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "498",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 498 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "498",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIKKAWA, AYUMU"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 498 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=498&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "498",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Credit will be granted for only one of COMM 498 or COEC 498.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

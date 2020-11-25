@@ -1,1 +1,123 @@
-{"course_name":"ASIA 325","subject_code":"ASIA","course_number":"325","course_title":"Hong Kong Cinema","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=325&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ASIA 325 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.","subject_code":"ASIA","course_number":"325","section_number":"001","building":" ","room":"","instructors":["HOU, DONGCHEN"],"totalRemaining":"0","currentlyRegistered":"80","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"ASIA 325 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"16:00","end":"19:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.","subject_code":"ASIA","course_number":"325","section_number":"002","building":"School of Population and Public Health","room":"B151","instructors":["YANG, RENREN"],"totalRemaining":"0","currentlyRegistered":"65","generalRemaining":"0","restrictedRemaining":"0"},"W01":{"status":" ","section":"ASIA 325 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"ASIA","course_number":"325","section_number":"W01","building":" ","room":"","instructors":["HOU, DONGCHEN"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"},"W02":{"status":" ","section":"ASIA 325 W02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=W02&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue","start":"16:00","end":"19:00","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"ASIA","course_number":"325","section_number":"W02","building":" ","room":"","instructors":["YANG, RENREN"],"totalRemaining":"48","currentlyRegistered":"2","generalRemaining":"48","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as \"distinctively Hong Kong.\""}
+{
+  "course_name": "ASIA 325",
+  "subject_code": "ASIA",
+  "course_number": "325",
+  "course_title": "Hong Kong Cinema",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASIA 325 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.",
+      "subject_code": "ASIA",
+      "course_number": "325",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOU, DONGCHEN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "79",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 325 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.",
+      "subject_code": "ASIA",
+      "course_number": "325",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YANG, RENREN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "64",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 325 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "ASIA",
+      "course_number": "325",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOU, DONGCHEN"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 325 W02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=325&section=W02&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "ASIA",
+      "course_number": "325",
+      "section_number": "W02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YANG, RENREN"
+      ],
+      "totalRemaining": "44",
+      "currentlyRegistered": "6",
+      "generalRemaining": "44",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as \"distinctively Hong Kong.\"",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

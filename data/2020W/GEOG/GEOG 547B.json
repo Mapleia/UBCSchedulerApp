@@ -1,1 +1,72 @@
-{"course_name":"GEOG 547B","subject_code":"GEOG","course_number":"547B","course_title":"Directed Reading in Human Geography - HUMAN GEO DR RDG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=547B&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"GEOG 547B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=547B&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GEOG","course_number":"547B","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Blocked","section":"GEOG 547B 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=547B&section=202&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"GEOG","course_number":"547B","section_number":"202","building":"","room":"","instructors":["3","3","3","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "GEOG 547B",
+  "subject_code": "GEOG",
+  "course_number": "547B",
+  "course_title": "Directed Reading in Human Geography - HUMAN GEO DR RDG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=547B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOG 547B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=547B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GEOG",
+      "course_number": "547B",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 547B 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=547B&section=202&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "GEOG",
+      "course_number": "547B",
+      "section_number": "202",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "2",
+        "4",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

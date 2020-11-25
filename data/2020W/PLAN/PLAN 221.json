@@ -1,1 +1,71 @@
-{"course_name":"PLAN 221","subject_code":"PLAN","course_number":"221","course_title":"City Visuals","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=221&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PLAN 221 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=221&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"PLAN","course_number":"221","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Full","section":"PLAN 221 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=221&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PLAN","course_number":"221","section_number":"0W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An exploratory journey through the vast world of visualizing the city and ways of representing the built environment, including how to both interpret and use visualizations to read the city."}
+{
+  "course_name": "PLAN 221",
+  "subject_code": "PLAN",
+  "course_number": "221",
+  "course_title": "City Visuals",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=221&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 221 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=221&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "221",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VILLAGOMEZ, ERICK"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 221 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=221&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PLAN",
+      "course_number": "221",
+      "section_number": "0W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VILLAGOMEZ, ERICK"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An exploratory journey through the vast world of visualizing the city and ways of representing the built environment, including how to both interpret and use visualizations to read the city.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

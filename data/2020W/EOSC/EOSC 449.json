@@ -1,1 +1,43 @@
-{"course_name":"EOSC 449","subject_code":"EOSC","course_number":"449","course_title":"Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=449&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"EOSC 449 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=449&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"449","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["VER, LEAH MAY"],"totalRemaining":"43","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"43"}},"credits":"Credits: 6","description":"Original research work under the direction of a faculty member. Required of all honours students. Open to major students with a satisfactory standing, appropriate background courses and permission of the course instructor and the directing faculty member."}
+{
+  "course_name": "EOSC 449",
+  "subject_code": "EOSC",
+  "course_number": "449",
+  "course_title": "Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EOSC 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "449",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "VER, LEAH MAY"
+      ],
+      "totalRemaining": "43",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "43"
+    }
+  ],
+  "credits": 6,
+  "description": "Original research work under the direction of a faculty member. Required of all honours students. Open to major students with a satisfactory standing, appropriate background courses and permission of the course instructor and the directing faculty member.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

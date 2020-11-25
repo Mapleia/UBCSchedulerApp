@@ -1,1 +1,43 @@
-{"course_name":"CHBE 492","subject_code":"CHBE","course_number":"492","course_title":"Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=492&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 492 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=492&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" Mon","start":"8:00","end":"9:00","comments":"Thesis; no scheduled time and room; see department for details","subject_code":"CHBE","course_number":"492","section_number":"201","building":" ","room":"","instructors":["CAO, YANKAI"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 5","description":"Research project under the direction of a staff member."}
+{
+  "course_name": "CHBE 492",
+  "subject_code": "CHBE",
+  "course_number": "492",
+  "course_title": "Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=492&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 492 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=492&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "Thesis; no scheduled time and room; see department for details",
+      "subject_code": "CHBE",
+      "course_number": "492",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAO, YANKAI"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 5,
+  "description": "Research project under the direction of a staff member.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

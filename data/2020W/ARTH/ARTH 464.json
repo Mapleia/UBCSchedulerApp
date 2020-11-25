@@ -1,1 +1,70 @@
-{"course_name":"ARTH 464","subject_code":"ARTH","course_number":"464","course_title":"Seminar in Japanese Art","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=464&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARTH 464 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=464&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"If registation is blocked, the seminar is full and you should register on waitlist ARTH 464 01W.The Epinal ProjectThis seminar will use the work of Arakawa Shusaku (1936-2010) and Madeline Gins (1941-2014) as a point of departure for an investigation of the body in postwar and contemporary art, in Japan and abroad. Topics discussed will include avant-gardist legacies in contemporary art (in particular, ideas about the body in surrealism and dada); changing notions of objecthood in postwar art; the investigation of perception and meaning, and the body at its limits.","subject_code":"ARTH","course_number":"464","section_number":"001","building":" ","room":"","instructors":["ADRIASOLA MUNOZ, IGNACIO ALBERTO"],"totalRemaining":"4","currentlyRegistered":"14","generalRemaining":"4","restrictedRemaining":"0"},"01W":{"status":" ","section":"ARTH 464 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=464&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"ARTH 464 01W is a waitlist for ARTH 464 001. Students will be moved from the waitlist into the seminar as seats become available, and then notified of their registration via email.","subject_code":"ARTH","course_number":"464","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"99","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ARTH 464",
+  "subject_code": "ARTH",
+  "course_number": "464",
+  "course_title": "Seminar in Japanese Art",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 464 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=464&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "If registation is blocked, the seminar is full and you should register on waitlist ARTH 464 01W.The Epinal ProjectThis seminar will use the work of Arakawa Shusaku (1936-2010) and Madeline Gins (1941-2014) as a point of departure for an investigation of the body in postwar and contemporary art, in Japan and abroad. Topics discussed will include avant-gardist legacies in contemporary art (in particular, ideas about the body in surrealism and dada); changing notions of objecthood in postwar art; the investigation of perception and meaning, and the body at its limits.",
+      "subject_code": "ARTH",
+      "course_number": "464",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADRIASOLA MUNOZ, IGNACIO ALBERTO"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "14",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 464 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=464&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "ARTH 464 01W is a waitlist for ARTH 464 001. Students will be moved from the waitlist into the seminar as seats become available, and then notified of their registration via email.",
+      "subject_code": "ARTH",
+      "course_number": "464",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

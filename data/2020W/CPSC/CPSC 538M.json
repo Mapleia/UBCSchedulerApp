@@ -1,1 +1,44 @@
-{"course_name":"CPSC 538M","subject_code":"CPSC","course_number":"538M","course_title":"Topics in Computer Systems - SEC & PRIV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538M&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CPSC 538M 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=538M&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"12:00","end":"13:30","comments":"","subject_code":"CPSC","course_number":"538M","section_number":"201","building":"Institute for Computing (ICICS/CS)","room":"246","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 538M",
+  "subject_code": "CPSC",
+  "course_number": "538M",
+  "course_title": "Topics in Computer Systems - SEC & PRIV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538M&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 538M 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=538M&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "538M",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

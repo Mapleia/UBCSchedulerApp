@@ -1,1 +1,43 @@
-{"course_name":"AUDI 547A","subject_code":"AUDI","course_number":"547A","course_title":"Directed Reading in Audiology and Speech Sciences - DIR READ AUDI&SP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=547A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 547A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547A&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"547A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["COLOZZO, PAOLA"],"totalRemaining":"4","currentlyRegistered":"36","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"May be taken more than once."}
+{
+  "course_name": "AUDI 547A",
+  "subject_code": "AUDI",
+  "course_number": "547A",
+  "course_title": "Directed Reading in Audiology and Speech Sciences - DIR READ AUDI&SP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=547A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 547A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "547A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COLOZZO, PAOLA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "36",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "May be taken more than once.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"MINE 486","subject_code":"MINE","course_number":"486","course_title":"Mining and The Environment","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=486&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MINE 486 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=486&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"MINE","course_number":"486","section_number":"201","building":"Frank Forward","room":"317","instructors":["MARSHALL, BRUCE GAVIN"],"totalRemaining":"14","currentlyRegistered":"87","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 3","description":"Environmental topics of importance to engineers practicing within the mining, metallurgical and related industries including technical practices, regulatory and public issues."}
+{
+  "course_name": "MINE 486",
+  "subject_code": "MINE",
+  "course_number": "486",
+  "course_title": "Mining and The Environment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=486&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 486 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=486&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "486",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARSHALL, BRUCE GAVIN"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "87",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": 3,
+  "description": "Environmental topics of importance to engineers practicing within the mining, metallurgical and related industries including technical practices, regulatory and public issues.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

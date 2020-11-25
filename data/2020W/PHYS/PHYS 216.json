@@ -1,1 +1,179 @@
-{"course_name":"PHYS 216","subject_code":"PHYS","course_number":"216","course_title":"Intermediate Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=216&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 216 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"PHYS","course_number":"216","section_number":"201","building":"Hennings","room":"200","instructors":["VAN WAERBEKE, LUDOVIC"],"totalRemaining":"32","currentlyRegistered":"116","generalRemaining":"32","restrictedRemaining":"0"},"T2A":{"status":" ","section":"PHYS 216 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"10:00","end":"11:00","comments":"","subject_code":"PHYS","course_number":"216","section_number":"T2A","building":"Hennings","room":"302","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"T2B":{"status":"Full","section":"PHYS 216 T2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"13:00","end":"14:00","comments":"","subject_code":"PHYS","course_number":"216","section_number":"T2B","building":"Hebb","room":"B112","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"},"T2C":{"status":"Full","section":"PHYS 216 T2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2C&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"11:00","end":"12:00","comments":"","subject_code":"PHYS","course_number":"216","section_number":"T2C","building":"Hebb","room":"B112","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"20W":{"status":" ","section":"PHYS 216 20W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=20W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"PHYS","course_number":"216","section_number":"20W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Review of kinematics, Newton's laws, angular momentum and fixed axis rotation. Rigid body motion, central forces, non-inertial frames of reference. Introduction to Lagrangian and Hamiltonian mechanics."}
+{
+  "course_name": "PHYS 216",
+  "subject_code": "PHYS",
+  "course_number": "216",
+  "course_title": "Intermediate Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=216&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 216 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN WAERBEKE, LUDOVIC"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "114",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 216 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "27",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 216 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "39",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHYS 216 T2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "T2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 216 T2M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=T2M&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "T2M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "8",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 216 20W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=216&section=20W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "216",
+      "section_number": "20W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Review of kinematics, Newton's laws, angular momentum and fixed axis rotation. Rigid body motion, central forces, non-inertial frames of reference. Introduction to Lagrangian and Hamiltonian mechanics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

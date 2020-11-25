@@ -1,0 +1,97 @@
+{
+    "Schedule": {
+        "1": [
+            {
+                "activity": "Required",
+                "start": "N/A",
+                "course": "BIOL 140",
+                "days": [""],
+                "section": "BIOL 140 101",
+                "term": "1",
+                "end": "N/A",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "09:00",
+                "course": "BIOL 140",
+                "days": ["MON"],
+                "section": "BIOL 140 1A1",
+                "term": "1",
+                "end": "11:50",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "10:00",
+                "course": "BIOL 200",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "BIOL 200 101",
+                "term": "1",
+                "end": "10:50",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Required",
+                "start": "N/A",
+                "course": "BIOL 200",
+                "days": [""],
+                "section": "BIOL 200 000",
+                "term": "1",
+                "end": "N/A",
+                "status": " "
+            },
+            {
+                "activity": "Tutorial",
+                "start": "10:00",
+                "course": "BIOL 200",
+                "days": ["MON"],
+                "section": "BIOL 200 T01",
+                "term": "1",
+                "end": "10:50",
+                "status": " "
+            }
+        ],
+        "2": [
+            {
+                "activity": "Web-Oriented Course",
+                "start": "11:00",
+                "course": "CPSC 210",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "CPSC 210 201",
+                "term": "2",
+                "end": "11:50",
+                "status": "Restricted"
+            },
+            {
+                "activity": "Laboratory",
+                "start": "09:00",
+                "course": "CPSC 210",
+                "days": ["MON"],
+                "section": "CPSC 210 L2A",
+                "term": "2",
+                "end": "10:50",
+                "status": "Restricted"
+            }
+        ]
+    },
+    "Term": "2020W",
+    "Preferences": [
+        "AFTERNOON",
+        "MORNING",
+        "EVENING"
+    ],
+    "Course List": [
+        "CPSC 210",
+        "BIOL 140",
+        "BIOL 200"
+    ]
+}

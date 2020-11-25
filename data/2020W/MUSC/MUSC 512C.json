@@ -1,1 +1,70 @@
-{"course_name":"MUSC 512C","subject_code":"MUSC","course_number":"512C","course_title":"Directed Individual Studies - INDIVDL STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=512C&sessyr=2020&sesscd=W","sections":{"003":{"status":" ","section":"MUSC 512C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512C&section=003&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Both terms - 6 credits","subject_code":"MUSC","course_number":"512C","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"8","restrictedRemaining":"0"},"004":{"status":" ","section":"MUSC 512C 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512C&section=004&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"512C","section_number":"004","building":" ","room":"","instructors":["HERMISTON, NANCY JANE"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Approval by the Director, School of Music, is required."}
+{
+  "course_name": "MUSC 512C",
+  "subject_code": "MUSC",
+  "course_number": "512C",
+  "course_title": "Directed Individual Studies - INDIVDL STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=512C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 512C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Both terms - 6 credits",
+      "subject_code": "MUSC",
+      "course_number": "512C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 512C 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=512C&section=004&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "512C",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Approval by the Director, School of Music, is required.",
+  "terms": [
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"FRST 545","subject_code":"FRST","course_number":"545","course_title":"Technical Communication Skills II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=545&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"FRST 545 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=545&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Registration currently restricted to FRST grad students.  Non-Forestry students may contact instructor closer to term for permission to register, if seats are still available.","subject_code":"FRST","course_number":"545","section_number":"201","building":"Forest Sciences Centre","room":"1002","instructors":["PRESCOTT, CINDY"],"totalRemaining":"15","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"Theory and practice of technical communication necessary for preparation of effective scientific reports, reviews, grant proposals, journal articles and theses."}
+{
+  "course_name": "FRST 545",
+  "subject_code": "FRST",
+  "course_number": "545",
+  "course_title": "Technical Communication Skills II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=545&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 545 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=545&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Registration currently restricted to FRST grad students.  Non-Forestry students may contact instructor closer to term for permission to register, if seats are still available.",
+      "subject_code": "FRST",
+      "course_number": "545",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRESCOTT, CINDY"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory and practice of technical communication necessary for preparation of effective scientific reports, reviews, grant proposals, journal articles and theses.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,73 @@
-{"course_name":"PHIL 250","subject_code":"PHIL","course_number":"250","course_title":"Minds and Machines","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=250&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 250 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=250&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"This is a course in the philosophy of mind as it connects to the cognitive and computer sciences. We will investigate philosophical issues relevant to virtual reality, artificial intelligence, and robots. Our main focus will be on the question of whether minds, such as our own, are natural mechanisms, equivalent in some respects to computers.COVID-19 notice: the instructor's current plan is for class meetings to use a lecture/discussion format and to take place entirely online. Monday and Friday lectures will be recorded so that students living in distant time zones can view them during daylight hours. Wednesday class meetings will take place in real time on UBC Canvas Collaborate Ultra and will be used for class discussion, assessment (quizzes and exams), and student presentations.","subject_code":"PHIL","course_number":"250","section_number":"001","building":" ","room":"","instructors":["BITTNER, THOMAS JACOB"],"totalRemaining":"13","currentlyRegistered":"77","generalRemaining":"13","restrictedRemaining":"0"},"002":{"status":" ","section":"PHIL 250 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=250&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"PHIL","course_number":"250","section_number":"002","building":"Buchanan","room":"B309","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"38","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Philosophical and theoretical issues that pertain to how mental phenomena fit into the material world. Examine questions such as whether a sophisticated enough computer should be deemed a conscious intelligent being. Focus on philosophical literature on consciousness, intelligence, animal minds, and the mind-body relation. Credit will be granted for only one of PHIL 250 or PHIL 150."}
+{
+  "course_name": "PHIL 250",
+  "subject_code": "PHIL",
+  "course_number": "250",
+  "course_title": "Minds and Machines",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 250 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=250&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This is a course in the philosophy of mind as it connects to the cognitive and computer sciences. We will investigate philosophical issues relevant to virtual reality, artificial intelligence, and robots. Our main focus will be on the question of whether minds, such as our own, are natural mechanisms, equivalent in some respects to computers.COVID-19 notice: the instructor's current plan is for class meetings to use a lecture/discussion format and to take place entirely online. Monday and Friday lectures will be recorded so that students living in distant time zones can view them during daylight hours. Wednesday class meetings will take place in real time on UBC Canvas Collaborate Ultra and will be used for class discussion, assessment (quizzes and exams), and student presentations.",
+      "subject_code": "PHIL",
+      "course_number": "250",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BITTNER, THOMAS JACOB"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "74",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 250 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=250&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "250",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Philosophical and theoretical issues that pertain to how mental phenomena fit into the material world. Examine questions such as whether a sophisticated enough computer should be deemed a conscious intelligent being. Focus on philosophical literature on consciousness, intelligence, animal minds, and the mind-body relation. Credit will be granted for only one of PHIL 250 or PHIL 150.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

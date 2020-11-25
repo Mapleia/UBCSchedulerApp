@@ -1,1 +1,43 @@
-{"course_name":"SOCI 515","subject_code":"SOCI","course_number":"515","course_title":"Qualitative Data Analysis in Sociology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=515&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"SOCI 515 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=515&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"SOCI","course_number":"515","section_number":"101","building":" ","room":"","instructors":["GHAZIANI, AMIN"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOCI 515",
+  "subject_code": "SOCI",
+  "course_number": "515",
+  "course_title": "Qualitative Data Analysis in Sociology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=515&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOCI 515 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=515&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "515",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHAZIANI, AMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

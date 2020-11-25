@@ -1,1 +1,48 @@
-{"course_name":"MATH 321","subject_code":"MATH","course_number":"321","course_title":"Real Variables II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=321&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MATH 321 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=321&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.","subject_code":"MATH","course_number":"321","section_number":"201","building":"Mathematics","room":"102","instructors":["3","72","3","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"The Riemann or Riemann-Stieltjes integrals. Sequences and series of functions, uniform convergence. Approximation of continuous functions by polynomials. Fourier series. Functions from Rm to Rn, inverse and implicit function theorems."}
+{
+  "course_name": "MATH 321",
+  "subject_code": "MATH",
+  "course_number": "321",
+  "course_title": "Real Variables II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 321 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=321&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "321",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "9",
+        "66",
+        "9",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "The Riemann or Riemann-Stieltjes integrals. Sequences and series of functions, uniform convergence. Approximation of continuous functions by polynomials. Fourier series. Functions from Rm to Rn, inverse and implicit function theorems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

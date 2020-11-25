@@ -1,1 +1,45 @@
-{"course_name":"JRNL 503B","subject_code":"JRNL","course_number":"503B","course_title":"Journalism Practice and Standards - NWSRM STDRD I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=503B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"JRNL 503B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=503B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"9:30","end":"12:30","comments":"This course is restricted to Master of Journalism students only. The course will be conducted online. Please await further instructions from course instructors closer to the start of term.","subject_code":"JRNL","course_number":"503B","section_number":"001","building":" ","room":"","instructors":["BARFOROUSH, SARANAZ","LEASK, JENNIFER","DAYAL, PRATYUSH(Lead)"],"totalRemaining":"3","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "JRNL 503B",
+  "subject_code": "JRNL",
+  "course_number": "503B",
+  "course_title": "Journalism Practice and Standards - NWSRM STDRD I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=503B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "JRNL 503B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=503B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This course is restricted to Master of Journalism students only. The course will be conducted online. Please await further instructions from course instructors closer to the start of term.",
+      "subject_code": "JRNL",
+      "course_number": "503B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARFOROUSH, SARANAZ",
+        "LEASK, JENNIFER",
+        "DAYAL, PRATYUSH(Lead)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

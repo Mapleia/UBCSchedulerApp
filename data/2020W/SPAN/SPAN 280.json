@@ -1,1 +1,45 @@
-{"course_name":"SPAN 280","subject_code":"SPAN","course_number":"280","course_title":"Revolution! (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=280&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SPAN 280 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=280&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Concepts, theories, and practice of protest, revolt, and revolution in the Hispanic world, highlighting the intersection of politics and culture through novels, poetry, letters, diaries, and/or historical accounts of specific revolutionary uprisings. Full course description: https://fhis.ubc.ca/course-description/span280/","subject_code":"SPAN","course_number":"280","section_number":"201","building":" ","room":"","instructors":["ORR-ALVAREZ, BRIANNE"],"totalRemaining":"39","currentlyRegistered":"61","generalRemaining":"39","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts, theories, and practice of protest, revolt, and revolution in the Hispanic world, highlighting the intersection of politics and culture through novels, poetry, letters, diaries, and/or historical accounts of specific revolutionary uprisings."}
+{
+  "course_name": "SPAN 280",
+  "subject_code": "SPAN",
+  "course_number": "280",
+  "course_title": "Revolution! (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 280 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=280&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Concepts, theories, and practice of protest, revolt, and revolution in the Hispanic world, highlighting the intersection of politics and culture through novels, poetry, letters, diaries, and/or historical accounts of specific revolutionary uprisings. Full course description: https://fhis.ubc.ca/course-description/span280/",
+      "subject_code": "SPAN",
+      "course_number": "280",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORR-ALVAREZ, BRIANNE"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "64",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts, theories, and practice of protest, revolt, and revolution in the Hispanic world, highlighting the intersection of politics and culture through novels, poetry, letters, diaries, and/or historical accounts of specific revolutionary uprisings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

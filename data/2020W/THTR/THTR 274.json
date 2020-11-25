@@ -1,1 +1,45 @@
-{"course_name":"THTR 274","subject_code":"THTR","course_number":"274","course_title":"Beginning Voice and Movement II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=274&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 274 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=274&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon Wed Thu","start":"9:00","end":"12:00","comments":"Restricted to 2nd Year students in the BFA Acting Program.Foundational vocal and physical practices for actor development","subject_code":"THTR","course_number":"274","section_number":"001","building":"Chan Centre","room":"150","instructors":["MURPHY, GAYLE"],"totalRemaining":"3","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Open only to B.F.A. Acting students."}
+{
+  "course_name": "THTR 274",
+  "subject_code": "THTR",
+  "course_number": "274",
+  "course_title": "Beginning Voice and Movement II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=274&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 274 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=274&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:30",
+      "comments": "Restricted to 2nd Year students in the BFA Acting Program.Foundational vocal and physical practices for actor development",
+      "subject_code": "THTR",
+      "course_number": "274",
+      "section_number": "001",
+      "building": "Chan Centre",
+      "room": "150",
+      "instructors": [
+        "MURPHY, GAYLE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Open only to B.F.A. Acting students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

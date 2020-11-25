@@ -1,1 +1,43 @@
-{"course_name":"EDCP 377","subject_code":"EDCP","course_number":"377","course_title":"Design and Technology II - Secondary: Curriculum and Pedagogy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=377&sessyr=2020&sesscd=W","sections":{"301":{"status":"Restricted","section":"EDCP 377 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=377&section=301&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"This section will be offered online.","subject_code":"EDCP","course_number":"377","section_number":"301","building":" ","room":"","instructors":["EDWARDS, ANTHONY"],"totalRemaining":"7","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"7"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 377",
+  "subject_code": "EDCP",
+  "course_number": "377",
+  "course_title": "Design and Technology II - Secondary: Curriculum and Pedagogy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=377&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 377 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=377&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "377",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EDWARDS, ANTHONY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

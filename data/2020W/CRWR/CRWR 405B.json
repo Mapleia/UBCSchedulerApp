@@ -1,1 +1,43 @@
-{"course_name":"CRWR 405B","subject_code":"CRWR","course_number":"405B","course_title":"Writing Creative Nonfiction I - CREATIV NONFIC I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=405B&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"CRWR 405B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=405B&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"10:00","end":"12:00","comments":"","subject_code":"CRWR","course_number":"405B","section_number":"002","building":"Irving K Barber Learning Centre","room":"191","instructors":["CATRON, MANDY"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A workshop class in writing creative nonfiction, focused on some of the more popular forms of creative nonfiction: autobiography, rhetoric (commentary), literary journalism, and the personal essay."}
+{
+  "course_name": "CRWR 405B",
+  "subject_code": "CRWR",
+  "course_number": "405B",
+  "course_title": "Writing Creative Nonfiction I - CREATIV NONFIC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=405B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 405B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=405B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR Winter Term 2 (January-April) courses/sections will be held online. For this particular course, in the first half of the term, students will develop their craft through reading, discussion and frequent writing exercises. Then they will spend the second half of term sharing and polishing work in a synchronous online workshop.",
+      "subject_code": "CRWR",
+      "course_number": "405B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CATRON, MANDY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A workshop class in writing creative nonfiction, focused on some of the more popular forms of creative nonfiction: autobiography, rhetoric (commentary), literary journalism, and the personal essay.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

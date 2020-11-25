@@ -1,1 +1,70 @@
-{"course_name":"FRST 449A","subject_code":"FRST","course_number":"449A","course_title":"Directed Studies in Forestry - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=449A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"FRST 449A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449A&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"see coordinator stdnt services","subject_code":"FRST","course_number":"449A","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["KOZAK, ROBERT ANTAL"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"FRST 449A 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449A&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"FRST","course_number":"449A","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["KOZAK, ROBERT ANTAL"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry."}
+{
+  "course_name": "FRST 449A",
+  "subject_code": "FRST",
+  "course_number": "449A",
+  "course_title": "Directed Studies in Forestry - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=449A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FRST 449A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "see coordinator stdnt services",
+      "subject_code": "FRST",
+      "course_number": "449A",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FRST 449A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=449A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "449A",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

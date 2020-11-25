@@ -1,1 +1,70 @@
-{"course_name":"CHBE 564","subject_code":"CHBE","course_number":"564","course_title":"Industrial Biotechnology Laboratory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=564&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"CHBE 564 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=564&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"13:00","end":"14:00","comments":"APPROVAL REQUIREDCross-linked with MICB 419","subject_code":"CHBE","course_number":"564","section_number":"201","building":"Chemical and Biological Engineering Building","room":"103","instructors":["CREAGH, AIMEE LOUISE"],"totalRemaining":"12","currentlyRegistered":"8","generalRemaining":"8","restrictedRemaining":"4"},"L2A":{"status":"Restricted","section":"CHBE 564 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=564&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"13:00","end":"17:00","comments":"","subject_code":"CHBE","course_number":"564","section_number":"L2A","building":"Chemical and Biological Engineering Building","room":"402","instructors":["CREAGH, AIMEE LOUISE"],"totalRemaining":"4","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Modern bioreactor technology, upstream and downstream processing of biotechnology products. Credit will be granted for only one of CHBE 564 or MICB 419."}
+{
+  "course_name": "CHBE 564",
+  "subject_code": "CHBE",
+  "course_number": "564",
+  "course_title": "Industrial Biotechnology Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=564&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHBE 564 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=564&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "APPROVAL REQUIREDCross-linked with MICB 419",
+      "subject_code": "CHBE",
+      "course_number": "564",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CREAGH, AIMEE LOUISE"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "8",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 564 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=564&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "564",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CREAGH, AIMEE LOUISE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Modern bioreactor technology, upstream and downstream processing of biotechnology products. Credit will be granted for only one of CHBE 564 or MICB 419.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

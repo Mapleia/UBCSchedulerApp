@@ -1,227 +1,244 @@
 package model;
 
 import org.json.JSONObject;
+import persistence.Writable;
 
-import java.util.*;
+import java.time.DayOfWeek;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.temporal.TemporalAdjusters;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
 
-public class Section {
-    private final String status;
-    private final String section;
+
+// Represents a Section of a course.
+public class Section implements Writable {
+    private String status;
+    private String section;
+    private String course;
     private String activity;
     private String term;
-    private final String days;
-    private final String start;
-    private final String end;
+    private List<String> days;
+    private LocalTime start;
+    private LocalTime end;
 
-    private final List<TimeSpan> timeSpans;
-    private final TimeTable timeTable;
-    private boolean crucialFieldsBlank = false;
+    private String termYear;
+    private List<Integer> daysInt;
+    private List<LocalDate> firstWeekList;
 
-    // constructor
-    public Section(String status, String section, String start, String end, String activity, String term, String days,
-                   TimeTable timeTable) {
+
+    //constructor for testing
+    public Section(String status, String section, String course, String activity, String term, List<String> days,
+                   LocalTime start, LocalTime end, String termYear) {
         this.status = status;
         this.section = section;
-        this.start = start;
-        this.end = end;
+        this.course = course;
         this.activity = activity;
         this.term = term;
         this.days = days;
-        this.timeTable = timeTable;
+        this.start = start;
+        this.end = end;
+        this.termYear = termYear;
 
-        crucialFieldsBlank();
-        checkRequired();
-        timeSpans = new ArrayList<>();
-        formatDatesAndTime();
+        init();
     }
 
-    // getters
-    public String getStatus() {
-        return status;
+    // EFFECT: Initializes fields, and runs private methods to populate fields.
+    private void init() {
+        firstWeekList = new ArrayList<>();
+
+        daysInt = new ArrayList<>();
+        for (String day : days) {
+            convertDaysToInt(day);
+        }
+
+        createFirstWeekOfTerm();
+    }
+
+    // getters ========================================================================================================
+    public LocalTime getEnd() {
+        return end;
     }
 
     public String getSection() {
         return section;
     }
 
-    public String getStart() {
+    public LocalTime getStart() {
         return start;
     }
 
-    public String getEnd() {
-        return end;
+    public String getStartStr() {
+        if (start == null) {
+            return "N/A";
+        } else {
+            return start.toString();
+        }
+    }
+
+    public String getEndStr() {
+        if (end == null) {
+            return "N/A";
+        } else {
+            return end.toString();
+        }
+    }
+
+    public List<String> getDays() {
+        return days;
+    }
+
+    public List<LocalDate> getFirstWeekList() {
+        return firstWeekList;
     }
 
     public String getActivity() {
         return activity;
     }
 
+    public String getCourse() {
+        return course;
+    }
+
+    // EFFECT: Returns true if the activity is a "required" type.
+    public boolean isRequired() {
+        return activity.equals("Required");
+    }
+
     public String getTerm() {
         return term;
     }
 
-    public String getDays() {
-        return days;
+    public Object getStatus() {
+        return status;
     }
+    // ================================================================================================================
 
-    public String getTimeSlot() {
-        if (!timeSpans.isEmpty()) {
-            return timeSpans.get(0).getTimeSlot();
-        }
-        return "";
-    }
-
-    public List<TimeSpan> getTimeSpans() {
-        return timeSpans;
-    }
-
-    public boolean isCrucialFieldsBlank() {
-        return crucialFieldsBlank;
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        // referenced: https://stackoverflow.com/questions/24957813/indexof-will-not-find-a-custom-object-type
-        if (!(o instanceof Section)) {
+    // EFFECTS: Returns true if the sections are overlapping.
+    public static boolean isOverlapping(Section section1, Section section2) {
+        if (section1.getStart() == null || section2.getStart() == null) {
             return false;
-        }
-        Section s = (Section) o;
-        boolean boolSection = this.section.equals(s.getSection());
-        boolean boolActivity = this.activity.equals(s.getActivity());
-        return boolSection && boolActivity;
-    }
-
-    @Override
-    public int hashCode() {
-        // referenced: https://www.baeldung.com/java-hashcode
-        return section.hashCode() * activity.hashCode();
-    }
-
-    public static Section createSection(JSONObject obj, TimeTable table) {
-        String status = obj.getString("status");
-        String section = obj.getString("section");
-        String activity = obj.getString("activity");
-        String term = obj.getString("term");
-        String days = obj.getString("days");
-        String start = obj.getString("start");
-        String end = obj.getString("end");
-
-        return new Section(status, section, start, end, activity, term, days, table);
-    }
-
-    // REQUIRES: valid section
-    // EFFECT: returns true if sections are overlapping in time.
-    public boolean isOverlapping(Section section) {
-        boolean result = false;
-        List<TimeSpan> map1;
-        List<TimeSpan> map2;
-        List<TimeSpan> otherSectionMap = section.getTimeSpans();
-
-        if (timeSpans.size() > otherSectionMap.size()) {
-            map1 = timeSpans;
-            map2 = otherSectionMap;
+        } else if (section1.getEnd() == null || section2.getEnd() == null) {
+            return false;
+        } else if (section1.getFirstWeekList().size() > section2.getFirstWeekList().size()) {
+            return isOverlappingHelper(section1, section2);
         } else {
-            map1 = otherSectionMap;
-            map2 = timeSpans;
+            return isOverlappingHelper(section2, section1);
         }
+    }
 
-        search: {
-            for (TimeSpan entry : map1) {
-                for (TimeSpan entry2 : map2) {
-                    if (TimeSpan.isOverlapping(entry, entry2) || TimeSpan.isOverlapping(entry2, entry)) {
+    // REQUIRES: section1 to have more days then section2, start & end cannot be null.
+    // EFFECTS: Returns true if sections are overlapping.
+    private static boolean isOverlappingHelper(Section section1, Section section2) {
+        boolean result = false;
+        for (LocalDate date : section1.getFirstWeekList()) {
+            for (LocalDate date2 : section2.getFirstWeekList()) {
+                LocalTime start1 = section1.getStart();
+                LocalTime start2 = section2.getStart();
+                LocalTime end1 = section1.getEnd();
+                LocalTime end2 = section2.getEnd();
+
+                if (LocalDateTime.of(date, start1).isEqual(LocalDateTime.of(date2, start2))
+                        || LocalDateTime.of(date, end1).isEqual(LocalDateTime.of(date2, end2))) {
+                    result = true;
+                } else {
+                    boolean s1IsBeforeS2 = LocalDateTime.of(date, start1).isBefore(LocalDateTime.of(date2, end2));
+                    boolean s2IsBeforeE1 = LocalDateTime.of(date2, start2).isBefore(LocalDateTime.of(date, end1));
+                    if (s1IsBeforeS2 && s2IsBeforeE1) {
                         result = true;
-                        break search;
                     }
                 }
             }
         }
-
         return result;
     }
 
-    // requires: list of sections
-    // EFFECT: checks if there are any overlaps with the list of section and the this.section.
-    public boolean isOverlapping(List<Section> sections) {
-        boolean result = false;
-        for (Section section : sections) {
-            if (isOverlapping(section)) {
-                result = true;
+    // EFFECT: serializes section object to a JSONObject.
+    @Override
+    public JSONObject toJson() {
+        JSONObject obj = new JSONObject();
+        obj.put("status", status);
+        obj.put("section", section);
+        obj.put("course", course);
+        obj.put("activity", activity);
+        obj.put("term", term);
+        obj.put("days", days);
+        obj.put("start", getStartStr());
+        obj.put("end", getEndStr());
+
+        return obj;
+    }
+
+    // EFFECT: From an array of days, convert a day of the week to an int value.
+    //         1 is Monday and so on and so forth. 7 is Sunday.
+    private void convertDaysToInt(String day) {
+        switch (day) {
+            case "MON":
+                daysInt.add(1);
                 break;
+            case "TUE":
+                daysInt.add(2);
+                break;
+            case "WED":
+                daysInt.add(3);
+                break;
+            case "THU":
+                daysInt.add(4);
+                break;
+            case "FRI":
+                daysInt.add(5);
+                break;
+            case "SAT":
+                daysInt.add(6);
+                break;
+            default:
+                daysInt.add(7);
+        }
+    }
+
+    // EFFECT: Populate "localDateList" field with LocalDate of dates (that the section runs on) and
+    //         of the first week in the term.
+    private void createFirstWeekOfTerm() {
+        int year = Integer.parseInt(termYear.substring(0, 4));
+        LocalDate date1;
+        LocalDate date2;
+
+        for (int dayInt : daysInt) {
+            date1 = LocalDate.of(year, 9, 1);
+            date1 = date1.with(TemporalAdjusters.firstInMonth(DayOfWeek.of(dayInt)));
+            date2 = LocalDate.of(year, 1, 1);
+            date2 = date2.with(TemporalAdjusters.firstInMonth(DayOfWeek.of(dayInt)));
+
+            switch (term) {
+                case "1-2":
+                    firstWeekList.add(date1);
+                    firstWeekList.add(date2);
+                    break;
+                case "2":
+                    firstWeekList.add(date2);
+                    break;
+                default:
+                    firstWeekList.add(date1);
+                    break;
             }
         }
 
-        return result;
+        firstWeekList = firstWeekList.stream().sorted().collect(Collectors.toList());
     }
 
-    // REQUIRES: start, end and days to be string.
-    // MODIFIES: this.
-    // EFFECT: sets crucialFieldsBlank to true if start (time in str) end or days is blank.
-    private void crucialFieldsBlank() {
-        crucialFieldsBlank = (start.trim().equals("") || end.trim().equals("") || days.trim().equals(""));
-    }
-
-    // MODIFIES: this
-    // EFFECT: sets the activity type to required if any of the crucial fields are blank.
-    // (* usually indicates that it's a mandatory section everyone has to register in. )
-    private void checkRequired() {
-        if (crucialFieldsBlank) {
-            if (activity.equalsIgnoreCase("Web-Oriented Course")
-                    || activity.equalsIgnoreCase("Lecture")) {
-                activity = "Required";
-            }
+    // EFFECT: Returns "MORNING" / "AFTERNOON" / "EVENING" based on the start time and end time of the section.
+    //         Throws NoTimeSpan if a suitable one is not found.
+    public String getTimeSpan() {
+        if (start == null || end == null) {
+            return "N/A";
+        } else if (start.isAfter(LocalTime.of(17, 59))) {
+            return "EVENING";
+        } else if (start.isAfter(LocalTime.of(11, 59))) {
+            return "AFTERNOON";
+        } else {
+            return "MORNING";
         }
     }
-
-    // REQUIRES: crucialFieldsBlank to be already set.
-    // MODIFIES: this.
-    // EFFECT: Add to list of timeSpans to set up timeSpan for all of the days the section is scheduled for.
-    private void formatDatesAndTime() {
-        if (!crucialFieldsBlank) {
-            String[] daysArr = days.trim().split(" ");
-
-            for (String s : daysArr) {
-                if (timeTable.isWinter) {
-                    timeSpans.addAll(winterTimeSpan(s));
-                } else {
-                    timeSpans.addAll(summerTimeSpan(s));
-                }
-            }
-
-            Collections.sort(timeSpans);
-        }
-    }
-
-    private List<TimeSpan> winterTimeSpan(String s) {
-        List<TimeSpan> list = new ArrayList<>();
-
-        switch (term) {
-            case "2":
-                list.add(new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING));
-                return list;
-            case "1-2":
-                list.add(new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL));
-                list.add(new TimeSpan(start, end, s, timeTable.yearSpring, TimeTable.TERM_SPRING));
-                return list;
-            default: // term 1
-                list.add(new TimeSpan(start, end, s, timeTable.yearFall, TimeTable.TERM_FALL));
-                return list;
-        }
-    }
-
-    private List<TimeSpan> summerTimeSpan(String s)  {
-        List<TimeSpan> list = new ArrayList<>();
-        switch (term) {
-            case "2":
-                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2));
-                return list;
-            case "1-2":
-                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1));
-                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER2));
-                return list;
-            default: // term 1
-                list.add(new TimeSpan(start, end, s, timeTable.yearSummer, TimeTable.TERM_SUMMER1));
-                return list;
-        }
-    }
-
 }

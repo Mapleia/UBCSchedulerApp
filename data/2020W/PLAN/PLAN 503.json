@@ -1,1 +1,96 @@
-{"course_name":"PLAN 503","subject_code":"PLAN","course_number":"503","course_title":"Planning for Community Economic Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=503&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PLAN 503 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Course requirement for MCRP students in the Indigenous Community Planning (ICP) concentration. Priority registration given to MCRP students in the ICP concentration. Students not in the ICP concentration may register for the waitlist. The course will run on the following dates: August 28 (4-7:30pm); September 8-10 (11am-6pm); September 11 (10am-5pm); September 12-13 (1-7pm).","subject_code":"PLAN","course_number":"503","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TROUSDALE, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":"Restricted","section":"PLAN 503 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"For SCARP students only.","subject_code":"PLAN","course_number":"503","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TROUSDALE, WILLIAM"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"},"WL2":{"status":" ","section":"PLAN 503 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"For non-SCARP students.","subject_code":"PLAN","course_number":"503","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theories of community economic development planning. Concepts of community wealth, income, growth and development. Models of the formal and informal community economy."}
+{
+  "course_name": "PLAN 503",
+  "subject_code": "PLAN",
+  "course_number": "503",
+  "course_title": "Planning for Community Economic Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=503&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 503 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Course requirement for MCRP students in the Indigenous Community Planning (ICP) concentration. Priority registration given to MCRP students in the ICP concentration. Students not in the ICP concentration may register for the waitlist. The course will run on the following dates: August 28 (4-7:30pm); September 8-10 (11am-6pm); September 11 (10am-5pm); September 12-13 (1-7pm).",
+      "subject_code": "PLAN",
+      "course_number": "503",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TROUSDALE, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "PLAN 503 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "For SCARP students only.",
+      "subject_code": "PLAN",
+      "course_number": "503",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TROUSDALE, WILLIAM"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": " ",
+      "section": "PLAN 503 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=503&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "For non-SCARP students.",
+      "subject_code": "PLAN",
+      "course_number": "503",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theories of community economic development planning. Concepts of community wealth, income, growth and development. Models of the formal and informal community economy.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"ENGL 309","subject_code":"ENGL","course_number":"309","course_title":"Rhetoric of Science, Technology, and Medicine","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=309&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ENGL 309 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=309&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ENGL","course_number":"309","section_number":"001","building":"West Mall Swing Space","room":"109","instructors":["GAUDET, LOREN"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Exploration of the persuasive dimension of discourse practices in science, technology, and medicine."}
+{
+  "course_name": "ENGL 309",
+  "subject_code": "ENGL",
+  "course_number": "309",
+  "course_title": "Rhetoric of Science, Technology, and Medicine",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=309&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 309 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=309&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "309",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GAUDET, LOREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Exploration of the persuasive dimension of discourse practices in science, technology, and medicine.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

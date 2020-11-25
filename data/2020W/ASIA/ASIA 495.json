@@ -1,1 +1,44 @@
-{"course_name":"ASIA 495","subject_code":"ASIA","course_number":"495","course_title":"Folk Cultures in the Asian Diaspora","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=495&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ASIA 495 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=495&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.) Please note that the course has been unblocked as students should register themselves as the waitlist has been closed.This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.","subject_code":"ASIA","course_number":"495","section_number":"001","building":" ","room":"","instructors":["SATHAYE, ADHEESH"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The mediation of folklore (e.g. slang, songs, games, dance, foodways) in the everyday lives of immigrant and transnational Asian communities. Emphasis on Asian-Canadian folklore in Greater Vancouver through digital documentary media production and archival folklore research."}
+{
+  "course_name": "ASIA 495",
+  "subject_code": "ASIA",
+  "course_number": "495",
+  "course_title": "Folk Cultures in the Asian Diaspora",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ASIA 495 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=495&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.) Please note that the course has been unblocked as students should register themselves as the waitlist has been closed.This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.",
+      "subject_code": "ASIA",
+      "course_number": "495",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SATHAYE, ADHEESH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The mediation of folklore (e.g. slang, songs, games, dance, foodways) in the everyday lives of immigrant and transnational Asian communities. Emphasis on Asian-Canadian folklore in Greater Vancouver through digital documentary media production and archival folklore research.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

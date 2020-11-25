@@ -1,1 +1,174 @@
-{"course_name":"MICB 323","subject_code":"MICB","course_number":"323","course_title":"Molecular Immunology and Virology Laboratory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=323&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MICB 323 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon","start":"19:00","end":"22:00","comments":"MBIM majors and honours only.  Please direct enquires to Craig Kornak at craig.kornak@ubc.ca.","subject_code":"MICB","course_number":"323","section_number":"201","building":" ","room":"","instructors":["GRAVES, MARCIA"],"totalRemaining":"8","currentlyRegistered":"72","generalRemaining":"8","restrictedRemaining":"0"},"L01":{"status":"Blocked","section":"MICB 323 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"13:00","end":"17:00","comments":"limited to Microbiology majors and honours","subject_code":"MICB","course_number":"323","section_number":"L01","building":"Biological Sciences","room":"3145","instructors":["GRAVES, MARCIA"],"totalRemaining":"1","currentlyRegistered":"13","generalRemaining":"1","restrictedRemaining":"0"},"L02":{"status":"Blocked","section":"MICB 323 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"13:00","end":"17:00","comments":"limited to Microbiology majors and honours","subject_code":"MICB","course_number":"323","section_number":"L02","building":"Biological Sciences","room":"3145","instructors":["GRAVES, MARCIA"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":"Blocked","section":"MICB 323 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"13:00","end":"17:00","comments":"limited to Microbiology majors and honours","subject_code":"MICB","course_number":"323","section_number":"L03","building":"Biological Sciences","room":"3145","instructors":["GRAVES, MARCIA"],"totalRemaining":"0","currentlyRegistered":"17","generalRemaining":"0","restrictedRemaining":"0"},"L04":{"status":"Full","section":"MICB 323 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L04&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"13:00","end":"17:00","comments":"","subject_code":"MICB","course_number":"323","section_number":"L04","building":"Biological Sciences","room":"3145","instructors":["GRAVES, MARCIA"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"L05":{"status":" ","section":"MICB 323 L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L05&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"13:00","end":"17:00","comments":"","subject_code":"MICB","course_number":"323","section_number":"L05","building":"Biological Sciences","room":"3145","instructors":["GRAVES, MARCIA"],"totalRemaining":"10","currentlyRegistered":"6","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Genetic manipulations of bacteria, introductory immunological and virological procedures, tissue culture. Restricted to students in Microbiology and Immunology specializations."}
+{
+  "course_name": "MICB 323",
+  "subject_code": "MICB",
+  "course_number": "323",
+  "course_title": "Molecular Immunology and Virology Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 323 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "22:00",
+      "comments": "MBIM majors and honours only.  Please direct enquires to Craig Kornak at craig.kornak@ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "73",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MICB 323 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "limited to Microbiology majors and honours",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "L01",
+      "building": "Biological Sciences",
+      "room": "3145",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MICB 323 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "limited to Microbiology majors and honours",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "L02",
+      "building": "Biological Sciences",
+      "room": "3145",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MICB 323 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "limited to Microbiology majors and honours",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "L03",
+      "building": "Biological Sciences",
+      "room": "3145",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MICB 323 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "L04",
+      "building": "Biological Sciences",
+      "room": "3145",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 323 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=323&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "323",
+      "section_number": "L05",
+      "building": "Biological Sciences",
+      "room": "3145",
+      "instructors": [
+        "GRAVES, MARCIA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "6",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Genetic manipulations of bacteria, introductory immunological and virological procedures, tissue culture. Restricted to students in Microbiology and Immunology specializations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"THTR 408B","subject_code":"THTR","course_number":"408B","course_title":"Advanced Study in Design and Scenography - ADV STDY DSGN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=408B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 408B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=408B&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Fri","start":"13:00","end":"16:00","comments":"Design of image projection and lighting for live performance. This section is cross-listed with THTR 307, Section 001.","subject_code":"THTR","course_number":"408B","section_number":"001","building":"Dorothy Somerset Studio","room":"101","instructors":["GARDINER, ROBERT"],"totalRemaining":"7","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Topics will vary from year to year. Consent of Department required."}
+{
+  "course_name": "THTR 408B",
+  "subject_code": "THTR",
+  "course_number": "408B",
+  "course_title": "Advanced Study in Design and Scenography - ADV STDY DSGN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=408B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 408B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=408B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Design of image projection and lighting for live performance. This section is cross-listed with THTR 307, Section 001.",
+      "subject_code": "THTR",
+      "course_number": "408B",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "101",
+      "instructors": [
+        "GARDINER, ROBERT"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics will vary from year to year. Consent of Department required.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"PHIL 360","subject_code":"PHIL","course_number":"360","course_title":"Introduction to History and Philosophy of Science","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=360&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 360 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=360&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"This course is cross-listed with HIST 393. Students can register in either section.","subject_code":"PHIL","course_number":"360","section_number":"001","building":"Chemistry","room":"C124","instructors":["KOJEVNIKOV, ALEXEI"],"totalRemaining":"14","currentlyRegistered":"16","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An examination of historical, conceptual and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science."}
+{
+  "course_name": "PHIL 360",
+  "subject_code": "PHIL",
+  "course_number": "360",
+  "course_title": "Introduction to History and Philosophy of Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 360 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=360&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This course is cross-listed with HIST 393. Students can register in either section.",
+      "subject_code": "PHIL",
+      "course_number": "360",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOJEVNIKOV, ALEXEI"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An examination of historical, conceptual and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

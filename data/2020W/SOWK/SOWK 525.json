@@ -1,1 +1,70 @@
-{"course_name":"SOWK 525","subject_code":"SOWK","course_number":"525","course_title":"Advanced Social Work Practice: Mental Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=525&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 525 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=525&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"","subject_code":"SOWK","course_number":"525","section_number":"001","building":"Jack Bell Building for the School of Social Work","room":"222","instructors":["MORRIS, RAE"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"},"2W1":{"status":" ","section":"SOWK 525 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=525&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"WAITING LIST.  Students will be moved to regular section as space becomes available.Students will be notified by email if this happens.","subject_code":"SOWK","course_number":"525","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 525",
+  "subject_code": "SOWK",
+  "course_number": "525",
+  "course_title": "Advanced Social Work Practice: Mental Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=525&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 525 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=525&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "525",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORRIS, RAE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOWK 525 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=525&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "WAITING LIST.  Students will be moved to regular section as space becomes available.Students will be notified by email if this happens.",
+      "subject_code": "SOWK",
+      "course_number": "525",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

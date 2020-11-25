@@ -1,1 +1,44 @@
-{"course_name":"PSYC 583","subject_code":"PSYC","course_number":"583","course_title":"Special Topics in Cognition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=583&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PSYC 583 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=583&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Psyc COG grads only","subject_code":"PSYC","course_number":"583","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TRUONG, GRACE","ZHAO, JIAYING"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PSYC 583",
+  "subject_code": "PSYC",
+  "course_number": "583",
+  "course_title": "Special Topics in Cognition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=583&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 583 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=583&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Psyc COG grads only",
+      "subject_code": "PSYC",
+      "course_number": "583",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TRUONG, GRACE",
+        "ZHAO, JIAYING"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

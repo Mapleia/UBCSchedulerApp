@@ -1,1 +1,44 @@
-{"course_name":"UFOR 100","subject_code":"UFOR","course_number":"100","course_title":"Greening the City","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=100&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"UFOR 100 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=100&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"The required course textbook is Ferrini, F., Konijnendijk van den Bosch, C., Fini, F. (eds.), 2017. Routledge Handbook of Urban Forestry. Routledge, London etc. Students can purchase an electronic version of the book at https://www.routledge.com/Routledge-Handbook-of-Urban-Forestry/Ferrini-Konijnendijk-van-den-Bosch-Fini/p/book/9781138647282. Further instructions will be provided at the start of the course.","subject_code":"UFOR","course_number":"100","section_number":"101","building":" ","room":"","instructors":["ALMAS, ANDREW"],"totalRemaining":"9","currentlyRegistered":"111","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Roles played by urban forestry and greenspace systems in a rapidly changing world; topics include urban ecology, urban forest conservation, urban forest management, climate change, society and human well-being, design and planning, urban/rural interface issues, and urban forest policy."}
+{
+  "course_name": "UFOR 100",
+  "subject_code": "UFOR",
+  "course_number": "100",
+  "course_title": "Greening the City",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "UFOR 100 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=100&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "The required course textbook is Ferrini, F., Konijnendijk van den Bosch, C., Fini, F. (eds.), 2017. Routledge Handbook of Urban Forestry. Routledge, London etc. Students can purchase an electronic version of the book at https://www.routledge.com/Routledge-Handbook-of-Urban-Forestry/Ferrini-Konijnendijk-van-den-Bosch-Fini/p/book/9781138647282. Further instructions will be provided at the start of the course.",
+      "subject_code": "UFOR",
+      "course_number": "100",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALMAS, ANDREW"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "111",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Roles played by urban forestry and greenspace systems in a rapidly changing world; topics include urban ecology, urban forest conservation, urban forest management, climate change, society and human well-being, design and planning, urban/rural interface issues, and urban forest policy.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

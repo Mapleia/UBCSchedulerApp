@@ -1,1 +1,122 @@
-{"course_name":"CRWR 306","subject_code":"CRWR","course_number":"306","course_title":"Intermediate Writing for the Screen","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=306&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"CRWR 306 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"306","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["KINCH, MARTIN"],"totalRemaining":"5","currentlyRegistered":"91","generalRemaining":"5","restrictedRemaining":"0"},"FPR":{"status":" ","section":"CRWR 306 FPR","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=FPR&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"Students must also register for CRWR 306, the web-based lecture portion of this course.This seminar section is RESERVED for FIPR students.","subject_code":"CRWR","course_number":"306","section_number":"FPR","building":"Buchanan","room":"B302","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"26","generalRemaining":"19","restrictedRemaining":"1"},"LS1":{"status":"Full","section":"CRWR 306 LS1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=LS1&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"Students must also register for CRWR 306, the web-based lecture portion of this course.","subject_code":"CRWR","course_number":"306","section_number":"LS1","building":"Buchanan","room":"B304","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"LS2":{"status":" ","section":"CRWR 306 LS2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=LS2&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"Students must also register for CRWR 306, the web-based lecture portion of this course.","subject_code":"CRWR","course_number":"306","section_number":"LS2","building":"Buchanan","room":"B307","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"22","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission."}
+{
+  "course_name": "CRWR 306",
+  "subject_code": "CRWR",
+  "course_number": "306",
+  "course_title": "Intermediate Writing for the Screen",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 306 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "306",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KINCH, MARTIN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "90",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 306 FPR",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=FPR&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Students must also register for CRWR 306, the web-based lecture portion of this course.This seminar section is RESERVED for FIPR students.",
+      "subject_code": "CRWR",
+      "course_number": "306",
+      "section_number": "FPR",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "27",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 306 LS1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=LS1&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Students must also register for CRWR 306, the web-based lecture portion of this course.",
+      "subject_code": "CRWR",
+      "course_number": "306",
+      "section_number": "LS1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 306 LS2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=306&section=LS2&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Students must also register for CRWR 306, the web-based lecture portion of this course.",
+      "subject_code": "CRWR",
+      "course_number": "306",
+      "section_number": "LS2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "28",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture-Seminar"
+  ]
+}

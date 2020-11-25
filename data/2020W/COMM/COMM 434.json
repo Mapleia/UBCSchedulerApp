@@ -1,1 +1,71 @@
-{"course_name":"COMM 434","subject_code":"COMM","course_number":"434","course_title":"Land Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=434&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"COMM 434 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=434&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"COMM","course_number":"434","section_number":"201","building":" ","room":"","instructors":["SALZBERG, ELICIA"],"totalRemaining":"1","currentlyRegistered":"38","generalRemaining":"0","restrictedRemaining":"1"},"202":{"status":"Restricted","section":"COMM 434 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=434&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMM","course_number":"434","section_number":"202","building":" ","room":"","instructors":["SALZBERG, ELICIA"],"totalRemaining":"2","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Legal principles and concepts relating to real estate and land development."}
+{
+  "course_name": "COMM 434",
+  "subject_code": "COMM",
+  "course_number": "434",
+  "course_title": "Land Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=434&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 434 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=434&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "434",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SALZBERG, ELICIA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 434 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=434&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "434",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SALZBERG, ELICIA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Legal principles and concepts relating to real estate and land development.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

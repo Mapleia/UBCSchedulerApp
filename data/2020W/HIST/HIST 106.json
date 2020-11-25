@@ -1,1 +1,202 @@
-{"course_name":"HIST 106","subject_code":"HIST","course_number":"106","course_title":"Global Environmental History","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=106&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"HIST 106 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"9:30","end":"11:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"201","building":"Life Sciences Centre","room":"1003","instructors":["LOO, TINA MERRILL","MOLNAR, AARON","PETERS, MERCEDES"],"totalRemaining":"35","currentlyRegistered":"73","generalRemaining":"35","restrictedRemaining":"0"},"L1A":{"status":" ","section":"HIST 106 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1A","building":"Ponderosa Annex E","room":"121","instructors":["LOO, TINA MERRILL"],"totalRemaining":"3","currentlyRegistered":"15","generalRemaining":"3","restrictedRemaining":"0"},"L1B":{"status":" ","section":"HIST 106 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"9:00","end":"10:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1B","building":"Buchanan","room":"B316","instructors":["LOO, TINA MERRILL"],"totalRemaining":"3","currentlyRegistered":"15","generalRemaining":"3","restrictedRemaining":"0"},"L1C":{"status":"Full","section":"HIST 106 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1C&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1C","building":"Ponderosa Annex E","room":"121","instructors":["LOO, TINA MERRILL"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L1D":{"status":" ","section":"HIST 106 L1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1D&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1D","building":"Ponderosa Annex E","room":"121","instructors":["LOO, TINA MERRILL"],"totalRemaining":"11","currentlyRegistered":"7","generalRemaining":"11","restrictedRemaining":"0"},"L1E":{"status":" ","section":"HIST 106 L1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1E&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1E","building":"Ponderosa Annex E","room":"121","instructors":["LOO, TINA MERRILL"],"totalRemaining":"10","currentlyRegistered":"8","generalRemaining":"10","restrictedRemaining":"0"},"L1F":{"status":" ","section":"HIST 106 L1F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1F&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"HIST","course_number":"106","section_number":"L1F","building":"Ponderosa Annex E","room":"121","instructors":["LOO, TINA MERRILL"],"totalRemaining":"10","currentlyRegistered":"8","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The impact humans have had on the environment, and the ways in which the physical environment has shaped human history: climate, agriculture, energy use, and urbanization."}
+{
+  "course_name": "HIST 106",
+  "subject_code": "HIST",
+  "course_number": "106",
+  "course_title": "Global Environmental History",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=106&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 106 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "HIST 106 will involve a mix of synchronous and asynchronous remote teaching, including live tutorials on Fridays. Accommodations are possible for those unable to attend during scheduled class times.",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "MOLNAR, AARON",
+        "PETERS, MERCEDES"
+      ],
+      "totalRemaining": "39",
+      "currentlyRegistered": "69",
+      "generalRemaining": "39",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "13",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "15",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "9",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "8",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 106 L1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=106&section=L1F&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "106",
+      "section_number": "L1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "6",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The impact humans have had on the environment, and the ways in which the physical environment has shaped human history: climate, agriculture, energy use, and urbanization.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

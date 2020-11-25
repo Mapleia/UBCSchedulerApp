@@ -1,1 +1,43 @@
-{"course_name":"ASTU 400R","subject_code":"ASTU","course_number":"400R","course_title":"Interdisciplinary Studies in Arts - WRITTEN AND ORAL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=400R&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ASTU 400R 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=400R&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTU","course_number":"400R","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"For upper-division students in the Faculty of Arts. Topics announced annually."}
+{
+  "course_name": "ASTU 400R",
+  "subject_code": "ASTU",
+  "course_number": "400R",
+  "course_title": "Interdisciplinary Studies in Arts - WRITTEN AND ORAL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=400R&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTU 400R 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=400R&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "400R",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "For upper-division students in the Faculty of Arts. Topics announced annually.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"POLI 562B","subject_code":"POLI","course_number":"562B","course_title":"Topics in International Relations - TOP IN INTER REL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=562B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"POLI 562B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=562B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"*This course is crosslisted with POLI 464C 001.All 2020W Term 1 courses will be delivered online. For detailed course descriptions, and information on alternative course times, please refer here: https://politics.ubc.ca/graduate/courses/","subject_code":"POLI","course_number":"562B","section_number":"001","building":" ","room":"","instructors":["CHOWDHURY, ARJUN"],"totalRemaining":"3","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "POLI 562B",
+  "subject_code": "POLI",
+  "course_number": "562B",
+  "course_title": "Topics in International Relations - TOP IN INTER REL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=562B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "POLI 562B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=562B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "*This course is crosslisted with POLI 464C 001.All 2020W Term 1 courses will be delivered online. For detailed course descriptions, and information on alternative course times, please refer here: https://politics.ubc.ca/graduate/courses/",
+      "subject_code": "POLI",
+      "course_number": "562B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHOWDHURY, ARJUN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

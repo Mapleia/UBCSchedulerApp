@@ -1,1 +1,70 @@
-{"course_name":"RHSC 509","subject_code":"RHSC","course_number":"509","course_title":"Facilitating Learning in Rehabilitation Contexts","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=509&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"RHSC 509 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=509&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Prereq:  Admission to MRSc or GCR program; others require permission from the program office at info@mrsc.ubc.ca","subject_code":"RHSC","course_number":"509","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["DYKS, TRACEY","FAULKNER, CLARE"],"totalRemaining":"2","currentlyRegistered":"14","generalRemaining":"2","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"RHSC 509 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=509&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This section will be blocked from registration unless there is sufficient enrolment to schedule a 2nd section.For MRSc and GCR learners only.  Other students require permission from the program office at info@mrsc.ubc.ca.","subject_code":"RHSC","course_number":"509","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["DURAN, LESLIE"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "RHSC 509",
+  "subject_code": "RHSC",
+  "course_number": "509",
+  "course_title": "Facilitating Learning in Rehabilitation Contexts",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=509&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RHSC 509 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=509&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Prereq:  Admission to MRSc or GCR program; others require permission from the program office at info@mrsc.ubc.ca",
+      "subject_code": "RHSC",
+      "course_number": "509",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DYKS, TRACEY",
+        "FAULKNER, CLARE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "14",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "RHSC 509 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=509&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section will be blocked from registration unless there is sufficient enrolment to schedule a 2nd section.For MRSc and GCR learners only.  Other students require permission from the program office at info@mrsc.ubc.ca.",
+      "subject_code": "RHSC",
+      "course_number": "509",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DURAN, LESLIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

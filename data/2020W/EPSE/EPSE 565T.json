@@ -1,1 +1,43 @@
-{"course_name":"EPSE 565T","subject_code":"EPSE","course_number":"565T","course_title":"Special Course in Subject Matter Field - SP CRSE: SUBJ FL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=565T&sessyr=2020&sesscd=W","sections":{"075":{"status":" ","section":"EPSE 565T 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=565T&section=075&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"SPEDSPED: Inclusive Programming for Students Requiring Targeted Intervention (Tier II/III) Supports","subject_code":"EPSE","course_number":"565T","section_number":"075","building":"Neville Scarfe","room":"204","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 565T",
+  "subject_code": "EPSE",
+  "course_number": "565T",
+  "course_title": "Special Course in Subject Matter Field - SP CRSE: SUBJ FL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=565T&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EPSE 565T 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=565T&section=075&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPEDSPED: Inclusive Programming for Students Requiring Targeted Intervention (Tier II/III) SupportsThis section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "565T",
+      "section_number": "075",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "6",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

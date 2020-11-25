@@ -1,0 +1,14 @@
+{"error log":{},
+  "courses":["BIOL 200","CHEM 233","CPSC 210"],
+  "schedule":[
+    {"activity":"Web-Oriented Course",
+    "timeSlot":"Afternoon","start":"15:00",
+    "timeSpans":[
+      {"timeSlot":"Afternoon","start":"2020-09-07T15:00-07:00[America/Vancouver]",
+        "end":"2020-09-07T16:00-07:00[America/Vancouver]"},
+      {"timeSlot":"Afternoon","start":"2020-09-09T15:00-07:00[America/Vancouver]","end":"2020-09-09T16:00-07:00[America/Vancouver]"},
+      {"timeSlot":"Afternoon","start":"2020-09-11T15:00-07:00[America/Vancouver]","end":"2020-09-11T16:00-07:00[America/Vancouver]"}],
+    "days":" Mon Wed Fri","section":"CHEM 233 103","end":"16:00","term":"1","crucialFieldsBlank":false,"status":"Blocked"},
+    {"activity":"Web-Oriented Course","timeSlot":"Afternoon","start":"14:00",
+      "timeSpans":[{"timeSlot":"Afternoon","start":"2020-09-08T14:00-07:00[America/Vancouver]","end":"2020-09-08T15:30-07:00[America/Vancouver]"},{"timeSlot":"Afternoon","start":"2020-09-10T14:00-07:00[America/Vancouver]","end":"2020-09-10T15:30-07:00[America/Vancouver]"}],"days":" Tue Thu","section":"BIOL 200 103","end":"15:30","term":"1","crucialFieldsBlank":false,"status":" "},{"activity":"Tutorial","timeSlot":"Afternoon","start":"15:00","timeSpans":[{"timeSlot":"Afternoon","start":"2021-01-06T15:00-08:00[America/Vancouver]","end":"2021-01-06T16:00-08:00[America/Vancouver]"}],"days":" Wed","section":"BIOL 200 T67","end":"16:00","term":"2","crucialFieldsBlank":false,"status":" "},{"activity":"Required","timeSlot":"","start":"","timeSpans":[],"days":" ","section":"BIOL 200 000","end":"","term":"1","crucialFieldsBlank":true,"status":" "},{"activity":"Web-Oriented Course","timeSlot":"Afternoon","start":"13:00","timeSpans":[{"timeSlot":"Afternoon","start":"2020-09-07T13:00-07:00[America/Vancouver]","end":"2020-09-07T14:00-07:00[America/Vancouver]"},{"timeSlot":"Afternoon","start":"2020-09-09T13:00-07:00[America/Vancouver]","end":"2020-09-09T14:00-07:00[America/Vancouver]"},{"timeSlot":"Afternoon","start":"2020-09-11T13:00-07:00[America/Vancouver]","end":"2020-09-11T14:00-07:00[America/Vancouver]"}],"days":" Mon Wed Fri","section":"CPSC 210 102","end":"14:00","term":"1","crucialFieldsBlank":false,"status":"Full"},{"activity":"Laboratory","timeSlot":"Afternoon","start":"15:00","timeSpans":[{"timeSlot":"Afternoon","start":"2021-01-08T15:00-08:00[America/Vancouver]","end":"2021-01-08T17:00-08:00[America/Vancouver]"}],"days":" Fri","section":"CPSC 210 L2P","end":"17:00","term":"2","crucialFieldsBlank":false,"status":"Blocked"}],
+  "username":"KAEDE"}

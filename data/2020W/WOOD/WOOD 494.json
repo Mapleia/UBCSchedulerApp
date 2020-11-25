@@ -1,1 +1,72 @@
-{"course_name":"WOOD 494","subject_code":"WOOD","course_number":"494","course_title":"Principles of Wood Cutting and Tooling","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=494&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"WOOD 494 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=494&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"WOOD","course_number":"494","section_number":"101","building":" ","room":"","instructors":["FUERST, ROBERT"],"totalRemaining":"23","currentlyRegistered":"17","generalRemaining":"23","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 494 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=494&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"17:00","end":"19:30","comments":"","subject_code":"WOOD","course_number":"494","section_number":"L01","building":" ","room":"","instructors":["FUERST, ROBERT"],"totalRemaining":"23","currentlyRegistered":"17","generalRemaining":"23","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Wood cutting fundamentals, chip formation, cutting conditions, cutting edge maintenance, sawing, planing and molding, veneer cutting, chipping, turning."}
+{
+  "course_name": "WOOD 494",
+  "subject_code": "WOOD",
+  "course_number": "494",
+  "course_title": "Principles of Wood Cutting and Tooling",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=494&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 494 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=494&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "494",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "17",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 494 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=494&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "494",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "17",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Wood cutting fundamentals, chip formation, cutting conditions, cutting edge maintenance, sawing, planing and molding, veneer cutting, chipping, turning.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"KIN 500V","subject_code":"KIN","course_number":"500V","course_title":"Special Topics in Kinesiology - SPEC TPCS KIN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=500V&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"KIN 500V 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=500V&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"Special Topics: Gender and Culture in Gym. Graduate research and writing workshop to explore physical activity and health behaviours among Asian female students at Canadian Universities. Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0Course delivery is online.","subject_code":"KIN","course_number":"500V","section_number":"001","building":" ","room":"","instructors":["VERTINSKY, PATRICIA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "KIN 500V",
+  "subject_code": "KIN",
+  "course_number": "500V",
+  "course_title": "Special Topics in Kinesiology - SPEC TPCS KIN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=500V&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "KIN 500V 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=500V&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Special Topics: Gender and Culture in Gym. Graduate research and writing workshop to explore physical activity and health behaviours among Asian female students at Canadian Universities. Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0Course delivery is online.",
+      "subject_code": "KIN",
+      "course_number": "500V",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERTINSKY, PATRICIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

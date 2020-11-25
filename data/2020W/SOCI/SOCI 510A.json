@@ -1,1 +1,43 @@
-{"course_name":"SOCI 510A","subject_code":"SOCI","course_number":"510A","course_title":"Population, Community and Demography - POP,COM&DEMO","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=510A&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"SOCI 510A 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=510A&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"13:00","end":"16:00","comments":"","subject_code":"SOCI","course_number":"510A","section_number":"102","building":" ","room":"","instructors":["LAUSTER, NATHANAEL"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOCI 510A",
+  "subject_code": "SOCI",
+  "course_number": "510A",
+  "course_title": "Population, Community and Demography - POP,COM&DEMO",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=510A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 510A 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=510A&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "510A",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAUSTER, NATHANAEL"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MUSC 506","subject_code":"MUSC","course_number":"506","course_title":"Readings in Orchestral Repertoire","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=506&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 506 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=506&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Fri","start":"9:30","end":"11:00","comments":"With MUSC 305 and 606.","subject_code":"MUSC","course_number":"506","section_number":"001","building":" ","room":"","instructors":["GIRARD, JONATHAN"],"totalRemaining":"8","currentlyRegistered":"7","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"Standard repertoire for orchestral instrumentalists."}
+{
+  "course_name": "MUSC 506",
+  "subject_code": "MUSC",
+  "course_number": "506",
+  "course_title": "Readings in Orchestral Repertoire",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=506&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 506 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=506&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "With MUSC 305 and 606.",
+      "subject_code": "MUSC",
+      "course_number": "506",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIRARD, JONATHAN"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Standard repertoire for orchestral instrumentalists.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

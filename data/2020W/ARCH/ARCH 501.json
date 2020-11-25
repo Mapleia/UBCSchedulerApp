@@ -1,1 +1,103 @@
-{"course_name":"ARCH 501","subject_code":"ARCH","course_number":"501","course_title":"Architectural Design Studio II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=501&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 501 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Tue Fri","start":"13:30","end":"18:00","comments":"","subject_code":"ARCH","course_number":"501","section_number":"001","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"20"},"002":{"status":"Cancelled","section":"ARCH 501 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=002&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"ARCH","course_number":"501","section_number":"002","building":"","room":"","instructors":["10","0","0","10","","in one of these programs: MARCH\n\n"],"totalRemaining":"in one of these programs: MARCH\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"009":{"status":"Restricted","section":"ARCH 501 009","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=009&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Tue Fri","start":"13:30","end":"18:00","comments":"","subject_code":"ARCH","course_number":"501","section_number":"009","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 9","description":" "}
+{
+  "course_name": "ARCH 501",
+  "subject_code": "ARCH",
+  "course_number": "501",
+  "course_title": "Architectural Design Studio II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 501 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "501",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Cancelled",
+      "section": "ARCH 501 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "501",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "0",
+        "10",
+        "",
+        "in one of these programs: MARCH\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MARCH\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "ARCH 501 009",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=501&section=009&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "501",
+      "section_number": "009",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": 9,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

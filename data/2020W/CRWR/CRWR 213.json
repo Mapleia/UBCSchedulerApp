@@ -1,1 +1,97 @@
-{"course_name":"CRWR 213","subject_code":"CRWR","course_number":"213","course_title":"Introduction to Writing for the New Media","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=213&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CRWR 213 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"12:30","end":"14:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, classes will include a combo of synchronous (live via Zoom) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). Live discussions will be recorded and posted later online for students unable to make the appointed live timeslot. TA help will be available during specified hours through a virtual portal.","subject_code":"CRWR","course_number":"213","section_number":"001","building":" ","room":"","instructors":["MOSS, JENNIFER"],"totalRemaining":"4","currentlyRegistered":"246","generalRemaining":"4","restrictedRemaining":"0"},"002":{"status":" ","section":"CRWR 213 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"14:00","end":"15:30","comments":"This is a blended learning course where 50% of the course takes place in-class and 50% online.","subject_code":"CRWR","course_number":"213","section_number":"002","building":"Neville Scarfe","room":"100","instructors":["MOSS, JENNIFER"],"totalRemaining":"27","currentlyRegistered":"198","generalRemaining":"27","restrictedRemaining":"0"},"CAP":{"status":"STT","section":"CRWR 213 CAP","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=CAP&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"This CRWR 213 Course is restricted to CAP - Media Studies students only. All CRWR Winter Term 1 (September-December) courses/sections will be held online. Classes may include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual courses/sections.","subject_code":"CRWR","course_number":"213","section_number":"CAP","building":" ","room":"","instructors":["MOSS, JENNIFER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"An exploration of and practice in writing for new media, including podcasting, blogging, and writing for websites, games, and online environments. Manuscript submission is not required for admission."}
+{
+  "course_name": "CRWR 213",
+  "subject_code": "CRWR",
+  "course_number": "213",
+  "course_title": "Introduction to Writing for the New Media",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=213&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 213 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, classes will include a combo of synchronous (live via Zoom) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). Live discussions will be recorded and posted later online for students unable to make the appointed live timeslot. TA help will be available during specified hours through a virtual portal.",
+      "subject_code": "CRWR",
+      "course_number": "213",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOSS, JENNIFER"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "246",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 213 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This is a blended learning course where 50% of the course takes place in-class and 50% online.",
+      "subject_code": "CRWR",
+      "course_number": "213",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOSS, JENNIFER"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "200",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "CRWR 213 CAP",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=213&section=CAP&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "This CRWR 213 Course is restricted to CAP - Media Studies students only. All CRWR Winter Term 1 (September-December) courses/sections will be held online. Classes may include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual courses/sections.",
+      "subject_code": "CRWR",
+      "course_number": "213",
+      "section_number": "CAP",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOSS, JENNIFER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "An exploration of and practice in writing for new media, including podcasting, blogging, and writing for websites, games, and online environments. Manuscript submission is not required for admission.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

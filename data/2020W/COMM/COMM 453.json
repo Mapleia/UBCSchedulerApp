@@ -1,1 +1,153 @@
-{"course_name":"COMM 453","subject_code":"COMM","course_number":"453","course_title":"Financial Accounting-Advanced","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=453&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"COMM 453 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"453","section_number":"101","building":" ","room":"","instructors":["WYNTJES, BARBARA"],"totalRemaining":"9","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"9"},"201":{"status":"Restricted","section":"COMM 453 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"","subject_code":"COMM","course_number":"453","section_number":"201","building":" ","room":"","instructors":["WYNTJES, BARBARA"],"totalRemaining":"10","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"10"},"202":{"status":"Full","section":"COMM 453 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"453","section_number":"202","building":" ","room":"","instructors":["WYNTJES, BARBARA"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Full","section":"COMM 453 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=203&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"453","section_number":"203","building":" ","room":"","instructors":["WYNTJES, BARBARA"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"},"204":{"status":"Full","section":"COMM 453 204","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=204&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"","subject_code":"COMM","course_number":"453","section_number":"204","building":" ","room":"","instructors":["WYNTJES, BARBARA"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An examination of advanced financial accounting."}
+{
+  "course_name": "COMM 453",
+  "subject_code": "COMM",
+  "course_number": "453",
+  "course_title": "Financial Accounting-Advanced",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=453&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 453 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "453",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYNTJES, BARBARA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 453 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "453",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYNTJES, BARBARA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 453 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "453",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYNTJES, BARBARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 453 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "453",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYNTJES, BARBARA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 453 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=453&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "453",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYNTJES, BARBARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An examination of advanced financial accounting.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

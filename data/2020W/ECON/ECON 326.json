@@ -1,1 +1,256 @@
-{"course_name":"ECON 326","subject_code":"ECON","course_number":"326","course_title":"Methods of Empirical Research in Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=326&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"ECON 326 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ECON","course_number":"326","section_number":"002","building":"Buchanan","room":"B315","instructors":["VANEY, MICHAEL"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":" ","section":"ECON 326 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"16:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"326","section_number":"L01","building":"Buchanan","room":"B309","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"30","generalRemaining":"5","restrictedRemaining":"0"},"L02":{"status":" ","section":"ECON 326 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"16:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"326","section_number":"L02","building":"Buchanan","room":"D217","instructors":["TBA"],"totalRemaining":"38","currentlyRegistered":"12","generalRemaining":"38","restrictedRemaining":"0"},"003":{"status":"Full","section":"ECON 326 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ECON","course_number":"326","section_number":"003","building":"Buchanan","room":"B215","instructors":["MAHMOUD, CHOWDHURY"],"totalRemaining":"0","currentlyRegistered":"74","generalRemaining":"0","restrictedRemaining":"0"},"L05":{"status":" ","section":"ECON 326 L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L05&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Tue","start":"16:00","end":"17:30","comments":"","subject_code":"ECON","course_number":"326","section_number":"L05","building":"Buchanan","room":"B141","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"33","generalRemaining":"2","restrictedRemaining":"0"},"L06":{"status":" ","section":"ECON 326 L06","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L06&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Thu","start":"16:00","end":"17:30","comments":"","subject_code":"ECON","course_number":"326","section_number":"L06","building":"Buchanan","room":"B141","instructors":["TBA"],"totalRemaining":"16","currentlyRegistered":"16","generalRemaining":"16","restrictedRemaining":"0"},"005":{"status":"Full","section":"ECON 326 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=005&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"ECON","course_number":"326","section_number":"005","building":"Buchanan","room":"A203","instructors":["GREEN, DAVID"],"totalRemaining":"0","currentlyRegistered":"84","generalRemaining":"0","restrictedRemaining":"0"},"L07":{"status":"Full","section":"ECON 326 L07","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L07&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"17:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"326","section_number":"L07","building":"Buchanan","room":"D219","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"},"L08":{"status":" ","section":"ECON 326 L08","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L08&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"18:00","end":"19:00","comments":"","subject_code":"ECON","course_number":"326","section_number":"L08","building":"Buchanan","room":"D217","instructors":["TBA"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Techniques of empirical economic research. Topics include simple and multiple regression, time series analysis, and simultaneous equation estimation. Students will be required to undertake applied work. Please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "ECON 326",
+  "subject_code": "ECON",
+  "course_number": "326",
+  "course_title": "Methods of Empirical Research in Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=326&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 326 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VANEY, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "57",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "28",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "12",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 326 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAHMOUD, CHOWDHURY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "76",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "31",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L06",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L06&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L06",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "16",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 326 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREEN, DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "83",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L07&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "47",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 326 L08",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=326&section=L08&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "326",
+      "section_number": "L08",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "21",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques of empirical economic research. Topics include simple and multiple regression, time series analysis, and simultaneous equation estimation. Students will be required to undertake applied work. Please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Discussion"
+  ]
+}

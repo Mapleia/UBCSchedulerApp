@@ -1,1 +1,98 @@
-{"course_name":"MINE 303","subject_code":"MINE","course_number":"303","course_title":"Rock Mechanics Fundamentals","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=303&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MINE 303 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"-  Select one Laboratory from sections L2A, L2B","subject_code":"MINE","course_number":"303","section_number":"201","building":"Frank Forward","room":"217","instructors":["ELMO, DAVIDE"],"totalRemaining":"34","currentlyRegistered":"61","generalRemaining":"34","restrictedRemaining":"0"},"L2A":{"status":"Restricted","section":"MINE 303 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"change of lab session requires approval by instructor","subject_code":"MINE","course_number":"303","section_number":"L2A","building":"Neville Scarfe","room":"209","instructors":["ELMO, DAVIDE"],"totalRemaining":"15","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"15"},"L2B":{"status":"STT","section":"MINE 303 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"change of lab session requires approval by instructor","subject_code":"MINE","course_number":"303","section_number":"L2B","building":"Orchard Commons","room":"4074","instructors":["ELMO, DAVIDE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"The study of the mechanical and structural properties of rock materials at the laboratory and field scale, with reference to common mining, geological and civil engineering problems."}
+{
+  "course_name": "MINE 303",
+  "subject_code": "MINE",
+  "course_number": "303",
+  "course_title": "Rock Mechanics Fundamentals",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 303 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "-  Select one Laboratory from sections L2A, L2B",
+      "subject_code": "MINE",
+      "course_number": "303",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "60",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 303 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "change of lab session requires approval by instructor",
+      "subject_code": "MINE",
+      "course_number": "303",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": "STT",
+      "section": "MINE 303 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=303&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "change of lab session requires approval by instructor",
+      "subject_code": "MINE",
+      "course_number": "303",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "The study of the mechanical and structural properties of rock materials at the laboratory and field scale, with reference to common mining, geological and civil engineering problems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

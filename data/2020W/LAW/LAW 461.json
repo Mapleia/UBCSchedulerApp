@@ -1,1 +1,44 @@
-{"course_name":"LAW 461","subject_code":"LAW","course_number":"461","course_title":"Corporate Transactions","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=461&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 461 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=461&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"14:00","end":"15:30","comments":"","subject_code":"LAW","course_number":"461","section_number":"001","building":" ","room":"","instructors":["HUTCHISON, CAMDEN"],"totalRemaining":"0","currentlyRegistered":"69","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Legal aspects of selected transactions relating to public corporations and corporate governance. Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 461",
+  "subject_code": "LAW",
+  "course_number": "461",
+  "course_title": "Corporate Transactions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 461 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=461&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "461",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUTCHISON, CAMDEN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "68",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Legal aspects of selected transactions relating to public corporations and corporate governance. Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

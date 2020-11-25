@@ -1,1 +1,44 @@
-{"course_name":"BIOL 449","subject_code":"BIOL","course_number":"449","course_title":"Directed Biological Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=449&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"BIOL 449 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=449&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOL","course_number":"449","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SHONA MARGARET","ELLIS, SHONA MARGARET(Coordinator)"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"A course designed to allow students to undertake a research project in selected fields. Open only to Honours students in Biology, with permission of the supervisor. Presentation of a thesis and an oral examination are required."}
+{
+  "course_name": "BIOL 449",
+  "subject_code": "BIOL",
+  "course_number": "449",
+  "course_title": "Directed Biological Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "449",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SHONA MARGARET",
+        "ELLIS, SHONA MARGARET(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "A course designed to allow students to undertake a research project in selected fields. Open only to Honours students in Biology, with permission of the supervisor. Presentation of a thesis and an oral examination are required.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

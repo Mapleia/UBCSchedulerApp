@@ -1,1 +1,48 @@
-{"course_name":"APSC 598G","subject_code":"APSC","course_number":"598G","course_title":"Topics in Engineering - SUSTBLE-BLDGPROJ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=598G&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"APSC 598G 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=598G&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":"","end":"","comments":"BASC year 4 in CIVL  and  MECH may be registered by the APSC Dean's Office with permission of the instructor. Non-engineering students may be registered by the APSC Dean's Office with permission of the instructor.","subject_code":"APSC","course_number":"598G","section_number":"201","building":"","room":"","instructors":["23","2","0","23","","in one of these programs: MASC,MENG,PHD\nin one of these faculties: APSC\n\n"],"totalRemaining":"in one of these programs: MASC,MENG,PHD\nin one of these faculties: APSC\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "APSC 598G",
+  "subject_code": "APSC",
+  "course_number": "598G",
+  "course_title": "Topics in Engineering - SUSTBLE-BLDGPROJ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=598G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APSC 598G 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=598G&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "BASC year 4 in CIVL  and  MECH may be registered by the APSC Dean's Office with permission of the instructor. Non-engineering students may be registered by the APSC Dean's Office with permission of the instructor.",
+      "subject_code": "APSC",
+      "course_number": "598G",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "23",
+        "2",
+        "0",
+        "23",
+        "",
+        "in one of these programs: MASC,MENG,PHD\nin one of these faculties: APSC\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MASC,MENG,PHD\nin one of these faculties: APSC\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

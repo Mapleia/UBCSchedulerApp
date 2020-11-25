@@ -1,1 +1,41 @@
-{"course_name":"DHYG 210","subject_code":"DHYG","course_number":"210","course_title":"Dental Hygiene Theory and Practice II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"DHYG 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=210&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DHYG","course_number":"210","section_number":"001","building":"","room":"","instructors":[],"totalRemaining":"Required","currentlyRegistered":"Required","generalRemaining":"Required","restrictedRemaining":"Optional"}},"credits":"Credits: 18","description":"The study of dental hygiene theory and practice in clinical and community-based settings."}
+{
+  "course_name": "DHYG 210",
+  "subject_code": "DHYG",
+  "course_number": "210",
+  "course_title": "Dental Hygiene Theory and Practice II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "210",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [],
+      "totalRemaining": "Required",
+      "currentlyRegistered": "Required",
+      "generalRemaining": "Required",
+      "restrictedRemaining": "Optional"
+    }
+  ],
+  "credits": 8,
+  "description": "The study of dental hygiene theory and practice in clinical and community-based settings.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

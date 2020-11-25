@@ -1,1 +1,43 @@
-{"course_name":"PHRM 329","subject_code":"PHRM","course_number":"329","course_title":"Leadership Experience Applied to Pharmacy (LEAP)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=329&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PHRM 329 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=329&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"Previously PHRM 301K","subject_code":"PHRM","course_number":"329","section_number":"001","building":"","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Leadership skills in preparation for the practice of pharmacy in direct or non-direct patient care settings and contexts."}
+{
+  "course_name": "PHRM 329",
+  "subject_code": "PHRM",
+  "course_number": "329",
+  "course_title": "Leadership Experience Applied to Pharmacy (LEAP)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=329&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 329 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=329&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Previously PHRM 301K",
+      "subject_code": "PHRM",
+      "course_number": "329",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Leadership skills in preparation for the practice of pharmacy in direct or non-direct patient care settings and contexts.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

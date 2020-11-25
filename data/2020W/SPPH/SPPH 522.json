@@ -1,1 +1,72 @@
-{"course_name":"SPPH 522","subject_code":"SPPH","course_number":"522","course_title":"Topics in Environmental Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=522&sessyr=2020&sesscd=W","sections":{"002":{"status":"Cancelled","section":"SPPH 522 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=522&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":"","end":"","comments":"Classroom Location: SPPH B108","subject_code":"SPPH","course_number":"522","section_number":"002","building":"","room":"","instructors":["28","0","28","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"DL2":{"status":" ","section":"SPPH 522 DL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=522&section=DL2&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"10:00","end":"12:00","comments":"Classroom location: SPPH B108","subject_code":"SPPH","course_number":"522","section_number":"DL2","building":" ","room":"","instructors":["BRAUER, MICHAEL"],"totalRemaining":"8","currentlyRegistered":"17","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Role of air, water, food and solid waste as sources of human health risks; global environmental health issues; sustainability."}
+{
+  "course_name": "SPPH 522",
+  "subject_code": "SPPH",
+  "course_number": "522",
+  "course_title": "Topics in Environmental Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=522&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "SPPH 522 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=522&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Classroom Location: SPPH B108",
+      "subject_code": "SPPH",
+      "course_number": "522",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "28",
+        "0",
+        "28",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "SPPH 522 DL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=522&section=DL2&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online.  To access the course, log on to Canvas UBC at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "522",
+      "section_number": "DL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRAUER, MICHAEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "22",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Role of air, water, food and solid waste as sources of human health risks; global environmental health issues; sustainability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

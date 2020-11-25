@@ -1,1 +1,43 @@
-{"course_name":"EDUC 449C","subject_code":"EDUC","course_number":"449C","course_title":"Supervised Research Investigation - SUPERVISED RSRCH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=449C&sessyr=2020&sesscd=W","sections":{"003":{"status":"Blocked","section":"EDUC 449C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=449C&section=003&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDUC","course_number":"449C","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Available only to outstanding students approved by the Associate Dean (Teacher Education)."}
+{
+  "course_name": "EDUC 449C",
+  "subject_code": "EDUC",
+  "course_number": "449C",
+  "course_title": "Supervised Research Investigation - SUPERVISED RSRCH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=449C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDUC 449C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=449C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDUC",
+      "course_number": "449C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Available only to outstanding students approved by the Associate Dean (Teacher Education).",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"JRNL 100A","subject_code":"JRNL","course_number":"100A","course_title":"New Media and Society - NEW MEDIA&SOCI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=100A&sessyr=2020&sesscd=W","sections":{"227":{"status":"STT","section":"JRNL 100A 227","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=100A&section=227&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Reserved for CAP - Media Studies.  Visit www.cap.arts.ubc.ca for details.","subject_code":"JRNL","course_number":"100A","section_number":"227","building":"Buchanan","room":"A203","instructors":["YOUNG, MARY-LYNN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Development of new media technologies, their applications, and their cultural, political, and social impacts."}
+{
+  "course_name": "JRNL 100A",
+  "subject_code": "JRNL",
+  "course_number": "100A",
+  "course_title": "New Media and Society - NEW MEDIA&SOCI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=100A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "JRNL 100A 227",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=100A&section=227&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Reserved for CAP - Media Studies.  Visit www.cap.arts.ubc.ca for details.",
+      "subject_code": "JRNL",
+      "course_number": "100A",
+      "section_number": "227",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOUNG, MARY-LYNN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Development of new media technologies, their applications, and their cultural, political, and social impacts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

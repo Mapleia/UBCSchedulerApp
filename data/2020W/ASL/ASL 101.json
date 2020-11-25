@@ -1,1 +1,44 @@
-{"course_name":"ASL 101","subject_code":"ASL","course_number":"101","course_title":"American Sign Language and Deaf Culture II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASL&course=101&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ASL 101 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASL&course=101&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"16:00","comments":"","subject_code":"ASL","course_number":"101","section_number":"002","building":"West Mall Swing Space","room":"105","instructors":["HOWARD, NIGEL"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Skills in using ASL in a range of social contexts. Training in grammar and vocabulary that builds fluency, and in using the language appropriately for meaningful interactions with members of the Deaf community. For students with basic ASL conversational ability."}
+{
+  "course_name": "ASL 101",
+  "subject_code": "ASL",
+  "course_number": "101",
+  "course_title": "American Sign Language and Deaf Culture II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASL&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ASL 101 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASL&course=101&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ASL",
+      "course_number": "101",
+      "section_number": "002",
+      "building": "West Mall Swing Space",
+      "room": "105",
+      "instructors": [
+        "HOWARD, NIGEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Skills in using ASL in a range of social contexts. Training in grammar and vocabulary that builds fluency, and in using the language appropriately for meaningful interactions with members of the Deaf community. For students with basic ASL conversational ability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

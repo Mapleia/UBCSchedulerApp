@@ -1,1 +1,45 @@
-{"course_name":"LAST 201","subject_code":"LAST","course_number":"201","course_title":"Popular Culture in Latin America","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAST&course=201&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"LAST 201 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAST&course=201&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"LAST","course_number":"201","section_number":"201","building":" ","room":"","instructors":["BEASLEY-MURRAY, JONATHAN"],"totalRemaining":"25","currentlyRegistered":"15","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The culture of everyday life, both rural and urban: issues of identity, popular memory, resistance, negotiation, as expressed through ritual, crafts, the body, social movements, films, music, and literature."}
+{
+  "course_name": "LAST 201",
+  "subject_code": "LAST",
+  "course_number": "201",
+  "course_title": "Popular Culture in Latin America",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAST&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAST 201 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAST&course=201&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "LAST",
+      "course_number": "201",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEASLEY-MURRAY, JONATHAN"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "15",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The culture of everyday life, both rural and urban: issues of identity, popular memory, resistance, negotiation, as expressed through ritual, crafts, the body, social movements, films, music, and literature.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

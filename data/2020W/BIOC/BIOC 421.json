@@ -1,1 +1,96 @@
-{"course_name":"BIOC 421","subject_code":"BIOC","course_number":"421","course_title":"Recombinant DNA Techniques","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=421&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"BIOC 421 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=201&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"13:00","end":"17:00","comments":"","subject_code":"BIOC","course_number":"421","section_number":"201","building":" ","room":"","instructors":["ROGERS (BROWN), LINDSAY"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Blocked","section":"BIOC 421 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=202&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"13:00","end":"17:00","comments":"","subject_code":"BIOC","course_number":"421","section_number":"202","building":" ","room":"","instructors":["ROGERS (BROWN), LINDSAY"],"totalRemaining":"4","currentlyRegistered":"8","generalRemaining":"4","restrictedRemaining":"0"},"20W":{"status":" ","section":"BIOC 421 20W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=20W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue","start":" ","end":" ","comments":"Wait List for BIOC421","subject_code":"BIOC","course_number":"421","section_number":"20W","building":"No Scheduled Meeting","room":"","instructors":["ROGERS (BROWN), LINDSAY"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Multi-week experiments involving contemporary nucleic acid research, cloning and recombinant protein engineering. Emphasis is on experimental design, critical analysis of data and scientific communication skills.  Restricted to Major students in Biochemistry."}
+{
+  "course_name": "BIOC 421",
+  "subject_code": "BIOC",
+  "course_number": "421",
+  "course_title": "Recombinant DNA Techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOC 421 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=201&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "421",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROGERS (BROWN), LINDSAY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOC 421 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=202&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "421",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROGERS (BROWN), LINDSAY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 421 20W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=421&section=20W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Wait List for BIOC421",
+      "subject_code": "BIOC",
+      "course_number": "421",
+      "section_number": "20W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ROGERS (BROWN), LINDSAY"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Multi-week experiments involving contemporary nucleic acid research, cloning and recombinant protein engineering. Emphasis is on experimental design, critical analysis of data and scientific communication skills.  Restricted to Major students in Biochemistry.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory",
+    "Waiting List"
+  ]
+}

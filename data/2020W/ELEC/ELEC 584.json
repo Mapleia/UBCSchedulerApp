@@ -1,1 +1,44 @@
-{"course_name":"ELEC 584","subject_code":"ELEC","course_number":"584","course_title":"Nanophotonics Fabrication","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=584&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ELEC 584 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=584&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Enrolment of Undergraduate Students in Graduate Courses EligibilityStudents must have completed at least 75% (normally equivalent to 36 credits) of the 300 and 400 level courses required for their bachelor degree, and must have a minimum overall average of 76% (B+) in their completed 300 and 400 level courses.Students must have the academic preparation to complete the graduate course and must have completed any necessary course pre-requisites.Procedure:1. Student downloads the form Enrolment of Undergraduate Students in Graduate Courses from the http://www.grad.ubc.ca/forms/enrolment-undergraduate-students-graduate-course.2. Student fills out the form and obtains the approval signature of the course instructor.3. Student obtains the approval signature of the Graduate Advisor of the program or department that offers the course.4. Student obtains the approval signature of his or her home faculty advising office.5. Student submits the fully completed form to FoGS.6. FoGS reviews the form and confirms eligibility.7. FoGS signs the form and sends it to Enrolment Services.8. Enrolment services registers the student.For Visiting Graduate students from another recognized university, please visit: http://www.grad.ubc.ca/faculty-staff/policies-procedures/visiting-graduate-students","subject_code":"ELEC","course_number":"584","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["CHROSTOWSKI, LUKAS","JAEGER, NICOLAS A"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Credit will only be given for one of ELEC 584 or EECE 584."}
+{
+  "course_name": "ELEC 584",
+  "subject_code": "ELEC",
+  "course_number": "584",
+  "course_title": "Nanophotonics Fabrication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=584&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 584 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=584&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrolment of Undergraduate Students in Graduate Courses EligibilityStudents must have completed at least 75% (normally equivalent to 36 credits) of the 300 and 400 level courses required for their bachelor degree, and must have a minimum overall average of 76% (B+) in their completed 300 and 400 level courses.Students must have the academic preparation to complete the graduate course and must have completed any necessary course pre-requisites.Procedure:1. Student downloads the form Enrolment of Undergraduate Students in Graduate Courses from the http://www.grad.ubc.ca/forms/enrolment-undergraduate-students-graduate-course.2. Student fills out the form and obtains the approval signature of the course instructor.3. Student obtains the approval signature of the Graduate Advisor of the program or department that offers the course.4. Student obtains the approval signature of his or her home faculty advising office.5. Student submits the fully completed form to FoGS.6. FoGS reviews the form and confirms eligibility.7. FoGS signs the form and sends it to Enrolment Services.8. Enrolment services registers the student.For Visiting Graduate students from another recognized university, please visit: http://www.grad.ubc.ca/faculty-staff/policies-procedures/visiting-graduate-students",
+      "subject_code": "ELEC",
+      "course_number": "584",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CHROSTOWSKI, LUKAS",
+        "JAEGER, NICOLAS A"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Credit will only be given for one of ELEC 584 or EECE 584.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

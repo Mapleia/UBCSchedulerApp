@@ -1,1 +1,96 @@
-{"course_name":"ASIA 570A","subject_code":"ASIA","course_number":"570A","course_title":"Approaches to Asian Literature - APPR TO ASIA LIT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=570A&sessyr=2020&sesscd=W","sections":{"028":{"status":" ","section":"ASIA 570A 028","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=028&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"14:00","end":"15:30","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"570A","section_number":"028","building":" ","room":"","instructors":["THOBANI, SUNERA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"034":{"status":" ","section":"ASIA 570A 034","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=034&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"15:00","end":"16:30","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"570A","section_number":"034","building":" ","room":"","instructors":["DUFFY, KAY JANE"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"6","restrictedRemaining":"0"},"035":{"status":" ","section":"ASIA 570A 035","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=035&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"570A","section_number":"035","building":" ","room":"","instructors":["YANG, RENREN"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ASIA 570A",
+  "subject_code": "ASIA",
+  "course_number": "570A",
+  "course_title": "Approaches to Asian Literature - APPR TO ASIA LIT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=570A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 570A 028",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=028&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "570A",
+      "section_number": "028",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOBANI, SUNERA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 570A 034",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=034&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "570A",
+      "section_number": "034",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUFFY, KAY JANE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 570A 035",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=570A&section=035&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "570A",
+      "section_number": "035",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YANG, RENREN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

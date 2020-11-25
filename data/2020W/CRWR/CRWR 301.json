@@ -1,1 +1,96 @@
-{"course_name":"CRWR 301","subject_code":"CRWR","course_number":"301","course_title":"Intermediate Writing Poetry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=301&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"CRWR 301 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":" ","end":" ","comments":"This is a blended learning course where 50% of the course takes place in-class and 50% online.","subject_code":"CRWR","course_number":"301","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["WARRENER, SHERYDA"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"LS1":{"status":"Full","section":"CRWR 301 LS1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=LS1&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"Students must also register for CRWR 301, the web-based lecture portion of this course.","subject_code":"CRWR","course_number":"301","section_number":"LS1","building":"Neville Scarfe","room":"200","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"LS2":{"status":" ","section":"CRWR 301 LS2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=LS2&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"Students must also register for CRWR 301, the web-based lecture portion of this course.","subject_code":"CRWR","course_number":"301","section_number":"LS2","building":"Neville Scarfe","room":"207","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission."}
+{
+  "course_name": "CRWR 301",
+  "subject_code": "CRWR",
+  "course_number": "301",
+  "course_title": "Intermediate Writing Poetry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 301 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a blended learning course where 50% of the course takes place in-class and 50% online.",
+      "subject_code": "CRWR",
+      "course_number": "301",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WARRENER, SHERYDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 301 LS1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=LS1&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Students must also register for CRWR 301, the web-based lecture portion of this course.",
+      "subject_code": "CRWR",
+      "course_number": "301",
+      "section_number": "LS1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 301 LS2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=301&section=LS2&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Students must also register for CRWR 301, the web-based lecture portion of this course.",
+      "subject_code": "CRWR",
+      "course_number": "301",
+      "section_number": "LS2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Lecture-Seminar"
+  ]
+}

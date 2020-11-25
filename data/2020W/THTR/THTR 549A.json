@@ -1,1 +1,92 @@
-{"course_name":"THTR 549A","subject_code":"THTR","course_number":"549A","course_title":"Master's Thesis - MASTERS THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"THTR 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"549A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FIRKINS, JACQUELINE","GAGNON, OLIVIA MICHIKO","GARDINER, ROBERT","HEATLEY, STEPHEN","JOHNSTON, KIRSTY","LIU, SIYUAN","MARSHALL, HALLIE","MORRIS, LEORA","PENNEFATHER, PATRICK","POWERS, BRADLEY","RIZZOTTI, PATRICK","SCHOLTE, TOM"],"totalRemaining":"7","currentlyRegistered":"3","generalRemaining":"7","restrictedRemaining":"0"},"004":{"status":" ","section":"THTR 549A 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=549A&section=004&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"549A","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["FIRKINS, JACQUELINE","GAGNON, OLIVIA MICHIKO","GARDINER, ROBERT","HEATLEY, STEPHEN","JOHNSTON, KIRSTY","LIU, SIYUAN","MARSHALL, HALLIE","MORRIS, LEORA","PENNEFATHER, PATRICK","POWERS, BRADLEY","RIZZOTTI, PATRICK","SCHOLTE, TOM"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "THTR 549A",
+  "subject_code": "THTR",
+  "course_number": "549A",
+  "course_title": "Master's Thesis - MASTERS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "THTR 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GAGNON, OLIVIA MICHIKO",
+        "GARDINER, ROBERT",
+        "HEATLEY, STEPHEN",
+        "JOHNSTON, KIRSTY",
+        "LIU, SIYUAN",
+        "MARSHALL, HALLIE",
+        "MORRIS, LEORA",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK",
+        "SCHOLTE, TOM"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 549A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=549A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "549A",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GAGNON, OLIVIA MICHIKO",
+        "GARDINER, ROBERT",
+        "HEATLEY, STEPHEN",
+        "JOHNSTON, KIRSTY",
+        "LIU, SIYUAN",
+        "MARSHALL, HALLIE",
+        "MORRIS, LEORA",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK",
+        "SCHOLTE, TOM"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

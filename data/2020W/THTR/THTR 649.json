@@ -1,1 +1,97 @@
-{"course_name":"THTR 649","subject_code":"THTR","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=649&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"THTR 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":" ","section":"THTR 649 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"649","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"8","restrictedRemaining":"0"},"003":{"status":" ","section":"THTR 649 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=003&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"649","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "THTR 649",
+  "subject_code": "THTR",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "THTR 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 649 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "649",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 649 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=649&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "649",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

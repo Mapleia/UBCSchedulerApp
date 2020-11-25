@@ -1,1 +1,43 @@
-{"course_name":"CHEM 540C","subject_code":"CHEM","course_number":"540C","course_title":"Seminar in Chemistry - INORGANIC SEMINR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=540C&sessyr=2020&sesscd=W","sections":{"ODG":{"status":"Unreleased","section":"CHEM 540C ODG","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=540C&section=ODG&sessyr=2020&sesscd=W","activity":"Optional Section","term":"1-2","interval":"","days":" Thu","start":"18:00","end":"20:00","comments":"","subject_code":"CHEM","course_number":"540C","section_number":"ODG","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Pass/Fail."}
+{
+  "course_name": "CHEM 540C",
+  "subject_code": "CHEM",
+  "course_number": "540C",
+  "course_title": "Seminar in Chemistry - INORGANIC SEMINR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=540C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "CHEM 540C ODG",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=540C&section=ODG&sessyr=2020&sesscd=W",
+      "activity": "Optional Section",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "540C",
+      "section_number": "ODG",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Optional Section"
+  ]
+}

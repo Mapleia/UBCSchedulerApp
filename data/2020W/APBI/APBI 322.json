@@ -1,1 +1,72 @@
-{"course_name":"APBI 322","subject_code":"APBI","course_number":"322","course_title":"Horticultural Techniques","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=322&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 322 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=322&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"APBI","course_number":"322","section_number":"001","building":"MacMillan","room":"258","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"3","restrictedRemaining":"3"},"L01":{"status":" ","section":"APBI 322 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=322&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"12:00","end":"15:00","comments":"Labs held in Horticulture Building (6394 Stores Road)","subject_code":"APBI","course_number":"322","section_number":"L01","building":"Horticulture Building","room":"107","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"23","generalRemaining":"4","restrictedRemaining":"3"}},"credits":"Credits: 4","description":"Horticulture theory and methodology in an experiential learning format. Plant identification, seeding, propagation, canopy management, cultivation media, horticultural systems examined in the context of integrated crop management."}
+{
+  "course_name": "APBI 322",
+  "subject_code": "APBI",
+  "course_number": "322",
+  "course_title": "Horticultural Techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=322&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 322 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=322&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "The Monday and Friday lecture sessions will be provided synchronously (live).",
+      "subject_code": "APBI",
+      "course_number": "322",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "3",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "APBI 322 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=322&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "The Wednesday lab and lecture sessions will be asynchronous.",
+      "subject_code": "APBI",
+      "course_number": "322",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "22",
+      "generalRemaining": "5",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 4,
+  "description": "Horticulture theory and methodology in an experiential learning format. Plant identification, seeding, propagation, canopy management, cultivation media, horticultural systems examined in the context of integrated crop management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

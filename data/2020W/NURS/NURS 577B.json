@@ -1,1 +1,70 @@
-{"course_name":"NURS 577B","subject_code":"NURS","course_number":"577B","course_title":"Graduate Practicum in Nursing - GRAD PRAC NURS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=577B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"NURS 577B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=577B&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Pre-requisite: NURS 540/ NURS 541This course is primarily a part of the MHLP program. MSN Students who have completed pre-requisites may be eligible to register with permission from the MHLP Pillar Director. Please email academic.support@nursing.ubc.ca for instructions on how to obtain permission.IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This practicum-based course is designed to provide the student with an opportunity to explore advanced practice in the field of education through a selected educational setting of interest. Through the practicum experience the student is expected to engage reflexively to explore the relationship between nursing and education knowledge and educational practice in a specific teaching setting.","subject_code":"NURS","course_number":"577B","section_number":"001","building":" ","room":"","instructors":["BAUMBUSCH, JENNIFER"],"totalRemaining":"15","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"15"},"01W":{"status":"Blocked","section":"NURS 577B 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=577B&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist section for NURS 577B-001","subject_code":"NURS","course_number":"577B","section_number":"01W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 577B",
+  "subject_code": "NURS",
+  "course_number": "577B",
+  "course_title": "Graduate Practicum in Nursing - GRAD PRAC NURS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=577B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 577B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=577B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Pre-requisite: NURS 540/ NURS 541This course is primarily a part of the MHLP program. MSN Students who have completed pre-requisites may be eligible to register with permission from the MHLP Pillar Director. Please email academic.support@nursing.ubc.ca for instructions on how to obtain permission.IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This practicum-based course is designed to provide the student with an opportunity to explore advanced practice in the field of education through a selected educational setting of interest. Through the practicum experience the student is expected to engage reflexively to explore the relationship between nursing and education knowledge and educational practice in a specific teaching setting.",
+      "subject_code": "NURS",
+      "course_number": "577B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAUMBUSCH, JENNIFER"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 577B 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=577B&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist section for NURS 577B-001",
+      "subject_code": "NURS",
+      "course_number": "577B",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum",
+    "Waiting List"
+  ]
+}

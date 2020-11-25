@@ -1,1 +1,71 @@
-{"course_name":"KIN 364","subject_code":"KIN","course_number":"364","course_title":"The Modern Olympics: Power, Politics, and Performance","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=364&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 364 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=364&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This course is formerly KIN 383 . Students can receive credit for either KIN 383 or KIN 364","subject_code":"KIN","course_number":"364","section_number":"001","building":"P. A. Woodward Instructional Resources Centre","room":"1","instructors":["VERTINSKY, PATRICIA"],"totalRemaining":"1","currentlyRegistered":"119","generalRemaining":"0","restrictedRemaining":"1"},"0W1":{"status":"Blocked","section":"KIN 364 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=364&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 383.  Students can receive credit for either KIN 383 or KIN 364","subject_code":"KIN","course_number":"364","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Examination of the Modern Olympic Games as an event with important political, economic, environmental, and cultural ramifications."}
+{
+  "course_name": "KIN 364",
+  "subject_code": "KIN",
+  "course_number": "364",
+  "course_title": "The Modern Olympics: Power, Politics, and Performance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=364&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 364 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=364&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course is formerly KIN 383 . Students can receive credit for either KIN 383 or KIN 364",
+      "subject_code": "KIN",
+      "course_number": "364",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VERTINSKY, PATRICIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "125",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 364 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=364&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 383.  Students can receive credit for either KIN 383 or KIN 364",
+      "subject_code": "KIN",
+      "course_number": "364",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Examination of the Modern Olympic Games as an event with important political, economic, environmental, and cultural ramifications.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

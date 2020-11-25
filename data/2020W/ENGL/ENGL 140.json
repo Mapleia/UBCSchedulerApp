@@ -1,1 +1,75 @@
-{"course_name":"ENGL 140","subject_code":"ENGL","course_number":"140","course_title":"Challenging Language Myths","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=140&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ENGL 140 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=140&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"**No student may take two First-Year English courses at the same time.","subject_code":"ENGL","course_number":"140","section_number":"001","building":"Hebb","room":"114","instructors":["BIERMANN, WILHELMINA GEORGINA","HANSSON, GUNNAR"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"ENGL 140 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=140&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"WAITING LIST","subject_code":"ENGL","course_number":"140","section_number":"WL1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Critical consideration of a broad range of commonly held beliefs about language and its relation to the brain and cognition, learning, society, change and evolution. Note: This is an elective course that does not fulfill writing requirements in any faculty or the literature requirement in the Faculty of Arts."}
+{
+  "course_name": "ENGL 140",
+  "subject_code": "ENGL",
+  "course_number": "140",
+  "course_title": "Challenging Language Myths",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=140&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 140 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=140&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "**No student may take two First-Year English courses at the same time.",
+      "subject_code": "ENGL",
+      "course_number": "140",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIERMANN, WILHELMINA GEORGINA",
+        "HANSSON, GUNNAR"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "43",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "ENGL 140 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=140&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "WAITING LIST",
+      "subject_code": "ENGL",
+      "course_number": "140",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical consideration of a broad range of commonly held beliefs about language and its relation to the brain and cognition, learning, society, change and evolution. Note: This is an elective course that does not fulfill writing requirements in any faculty or the literature requirement in the Faculty of Arts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

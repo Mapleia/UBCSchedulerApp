@@ -1,1 +1,97 @@
-{"course_name":"ECON 316","subject_code":"ECON","course_number":"316","course_title":"Intermediate Microeconomics II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=316&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"ECON 316 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ECON","course_number":"316","section_number":"001","building":"Iona Building","room":"301","instructors":["CHAPPLE, CLIVE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L01":{"status":"STT","section":"ECON 316 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon","start":"16:00","end":"17:00","comments":"","subject_code":"ECON","course_number":"316","section_number":"L01","building":"Buchanan","room":"B209","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L02":{"status":"STT","section":"ECON 316 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=L02&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Wed","start":"16:00","end":"17:00","comments":"","subject_code":"ECON","course_number":"316","section_number":"L02","building":"Buchanan","room":"B209","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L03":{"status":"STT","section":"ECON 316 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=L03&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"16:00","end":"17:00","comments":"","subject_code":"ECON","course_number":"316","section_number":"L03","building":"Buchanan","room":"B209","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Advanced topics in intermediate microeconomics: risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 316, ECON 303, or ECON 308."}
+{
+  "course_name": "ECON 316",
+  "subject_code": "ECON",
+  "course_number": "316",
+  "course_title": "Intermediate Microeconomics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=316&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ECON 316 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "316",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAPPLE, CLIVE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 316 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "316",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 316 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=316&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "316",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Advanced topics in intermediate microeconomics: risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 316, ECON 303, or ECON 308.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

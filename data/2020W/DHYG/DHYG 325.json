@@ -1,1 +1,41 @@
-{"course_name":"DHYG 325","subject_code":"DHYG","course_number":"325","course_title":"Applied Pharmacology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=325&sessyr=2020&sesscd=W","sections":{"325":{"status":"STT","section":"DHYG 325 325","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=325&section=325&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DHYG","course_number":"325","section_number":"325","building":"","room":"","instructors":[],"totalRemaining":"Required","currentlyRegistered":"Optional","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Applied pharmacology concepts and principles for the dental health professional."}
+{
+  "course_name": "DHYG 325",
+  "subject_code": "DHYG",
+  "course_number": "325",
+  "course_title": "Applied Pharmacology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 325 325",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=325&section=325&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "325",
+      "section_number": "325",
+      "building": "",
+      "room": "",
+      "instructors": [],
+      "totalRemaining": "Required",
+      "currentlyRegistered": "Optional",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Applied pharmacology concepts and principles for the dental health professional.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,72 @@
-{"course_name":"GRSJ 316","subject_code":"GRSJ","course_number":"316","course_title":"Queer and Trans of Colour Theorizing ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=316&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"GRSJ 316 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=316&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"GRSJ","course_number":"316","section_number":"101","building":" ","room":"","instructors":["SIA, ROSANNE"],"totalRemaining":"2","currentlyRegistered":"38","generalRemaining":"2","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"GRSJ 316 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=316&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"Waitlisted students will receive an email confirmation if they are moved into the class.","subject_code":"GRSJ","course_number":"316","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The intellectual and political interventions of queer of colour theorizing in the gender and sexual politics of racial and imperial projects, including its engagements with women of colour feminisms, settler colonial and indigenous studies, and immigration and diaspora studies."}
+{
+  "course_name": "GRSJ 316",
+  "subject_code": "GRSJ",
+  "course_number": "316",
+  "course_title": "Queer and Trans of Colour Theorizing ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=316&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GRSJ 316 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=316&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "316",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIA, ROSANNE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "38",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 316 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=316&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Waitlisted students will receive an email confirmation if they are moved into the class.",
+      "subject_code": "GRSJ",
+      "course_number": "316",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The intellectual and political interventions of queer of colour theorizing in the gender and sexual politics of racial and imperial projects, including its engagements with women of colour feminisms, settler colonial and indigenous studies, and immigration and diaspora studies.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

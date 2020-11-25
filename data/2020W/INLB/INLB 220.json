@@ -1,1 +1,46 @@
-{"course_name":"INLB 220","subject_code":"INLB","course_number":"220","course_title":"Land and Indigenous Self-Determination: Introduction to Methods and Application","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=220&sessyr=2020&sesscd=W","sections":{"005":{"status":"Blocked","section":"INLB 220 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=220&section=005&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" Tue","start":"12:00","end":"15:00","comments":"This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.","subject_code":"INLB","course_number":"220","section_number":"005","building":" ","room":"","instructors":["8","2","8","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."}
+{
+  "course_name": "INLB 220",
+  "subject_code": "INLB",
+  "course_number": "220",
+  "course_title": "Land and Indigenous Self-Determination: Introduction to Methods and Application",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=220&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "INLB 220 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=220&section=005&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.",
+      "subject_code": "INLB",
+      "course_number": "220",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "8",
+        "2",
+        "8",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

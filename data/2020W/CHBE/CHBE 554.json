@@ -1,1 +1,44 @@
-{"course_name":"CHBE 554","subject_code":"CHBE","course_number":"554","course_title":"Momentum, Heat and Mass Transfer","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=554&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 554 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=554&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHBE","course_number":"554","section_number":"201","building":"Food, Nutrition and Health","room":"40","instructors":["FENG, JAMES JINGTAO"],"totalRemaining":"23","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"23"}},"credits":"Credits: 3","description":"Prediction of velocity, temperature, and concentration profiles for flowing fluids; unifying concepts and analogies in momentum, heat, and mass transport; streamline flow and turbulence, molecular and eddy conduction and diffusion, boundary layers, smooth and rough conduits and other boundaries."}
+{
+  "course_name": "CHBE 554",
+  "subject_code": "CHBE",
+  "course_number": "554",
+  "course_title": "Momentum, Heat and Mass Transfer",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=554&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 554 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=554&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "554",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FENG, JAMES JINGTAO"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "22"
+    }
+  ],
+  "credits": 3,
+  "description": "Prediction of velocity, temperature, and concentration profiles for flowing fluids; unifying concepts and analogies in momentum, heat, and mass transport; streamline flow and turbulence, molecular and eddy conduction and diffusion, boundary layers, smooth and rough conduits and other boundaries.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

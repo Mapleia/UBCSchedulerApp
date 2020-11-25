@@ -1,1 +1,97 @@
-{"course_name":"ECON 327","subject_code":"ECON","course_number":"327","course_title":"Introduction to Empirical Methods","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=327&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"ECON 327 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ECON","course_number":"327","section_number":"001","building":" ","room":"","instructors":["VANEY, MICHAEL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"B01":{"status":"STT","section":"ECON 327 B01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=B01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Thu","start":"9:00","end":"10:00","comments":"","subject_code":"ECON","course_number":"327","section_number":"B01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"B02":{"status":"STT","section":"ECON 327 B02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=B02&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Thu","start":"18:00","end":"19:00","comments":"","subject_code":"ECON","course_number":"327","section_number":"B02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Basic tools for the statistical analysis of economic data. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 325, ECON 327,or STAT 200; please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "ECON 327",
+  "subject_code": "ECON",
+  "course_number": "327",
+  "course_title": "Introduction to Empirical Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ECON 327 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "327",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VANEY, MICHAEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 327 B01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=B01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "327",
+      "section_number": "B01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 327 B02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=327&section=B02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "327",
+      "section_number": "B02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Basic tools for the statistical analysis of economic data. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 325, ECON 327,or STAT 200; please consult the Faculty of Science Credit Exclusion List: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

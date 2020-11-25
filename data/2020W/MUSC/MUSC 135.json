@@ -1,1 +1,44 @@
-{"course_name":"MUSC 135","subject_code":"MUSC","course_number":"135","course_title":"Opera Repertoire I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=135&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 135 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=135&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"2020W Term 1 Format:  Students will attend two weekly 50-minute online classes on Mondays and Wednesdays at 11 am, plus some supplementary tutorials at other times to be arranged with the instructor.With MUSC 235.  Restricted to BMUS OPER, or DMPS. Open to other students by permission of the instructor.","subject_code":"MUSC","course_number":"135","section_number":"001","building":" ","room":"","instructors":["EPP, RICHARD ARTHUR"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"11"}},"credits":"Credits: 2","description":"A musico-dramatic study and analysis of representative works in the international operatic theatre from 1600 to the present, through musical, literary and graphic sources. Each sequential year of study, the student is expected to show increased facility in musical and dramatic analysis as well as a greater understanding of the works under examination. Open to students outside the B.Mus. program by permission of the instructor."}
+{
+  "course_name": "MUSC 135",
+  "subject_code": "MUSC",
+  "course_number": "135",
+  "course_title": "Opera Repertoire I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=135&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 135 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=135&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "2020W Term 1 Format:  Students will attend two weekly 50-minute online classes on Mondays and Wednesdays at 11 am, plus some supplementary tutorials at other times to be arranged with the instructor.With MUSC 235.  Restricted to BMUS OPER, or DMPS. Open to other students by permission of the instructor.",
+      "subject_code": "MUSC",
+      "course_number": "135",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EPP, RICHARD ARTHUR"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 2,
+  "description": "A musico-dramatic study and analysis of representative works in the international operatic theatre from 1600 to the present, through musical, literary and graphic sources. Each sequential year of study, the student is expected to show increased facility in musical and dramatic analysis as well as a greater understanding of the works under examination. Open to students outside the B.Mus. program by permission of the instructor.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

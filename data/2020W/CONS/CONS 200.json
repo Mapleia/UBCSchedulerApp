@@ -1,1 +1,72 @@
-{"course_name":"CONS 200","subject_code":"CONS","course_number":"200","course_title":"Foundations of Conservation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=200&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CONS 200 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=200&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Fri","start":"11:00","end":"12:00","comments":"We welcome students from all faculties to take Cons 200 - should you have any questions, please contact Forestry Student Services -- chiara.longhi@ubc.ca","subject_code":"CONS","course_number":"200","section_number":"001","building":" ","room":"","instructors":["HAGERMAN, SHANNON MARIE"],"totalRemaining":"91","currentlyRegistered":"129","generalRemaining":"91","restrictedRemaining":"0"},"002":{"status":" ","section":"CONS 200 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=200&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CONS","course_number":"200","section_number":"002","building":"Forest Sciences Centre","room":"1005","instructors":["TOMASELLI CRESPO, MARIA"],"totalRemaining":"38","currentlyRegistered":"137","generalRemaining":"38","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Conceptual foundations of conservation; means of conserving nature and natural resources."}
+{
+  "course_name": "CONS 200",
+  "subject_code": "CONS",
+  "course_number": "200",
+  "course_title": "Foundations of Conservation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CONS 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "We welcome students from all faculties to take Cons 200 - should you have any questions, please contact Forestry Student Services -- chiara.longhi@ubc.ca",
+      "subject_code": "CONS",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAGERMAN, SHANNON MARIE"
+      ],
+      "totalRemaining": "94",
+      "currentlyRegistered": "126",
+      "generalRemaining": "94",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CONS 200 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=200&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "200",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMASELLI CRESPO, MARIA"
+      ],
+      "totalRemaining": "39",
+      "currentlyRegistered": "136",
+      "generalRemaining": "39",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Conceptual foundations of conservation; means of conserving nature and natural resources.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

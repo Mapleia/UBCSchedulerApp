@@ -1,1 +1,70 @@
-{"course_name":"ELEC 401","subject_code":"ELEC","course_number":"401","course_title":"Analog CMOS Integrated Circuit Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=401&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ELEC 401 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=401&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ELEC","course_number":"401","section_number":"101","building":" ","room":"","instructors":["MIRABBASI, SHAHRIAR"],"totalRemaining":"63","currentlyRegistered":"52","generalRemaining":"55","restrictedRemaining":"8"},"T1A":{"status":" ","section":"ELEC 401 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=401&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"13:00","end":"14:00","comments":"","subject_code":"ELEC","course_number":"401","section_number":"T1A","building":" ","room":"","instructors":["MIRABBASI, SHAHRIAR"],"totalRemaining":"8","currentlyRegistered":"52","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Design and analysis of analog integrated circuits, with emphasis on CMOS design techniques. Gain stages, opamp design, frequency compensation, oscillators, A/D, D/A converters, PLL, DLL."}
+{
+  "course_name": "ELEC 401",
+  "subject_code": "ELEC",
+  "course_number": "401",
+  "course_title": "Analog CMOS Integrated Circuit Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 401 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=401&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "401",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIRABBASI, SHAHRIAR"
+      ],
+      "totalRemaining": "64",
+      "currentlyRegistered": "51",
+      "generalRemaining": "57",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 401 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=401&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "401",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MIRABBASI, SHAHRIAR"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "51",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Design and analysis of analog integrated circuits, with emphasis on CMOS design techniques. Gain stages, opamp design, frequency compensation, oscillators, A/D, D/A converters, PLL, DLL.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

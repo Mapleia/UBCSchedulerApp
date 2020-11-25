@@ -1,1 +1,44 @@
-{"course_name":"FNEL 448A","subject_code":"FNEL","course_number":"448A","course_title":"Directed Research in First Nations Languages - RSRCH FRST NAT L","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=448A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNEL 448A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=448A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This is the graduate section of FNEL 381 001. Interested graduate students should email cis.program@ubc.ca with a statement outlining their interest in the course. More information can be found here: https://fnel.arts.ubc.ca/undergraduate/courses/","subject_code":"FNEL","course_number":"448A","section_number":"001","building":" ","room":"","instructors":["ROSENBLUM, DAISY"],"totalRemaining":"2","currentlyRegistered":"2","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Supervised by a faculty member."}
+{
+  "course_name": "FNEL 448A",
+  "subject_code": "FNEL",
+  "course_number": "448A",
+  "course_title": "Directed Research in First Nations Languages - RSRCH FRST NAT L",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=448A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNEL 448A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=448A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This is the graduate section of FNEL 381 001. Interested graduate students should email cis.program@ubc.ca with a statement outlining their interest in the course. More information can be found here: https://fnel.arts.ubc.ca/undergraduate/courses/",
+      "subject_code": "FNEL",
+      "course_number": "448A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSENBLUM, DAISY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "2",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Supervised by a faculty member.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

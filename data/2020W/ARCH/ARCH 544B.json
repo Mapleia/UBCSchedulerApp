@@ -1,1 +1,70 @@
-{"course_name":"ARCH 544B","subject_code":"ARCH","course_number":"544B","course_title":"Seminar in Architecture - INDIG RES MTHDS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=544B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ARCH 544B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=544B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"9:30","end":"12:30","comments":"Please contact the instructor at patrickreidstewart@gmail.com for permission to take this class.","subject_code":"ARCH","course_number":"544B","section_number":"001","building":" ","room":"","instructors":["STEWART, PATRICK"],"totalRemaining":"5","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"5"},"WL1":{"status":"Restricted","section":"ARCH 544B WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=544B&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":" ","end":" ","comments":"","subject_code":"ARCH","course_number":"544B","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"An exploration of selected topics in architecture. Enrolment is limited to facilitate discussion."}
+{
+  "course_name": "ARCH 544B",
+  "subject_code": "ARCH",
+  "course_number": "544B",
+  "course_title": "Seminar in Architecture - INDIG RES MTHDS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=544B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARCH 544B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=544B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Please contact the instructor at patrickreidstewart@gmail.com for permission to take this class.",
+      "subject_code": "ARCH",
+      "course_number": "544B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEWART, PATRICK"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "ARCH 544B WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=544B&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "544B",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "An exploration of selected topics in architecture. Enrolment is limited to facilitate discussion.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

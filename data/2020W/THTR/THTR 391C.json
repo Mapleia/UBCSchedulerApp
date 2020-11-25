@@ -1,1 +1,45 @@
-{"course_name":"THTR 391C","subject_code":"THTR","course_number":"391C","course_title":"Rehearsal and Performance - REHEARS&PERFORM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=391C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 391C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=391C&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Sat","start":"13:00","end":"17:00","comments":"This course is only open to students registered in UBC's BFA Acting Program.Assigned projects in performance","subject_code":"THTR","course_number":"391C","section_number":"001","building":"Dorothy Somerset Studio","room":"101","instructors":["ANDERSON, BART","ANDERSON, LOIS","WAGNER, RAPHAEL"],"totalRemaining":"14","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 6","description":"Open only to  B.F.A. Acting students."}
+{
+  "course_name": "THTR 391C",
+  "subject_code": "THTR",
+  "course_number": "391C",
+  "course_title": "Rehearsal and Performance - REHEARS&PERFORM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=391C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 391C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=391C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "This course is only open to students registered in UBC's BFA Acting Program.Assigned projects in performance",
+      "subject_code": "THTR",
+      "course_number": "391C",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "101",
+      "instructors": [
+        "ANDERSON, BART",
+        "ANDERSON, LOIS",
+        "WAGNER, RAPHAEL"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": 6,
+  "description": "Open only to  B.F.A. Acting students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

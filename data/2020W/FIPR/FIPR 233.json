@@ -1,1 +1,43 @@
-{"course_name":"FIPR 233","subject_code":"FIPR","course_number":"233","course_title":"Film and Media Production I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=233&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"FIPR 233 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=233&section=002&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"This section is RESTRICTED to Film Production Majors in second year or above. Please see the Department for details.","subject_code":"FIPR","course_number":"233","section_number":"002","building":"Theatre-Film Production Building","room":"104","instructors":["DRLJACA, IGOR"],"totalRemaining":"4","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Camera operation, lighting, sounds, and editing for film and media production."}
+{
+  "course_name": "FIPR 233",
+  "subject_code": "FIPR",
+  "course_number": "233",
+  "course_title": "Film and Media Production I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=233&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 233 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=233&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This section is RESTRICTED to Film Production Majors in second year or above. Please see the Department for details.",
+      "subject_code": "FIPR",
+      "course_number": "233",
+      "section_number": "002",
+      "building": "Theatre-Film Production Building",
+      "room": "104",
+      "instructors": [
+        "DRLJACA, IGOR"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Camera operation, lighting, sounds, and editing for film and media production.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

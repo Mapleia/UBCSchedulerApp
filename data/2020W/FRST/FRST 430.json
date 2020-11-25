@@ -1,1 +1,72 @@
-{"course_name":"FRST 430","subject_code":"FRST","course_number":"430","course_title":"Advanced Biometrics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=430&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"FRST 430 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=430&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"This course is also open to non-Forestry students who meet the prerequisites.","subject_code":"FRST","course_number":"430","section_number":"101","building":" ","room":"","instructors":["ESKELSON, BIANCA"],"totalRemaining":"28","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"28"},"L01":{"status":" ","section":"FRST 430 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=430&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"10:00","end":"12:00","comments":"","subject_code":"FRST","course_number":"430","section_number":"L01","building":" ","room":"","instructors":["ESKELSON, BIANCA"],"totalRemaining":"28","currentlyRegistered":"32","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis of variance, multiple regression and analysis of covariance. Design and analysis of experiments."}
+{
+  "course_name": "FRST 430",
+  "subject_code": "FRST",
+  "course_number": "430",
+  "course_title": "Advanced Biometrics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 430 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=430&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This course is also open to non-Forestry students who meet the prerequisites.",
+      "subject_code": "FRST",
+      "course_number": "430",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ESKELSON, BIANCA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "28"
+    },
+    {
+      "status": " ",
+      "section": "FRST 430 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=430&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "430",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ESKELSON, BIANCA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "32",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of variance, multiple regression and analysis of covariance. Design and analysis of experiments.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

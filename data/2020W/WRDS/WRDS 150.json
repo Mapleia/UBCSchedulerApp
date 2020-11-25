@@ -1,1 +1,205 @@
-{"course_name":"WRDS 150","subject_code":"WRDS","course_number":"150","course_title":"Writing and Research in the Disciplines","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WRDS&course=150&sessyr=2020&sesscd=W","sections":{"V01":{"status":"STT","section":"WRDS 150 V01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V01&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"9:00","end":"10:30","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V01","building":"Orchard Commons","room":"3058","instructors":["FERREIRA, LAILA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V02":{"status":"STT","section":"WRDS 150 V02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V02&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"10:30","end":"12:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V02","building":"Orchard Commons","room":"3016","instructors":["FERREIRA, LAILA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V03":{"status":"STT","section":"WRDS 150 V03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V03&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"15:00","end":"16:30","comments":"This section is reserved for Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V03","building":"Orchard Commons","room":"3052","instructors":["KNIJNIK BAUMVOL, LAURA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V04":{"status":"STT","section":"WRDS 150 V04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V04&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"11:30","end":"13:00","comments":"This section is reserved for Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V04","building":"Orchard Commons","room":"3058","instructors":["KNIJNIK BAUMVOL, LAURA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V05":{"status":"STT","section":"WRDS 150 V05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V05&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"13:00","end":"14:30","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V05","building":"Orchard Commons","room":"4058","instructors":["THIEME, KATJA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V06":{"status":"STT","section":"WRDS 150 V06","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V06&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"14:30","end":"16:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"WRDS","course_number":"150","section_number":"V06","building":"Orchard Commons","room":"4004","instructors":["THIEME, KATJA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V07":{"status":"STT","section":"WRDS 150 V07","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V07&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"11:30","end":"13:00","comments":"","subject_code":"WRDS","course_number":"150","section_number":"V07","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Writing and reading in disciplines across the academy, focusing on practices that research disciplines share and those that differentiate them."}
+{
+  "course_name": "WRDS 150",
+  "subject_code": "WRDS",
+  "course_number": "150",
+  "course_title": "Writing and Research in the Disciplines",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WRDS&course=150&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "WRDS 150 V01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERREIRA, LAILA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERREIRA, LAILA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V03&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KNIJNIK BAUMVOL, LAURA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V04&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "This section is reserved for Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KNIJNIK BAUMVOL, LAURA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V05&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIEME, KATJA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V06",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V06&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V06",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIEME, KATJA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "WRDS 150 V07",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=150&section=V07&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "WRDS",
+      "course_number": "150",
+      "section_number": "V07",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HASANOVA, DILBARHON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Writing and reading in disciplines across the academy, focusing on practices that research disciplines share and those that differentiate them.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

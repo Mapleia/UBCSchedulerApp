@@ -1,1 +1,44 @@
-{"course_name":"PHIL 487","subject_code":"PHIL","course_number":"487","course_title":"Directed Reading","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=487&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 487 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=487&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Philosophical inquiry in the Islamic world produced some of the most rigorous proofs for God's existence, inspired some of the strongest arguments for and against the philosophical discipline, and generated numerous discourses on ethics, epistemology, metaphysics, language, and politics. Throughout the course of this discussion-based seminar, we will delve into some of the more prominent medieval and modern Islamic philosophers, including the likes of Ibn Sina (Latinized: Avicenna), al-Ghazali, and Ibn Rushd (Averroes). It is through the eyes of these and other scholars that we will explore the multifaceted relationship between Islam and philosophical reasoning, while establishing a basic understanding of the philosophical tradition within the Islamic world.","subject_code":"PHIL","course_number":"487","section_number":"001","building":" ","room":"","instructors":["BERRYMAN, SYLVIA"],"totalRemaining":"12","currentlyRegistered":"3","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHIL 487",
+  "subject_code": "PHIL",
+  "course_number": "487",
+  "course_title": "Directed Reading",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=487&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 487 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=487&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Philosophical inquiry in the Islamic world produced some of the most rigorous proofs for God's existence, inspired some of the strongest arguments for and against the philosophical discipline, and generated numerous discourses on ethics, epistemology, metaphysics, language, and politics. Throughout the course of this discussion-based seminar, we will delve into some of the more prominent medieval and modern Islamic philosophers, including the likes of Ibn Sina (Latinized: Avicenna), al-Ghazali, and Ibn Rushd (Averroes). It is through the eyes of these and other scholars that we will explore the multifaceted relationship between Islam and philosophical reasoning, while establishing a basic understanding of the philosophical tradition within the Islamic world.",
+      "subject_code": "PHIL",
+      "course_number": "487",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERRYMAN, SYLVIA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

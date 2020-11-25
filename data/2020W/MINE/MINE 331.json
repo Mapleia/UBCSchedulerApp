@@ -1,1 +1,72 @@
-{"course_name":"MINE 331","subject_code":"MINE","course_number":"331","course_title":"Physical Mineral Processes","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=331&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MINE 331 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=331&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Fri","start":"8:00","end":"9:30","comments":"-  Select one Laboratory from sections L1A","subject_code":"MINE","course_number":"331","section_number":"101","building":" ","room":"","instructors":["MISKOVIC, SANJA","AGUIRRE, JUAN"],"totalRemaining":"0","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"0"},"L1A":{"status":"Restricted","section":"MINE 331 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=331&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"13:00","end":"15:30","comments":"Forward Building Computer Lab FF319","subject_code":"MINE","course_number":"331","section_number":"L1A","building":" ","room":"","instructors":["MISKOVIC, SANJA"],"totalRemaining":"20","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"20"}},"credits":"Credits: 3","description":"Mineral processing unit operations and sampling, crushing, grinding, screening, classification, gravity separation, magnetic separation, electrostatic separation, concentrate dewatering practices."}
+{
+  "course_name": "MINE 331",
+  "subject_code": "MINE",
+  "course_number": "331",
+  "course_title": "Physical Mineral Processes",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=331&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 331 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=331&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "-  Select one Laboratory from sections L1A",
+      "subject_code": "MINE",
+      "course_number": "331",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, SANJA",
+        "AGUIRRE, JUAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MINE 331 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=331&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:30",
+      "comments": "Forward Building Computer Lab FF319",
+      "subject_code": "MINE",
+      "course_number": "331",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, SANJA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 3,
+  "description": "Mineral processing unit operations and sampling, crushing, grinding, screening, classification, gravity separation, magnetic separation, electrostatic separation, concentrate dewatering practices.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

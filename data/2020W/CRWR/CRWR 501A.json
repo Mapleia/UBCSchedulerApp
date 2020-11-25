@@ -1,1 +1,70 @@
-{"course_name":"CRWR 501A","subject_code":"CRWR","course_number":"501A","course_title":"Advanced Writing of Poetry I - ADV POETRY I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=501A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CRWR 501A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"11:00","end":"13:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will be held online, using a combination of synchronous (live via Zoom) and asynchronous activities and assignments, though some students may choose/need to remain asynchronous throughout the term.","subject_code":"CRWR","course_number":"501A","section_number":"001","building":" ","room":"","instructors":["BELCOURT, BILLY-RAY"],"totalRemaining":"3","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"3"},"D01":{"status":"Restricted","section":"CRWR 501A D01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501A&section=D01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Wed","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"501A","section_number":"D01","building":" ","room":"","instructors":["TATE, BRONWEN"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 501A",
+  "subject_code": "CRWR",
+  "course_number": "501A",
+  "course_title": "Advanced Writing of Poetry I - ADV POETRY I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=501A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 501A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will be held online, using a combination of synchronous (live via Zoom) and asynchronous activities and assignments, though some students may choose/need to remain asynchronous throughout the term.",
+      "subject_code": "CRWR",
+      "course_number": "501A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BELCOURT, BILLY-RAY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 501A D01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=501A&section=D01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "501A",
+      "section_number": "D01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TATE, BRONWEN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

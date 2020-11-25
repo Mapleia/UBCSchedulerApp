@@ -1,1 +1,44 @@
-{"course_name":"COMR 386L","subject_code":"COMR","course_number":"386L","course_title":"Topics in Business III - TPCS BUSINESS 3","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=386L&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"COMR 386L 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=386L&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMR","course_number":"386L","section_number":"201","building":"Henry Angus","room":"039","instructors":["TANSEY, JAMES"],"totalRemaining":"3","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMR 386L",
+  "subject_code": "COMR",
+  "course_number": "386L",
+  "course_title": "Topics in Business III - TPCS BUSINESS 3",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=386L&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMR 386L 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=386L&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "386L",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TANSEY, JAMES"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,181 @@
-{"course_name":"PSYC 315","subject_code":"PSYC","course_number":"315","course_title":"Childhood and Adolescence","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=315&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 315 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"315","section_number":"001","building":" ","room":"","instructors":["MAY, LILLIAN"],"totalRemaining":"1","currentlyRegistered":"98","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 315 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"315","section_number":"002","building":" ","room":"","instructors":["MAY, LILLIAN"],"totalRemaining":"35","currentlyRegistered":"315","generalRemaining":"35","restrictedRemaining":"0"},"003":{"status":"Full","section":"PSYC 315 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"PSYC","course_number":"315","section_number":"003","building":" ","room":"","instructors":["BARON, ANDREW"],"totalRemaining":"0","currentlyRegistered":"140","generalRemaining":"0","restrictedRemaining":"0"},"004":{"status":"Full","section":"PSYC 315 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"PSYC","course_number":"315","section_number":"004","building":" ","room":"","instructors":["BARON, ANDREW"],"totalRemaining":"0","currentlyRegistered":"140","generalRemaining":"0","restrictedRemaining":"0"},"99A":{"status":" ","section":"PSYC 315 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education.Please note that this is a distance learning section and may have no synchronous (live, real-time) component. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.>> This course will use Proctorio (an online remote proctoring service) for invigilation of the midterm and final exam. Proctorio will record your webcam, computer screen, or other actions during the exam session and share that information with your instructor. The recorded information meets British Columbia s Freedom of Information and Protection of Privacy Act. In order to use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone and you will need to install both the Google Chrome web browser  and  Proctorio s Chrome extension.This course section uses the textbook, How Children Develop (either the 4th or 5th Canadian edition will do), by Siegler et al. We will *not* be using launchpad in this course so you do not need that.\"","subject_code":"PSYC","course_number":"315","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["BARON, ANDREW"],"totalRemaining":"29","currentlyRegistered":"81","generalRemaining":"29","restrictedRemaining":"0"},"99C":{"status":" ","section":"PSYC 315 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education. Please note that this is a distance learning section and may have no synchronous (live, real-time) component. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.>> This course will use Proctorio (an online remote proctoring service) for invigilation of the midterm and final exam. Proctorio will record your webcam, computer screen, or other actions during the exam session and share that information with your instructor. The recorded information meets British Columbia s Freedom of Information and Protection of Privacy Act. In order to use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone and you will need to install both the Google Chrome web browser  and  Proctorio s Chrome extension.This course section uses the textbook, How Children Develop (either the 4th or 5th Canadian edition will do), by Siegler et al. We will *not* be using launchpad in this course so you do not need that.\"","subject_code":"PSYC","course_number":"315","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["BARON, ANDREW"],"totalRemaining":"47","currentlyRegistered":"63","generalRemaining":"47","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Human development from the preschool period through adolescence."}
+{
+  "course_name": "PSYC 315",
+  "subject_code": "PSYC",
+  "course_number": "315",
+  "course_title": "Childhood and Adolescence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAY, LILLIAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "98",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 315 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAY, LILLIAN"
+      ],
+      "totalRemaining": "37",
+      "currentlyRegistered": "313",
+      "generalRemaining": "37",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 315 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARON, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 315 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARON, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 315 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education.Please note that this is a distance learning section and may have no synchronous (live, real-time) component. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.>> This course will use Proctorio (an online remote proctoring service) for invigilation of the midterm and final exam. Proctorio will record your webcam, computer screen, or other actions during the exam session and share that information with your instructor. The recorded information meets British Columbia s Freedom of Information and Protection of Privacy Act. In order to use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone and you will need to install both the Google Chrome web browser  and  Proctorio s Chrome extension.This course section uses the textbook, How Children Develop (either the 4th or 5th Canadian edition will do), by Siegler et al. We will *not* be using launchpad in this course so you do not need that.\"",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BARON, ANDREW"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "81",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 315 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=315&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. Please note that this is a distance learning section and may have no synchronous (live, real-time) component. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre.>> This course will use Proctorio (an online remote proctoring service) for invigilation of the midterm and final exam. Proctorio will record your webcam, computer screen, or other actions during the exam session and share that information with your instructor. The recorded information meets British Columbia s Freedom of Information and Protection of Privacy Act. In order to use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone and you will need to install both the Google Chrome web browser  and  Proctorio s Chrome extension.This course section uses the textbook, How Children Develop (either the 4th or 5th Canadian edition will do), by Siegler et al. We will *not* be using launchpad in this course so you do not need that.\"",
+      "subject_code": "PSYC",
+      "course_number": "315",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BARON, ANDREW"
+      ],
+      "totalRemaining": "47",
+      "currentlyRegistered": "63",
+      "generalRemaining": "47",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Human development from the preschool period through adolescence.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MUSC 562C","subject_code":"MUSC","course_number":"562C","course_title":"Wind and Percussion Chamber Ensembles - WIND CHAM ENS SX","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=562C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 562C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=562C&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Fri","start":"15:30","end":"17:00","comments":"Saxophone Chamber Ensemble.  OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year.  Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here:  http://www.music.ubc.ca/student-ensembles.html.  Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.","subject_code":"MUSC","course_number":"562C","section_number":"001","building":"Music","room":"338","instructors":["NOLAN, JULIA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"Open only to graduate students."}
+{
+  "course_name": "MUSC 562C",
+  "subject_code": "MUSC",
+  "course_number": "562C",
+  "course_title": "Wind and Percussion Chamber Ensembles - WIND CHAM ENS SX",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=562C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 562C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=562C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Saxophone Chamber Ensemble.  OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year.  Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here:  http://www.music.ubc.ca/student-ensembles.html.  Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.",
+      "subject_code": "MUSC",
+      "course_number": "562C",
+      "section_number": "001",
+      "building": "Music",
+      "room": "338",
+      "instructors": [
+        "NOLAN, JULIA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Open only to graduate students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"FRST 524","subject_code":"FRST","course_number":"524","course_title":"Environmental Perception","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=524&sessyr=2020&sesscd=W","sections":{"901":{"status":" ","section":"FRST 524 901","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=524&section=901&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"11:00","end":"14:00","comments":"This course will meet with FRST 492.","subject_code":"FRST","course_number":"524","section_number":"901","building":"Forest Sciences Centre","room":"1221","instructors":["MEITNER, MICHAEL"],"totalRemaining":"3","currentlyRegistered":"6","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Perceptual processes mediating behaviour in humans, with special attention given to the emotional processing of visual stimuli."}
+{
+  "course_name": "FRST 524",
+  "subject_code": "FRST",
+  "course_number": "524",
+  "course_title": "Environmental Perception",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 524 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=524&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "14:00",
+      "comments": "This course will meet with FRST 492.",
+      "subject_code": "FRST",
+      "course_number": "524",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEITNER, MICHAEL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "5",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Perceptual processes mediating behaviour in humans, with special attention given to the emotional processing of visual stimuli.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

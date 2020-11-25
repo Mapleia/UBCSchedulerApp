@@ -1,1 +1,44 @@
-{"course_name":"CRWR 407C","subject_code":"CRWR","course_number":"407C","course_title":"Writing of Drama for the Stage I - STAGE DRAMA I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=407C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CRWR 407C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=407C&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Thu","start":"12:00","end":"14:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will run as a text-based asynchronous workshop on Canvas Thursday-Friday, with a synchronous play reading component on Collaborate Ultra. Play readings will be recorded for students who cannot attend in real time.","subject_code":"CRWR","course_number":"407C","section_number":"001","building":" ","room":"","instructors":["GRAEFE, SARA","WADE, BRYAN"],"totalRemaining":"2","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 6","description":"A workshop class in writing of drama for the stage. Studio work is required, and some plays may be given a live stage production in Brave New Play Rites (adjudication process involved)."}
+{
+  "course_name": "CRWR 407C",
+  "subject_code": "CRWR",
+  "course_number": "407C",
+  "course_title": "Writing of Drama for the Stage I - STAGE DRAMA I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=407C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 407C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=407C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will run as a text-based asynchronous workshop on Canvas Thursday-Friday, with a synchronous play reading component on Collaborate Ultra. Play readings will be recorded for students who cannot attend in real time.",
+      "subject_code": "CRWR",
+      "course_number": "407C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAEFE, SARA",
+        "WADE, BRYAN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 6,
+  "description": "A workshop class in writing of drama for the stage. Studio work is required, and some plays may be given a live stage production in Brave New Play Rites (adjudication process involved).",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

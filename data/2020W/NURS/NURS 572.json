@@ -1,1 +1,46 @@
-{"course_name":"NURS 572","subject_code":"NURS","course_number":"572","course_title":"PRIMARY CARE III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=572&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"NURS 572 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=572&section=002&sessyr=2020&sesscd=W","activity":"Lab-Seminar","term":"2","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 2nd Year MN-NP students.The focus of this course is on the primary care management of common acute and chronic conditions across the life span. Health promotion and illness/injury prevention strategies are integrated throughout. Didactic and clinically based learning occurs in the classroom and clinical settings.","subject_code":"NURS","course_number":"572","section_number":"002","building":"UBC Hospital - Koerner Pavilion","room":"T206","instructors":["BURROWS, MARLENE","HARDING, JILLIAN","KRIST, JENNIFER","MCCUAIG, FAIRLETH"],"totalRemaining":"14","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "NURS 572",
+  "subject_code": "NURS",
+  "course_number": "572",
+  "course_title": "PRIMARY CARE III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=572&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 572 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=572&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 2nd Year MN-NP students.The focus of this course is on the primary care management of common acute and chronic conditions across the life span. Health promotion and illness/injury prevention strategies are integrated throughout. Didactic and clinically based learning occurs in the classroom and clinical settings.",
+      "subject_code": "NURS",
+      "course_number": "572",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURROWS, MARLENE",
+        "HARDING, JILLIAN",
+        "KRIST, JENNIFER",
+        "MCCUAIG, FAIRLETH"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

@@ -1,1 +1,180 @@
-{"course_name":"COMM 491","subject_code":"COMM","course_number":"491","course_title":"Strategic Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=491&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 491 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"8:30","end":"10:00","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"491","section_number":"101","building":" ","room":"","instructors":["ORR, PATRICK SCOTT"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":" ","section":"COMM 491 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"10:00","end":"11:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"491","section_number":"102","building":" ","room":"","instructors":["ORR, PATRICK SCOTT"],"totalRemaining":"1","currentlyRegistered":"41","generalRemaining":"1","restrictedRemaining":"0"},"103":{"status":" ","section":"COMM 491 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"11:30","end":"13:00","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"491","section_number":"103","building":" ","room":"","instructors":["PANKRATZ, ADAM"],"totalRemaining":"1","currentlyRegistered":"41","generalRemaining":"1","restrictedRemaining":"0"},"104":{"status":" ","section":"COMM 491 104","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=104&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"19:00","end":"20:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"491","section_number":"104","building":" ","room":"","instructors":["PANKRATZ, ADAM"],"totalRemaining":"1","currentlyRegistered":"41","generalRemaining":"1","restrictedRemaining":"0"},"201":{"status":"Full","section":"COMM 491 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"10:00","end":"11:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"491","section_number":"201","building":"Henry Angus","room":"350","instructors":["PANKRATZ, ADAM"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Restricted","section":"COMM 491 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"13:00","end":"14:30","comments":"COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.","subject_code":"COMM","course_number":"491","section_number":"202","building":"Henry Angus","room":"334","instructors":["PANKRATZ, ADAM"],"totalRemaining":"1","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses."}
+{
+  "course_name": "COMM 491",
+  "subject_code": "COMM",
+  "course_number": "491",
+  "course_title": "Strategic Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 491 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORR, PATRICK SCOTT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 491 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORR, PATRICK SCOTT"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 491 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PANKRATZ, ADAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 491 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PANKRATZ, ADAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "41",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 491 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PANKRATZ, ADAM"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "39",
+      "generalRemaining": "1",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 491 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=491&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "COMM 390 and COMM 395 are compulsory prerequisites.  This course is restricted to BCom students in Year 4.",
+      "subject_code": "COMM",
+      "course_number": "491",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PANKRATZ, ADAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts and processes for the strategic management of private sector, single and multi-business unit enterprises are analysed using the case method. Methodologies which draw on economic and organizational theory are integrated to form the foundations for strategic analyses.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

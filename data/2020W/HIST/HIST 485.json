@@ -1,1 +1,45 @@
-{"course_name":"HIST 485","subject_code":"HIST","course_number":"485","course_title":"Asian Migrant Communities in Vancouver","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=485&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"HIST 485 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=485&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"HIST","course_number":"485","section_number":"201","building":"Buchanan","room":"D218","instructors":["YU, HENRY","LOUIE, NAOMI"],"totalRemaining":"4","currentlyRegistered":"46","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This course will examine the history of Asian migration to Vancouver and British Columbia, focusing on the development of local communities and provide a background in historical research methods that will enable the students to conduct research on the history of these communities."}
+{
+  "course_name": "HIST 485",
+  "subject_code": "HIST",
+  "course_number": "485",
+  "course_title": "Asian Migrant Communities in Vancouver",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=485&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 485 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=485&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "485",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YU, HENRY",
+        "LOUIE, NAOMI"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This course will examine the history of Asian migration to Vancouver and British Columbia, focusing on the development of local communities and provide a background in historical research methods that will enable the students to conduct research on the history of these communities.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

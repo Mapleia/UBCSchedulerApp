@@ -1,1 +1,108 @@
-{"course_name":"MATH 264","subject_code":"MATH","course_number":"264","course_title":"Vector Calculus for Electrical Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=264&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MATH 264 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"11:00","end":"12:00","comments":"FOR APPLIED SCIENCE STUDENTS ONLY.  This section of MATH 264 is linked to EECE 211, Section 201.","subject_code":"MATH","course_number":"264","section_number":"201","building":"UBC Life Building","room":"2302","instructors":["4","102","0","4","","with one of these specializations: IN  CPEN,IN  ELEC\n\n"],"totalRemaining":"with one of these specializations: IN  CPEN,IN  ELEC\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"202":{"status":"Restricted","section":"MATH 264 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"14:00","end":"15:00","comments":"FOR APPLIED SCIENCE STUDENTS ONLY.  This section of MATH 264 is linked to EECE 211, Section 202.","subject_code":"MATH","course_number":"264","section_number":"202","building":"UBC Life Building","room":"2302","instructors":["10","101","0","10","","with one of these specializations: IN  ELEC,IN  CPEN\n\n"],"totalRemaining":"with one of these specializations: IN  ELEC,IN  CPEN\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"203":{"status":"Full","section":"MATH 264 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"14:00","end":"15:00","comments":"","subject_code":"MATH","course_number":"264","section_number":"203","building":"Irving K Barber Learning Centre","room":"182","instructors":["0","133","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Divergence, gradient, curl, theorems of Gauss and Stokes. Applications to Electrostatics and Magnetostatics. MATH 264 content is strongly coupled to BMEG 220 and ELEC 211 with topics and student evaluations weighted accordingly."}
+{
+  "course_name": "MATH 264",
+  "subject_code": "MATH",
+  "course_number": "264",
+  "course_title": "Vector Calculus for Electrical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=264&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MATH 264 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "FOR APPLIED SCIENCE STUDENTS ONLY.  This section of MATH 264 is linked to EECE 211, Section 201.",
+      "subject_code": "MATH",
+      "course_number": "264",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "3",
+        "100",
+        "0",
+        "3",
+        "",
+        "with one of these specializations: IN  CPEN,IN  ELEC\n\n"
+      ],
+      "totalRemaining": "with one of these specializations: IN  CPEN,IN  ELEC\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 264 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "FOR APPLIED SCIENCE STUDENTS ONLY.  This section of MATH 264 is linked to EECE 211, Section 202.",
+      "subject_code": "MATH",
+      "course_number": "264",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "9",
+        "95",
+        "0",
+        "9",
+        "",
+        "with one of these specializations: IN  ELEC,IN  CPEN\n\n"
+      ],
+      "totalRemaining": "with one of these specializations: IN  ELEC,IN  CPEN\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MATH 264 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=264&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "264",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "140",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Divergence, gradient, curl, theorems of Gauss and Stokes. Applications to Electrostatics and Magnetostatics. MATH 264 content is strongly coupled to BMEG 220 and ELEC 211 with topics and student evaluations weighted accordingly.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

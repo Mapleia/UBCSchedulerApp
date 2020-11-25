@@ -1,1 +1,46 @@
-{"course_name":"LAW 501E","subject_code":"LAW","course_number":"501E","course_title":"Directed Research - DIR RESEARCH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=501E&sessyr=2020&sesscd=W","sections":{"006":{"status":"Blocked","section":"LAW 501E 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=501E&section=006&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"LAW","course_number":"501E","section_number":"006","building":"","room":"","instructors":["9","1","9","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Students will be able to undertake advanced research into a topic approved by a faculty member, under the supervision of and in consultation with, that faculty member."}
+{
+  "course_name": "LAW 501E",
+  "subject_code": "LAW",
+  "course_number": "501E",
+  "course_title": "Directed Research - DIR RESEARCH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=501E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 501E 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=501E&section=006&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "501E",
+      "section_number": "006",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "9",
+        "1",
+        "9",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Students will be able to undertake advanced research into a topic approved by a faculty member, under the supervision of and in consultation with, that faculty member.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

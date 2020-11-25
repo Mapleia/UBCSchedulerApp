@@ -1,1 +1,124 @@
-{"course_name":"MUSC 549A","subject_code":"MUSC","course_number":"549A","course_title":"Master's Thesis - MASTERS THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"549A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"34","currentlyRegistered":"16","generalRemaining":"34","restrictedRemaining":"0"},"002":{"status":" ","section":"MUSC 549A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"549A","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"003":{"status":" ","section":"MUSC 549A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=003&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"549A","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"004":{"status":"Blocked","section":"MUSC 549A 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=004&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"549A","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["CHANG BORTOLUSSI, DOROTHY","CHATMAN, STEPHEN"],"totalRemaining":"1","currentlyRegistered":"4","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "MUSC 549A",
+  "subject_code": "MUSC",
+  "course_number": "549A",
+  "course_title": "Master's Thesis - MASTERS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "16",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 549A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "549A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 549A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "549A",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 549A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=549A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "549A",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CHANG BORTOLUSSI, DOROTHY",
+        "CHATMAN, STEPHEN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "3",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

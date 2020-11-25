@@ -1,1 +1,72 @@
-{"course_name":"LAW 506","subject_code":"LAW","course_number":"506","course_title":"Taxation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=506&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 506 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=506&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"10:30","end":"12:30","comments":"*Cross-listed to LAW 407.001*","subject_code":"LAW","course_number":"506","section_number":"001","building":" ","room":"","instructors":["DUFF, DAVID"],"totalRemaining":"1","currentlyRegistered":"1","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"LAW 506 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=506&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"15:30","end":"17:30","comments":"*Cross-listed with LAW 407.002*","subject_code":"LAW","course_number":"506","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"0","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Law and practice of income and capital gains taxes. Credit will be granted for only one of LAW 506, LAW 220 or LAW 407."}
+{
+  "course_name": "LAW 506",
+  "subject_code": "LAW",
+  "course_number": "506",
+  "course_title": "Taxation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=506&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 506 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=506&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:30",
+      "end": "12:30",
+      "comments": "*Cross-listed to LAW 407.001*",
+      "subject_code": "LAW",
+      "course_number": "506",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUFF, DAVID"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 506 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=506&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "*Cross-listed with LAW 407.002*",
+      "subject_code": "LAW",
+      "course_number": "506",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "0",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Law and practice of income and capital gains taxes. Credit will be granted for only one of LAW 506, LAW 220 or LAW 407.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

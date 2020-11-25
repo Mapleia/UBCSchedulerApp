@@ -1,1 +1,101 @@
-{"course_name":"GEOB 407","subject_code":"GEOB","course_number":"407","course_title":"Vegetation Dynamics: Disturbance, Climate and Human Impacts","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=407&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"GEOB 407 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"14:00","end":"15:00","comments":"One course in statistics strongly recommended; at least 3rd year standing required.This section will focus on two important contemporary issues: plant invasions and the conservation of rare and threatened plant species. Data analysis will include learning how to build simple mathematical models to address both of these issues.","subject_code":"GEOB","course_number":"407","section_number":"201","building":"Geography","room":"214","instructors":["WILLIAMS, JENNIFER"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":"Full","section":"GEOB 407 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"15:00","end":"17:00","comments":"","subject_code":"GEOB","course_number":"407","section_number":"L2A","building":"Geography","room":"214","instructors":["WILLIAMS, JENNIFER"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":" ","section":"GEOB 407 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOB 407, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOB","course_number":"407","section_number":"WL2","building":"","room":"","instructors":["2","8","2","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results."}
+{
+  "course_name": "GEOB 407",
+  "subject_code": "GEOB",
+  "course_number": "407",
+  "course_title": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOB 407 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "One course in statistics strongly recommended; at least 3rd year standing required.This section will focus on two important contemporary issues: plant invasions and the conservation of rare and threatened plant species. Data analysis will include learning how to build simple mathematical models to address both of these issues.Mix of asynchronous and synchronous components: synchronous online lecture are held every Wednesday at the scheduled class time.",
+      "subject_code": "GEOB",
+      "course_number": "407",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILLIAMS, JENNIFER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOB 407 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "407",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WILLIAMS, JENNIFER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 407 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=407&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 407, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "407",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "9",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

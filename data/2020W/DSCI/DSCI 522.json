@@ -1,1 +1,96 @@
-{"course_name":"DSCI 522","subject_code":"DSCI","course_number":"522","course_title":"Data Science Workflows","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=522&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DSCI 522 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:00","end":"10:30","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"522","section_number":"001","building":" ","room":"","instructors":["TIMBERS, TIFFANY"],"totalRemaining":"19","currentlyRegistered":"101","generalRemaining":"0","restrictedRemaining":"19"},"L01":{"status":"Restricted","section":"DSCI 522 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=L01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"14:00","end":"16:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"522","section_number":"L01","building":" ","room":"","instructors":["TIMBERS, TIFFANY"],"totalRemaining":"16","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"16"},"L02":{"status":"Full","section":"DSCI 522 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=L02&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"14:00","end":"16:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"522","section_number":"L02","building":" ","room":"","instructors":["TIMBERS, TIFFANY"],"totalRemaining":"0","currentlyRegistered":"67","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows."}
+{
+  "course_name": "DSCI 522",
+  "subject_code": "DSCI",
+  "course_number": "522",
+  "course_title": "Data Science Workflows",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=522&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 522 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "522",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 522 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "522",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 522 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=522&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "522",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

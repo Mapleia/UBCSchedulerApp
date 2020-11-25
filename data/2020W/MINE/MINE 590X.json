@@ -1,1 +1,44 @@
-{"course_name":"MINE 590X","subject_code":"MINE","course_number":"590X","course_title":"Special Advanced Topics - AD MINE WTR MGMT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=590X&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MINE 590X 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=590X&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:00","end":"16:30","comments":"Please email course instructor for registration","subject_code":"MINE","course_number":"590X","section_number":"201","building":"UBC Life Building","room":"2212","instructors":["KUNZ, NADJA"],"totalRemaining":"27","currentlyRegistered":"3","generalRemaining":"15","restrictedRemaining":"12"}},"credits":"Credits: 3","description":"A special advanced course may be arranged upon the approval of the department head."}
+{
+  "course_name": "MINE 590X",
+  "subject_code": "MINE",
+  "course_number": "590X",
+  "course_title": "Special Advanced Topics - AD MINE WTR MGMT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=590X&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 590X 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=590X&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "- Please email course instructor for registration- cross-listed with MINE 455",
+      "subject_code": "MINE",
+      "course_number": "590X",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUNZ, NADJA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "13",
+      "restrictedRemaining": "12"
+    }
+  ],
+  "credits": 3,
+  "description": "A special advanced course may be arranged upon the approval of the department head.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

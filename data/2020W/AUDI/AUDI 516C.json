@@ -1,1 +1,45 @@
-{"course_name":"AUDI 516C","subject_code":"AUDI","course_number":"516C","course_title":"Discourse Analysis - DISCOURSE ANYL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=516C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 516C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=516C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"516C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["HOWE, TAMI","SINDEN, EAVAN","SMALL, JEFF"],"totalRemaining":"12","currentlyRegistered":"28","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"May be taken more than once for credit."}
+{
+  "course_name": "AUDI 516C",
+  "subject_code": "AUDI",
+  "course_number": "516C",
+  "course_title": "Discourse Analysis - DISCOURSE ANYL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=516C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 516C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=516C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "516C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HOWE, TAMI",
+        "SINDEN, EAVAN",
+        "SMALL, JEFF"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "28",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "May be taken more than once for credit.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"FRST 411","subject_code":"FRST","course_number":"411","course_title":"Complex Adaptive Systems, Global Change Science, and Ecology Sustainability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=411&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 411 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=411&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"FRST","course_number":"411","section_number":"101","building":" ","room":"","instructors":["RYAN, TERESA"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts of complex adaptive systems (CAS); exploration of how CAS can be used to manage natural and social environments for multiple goals under changing climatic and socio-economic conditions."}
+{
+  "course_name": "FRST 411",
+  "subject_code": "FRST",
+  "course_number": "411",
+  "course_title": "Complex Adaptive Systems, Global Change Science, and Ecology Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 411 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=411&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "411",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RYAN, TERESA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts of complex adaptive systems (CAS); exploration of how CAS can be used to manage natural and social environments for multiple goals under changing climatic and socio-economic conditions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

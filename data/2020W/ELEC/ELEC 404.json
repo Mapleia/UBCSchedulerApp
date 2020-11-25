@@ -1,1 +1,123 @@
-{"course_name":"ELEC 404","subject_code":"ELEC","course_number":"404","course_title":"RF Integrated Circuits","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=404&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ELEC 404 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ELEC","course_number":"404","section_number":"201","building":"UBC Life Building","room":"2201","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"24","generalRemaining":"36","restrictedRemaining":"0"},"T2A":{"status":" ","section":"ELEC 404 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ELEC","course_number":"404","section_number":"T2A","building":"Civil and Mechanical Engineering","room":"1204","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"22","generalRemaining":"2","restrictedRemaining":"0"},"T2W":{"status":" ","section":"ELEC 404 T2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=T2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"404","section_number":"T2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 404 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"404","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc."}
+{
+  "course_name": "ELEC 404",
+  "subject_code": "ELEC",
+  "course_number": "404",
+  "course_title": "RF Integrated Circuits",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 404 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "404",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "24",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 404 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "404",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "22",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 404 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "404",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 404 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=404&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "404",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to radio-frequency (RF) communication systems; matching networks, transceiver architectures, low noise amplifiers, mixers, oscillators, etc.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

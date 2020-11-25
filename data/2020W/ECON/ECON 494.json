@@ -1,1 +1,125 @@
-{"course_name":"ECON 494","subject_code":"ECON","course_number":"494","course_title":"Seminar in Applied International Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=494&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ECON 494 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"ECON494 Topic: Environment","subject_code":"ECON","course_number":"494","section_number":"001","building":"Iona Building","room":"533","instructors":["BAYLIS, PATRICK"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"ECON 494 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed","start":"12:30","end":"14:00","comments":"ECON494 Topic: Development","subject_code":"ECON","course_number":"494","section_number":"002","building":"Iona Building","room":"533","instructors":["ANDERSON, KRISTIN SIWAN"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"ECON 494 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"ECON494 Topic: Trade","subject_code":"ECON","course_number":"494","section_number":"003","building":"Iona Building","room":"533","instructors":["COUTURE, VICTOR"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"004":{"status":"Full","section":"ECON 494 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=004&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"ECON494 Topic: Finance","subject_code":"ECON","course_number":"494","section_number":"004","building":"Iona Building","room":"633","instructors":["FISHER, ADLAI"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Focus on a particular aspect of applied international economics. Independent empirical research project required.  Registration restricted to students in the Bachelor of International Economics Program. \n"}
+{
+  "course_name": "ECON 494",
+  "subject_code": "ECON",
+  "course_number": "494",
+  "course_title": "Seminar in Applied International Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=494&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 494 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "ECON494 Topic: Environment",
+      "subject_code": "ECON",
+      "course_number": "494",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAYLIS, PATRICK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 494 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "ECON494 Topic: Development",
+      "subject_code": "ECON",
+      "course_number": "494",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANDERSON, KRISTIN SIWAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 494 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "ECON494 Topic: Trade",
+      "subject_code": "ECON",
+      "course_number": "494",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COUTURE, VICTOR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ECON 494 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=494&section=004&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "ECON494 Topic: Finance",
+      "subject_code": "ECON",
+      "course_number": "494",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FISHER, ADLAI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Focus on a particular aspect of applied international economics. Independent empirical research project required.  Registration restricted to students in the Bachelor of International Economics Program. \n",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

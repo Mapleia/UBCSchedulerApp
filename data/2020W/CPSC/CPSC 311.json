@@ -1,1 +1,257 @@
-{"course_name":"CPSC 311","subject_code":"CPSC","course_number":"311","course_title":"Definition of Programming Languages","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=311&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 311 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"101","building":" ","room":"","instructors":["GARCIA, RONALD"],"totalRemaining":"0","currentlyRegistered":"132","generalRemaining":"0","restrictedRemaining":"0"},"T1A":{"status":" ","section":"CPSC 311 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"30","generalRemaining":"2","restrictedRemaining":"0"},"T1B":{"status":" ","section":"CPSC 311 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"18:00","end":"19:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"28","generalRemaining":"4","restrictedRemaining":"0"},"T1C":{"status":" ","section":"CPSC 311 T1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1C&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"15:00","end":"16:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"10","restrictedRemaining":"0"},"T1D":{"status":" ","section":"CPSC 311 T1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1D&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"16:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"25","generalRemaining":"7","restrictedRemaining":"0"},"T1E":{"status":" ","section":"CPSC 311 T1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1E&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1E","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"},"T1F":{"status":"Blocked","section":"CPSC 311 T1F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1F&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1F","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"T1G":{"status":"Blocked","section":"CPSC 311 T1G","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1G&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"11:00","end":"12:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"T1G","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"CPSC 311 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CPSC","course_number":"311","section_number":"1W1","building":" ","room":"","instructors":["GARCIA, RONALD"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages."}
+{
+  "course_name": "CPSC 311",
+  "subject_code": "CPSC",
+  "course_number": "311",
+  "course_title": "Definition of Programming Languages",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 311 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GARCIA, RONALD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "105",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 311 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "26",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 311 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "18",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 311 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 311 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "19",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 311 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "22",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 311 T1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1F&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 311 T1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=T1G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "T1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 311 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=311&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "311",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GARCIA, RONALD"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

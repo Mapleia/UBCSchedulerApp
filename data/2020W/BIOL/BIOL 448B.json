@@ -1,1 +1,70 @@
-{"course_name":"BIOL 448B","subject_code":"BIOL","course_number":"448B","course_title":"Directed Studies in Biology - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=448B&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 448B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448B&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOL","course_number":"448B","section_number":"101","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"3","generalRemaining":"2","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"BIOL 448B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448B&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOL","course_number":"448B","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor."}
+{
+  "course_name": "BIOL 448B",
+  "subject_code": "BIOL",
+  "course_number": "448B",
+  "course_title": "Directed Studies in Biology - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=448B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 448B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "448B",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "3",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 448B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "448B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

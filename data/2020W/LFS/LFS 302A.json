@@ -1,1 +1,70 @@
-{"course_name":"LFS 302A","subject_code":"LFS","course_number":"302A","course_title":"International Field Studies - INTERNL FLD STD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=302A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LFS 302A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=302A&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LFS","course_number":"302A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["LAVKULICH, LESLIE"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"LFS 302A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=302A&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LFS","course_number":"302A","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["LAVKULICH, LESLIE"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Field studies carried out abroad under staff direction. Participating students are assessed a fee."}
+{
+  "course_name": "LFS 302A",
+  "subject_code": "LFS",
+  "course_number": "302A",
+  "course_title": "International Field Studies - INTERNL FLD STD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=302A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LFS 302A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=302A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "302A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAVKULICH, LESLIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LFS 302A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=302A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "302A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAVKULICH, LESLIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Field studies carried out abroad under staff direction. Participating students are assessed a fee.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

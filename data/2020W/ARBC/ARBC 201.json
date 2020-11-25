@@ -1,1 +1,44 @@
-{"course_name":"ARBC 201","subject_code":"ARBC","course_number":"201","course_title":"Intermediate Classical and Quranic Arabic I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARBC&course=201&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARBC 201 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARBC&course=201&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"Students who have received credit for ARBC 400 may not also receive credit for ARBC 201 or 202If the course is full or blocked, please register in the wait list","subject_code":"ARBC","course_number":"201","section_number":"001","building":" ","room":"","instructors":["GHAZI, BUSHRA SEEMI YASMIN"],"totalRemaining":"12","currentlyRegistered":"18","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classical Arabic. Designed to enrich vocabulary and grammar and to enhance fluency in reading and interpreting a range of Qur'anic texts."}
+{
+  "course_name": "ARBC 201",
+  "subject_code": "ARBC",
+  "course_number": "201",
+  "course_title": "Intermediate Classical and Quranic Arabic I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARBC&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARBC 201 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARBC&course=201&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Students who have received credit for ARBC 400 may not also receive credit for ARBC 201 or 202If the course is full or blocked, please register in the wait list",
+      "subject_code": "ARBC",
+      "course_number": "201",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GHAZI, BUSHRA SEEMI YASMIN"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classical Arabic. Designed to enrich vocabulary and grammar and to enhance fluency in reading and interpreting a range of Qur'anic texts.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

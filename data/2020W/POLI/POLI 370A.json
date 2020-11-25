@@ -1,1 +1,46 @@
-{"course_name":"POLI 370A","subject_code":"POLI","course_number":"370A","course_title":"Issues in International Conflict Management - IS INTCNFT MNGT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=370A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 370A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=370A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"POLI","course_number":"370A","section_number":"001","building":" ","room":"","instructors":["PETERSON, JENNY","BOUTRON, CHLOE","JACINTO, DANIEL"],"totalRemaining":"0","currentlyRegistered":"101","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Problems of managing conflict in the international system (e.g., intervention, mediation, sanctions). Topics will vary from year to year."}
+{
+  "course_name": "POLI 370A",
+  "subject_code": "POLI",
+  "course_number": "370A",
+  "course_title": "Issues in International Conflict Management - IS INTCNFT MNGT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=370A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 370A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=370A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "370A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PETERSON, JENNY",
+        "BOUTRON, CHLOE",
+        "JACINTO, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "101",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Problems of managing conflict in the international system (e.g., intervention, mediation, sanctions). Topics will vary from year to year.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

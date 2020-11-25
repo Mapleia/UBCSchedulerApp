@@ -1,1 +1,43 @@
-{"course_name":"CLST 403B","subject_code":"CLST","course_number":"403B","course_title":"Seminar in Classical Art and Archaeology - SEM CLS ART&ARCH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=403B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"CLST 403B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=403B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Interconnections in the Late Bronze Age Eastern Mediterranean. Cross-listed with NEST 400A, NEST 500D. Majors and Honours seminar for students in Classical, Near Eastern and Religious Studies. Visit cnrs.ubc.ca for full course description.WAITLIST: if this course is full or blocked, or if you do not meet the restrictions, please register in CLST 403B-WL1. Students specializing in CNRS will receive priority registration from the waitlist.","subject_code":"CLST","course_number":"403B","section_number":"001","building":" ","room":"","instructors":["FISHER, KEVIN"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in Greek or Roman art and archaeology, with an emphasis on research. Restricted to majors and honours students in CLST, CLAS, CLAH, ARGR, GRNE, CNRS."}
+{
+  "course_name": "CLST 403B",
+  "subject_code": "CLST",
+  "course_number": "403B",
+  "course_title": "Seminar in Classical Art and Archaeology - SEM CLS ART&ARCH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=403B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CLST 403B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=403B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Interconnections in the Late Bronze Age Eastern Mediterranean. Cross-listed with NEST 400A, NEST 500D. Majors and Honours seminar for students in Classical, Near Eastern and Religious Studies. Visit cnrs.ubc.ca for full course description.WAITLIST: if this course is full or blocked, or if you do not meet the restrictions, please register in CLST 403B-WL1. Students specializing in CNRS will receive priority registration from the waitlist.",
+      "subject_code": "CLST",
+      "course_number": "403B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FISHER, KEVIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in Greek or Roman art and archaeology, with an emphasis on research. Restricted to majors and honours students in CLST, CLAS, CLAH, ARGR, GRNE, CNRS.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

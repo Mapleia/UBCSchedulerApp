@@ -1,1 +1,43 @@
-{"course_name":"LAW 353D","subject_code":"LAW","course_number":"353D","course_title":"Aboriginal and Treaty Rights - ABOR & TRTY RGHT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=353D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 353D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=353D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"LAW 200 is NOT a pre-requisite to LAW 353D.001.","subject_code":"LAW","course_number":"353D","section_number":"001","building":" ","room":"","instructors":["JACKSON, MICHAEL"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Rights of Aboriginal people stemming from their aboriginal status and from treaties. Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 353D",
+  "subject_code": "LAW",
+  "course_number": "353D",
+  "course_title": "Aboriginal and Treaty Rights - ABOR & TRTY RGHT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=353D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 353D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=353D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "LAW 200 is NOT a pre-requisite to LAW 353D.001.",
+      "subject_code": "LAW",
+      "course_number": "353D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JACKSON, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Rights of Aboriginal people stemming from their aboriginal status and from treaties. Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

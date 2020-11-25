@@ -1,1 +1,72 @@
-{"course_name":"LASO 309","subject_code":"LASO","course_number":"309","course_title":"Against the Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LASO&course=309&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"LASO 309 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LASO&course=309&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"LASO","course_number":"309","section_number":"201","building":" ","room":"","instructors":["HARRIS, MARK"],"totalRemaining":"0","currentlyRegistered":"65","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":"Full","section":"LASO 309 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LASO&course=309&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"LASO","course_number":"309","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Competing approaches to law and legal authority shaped by conflicts over historical and contemporary inequalities, including the exercise of and challenges to coercive law enforcement and claims made for legal redress."}
+{
+  "course_name": "LASO 309",
+  "subject_code": "LASO",
+  "course_number": "309",
+  "course_title": "Against the Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LASO&course=309&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LASO 309 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LASO&course=309&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LASO",
+      "course_number": "309",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HARRIS, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "65",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LASO 309 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LASO&course=309&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LASO",
+      "course_number": "309",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Competing approaches to law and legal authority shaped by conflicts over historical and contemporary inequalities, including the exercise of and challenges to coercive law enforcement and claims made for legal redress.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

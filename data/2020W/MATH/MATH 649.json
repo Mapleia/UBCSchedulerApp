@@ -1,1 +1,97 @@
-{"course_name":"MATH 649","subject_code":"MATH","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=649&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"MATH 649 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Contact Graduate Secretary to register.","subject_code":"MATH","course_number":"649","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"26","currentlyRegistered":"4","generalRemaining":"26","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"MATH 649 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Contact Graduate Secretary to register.","subject_code":"MATH","course_number":"649","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"001":{"status":"Blocked","section":"MATH 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Contact Graduate Secretary to register.","subject_code":"MATH","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "MATH 649",
+  "subject_code": "MATH",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MATH 649 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact Graduate Secretary to register.",
+      "subject_code": "MATH",
+      "course_number": "649",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 649 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact Graduate Secretary to register.",
+      "subject_code": "MATH",
+      "course_number": "649",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MATH 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact Graduate Secretary to register.",
+      "subject_code": "MATH",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "21",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

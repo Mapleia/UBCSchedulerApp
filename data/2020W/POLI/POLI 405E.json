@@ -1,1 +1,43 @@
-{"course_name":"POLI 405E","subject_code":"POLI","course_number":"405E","course_title":"Topics in Canadian Politics - TPC CANADA POLI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405E&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 405E 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405E&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"10:00","end":"13:00","comments":"This course is cross-listed with POLI 420F 001. If you completed POLI 420F with Dr. Cutler in 2018W you CANNOT take this course under the 405E code.Requires a grade of 77% or higher in POLI380 or by permission of the instructor.","subject_code":"POLI","course_number":"405E","section_number":"001","building":"Irving K Barber Learning Centre","room":"191","instructors":["CUTLER, FREDERICK"],"totalRemaining":"0","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This seminar examines in depth some of the important issues in Canadian politics."}
+{
+  "course_name": "POLI 405E",
+  "subject_code": "POLI",
+  "course_number": "405E",
+  "course_title": "Topics in Canadian Politics - TPC CANADA POLI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 405E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "This course is cross-listed with POLI 420F 001. If you completed POLI 420F with Dr. Cutler in 2018W you CANNOT take this course under the 405E code.Requires a grade of 77% or higher in POLI380 or by permission of the instructor.",
+      "subject_code": "POLI",
+      "course_number": "405E",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CUTLER, FREDERICK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This seminar examines in depth some of the important issues in Canadian politics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"SOWK 441","subject_code":"SOWK","course_number":"441","course_title":"Social Context of Child Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=441&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 441 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=441&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"This course is open to non-Social Work students","subject_code":"SOWK","course_number":"441","section_number":"001","building":" ","room":"","instructors":["MA, JENNIFER"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The ways in which the familial, physical, and social environment effects the life structures, opportunities and outcomes of epigenetic developmental processes."}
+{
+  "course_name": "SOWK 441",
+  "subject_code": "SOWK",
+  "course_number": "441",
+  "course_title": "Social Context of Child Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 441 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=441&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This course is open to non-Social Work students",
+      "subject_code": "SOWK",
+      "course_number": "441",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, JENNIFER"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The ways in which the familial, physical, and social environment effects the life structures, opportunities and outcomes of epigenetic developmental processes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

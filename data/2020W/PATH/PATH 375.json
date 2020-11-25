@@ -1,1 +1,75 @@
-{"course_name":"PATH 375","subject_code":"PATH","course_number":"375","course_title":"Introduction to Human Pathology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=375&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PATH 375 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=375&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"The course will be delivered synchronously (real time) using Zoom; lectures will NOT be recorded. Students require a working webcam and microphone.Restricted to students in the following programs/specializations: BMLS, BHK, BKIN, BSCP, BSFN, BSN, BSP, BSC PCTH, BSC INSC, CAPS.  Students not meeting the restrictions or if restricted seats are full should register in the waitlist section, 1W1.You will be moved into active registration IF space becomes available. Timetables WILL NOT BE MODIFIED; if there is a timetable conflict your registration WILL NOT BE updated. Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"PATH","course_number":"375","section_number":"001","building":" ","room":"","instructors":["15","109","0","15","","in one of these programs: BHK,BKIN,BMLS,BSCP,BSFN,BSN,BSP,PHRMD\nin year: >=3\n\nin one of these programs: BSC\nin one of these faculties: SCIE\nin year: >=3\nwith one of these specializations: MAJ PCTH,MAJ INSC,MAJ CAPS\n\n"],"totalRemaining":"in one of these programs: BHK,BKIN,BMLS,BSCP,BSFN,BSN,BSP,PHRMD\nin year: >=3\n\nin one of these programs: BSC\nin one of these faculties: SCIE\nin year: >=3\nwith one of these specializations: MAJ PCTH,MAJ INSC,MAJ CAPS\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"1W1":{"status":" ","section":"PATH 375 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=375&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Thu","start":" ","end":" ","comments":"You will be moved to active registration IF space is available AND there are no timetable conflicts (students should ensure there are no timetable conflicts when registering).  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"PATH","course_number":"375","section_number":"1W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A lecture-demonstration course designed to acquaint students in the allied health professions with a basic understanding of the causes, natural history, and pathophysiology of common disease processes."}
+{
+  "course_name": "PATH 375",
+  "subject_code": "PATH",
+  "course_number": "375",
+  "course_title": "Introduction to Human Pathology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=375&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PATH 375 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=375&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "The course will be delivered synchronously (real time) using Zoom; lectures will NOT be recorded. Students require a working webcam and microphone.Restricted to students in the following programs/specializations: BMLS, BHK, BKIN, BSCP, BSFN, BSN, BSP, BSC PCTH, BSC INSC, CAPS.  Students not meeting the restrictions or if restricted seats are full should register in the waitlist section, 1W1.You will be moved into active registration IF space becomes available. Timetables WILL NOT BE MODIFIED; if there is a timetable conflict your registration WILL NOT BE updated. Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "PATH",
+      "course_number": "375",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "16",
+        "108",
+        "0",
+        "16",
+        "",
+        "in one of these programs: BHK,BKIN,BMLS,BSCP,BSFN,BSN,BSP,PHRMD\nin year: >=3\n\nin one of these programs: BSC\nin one of these faculties: SCIE\nin year: >=3\nwith one of these specializations: MAJ PCTH,MAJ INSC,MAJ CAPS\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BHK,BKIN,BMLS,BSCP,BSFN,BSN,BSP,PHRMD\nin year: >=3\n\nin one of these programs: BSC\nin one of these faculties: SCIE\nin year: >=3\nwith one of these specializations: MAJ PCTH,MAJ INSC,MAJ CAPS\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "PATH 375 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=375&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "You will be moved to active registration IF space is available AND there are no timetable conflicts (students should ensure there are no timetable conflicts when registering).  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "PATH",
+      "course_number": "375",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A lecture-demonstration course designed to acquaint students in the allied health professions with a basic understanding of the causes, natural history, and pathophysiology of common disease processes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

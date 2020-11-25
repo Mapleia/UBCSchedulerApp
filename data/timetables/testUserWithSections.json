@@ -1,0 +1,90 @@
+{
+    "Schedule": {
+        "1": [
+            {
+                "activity": "Web-Oriented Course",
+                "start": "12:30",
+                "course": "CPSC 110",
+                "days": [
+                    "TUE",
+                    "THU"
+                ],
+                "section": "CPSC 110 101",
+                "term": "1",
+                "end": "13:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Laboratory",
+                "start": "09:00",
+                "course": "CPSC 110",
+                "days": ["MON"],
+                "section": "CPSC 110 L12",
+                "term": "1",
+                "end": "11:50",
+                "status": "Blocked"
+            }
+        ],
+        "2": [
+            {
+                "activity": "Web-Oriented Course",
+                "start": "11:00",
+                "course": "CPSC 210",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "CPSC 210 201",
+                "term": "2",
+                "end": "11:50",
+                "status": "Restricted"
+            },
+            {
+                "activity": "Laboratory",
+                "start": "09:00",
+                "course": "CPSC 210",
+                "days": ["MON"],
+                "section": "CPSC 210 L2A",
+                "term": "2",
+                "end": "10:50",
+                "status": "Restricted"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "09:00",
+                "course": "BIOL 112",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "BIOL 112 201",
+                "term": "2",
+                "end": "09:50",
+                "status": "Full"
+            },
+            {
+                "activity": "Tutorial",
+                "start": "11:00",
+                "course": "BIOL 112",
+                "days": ["MON"],
+                "section": "BIOL 112 T50",
+                "term": "2",
+                "end": "11:50",
+                "status": "Full"
+            }
+        ]
+    },
+    "Term": "2020W",
+    "Preferences": [
+        "AFTERNOON",
+        "EVENING",
+        "MORNING"
+    ],
+    "Course List": [
+        "CPSC 210",
+        "CPSC 110",
+        "BIOL 112"
+    ]
+}

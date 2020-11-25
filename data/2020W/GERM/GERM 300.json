@@ -1,1 +1,45 @@
-{"course_name":"GERM 300","subject_code":"GERM","course_number":"300","course_title":"Intermediate German III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"GERM 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"GERM","course_number":"300","section_number":"001","building":" ","room":"","instructors":["ZIMMERMANN, SABINE"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fluency in many relevant situations; competence in the most important areas of cultural life; familiarity with study resources and study skills. Review and expansion of grammar; fostering of speaking and writing skills."}
+{
+  "course_name": "GERM 300",
+  "subject_code": "GERM",
+  "course_number": "300",
+  "course_title": "Intermediate German III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GERM 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "GERM",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZIMMERMANN, SABINE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fluency in many relevant situations; competence in the most important areas of cultural life; familiarity with study resources and study skills. Review and expansion of grammar; fostering of speaking and writing skills.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

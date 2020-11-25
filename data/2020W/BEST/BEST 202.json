@@ -1,1 +1,48 @@
-{"course_name":"BEST 202","subject_code":"BEST","course_number":"202","course_title":"Alternative Energy Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BEST&course=202&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"BEST 202 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BEST&course=202&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"BEST","course_number":"202","section_number":"201","building":"Forest Sciences Centre","room":"1220","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to safe, clean, and sustainable supplies of energy. Economic, social, environmental, and policy issues raised by current systems of energy use and production are examined."}
+{
+  "course_name": "BEST 202",
+  "subject_code": "BEST",
+  "course_number": "202",
+  "course_title": "Alternative Energy Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BEST&course=202&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BEST 202 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BEST&course=202&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BEST",
+      "course_number": "202",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "6",
+        "24",
+        "6",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to safe, clean, and sustainable supplies of energy. Economic, social, environmental, and policy issues raised by current systems of energy use and production are examined.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

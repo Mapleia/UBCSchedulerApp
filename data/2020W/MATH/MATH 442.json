@@ -1,1 +1,47 @@
-{"course_name":"MATH 442","subject_code":"MATH","course_number":"442","course_title":"Graphs and Networks","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=442&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"MATH 442 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=442&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"MATH","course_number":"442","section_number":"201","building":"Mathematics Annex","room":"1100","instructors":["0","55","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Graph theory, emphasizing trees, tree growing algorithms, and proof techniques. Other topics chosen from shortest paths, maximum flows, minimum cost flows, matchings, and graph colouring."}
+{
+  "course_name": "MATH 442",
+  "subject_code": "MATH",
+  "course_number": "442",
+  "course_title": "Graphs and Networks",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=442&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MATH 442 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=442&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "442",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "55",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Graph theory, emphasizing trees, tree growing algorithms, and proof techniques. Other topics chosen from shortest paths, maximum flows, minimum cost flows, matchings, and graph colouring.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

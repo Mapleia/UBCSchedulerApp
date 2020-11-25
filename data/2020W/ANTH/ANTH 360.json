@@ -1,1 +1,45 @@
-{"course_name":"ANTH 360","subject_code":"ANTH","course_number":"360","course_title":"Introduction to Ecological Anthropology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=360&sessyr=2020&sesscd=W","sections":{"100":{"status":" ","section":"ANTH 360 100","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=360&section=100&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"From climate justice and food sovereignty to Standing Rock and Extinction Rebellion, today\u0019s anthropologists engage many important debates related to culture and environment. This course introduces how we understand human ecology and environmental issues \u001cfrom the bottom up\u001d, in the context of rooted histories and living cultures. Looking at case studies of resource extraction, climate change, biodiversity conservation, agricultural adaptation, ecotourism and attempts to \u001cgreen\u001d the economy, we will explore how ethnographic methods support indigenous and local perspectives around the world, as people perceive, challenge and reshape the global processes and structural inequalities that affect them and their home places.","subject_code":"ANTH","course_number":"360","section_number":"100","building":" ","room":"","instructors":["HEATHERINGTON, TRACEY","JEWELL, KENDRA"],"totalRemaining":"5","currentlyRegistered":"75","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis of the relations between human societies and the ecological aspects of their environment (including technology, society, and ideology).  Previously ANTH 460."}
+{
+  "course_name": "ANTH 360",
+  "subject_code": "ANTH",
+  "course_number": "360",
+  "course_title": "Introduction to Ecological Anthropology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 360 100",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=360&section=100&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "From climate justice and food sovereignty to Standing Rock and Extinction Rebellion, today\u0019s anthropologists engage many important debates related to culture and environment. This course introduces how we understand human ecology and environmental issues \u001cfrom the bottom up\u001d, in the context of rooted histories and living cultures. Looking at case studies of resource extraction, climate change, biodiversity conservation, agricultural adaptation, ecotourism and attempts to \u001cgreen\u001d the economy, we will explore how ethnographic methods support indigenous and local perspectives around the world, as people perceive, challenge and reshape the global processes and structural inequalities that affect them and their home places.",
+      "subject_code": "ANTH",
+      "course_number": "360",
+      "section_number": "100",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEATHERINGTON, TRACEY",
+        "JEWELL, KENDRA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "75",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of the relations between human societies and the ecological aspects of their environment (including technology, society, and ideology).  Previously ANTH 460.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

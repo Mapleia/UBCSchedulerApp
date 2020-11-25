@@ -1,1 +1,43 @@
-{"course_name":"EDST 593A","subject_code":"EDST","course_number":"593A","course_title":"Ethics and Education - ETHICS & EDUC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=593A&sessyr=2020&sesscd=W","sections":{"021":{"status":"Restricted","section":"EDST 593A 021","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=593A&section=021&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"17:00","end":"20:00","comments":"2020 EdD cohort only.This section will be offered online.","subject_code":"EDST","course_number":"593A","section_number":"021","building":" ","room":"","instructors":["RUITENBERG, CLAUDIA"],"totalRemaining":"8","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"8"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 593A",
+  "subject_code": "EDST",
+  "course_number": "593A",
+  "course_title": "Ethics and Education - ETHICS & EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=593A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDST 593A 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=593A&section=021&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "2020 EdD cohort only.This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "593A",
+      "section_number": "021",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RUITENBERG, CLAUDIA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

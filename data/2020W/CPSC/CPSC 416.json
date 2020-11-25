@@ -1,1 +1,72 @@
-{"course_name":"CPSC 416","subject_code":"CPSC","course_number":"416","course_title":"Distributed Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=416&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 416 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"CPSC","course_number":"416","section_number":"201","building":"Earth Sciences Building","room":"1012","instructors":["BESCHASTNIKH, IVAN"],"totalRemaining":"0","currentlyRegistered":"148","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 416 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"CPSC","course_number":"416","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"894","currentlyRegistered":"105","generalRemaining":"894","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control."}
+{
+  "course_name": "CPSC 416",
+  "subject_code": "CPSC",
+  "course_number": "416",
+  "course_title": "Distributed Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=416&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 416 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "416",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BESCHASTNIKH, IVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "148",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 416 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=416&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "416",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "893",
+      "currentlyRegistered": "106",
+      "generalRemaining": "893",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

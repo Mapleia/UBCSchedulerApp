@@ -1,1 +1,43 @@
-{"course_name":"POLI 405C","subject_code":"POLI","course_number":"405C","course_title":"Topics in Canadian Politics - TPC CANADA POLI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 405C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405C&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"This course is an online course, and will be cross-listed with POLI 504B.","subject_code":"POLI","course_number":"405C","section_number":"001","building":" ","room":"","instructors":["DOBERSTEIN, CAREY"],"totalRemaining":"0","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This seminar examines in depth some of the important issues in Canadian politics."}
+{
+  "course_name": "POLI 405C",
+  "subject_code": "POLI",
+  "course_number": "405C",
+  "course_title": "Topics in Canadian Politics - TPC CANADA POLI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 405C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This course is an online course, and will be cross-listed with POLI 504B.",
+      "subject_code": "POLI",
+      "course_number": "405C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DOBERSTEIN, CAREY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This seminar examines in depth some of the important issues in Canadian politics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

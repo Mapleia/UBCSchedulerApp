@@ -1,1 +1,44 @@
-{"course_name":"WOOD 572C","subject_code":"WOOD","course_number":"572C","course_title":"Topics in Wood Science and Forest Products - TPS WOOD SCI FP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=572C&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"WOOD 572C 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=572C&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:00","end":"10:00","comments":"Graduate-level verstion of Wood 330.101 Industrial Engineering","subject_code":"WOOD","course_number":"572C","section_number":"102","building":" ","room":"","instructors":["SOWLATI, TARANEH"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "WOOD 572C",
+  "subject_code": "WOOD",
+  "course_number": "572C",
+  "course_title": "Topics in Wood Science and Forest Products - TPS WOOD SCI FP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=572C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 572C 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=572C&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Graduate-level verstion of Wood 330.101 Industrial Engineering",
+      "subject_code": "WOOD",
+      "course_number": "572C",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOWLATI, TARANEH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"WOOD 449F","subject_code":"WOOD","course_number":"449F","course_title":"Directed Studies in Wood Products Processing - DIR ST WD PR PRC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=449F&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"WOOD 449F 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449F&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Please contact Dr. Ellis simon.ellis@ubc.ca","subject_code":"WOOD","course_number":"449F","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing."}
+{
+  "course_name": "WOOD 449F",
+  "subject_code": "WOOD",
+  "course_number": "449F",
+  "course_title": "Directed Studies in Wood Products Processing - DIR ST WD PR PRC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=449F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "WOOD 449F 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449F&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please contact Dr. Ellis simon.ellis@ubc.ca",
+      "subject_code": "WOOD",
+      "course_number": "449F",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

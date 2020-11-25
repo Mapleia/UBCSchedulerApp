@@ -1,1 +1,98 @@
-{"course_name":"MECH 542","subject_code":"MECH","course_number":"542","course_title":"CAD/CAM Principles and Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=542&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MECH 542 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed Fri","start":"18:00","end":"19:00","comments":"","subject_code":"MECH","course_number":"542","section_number":"101","building":" ","room":"","instructors":["COJOCARU, SERBAN"],"totalRemaining":"5","currentlyRegistered":"15","generalRemaining":"5","restrictedRemaining":"0"},"L1A":{"status":" ","section":"MECH 542 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"17:00","end":"19:00","comments":"","subject_code":"MECH","course_number":"542","section_number":"L1A","building":" ","room":"","instructors":["COJOCARU, SERBAN"],"totalRemaining":"3","currentlyRegistered":"15","generalRemaining":"3","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"MECH 542 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"542","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"3D geometric modelling; parametric representation of curves and surfaces; CNC machine tool programming; milling operations and setup; tool path generation for three- and five-axis sculptured surface machining."}
+{
+  "course_name": "MECH 542",
+  "subject_code": "MECH",
+  "course_number": "542",
+  "course_title": "CAD/CAM Principles and Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 542 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "542",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COJOCARU, SERBAN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MECH 542 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "542",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COJOCARU, SERBAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "15",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 542 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=542&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "542",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "3D geometric modelling; parametric representation of curves and surfaces; CNC machine tool programming; milling operations and setup; tool path generation for three- and five-axis sculptured surface machining.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

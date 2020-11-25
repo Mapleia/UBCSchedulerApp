@@ -1,1 +1,97 @@
-{"course_name":"MTRL 596","subject_code":"MTRL","course_number":"596","course_title":"M.Sc. Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=596&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 596 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MTRL","course_number":"596","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"20"},"201":{"status":"Restricted","section":"MTRL 596 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MTRL","course_number":"596","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"20"},"001":{"status":"Restricted","section":"MTRL 596 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MTRL","course_number":"596","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"17"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "MTRL 596",
+  "subject_code": "MTRL",
+  "course_number": "596",
+  "course_title": "M.Sc. Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=596&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 596 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "596",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 596 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "596",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 596 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=596&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "596",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

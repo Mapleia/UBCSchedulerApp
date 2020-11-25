@@ -1,1 +1,43 @@
-{"course_name":"LING 532","subject_code":"LING","course_number":"532","course_title":"Field Methods in Linguistics II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=532&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 532 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=532&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"This course will be held in Totem Field Studios Room 121.","subject_code":"LING","course_number":"532","section_number":"001","building":" ","room":"","instructors":["DAVIS, HENRY THOMAS"],"totalRemaining":"10","currentlyRegistered":"5","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LING 532",
+  "subject_code": "LING",
+  "course_number": "532",
+  "course_title": "Field Methods in Linguistics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=532&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 532 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=532&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "This course will be held in Totem Field Studios Room 121.",
+      "subject_code": "LING",
+      "course_number": "532",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAVIS, HENRY THOMAS"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

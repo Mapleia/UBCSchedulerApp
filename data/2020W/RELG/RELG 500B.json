@@ -1,1 +1,44 @@
-{"course_name":"RELG 500B","subject_code":"RELG","course_number":"500B","course_title":"Topics in Biblical Studies - BIBLICAL STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=500B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"RELG 500B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=500B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Humour in the Bible and the Ancient Near East. Visit cnrs.ubc.ca for full course descriptions. Cross-listed with NEST 401, RELG 475B.If this course is full and you are a CNERS graduate student who wishes to take it, please contact cners.advising@ubc.ca. Graduate students in other departments who wish to take this course will need permission of the instructor and registration will be subject to availability of seats.","subject_code":"RELG","course_number":"500B","section_number":"001","building":"Neville Scarfe","room":"1022","instructors":["MILSTEIN, SARA"],"totalRemaining":"0","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Studies in the history, literature, canon and text, and the religious thought of the Old and New Testaments. This includes the study of the cultural and religious milieu out of which these documents arose. Such studies require a competence in the canonical languages (Biblical Hebrew and/or Koine Greek), usually achieved by not less than two years of study."}
+{
+  "course_name": "RELG 500B",
+  "subject_code": "RELG",
+  "course_number": "500B",
+  "course_title": "Topics in Biblical Studies - BIBLICAL STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=500B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "RELG 500B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=500B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Humour in the Bible and the Ancient Near East. Visit cnrs.ubc.ca for full course descriptions. Cross-listed with NEST 401, RELG 475B.If this course is full and you are a CNERS graduate student who wishes to take it, please contact cners.advising@ubc.ca. Graduate students in other departments who wish to take this course will need permission of the instructor and registration will be subject to availability of seats.Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "RELG",
+      "course_number": "500B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILSTEIN, SARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Studies in the history, literature, canon and text, and the religious thought of the Old and New Testaments. This includes the study of the cultural and religious milieu out of which these documents arose. Such studies require a competence in the canonical languages (Biblical Hebrew and/or Koine Greek), usually achieved by not less than two years of study.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

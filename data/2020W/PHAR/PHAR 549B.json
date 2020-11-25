@@ -1,1 +1,97 @@
-{"course_name":"PHAR 549B","subject_code":"PHAR","course_number":"549B","course_title":"Master's Thesis - MASTERS THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=549B&sessyr=2020&sesscd=W","sections":{"004":{"status":"Restricted","section":"PHAR 549B 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=004&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"All continuing MSc student must register for this course.","subject_code":"PHAR","course_number":"549B","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"29"},"005":{"status":"Restricted","section":"PHAR 549B 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=005&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Restriced to MSc students who plans to complete their program by December 31st","subject_code":"PHAR","course_number":"549B","section_number":"005","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"7"},"006":{"status":"Restricted","section":"PHAR 549B 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=006&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Registration restricted to new students who will be starting their MSc program on January 1st","subject_code":"PHAR","course_number":"549B","section_number":"006","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "PHAR 549B",
+  "subject_code": "PHAR",
+  "course_number": "549B",
+  "course_title": "Master's Thesis - MASTERS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=549B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHAR 549B 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=004&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "All continuing MSc student must register for this course.",
+      "subject_code": "PHAR",
+      "course_number": "549B",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHAR 549B 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=005&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restriced to MSc students who plans to complete their program by December 31st",
+      "subject_code": "PHAR",
+      "course_number": "549B",
+      "section_number": "005",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHAR 549B 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=549B&section=006&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration restricted to new students who will be starting their MSc program on January 1st",
+      "subject_code": "PHAR",
+      "course_number": "549B",
+      "section_number": "006",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

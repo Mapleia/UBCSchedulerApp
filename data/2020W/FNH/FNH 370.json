@@ -1,1 +1,75 @@
-{"course_name":"FNH 370","subject_code":"FNH","course_number":"370","course_title":"Nutrition Assessment","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=370&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNH 370 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=370&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"FNH 370 is currently blocked from registration. If you wish to be considered for the course, please register for the waitlist (FNH 370 0W1).","subject_code":"FNH","course_number":"370","section_number":"001","building":" ","room":"","instructors":["HAMMOND, GAIL","HOANG, THAO","LEEPILE, TEBOGO","LEONG, MEGAN","YE, JIA WEI"],"totalRemaining":"2","currentlyRegistered":"128","generalRemaining":"0","restrictedRemaining":"2"},"0W1":{"status":"Restricted","section":"FNH 370 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=370&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"FNH","course_number":"370","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"The use of dietary, anthropometric, biochemical, and related information for the assessment of nutritional status of individuals and populations."}
+{
+  "course_name": "FNH 370",
+  "subject_code": "FNH",
+  "course_number": "370",
+  "course_title": "Nutrition Assessment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNH 370 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=370&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "FNH 370 is currently blocked from registration. If you wish to be considered for the course, please register for the waitlist (FNH 370 0W1).",
+      "subject_code": "FNH",
+      "course_number": "370",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAMMOND, GAIL",
+        "HOANG, THAO",
+        "LEEPILE, TEBOGO",
+        "LEONG, MEGAN",
+        "YE, JIA WEI"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "128",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 370 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=370&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "370",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "The use of dietary, anthropometric, biochemical, and related information for the assessment of nutritional status of individuals and populations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

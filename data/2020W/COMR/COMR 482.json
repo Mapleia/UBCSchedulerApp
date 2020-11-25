@@ -1,1 +1,44 @@
-{"course_name":"COMR 482","subject_code":"COMR","course_number":"482","course_title":"New Product Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=482&sessyr=2020&sesscd=W","sections":{"202":{"status":"Full","section":"COMR 482 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=482&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMR","course_number":"482","section_number":"202","building":"Henry Angus","room":"343","instructors":["SILK, TIMOTHY"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"How new products are developed and the factors that influence success and failure throughout the various stages of development."}
+{
+  "course_name": "COMR 482",
+  "subject_code": "COMR",
+  "course_number": "482",
+  "course_title": "New Product Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=482&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMR 482 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=482&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "482",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILK, TIMOTHY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "How new products are developed and the factors that influence success and failure throughout the various stages of development.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

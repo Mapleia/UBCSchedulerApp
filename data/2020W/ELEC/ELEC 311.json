@@ -1,1 +1,125 @@
-{"course_name":"ELEC 311","subject_code":"ELEC","course_number":"311","course_title":"Electromagnetic Fields and Waves","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=311&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"ELEC 311 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"11:00","end":"13:00","comments":"if you do not have equivalent courses to satisfy the pre-reqs you will be dropped from the course in September","subject_code":"ELEC","course_number":"311","section_number":"101","building":" ","room":"","instructors":["YEDLIN, MATTHEW"],"totalRemaining":"0","currentlyRegistered":"113","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":" ","section":"ELEC 311 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"13:00","comments":"","subject_code":"ELEC","course_number":"311","section_number":"201","building":"UBC Life Building","room":"2202","instructors":["MICHELSON, DAVID"],"totalRemaining":"22","currentlyRegistered":"50","generalRemaining":"22","restrictedRemaining":"0"},"1W1":{"status":" ","section":"ELEC 311 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"311","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 311 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"311","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas."}
+{
+  "course_name": "ELEC 311",
+  "subject_code": "ELEC",
+  "course_number": "311",
+  "course_title": "Electromagnetic Fields and Waves",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 311 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "if you do not have equivalent courses to satisfy the pre-reqs you will be dropped from the course in September",
+      "subject_code": "ELEC",
+      "course_number": "311",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YEDLIN, MATTHEW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "113",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 311 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "311",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MICHELSON, DAVID"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "52",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 311 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "311",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 311 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=311&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "311",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

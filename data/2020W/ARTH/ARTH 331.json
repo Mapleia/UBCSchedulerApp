@@ -1,1 +1,45 @@
-{"course_name":"ARTH 331","subject_code":"ARTH","course_number":"331","course_title":"Greek Art and Architecture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=331&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ARTH 331 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=331&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"ARTH 331 is equivalent to CLST 331. If this course is full, students can register in the equivalent section. CLST 331 will apply towards Art History and Visual Art program requirements in the same way as ARTH 331. Please contact the AHVA undergraduate advisor with any questions: greg.gibson@ubc.ca.","subject_code":"ARTH","course_number":"331","section_number":"001","building":"Chemistry","room":"C124","instructors":["DANIELS, MEGAN"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Visual culture of the ancient Greek world in the second and first millennia BCE, especially from c. 1000 to 30 BCE."}
+{
+  "course_name": "ARTH 331",
+  "subject_code": "ARTH",
+  "course_number": "331",
+  "course_title": "Greek Art and Architecture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=331&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ARTH 331 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=331&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "ARTH 331 is equivalent to CLST 331. If this course is full, students can register in the equivalent section. CLST 331 will apply towards Art History and Visual Art program requirements in the same way as ARTH 331. Please contact the AHVA undergraduate advisor with any questions: greg.gibson@ubc.ca.",
+      "subject_code": "ARTH",
+      "course_number": "331",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DANIELS, MEGAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Visual culture of the ancient Greek world in the second and first millennia BCE, especially from c. 1000 to 30 BCE.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

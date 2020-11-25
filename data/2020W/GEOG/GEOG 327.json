@@ -1,1 +1,76 @@
-{"course_name":"GEOG 327","subject_code":"GEOG","course_number":"327","course_title":"Creating Canada","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=327&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"GEOG 327 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=327&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":"","end":"","comments":"This asynchronous online lecture does not have a scheduled meeting time.","subject_code":"GEOG","course_number":"327","section_number":"101","building":"","room":"","instructors":["12","88","12","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Blocked","section":"GEOG 327 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=327&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOG 327, section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOG","course_number":"327","section_number":"WL1","building":"","room":"","instructors":["30","0","30","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Canada from the beginning of European contact to the mid-19th century, stressing the changing geographical patterns of settlement, economy, and culture."}
+{
+  "course_name": "GEOG 327",
+  "subject_code": "GEOG",
+  "course_number": "327",
+  "course_title": "Creating Canada",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 327 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=327&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This asynchronous online lecture does not have a scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "327",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "15",
+        "85",
+        "15",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 327 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=327&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 327, section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "327",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Canada from the beginning of European contact to the mid-19th century, stressing the changing geographical patterns of settlement, economy, and culture.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

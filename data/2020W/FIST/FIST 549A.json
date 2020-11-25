@@ -1,1 +1,46 @@
-{"course_name":"FIST 549A","subject_code":"FIST","course_number":"549A","course_title":"Thesis - MASTER'S THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=549A&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"FIST 549A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=549A&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" Thu","start":" ","end":" ","comments":"","subject_code":"FIST","course_number":"549A","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["COULTHARD, LISA","MATHIJS, ERNEST","MCILROY, BRIAN","ZUO, MILA"],"totalRemaining":"18","currentlyRegistered":"2","generalRemaining":"10","restrictedRemaining":"8"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "FIST 549A",
+  "subject_code": "FIST",
+  "course_number": "549A",
+  "course_title": "Thesis - MASTER'S THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FIST 549A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=549A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FIST",
+      "course_number": "549A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COULTHARD, LISA",
+        "MATHIJS, ERNEST",
+        "MCILROY, BRIAN",
+        "ZUO, MILA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "10",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

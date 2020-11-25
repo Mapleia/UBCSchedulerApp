@@ -1,1 +1,71 @@
-{"course_name":"KIN 484A","subject_code":"KIN","course_number":"484A","course_title":"Advanced Seminar in Indigenous Sport, Physical Activity and Health - ADV SEM INDG SPR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=484A&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"KIN 484A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=484A&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"This course is formerly KIN 489d. Students can receive credit for either KIN 489f or KIN 484a","subject_code":"KIN","course_number":"484A","section_number":"002","building":" ","room":"","instructors":["WARBURTON, DARREN"],"totalRemaining":"88","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"88"},"0W2":{"status":"Blocked","section":"KIN 484A 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=484A&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"484A","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Topics explore the relationship between Indigenous physical cultures, physical activity, health and wellbeing."}
+{
+  "course_name": "KIN 484A",
+  "subject_code": "KIN",
+  "course_number": "484A",
+  "course_title": "Advanced Seminar in Indigenous Sport, Physical Activity and Health - ADV SEM INDG SPR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=484A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 484A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=484A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This course is formerly KIN 489d. Students can receive credit for either KIN 489f or KIN 484a",
+      "subject_code": "KIN",
+      "course_number": "484A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WARBURTON, DARREN"
+      ],
+      "totalRemaining": "90",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "90"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 484A 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=484A&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "484A",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics explore the relationship between Indigenous physical cultures, physical activity, health and wellbeing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,153 @@
-{"course_name":"COMM 355","subject_code":"COMM","course_number":"355","course_title":"Income Taxation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=355&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 355 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"COMM","course_number":"355","section_number":"101","building":" ","room":"","instructors":["LOUIE, JESSICA"],"totalRemaining":"0","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Restricted","section":"COMM 355 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMM","course_number":"355","section_number":"102","building":" ","room":"","instructors":["LOUIE, JESSICA"],"totalRemaining":"4","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"4"},"103":{"status":"Restricted","section":"COMM 355 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"355","section_number":"103","building":" ","room":"","instructors":["LOUIE, JESSICA"],"totalRemaining":"4","currentlyRegistered":"38","generalRemaining":"0","restrictedRemaining":"4"},"201":{"status":"Full","section":"COMM 355 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"355","section_number":"201","building":" ","room":"","instructors":["WONG, RICHARD"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"COMM 355 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"","subject_code":"COMM","course_number":"355","section_number":"202","building":" ","room":"","instructors":["WONG, RICHARD"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A study of income tax from the standpoint of the individual and of business enterprise."}
+{
+  "course_name": "COMM 355",
+  "subject_code": "COMM",
+  "course_number": "355",
+  "course_title": "Income Taxation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 355 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "355",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOUIE, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 355 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "355",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOUIE, JESSICA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 355 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "355",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOUIE, JESSICA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 355 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "355",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, RICHARD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 355 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=355&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "355",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, RICHARD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A study of income tax from the standpoint of the individual and of business enterprise.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

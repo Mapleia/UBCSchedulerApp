@@ -1,1 +1,46 @@
-{"course_name":"PSYC 340E","subject_code":"PSYC","course_number":"340E","course_title":"Directed Studies in Psychology - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=340E&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PSYC 340E 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=340E&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"Min. GPA requirement of 72% on most recent 30 credits.Students must see PSYC Undergrad. Advisor for registration.","subject_code":"PSYC","course_number":"340E","section_number":"001","building":"","room":"","instructors":["0","31","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Directed investigation of a problem, requiring a written report of the findings."}
+{
+  "course_name": "PSYC 340E",
+  "subject_code": "PSYC",
+  "course_number": "340E",
+  "course_title": "Directed Studies in Psychology - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=340E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 340E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=340E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Min. GPA requirement of 72% on most recent 30 credits.Students must see PSYC Undergrad. Advisor for registration.",
+      "subject_code": "PSYC",
+      "course_number": "340E",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "31",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Directed investigation of a problem, requiring a written report of the findings.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"COMM 626","subject_code":"COMM","course_number":"626","course_title":"Advanced Topics in Organizational Theory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=626&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"COMM 626 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=626&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"Please contact instructor.","subject_code":"COMM","course_number":"626","section_number":"001","building":" ","room":"","instructors":["CLOUGH, DAVID"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 626",
+  "subject_code": "COMM",
+  "course_number": "626",
+  "course_title": "Advanced Topics in Organizational Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=626&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 626 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=626&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Please contact instructor.",
+      "subject_code": "COMM",
+      "course_number": "626",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CLOUGH, DAVID"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

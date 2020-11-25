@@ -1,1 +1,44 @@
-{"course_name":"FRST 415","subject_code":"FRST","course_number":"415","course_title":"Sustainable Forest Policy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=415&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 415 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=415&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"FRST","course_number":"415","section_number":"101","building":" ","room":"","instructors":["NELSON, HARRY WILLIAM"],"totalRemaining":"51","currentlyRegistered":"99","generalRemaining":"51","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The development, implementation, and analysis of forest policy."}
+{
+  "course_name": "FRST 415",
+  "subject_code": "FRST",
+  "course_number": "415",
+  "course_title": "Sustainable Forest Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 415 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=415&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "415",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NELSON, HARRY WILLIAM"
+      ],
+      "totalRemaining": "51",
+      "currentlyRegistered": "99",
+      "generalRemaining": "51",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The development, implementation, and analysis of forest policy.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

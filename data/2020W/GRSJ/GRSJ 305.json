@@ -1,1 +1,72 @@
-{"course_name":"GRSJ 305","subject_code":"GRSJ","course_number":"305","course_title":"Social Justice Issues in Community and International Organizing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=305&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GRSJ 305 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=305&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"When this course is full it may be blocked to accommodate waitlisted students.","subject_code":"GRSJ","course_number":"305","section_number":"001","building":"Buchanan","room":"D219","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"GRSJ 305 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=305&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"GRSJ","course_number":"305","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"8","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Critical examination and practical applications of concepts, theories, methods, and strategies of gender-aware organizing at the community and international levels."}
+{
+  "course_name": "GRSJ 305",
+  "subject_code": "GRSJ",
+  "course_number": "305",
+  "course_title": "Social Justice Issues in Community and International Organizing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 305 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=305&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "When this course is full it may be blocked to accommodate waitlisted students.",
+      "subject_code": "GRSJ",
+      "course_number": "305",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHATZIVASILEIOU, EVANGELIA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 305 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=305&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "305",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical examination and practical applications of concepts, theories, methods, and strategies of gender-aware organizing at the community and international levels.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

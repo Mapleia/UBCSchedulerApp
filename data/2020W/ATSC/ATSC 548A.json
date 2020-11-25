@@ -1,1 +1,43 @@
-{"course_name":"ATSC 548A","subject_code":"ATSC","course_number":"548A","course_title":"Master's Graduation Essay - M GRAD ESSAY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=548A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"ATSC 548A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=548A&section=101&sessyr=2020&sesscd=W","activity":"Essay/Report","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Please contact the ATSC Program Chair; Professor Phil Austin.","subject_code":"ATSC","course_number":"548A","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ATSC 548A",
+  "subject_code": "ATSC",
+  "course_number": "548A",
+  "course_title": "Master's Graduation Essay - M GRAD ESSAY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=548A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ATSC 548A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=548A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please contact the ATSC Program Chair; Professor Phil Austin.",
+      "subject_code": "ATSC",
+      "course_number": "548A",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Essay/Report"
+  ]
+}

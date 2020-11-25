@@ -1,1 +1,153 @@
-{"course_name":"ECON 226","subject_code":"ECON","course_number":"226","course_title":"Making Sense of Economic Data","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=226&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"ECON 226 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"May not be taken for credit by students with 4th year standing","subject_code":"ECON","course_number":"226","section_number":"002","building":"Buchanan","room":"A202","instructors":["MAHMOUD, CHOWDHURY"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":" ","section":"ECON 226 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"ECON","course_number":"226","section_number":"L03","building":"Buchanan","room":"B313","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"43","generalRemaining":"17","restrictedRemaining":"0"},"003":{"status":" ","section":"ECON 226 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"May not be taken for credit by students with 4th year standing","subject_code":"ECON","course_number":"226","section_number":"003","building":" ","room":"","instructors":["HASAN, EMRUL"],"totalRemaining":"6","currentlyRegistered":"54","generalRemaining":"6","restrictedRemaining":"0"},"L01":{"status":" ","section":"ECON 226 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"9:00","end":"10:00","comments":"","subject_code":"ECON","course_number":"226","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"},"L02":{"status":" ","section":"ECON 226 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"10:00","end":"11:00","comments":"","subject_code":"ECON","course_number":"226","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools.  May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent)."}
+{
+  "course_name": "ECON 226",
+  "subject_code": "ECON",
+  "course_number": "226",
+  "course_title": "Making Sense of Economic Data",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=226&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 226 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "May not be taken for credit by students with 4th year standing",
+      "subject_code": "ECON",
+      "course_number": "226",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAHMOUD, CHOWDHURY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 226 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "226",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "39",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 226 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "May not be taken for credit by students with 4th year standing",
+      "subject_code": "ECON",
+      "course_number": "226",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HASAN, EMRUL"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "51",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 226 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "226",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 226 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=226&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "226",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Formulation of a testable hypothesis, identification of relevant data, use of appropriate statistical tools.  May not be taken for credit by students with fourth-year standing in ECON or COMM. Not available for credit to students already having credit for either of ECON 325 or ECON 326 (or equivalent).",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

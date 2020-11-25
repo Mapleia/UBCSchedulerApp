@@ -1,1 +1,231 @@
-{"course_name":"CHEM 130","subject_code":"CHEM","course_number":"130","course_title":"Thermodynamics, Kinetics and Organic Chemistry (Lecture)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=130&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CHEM 130 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"CHEM","course_number":"130","section_number":"201","building":" ","room":"","instructors":["0","280","0","0","","not in any of these programs: BA,BASC,BHK,BKIN\n\n"],"totalRemaining":"not in any of these programs: BA,BASC,BHK,BKIN\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"203":{"status":"Full","section":"CHEM 130 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=203&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:00","comments":"","subject_code":"CHEM","course_number":"130","section_number":"203","building":" ","room":"","instructors":["0","290","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"222":{"status":"Full","section":"CHEM 130 222","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=222&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"CHEM","course_number":"130","section_number":"222","building":" ","room":"","instructors":["PATEY, GRENFELL"],"totalRemaining":"0","currentlyRegistered":"280","generalRemaining":"0","restrictedRemaining":"0"},"299":{"status":"Full","section":"CHEM 130 299","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=299&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHEM","course_number":"130","section_number":"299","building":" ","room":"","instructors":["WICKENDEN, JASON"],"totalRemaining":"0","currentlyRegistered":"280","generalRemaining":"0","restrictedRemaining":"0"},"010":{"status":"STT","section":"CHEM 130 010","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=010&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"130","section_number":"010","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2W1":{"status":" ","section":"CHEM 130 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"130","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"117","currentlyRegistered":"883","generalRemaining":"117","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society."}
+{
+  "course_name": "CHEM 130",
+  "subject_code": "CHEM",
+  "course_number": "130",
+  "course_title": "Thermodynamics, Kinetics and Organic Chemistry (Lecture)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=130&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHEM 130 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "278",
+        "0",
+        "2",
+        "",
+        "not in any of these programs: BA,BASC,BHK,BKIN\n\nin one of these programs: BSC\nin year: <=2\n\n"
+      ],
+      "totalRemaining": "not in any of these programs: BA,BASC,BHK,BKIN\n\nin one of these programs: BSC\nin year: <=2\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 130 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "290",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 130 210",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=210&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "210",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "48",
+        "232",
+        "48",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 130 222",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=222&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "222",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "1",
+        "279",
+        "0",
+        "1",
+        "",
+        "in one of these programs: BSC\nin year: <=2\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BSC\nin year: <=2\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 130 255",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=255&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "255",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "152",
+        "128",
+        "152",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 130 299",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=299&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "299",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "280",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "CHEM 130 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=130&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "130",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "468",
+      "currentlyRegistered": "532",
+      "generalRemaining": "468",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

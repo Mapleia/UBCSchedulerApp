@@ -1,1 +1,43 @@
-{"course_name":"POLI 523B","subject_code":"POLI","course_number":"523B","course_title":"Political Thought - POLI THOUGHT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=523B&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"POLI 523B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=523B&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"*This course is cross-listed with POLI 424.All 2020W Term 1 courses will be delivered online. For detailed course descriptions, and information on alternative course times, please refer here: https://politics.ubc.ca/graduate/courses/","subject_code":"POLI","course_number":"523B","section_number":"002","building":" ","room":"","instructors":["CAMERON, MAXWELL"],"totalRemaining":"2","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "POLI 523B",
+  "subject_code": "POLI",
+  "course_number": "523B",
+  "course_title": "Political Thought - POLI THOUGHT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=523B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "POLI 523B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=523B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "*This course is cross-listed with POLI 424.All 2020W Term 1 courses will be delivered online. For detailed course descriptions, and information on alternative course times, please refer here: https://politics.ubc.ca/graduate/courses/",
+      "subject_code": "POLI",
+      "course_number": "523B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAMERON, MAXWELL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

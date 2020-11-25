@@ -1,1 +1,44 @@
-{"course_name":"PHIL 416","subject_code":"PHIL","course_number":"416","course_title":"Topics in 19th-Century Philosophy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=416&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 416 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=416&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"The course will focus on one book, \"Phenomenology of Spirit,\" by G.W.F. Hegel. We will begin with a review of German Idealism, then proceed through the book closely. We will consider a few of the major responses to the book, including those by Marx, Kojeve, and Jameson.COVID-19 notice: The course will be taught asynchronously with taped videos on Canvas. I will post videos for each class and ask you to respond during discussion on Zoom, in writing, or during office hours. There will be two exams and one final research paper.","subject_code":"PHIL","course_number":"416","section_number":"001","building":" ","room":"","instructors":["TAUBENECK, STEVEN"],"totalRemaining":"6","currentlyRegistered":"19","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Study of a major 19th-century philosopher such as Hegel, Mill or Nietzsche, or school, such as German Idealism."}
+{
+  "course_name": "PHIL 416",
+  "subject_code": "PHIL",
+  "course_number": "416",
+  "course_title": "Topics in 19th-Century Philosophy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=416&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 416 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=416&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "The course will focus on one book, \"Phenomenology of Spirit,\" by G.W.F. Hegel. We will begin with a review of German Idealism, then proceed through the book closely. We will consider a few of the major responses to the book, including those by Marx, Kojeve, and Jameson.COVID-19 notice: The course will be taught asynchronously with taped videos on Canvas. I will post videos for each class and ask you to respond during discussion on Zoom, in writing, or during office hours. There will be two exams and one final research paper.",
+      "subject_code": "PHIL",
+      "course_number": "416",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAUBENECK, STEVEN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "19",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Study of a major 19th-century philosopher such as Hegel, Mill or Nietzsche, or school, such as German Idealism.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"ENGL 326","subject_code":"ENGL","course_number":"326","course_title":"Studies in the English Language","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=326&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 326 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=326&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ENGL","course_number":"326","section_number":"001","building":"Irving K Barber Learning Centre","room":"155","instructors":["DOLLINGER, STEFAN"],"totalRemaining":"11","currentlyRegistered":"34","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Topics in the history or structure of the English language."}
+{
+  "course_name": "ENGL 326",
+  "subject_code": "ENGL",
+  "course_number": "326",
+  "course_title": "Studies in the English Language",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=326&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 326 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=326&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "326",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DOLLINGER, STEFAN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics in the history or structure of the English language.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

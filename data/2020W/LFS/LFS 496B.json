@@ -1,1 +1,100 @@
-{"course_name":"LFS 496B","subject_code":"LFS","course_number":"496B","course_title":"Career Development Practicum - CAREER PRACTICUM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=496B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LFS 496B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":"","end":"","comments":"This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.","subject_code":"LFS","course_number":"496B","section_number":"001","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"LFS 496B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.","subject_code":"LFS","course_number":"496B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["RISEMAN, ANDREW"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Blocked","section":"LFS 496B 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=003&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.","subject_code":"LFS","course_number":"496B","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["RISEMAN, ANDREW"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Practical application of degree program learning appropriate to students' career goals. Enrolment subject to competition and availability of practicum placements."}
+{
+  "course_name": "LFS 496B",
+  "subject_code": "LFS",
+  "course_number": "496B",
+  "course_title": "Career Development Practicum - CAREER PRACTICUM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=496B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LFS 496B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.",
+      "subject_code": "LFS",
+      "course_number": "496B",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LFS 496B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.",
+      "subject_code": "LFS",
+      "course_number": "496B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RISEMAN, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LFS 496B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=496B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is for the UBC Farm Practicum - you can find more information about the internship, including how to apply here (http://ubcfarm.ubc.ca/students/internships/).  Students with additional questions can contact students@landfood.ubc.ca.",
+      "subject_code": "LFS",
+      "course_number": "496B",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RISEMAN, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Practical application of degree program learning appropriate to students' career goals. Enrolment subject to competition and availability of practicum placements.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

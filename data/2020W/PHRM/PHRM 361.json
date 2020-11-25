@@ -1,1 +1,43 @@
-{"course_name":"PHRM 361","subject_code":"PHRM","course_number":"361","course_title":"Clinical Skills: Administration of Injections","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=361&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"PHRM 361 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=361&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" Thu","start":"8:00","end":"9:00","comments":"","subject_code":"PHRM","course_number":"361","section_number":"002","building":"Pharmaceutical Sciences Building","room":"1201","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Training for authorization to administer injections."}
+{
+  "course_name": "PHRM 361",
+  "subject_code": "PHRM",
+  "course_number": "361",
+  "course_title": "Clinical Skills: Administration of Injections",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=361&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 361 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=361&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "361",
+      "section_number": "002",
+      "building": "Pharmaceutical Sciences Building",
+      "room": "1201",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Training for authorization to administer injections.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

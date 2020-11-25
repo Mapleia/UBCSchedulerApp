@@ -1,1 +1,43 @@
-{"course_name":"PATH 417A","subject_code":"PATH","course_number":"417A","course_title":"Human Bacterial Infections - HMN BACT INFCTNS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=417A&sessyr=2020&sesscd=W","sections":{"99C":{"status":"Full","section":"PATH 417A 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=417A&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"his is an ONLINE course.   A valid email account and a Campus Wide Login (CWL) are required. Course materials must be ordered or picked up at the UBC Bookstore.  More information can be found at http://ctlt.ubc.ca/distance-learning/courses/path/path417/","subject_code":"PATH","course_number":"417A","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["JASSEM, AGATA","SEKIROV, INNA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Students acquire content relating to the virulence factors of the bacteria and the pathophysiology of the host while working through case scenarios on their own and in online groups. Students taking this course must be willing to engage in both self-directed and small-group learning."}
+{
+  "course_name": "PATH 417A",
+  "subject_code": "PATH",
+  "course_number": "417A",
+  "course_title": "Human Bacterial Infections - HMN BACT INFCTNS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=417A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PATH 417A 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=417A&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is an ONLINE course.   A valid email account and a Campus Wide Login (CWL) are required. Course materials must be ordered or picked up at the UBC Bookstore.  More information can be found at http://ctlt.ubc.ca/distance-learning/courses/path/path417/",
+      "subject_code": "PATH",
+      "course_number": "417A",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "JASSEM, AGATA",
+        "KELLY, NIAMH",
+        "SEKIROV, INNA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Students acquire content relating to the virulence factors of the bacteria and the pathophysiology of the host while working through case scenarios on their own and in online groups. Students taking this course must be willing to engage in both self-directed and small-group learning.",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

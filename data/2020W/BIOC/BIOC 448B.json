@@ -1,1 +1,43 @@
-{"course_name":"BIOC 448B","subject_code":"BIOC","course_number":"448B","course_title":"Directed Studies in Biochemistry - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=448B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"BIOC 448B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=448B&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"SEE DEPT ADVISOR R. BartonOpened in Septeber only","subject_code":"BIOC","course_number":"448B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["COVEY, SCOTT"],"totalRemaining":"0","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"A library (3 credits) or a laboratory project with written report (3 or 6 credits) allowing a student to undertake an investigation on a specific topic as agreed upon by the faculty and student."}
+{
+  "course_name": "BIOC 448B",
+  "subject_code": "BIOC",
+  "course_number": "448B",
+  "course_title": "Directed Studies in Biochemistry - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=448B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOC 448B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=448B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SEE DEPT ADVISOR R. BartonOpened in Septeber only",
+      "subject_code": "BIOC",
+      "course_number": "448B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COVEY, SCOTT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "A library (3 credits) or a laboratory project with written report (3 or 6 credits) allowing a student to undertake an investigation on a specific topic as agreed upon by the faculty and student.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

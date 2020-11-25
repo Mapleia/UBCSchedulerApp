@@ -1,1 +1,76 @@
-{"course_name":"BIOL 441","subject_code":"BIOL","course_number":"441","course_title":"Cell Biology of Intracellular Trafficking","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=441&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BIOL 441 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=441&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"BIOL","course_number":"441","section_number":"101","building":" ","room":"","instructors":["PANTE, NELLY","NGUYEN, LE TAM NHAN"],"totalRemaining":"4","currentlyRegistered":"26","generalRemaining":"4","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 441 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=441&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"This is the wait-list for BIOL 441-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"441","section_number":"1W1","building":"","room":"","instructors":["10","0","10","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Analysis of cellular organelles and the intracellular traffic between them, concentrating on mammalian cell systems."}
+{
+  "course_name": "BIOL 441",
+  "subject_code": "BIOL",
+  "course_number": "441",
+  "course_title": "Cell Biology of Intracellular Trafficking",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOL 441 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=441&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "441",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PANTE, NELLY",
+        "NGUYEN, LE TAM NHAN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 441 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=441&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This is the wait-list for BIOL 441-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "441",
+      "section_number": "1W1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of cellular organelles and the intracellular traffic between them, concentrating on mammalian cell systems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

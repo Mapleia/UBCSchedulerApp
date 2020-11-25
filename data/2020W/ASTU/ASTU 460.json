@@ -1,1 +1,45 @@
-{"course_name":"ASTU 460","subject_code":"ASTU","course_number":"460","course_title":"No Knowledge is Neutral","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=460&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"ASTU 460 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=460&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Registration restricted to UBC Sciences Po Dual Degree students only.","subject_code":"ASTU","course_number":"460","section_number":"002","building":"Hennings","room":"301","instructors":["MAYER, TARA","MAYER, TARA(Coordinator)"],"totalRemaining":"0","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Capstone seminar in the research, theory and practice of knowledge production, mobilization, and contextualization, including issues of authority, expertise, and positionality."}
+{
+  "course_name": "ASTU 460",
+  "subject_code": "ASTU",
+  "course_number": "460",
+  "course_title": "No Knowledge is Neutral",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=460&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASTU 460 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=460&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Registration restricted to UBC Sciences Po Dual Degree students only.",
+      "subject_code": "ASTU",
+      "course_number": "460",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAYER, TARA",
+        "MAYER, TARA(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Capstone seminar in the research, theory and practice of knowledge production, mobilization, and contextualization, including issues of authority, expertise, and positionality.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

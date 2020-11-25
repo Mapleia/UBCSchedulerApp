@@ -1,1 +1,70 @@
-{"course_name":"SPPH 598","subject_code":"SPPH","course_number":"598","course_title":"Occupational and Environmental Hygiene Project","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=598&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SPPH 598 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=598&section=001&sessyr=2020&sesscd=W","activity":"Project","term":"1","interval":"","days":" Fri","start":"9:00","end":"10:30","comments":"Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca","subject_code":"SPPH","course_number":"598","section_number":"001","building":" ","room":"","instructors":["KOEHOORN, MIEKE"],"totalRemaining":"14","currentlyRegistered":"1","generalRemaining":"14","restrictedRemaining":"0"},"002":{"status":" ","section":"SPPH 598 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=598&section=002&sessyr=2020&sesscd=W","activity":"Project","term":"2","interval":"","days":" Fri","start":"14:00","end":"15:30","comments":"Actual start / end times:  2:15pm-3:45pmClassroom: TBA","subject_code":"SPPH","course_number":"598","section_number":"002","building":" ","room":"","instructors":["KOEHOORN, MIEKE"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Applied project on approved topic based on practicum: requires a written and oral report."}
+{
+  "course_name": "SPPH 598",
+  "subject_code": "SPPH",
+  "course_number": "598",
+  "course_title": "Occupational and Environmental Hygiene Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 598 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=598&section=001&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "598",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOEHOORN, MIEKE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPPH 598 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=598&section=002&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Actual start / end times:  2:15pm-3:45pmCourse is delivered entirely online.  To access course module on UBC Canvas, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "598",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOEHOORN, MIEKE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Applied project on approved topic based on practicum: requires a written and oral report.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

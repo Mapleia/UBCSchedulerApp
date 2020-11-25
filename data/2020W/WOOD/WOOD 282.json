@@ -1,1 +1,74 @@
-{"course_name":"WOOD 282","subject_code":"WOOD","course_number":"282","course_title":"Wood Physics and Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=282&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"WOOD 282 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=282&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Lectures will be in CAWP  (FSC 2916).","subject_code":"WOOD","course_number":"282","section_number":"201","building":"Forest Sciences Centre","room":"2916","instructors":["AVRAMIDIS, STAVROS","LOSS, CRISTIANO"],"totalRemaining":"25","currentlyRegistered":"15","generalRemaining":"25","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 282 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=282&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"10:00","end":"12:00","comments":"Lab will be held in CAWP Classroom (FSC 2916).","subject_code":"WOOD","course_number":"282","section_number":"L01","building":"Forest Sciences Centre","room":"2916","instructors":["AVRAMIDIS, STAVROS","LOSS, CRISTIANO"],"totalRemaining":"25","currentlyRegistered":"15","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Wood-moisture relationships, transport phenomena, acoustical and electrical properties of wood. Effects of wood attributes at macro- and micro-levels on the strength properties of solid wood."}
+{
+  "course_name": "WOOD 282",
+  "subject_code": "WOOD",
+  "course_number": "282",
+  "course_title": "Wood Physics and Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=282&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 282 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=282&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "282",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "LOSS, CRISTIANO"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "15",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 282 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=282&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "282",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "LOSS, CRISTIANO"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "15",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Wood-moisture relationships, transport phenomena, acoustical and electrical properties of wood. Effects of wood attributes at macro- and micro-levels on the strength properties of solid wood.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

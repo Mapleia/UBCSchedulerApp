@@ -1,1 +1,44 @@
-{"course_name":"FRST 370","subject_code":"FRST","course_number":"370","course_title":"Community Forests and Community Forestry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=370&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 370 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=370&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Fri","start":"10:00","end":"11:00","comments":"Please note this course was formerly FRST 270.","subject_code":"FRST","course_number":"370","section_number":"101","building":" ","room":"","instructors":["BULKAN, JANETTE"],"totalRemaining":"35","currentlyRegistered":"65","generalRemaining":"35","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Community forests and community forestry throughout the world, with special attention to participation by aboriginal peoples; emphasis is on forms of governance, public participation, and adaptive learning."}
+{
+  "course_name": "FRST 370",
+  "subject_code": "FRST",
+  "course_number": "370",
+  "course_title": "Community Forests and Community Forestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 370 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=370&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Please note this course was formerly FRST 270.",
+      "subject_code": "FRST",
+      "course_number": "370",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BULKAN, JANETTE"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "65",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Community forests and community forestry throughout the world, with special attention to participation by aboriginal peoples; emphasis is on forms of governance, public participation, and adaptive learning.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

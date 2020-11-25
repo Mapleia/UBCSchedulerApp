@@ -1,1 +1,46 @@
-{"course_name":"SPPH 576","subject_code":"SPPH","course_number":"576","course_title":"Introduction to Indigenous Health Research Ethics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=576&sessyr=2020&sesscd=W","sections":{"922":{"status":"Cancelled","section":"SPPH 576 922","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=576&section=922&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":"","end":"","comments":"Also taught by Dr. Holly Longstaff.  CEIH Winter Institute courses will be held in room SPPH B104","subject_code":"SPPH","course_number":"576","section_number":"922","building":"","room":"","instructors":["30","0","30","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1.5","description":"Principles and regulatory requirements related to conducting health research with Indigenous communities."}
+{
+  "course_name": "SPPH 576",
+  "subject_code": "SPPH",
+  "course_number": "576",
+  "course_title": "Introduction to Indigenous Health Research Ethics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=576&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "SPPH 576 922",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=576&section=922&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Also taught by Dr. Holly Longstaff.  CEIH Winter Institute courses will be held in room SPPH B104",
+      "subject_code": "SPPH",
+      "course_number": "576",
+      "section_number": "922",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 5,
+  "description": "Principles and regulatory requirements related to conducting health research with Indigenous communities.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,103 @@
-{"course_name":"DHYG 461","subject_code":"DHYG","course_number":"461","course_title":"Literature Review I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=461&sessyr=2020&sesscd=W","sections":{"002":{"status":"STT","section":"DHYG 461 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":"","end":"","comments":"This section of DHYG 461 is for Entry to Practice students only.  This section is not available to Degree Completition or Direct Entry students.","subject_code":"DHYG","course_number":"461","section_number":"002","building":"","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2W1":{"status":" ","section":"DHYG 461 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"C","interval":"","days":" ","start":"","end":"","comments":"This is a Wait List for Section 99C of DHYG 461  offered in January.","subject_code":"DHYG","course_number":"461","section_number":"2W1","building":"","room":"","instructors":["13","0","13","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"99C":{"status":" ","section":"DHYG 461 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":"","end":"","comments":"Please register in Wait List section 2W1This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/ Admission to the Faculty of Dentistry is mandatory before registering (see website www.dentistry.ubc.ca)","subject_code":"DHYG","course_number":"461","section_number":"99C","building":"","room":"","instructors":["16","9","16","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":" "}
+{
+  "course_name": "DHYG 461",
+  "subject_code": "DHYG",
+  "course_number": "461",
+  "course_title": "Literature Review I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 461 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section of DHYG 461 is for Entry to Practice students only.  This section is not available to Degree Completition or Direct Entry students.",
+      "subject_code": "DHYG",
+      "course_number": "461",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "DHYG 461 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This is a Wait List for Section 99C of DHYG 461  offered in January.",
+      "subject_code": "DHYG",
+      "course_number": "461",
+      "section_number": "2W1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "13",
+        "0",
+        "13",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "DHYG 461 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=461&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Please register in Wait List section 2W1This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/ Admission to the Faculty of Dentistry is mandatory before registering (see website www.dentistry.ubc.ca)",
+      "subject_code": "DHYG",
+      "course_number": "461",
+      "section_number": "99C",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "15",
+        "10",
+        "15",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List",
+    "Distance Education"
+  ]
+}

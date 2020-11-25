@@ -1,1 +1,43 @@
-{"course_name":"PSYC 594","subject_code":"PSYC","course_number":"594","course_title":"Psychoneuroendocrinology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=594&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 594 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=594&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"594","section_number":"001","building":" ","room":"","instructors":["SOMA, KIRAN"],"totalRemaining":"3","currentlyRegistered":"9","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year; consult Department of Psychology."}
+{
+  "course_name": "PSYC 594",
+  "subject_code": "PSYC",
+  "course_number": "594",
+  "course_title": "Psychoneuroendocrinology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=594&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 594 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=594&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "594",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOMA, KIRAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year; consult Department of Psychology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

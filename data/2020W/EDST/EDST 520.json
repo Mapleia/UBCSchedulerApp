@@ -1,1 +1,43 @@
-{"course_name":"EDST 520","subject_code":"EDST","course_number":"520","course_title":"Perspectives on Adult Education Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=520&sessyr=2020&sesscd=W","sections":{"62A":{"status":"Blocked","section":"EDST 520 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=520&section=62A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the Off-Campus MED for the EFS2 Cohort Students only. Administered by PDCE.","subject_code":"EDST","course_number":"520","section_number":"62A","building":" ","room":"","instructors":["WALTER, PIERRE"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 520",
+  "subject_code": "EDST",
+  "course_number": "520",
+  "course_title": "Perspectives on Adult Education Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=520&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDST 520 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=520&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the Off-Campus MED for the EFS2 Cohort Students only. Administered by PDCE.",
+      "subject_code": "EDST",
+      "course_number": "520",
+      "section_number": "62A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALTER, PIERRE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

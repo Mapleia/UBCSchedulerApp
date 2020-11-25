@@ -1,1 +1,70 @@
-{"course_name":"APBI 444","subject_code":"APBI","course_number":"444","course_title":"Agroforestry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=444&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 444 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=444&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"","subject_code":"APBI","course_number":"444","section_number":"001","building":"Earth Sciences Building","room":"1013","instructors":["PRESCOTT, CINDY"],"totalRemaining":"16","currentlyRegistered":"34","generalRemaining":"16","restrictedRemaining":"0"},"T01":{"status":" ","section":"APBI 444 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=444&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"444","section_number":"T01","building":"Forest Sciences Centre","room":"1221","instructors":["PRESCOTT, CINDY"],"totalRemaining":"20","currentlyRegistered":"30","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An introduction to the application of knowledge and principles of agroecology and forest ecology to global agroforestry systems. The course includes a one-weekend field trip that requires a supplemental fee."}
+{
+  "course_name": "APBI 444",
+  "subject_code": "APBI",
+  "course_number": "444",
+  "course_title": "Agroforestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=444&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 444 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=444&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "444",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRESCOTT, CINDY"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "30",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 444 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=444&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "444",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRESCOTT, CINDY"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "27",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An introduction to the application of knowledge and principles of agroecology and forest ecology to global agroforestry systems. The course includes a one-weekend field trip that requires a supplemental fee.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

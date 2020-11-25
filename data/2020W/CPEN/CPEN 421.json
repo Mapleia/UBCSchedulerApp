@@ -1,1 +1,149 @@
-{"course_name":"CPEN 421","subject_code":"CPEN","course_number":"421","course_title":"Software Project Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=421&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPEN 421 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPEN","course_number":"421","section_number":"201","building":"Civil and Mechanical Engineering","room":"1204","instructors":["CONROY, PATRICK"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"T2A":{"status":" ","section":"CPEN 421 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"12:00","end":"14:00","comments":"","subject_code":"CPEN","course_number":"421","section_number":"T2A","building":"Civil and Mechanical Engineering","room":"1215","instructors":["CONROY, PATRICK"],"totalRemaining":"2","currentlyRegistered":"33","generalRemaining":"2","restrictedRemaining":"0"},"T2B":{"status":" ","section":"CPEN 421 T2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"","subject_code":"CPEN","course_number":"421","section_number":"T2B","building":"Civil and Mechanical Engineering","room":"1212","instructors":["CONROY, PATRICK"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"5","restrictedRemaining":"0"},"T2W":{"status":" ","section":"CPEN 421 T2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"421","section_number":"T2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"21","currentlyRegistered":"9","generalRemaining":"21","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPEN 421 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"421","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"22","currentlyRegistered":"8","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Advanced project planning, cost estimation and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risk. Tools. Case studies."}
+{
+  "course_name": "CPEN 421",
+  "subject_code": "CPEN",
+  "course_number": "421",
+  "course_title": "Software Project Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 421 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "421",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONROY, PATRICK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 421 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "421",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONROY, PATRICK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "31",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 421 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "421",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CONROY, PATRICK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 421 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "421",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 421 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=421&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "421",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "7",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Advanced project planning, cost estimation and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risk. Tools. Case studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

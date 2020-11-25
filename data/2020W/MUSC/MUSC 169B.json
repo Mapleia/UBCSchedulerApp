@@ -1,1 +1,70 @@
-{"course_name":"MUSC 169B","subject_code":"MUSC","course_number":"169B","course_title":"Intensive Chamber Ensemble - INT CHMB ENS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=169B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MUSC 169B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=169B&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"MUSC 169 represents credit for the extra work that some students do in some ensembles and should involve 1 hr/week additional coaching time. Permission to take 169 must come from the division coordinator (via a signed drop/add form forwarded to the MUSC student advisor) who will coach you in either 160 or 162, because 169  has 160 or 162 as a co-requisite (as 169 represents \"extra work\" you are doing in 160 or 162).  Not for use by pianists.  Hand in course add form to Music Student Advisor (music.advisor@ubc.ca)","subject_code":"MUSC","course_number":"169B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"MUSC 169B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=169B&section=002&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"MUSC 169 represents credit for the extra work that some students do in some ensembles and should involve 1 hr/week additional coaching time. Permission to take 169 must come from the division coordinator (via a signed drop/add form forwarded to the MUSC student advisor) who will coach you in either 160 or 162, because 169  has 160 or 162 as a co-requisite (as 169 represents \"extra work\" you are doing in 160 or 162).  Not for use by pianists.  Hand in course add form to Music Student Advisor (music.advisor@ubc.ca)","subject_code":"MUSC","course_number":"169B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected."}
+{
+  "course_name": "MUSC 169B",
+  "subject_code": "MUSC",
+  "course_number": "169B",
+  "course_title": "Intensive Chamber Ensemble - INT CHMB ENS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=169B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 169B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=169B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MUSC 169 represents credit for the extra work that some students do in some ensembles and should involve 1 hr/week additional coaching time. Permission to take 169 must come from the division coordinator (via a signed drop/add form forwarded to the MUSC student advisor) who will coach you in either 160 or 162, because 169  has 160 or 162 as a co-requisite (as 169 represents \"extra work\" you are doing in 160 or 162).  Not for use by pianists.  Hand in course add form to Music Student Advisor (music.advisor@ubc.ca)",
+      "subject_code": "MUSC",
+      "course_number": "169B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 169B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=169B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MUSC 169 represents credit for the extra work that some students do in some ensembles and should involve 1 hr/week additional coaching time. Permission to take 169 must come from the division coordinator (via a signed drop/add form forwarded to the MUSC student advisor) who will coach you in either 160 or 162, because 169  has 160 or 162 as a co-requisite (as 169 represents \"extra work\" you are doing in 160 or 162).  Not for use by pianists.  Hand in course add form to Music Student Advisor (music.advisor@ubc.ca)",
+      "subject_code": "MUSC",
+      "course_number": "169B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

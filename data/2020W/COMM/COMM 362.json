@@ -1,1 +1,180 @@
-{"course_name":"COMM 362","subject_code":"COMM","course_number":"362","course_title":"Consumer Behaviour","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=362&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 362 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"COMM","course_number":"362","section_number":"101","building":" ","room":"","instructors":["WHITE, KATHERINE"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":" ","section":"COMM 362 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"17:30","end":"19:00","comments":"This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"362","section_number":"102","building":" ","room":"","instructors":["SOUTH, CLUNY"],"totalRemaining":"10","currentlyRegistered":"31","generalRemaining":"3","restrictedRemaining":"7"},"103":{"status":"Restricted","section":"COMM 362 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"","subject_code":"COMM","course_number":"362","section_number":"103","building":" ","room":"","instructors":["SOUTH, CLUNY"],"totalRemaining":"3","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"3"},"201":{"status":"Restricted","section":"COMM 362 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"COMM","course_number":"362","section_number":"201","building":"Henry Angus","room":"435","instructors":["STONE, ANN"],"totalRemaining":"1","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"1"},"202":{"status":"Restricted","section":"COMM 362 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMM","course_number":"362","section_number":"202","building":"Henry Angus","room":"354","instructors":["CORNIL, YANN"],"totalRemaining":"1","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"1"},"203":{"status":"Full","section":"COMM 362 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COMM","course_number":"362","section_number":"203","building":"Henry Angus","room":"354","instructors":["CORNIL, YANN"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered."}
+{
+  "course_name": "COMM 362",
+  "subject_code": "COMM",
+  "course_number": "362",
+  "course_title": "Consumer Behaviour",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=362&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 362 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WHITE, KATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 362 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOUTH, CLUNY"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "31",
+      "generalRemaining": "3",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 362 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOUTH, CLUNY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 362 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STONE, ANN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 362 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CORNIL, YANN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 362 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=362&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "362",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CORNIL, YANN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The use of consumer research and theory in marketing and policy decisions. Psychological, sociological and economic theory and research relevant to consumer behaviour are considered.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

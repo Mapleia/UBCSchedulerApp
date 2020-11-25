@@ -1,1 +1,43 @@
-{"course_name":"CHEM 448C","subject_code":"CHEM","course_number":"448C","course_title":"Directed Studies in Chemistry - DST CHEMISTRY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=448C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"CHEM 448C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=448C&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"This section of CHEM 448C is restricted to students registered (by the Department) into the two-term offering of this course. Direct registration by students into CHEM 448 is not permitted.  Students are referred to information about CHEM 448 on the Departmental website.  Students accepted into CHEM 448 will be registered in the course by the Department.","subject_code":"CHEM","course_number":"448C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Students will undertake an investigation of a specific topic as agreed upon by the student and the faculty supervisor. Open to third- and fourth-year chemistry students."}
+{
+  "course_name": "CHEM 448C",
+  "subject_code": "CHEM",
+  "course_number": "448C",
+  "course_title": "Directed Studies in Chemistry - DST CHEMISTRY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=448C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CHEM 448C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=448C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of CHEM 448C is restricted to students registered (by the Department) into the two-term offering of this course. Direct registration by students into CHEM 448 is not permitted.  Students are referred to information about CHEM 448 on the Departmental website.  Students accepted into CHEM 448 will be registered in the course by the Department.",
+      "subject_code": "CHEM",
+      "course_number": "448C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Students will undertake an investigation of a specific topic as agreed upon by the student and the faculty supervisor. Open to third- and fourth-year chemistry students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

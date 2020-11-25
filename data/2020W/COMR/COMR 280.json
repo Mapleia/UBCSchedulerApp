@@ -1,1 +1,99 @@
-{"course_name":"COMR 280","subject_code":"COMR","course_number":"280","course_title":"Entrepreneurship","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=280&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"COMR 280 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"17:30","end":"19:00","comments":"","subject_code":"COMR","course_number":"280","section_number":"101","building":" ","room":"","instructors":["MILLER, DAVID"],"totalRemaining":"3","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"3"},"103":{"status":"Restricted","section":"COMR 280 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COMR","course_number":"280","section_number":"103","building":" ","room":"","instructors":["MILLER, DAVID"],"totalRemaining":"2","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"2"},"203":{"status":"Restricted","section":"COMR 280 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COMR","course_number":"280","section_number":"203","building":"David Lam Management Research Centre","room":"009","instructors":["ALTMAN, JONAS"],"totalRemaining":"1","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business."}
+{
+  "course_name": "COMR 280",
+  "subject_code": "COMR",
+  "course_number": "280",
+  "course_title": "Entrepreneurship",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMR 280 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "280",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, DAVID"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMR 280 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "280",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, DAVID"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMR 280 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=280&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "280",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTMAN, JONAS"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

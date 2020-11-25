@@ -1,1 +1,123 @@
-{"course_name":"BUSI 354","subject_code":"BUSI","course_number":"354","course_title":"Cost Accounting","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=354&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BUSI 354 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"354","section_number":"101","building":" ","room":"","instructors":["MCGUINNESS, ALINA"],"totalRemaining":"0","currentlyRegistered":"66","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Blocked","section":"BUSI 354 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"18:30","end":"21:30","comments":"This section is held at UBC Robson Square (800 Robson Street), in Room C440.","subject_code":"BUSI","course_number":"354","section_number":"102","building":" ","room":"","instructors":["NORWOOD, PETER"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"BUSI 354 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"354","section_number":"201","building":" ","room":"","instructors":["MCGUINNESS, ALINA"],"totalRemaining":"0","currentlyRegistered":"47","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Blocked","section":"BUSI 354 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=203&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BUSI","course_number":"354","section_number":"203","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance."}
+{
+  "course_name": "BUSI 354",
+  "subject_code": "BUSI",
+  "course_number": "354",
+  "course_title": "Cost Accounting",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=354&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 354 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "354",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGUINNESS, ALINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 354 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "This section is held at UBC Robson Square (800 Robson Street), in Room C440.",
+      "subject_code": "BUSI",
+      "course_number": "354",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NORWOOD, PETER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 354 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "354",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGUINNESS, ALINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "54",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 354 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=354&section=203&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "354",
+      "section_number": "203",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

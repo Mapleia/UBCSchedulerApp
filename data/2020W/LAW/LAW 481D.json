@@ -1,1 +1,70 @@
-{"course_name":"LAW 481D","subject_code":"LAW","course_number":"481D","course_title":"Topics in Litigation, Dispute Resolution and the Administration of Justice - TPC LIT/DIS/RES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=481D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 481D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=481D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"This seminar fulfills the Experiential Learning Requirement.  This course is NOT open to Exchange and Visiting students.","subject_code":"LAW","course_number":"481D","section_number":"001","building":" ","room":"","instructors":["LEBARON, MICHELLE"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"LAW 481D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=481D&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"9:30","end":"12:30","comments":"This seminar fulfills the Experiential Learning Requirement.  This course is NOT open to Exchange and Visiting students.","subject_code":"LAW","course_number":"481D","section_number":"002","building":" ","room":"","instructors":["LEBARON, MICHELLE"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 481D",
+  "subject_code": "LAW",
+  "course_number": "481D",
+  "course_title": "Topics in Litigation, Dispute Resolution and the Administration of Justice - TPC LIT/DIS/RES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=481D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 481D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=481D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This seminar fulfills the Experiential Learning Requirement.  This course is NOT open to Exchange and Visiting students.",
+      "subject_code": "LAW",
+      "course_number": "481D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEBARON, MICHELLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 481D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=481D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This seminar fulfills the Experiential Learning Requirement.  This course is NOT open to Exchange and Visiting students.",
+      "subject_code": "LAW",
+      "course_number": "481D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEBARON, MICHELLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

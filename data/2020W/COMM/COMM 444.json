@@ -1,1 +1,44 @@
-{"course_name":"COMM 444","subject_code":"COMM","course_number":"444","course_title":"Air Transportation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=444&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"COMM 444 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=444&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"444","section_number":"201","building":"Henry Angus","room":"234","instructors":["KORENIC, JOHN"],"totalRemaining":"0","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An integrative treatment of air transport management including: demand analysis, sales and marketing, globalization trends, aircraft selection and fleet planning; airport economics and management."}
+{
+  "course_name": "COMM 444",
+  "subject_code": "COMM",
+  "course_number": "444",
+  "course_title": "Air Transportation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=444&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 444 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=444&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "444",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KORENIC, JOHN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "An integrative treatment of air transport management including: demand analysis, sales and marketing, globalization trends, aircraft selection and fleet planning; airport economics and management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"CHBE 477","subject_code":"CHBE","course_number":"477","course_title":"Fuel Cell and Electrochemical Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=477&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 477 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=477&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CHBE","course_number":"477","section_number":"201","building":"Orchard Commons","room":"4074","instructors":["GYENGE, ELOD LAJOS"],"totalRemaining":"17","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"17"}},"credits":"Credits: 3","description":"Stoichiometry, thermodynamics and kinetics of electrode reactions; conductivity and mass transport in electrolytes; material, energy and voltage balances; design of  electrosynthesis, electrorecovery of metals, and energy generation of batteries and fuel cells. Credit will be granted for only one of CHBE 477, CHBE 577."}
+{
+  "course_name": "CHBE 477",
+  "subject_code": "CHBE",
+  "course_number": "477",
+  "course_title": "Fuel Cell and Electrochemical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=477&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 477 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=477&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "477",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GYENGE, ELOD LAJOS"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": 3,
+  "description": "Stoichiometry, thermodynamics and kinetics of electrode reactions; conductivity and mass transport in electrolytes; material, energy and voltage balances; design of  electrosynthesis, electrorecovery of metals, and energy generation of batteries and fuel cells. Credit will be granted for only one of CHBE 477, CHBE 577.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"DHYG 400B","subject_code":"DHYG","course_number":"400B","course_title":"Policy Analysis and Change - POL ANYLS CHNG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=400B&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"DHYG 400B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=400B&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":"","end":"","comments":"This section of DHYG 400 is for Entry to Practice students only.  This section is not available to Degree Completition or Direct Entry students.","subject_code":"DHYG","course_number":"400B","section_number":"001","building":"","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Critical reviews of oral health care delivery, oral disease processes and dental hygiene."}
+{
+  "course_name": "DHYG 400B",
+  "subject_code": "DHYG",
+  "course_number": "400B",
+  "course_title": "Policy Analysis and Change - POL ANYLS CHNG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=400B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "DHYG 400B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=400B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section of DHYG 400 is for Entry to Practice students only.  This section is not available to Degree Completition or Direct Entry students.",
+      "subject_code": "DHYG",
+      "course_number": "400B",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Critical reviews of oral health care delivery, oral disease processes and dental hygiene.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

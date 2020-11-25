@@ -1,1 +1,71 @@
-{"course_name":"KIN 320","subject_code":"KIN","course_number":"320","course_title":"Exercise Testing and Prescription","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=320&sessyr=2020&sesscd=W","sections":{"901":{"status":"Blocked","section":"KIN 320 901","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=320&section=901&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Mon Wed","start":"19:00","end":"20:00","comments":"","subject_code":"KIN","course_number":"320","section_number":"901","building":"P. A. Woodward Instructional Resources Centre","room":"4","instructors":["MA, JASMIN"],"totalRemaining":"0","currentlyRegistered":"150","generalRemaining":"0","restrictedRemaining":"0"},"9W1":{"status":"Blocked","section":"KIN 320 9W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=320&section=9W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"320","section_number":"9W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"16","currentlyRegistered":"4","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Conditioning methods, exercise techniques and appraisal methods for fitness in physical activity and sport."}
+{
+  "course_name": "KIN 320",
+  "subject_code": "KIN",
+  "course_number": "320",
+  "course_title": "Exercise Testing and Prescription",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 320 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=320&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "320",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, JASMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "147",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 320 9W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=320&section=9W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "320",
+      "section_number": "9W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Conditioning methods, exercise techniques and appraisal methods for fitness in physical activity and sport.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

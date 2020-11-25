@@ -1,1 +1,43 @@
-{"course_name":"MINE 497P","subject_code":"MINE","course_number":"497P","course_title":"Directed Studies - ADV MINERAL PROC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=497P&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MINE 497P 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=497P&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MINE","course_number":"497P","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["MISKOVIC, SANJA"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Requires approval of the department head."}
+{
+  "course_name": "MINE 497P",
+  "subject_code": "MINE",
+  "course_number": "497P",
+  "course_title": "Directed Studies - ADV MINERAL PROC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=497P&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 497P 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=497P&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "497P",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, SANJA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Requires approval of the department head.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"CPSC 509","subject_code":"CPSC","course_number":"509","course_title":"Programming Language Principles","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=509&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CPSC 509 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=509&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"13:30","end":"15:00","comments":"","subject_code":"CPSC","course_number":"509","section_number":"101","building":" ","room":"","instructors":["BOWMAN, WILLIAM"],"totalRemaining":"16","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"16"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 509",
+  "subject_code": "CPSC",
+  "course_number": "509",
+  "course_title": "Programming Language Principles",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=509&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 509 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=509&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "509",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOWMAN, WILLIAM"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

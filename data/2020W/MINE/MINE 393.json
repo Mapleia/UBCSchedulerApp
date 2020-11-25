@@ -1,1 +1,43 @@
-{"course_name":"MINE 393","subject_code":"MINE","course_number":"393","course_title":"Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=393&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"MINE 393 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=393&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"11:00","end":"12:00","comments":"","subject_code":"MINE","course_number":"393","section_number":"201","building":"Chemical and Biological Engineering Building","room":"102","instructors":["SCHOEN, MICHAEL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Oral presentation of topics by instructor and guest lecturers."}
+{
+  "course_name": "MINE 393",
+  "subject_code": "MINE",
+  "course_number": "393",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=393&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 393 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=393&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "393",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHOEN, MICHAEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Oral presentation of topics by instructor and guest lecturers.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

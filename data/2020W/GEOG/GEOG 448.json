@@ -1,1 +1,46 @@
-{"course_name":"GEOG 448","subject_code":"GEOG","course_number":"448","course_title":"Directed Studies in Geography","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=448&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"GEOG 448 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=448&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":"","end":"","comments":"GEOG 448:  ADVISOR APPROVAL REQUIRED","subject_code":"GEOG","course_number":"448","section_number":"101","building":"","room":"","instructors":["1","0","1","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"For fourth-year students in Geography to permit investigation of a topic to be agreed upon by a member of the faculty and the student."}
+{
+  "course_name": "GEOG 448",
+  "subject_code": "GEOG",
+  "course_number": "448",
+  "course_title": "Directed Studies in Geography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=448&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOG 448 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=448&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "GEOG 448:  ADVISOR APPROVAL REQUIRED",
+      "subject_code": "GEOG",
+      "course_number": "448",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "0",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "For fourth-year students in Geography to permit investigation of a topic to be agreed upon by a member of the faculty and the student.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

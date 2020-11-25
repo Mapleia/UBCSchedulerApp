@@ -1,1 +1,46 @@
-{"course_name":"FNH 300","subject_code":"FNH","course_number":"300","course_title":"Principles of Food Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"FNH 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"FNH","course_number":"300","section_number":"001","building":" ","room":"","instructors":["PRATAP SINGH, ANUBHAV","MANDAL, RONIT","MOHAMMADI, XANYAR"],"totalRemaining":"65","currentlyRegistered":"42","generalRemaining":"52","restrictedRemaining":"13"}},"credits":"Credits: 3","description":"Units and dimensions, mass balance, energy balance, steady state and transient heat flow, fluid handling and measurement."}
+{
+  "course_name": "FNH 300",
+  "subject_code": "FNH",
+  "course_number": "300",
+  "course_title": "Principles of Food Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FNH 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRATAP SINGH, ANUBHAV",
+        "MANDAL, RONIT",
+        "MOHAMMADI, XANYAR"
+      ],
+      "totalRemaining": "66",
+      "currentlyRegistered": "41",
+      "generalRemaining": "53",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": 3,
+  "description": "Units and dimensions, mass balance, energy balance, steady state and transient heat flow, fluid handling and measurement.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

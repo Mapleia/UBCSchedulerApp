@@ -1,1 +1,44 @@
-{"course_name":"MIDW 106","subject_code":"MIDW","course_number":"106","course_title":"Reproductive Anatomy and Physiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=106&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MIDW 106 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=106&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"","subject_code":"MIDW","course_number":"106","section_number":"001","building":" ","room":"","instructors":["KREBS, CLAUDIA","TURNER, MICHELLE"],"totalRemaining":"2","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Physiology of conception, pregnancy, lactation, fetal growth, labour, birth, transition to extra-uterine life, postpartum. A series of lectures and lab sessions."}
+{
+  "course_name": "MIDW 106",
+  "subject_code": "MIDW",
+  "course_number": "106",
+  "course_title": "Reproductive Anatomy and Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=106&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 106 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=106&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "106",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KREBS, CLAUDIA",
+        "TURNER, MICHELLE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Physiology of conception, pregnancy, lactation, fetal growth, labour, birth, transition to extra-uterine life, postpartum. A series of lectures and lab sessions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

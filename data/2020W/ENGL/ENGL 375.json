@@ -1,1 +1,45 @@
-{"course_name":"ENGL 375","subject_code":"ENGL","course_number":"375","course_title":"Global South Connections","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=375&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 375 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=375&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ENGL","course_number":"375","section_number":"001","building":"West Mall Swing Space","room":"109","instructors":["CULBERT, JOHN"],"totalRemaining":"34","currentlyRegistered":"11","generalRemaining":"34","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Literary and cultural networks relating to societies in the Global South; may address areas such as colonization, decolonization, nationalism, social movements, forced and voluntary migrations of peoples, cultural hybridity, translation, and globalization. Consult department website for current year's offerings."}
+{
+  "course_name": "ENGL 375",
+  "subject_code": "ENGL",
+  "course_number": "375",
+  "course_title": "Global South Connections",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=375&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 375 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=375&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "375",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CULBERT, JOHN"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "13",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Literary and cultural networks relating to societies in the Global South; may address areas such as colonization, decolonization, nationalism, social movements, forced and voluntary migrations of peoples, cultural hybridity, translation, and globalization. Consult department website for current year's offerings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

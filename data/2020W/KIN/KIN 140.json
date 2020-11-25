@@ -1,1 +1,71 @@
-{"course_name":"KIN 140","subject_code":"KIN","course_number":"140","course_title":"Lifespan Motor Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=140&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"KIN 140 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=140&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"KIN","course_number":"140","section_number":"002","building":" ","room":"","instructors":["BREDIN, SHANNON"],"totalRemaining":"89","currentlyRegistered":"111","generalRemaining":"0","restrictedRemaining":"89"},"0W2":{"status":"Blocked","section":"KIN 140 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=140&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"140","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"13","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A lifespan approach to motor development that examines underlying factors affecting physical growth, physical activity behaviour, and human motor performance, while highlighting contemporary issues and trends in society."}
+{
+  "course_name": "KIN 140",
+  "subject_code": "KIN",
+  "course_number": "140",
+  "course_title": "Lifespan Motor Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=140&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 140 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=140&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "140",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BREDIN, SHANNON"
+      ],
+      "totalRemaining": "93",
+      "currentlyRegistered": "107",
+      "generalRemaining": "0",
+      "restrictedRemaining": "93"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 140 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=140&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "140",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A lifespan approach to motor development that examines underlying factors affecting physical growth, physical activity behaviour, and human motor performance, while highlighting contemporary issues and trends in society.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

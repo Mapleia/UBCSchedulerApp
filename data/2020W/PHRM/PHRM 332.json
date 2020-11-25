@@ -1,1 +1,76 @@
-{"course_name":"PHRM 332","subject_code":"PHRM","course_number":"332","course_title":"Practical Applications of Pharmacoepidemiology and Health Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=332&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHRM 332 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=332&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"Applied PharmacoeconomicsIf section is full, please register in the waitlist (PHRM 332.WL1)","subject_code":"PHRM","course_number":"332","section_number":"001","building":" ","room":"","instructors":["25","5","0","25","","in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"],"totalRemaining":"in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Blocked","section":"PHRM 332 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=332&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 332.001 Applied PharmacoeconomicsInstructors: Dr. Mary De Vera  and  Dr. Mark Harrison","subject_code":"PHRM","course_number":"332","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Principles and methods of collecting epidemiological and economic evidence used to assess the value of pharmaceuticals and services provided by pharmacists."}
+{
+  "course_name": "PHRM 332",
+  "subject_code": "PHRM",
+  "course_number": "332",
+  "course_title": "Practical Applications of Pharmacoepidemiology and Health Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=332&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 332 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=332&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Applied PharmacoeconomicsIf section is full, please register in the waitlist (PHRM 332.WL1)",
+      "subject_code": "PHRM",
+      "course_number": "332",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "24",
+        "6",
+        "0",
+        "24",
+        "",
+        "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PHRM 332 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=332&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 332.001 Applied PharmacoeconomicsInstructors: Dr. Mary De Vera  and  Dr. Mark Harrison",
+      "subject_code": "PHRM",
+      "course_number": "332",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and methods of collecting epidemiological and economic evidence used to assess the value of pharmaceuticals and services provided by pharmacists.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

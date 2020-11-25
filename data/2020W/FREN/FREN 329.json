@@ -1,1 +1,45 @@
-{"course_name":"FREN 329","subject_code":"FREN","course_number":"329","course_title":"Selected Works of European French Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=329&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FREN 329 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=329&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Representative works viewed in their historical, social, and cultural contexts. Full course description: https://fhis.ubc.ca/course-description/fren329/","subject_code":"FREN","course_number":"329","section_number":"201","building":" ","room":"","instructors":["LAROUSSI, FARID"],"totalRemaining":"19","currentlyRegistered":"21","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Representative works viewed in their historical, social, and cultural contexts."}
+{
+  "course_name": "FREN 329",
+  "subject_code": "FREN",
+  "course_number": "329",
+  "course_title": "Selected Works of European French Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=329&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 329 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=329&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Representative works viewed in their historical, social, and cultural contexts. Full course description: https://fhis.ubc.ca/course-description/fren329/",
+      "subject_code": "FREN",
+      "course_number": "329",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAROUSSI, FARID"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "24",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Representative works viewed in their historical, social, and cultural contexts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

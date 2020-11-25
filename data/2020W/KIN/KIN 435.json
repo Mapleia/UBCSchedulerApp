@@ -1,1 +1,71 @@
-{"course_name":"KIN 435","subject_code":"KIN","course_number":"435","course_title":"Pulmonary Physiology of Exercise","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=435&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 435 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=435&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This course is formerly KIN 475. Students can receive credit for either KIN 475 or KIN 435","subject_code":"KIN","course_number":"435","section_number":"001","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"10","currentlyRegistered":"110","generalRemaining":"0","restrictedRemaining":"10"},"0W1":{"status":"Blocked","section":"KIN 435 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=435&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 475 . Students can receive credit for either KIN 475 or KIN 435","subject_code":"KIN","course_number":"435","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"75","currentlyRegistered":"0","generalRemaining":"75","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Operation of the lungs, chest wall, and ventilatory control mechanisms during dynamic whole-body exercise."}
+{
+  "course_name": "KIN 435",
+  "subject_code": "KIN",
+  "course_number": "435",
+  "course_title": "Pulmonary Physiology of Exercise",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=435&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 435 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=435&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is formerly KIN 475. Students can receive credit for either KIN 475 or KIN 435",
+      "subject_code": "KIN",
+      "course_number": "435",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "109",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 435 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=435&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 475 . Students can receive credit for either KIN 475 or KIN 435",
+      "subject_code": "KIN",
+      "course_number": "435",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "75",
+      "currentlyRegistered": "0",
+      "generalRemaining": "75",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Operation of the lungs, chest wall, and ventilatory control mechanisms during dynamic whole-body exercise.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MTRL 579","subject_code":"MTRL","course_number":"579","course_title":"Physics of Microfabrication: Front End Processing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=579&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 579 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=579&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"14:00","end":"16:00","comments":"","subject_code":"MTRL","course_number":"579","section_number":"101","building":" ","room":"","instructors":["XIA, GUANGRUI"],"totalRemaining":"5","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Practical aspects, physical models, and simulations of Si-based nanofabrication processes such as oxidation, diffusion, ion implantation, chemical vapor deposition, etching, stress techniques. Semiconductor device physic basics will also be discussed."}
+{
+  "course_name": "MTRL 579",
+  "subject_code": "MTRL",
+  "course_number": "579",
+  "course_title": "Physics of Microfabrication: Front End Processing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=579&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 579 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=579&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "579",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "XIA, GUANGRUI"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Practical aspects, physical models, and simulations of Si-based nanofabrication processes such as oxidation, diffusion, ion implantation, chemical vapor deposition, etching, stress techniques. Semiconductor device physic basics will also be discussed.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,47 @@
-{"course_name":"PATH 402","subject_code":"PATH","course_number":"402","course_title":"Medical Laboratory Science: Haematology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=402&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PATH 402 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=402&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"12:00","end":"14:00","comments":"RESTRICTED TO BMLS STUDENTS.","subject_code":"PATH","course_number":"402","section_number":"001","building":" ","room":"","instructors":["1","22","0","1","","in one of these programs: BMLS\nin one of these faculties: MEDI\nin year: =4\n\n"],"totalRemaining":"in one of these programs: BMLS\nin one of these faculties: MEDI\nin year: =4\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"A theoretical and practical examination of those modern concepts of haematology which relate to the practice of medical laboratory science."}
+{
+  "course_name": "PATH 402",
+  "subject_code": "PATH",
+  "course_number": "402",
+  "course_title": "Medical Laboratory Science: Haematology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PATH 402 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=402&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "RESTRICTED TO BMLS STUDENTS.",
+      "subject_code": "PATH",
+      "course_number": "402",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AU, NICHOLAS",
+        "BRUYERE, HELENE",
+        "KUCHENBAUER, FLORIAN",
+        "MEDVEDEV, NADEJDA",
+        "SKINNIDER, BRIAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 4,
+  "description": "A theoretical and practical examination of those modern concepts of haematology which relate to the practice of medical laboratory science.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"LAW 467D","subject_code":"LAW","course_number":"467D","course_title":"Topics in Corporate Law - TPCS CORP LAW","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=467D&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"LAW 467D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=467D&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"18:00","end":"21:00","comments":"","subject_code":"LAW","course_number":"467D","section_number":"002","building":" ","room":"","instructors":["NARWAL, JOVAN"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 467D",
+  "subject_code": "LAW",
+  "course_number": "467D",
+  "course_title": "Topics in Corporate Law - TPCS CORP LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=467D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 467D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=467D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "467D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NARWAL, JOVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

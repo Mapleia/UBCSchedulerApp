@@ -1,1 +1,123 @@
-{"course_name":"CPEN 411","subject_code":"CPEN","course_number":"411","course_title":"Computer Architecture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=411&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CPEN 411 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CPEN","course_number":"411","section_number":"101","building":" ","room":"","instructors":["NAIR, PRASHANT"],"totalRemaining":"16","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"16"},"T1A":{"status":" ","section":"CPEN 411 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"10:00","end":"12:00","comments":"","subject_code":"CPEN","course_number":"411","section_number":"T1A","building":" ","room":"","instructors":["NAIR, PRASHANT"],"totalRemaining":"16","currentlyRegistered":"36","generalRemaining":"16","restrictedRemaining":"0"},"T1W":{"status":" ","section":"CPEN 411 T1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=T1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"411","section_number":"T1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CPEN 411 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"411","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Modern processors, GPUs, and memory hierarchies; quantitative principles and instruction set design; pipelining, superscalar issue, out-of-order execution, branch prediction and speculation; memory hierarchies, caches, virtual addressing, prefetching, coherence, and consistency; multicores, VLIW, on-chip networks, and other advanced architectures. Credit will be granted for only one of CPSC 313 or EECE 476 or CPEN 411."}
+{
+  "course_name": "CPEN 411",
+  "subject_code": "CPEN",
+  "course_number": "411",
+  "course_title": "Computer Architecture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPEN 411 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "411",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAIR, PRASHANT"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 411 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "411",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAIR, PRASHANT"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "36",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 411 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "411",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 411 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=411&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "411",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Modern processors, GPUs, and memory hierarchies; quantitative principles and instruction set design; pipelining, superscalar issue, out-of-order execution, branch prediction and speculation; memory hierarchies, caches, virtual addressing, prefetching, coherence, and consistency; multicores, VLIW, on-chip networks, and other advanced architectures. Credit will be granted for only one of CPSC 313 or EECE 476 or CPEN 411.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

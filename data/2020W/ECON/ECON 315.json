@@ -1,1 +1,97 @@
-{"course_name":"ECON 315","subject_code":"ECON","course_number":"315","course_title":"Intermediate Microeconomics I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=315&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"ECON 315 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"9:30","end":"11:00","comments":"","subject_code":"ECON","course_number":"315","section_number":"001","building":" ","room":"","instructors":["CHAPPLE, CLIVE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"B01":{"status":"STT","section":"ECON 315 B01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=B01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"9:00","end":"10:00","comments":"","subject_code":"ECON","course_number":"315","section_number":"B01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"B02":{"status":"STT","section":"ECON 315 B02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=B02&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"18:00","end":"19:00","comments":"","subject_code":"ECON","course_number":"315","section_number":"B02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Registration restricted to students in the Bachelor of International Economics Program.  Credit will be granted for only one of ECON 315 and ECON 204, ECON 301, ECON 304, ECON 308, COMM 295, FRE 295."}
+{
+  "course_name": "ECON 315",
+  "subject_code": "ECON",
+  "course_number": "315",
+  "course_title": "Intermediate Microeconomics I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ECON 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "315",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAPPLE, CLIVE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 315 B01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=B01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "315",
+      "section_number": "B01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 315 B02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=315&section=B02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "315",
+      "section_number": "B02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Registration restricted to students in the Bachelor of International Economics Program.  Credit will be granted for only one of ECON 315 and ECON 204, ECON 301, ECON 304, ECON 308, COMM 295, FRE 295.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

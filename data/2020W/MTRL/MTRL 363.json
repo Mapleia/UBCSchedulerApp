@@ -1,1 +1,70 @@
-{"course_name":"MTRL 363","subject_code":"MTRL","course_number":"363","course_title":"Transport Phenomena III - Mass Transport","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=363&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 363 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=363&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:00","comments":"","subject_code":"MTRL","course_number":"363","section_number":"101","building":" ","room":"","instructors":["XIA, GUANGRUI"],"totalRemaining":"10","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"10"},"T1A":{"status":"Restricted","section":"MTRL 363 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=363&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"MTRL","course_number":"363","section_number":"T1A","building":" ","room":"","instructors":["XIA, GUANGRUI"],"totalRemaining":"10","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes."}
+{
+  "course_name": "MTRL 363",
+  "subject_code": "MTRL",
+  "course_number": "363",
+  "course_title": "Transport Phenomena III - Mass Transport",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=363&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 363 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=363&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "363",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "XIA, GUANGRUI"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 363 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=363&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "363",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "XIA, GUANGRUI"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

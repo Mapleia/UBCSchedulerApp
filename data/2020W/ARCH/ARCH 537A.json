@@ -1,1 +1,43 @@
-{"course_name":"ARCH 537A","subject_code":"ARCH","course_number":"537A","course_title":"International Exchange in Architecture - INT EXCH ARCH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=537A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ARCH 537A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=537A&section=001&sessyr=2020&sesscd=W","activity":"Exchange Program","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ARCH","course_number":"537A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 1","description":"Pass/Fail. Pre-approved studies in architecture in an international context."}
+{
+  "course_name": "ARCH 537A",
+  "subject_code": "ARCH",
+  "course_number": "537A",
+  "course_title": "International Exchange in Architecture - INT EXCH ARCH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=537A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARCH 537A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=537A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Exchange Program",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "537A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 1,
+  "description": "Pass/Fail. Pre-approved studies in architecture in an international context.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Exchange Program"
+  ]
+}

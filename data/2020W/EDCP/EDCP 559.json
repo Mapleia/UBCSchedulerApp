@@ -1,1 +1,70 @@
-{"course_name":"EDCP 559","subject_code":"EDCP","course_number":"559","course_title":"Research in the Teaching and Learning of the Sciences","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=559&sessyr=2020&sesscd=W","sections":{"032":{"status":" ","section":"EDCP 559 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=559&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"","subject_code":"EDCP","course_number":"559","section_number":"032","building":"Neville Scarfe","room":"1210","instructors":["KHAN, SAMIA"],"totalRemaining":"17","currentlyRegistered":"3","generalRemaining":"17","restrictedRemaining":"0"},"62A":{"status":"Blocked","section":"EDCP 559 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=559&section=62A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the Off campus online SCE2 Cohort Students only - Administered by PDCE","subject_code":"EDCP","course_number":"559","section_number":"62A","building":" ","room":"","instructors":["FU, GUOPENG"],"totalRemaining":"1","currentlyRegistered":"21","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Current models and methods of inquiry in science education."}
+{
+  "course_name": "EDCP 559",
+  "subject_code": "EDCP",
+  "course_number": "559",
+  "course_title": "Research in the Teaching and Learning of the Sciences",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=559&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDCP 559 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=559&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "559",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KHAN, SAMIA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 559 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=559&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the Off campus online SCE2 Cohort Students only - Administered by PDCE",
+      "subject_code": "EDCP",
+      "course_number": "559",
+      "section_number": "62A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FU, GUOPENG"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "21",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Current models and methods of inquiry in science education.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

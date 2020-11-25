@@ -1,1 +1,45 @@
-{"course_name":"PHIL 315","subject_code":"PHIL","course_number":"315","course_title":"Philosophy in the 18th Century","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=315&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 315 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=315&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"PHIL","course_number":"315","section_number":"001","building":"Buchanan","room":"B313","instructors":["AMIJEE, FATEMA"],"totalRemaining":"40","currentlyRegistered":"38","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of 18th-century philosophy from Locke to Kant, including the writings of Berkeley, Rousseau, and Hume. The influence of science and religion on philosophy."}
+{
+  "course_name": "PHIL 315",
+  "subject_code": "PHIL",
+  "course_number": "315",
+  "course_title": "Philosophy in the 18th Century",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 315 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=315&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This course will meet remotely on Zoom. Synchronous attendance is encouraged, but not required. Lectures will be recorded and posted on Canvas for the benefit of those students who cannot attend synchronously.",
+      "subject_code": "PHIL",
+      "course_number": "315",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMIJEE, FATEMA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "40",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of 18th-century philosophy from Locke to Kant, including the writings of Berkeley, Rousseau, and Hume. The influence of science and religion on philosophy.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"DENT 556","subject_code":"DENT","course_number":"556","course_title":"Oral Radiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=556&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 556 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=556&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"556","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 2","description":" "}
+{
+  "course_name": "DENT 556",
+  "subject_code": "DENT",
+  "course_number": "556",
+  "course_title": "Oral Radiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=556&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 556 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=556&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "556",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

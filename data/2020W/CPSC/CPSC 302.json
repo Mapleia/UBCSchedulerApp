@@ -1,1 +1,74 @@
-{"course_name":"CPSC 302","subject_code":"CPSC","course_number":"302","course_title":"Numerical Computation for Algebraic Problems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=302&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 302 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=302&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"302","section_number":"101","building":" ","room":"","instructors":["BLOK, HENDRIK"],"totalRemaining":"0","currentlyRegistered":"99","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"CPSC 302 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=302&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"302","section_number":"1W1","building":" ","room":"","instructors":["BLOK, HENDRIK"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations."}
+{
+  "course_name": "CPSC 302",
+  "subject_code": "CPSC",
+  "course_number": "302",
+  "course_title": "Numerical Computation for Algebraic Problems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 302 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=302&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "302",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOK, HENDRIK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 302 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=302&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "302",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOK, HENDRIK"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

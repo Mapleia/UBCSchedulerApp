@@ -1,1 +1,43 @@
-{"course_name":"PHIL 551B","subject_code":"PHIL","course_number":"551B","course_title":"Philosophy of Mind - PHIL OF MIND","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=551B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PHIL 551B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=551B&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHIL","course_number":"551B","section_number":"001","building":" ","room":"","instructors":["THOMPSON, EVAN"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHIL 551B",
+  "subject_code": "PHIL",
+  "course_number": "551B",
+  "course_title": "Philosophy of Mind - PHIL OF MIND",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=551B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHIL 551B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=551B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "551B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, EVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

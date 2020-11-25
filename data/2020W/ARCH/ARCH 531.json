@@ -1,1 +1,44 @@
-{"course_name":"ARCH 531","subject_code":"ARCH","course_number":"531","course_title":"Architectural Technology II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=531&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 531 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=531&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ARCH","course_number":"531","section_number":"001","building":" ","room":"","instructors":["JOHNSON, GREGORY"],"totalRemaining":"3","currentlyRegistered":"72","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Analysis and design of advanced assemblies. Integration of multiple building systems within a wide range of construction types, and more complex enclosures in a variety of climatic conditions. Emphasis on technical performance, durability and sustainability."}
+{
+  "course_name": "ARCH 531",
+  "subject_code": "ARCH",
+  "course_number": "531",
+  "course_title": "Architectural Technology II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=531&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 531 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=531&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "531",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, GREGORY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "71",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis and design of advanced assemblies. Integration of multiple building systems within a wide range of construction types, and more complex enclosures in a variety of climatic conditions. Emphasis on technical performance, durability and sustainability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

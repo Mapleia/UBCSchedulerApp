@@ -1,1 +1,43 @@
-{"course_name":"ARCH 411","subject_code":"ARCH","course_number":"411","course_title":"Materials and Methods of Construction","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=411&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 411 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=411&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"ARCH","course_number":"411","section_number":"001","building":" ","room":"","instructors":["PECHET, BILL"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"An investigation of building materials and systems considering design objectives, environmental conditions, historical context, regulatory controls, and economic constraints. The major building systems of light wood frame, steel, and concrete and the technical and expressive opportunities inherent in each. Credit will be granted for only one of ARCH 411 or DES 232. Restricted to B.En.D. students."}
+{
+  "course_name": "ARCH 411",
+  "subject_code": "ARCH",
+  "course_number": "411",
+  "course_title": "Materials and Methods of Construction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 411 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=411&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "411",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PECHET, BILL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "An investigation of building materials and systems considering design objectives, environmental conditions, historical context, regulatory controls, and economic constraints. The major building systems of light wood frame, steel, and concrete and the technical and expressive opportunities inherent in each. Credit will be granted for only one of ARCH 411 or DES 232. Restricted to B.En.D. students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Seminar"
+  ]
+}

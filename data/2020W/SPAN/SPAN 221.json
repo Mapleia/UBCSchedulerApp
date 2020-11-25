@@ -1,1 +1,126 @@
-{"course_name":"SPAN 221","subject_code":"SPAN","course_number":"221","course_title":"Introduction to Hispanic Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=221&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"SPAN 221 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis that serve as a foundation for higher-level Spanish literature courses. Full course description: https://fhis.ubc.ca/course-description/span221/","subject_code":"SPAN","course_number":"221","section_number":"101","building":" ","room":"","instructors":["LAGRESA, ELIZABETH"],"totalRemaining":"8","currentlyRegistered":"32","generalRemaining":"8","restrictedRemaining":"0"},"201":{"status":" ","section":"SPAN 221 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"SPAN","course_number":"221","section_number":"201","building":" ","room":"","instructors":["BEASLEY-MURRAY, JONATHAN"],"totalRemaining":"21","currentlyRegistered":"29","generalRemaining":"21","restrictedRemaining":"0"},"W01":{"status":" ","section":"SPAN 221 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"SPAN 221 W01 is a general waitlist for all SPAN 221 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"SPAN","course_number":"221","section_number":"W01","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"},"W02":{"status":" ","section":"SPAN 221 W02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=W02&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"SPAN 221 W02 is a general waitlist for all SPAN 221 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"SPAN","course_number":"221","section_number":"W02","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"1","generalRemaining":"99","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis that serve as a foundation for higher-level Spanish literature courses."}
+{
+  "course_name": "SPAN 221",
+  "subject_code": "SPAN",
+  "course_number": "221",
+  "course_title": "Introduction to Hispanic Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=221&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 221 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis that serve as a foundation for higher-level Spanish literature courses. Full course description: https://fhis.ubc.ca/course-description/span221/",
+      "subject_code": "SPAN",
+      "course_number": "221",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAGRESA, ELIZABETH"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "31",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 221 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "SPAN",
+      "course_number": "221",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEASLEY-MURRAY, JONATHAN"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "28",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 221 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPAN 221 W01 is a general waitlist for all SPAN 221 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "SPAN",
+      "course_number": "221",
+      "section_number": "W01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 221 W02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=221&section=W02&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPAN 221 W02 is a general waitlist for all SPAN 221 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "SPAN",
+      "course_number": "221",
+      "section_number": "W02",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "1",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis that serve as a foundation for higher-level Spanish literature courses.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

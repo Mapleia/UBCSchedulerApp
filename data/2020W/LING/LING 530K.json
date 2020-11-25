@@ -1,1 +1,44 @@
-{"course_name":"LING 530K","subject_code":"LING","course_number":"530K","course_title":"Linguistic Problems in a Special Area - PROB IN SPC AREA","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=530K&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 530K 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=530K&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Topic: Syntax \u0013 more details to be confirmed","subject_code":"LING","course_number":"530K","section_number":"001","building":" ","room":"","instructors":["DECHAINE, ROSE-MARIE"],"totalRemaining":"22","currentlyRegistered":"3","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LING 530K",
+  "subject_code": "LING",
+  "course_number": "530K",
+  "course_title": "Linguistic Problems in a Special Area - PROB IN SPC AREA",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=530K&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 530K 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=530K&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Topic: Syntax \u0013 more details to be confirmed",
+      "subject_code": "LING",
+      "course_number": "530K",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DECHAINE, ROSE-MARIE"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "4",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"LING 505A","subject_code":"LING","course_number":"505A","course_title":"Issues in Morphological Theory and Analysis - MORPH THRY ANLYS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=505A&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"LING 505A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=505A&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"","subject_code":"LING","course_number":"505A","section_number":"002","building":" ","room":"","instructors":["TODOROVIC, NEDA"],"totalRemaining":"7","currentlyRegistered":"5","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Morphology from both historical and theoretical perspectives."}
+{
+  "course_name": "LING 505A",
+  "subject_code": "LING",
+  "course_number": "505A",
+  "course_title": "Issues in Morphological Theory and Analysis - MORPH THRY ANLYS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=505A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 505A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=505A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "505A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TODOROVIC, NEDA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "6",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Morphology from both historical and theoretical perspectives.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

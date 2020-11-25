@@ -1,1 +1,122 @@
-{"course_name":"CRWR 599","subject_code":"CRWR","course_number":"599","course_title":"Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=599&sessyr=2020&sesscd=W","sections":{"100":{"status":"Blocked","section":"CRWR 599 100","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=100&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"599","section_number":"100","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"67","generalRemaining":"0","restrictedRemaining":"0"},"200":{"status":"Blocked","section":"CRWR 599 200","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=200&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"599","section_number":"200","building":" ","room":"","instructors":["TBA"],"totalRemaining":"96","currentlyRegistered":"4","generalRemaining":"96","restrictedRemaining":"0"},"D20":{"status":"Blocked","section":"CRWR 599 D20","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=D20&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"599","section_number":"D20","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"D21":{"status":"Blocked","section":"CRWR 599 D21","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=D21&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"599","section_number":"D21","building":" ","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"7","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "CRWR 599",
+  "subject_code": "CRWR",
+  "course_number": "599",
+  "course_title": "Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=599&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CRWR 599 100",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=100&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "599",
+      "section_number": "100",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "67",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CRWR 599 200",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=200&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "599",
+      "section_number": "200",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "96",
+      "currentlyRegistered": "4",
+      "generalRemaining": "96",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CRWR 599 D20",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=D20&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "599",
+      "section_number": "D20",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CRWR 599 D21",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=599&section=D21&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "599",
+      "section_number": "D21",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

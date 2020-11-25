@@ -1,1 +1,44 @@
-{"course_name":"LARC 598","subject_code":"LARC","course_number":"598","course_title":"Graduate Project Part II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=598&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"LARC 598 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=598&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" Tue Fri","start":"13:30","end":"18:00","comments":"","subject_code":"LARC","course_number":"598","section_number":"001","building":"To Be Announced","room":"","instructors":["LOKMAN, KEES"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 9","description":"Design component, completion, and defense of the graduation design project."}
+{
+  "course_name": "LARC 598",
+  "subject_code": "LARC",
+  "course_number": "598",
+  "course_title": "Graduate Project Part II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 598 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=598&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "598",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOKMAN, KEES"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 9,
+  "description": "Design component, completion, and defense of the graduation design project.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

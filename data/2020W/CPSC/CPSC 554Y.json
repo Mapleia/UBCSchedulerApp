@@ -1,1 +1,44 @@
-{"course_name":"CPSC 554Y","subject_code":"CPSC","course_number":"554Y","course_title":"Topics in Human-Computer Interaction - AR/VR INTERCTN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=554Y&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CPSC 554Y 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=554Y&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"CPSC","course_number":"554Y","section_number":"201","building":"Forest Sciences Centre","room":"2330","instructors":["YOON, DONGWOOK"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 554Y",
+  "subject_code": "CPSC",
+  "course_number": "554Y",
+  "course_title": "Topics in Human-Computer Interaction - AR/VR INTERCTN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=554Y&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 554Y 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=554Y&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "554Y",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOON, DONGWOOK"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

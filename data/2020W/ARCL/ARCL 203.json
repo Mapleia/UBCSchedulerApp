@@ -1,1 +1,46 @@
-{"course_name":"ARCL 203","subject_code":"ARCL","course_number":"203","course_title":"Archaeological Methods","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=203&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARCL 203 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=203&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"ARCL 203 is an exploration of the methods and ideas in archaeology. Our goal is to understand what archaeologists do, what they look for and find, how they make sense of their results, and how they arrive at an understanding of history through a study of things from the past. We will take a tour though key case studies to learn about the principal archaeological tools for understanding patterns in landscapes, time, society, and culture. As an anthropological enquiry, we\u0019ll be especially attentive to the situated perspectives of both archaeologists and the people whose history they attempt to understand.","subject_code":"ARCL","course_number":"203","section_number":"001","building":" ","room":"","instructors":["MARTINDALE, ANDREW","BALDAUF, AVRIL","DANIEL, STEPHEN"],"totalRemaining":"45","currentlyRegistered":"105","generalRemaining":"45","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduces the methods and principles applied in anthropological archaeology and cultural-historical research."}
+{
+  "course_name": "ARCL 203",
+  "subject_code": "ARCL",
+  "course_number": "203",
+  "course_title": "Archaeological Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=203&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 203 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=203&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "ARCL 203 is an exploration of the methods and ideas in archaeology. Our goal is to understand what archaeologists do, what they look for and find, how they make sense of their results, and how they arrive at an understanding of history through a study of things from the past. We will take a tour though key case studies to learn about the principal archaeological tools for understanding patterns in landscapes, time, society, and culture. As an anthropological enquiry, we\u0019ll be especially attentive to the situated perspectives of both archaeologists and the people whose history they attempt to understand.",
+      "subject_code": "ARCL",
+      "course_number": "203",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARTINDALE, ANDREW",
+        "BALDAUF, AVRIL",
+        "DANIEL, STEPHEN"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "100",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduces the methods and principles applied in anthropological archaeology and cultural-historical research.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

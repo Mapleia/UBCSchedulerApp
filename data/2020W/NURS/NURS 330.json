@@ -1,1 +1,45 @@
-{"course_name":"NURS 330","subject_code":"NURS","course_number":"330","course_title":"Theoretical Perspectives in Nursing: Adults/Older Adults and their Families","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=330&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"NURS 330 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=330&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Thu","start":"13:00","end":"16:00","comments":"","subject_code":"NURS","course_number":"330","section_number":"001","building":" ","room":"","instructors":["PHAM, CHANDRA","WYTENBROEK, LYDIA"],"totalRemaining":"0","currentlyRegistered":"121","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fundamental theories, concepts, evidence, and competencies pertaining to nursing practice with adults/older adults and their families."}
+{
+  "course_name": "NURS 330",
+  "subject_code": "NURS",
+  "course_number": "330",
+  "course_title": "Theoretical Perspectives in Nursing: Adults/Older Adults and their Families",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "NURS 330 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=330&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "330",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PHAM, CHANDRA",
+        "WYTENBROEK, LYDIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "121",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fundamental theories, concepts, evidence, and competencies pertaining to nursing practice with adults/older adults and their families.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

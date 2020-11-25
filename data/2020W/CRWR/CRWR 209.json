@@ -1,1 +1,70 @@
-{"course_name":"CRWR 209","subject_code":"CRWR","course_number":"209","course_title":"Introduction to Writing Fiction","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=209&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CRWR 209 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=209&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"12:30","end":"14:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will be offered online asynchronously with opportunities each week to engage with the Instructor, Teaching Assistants and students through synchronous/video interaction.","subject_code":"CRWR","course_number":"209","section_number":"001","building":" ","room":"","instructors":["VIGNA, JOHN"],"totalRemaining":"1","currentlyRegistered":"249","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":" ","section":"CRWR 209 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=209&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"12:30","end":"14:00","comments":"This is a blended learning course where 50% of the course takes place in-class and 50% online.","subject_code":"CRWR","course_number":"209","section_number":"002","building":" ","room":"","instructors":["LYON, ANNABEL"],"totalRemaining":"89","currentlyRegistered":"135","generalRemaining":"89","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An exploration of the writing of fiction, focusing on how a writer employs the technical elements of the craft of fiction. Manuscript submission not required for admission."}
+{
+  "course_name": "CRWR 209",
+  "subject_code": "CRWR",
+  "course_number": "209",
+  "course_title": "Introduction to Writing Fiction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=209&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 209 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=209&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will be offered online asynchronously with opportunities each week to engage with the Instructor, Teaching Assistants and students through synchronous/video interaction.",
+      "subject_code": "CRWR",
+      "course_number": "209",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VIGNA, JOHN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "247",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 209 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=209&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 2 (January-April) courses/sections will be held online. This particular course will be offered online asynchronously with opportunities each week to engage with the Instructor, Teaching Assistants and students through synchronous/video interaction.",
+      "subject_code": "CRWR",
+      "course_number": "209",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LYON, ANNABEL"
+      ],
+      "totalRemaining": "77",
+      "currentlyRegistered": "147",
+      "generalRemaining": "77",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An exploration of the writing of fiction, focusing on how a writer employs the technical elements of the craft of fiction. Manuscript submission not required for admission.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

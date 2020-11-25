@@ -1,1 +1,43 @@
-{"course_name":"MUSC 403V","subject_code":"MUSC","course_number":"403V","course_title":"Selected Topics in Music - BRASS PEDGOG/REP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=403V&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MUSC 403V 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=403V&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Fri","start":"12:00","end":"13:30","comments":"Open to all DMA, MM, and Diploma brass students; 3rd and 4th year brass students admitted based on instructor approval. Anticipating that music graduates will be engaged in some form of teaching throughout their professional career, this course is designed to train brass students in the area of brass pedagogy and repertoire. This course will survey brass literature from all periods of music history, including major solo repertory, etudes, method books, and excerpts. Students will develop a statement of teaching philosophy, discover basic resources of pedagogy specific to their instrument, design repertoire curriculum appropriate for varying levels of private study, and receive hands-on training as instructional mentors to beginning-level students involved in MUSC 112 Class Brass. This co and ~urse is offered on a rotating basis on alternate years.","subject_code":"MUSC","course_number":"403V","section_number":"001","building":" ","room":"","instructors":["WHITNEY, VALERIE"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students."}
+{
+  "course_name": "MUSC 403V",
+  "subject_code": "MUSC",
+  "course_number": "403V",
+  "course_title": "Selected Topics in Music - BRASS PEDGOG/REP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=403V&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 403V 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=403V&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "Open to all DMA, MM, and Diploma brass students; 3rd and 4th year brass students admitted based on instructor approval. Anticipating that music graduates will be engaged in some form of teaching throughout their professional career, this course is designed to train brass students in the area of brass pedagogy and repertoire. This course will survey brass literature from all periods of music history, including major solo repertory, etudes, method books, and excerpts. Students will develop a statement of teaching philosophy, discover basic resources of pedagogy specific to their instrument, design repertoire curriculum appropriate for varying levels of private study, and receive hands-on training as instructional mentors to beginning-level students involved in MUSC 112 Class Brass. This co and ~urse is offered on a rotating basis on alternate years.",
+      "subject_code": "MUSC",
+      "course_number": "403V",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WHITNEY, VALERIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

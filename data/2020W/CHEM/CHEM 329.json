@@ -1,1 +1,70 @@
-{"course_name":"CHEM 329","subject_code":"CHEM","course_number":"329","course_title":"Research Ethics and Data Analysis Skills","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=329&sessyr=2020&sesscd=W","sections":{"286":{"status":"Restricted","section":"CHEM 329 286","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=329&section=286&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"8:00","end":"9:30","comments":"","subject_code":"CHEM","course_number":"329","section_number":"286","building":"Chemistry","room":"D317","instructors":["PERRIN, DAVID"],"totalRemaining":"6","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"6"},"2W2":{"status":" ","section":"CHEM 329 2W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=329&section=2W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Thu","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"329","section_number":"2W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Research ethics; data analysis skills for chemical research. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing."}
+{
+  "course_name": "CHEM 329",
+  "subject_code": "CHEM",
+  "course_number": "329",
+  "course_title": "Research Ethics and Data Analysis Skills",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=329&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHEM 329 286",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=329&section=286&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "329",
+      "section_number": "286",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PERRIN, DAVID"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 329 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=329&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "329",
+      "section_number": "2W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Research ethics; data analysis skills for chemical research. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

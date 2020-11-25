@@ -1,1 +1,44 @@
-{"course_name":"CHBE 486","subject_code":"CHBE","course_number":"486","course_title":"Waste Management for Resource Recovery","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=486&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 486 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=486&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"16:30","end":"18:00","comments":"","subject_code":"CHBE","course_number":"486","section_number":"201","building":"Chemical and Biological Engineering Building","room":"102","instructors":["LAU, ANTHONY K"],"totalRemaining":"21","currentlyRegistered":"69","generalRemaining":"0","restrictedRemaining":"21"}},"credits":"Credits: 3","description":"Physico-chemical, thermal, and biological methods for purification of solid waste and wastewater, and conversion to bioproducts/industrial products, energy and clean water."}
+{
+  "course_name": "CHBE 486",
+  "subject_code": "CHBE",
+  "course_number": "486",
+  "course_title": "Waste Management for Resource Recovery",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=486&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 486 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=486&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "486",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAU, ANTHONY K"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 3,
+  "description": "Physico-chemical, thermal, and biological methods for purification of solid waste and wastewater, and conversion to bioproducts/industrial products, energy and clean water.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

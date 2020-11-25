@@ -1,1 +1,48 @@
-{"course_name":"PHRM 301R","subject_code":"PHRM","course_number":"301R","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301R&sessyr=2020&sesscd=W","sections":{"001":{"status":"Temp. Unavailable","section":"PHRM 301R 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301R&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Supporting Patients with Substance Use Disorders: The Pharmacist\u0019s RoleRegistration by Application: send a brief paragraph stating the reason(s) why you would like to register for the course to Dr. Price (ingrid.price@ubc.ca)","subject_code":"PHRM","course_number":"301R","section_number":"001","building":" ","room":"","instructors":["2","18","0","2","","in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"],"totalRemaining":"in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Thesis or essay."}
+{
+  "course_name": "PHRM 301R",
+  "subject_code": "PHRM",
+  "course_number": "301R",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301R&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Temp. Unavailable",
+      "section": "PHRM 301R 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301R&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Supporting Patients with Substance Use Disorders: The Pharmacist\u0019s RoleRegistration by Application: send a brief paragraph stating the reason(s) why you would like to register for the course to Dr. Price (ingrid.price@ubc.ca)",
+      "subject_code": "PHRM",
+      "course_number": "301R",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "18",
+        "0",
+        "2",
+        "",
+        "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Thesis or essay.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

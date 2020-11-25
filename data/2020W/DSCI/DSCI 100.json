@@ -1,1 +1,154 @@
-{"course_name":"DSCI 100","subject_code":"DSCI","course_number":"100","course_title":"Introduction to Data Science","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=100&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DSCI 100 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"18:00","end":"19:30","comments":"Note that DSCI 100 is also offered in term 2.","subject_code":"DSCI","course_number":"100","section_number":"001","building":" ","room":"","instructors":["CAMPBELL, TREVOR"],"totalRemaining":"3","currentlyRegistered":"177","generalRemaining":"3","restrictedRemaining":"0"},"002":{"status":" ","section":"DSCI 100 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"DSCI","course_number":"100","section_number":"002","building":"Hennings","room":"200","instructors":["TIMBERS, TIFFANY"],"totalRemaining":"13","currentlyRegistered":"167","generalRemaining":"13","restrictedRemaining":"0"},"003":{"status":" ","section":"DSCI 100 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"DSCI","course_number":"100","section_number":"003","building":"West Mall Swing Space","room":"122","instructors":["LEE, MELISSA"],"totalRemaining":"79","currentlyRegistered":"101","generalRemaining":"79","restrictedRemaining":"0"},"WL1":{"status":" ","section":"DSCI 100 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"18:00","end":"19:30","comments":"","subject_code":"DSCI","course_number":"100","section_number":"WL1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"WL2":{"status":" ","section":"DSCI 100 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"DSCI","course_number":"100","section_number":"WL2","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"16","currentlyRegistered":"14","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized."}
+{
+  "course_name": "DSCI 100",
+  "subject_code": "DSCI",
+  "course_number": "100",
+  "course_title": "Introduction to Data Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DSCI 100 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "Note that DSCI 100 is also offered in term 2.",
+      "subject_code": "DSCI",
+      "course_number": "100",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAMPBELL, TREVOR"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "174",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DSCI 100 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DSCI",
+      "course_number": "100",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TIMBERS, TIFFANY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "179",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DSCI 100 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "DSCI",
+      "course_number": "100",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, MELISSA"
+      ],
+      "totalRemaining": "44",
+      "currentlyRegistered": "136",
+      "generalRemaining": "44",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DSCI 100 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "DSCI",
+      "course_number": "100",
+      "section_number": "WL1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DSCI 100 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=100&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DSCI",
+      "course_number": "100",
+      "section_number": "WL2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

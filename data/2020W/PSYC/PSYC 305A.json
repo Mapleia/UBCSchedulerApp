@@ -1,1 +1,232 @@
-{"course_name":"PSYC 305A","subject_code":"PSYC","course_number":"305A","course_title":"Personality Psychology - PERSONALITY PSYC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=305A&sessyr=2020&sesscd=W","sections":{"901":{"status":" ","section":"PSYC 305A 901","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=901&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"17:00","end":"20:00","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"901","building":" ","room":"","instructors":["TRACY, JESSICA"],"totalRemaining":"63","currentlyRegistered":"47","generalRemaining":"63","restrictedRemaining":"0"},"001":{"status":" ","section":"PSYC 305A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"001","building":" ","room":"","instructors":["KING, DAVID"],"totalRemaining":"3","currentlyRegistered":"217","generalRemaining":"3","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 305A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"002","building":" ","room":"","instructors":["KING, DAVID"],"totalRemaining":"3","currentlyRegistered":"177","generalRemaining":"3","restrictedRemaining":"0"},"003":{"status":"Full","section":"PSYC 305A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"003","building":" ","room":"","instructors":["ASSANAND, SUNAINA"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"004":{"status":"Full","section":"PSYC 305A 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"004","building":" ","room":"","instructors":["ASSANAND, SUNAINA"],"totalRemaining":"0","currentlyRegistered":"130","generalRemaining":"0","restrictedRemaining":"0"},"005":{"status":"Full","section":"PSYC 305A 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=005&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"PSYC","course_number":"305A","section_number":"005","building":" ","room":"","instructors":["ASSANAND, SUNAINA"],"totalRemaining":"0","currentlyRegistered":"140","generalRemaining":"0","restrictedRemaining":"0"},"99A":{"status":" ","section":"PSYC 305A 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"Please note that this is a distance learning section and may have no synchronous (live, real-time) component.","subject_code":"PSYC","course_number":"305A","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["KING, DAVID"],"totalRemaining":"6","currentlyRegistered":"104","generalRemaining":"6","restrictedRemaining":"0"},"99C":{"status":"Full","section":"PSYC 305A 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"Please note that this is a distance learning section and may have no synchronous (live, real-time) component.","subject_code":"PSYC","course_number":"305A","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["KING, DAVID"],"totalRemaining":"0","currentlyRegistered":"110","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theory and research on individual differences in motivation, emotion, and social behaviour."}
+{
+  "course_name": "PSYC 305A",
+  "subject_code": "PSYC",
+  "course_number": "305A",
+  "course_title": "Personality Psychology - PERSONALITY PSYC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=305A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 305A 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TRACY, JESSICA"
+      ],
+      "totalRemaining": "63",
+      "currentlyRegistered": "47",
+      "generalRemaining": "63",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 305A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KING, DAVID"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "215",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 305A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KING, DAVID"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "173",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 305A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASSANAND, SUNAINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 305A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASSANAND, SUNAINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "130",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 305A 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASSANAND, SUNAINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 305A 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please note that this is a distance learning section and may have no synchronous (live, real-time) component.",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KING, DAVID"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "103",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 305A 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=305A&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please note that this is a distance learning section and may have no synchronous (live, real-time) component.",
+      "subject_code": "PSYC",
+      "course_number": "305A",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KING, DAVID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "110",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory and research on individual differences in motivation, emotion, and social behaviour.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"SPAN 357","subject_code":"SPAN","course_number":"357","course_title":"The Golden Age of Peninsular Literature and Culture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=357&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"SPAN 357 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=357&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Tradition, faith, conflict, prosperity, and decadence in literature and everyday life from the Middle Ages to 1700. Full description: https://fhis.ubc.ca/course-description/span357/","subject_code":"SPAN","course_number":"357","section_number":"101","building":" ","room":"","instructors":["LAGRESA, ELIZABETH"],"totalRemaining":"28","currentlyRegistered":"12","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Tradition, faith, conflict, prosperity, and decadence in literature and everyday life from the Middle Ages to 1700."}
+{
+  "course_name": "SPAN 357",
+  "subject_code": "SPAN",
+  "course_number": "357",
+  "course_title": "The Golden Age of Peninsular Literature and Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=357&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 357 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=357&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Tradition, faith, conflict, prosperity, and decadence in literature and everyday life from the Middle Ages to 1700. Full description: https://fhis.ubc.ca/course-description/span357/",
+      "subject_code": "SPAN",
+      "course_number": "357",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAGRESA, ELIZABETH"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "12",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Tradition, faith, conflict, prosperity, and decadence in literature and everyday life from the Middle Ages to 1700.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

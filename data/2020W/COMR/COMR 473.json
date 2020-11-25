@@ -1,1 +1,127 @@
-{"course_name":"COMR 473","subject_code":"COMR","course_number":"473","course_title":"Business Finance","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=473&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"COMR 473 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"8:00","end":"9:00","comments":"Restricted to non-Commerce students only (COMR473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.","subject_code":"COMR","course_number":"473","section_number":"101","building":" ","room":"","instructors":["DEGRAAF, DARREN"],"totalRemaining":"11","currentlyRegistered":"106","generalRemaining":"5","restrictedRemaining":"6"},"102":{"status":" ","section":"COMR 473 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=102&sessyr=2020&sesscd=W","activity":"Flexible Learning","term":"1","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"This section will be offered in a flexible learning format. The in person portion will be conducted online.Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.","subject_code":"COMR","course_number":"473","section_number":"102","building":" ","room":"","instructors":["LOMBARD, CAREN"],"totalRemaining":"16","currentlyRegistered":"34","generalRemaining":"8","restrictedRemaining":"8"},"201":{"status":" ","section":"COMR 473 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.","subject_code":"COMR","course_number":"473","section_number":"201","building":" ","room":"","instructors":["PIZARRO ZUNIGA, JOSE"],"totalRemaining":"15","currentlyRegistered":"105","generalRemaining":"5","restrictedRemaining":"10"},"202":{"status":"Full","section":"COMR 473 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=202&sessyr=2020&sesscd=W","activity":"Flexible Learning","term":"2","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"This section will be offered in a flexible learning format. The in person portion will be conducted online.Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.","subject_code":"COMR","course_number":"473","section_number":"202","building":" ","room":"","instructors":["LOMBARD, CAREN"],"totalRemaining":"0","currentlyRegistered":"52","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298."}
+{
+  "course_name": "COMR 473",
+  "subject_code": "COMR",
+  "course_number": "473",
+  "course_title": "Business Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=473&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMR 473 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "Restricted to non-Commerce students only (COMR473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
+      "subject_code": "COMR",
+      "course_number": "473",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEGRAAF, DARREN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "104",
+      "generalRemaining": "4",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": " ",
+      "section": "COMR 473 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=102&sessyr=2020&sesscd=W",
+      "activity": "Flexible Learning",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "This section will be offered in a flexible learning format. The in person portion will be conducted online.Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
+      "subject_code": "COMR",
+      "course_number": "473",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOMBARD, CAREN"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "34",
+      "generalRemaining": "8",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "COMR 473 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
+      "subject_code": "COMR",
+      "course_number": "473",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PIZARRO ZUNIGA, JOSE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "111",
+      "generalRemaining": "2",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Full",
+      "section": "COMR 473 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=473&section=202&sessyr=2020&sesscd=W",
+      "activity": "Flexible Learning",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "This section will be offered in a flexible learning format. The in person portion will be conducted online.Restricted to non-Commerce students only (COMR 473 cannot be counted for credit in the BCom program). If you have been admitted by your Faculty to the Minor in Commerce or you are in another approved program for which this course is a requirement, and you are unable to register in any section of this course in your final year of study, you may submit a registration request using the form available at mybcom.sauder.ubc.ca/regi-assist. Commerce course registration is managed centrally by the UBC Sauder Undergraduate Office. Change of Registration (Add/Drop) forms signed by instructors will not be accepted.",
+      "subject_code": "COMR",
+      "course_number": "473",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOMBARD, CAREN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "52",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM 298.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Flexible Learning"
+  ]
+}

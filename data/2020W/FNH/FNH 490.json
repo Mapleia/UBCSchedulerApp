@@ -1,1 +1,43 @@
-{"course_name":"FNH 490","subject_code":"FNH","course_number":"490","course_title":"Advanced Topics in Food, Nutrition, and Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=490&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FNH 490 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=490&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"13:00","end":"16:00","comments":"Food Safety and Quality Management: practical skills and knowledge, in demand by the food industry, on sanitation, environmental monitoring, global food safety standards and internal audits. The instructor, Rebecca Robertson, has extensive practical experience in the food industry in BC.  The course format will involve lectures, instructor led-discussions, small-group work and presentations.Prerequisites: FNH 403","subject_code":"FNH","course_number":"490","section_number":"001","building":"Food, Nutrition and Health","room":"50","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Analysis and interpretation of current issues in food, nutrition and health."}
+{
+  "course_name": "FNH 490",
+  "subject_code": "FNH",
+  "course_number": "490",
+  "course_title": "Advanced Topics in Food, Nutrition, and Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=490&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 490 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=490&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Food Safety and Quality Management: practical skills and knowledge, in demand by the food industry, on sanitation, environmental monitoring, global food safety standards and internal audits. The instructor, Rebecca Robertson, has extensive practical experience in the food industry in BC.  The course format will involve lectures, instructor led-discussions, small-group work and presentations.Prerequisites: FNH 403",
+      "subject_code": "FNH",
+      "course_number": "490",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBERTSON, REBECCA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis and interpretation of current issues in food, nutrition and health.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

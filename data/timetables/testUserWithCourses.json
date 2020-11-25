@@ -1,0 +1,66 @@
+{
+    "Schedule": {
+        "1": [
+            {
+                "activity": "Web-Oriented Course",
+                "start": "09:00",
+                "course": "BIOL 112",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "BIOL 112 101",
+                "term": "1",
+                "end": "09:50",
+                "status": "Blocked"
+            },
+            {
+                "activity": "Tutorial",
+                "start": "08:00",
+                "course": "BIOL 112",
+                "days": ["MON"],
+                "section": "BIOL 112 T01",
+                "term": "1",
+                "end": "08:50",
+                "status": " "
+            }
+        ],
+        "2": [
+            {
+                "activity": "Web-Oriented Course",
+                "start": "11:00",
+                "course": "CPSC 210",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "CPSC 210 201",
+                "term": "2",
+                "end": "11:50",
+                "status": "Restricted"
+            },
+            {
+                "activity": "Laboratory",
+                "start": "09:00",
+                "course": "CPSC 210",
+                "days": ["MON"],
+                "section": "CPSC 210 L2A",
+                "term": "2",
+                "end": "10:50",
+                "status": "Restricted"
+            }
+        ]
+    },
+    "Term": "2020W",
+    "Preferences": [
+        "AFTERNOON",
+        "EVENING",
+        "MORNING"
+    ],
+    "Course List": [
+        "CPSC 210",
+        "BIOL 112"
+    ]
+}

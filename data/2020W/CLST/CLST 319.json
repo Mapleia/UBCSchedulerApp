@@ -1,1 +1,45 @@
-{"course_name":"CLST 319","subject_code":"CLST","course_number":"319","course_title":"The Roman Army","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=319&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 319 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=319&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CLST","course_number":"319","section_number":"001","building":"Buchanan","room":"A202","instructors":["BABLITZ, LEANNE"],"totalRemaining":"4","currentlyRegistered":"74","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Rome's military from the early Republic to the Imperial period. Topics range from those of a military nature such as equipment and strategy to social topics such as policing and marriage of soldiers."}
+{
+  "course_name": "CLST 319",
+  "subject_code": "CLST",
+  "course_number": "319",
+  "course_title": "The Roman Army",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=319&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 319 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=319&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "CLST",
+      "course_number": "319",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BABLITZ, LEANNE"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "71",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Rome's military from the early Republic to the Imperial period. Topics range from those of a military nature such as equipment and strategy to social topics such as policing and marriage of soldiers.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

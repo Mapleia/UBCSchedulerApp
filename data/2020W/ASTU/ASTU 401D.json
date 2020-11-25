@@ -1,1 +1,46 @@
-{"course_name":"ASTU 401D","subject_code":"ASTU","course_number":"401D","course_title":"Special Topics in Arts Studies - DIRECTED STUDY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=401D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ASTU 401D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=401D&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"Directed Studies Course restricted to students in the Bachelor of Media Studies program. Registration by instructor permission only.","subject_code":"ASTU","course_number":"401D","section_number":"001","building":"","room":"","instructors":["1","0","1","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Selected topics offered by a distinguished visitor to the campus. For upcoming offerings including course descriptions and possible enrolment restrictions, please see section information in the UBC course schedule."}
+{
+  "course_name": "ASTU 401D",
+  "subject_code": "ASTU",
+  "course_number": "401D",
+  "course_title": "Special Topics in Arts Studies - DIRECTED STUDY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=401D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASTU 401D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=401D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Directed Studies Course restricted to students in the Bachelor of Media Studies program. Registration by instructor permission only.",
+      "subject_code": "ASTU",
+      "course_number": "401D",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "0",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Selected topics offered by a distinguished visitor to the campus. For upcoming offerings including course descriptions and possible enrolment restrictions, please see section information in the UBC course schedule.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"LING 431","subject_code":"LING","course_number":"431","course_title":"Field Methods I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=431&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 431 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=431&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"YOU WILL NEED TO HAVE LING 300 AND LING 311 AS A PRE-REQUISITES FOR THIS COURSE","subject_code":"LING","course_number":"431","section_number":"001","building":" ","room":"","instructors":["DAVIS, HENRY THOMAS"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Elicitation, transcription, organization, and analysis of linguistic data from a native speaker of a language not commonly studied. Practical experience in the use of fieldwork equipment."}
+{
+  "course_name": "LING 431",
+  "subject_code": "LING",
+  "course_number": "431",
+  "course_title": "Field Methods I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=431&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 431 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=431&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "YOU WILL NEED TO HAVE LING 300 AND LING 311 AS A PRE-REQUISITES FOR THIS COURSE",
+      "subject_code": "LING",
+      "course_number": "431",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAVIS, HENRY THOMAS"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Elicitation, transcription, organization, and analysis of linguistic data from a native speaker of a language not commonly studied. Practical experience in the use of fieldwork equipment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

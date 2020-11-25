@@ -1,1 +1,43 @@
-{"course_name":"MUSC 371S","subject_code":"MUSC","course_number":"371S","course_title":"Music Performance (Secondary) - SIGHTREADING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=371S&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"MUSC 371S 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=371S&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"15:30","end":"16:30","comments":"Small group class; exploration of skill-sets, experiential exercises. No pre-req, can be taken in any year. This course is for students who would like to deepen their understanding of sight-reading as a compendium of skills,implemented  in a low-stress and supportive environment of non-competitive investigation blending substantive exploration of tools and means, reflections on cognitive obstacles, and confidence-building discussion. Weekly sessions will deconstruct sight-reading by examining its components separately and combining them with new awareness of process.","subject_code":"MUSC","course_number":"371S","section_number":"001","building":" ","room":"","instructors":["SHARON, RENA"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"Private instruction, vocal or instrumental."}
+{
+  "course_name": "MUSC 371S",
+  "subject_code": "MUSC",
+  "course_number": "371S",
+  "course_title": "Music Performance (Secondary) - SIGHTREADING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=371S&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 371S 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=371S&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "16:30",
+      "comments": "Small group class; exploration of skill-sets, experiential exercises. No pre-req, can be taken in any year. This course is for students who would like to deepen their understanding of sight-reading as a compendium of skills,implemented  in a low-stress and supportive environment of non-competitive investigation blending substantive exploration of tools and means, reflections on cognitive obstacles, and confidence-building discussion. Weekly sessions will deconstruct sight-reading by examining its components separately and combining them with new awareness of process.",
+      "subject_code": "MUSC",
+      "course_number": "371S",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHARON, RENA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

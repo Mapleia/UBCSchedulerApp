@@ -1,1 +1,175 @@
-{"course_name":"CPEN 400A","subject_code":"CPEN","course_number":"400A","course_title":"Topics in Computer Engineering - BLDG MDRN WEBAPP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=400A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPEN 400A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"ELEC students, please register in the waiting list and contact the instructor for approval, thanks.","subject_code":"CPEN","course_number":"400A","section_number":"101","building":" ","room":"","instructors":["PATTABIRAMAN, KARTHIK"],"totalRemaining":"0","currentlyRegistered":"125","generalRemaining":"0","restrictedRemaining":"0"},"L1A":{"status":" ","section":"CPEN 400A L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:00","end":"15:00","comments":"","subject_code":"CPEN","course_number":"400A","section_number":"L1A","building":" ","room":"","instructors":["PATTABIRAMAN, KARTHIK"],"totalRemaining":"17","currentlyRegistered":"33","generalRemaining":"17","restrictedRemaining":"0"},"L1B":{"status":" ","section":"CPEN 400A L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1B&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"","subject_code":"CPEN","course_number":"400A","section_number":"L1B","building":" ","room":"","instructors":["PATTABIRAMAN, KARTHIK"],"totalRemaining":"7","currentlyRegistered":"43","generalRemaining":"7","restrictedRemaining":"0"},"L1C":{"status":" ","section":"CPEN 400A L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1C&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:00","end":"11:00","comments":"","subject_code":"CPEN","course_number":"400A","section_number":"L1C","building":" ","room":"","instructors":["PATTABIRAMAN, KARTHIK"],"totalRemaining":"1","currentlyRegistered":"49","generalRemaining":"1","restrictedRemaining":"0"},"L1W":{"status":" ","section":"CPEN 400A L1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"400A","section_number":"L1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CPEN 400A 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"400A","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"29","currentlyRegistered":"0","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Lectures or projects on subjects of current interest."}
+{
+  "course_name": "CPEN 400A",
+  "subject_code": "CPEN",
+  "course_number": "400A",
+  "course_title": "Topics in Computer Engineering - BLDG MDRN WEBAPP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=400A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 400A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "ELEC students, please register in the waiting list and contact the instructor for approval, thanks.",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATTABIRAMAN, KARTHIK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "125",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 400A L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATTABIRAMAN, KARTHIK"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "33",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 400A L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATTABIRAMAN, KARTHIK"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "43",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 400A L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PATTABIRAMAN, KARTHIK"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 400A L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 400A 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=400A&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "400A",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "0",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Lectures or projects on subjects of current interest.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

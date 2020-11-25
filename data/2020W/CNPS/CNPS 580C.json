@@ -1,1 +1,70 @@
-{"course_name":"CNPS 580C","subject_code":"CNPS","course_number":"580C","course_title":"Problems in Education - PROB IN EDUC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=580C&sessyr=2020&sesscd=W","sections":{"003":{"status":"Blocked","section":"CNPS 580C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=580C&section=003&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CNPS","course_number":"580C","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"004":{"status":"Blocked","section":"CNPS 580C 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=580C&section=004&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CNPS","course_number":"580C","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Investigation and report of a problem."}
+{
+  "course_name": "CNPS 580C",
+  "subject_code": "CNPS",
+  "course_number": "580C",
+  "course_title": "Problems in Education - PROB IN EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=580C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CNPS 580C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=580C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CNPS",
+      "course_number": "580C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CNPS 580C 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=580C&section=004&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CNPS",
+      "course_number": "580C",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Investigation and report of a problem.",
+  "terms": [
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

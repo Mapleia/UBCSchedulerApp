@@ -1,1 +1,45 @@
-{"course_name":"ENGL 394","subject_code":"ENGL","course_number":"394","course_title":"Canadian Environmental Writing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=394&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 394 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=394&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"ENGL","course_number":"394","section_number":"001","building":"West Mall Swing Space","room":"405","instructors":["HART, ALEXANDER"],"totalRemaining":"28","currentlyRegistered":"17","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Ecocritical theory and its application to Canadian literature, including Indigenous authors. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 394 and/or 458."}
+{
+  "course_name": "ENGL 394",
+  "subject_code": "ENGL",
+  "course_number": "394",
+  "course_title": "Canadian Environmental Writing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=394&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 394 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=394&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "394",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HART, ALEXANDER"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "18",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Ecocritical theory and its application to Canadian literature, including Indigenous authors. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 394 and/or 458.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

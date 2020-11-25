@@ -1,1 +1,99 @@
-{"course_name":"APBI 499","subject_code":"APBI","course_number":"499","course_title":"Undergraduate Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=499&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"APBI 499 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:30","comments":"Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.","subject_code":"APBI","course_number":"499","section_number":"101","building":"MacMillan","room":"358","instructors":["VON KEYSERLINGK, MARINA","WEARY, DANIEL"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"102":{"status":"Blocked","section":"APBI 499 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=102&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:30","comments":"Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.","subject_code":"APBI","course_number":"499","section_number":"102","building":"MacMillan","room":"358","instructors":["VON KEYSERLINGK, MARINA","WEARY, DANIEL"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"4","restrictedRemaining":"0"},"001":{"status":"Blocked","section":"APBI 499 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:30","comments":"Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.","subject_code":"APBI","course_number":"499","section_number":"001","building":"MacMillan","room":"358","instructors":["VON KEYSERLINGK, MARINA","WEARY, DANIEL"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Design and execution of an experimental/analytical research project leading to the preparation of a thesis."}
+{
+  "course_name": "APBI 499",
+  "subject_code": "APBI",
+  "course_number": "499",
+  "course_title": "Undergraduate Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=499&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APBI 499 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "499",
+      "section_number": "101",
+      "building": "MacMillan",
+      "room": "358",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 499 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=102&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "499",
+      "section_number": "102",
+      "building": "MacMillan",
+      "room": "358",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "APBI 499 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=499&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "Information on APBI 499 can be found at https://wiki.ubc.ca/Course:APBI499.  Please note that students registered in the thesis will report primarily to their academic supervisor and will meet up to two times per term with the listed course instructors.  Contact the listed course instructors for information regarding dates. Registration is through the APBI Program Advisor, Lesley Dampier at lesley.dampier@ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "499",
+      "section_number": "001",
+      "building": "MacMillan",
+      "room": "358",
+      "instructors": [
+        "VON KEYSERLINGK, MARINA",
+        "WEARY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Design and execution of an experimental/analytical research project leading to the preparation of a thesis.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

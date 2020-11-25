@@ -1,1 +1,70 @@
-{"course_name":"VISA 491","subject_code":"VISA","course_number":"491","course_title":"Advanced Tutorial in Studio II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=491&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 491 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=491&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Mon","start":"8:00","end":"9:00","comments":"","subject_code":"VISA","course_number":"491","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"4"},"002":{"status":"Blocked","section":"VISA 491 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=491&section=002&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon","start":"8:00","end":"9:00","comments":"","subject_code":"VISA","course_number":"491","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Advanced work in contemporary and historical aspects of studio practice. Permission of instructor required."}
+{
+  "course_name": "VISA 491",
+  "subject_code": "VISA",
+  "course_number": "491",
+  "course_title": "Advanced Tutorial in Studio II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 491 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=491&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "VISA",
+      "course_number": "491",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "VISA 491 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=491&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "VISA",
+      "course_number": "491",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Advanced work in contemporary and historical aspects of studio practice. Permission of instructor required.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

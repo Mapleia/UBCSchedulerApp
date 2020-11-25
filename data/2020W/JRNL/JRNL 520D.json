@@ -1,1 +1,43 @@
-{"course_name":"JRNL 520D","subject_code":"JRNL","course_number":"520D","course_title":"Special Topics in Contemporary Journalism - REPRT INDGENOUS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=520D&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"JRNL 520D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=520D&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"9:30","end":"12:30","comments":"Approval of instructor required for registration in course.  Email jrnl.journal@ubc.ca for application form and instructions to apply.","subject_code":"JRNL","course_number":"520D","section_number":"002","building":"Sing Tao Building","room":"204","instructors":["GRETSINGER, KATHRYN"],"totalRemaining":"6","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "JRNL 520D",
+  "subject_code": "JRNL",
+  "course_number": "520D",
+  "course_title": "Special Topics in Contemporary Journalism - REPRT INDGENOUS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=520D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "JRNL 520D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=520D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Approval of instructor required for registration in course.  Email jrnl.journal@ubc.ca for application form and instructions to apply.",
+      "subject_code": "JRNL",
+      "course_number": "520D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRETSINGER, KATHRYN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,72 @@
-{"course_name":"APBI 311","subject_code":"APBI","course_number":"311","course_title":"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=311&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 311 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=311&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Students in the Faculty of Land and Food Systems should be registering in the APBI 311 section, not the BIOL 364 section.","subject_code":"APBI","course_number":"311","section_number":"001","building":"Wesbrook","room":"100","instructors":["BRAUNER, COLIN"],"totalRemaining":"14","currentlyRegistered":"32","generalRemaining":"12","restrictedRemaining":"2"},"0W1":{"status":" ","section":"APBI 311 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=311&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for APBI 311 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"APBI","course_number":"311","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Cardiovascular, respiratory and osmoregulatory physiology of vertebrates."}
+{
+  "course_name": "APBI 311",
+  "subject_code": "APBI",
+  "course_number": "311",
+  "course_title": "Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Students in the Faculty of Land and Food Systems should be registering in the APBI 311 section, not the BIOL 364 section.",
+      "subject_code": "APBI",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSEN, DAVID"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "33",
+      "generalRemaining": "11",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "APBI 311 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=311&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for APBI 311 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "311",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Cardiovascular, respiratory and osmoregulatory physiology of vertebrates.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

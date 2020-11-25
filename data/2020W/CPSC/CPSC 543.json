@@ -1,1 +1,43 @@
-{"course_name":"CPSC 543","subject_code":"CPSC","course_number":"543","course_title":"Physical User Interface Design and Evaluation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=543&sessyr=2020&sesscd=W","sections":{"201":{"status":"Unreleased","section":"CPSC 543 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=543&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"10:00","end":"12:00","comments":"By Permission of instructorBy Permission of instructor","subject_code":"CPSC","course_number":"543","section_number":"201","building":"Forest Sciences Centre","room":"2330","instructors":["MACLEAN, KARON"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 543",
+  "subject_code": "CPSC",
+  "course_number": "543",
+  "course_title": "Physical User Interface Design and Evaluation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=543&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "CPSC 543 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=543&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "By Permission of instructorBy Permission of instructor",
+      "subject_code": "CPSC",
+      "course_number": "543",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACLEAN, KARON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

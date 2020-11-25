@@ -1,1 +1,69 @@
-{"course_name":"SOWK 325","subject_code":"SOWK","course_number":"325","course_title":"Indigenous Peoples and Critical Social Work Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=325&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"SOWK 325 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=325&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"","subject_code":"SOWK","course_number":"325","section_number":"001","building":" ","room":"","instructors":["NIGHTBIRD, MARIE"],"totalRemaining":"0","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"SOWK 325 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=325&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"","subject_code":"SOWK","course_number":"325","section_number":"002","building":" ","room":"","instructors":["KOBLE, JENNIFER-LEE"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Contemporary social issues facing Indigenous peoples and communities examined in the context of the history of Settler-Canadian/Indigenous relations; the impact of Settler-Canadian institutions upon Indigenous peoples; implications for social policy and social work practice. Credit will be granted for only one of SOWK 325 or 425. Enrolment is limited to students in the BSW program."}
+{
+  "course_name": "SOWK 325",
+  "subject_code": "SOWK",
+  "course_number": "325",
+  "course_title": "Indigenous Peoples and Critical Social Work Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=325&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOWK 325 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=325&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "325",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NIGHTBIRD, MARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOWK 325 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=325&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "325",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOBLE, JENNIFER-LEE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Contemporary social issues facing Indigenous peoples and communities examined in the context of the history of Settler-Canadian/Indigenous relations; the impact of Settler-Canadian institutions upon Indigenous peoples; implications for social policy and social work practice. Credit will be granted for only one of SOWK 325 or 425. Enrolment is limited to students in the BSW program.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

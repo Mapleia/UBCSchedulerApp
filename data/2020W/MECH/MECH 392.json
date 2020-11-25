@@ -1,1 +1,71 @@
-{"course_name":"MECH 392","subject_code":"MECH","course_number":"392","course_title":"Manufacturing Processes","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=392&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"MECH 392 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=392&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:00","comments":"","subject_code":"MECH","course_number":"392","section_number":"101","building":" ","room":"","instructors":["MOHAMMADPANAH FOROUTAGHE, AHMAD"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Blocked","section":"MECH 392 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=392&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"392","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"Manufacturing characteristics of materials and their control. Metal forming processes, plastic deformations, rolling, forging, drawing, extrusion, sheet metal forming. Machining processes and machine tools, turning, milling, drilling, grinding. Metal fabrication, welding and casting. An introduction to process planning."}
+{
+  "course_name": "MECH 392",
+  "subject_code": "MECH",
+  "course_number": "392",
+  "course_title": "Manufacturing Processes",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=392&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 392 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=392&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "392",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 392 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=392&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "392",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Manufacturing characteristics of materials and their control. Metal forming processes, plastic deformations, rolling, forging, drawing, extrusion, sheet metal forming. Machining processes and machine tools, turning, milling, drilling, grinding. Metal fabrication, welding and casting. An introduction to process planning.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

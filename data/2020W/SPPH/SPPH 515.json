@@ -1,1 +1,44 @@
-{"course_name":"SPPH 515","subject_code":"SPPH","course_number":"515","course_title":"Surveillance and Monitoring in Public Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=515&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"SPPH 515 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=515&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"Classroom Location: SPPH B108","subject_code":"SPPH","course_number":"515","section_number":"002","building":"School of Population and Public Health","room":"B108","instructors":["GALANIS, ELENI","OTTERSTATTER, MICHAEL"],"totalRemaining":"2","currentlyRegistered":"23","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SPPH 515",
+  "subject_code": "SPPH",
+  "course_number": "515",
+  "course_title": "Surveillance and Monitoring in Public Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=515&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 515 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=515&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "515",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALANIS, ELENI",
+        "OTTERSTATTER, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

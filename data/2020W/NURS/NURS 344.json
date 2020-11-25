@@ -1,1 +1,43 @@
-{"course_name":"NURS 344","subject_code":"NURS","course_number":"344","course_title":"Critical Inquiry and Leadership Synthesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=344&sessyr=2020&sesscd=W","sections":{"002":{"status":"STT","section":"NURS 344 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=344&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Wed","start":"13:00","end":"16:00","comments":"","subject_code":"NURS","course_number":"344","section_number":"002","building":"P. A. Woodward Instructional Resources Centre","room":"5","instructors":["MACPHEE, MAURA","RADU, RALUCA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 2","description":"Evidence is examined and synthesized to understand and identify theoretical insights to address a leadership challenge in professional practice."}
+{
+  "course_name": "NURS 344",
+  "subject_code": "NURS",
+  "course_number": "344",
+  "course_title": "Critical Inquiry and Leadership Synthesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "NURS 344 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=344&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "344",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": "Evidence is examined and synthesized to understand and identify theoretical insights to address a leadership challenge in professional practice.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

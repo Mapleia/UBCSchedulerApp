@@ -1,1 +1,44 @@
-{"course_name":"SOCI 384","subject_code":"SOCI","course_number":"384","course_title":"Sociology of Health and Illness","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=384&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"SOCI 384 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=384&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"Effective: August 24thThis class will be capped at 70 seats. No further registration is permitted.Please contact the instructor to be permitted in the waitlist.","subject_code":"SOCI","course_number":"384","section_number":"101","building":" ","room":"","instructors":["RICHARDSON, LINDSEY"],"totalRemaining":"0","currentlyRegistered":"76","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classic and contemporary sociological perspectives on health, illness, and health care.  Credit will be granted for only one of SOCI 384 and SOCI 484."}
+{
+  "course_name": "SOCI 384",
+  "subject_code": "SOCI",
+  "course_number": "384",
+  "course_title": "Sociology of Health and Illness",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=384&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SOCI 384 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=384&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Effective: August 24thThis class will be capped at 70 seats. No further registration is permitted.Please contact the instructor to be permitted in the waitlist.",
+      "subject_code": "SOCI",
+      "course_number": "384",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RICHARDSON, LINDSEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "76",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classic and contemporary sociological perspectives on health, illness, and health care.  Credit will be granted for only one of SOCI 384 and SOCI 484.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

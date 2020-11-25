@@ -1,1 +1,47 @@
-{"course_name":"MIDW 420","subject_code":"MIDW","course_number":"420","course_title":"Advanced Midwifery Clinical Care","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=420&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MIDW 420 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=420&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" Tue Wed Thu Fri","start":"9:00","end":"18:00","comments":"","subject_code":"MIDW","course_number":"420","section_number":"001","building":"To Be Announced","room":"","instructors":["CAMPBELL, KIM","MOMTAZIAN, TANYA"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 12","description":"Clinical education for midwifery care of pregnancy, birth, and the puerperium with an empahsis on abnormal situations in pregnancy, labour and birth, and in newborns.  Clinical practicum around the province.  Pass/Fail."}
+{
+  "course_name": "MIDW 420",
+  "subject_code": "MIDW",
+  "course_number": "420",
+  "course_title": "Advanced Midwifery Clinical Care",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "420",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "CAMPBELL, KIM",
+        "MOMTAZIAN, TANYA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 2,
+  "description": "Clinical education for midwifery care of pregnancy, birth, and the puerperium with an empahsis on abnormal situations in pregnancy, labour and birth, and in newborns.  Clinical practicum around the province.  Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

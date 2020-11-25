@@ -1,1 +1,70 @@
-{"course_name":"THTR 308","subject_code":"THTR","course_number":"308","course_title":"Sound Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=308&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 308 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=308&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"9:00","end":"13:00","comments":"NOTE: This course will be online in Term 1, and will focus on audio for media other than live performance.If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR FIST THTR XXX, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"THTR","course_number":"308","section_number":"001","building":" ","room":"","instructors":["PENNEFATHER, PATRICK"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"THTR 308 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=308&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":"9:00","end":"13:00","comments":"This is a WAITLIST section for THTR 308 Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"THTR","course_number":"308","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Audio design and production for theatre and other performance forms.\t"}
+{
+  "course_name": "THTR 308",
+  "subject_code": "THTR",
+  "course_number": "308",
+  "course_title": "Sound Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=308&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 308 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=308&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "13:00",
+      "comments": "NOTE: This course will be online in Term 1, and will focus on audio for media other than live performance.If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR FIST THTR XXX, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "308",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PENNEFATHER, PATRICK"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 308 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=308&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "13:00",
+      "comments": "This is a WAITLIST section for THTR 308 Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "308",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Audio design and production for theatre and other performance forms.\t",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

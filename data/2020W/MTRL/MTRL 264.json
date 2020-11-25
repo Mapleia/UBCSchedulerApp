@@ -1,1 +1,70 @@
-{"course_name":"MTRL 264","subject_code":"MTRL","course_number":"264","course_title":"Transport Phenomena II - Heat Transport","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=264&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"MTRL 264 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=264&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:00","comments":"","subject_code":"MTRL","course_number":"264","section_number":"201","building":"Geography","room":"200","instructors":["LIU, WENYING"],"totalRemaining":"0","currentlyRegistered":"107","generalRemaining":"0","restrictedRemaining":"0"},"T2A":{"status":"Full","section":"MTRL 264 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=264&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"14:30","end":"16:30","comments":"","subject_code":"MTRL","course_number":"264","section_number":"T2A","building":"Geography","room":"200","instructors":["LIU, WENYING"],"totalRemaining":"0","currentlyRegistered":"107","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Conduction, forced and natural convection, and radiation.  Heat transfer with fluid flow, applications of heat exchange, and solidification of castings."}
+{
+  "course_name": "MTRL 264",
+  "subject_code": "MTRL",
+  "course_number": "264",
+  "course_title": "Transport Phenomena II - Heat Transport",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=264&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MTRL 264 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=264&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "264",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIU, WENYING"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MTRL 264 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=264&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "264",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIU, WENYING"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Conduction, forced and natural convection, and radiation.  Heat transfer with fluid flow, applications of heat exchange, and solidification of castings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"ANTH 332","subject_code":"ANTH","course_number":"332","course_title":"Oral Tradition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=332&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ANTH 332 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=332&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"Oral Tradition:Performance and Power  (ANTH332) explores the dynamic power of oral expression, its manifold forms, meanings and consequences within diverse cultural and socio-political contexts. Oral traditions and other speech acts are embedded within particular histories of place and identity that are continually and communally unfolding. They are enacted and created for different audiences across shifting interpretive contexts and within various webs of power.  Primary questions addressed in this course include: Who controls meaning? How are verbal arts, speech acts and other performances related to diverse forms of knowledge and action?","subject_code":"ANTH","course_number":"332","section_number":"001","building":" ","room":"","instructors":["ROBERTSON, LESLIE"],"totalRemaining":"13","currentlyRegistered":"37","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An ethnographic perspective on the dynamics of oral tradition in various oral and literate cultures; the characteristics and roles of oral genres including folktale, genealogy, oral history, autobiography, and myth in these societies; and the relationship between orality and literacy."}
+{
+  "course_name": "ANTH 332",
+  "subject_code": "ANTH",
+  "course_number": "332",
+  "course_title": "Oral Tradition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=332&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 332 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=332&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "Oral Tradition:Performance and Power  (ANTH332) explores the dynamic power of oral expression, its manifold forms, meanings and consequences within diverse cultural and socio-political contexts. Oral traditions and other speech acts are embedded within particular histories of place and identity that are continually and communally unfolding. They are enacted and created for different audiences across shifting interpretive contexts and within various webs of power.  Primary questions addressed in this course include: Who controls meaning? How are verbal arts, speech acts and other performances related to diverse forms of knowledge and action?",
+      "subject_code": "ANTH",
+      "course_number": "332",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBERTSON, LESLIE"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "37",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An ethnographic perspective on the dynamics of oral tradition in various oral and literate cultures; the characteristics and roles of oral genres including folktale, genealogy, oral history, autobiography, and myth in these societies; and the relationship between orality and literacy.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

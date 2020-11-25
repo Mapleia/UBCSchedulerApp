@@ -1,1 +1,72 @@
-{"course_name":"CIVL 301","subject_code":"CIVL","course_number":"301","course_title":"Modelling and Decision-Making in Civil Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=301&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CIVL 301 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=301&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Do NOT contact the professor regarding registration problems.If the course is full, please fill out the online course registration form available at the below web link http://www.civil.ubc.ca/webform/course-request-registration-form and submit it electronically. Please check back regularly to see if space opens up in the class.  All applications requesting admission to the course will be considered in August.  Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  You will be advised in August if you have been admitted to the class or not.","subject_code":"CIVL","course_number":"301","section_number":"101","building":" ","room":"","instructors":["LENCE, BARBARA JEAN"],"totalRemaining":"19","currentlyRegistered":"160","generalRemaining":"0","restrictedRemaining":"19"},"T1A":{"status":"STT","section":"CIVL 301 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=301&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Thu","start":"14:00","end":"15:00","comments":"","subject_code":"CIVL","course_number":"301","section_number":"T1A","building":" ","room":"","instructors":["LENCE, BARBARA JEAN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods"}
+{
+  "course_name": "CIVL 301",
+  "subject_code": "CIVL",
+  "course_number": "301",
+  "course_title": "Modelling and Decision-Making in Civil Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 301 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=301&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Do NOT contact the professor regarding registration problems.If the course is full, please fill out the online course registration form available at the below web link http://www.civil.ubc.ca/webform/course-request-registration-form and submit it electronically. Please check back regularly to see if space opens up in the class.  All applications requesting admission to the course will be considered in August.  Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  You will be advised in August if you have been admitted to the class or not.",
+      "subject_code": "CIVL",
+      "course_number": "301",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LENCE, BARBARA JEAN"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "160",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    },
+    {
+      "status": "STT",
+      "section": "CIVL 301 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=301&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "301",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LENCE, BARBARA JEAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

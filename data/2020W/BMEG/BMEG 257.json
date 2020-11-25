@@ -1,1 +1,72 @@
-{"course_name":"BMEG 257","subject_code":"BMEG","course_number":"257","course_title":"Biomedical Engineering Design I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=257&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"BMEG 257 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=257&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:00","comments":"","subject_code":"BMEG","course_number":"257","section_number":"201","building":"UBC Life Building","room":"2302","instructors":["KUO, CALVIN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"S2A":{"status":"STT","section":"BMEG 257 S2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=257&section=S2A&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Tue Thu","start":"9:00","end":"11:00","comments":"","subject_code":"BMEG","course_number":"257","section_number":"S2A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"Engineering design process for medical technologies. Clinical practice, the healthcare system, medical approach to diagnosis, ethics and regulations for clinical trials, medical technology management, medical device development and standards, use of statistics for evaluating medical technologies. Credit will be granted for only one of BMEG 257 or BMEG 456."}
+{
+  "course_name": "BMEG 257",
+  "subject_code": "BMEG",
+  "course_number": "257",
+  "course_title": "Biomedical Engineering Design I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=257&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 257 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=257&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "257",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUO, CALVIN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 257 S2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=257&section=S2A&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "257",
+      "section_number": "S2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "Engineering design process for medical technologies. Clinical practice, the healthcare system, medical approach to diagnosis, ethics and regulations for clinical trials, medical technology management, medical device development and standards, use of statistics for evaluating medical technologies. Credit will be granted for only one of BMEG 257 or BMEG 456.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Studio"
+  ]
+}

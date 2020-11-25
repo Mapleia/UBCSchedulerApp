@@ -1,1 +1,44 @@
-{"course_name":"ECON 466","subject_code":"ECON","course_number":"466","course_title":"The Economics of Government Regulation of Business","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=466&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 466 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=466&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"ECON","course_number":"466","section_number":"001","building":"Buchanan","room":"B313","instructors":["VANEY, MICHAEL"],"totalRemaining":"49","currentlyRegistered":"6","generalRemaining":"49","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Normative and positive theories of government regulation of business. Topics include natural monopoly, socially optimal monopoly pricing, regulation of multi-firm industries, competition policy. Selected empirical studies."}
+{
+  "course_name": "ECON 466",
+  "subject_code": "ECON",
+  "course_number": "466",
+  "course_title": "The Economics of Government Regulation of Business",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=466&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 466 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=466&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "466",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VANEY, MICHAEL"
+      ],
+      "totalRemaining": "47",
+      "currentlyRegistered": "8",
+      "generalRemaining": "47",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Normative and positive theories of government regulation of business. Topics include natural monopoly, socially optimal monopoly pricing, regulation of multi-firm industries, competition policy. Selected empirical studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

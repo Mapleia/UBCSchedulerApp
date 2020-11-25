@@ -1,1 +1,43 @@
-{"course_name":"ARCH 523","subject_code":"ARCH","course_number":"523","course_title":"Contemporary Theories in Architecture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=523&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 523 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=523&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Fri","start":"9:30","end":"12:30","comments":"","subject_code":"ARCH","course_number":"523","section_number":"001","building":" ","room":"","instructors":["GRAY, CHRISTINA"],"totalRemaining":"9","currentlyRegistered":"61","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":"Theoretical propositions and their built manifestations."}
+{
+  "course_name": "ARCH 523",
+  "subject_code": "ARCH",
+  "course_number": "523",
+  "course_title": "Contemporary Theories in Architecture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=523&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 523 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=523&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "523",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAY, CHRISTINA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "59",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 3,
+  "description": "Theoretical propositions and their built manifestations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Seminar"
+  ]
+}

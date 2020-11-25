@@ -1,1 +1,44 @@
-{"course_name":"DENT 524","subject_code":"DENT","course_number":"524","course_title":"Craniofacial Growth and Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=524&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 524 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=524&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"524","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["RICHMAN, JOY MARION","YEN, EDWIN H"],"totalRemaining":"15","currentlyRegistered":"7","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "DENT 524",
+  "subject_code": "DENT",
+  "course_number": "524",
+  "course_title": "Craniofacial Growth and Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 524 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=524&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "524",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RICHMAN, JOY MARION",
+        "YEN, EDWIN H"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "7",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

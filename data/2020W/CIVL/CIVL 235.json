@@ -1,1 +1,50 @@
-{"course_name":"CIVL 235","subject_code":"CIVL","course_number":"235","course_title":"Plane Surveying","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=235&sessyr=2020&sesscd=W","sections":{"941":{"status":" ","section":"CIVL 235 941","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=235&section=941&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Tue Wed Thu Fri Sat","start":"8:00","end":"17:00","comments":"This course runs full-time from Monday, August 24 to Friday, September 4, including Saturday, August 29 but excluding Sunday, August 30.   (The final exam will be held on Friday, September 4, commencing at 8:30 am.)  The course will be delivered online via Canvas and will rely on Collaborate Ultra for live delivery, demonstrations and discussions, and will include assessment components via Canvas using a remotely proctored environment based on the Proctorio platform.Further details will be provided through the syllabus and schedule that will be posted on Canvas in advance of the commencement of the course.","subject_code":"CIVL","course_number":"235","section_number":"941","building":" ","room":"","instructors":["ISAACSON, MICHAEL D","OGUNDARE, JOHN","SOLEIMANI-DASHTAKI, SALMAN"],"totalRemaining":"96","currentlyRegistered":"50","generalRemaining":"32","restrictedRemaining":"64"}},"credits":"Credits: 4","description":"Theory and application of plane surveying methods. Introduction to and use of compass, transit, tape, and level. Construction and topographic surveys. Reduction of field data and construction of drawings. Demonstration of modern instruments, remote sensing methods and geographical information systems (GIS)."}
+{
+  "course_name": "CIVL 235",
+  "subject_code": "CIVL",
+  "course_number": "235",
+  "course_title": "Plane Surveying",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=235&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 235 941",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=235&section=941&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT"
+      ],
+      "start": "08:00",
+      "end": "17:00",
+      "comments": "This course runs full-time from Monday, August 24 to Friday, September 4, including Saturday, August 29 but excluding Sunday, August 30.   (The final exam will be held on Friday, September 4, commencing at 8:30 am.)  The course will be delivered online via Canvas and will rely on Collaborate Ultra for live delivery, demonstrations and discussions, and will include assessment components via Canvas using a remotely proctored environment based on the Proctorio platform.Further details will be provided through the syllabus and schedule that will be posted on Canvas in advance of the commencement of the course.",
+      "subject_code": "CIVL",
+      "course_number": "235",
+      "section_number": "941",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ISAACSON, MICHAEL D",
+        "OGUNDARE, JOHN",
+        "SOLEIMANI-DASHTAKI, SALMAN"
+      ],
+      "totalRemaining": "96",
+      "currentlyRegistered": "50",
+      "generalRemaining": "32",
+      "restrictedRemaining": "64"
+    }
+  ],
+  "credits": 4,
+  "description": "Theory and application of plane surveying methods. Introduction to and use of compass, transit, tape, and level. Construction and topographic surveys. Reduction of field data and construction of drawings. Demonstration of modern instruments, remote sensing methods and geographical information systems (GIS).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

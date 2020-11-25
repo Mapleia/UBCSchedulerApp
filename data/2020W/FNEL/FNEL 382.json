@@ -1,1 +1,43 @@
-{"course_name":"FNEL 382","subject_code":"FNEL","course_number":"382","course_title":"Lexicography for Endangered Languages","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=382&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FNEL 382 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=382&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"Located on the traditional, ancestral and unceded territories of the hYn\u0013q\u0013Ymin\u0013Ym\u0013 -speaking Musqueam people, this course models the conceptual workflow of a typical community-based lexicography project for an endangered and Indigenous language. The aim of the class is for students to become familiar with the various platforms available for community-based lexicography and explore how different dictionary projects have approached complex issues around word selection, variation, representation, publication, ownership and collaboration, whether online or in print.Starting with a general introduction to the field of lexicography, the course structure takes students into specific instruction in, and a technical discussion of, the process of selecting and organizing components in a dictionary. Students will learn about data management, formatting, and storage, and explore and review a number of online and offline dictionaries as a way to engage with the process of dictionary production, management and dissemination.Dictionary projects for Indigenous and endangered languages are increasingly \u0018born digital\u0019, collapsing the traditional distinction and time-lag between offline lexicographical data collection and the eventual dissemination or publishing of a dictionary. Web browser-based dictionaries increasingly include both public-facing access points and a back-end, server-based administrator login through which lexical data are imported, updated and managed.FNEL 382 provides students with an overview of the various steps involved in taking a community- based lexicographical project from word collection to a finished dictionary.","subject_code":"FNEL","course_number":"382","section_number":"001","building":" ","room":"","instructors":["TURIN, MARK"],"totalRemaining":"10","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Foundational concepts in the discipline of compiling, editing, managing and hosting dictionaries, also known as lexicography. Special focus on the technical and ethical considerations for community-based lexicography projects for endangered and BC First Nations languages."}
+{
+  "course_name": "FNEL 382",
+  "subject_code": "FNEL",
+  "course_number": "382",
+  "course_title": "Lexicography for Endangered Languages",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNEL 382 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=382&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Located on the traditional, ancestral and unceded territories of the hYn\u0013q\u0013Ymin\u0013Ym\u0013 -speaking Musqueam people, this course models the conceptual workflow of a typical community-based lexicography project for an endangered and Indigenous language. The aim of the class is for students to become familiar with the various platforms available for community-based lexicography and explore how different dictionary projects have approached complex issues around word selection, variation, representation, publication, ownership and collaboration, whether online or in print.Starting with a general introduction to the field of lexicography, the course structure takes students into specific instruction in, and a technical discussion of, the process of selecting and organizing components in a dictionary. Students will learn about data management, formatting, and storage, and explore and review a number of online and offline dictionaries as a way to engage with the process of dictionary production, management and dissemination.Dictionary projects for Indigenous and endangered languages are increasingly \u0018born digital\u0019, collapsing the traditional distinction and time-lag between offline lexicographical data collection and the eventual dissemination or publishing of a dictionary. Web browser-based dictionaries increasingly include both public-facing access points and a back-end, server-based administrator login through which lexical data are imported, updated and managed.FNEL 382 provides students with an overview of the various steps involved in taking a community- based lexicographical project from word collection to a finished dictionary.",
+      "subject_code": "FNEL",
+      "course_number": "382",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TURIN, MARK"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Foundational concepts in the discipline of compiling, editing, managing and hosting dictionaries, also known as lexicography. Special focus on the technical and ethical considerations for community-based lexicography projects for endangered and BC First Nations languages.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

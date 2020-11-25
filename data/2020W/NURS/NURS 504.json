@@ -1,1 +1,149 @@
-{"course_name":"NURS 504","subject_code":"NURS","course_number":"504","course_title":"Research and Evidence-Based Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=504&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"NURS 504 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.","subject_code":"NURS","course_number":"504","section_number":"201","building":"UBC Hospital - Koerner Pavilion","room":"T182","instructors":["HAVAEI, FARINAZ"],"totalRemaining":"25","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"25"},"001":{"status":"Full","section":"NURS 504 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.","subject_code":"NURS","course_number":"504","section_number":"001","building":" ","room":"","instructors":["HIRANI, SAIMA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Restricted","section":"NURS 504 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 1st Year MN-NP students. Please see section NURS 504-201 for MSN and MPHMSN students.Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.","subject_code":"NURS","course_number":"504","section_number":"002","building":"UBC Hospital - Koerner Pavilion","room":"T206","instructors":["RANGER, MANON"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"},"01W":{"status":"Blocked","section":"NURS 504 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist Section for NURS 504-001","subject_code":"NURS","course_number":"504","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"02W":{"status":"Blocked","section":"NURS 504 02W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=02W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist section for NURS 504-201","subject_code":"NURS","course_number":"504","section_number":"02W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 504",
+  "subject_code": "NURS",
+  "course_number": "504",
+  "course_title": "Research and Evidence-Based Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=504&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 504 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.",
+      "subject_code": "NURS",
+      "course_number": "504",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAVAEI, FARINAZ"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": "Full",
+      "section": "NURS 504 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.",
+      "subject_code": "NURS",
+      "course_number": "504",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HIRANI, SAIMA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "NURS 504 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 1st Year MN-NP students. Please see section NURS 504-201 for MSN and MPHMSN students.Nursing 504 Research and Evidence-based practice - The purpose of this course is to build foundational knowledge and skills in searching the literature, critically analyzing research and synthesizing evidence, and applying this evidence to issues of relevance to nursing practice.",
+      "subject_code": "NURS",
+      "course_number": "504",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RANGER, MANON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 504 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist Section for NURS 504-001",
+      "subject_code": "NURS",
+      "course_number": "504",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 504 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=504&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist section for NURS 504-201",
+      "subject_code": "NURS",
+      "course_number": "504",
+      "section_number": "02W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

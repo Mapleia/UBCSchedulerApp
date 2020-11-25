@@ -1,1 +1,107 @@
-{"course_name":"BMEG 101","subject_code":"BMEG","course_number":"101","course_title":"Introduction to Biomedical Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=101&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"BMEG 101 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"8:00","end":"9:00","comments":"","subject_code":"BMEG","course_number":"101","section_number":"201","building":" ","room":"","instructors":["BASHASHATI SAGHEZCHI, ALI","CRIPTON, PETER","SALCUDEAN, SEPTIMIU","ZANDSTRA, PETER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T2A":{"status":"STT","section":"BMEG 101 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed*","start":"17:00","end":"19:00","comments":"* every second week starting with start week","subject_code":"BMEG","course_number":"101","section_number":"T2A","building":"Civil and Mechanical Engineering","room":"1202","instructors":["BASHASHATI SAGHEZCHI, ALI","BAYAT, SHARAREH","CRIPTON, PETER","ZANDSTRA, PETER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T2B":{"status":"STT","section":"BMEG 101 T2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=T2B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed^","start":"17:00","end":"19:00","comments":"^ every second week starting with week following start week","subject_code":"BMEG","course_number":"101","section_number":"T2B","building":" ","room":"","instructors":["BASHASHATI SAGHEZCHI, ALI","BAYAT, SHARAREH","CRIPTON, PETER","ZANDSTRA, PETER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Foundational material spanning the four streams of the BMEG undergraduate program. Topics include: sensors and instrumentation; biosignals; physiological modeling; biomechanics; biomaterials; cellular engineering; regenerative medicine; and engineering design in these contexts."}
+{
+  "course_name": "BMEG 101",
+  "subject_code": "BMEG",
+  "course_number": "101",
+  "course_title": "Introduction to Biomedical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 101 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "101",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "CRIPTON, PETER",
+        "SALCUDEAN, SEPTIMIU",
+        "ZANDSTRA, PETER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 101 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "BMEG",
+      "course_number": "101",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "BAYAT, SHARAREH",
+        "CRIPTON, PETER",
+        "ZANDSTRA, PETER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "BMEG 101 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=101&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "BMEG",
+      "course_number": "101",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "BAYAT, SHARAREH",
+        "CRIPTON, PETER",
+        "ZANDSTRA, PETER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Foundational material spanning the four streams of the BMEG undergraduate program. Topics include: sensors and instrumentation; biosignals; physiological modeling; biomechanics; biomaterials; cellular engineering; regenerative medicine; and engineering design in these contexts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

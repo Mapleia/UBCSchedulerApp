@@ -1,1 +1,44 @@
-{"course_name":"CHBE 573","subject_code":"CHBE","course_number":"573","course_title":"Environmental Engineering and Sustainability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=573&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 573 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=573&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"CHBE","course_number":"573","section_number":"201","building":"Food, Nutrition and Health","room":"30","instructors":["ELLIS, NAOKO"],"totalRemaining":"13","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"13"}},"credits":"Credits: 3","description":"Topics may include: design of pollution control technologies, fate and transport of pollutants, function and rehabilitation of natural ecosystems, life cycle assessment, and industrial ecology and waste management."}
+{
+  "course_name": "CHBE 573",
+  "subject_code": "CHBE",
+  "course_number": "573",
+  "course_title": "Environmental Engineering and Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=573&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 573 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=573&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "573",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, NAOKO"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics may include: design of pollution control technologies, fate and transport of pollutants, function and rehabilitation of natural ecosystems, life cycle assessment, and industrial ecology and waste management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

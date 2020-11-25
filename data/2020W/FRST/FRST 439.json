@@ -1,1 +1,43 @@
-{"course_name":"FRST 439","subject_code":"FRST","course_number":"439","course_title":"International Forestry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=439&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FRST 439 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=439&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"FRST","course_number":"439","section_number":"201","building":"Forest Sciences Centre","room":"1005","instructors":["INNES, JOHN"],"totalRemaining":"126","currentlyRegistered":"74","generalRemaining":"126","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The socio-economic, biological and technological aspects of forestry within the international frame, in both the developed and developing world. Regional studies and the role of national and international agencies."}
+{
+  "course_name": "FRST 439",
+  "subject_code": "FRST",
+  "course_number": "439",
+  "course_title": "International Forestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=439&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 439 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=439&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "439",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "INNES, JOHN"
+      ],
+      "totalRemaining": "127",
+      "currentlyRegistered": "73",
+      "generalRemaining": "127",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The socio-economic, biological and technological aspects of forestry within the international frame, in both the developed and developing world. Regional studies and the role of national and international agencies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

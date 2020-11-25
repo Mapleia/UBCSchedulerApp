@@ -1,1 +1,69 @@
-{"course_name":"ECED 508B","subject_code":"ECED","course_number":"508B","course_title":"Review of Research in Early Childhood Education - REV RES IN ECED","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=508B&sessyr=2020&sesscd=W","sections":{"62A":{"status":"Blocked","section":"ECED 508B 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=508B&section=62A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a PDCE administered course for the EC20 Cohort. Restricted to students in the Cohort.","subject_code":"ECED","course_number":"508B","section_number":"62A","building":"No Scheduled Meeting","room":"","instructors":["BERGER, IRIS"],"totalRemaining":"6","currentlyRegistered":"18","generalRemaining":"6","restrictedRemaining":"0"},"62B":{"status":"Blocked","section":"ECED 508B 62B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=508B&section=62B&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a PDCE administered course for the EC20 Cohort. Restricted to students in the Cohort.","subject_code":"ECED","course_number":"508B","section_number":"62B","building":" ","room":"","instructors":["WAUGH, MATTHEW"],"totalRemaining":"7","currentlyRegistered":"17","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECED 508B",
+  "subject_code": "ECED",
+  "course_number": "508B",
+  "course_title": "Review of Research in Early Childhood Education - REV RES IN ECED",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=508B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECED 508B 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=508B&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC20 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "508B",
+      "section_number": "62A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BERGER, IRIS"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "18",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 508B 62B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=508B&section=62B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC20 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "508B",
+      "section_number": "62B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAUGH, MATTHEW"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "17",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

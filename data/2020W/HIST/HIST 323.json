@@ -1,1 +1,44 @@
-{"course_name":"HIST 323","subject_code":"HIST","course_number":"323","course_title":"Empires, Wars, and Revolutions in Europe and the Americas,1763-1838","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=323&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 323 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=323&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"HIST","course_number":"323","section_number":"101","building":" ","room":"","instructors":["DUCHARME, MICHEL"],"totalRemaining":"4","currentlyRegistered":"46","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Political, social, cultural, and intellectual transformations that reshaped the Atlantic world between 1763 and 1838; special attention will be given to the American, French, and Haitian Revolutions, the Latin American Wars of Independence and Canadian rebellions."}
+{
+  "course_name": "HIST 323",
+  "subject_code": "HIST",
+  "course_number": "323",
+  "course_title": "Empires, Wars, and Revolutions in Europe and the Americas,1763-1838",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 323 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=323&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "323",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUCHARME, MICHEL"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Political, social, cultural, and intellectual transformations that reshaped the Atlantic world between 1763 and 1838; special attention will be given to the American, French, and Haitian Revolutions, the Latin American Wars of Independence and Canadian rebellions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

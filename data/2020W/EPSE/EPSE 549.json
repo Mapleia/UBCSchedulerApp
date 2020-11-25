@@ -1,1 +1,43 @@
-{"course_name":"EPSE 549","subject_code":"EPSE","course_number":"549","course_title":"Seminar in Autism","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=549&sessyr=2020&sesscd=W","sections":{"074":{"status":" ","section":"EPSE 549 074","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=549&section=074&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"SPED","subject_code":"EPSE","course_number":"549","section_number":"074","building":"Neville Scarfe","room":"200","instructors":["KNIGHT, VICKI FLOYD"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 549",
+  "subject_code": "EPSE",
+  "course_number": "549",
+  "course_title": "Seminar in Autism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=549&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EPSE 549 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=549&section=074&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPEDThis section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "549",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KNIGHT, VICKI FLOYD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,50 @@
-{"course_name":"MECH 232","subject_code":"MECH","course_number":"232","course_title":"Introduction to the Mechanical Design Process I ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=232&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"MECH 232 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=232&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Tue Wed Thu Fri","start":"13:00","end":"18:00","comments":"","subject_code":"MECH","course_number":"232","section_number":"101","building":" ","room":"","instructors":["ATABAKI, NIMA","D'ENTREMONT, AGNES","FENGLER, MARKUS","HENDRA, GRAHAM"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 2","description":"Introduction to design methodology, synthesis and analysis."}
+{
+  "course_name": "MECH 232",
+  "subject_code": "MECH",
+  "course_number": "232",
+  "course_title": "Introduction to the Mechanical Design Process I ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=232&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MECH 232 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=232&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "232",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ATABAKI, NIMA",
+        "D'ENTREMONT, AGNES",
+        "FENGLER, MARKUS",
+        "HENDRA, GRAHAM"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": "Introduction to design methodology, synthesis and analysis.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

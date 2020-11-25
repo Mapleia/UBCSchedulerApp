@@ -1,1 +1,228 @@
-{"course_name":"KIN 335","subject_code":"KIN","course_number":"335","course_title":"Advanced Applications of Exercise Physiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=335&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 335 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"KIN","course_number":"335","section_number":"001","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"29","currentlyRegistered":"171","generalRemaining":"0","restrictedRemaining":"29"},"0W1":{"status":"Blocked","section":"KIN 335 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"335","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"L1A":{"status":"Blocked","section":"KIN 335 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1A","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"0"},"L1B":{"status":"Blocked","section":"KIN 335 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"8:00","end":"10:00","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1B","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"L1C":{"status":"Blocked","section":"KIN 335 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"12:00","end":"14:00","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1C","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"L1D":{"status":"Blocked","section":"KIN 335 L1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"16:00","end":"18:00","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1D","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"0"},"L1E":{"status":"Blocked","section":"KIN 335 L1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"16:00","end":"18:00","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1E","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"1"},"L1F":{"status":"Blocked","section":"KIN 335 L1F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1F&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Fri","start":"14:30","end":"16:30","comments":"","subject_code":"KIN","course_number":"335","section_number":"L1F","building":" ","room":"","instructors":["SHEEL, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise."}
+{
+  "course_name": "KIN 335",
+  "subject_code": "KIN",
+  "course_number": "335",
+  "course_title": "Advanced Applications of Exercise Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 335 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "171",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 335 L1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=335&section=L1F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "335",
+      "section_number": "L1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHEEL, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Laboratory"
+  ]
+}

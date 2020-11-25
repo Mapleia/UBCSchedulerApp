@@ -1,1 +1,44 @@
-{"course_name":"ARCL 419","subject_code":"ARCL","course_number":"419","course_title":"The Archaeology of Death","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=419&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ARCL 419 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=419&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"ARCL 419 - The Archaeology of Death:  In this seminar course, through lecture, discussions and readings, students will learn about the methods and theories integral to the study of mortuary archaeology. Starting with humanity\u0019s origins and ending with the Victorian era, students will learn about how burial practices and mortuary customs have changed through time in the western world. A major project will involve students undertaking historical archaeological research on a group of graves from Vancouver\u0019s Mountain View Cemetery.","subject_code":"ARCL","course_number":"419","section_number":"002","building":"Anthropology and Sociology","room":"1109","instructors":["WESTON, DARLENE"],"totalRemaining":"8","currentlyRegistered":"22","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of methods, theory, and case-studies in mortuary archaeology."}
+{
+  "course_name": "ARCL 419",
+  "subject_code": "ARCL",
+  "course_number": "419",
+  "course_title": "The Archaeology of Death",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=419&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 419 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=419&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "ARCL 419 - The Archaeology of Death:  In this seminar course, through lecture, discussions and readings, students will learn about the methods and theories integral to the study of mortuary archaeology. Starting with humanity\u0019s origins and ending with the Victorian era, students will learn about how burial practices and mortuary customs have changed through time in the western world. A major project will involve students undertaking historical archaeological research on a group of graves from Vancouver\u0019s Mountain View Cemetery.",
+      "subject_code": "ARCL",
+      "course_number": "419",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WESTON, DARLENE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of methods, theory, and case-studies in mortuary archaeology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"PSYC 502","subject_code":"PSYC","course_number":"502","course_title":"Research Methods in Health Psychology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=502&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 502 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=502&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"502","section_number":"001","building":" ","room":"","instructors":["HOPPMANN, CHRISTIANE"],"totalRemaining":"5","currentlyRegistered":"7","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PSYC 502",
+  "subject_code": "PSYC",
+  "course_number": "502",
+  "course_title": "Research Methods in Health Psychology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=502&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 502 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=502&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "502",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOPPMANN, CHRISTIANE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "7",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

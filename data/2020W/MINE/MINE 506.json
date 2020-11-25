@@ -1,1 +1,43 @@
-{"course_name":"MINE 506","subject_code":"MINE","course_number":"506","course_title":"Mining Methods","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=506&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MINE 506 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=506&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"The course is offered to Mining Graduate Students only.","subject_code":"MINE","course_number":"506","section_number":"201","building":"Frank Forward","room":"103","instructors":["SCOBLE, MALCOLM"],"totalRemaining":"10","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"A more advanced study of some aspects of mining methods. Credit will be granted for only one of MINE 506 or MINE 550."}
+{
+  "course_name": "MINE 506",
+  "subject_code": "MINE",
+  "course_number": "506",
+  "course_title": "Mining Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=506&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 506 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=506&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "The course is offered to Mining Graduate Students only.",
+      "subject_code": "MINE",
+      "course_number": "506",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCOBLE, MALCOLM"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 3,
+  "description": "A more advanced study of some aspects of mining methods. Credit will be granted for only one of MINE 506 or MINE 550.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

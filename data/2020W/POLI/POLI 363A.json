@@ -1,1 +1,47 @@
-{"course_name":"POLI 363A","subject_code":"POLI","course_number":"363A","course_title":"Canadian Foreign Policy - CANADIAN FOREIGN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=363A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 363A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=363A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"POLI","course_number":"363A","section_number":"001","building":" ","room":"","instructors":["SENS, ALLEN","HARVEY, JULIA","ROGERS, REBECCA"],"totalRemaining":"0","currentlyRegistered":"135","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An analysis of Canadian foreign policy on important international issues since the 1960s and of the policy-making process. Issues may include defence commitments, economic relations, activities of international organizations, and relations with the US, Europe, USSR, Asia and the Third World."}
+{
+  "course_name": "POLI 363A",
+  "subject_code": "POLI",
+  "course_number": "363A",
+  "course_title": "Canadian Foreign Policy - CANADIAN FOREIGN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=363A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "POLI 363A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=363A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "363A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "HARVEY, JULIA",
+        "ROGERS, REBECCA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "134",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An analysis of Canadian foreign policy on important international issues since the 1960s and of the policy-making process. Issues may include defence commitments, economic relations, activities of international organizations, and relations with the US, Europe, USSR, Asia and the Third World.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

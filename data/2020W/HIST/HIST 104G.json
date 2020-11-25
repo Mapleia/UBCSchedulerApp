@@ -1,1 +1,180 @@
-{"course_name":"HIST 104G","subject_code":"HIST","course_number":"104G","course_title":"Topics in World History - TPCS WORLD HIST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=104G&sessyr=2020&sesscd=W","sections":{"V01":{"status":"STT","section":"HIST 104G V01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"19:00","end":"21:00","comments":"This section is reserved for Vantage One Arts students only.","subject_code":"HIST","course_number":"104G","section_number":"V01","building":" ","room":"","instructors":["UNWALLA, PHEROZE","RIGBY-THOMPSON, MINA","WILFORD, AARON"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V1A":{"status":"STT","section":"HIST 104G V1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"This section is reserved for Vantage One students only.","subject_code":"HIST","course_number":"104G","section_number":"V1A","building":" ","room":"","instructors":["TBA","WILFORD, AARON"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V1B":{"status":"STT","section":"HIST 104G V1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"This section is reserved for Vantage One students only.","subject_code":"HIST","course_number":"104G","section_number":"V1B","building":" ","room":"","instructors":["TBA","RIGBY-THOMPSON, MINA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V1C":{"status":"STT","section":"HIST 104G V1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1C&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"19:00","end":"20:00","comments":"This section is reserved for Vantage One students only.","subject_code":"HIST","course_number":"104G","section_number":"V1C","building":" ","room":"","instructors":["UNWALLA, PHEROZE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V1D":{"status":"STT","section":"HIST 104G V1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1D&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"19:00","end":"20:00","comments":"This section is reserved for Vantage One students only.","subject_code":"HIST","course_number":"104G","section_number":"V1D","building":" ","room":"","instructors":["TBA","WILFORD, AARON"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V1E":{"status":"STT","section":"HIST 104G V1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1E&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"19:00","end":"20:00","comments":"This section is reserved for Vantage One students only.","subject_code":"HIST","course_number":"104G","section_number":"V1E","building":" ","room":"","instructors":["TBA","RIGBY-THOMPSON, MINA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings."}
+{
+  "course_name": "HIST 104G",
+  "subject_code": "HIST",
+  "course_number": "104G",
+  "course_title": "Topics in World History - TPCS WORLD HIST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=104G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "HIST 104G V01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "21:00",
+      "comments": "This section is reserved for Vantage One Arts students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "UNWALLA, PHEROZE",
+        "RIGBY-THOMPSON, MINA",
+        "WILFORD, AARON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 104G V1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This section is reserved for Vantage One students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "WILFORD, AARON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 104G V1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This section is reserved for Vantage One students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "RIGBY-THOMPSON, MINA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 104G V1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This section is reserved for Vantage One students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "UNWALLA, PHEROZE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 104G V1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This section is reserved for Vantage One students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "WILFORD, AARON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "HIST 104G V1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104G&section=V1E&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This section is reserved for Vantage One students only.",
+      "subject_code": "HIST",
+      "course_number": "104G",
+      "section_number": "V1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "RIGBY-THOMPSON, MINA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

@@ -1,1 +1,71 @@
-{"course_name":"FRST 310","subject_code":"FRST","course_number":"310","course_title":"Soil Biology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=310&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"FRST 310 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=310&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:00","comments":"Same as APBI 342","subject_code":"FRST","course_number":"310","section_number":"001","building":"Forest Sciences Centre","room":"1002","instructors":["CHANWAY, CHRISTOPHER"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":" ","section":"FRST 310 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=310&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"FRST","course_number":"310","section_number":"L01","building":"MacMillan","room":"342","instructors":["CHANWAY, CHRISTOPHER"],"totalRemaining":"1","currentlyRegistered":"9","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The diversity and interactions of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; responses to environmental change."}
+{
+  "course_name": "FRST 310",
+  "subject_code": "FRST",
+  "course_number": "310",
+  "course_title": "Soil Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FRST 310 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=310&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Same as APBI 342",
+      "subject_code": "FRST",
+      "course_number": "310",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 310 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=310&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "310",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHANWAY, CHRISTOPHER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The diversity and interactions of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; responses to environmental change.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

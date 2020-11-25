@@ -1,1 +1,45 @@
-{"course_name":"DENT 594","subject_code":"DENT","course_number":"594","course_title":"Endodontic Case Review and Treatment Planning I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=594&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 594 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=594&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"594","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["COIL, JEFFREY MARTIN","HAAPASALO, MARKUS","SHEN, YA"],"totalRemaining":"20","currentlyRegistered":"3","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 5","description":"Student case presentations, treatment choice, and evaluation of prognosis."}
+{
+  "course_name": "DENT 594",
+  "subject_code": "DENT",
+  "course_number": "594",
+  "course_title": "Endodontic Case Review and Treatment Planning I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=594&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 594 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=594&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "594",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COIL, JEFFREY MARTIN",
+        "HAAPASALO, MARKUS",
+        "SHEN, YA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "3",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 5,
+  "description": "Student case presentations, treatment choice, and evaluation of prognosis.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

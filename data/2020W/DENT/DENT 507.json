@@ -1,1 +1,43 @@
-{"course_name":"DENT 507","subject_code":"DENT","course_number":"507","course_title":"Topics in Dental Public Health II (Critical Literature Review)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=507&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 507 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=507&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"507","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"5"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "DENT 507",
+  "subject_code": "DENT",
+  "course_number": "507",
+  "course_title": "Topics in Dental Public Health II (Critical Literature Review)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=507&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 507 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=507&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "507",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"RUSS 306A","subject_code":"RUSS","course_number":"306A","course_title":"Russian Literature in Translation - RUSS LIT IN TRAN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RUSS&course=306A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"RUSS 306A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RUSS&course=306A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This course focuses on the nineteenth-century Russian novel and its development. Together we will read Pushkin's Eugene Onegin, Dostoevsky's The Idiot, and Tolstoy's Anna Karenina, with a particular focus on the form of the novel, character psychology, and historical and cultural context. Taught asynchronously online.","subject_code":"RUSS","course_number":"306A","section_number":"001","building":" ","room":"","instructors":["BOWERS, KATHERINE","FABUSUYI, AJIBOLA(Lead)"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A comprehensive historical and critical presentation with emphasis on the nineteenth and twentieth centuries."}
+{
+  "course_name": "RUSS 306A",
+  "subject_code": "RUSS",
+  "course_number": "306A",
+  "course_title": "Russian Literature in Translation - RUSS LIT IN TRAN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RUSS&course=306A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RUSS 306A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RUSS&course=306A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course focuses on the nineteenth-century Russian novel and its development. Together we will read Pushkin's Eugene Onegin, Dostoevsky's The Idiot, and Tolstoy's Anna Karenina, with a particular focus on the form of the novel, character psychology, and historical and cultural context. Taught asynchronously online.",
+      "subject_code": "RUSS",
+      "course_number": "306A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOWERS, KATHERINE",
+        "FABUSUYI, AJIBOLA(Lead)"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "33",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A comprehensive historical and critical presentation with emphasis on the nineteenth and twentieth centuries.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"EOSC 352","subject_code":"EOSC","course_number":"352","course_title":"Geophysical Continuum Dynamics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=352&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"EOSC 352 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=352&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"EOSC","course_number":"352","section_number":"201","building":"Neville Scarfe","room":"1328","instructors":["SCHOOF, CHRISTIAN"],"totalRemaining":"15","currentlyRegistered":"10","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to tensor calculus and continuum mechanics. Stress, strain and strain-rate tensors. Mass, momentum and energy balance. Applications to problems of geophysical heat transport, elasticity and fluid dynamics illustrated using MATLAB."}
+{
+  "course_name": "EOSC 352",
+  "subject_code": "EOSC",
+  "course_number": "352",
+  "course_title": "Geophysical Continuum Dynamics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 352 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=352&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "352",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHOOF, CHRISTIAN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "10",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to tensor calculus and continuum mechanics. Stress, strain and strain-rate tensors. Mass, momentum and energy balance. Applications to problems of geophysical heat transport, elasticity and fluid dynamics illustrated using MATLAB.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

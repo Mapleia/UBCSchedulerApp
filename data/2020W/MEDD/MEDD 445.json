@@ -1,1 +1,43 @@
-{"course_name":"MEDD 445","subject_code":"MEDD","course_number":"445","course_title":"Senior Elective","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=445&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MEDD 445 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=445&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MEDD","course_number":"445","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"297","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"A senior clinical elective for fourth-year students. Students will participate in all relevant clinical and academic activities associated with the particular elective. Pass/Fail."}
+{
+  "course_name": "MEDD 445",
+  "subject_code": "MEDD",
+  "course_number": "445",
+  "course_title": "Senior Elective",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDD 445 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=445&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MEDD",
+      "course_number": "445",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "298",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "A senior clinical elective for fourth-year students. Students will participate in all relevant clinical and academic activities associated with the particular elective. Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

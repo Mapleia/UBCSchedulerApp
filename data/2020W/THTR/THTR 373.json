@@ -1,1 +1,44 @@
-{"course_name":"THTR 373","subject_code":"THTR","course_number":"373","course_title":"Intermediate Voice, Speech, and Movement I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=373&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 373 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=373&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Tue Thu","start":"13:00","end":"16:30","comments":"This course is open only to 3rd year students enrolled in UBC's BFA Acting Program.Voice, Speech and Movement practices to refine vocal and physical acting skills","subject_code":"THTR","course_number":"373","section_number":"001","building":"Chan Centre","room":"150","instructors":["MURPHY, GAYLE"],"totalRemaining":"2","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Open only to B.F.A. Acting students."}
+{
+  "course_name": "THTR 373",
+  "subject_code": "THTR",
+  "course_number": "373",
+  "course_title": "Intermediate Voice, Speech, and Movement I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 373 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=373&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:30",
+      "comments": "This course is open only to 3rd year students enrolled in UBC's BFA Acting Program.Voice, Speech and Movement practices to refine vocal and physical acting skills",
+      "subject_code": "THTR",
+      "course_number": "373",
+      "section_number": "001",
+      "building": "Chan Centre",
+      "room": "150",
+      "instructors": [
+        "MURPHY, GAYLE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Open only to B.F.A. Acting students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

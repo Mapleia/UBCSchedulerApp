@@ -1,1 +1,123 @@
-{"course_name":"LLED 441","subject_code":"LLED","course_number":"441","course_title":"Introduction to Teaching Children's Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=441&sessyr=2020&sesscd=W","sections":{"61B":{"status":"Blocked","section":"LLED 441 61B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=61B&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 441 W3B). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"441","section_number":"61B","building":"No Scheduled Meeting","room":"","instructors":["SHOEMAKER, KATHRYN"],"totalRemaining":"4","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"4"},"63C":{"status":"Restricted","section":"LLED 441 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for students in the Basic certification stream for Early Childhood Education, with a special focus on early childhood contexts. See https://earlychildhood.educ.ubc.ca/lled-441-ece-contexts/ for course description. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 441 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"441","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["DELVECCHIO, JENNIFER"],"totalRemaining":"15","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"15"},"W3B":{"status":"Blocked","section":"LLED 441 W3B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=W3B&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 441. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"441","section_number":"W3B","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"},"W3C":{"status":"Blocked","section":"LLED 441 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 441. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"441","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LLED 441",
+  "subject_code": "LLED",
+  "course_number": "441",
+  "course_title": "Introduction to Teaching Children's Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 441 61B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=61B&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 441 W3B). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "441",
+      "section_number": "61B",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SHOEMAKER, KATHRYN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "LLED 441 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for students in the Basic certification stream for Early Childhood Education, with a special focus on early childhood contexts. See https://earlychildhood.educ.ubc.ca/lled-441-ece-contexts/ for course description. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 441 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "441",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DELVECCHIO, JENNIFER"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 441 W3B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=W3B&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 441. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "441",
+      "section_number": "W3B",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 441 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=441&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 441. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "441",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

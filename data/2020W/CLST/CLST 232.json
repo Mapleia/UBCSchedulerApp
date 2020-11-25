@@ -1,1 +1,72 @@
-{"course_name":"CLST 232","subject_code":"CLST","course_number":"232","course_title":"Ancient Rome","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=232&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 232 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=232&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"If this course is full or blocked, please register in the wait list sectionStudents who received credit for CLST 331 (6 credits) prior to 2008/09 may not also receive credit for CLST 231 and CLST 232.","subject_code":"CLST","course_number":"232","section_number":"001","building":"Buchanan","room":"B313","instructors":["HUEMOELLER, KATHARINE"],"totalRemaining":"1","currentlyRegistered":"79","generalRemaining":"1","restrictedRemaining":"0"},"WL1":{"status":" ","section":"CLST 232 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=232&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Wait List for CLST 232-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.","subject_code":"CLST","course_number":"232","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of the ancient Roman world from the foundation of the city to the death of Constantine."}
+{
+  "course_name": "CLST 232",
+  "subject_code": "CLST",
+  "course_number": "232",
+  "course_title": "Ancient Rome",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=232&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CLST 232 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=232&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. If this course is full or blocked, please register in the wait list sectionStudents who received credit for CLST 331 (6 credits) prior to 2008/09 may not also receive credit for CLST 231 and CLST 232.",
+      "subject_code": "CLST",
+      "course_number": "232",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUEMOELLER, KATHARINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CLST 232 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=232&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Wait List for CLST 232-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "CLST",
+      "course_number": "232",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of the ancient Roman world from the foundation of the city to the death of Constantine.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

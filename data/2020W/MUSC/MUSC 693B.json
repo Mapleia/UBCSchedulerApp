@@ -1,1 +1,70 @@
-{"course_name":"MUSC 693B","subject_code":"MUSC","course_number":"693B","course_title":"Music Performance (Major) - VOICE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=693B&sessyr=2020&sesscd=W","sections":{"731":{"status":" ","section":"MUSC 693B 731","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=693B&section=731&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"693B","section_number":"731","building":"No Scheduled Meeting","room":"","instructors":["BARCZA, PETER","HERMISTON, NANCY JANE"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"002":{"status":" ","section":"MUSC 693B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=693B&section=002&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"693B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["HERMISTON, NANCY JANE"],"totalRemaining":"197","currentlyRegistered":"3","generalRemaining":"99","restrictedRemaining":"98"}},"credits":"Credits: 6","description":"Private instruction, vocal or instrumental."}
+{
+  "course_name": "MUSC 693B",
+  "subject_code": "MUSC",
+  "course_number": "693B",
+  "course_title": "Music Performance (Major) - VOICE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=693B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 693B 731",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=693B&section=731&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "693B",
+      "section_number": "731",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BARCZA, PETER",
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 693B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=693B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "693B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HERMISTON, NANCY JANE"
+      ],
+      "totalRemaining": "197",
+      "currentlyRegistered": "3",
+      "generalRemaining": "99",
+      "restrictedRemaining": "98"
+    }
+  ],
+  "credits": 6,
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

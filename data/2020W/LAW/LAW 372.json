@@ -1,1 +1,71 @@
-{"course_name":"LAW 372","subject_code":"LAW","course_number":"372","course_title":"Administrative Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=372&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 372 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=372&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"9:00","end":"11:00","comments":"*Cross-listed with LAW 509.001*  This course is NOT open to Exchange and Visiting students.","subject_code":"LAW","course_number":"372","section_number":"001","building":" ","room":"","instructors":["LISTON, MARY ANN"],"totalRemaining":"2","currentlyRegistered":"53","generalRemaining":"2","restrictedRemaining":"0"},"002":{"status":" ","section":"LAW 372 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=372&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed Fri","start":"10:30","end":"12:30","comments":"*Cross-listed with LAW 509.002*  This course is NOT open to Exchange and Visiting students.","subject_code":"LAW","course_number":"372","section_number":"002","building":" ","room":"","instructors":["STACEY, JOCELYN"],"totalRemaining":"11","currentlyRegistered":"44","generalRemaining":"11","restrictedRemaining":"0"},"003":{"status":"Full","section":"LAW 372 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=372&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"9:00","end":"11:00","comments":"*Cross-listed with LAW 509.003*  This course is NOT open to Exchange and Visiting students.","subject_code":"LAW","course_number":"372","section_number":"003","building":" ","room":"","instructors":["FLYNN, ALEXANDRA"],"totalRemaining":"0","currentlyRegistered":"57","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"The system of legal control exercised through non-judicial agencies and the relationship of the courts to the administrative process. Credit will be granted for only one of LAW 210, LAW 372, or LAW 509."}
+{
+  "course_name": "LAW 372",
+  "subject_code": "LAW",
+  "course_number": "372",
+  "course_title": "Administrative Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 372 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=372&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "*Cross-listed with LAW 509.001*  This course is NOT open to Exchange and Visiting students.",
+      "subject_code": "LAW",
+      "course_number": "372",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LISTON, MARY ANN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "53",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LAW 372 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=372&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:30",
+      "end": "12:30",
+      "comments": "*Cross-listed with LAW 509.002*  This course is NOT open to Exchange and Visiting students.",
+      "subject_code": "LAW",
+      "course_number": "372",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STACEY, JOCELYN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "44",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "The system of legal control exercised through non-judicial agencies and the relationship of the courts to the administrative process. Credit will be granted for only one of LAW 210, LAW 372, or LAW 509.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

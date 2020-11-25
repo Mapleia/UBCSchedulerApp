@@ -1,1 +1,70 @@
-{"course_name":"VISA 350","subject_code":"VISA","course_number":"350","course_title":"Intermediate Print Media I: Interdisciplinary Approaches to Image Production","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=350&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 350 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=350&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"Pre-req: VISA 250. If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"350","section_number":"001","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"1002","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":"Restricted","section":"VISA 350 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=350&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"VISA 350 01W is a waitlist for VISA 350 001. Pre-req: VISA 250. Students who do not have the appropriate pre-requisite will be de-registered.Students will be moved from the waitlist into the class, space permitting, in order of registration date. While we hope to accommodate all interested students in this class, please be aware that being registered on the waitlist does not guarantee you will obtain a seat.","subject_code":"VISA","course_number":"350","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"97","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"97"}},"credits":"Credits: 3","description":"Intaglio and relief print applications (i.e., etching, wood and/or lino cut, and collagraph) in combination with digital and photographic technologies, and drawing; discussion of contemporary and historical visual print culture."}
+{
+  "course_name": "VISA 350",
+  "subject_code": "VISA",
+  "course_number": "350",
+  "course_title": "Intermediate Print Media I: Interdisciplinary Approaches to Image Production",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 350 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=350&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Pre-req: VISA 250. If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "350",
+      "section_number": "001",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "1002",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 350 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=350&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 350 01W is a waitlist for VISA 350 001. Pre-req: VISA 250. Students who do not have the appropriate pre-requisite will be de-registered.Students will be moved from the waitlist into the class, space permitting, in order of registration date. While we hope to accommodate all interested students in this class, please be aware that being registered on the waitlist does not guarantee you will obtain a seat.",
+      "subject_code": "VISA",
+      "course_number": "350",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "97",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "97"
+    }
+  ],
+  "credits": 3,
+  "description": "Intaglio and relief print applications (i.e., etching, wood and/or lino cut, and collagraph) in combination with digital and photographic technologies, and drawing; discussion of contemporary and historical visual print culture.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

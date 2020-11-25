@@ -1,1 +1,130 @@
-{"course_name":"BIOL 111","subject_code":"BIOL","course_number":"111","course_title":"Introduction to Modern Biology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=111&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 111 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"BIOL 111 is for students who don't have grade11 or 12 high school Biology.","subject_code":"BIOL","course_number":"111","section_number":"101","building":" ","room":"","instructors":["ELLIS, SHONA MARGARET","MILSOM, WILLIAM","BRALEY, ERYN"],"totalRemaining":"0","currentlyRegistered":"242","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"BIOL 111 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"BIOL 111 is for students who don't have grade11 or 12 high school Biology.","subject_code":"BIOL","course_number":"111","section_number":"201","building":"Biological Sciences","room":"1000","instructors":["ELLIS, SHONA MARGARET","MILSOM, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"245","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 111 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"This is the wait-list for BIOL 111-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"111","section_number":"1W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"},"2W1":{"status":"Full","section":"BIOL 111 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"This is the waitlist for BIOL 111-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"111","section_number":"2W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems.  Not open to students who have credit for Biology 12 (including AP, IB)."}
+{
+  "course_name": "BIOL 111",
+  "subject_code": "BIOL",
+  "course_number": "111",
+  "course_title": "Introduction to Modern Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=111&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 111 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "BIOL 111 is for students who don't have grade11 or 12 high school Biology.",
+      "subject_code": "BIOL",
+      "course_number": "111",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, SHONA MARGARET",
+        "MILSOM, WILLIAM",
+        "BRALEY, ERYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "240",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 111 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "BIOL 111 is for students who don't have grade11 or 12 high school Biology.",
+      "subject_code": "BIOL",
+      "course_number": "111",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, SHONA MARGARET",
+        "MILSOM, WILLIAM"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "239",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 111 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "This is the wait-list for BIOL 111-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "111",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 111 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=111&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This is the waitlist for BIOL 111-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "111",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "13",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts fundamental to biological issues, such as the genetic basis of biological variation, evolution, infectious diseases, causes of cancer, population growth, and human effects on ecosystems.  Not open to students who have credit for Biology 12 (including AP, IB).",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

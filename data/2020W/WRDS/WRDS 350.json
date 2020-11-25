@@ -1,1 +1,155 @@
-{"course_name":"WRDS 350","subject_code":"WRDS","course_number":"350","course_title":"Knowledge-Making in the Disciplines","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WRDS&course=350&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"WRDS 350 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.","subject_code":"WRDS","course_number":"350","section_number":"002","building":" ","room":"","instructors":["REA, JACLYN"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"WRDS 350 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.","subject_code":"WRDS","course_number":"350","section_number":"003","building":" ","room":"","instructors":["BLAKE, SUSAN"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"011":{"status":"Restricted","section":"WRDS 350 011","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=011&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.","subject_code":"WRDS","course_number":"350","section_number":"011","building":"Buchanan","room":"B310","instructors":["EL-BEZRE, NAZIH"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"},"012":{"status":"Restricted","section":"WRDS 350 012","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=012&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.","subject_code":"WRDS","course_number":"350","section_number":"012","building":"Buchanan","room":"D323","instructors":["SCHANDORF, MICHAEL"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"},"W12":{"status":" ","section":"WRDS 350 W12","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=W12&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.","subject_code":"WRDS","course_number":"350","section_number":"W12","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"4","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines."}
+{
+  "course_name": "WRDS 350",
+  "subject_code": "WRDS",
+  "course_number": "350",
+  "course_title": "Knowledge-Making in the Disciplines",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WRDS&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "WRDS 350 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.",
+      "subject_code": "WRDS",
+      "course_number": "350",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REA, JACLYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WRDS 350 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.",
+      "subject_code": "WRDS",
+      "course_number": "350",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLAKE, SUSAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WRDS 350 011",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=011&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.",
+      "subject_code": "WRDS",
+      "course_number": "350",
+      "section_number": "011",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EL-BEZRE, NAZIH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WRDS 350 012",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=012&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.",
+      "subject_code": "WRDS",
+      "course_number": "350",
+      "section_number": "012",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHANDORF, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "WRDS 350 W12",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WRDS&course=350&section=W12&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "An advanced scholarly writing course focusing on knowledge-making, its discursive expression in disciplinary contexts and methods for its analysis.",
+      "subject_code": "WRDS",
+      "course_number": "350",
+      "section_number": "W12",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

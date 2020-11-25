@@ -1,1 +1,43 @@
-{"course_name":"MUSC 442C","subject_code":"MUSC","course_number":"442C","course_title":"Song Interpretation - SONG INTERPRET","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=442C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 442C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=442C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Fri","start":"15:30","end":"18:00","comments":"Open to 3rd and 4th year Voice, Opera, Piano Performance with 149/249 pre-requisite or similar transfer credits. GMus may enrol by permission of instructor.In-depth study of Art Song interpretation and performance practice. The course has two components: 1) intensive private coachings for duos 2)  a monthly performance class with all participants. Students will select their own repertoire interests in diverse languages and stylistic eras. Emphasis is on the fusion of poetry and musical content, dramatic text-recitation, collaborative partnership and rehearsal skill-building, traditional and alternative performance practice.Those with interests in art song theatre techniques may create/perform staged works.Pre-formed singer-piano teams are strongly encouraged, but not required. Maximum number of participants: 6 singers, 3-6 pianists.The course will include weekly rehearsals, two 1-hour coachings per month, and 6-8 in-class performances during the year. Public performances will be encouraged. While duo coachings are in private studio setting, participants are invited to audit at any time.","subject_code":"MUSC","course_number":"442C","section_number":"001","building":" ","room":"","instructors":["SHARON, RENA"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 4","description":"Survey of the literature for voice with keyboard accompaniment, with emphasis on performance problems. Open to piano and voice majors, and to others by permission of instructor. May be repeated once for credit."}
+{
+  "course_name": "MUSC 442C",
+  "subject_code": "MUSC",
+  "course_number": "442C",
+  "course_title": "Song Interpretation - SONG INTERPRET",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=442C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 442C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=442C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:30",
+      "end": "18:00",
+      "comments": "Open to 3rd and 4th year Voice, Opera, Piano Performance with 149/249 pre-requisite or similar transfer credits. GMus may enrol by permission of instructor.In-depth study of Art Song interpretation and performance practice. The course has two components: 1) intensive private coachings for duos 2)  a monthly performance class with all participants. Students will select their own repertoire interests in diverse languages and stylistic eras. Emphasis is on the fusion of poetry and musical content, dramatic text-recitation, collaborative partnership and rehearsal skill-building, traditional and alternative performance practice.Those with interests in art song theatre techniques may create/perform staged works.Pre-formed singer-piano teams are strongly encouraged, but not required. Maximum number of participants: 6 singers, 3-6 pianists.The course will include weekly rehearsals, two 1-hour coachings per month, and 6-8 in-class performances during the year. Public performances will be encouraged. While duo coachings are in private studio setting, participants are invited to audit at any time.",
+      "subject_code": "MUSC",
+      "course_number": "442C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHARON, RENA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 4,
+  "description": "Survey of the literature for voice with keyboard accompaniment, with emphasis on performance problems. Open to piano and voice majors, and to others by permission of instructor. May be repeated once for credit.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

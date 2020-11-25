@@ -1,1 +1,71 @@
-{"course_name":"KIN 486A","subject_code":"KIN","course_number":"486A","course_title":"Advanced Seminar in Psychology of Movement - ADV SEM PSYC MVM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=486A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"KIN 486A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=486A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This course will be conducted on line for term 1 20WThis course is formerly KIN 489m. Students can receive credit for either KIN 489m or KIN 486a","subject_code":"KIN","course_number":"486A","section_number":"001","building":" ","room":"","instructors":["FAULKNER, GUY"],"totalRemaining":"36","currentlyRegistered":"64","generalRemaining":"0","restrictedRemaining":"36"},"0W1":{"status":"Blocked","section":"KIN 486A 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=486A&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"486A","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Topics examines the application of psychology to understanding and supporting healthy sport, physical activity, and health behaviors."}
+{
+  "course_name": "KIN 486A",
+  "subject_code": "KIN",
+  "course_number": "486A",
+  "course_title": "Advanced Seminar in Psychology of Movement - ADV SEM PSYC MVM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=486A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 486A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=486A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course will be conducted on line for term 1 20WThis course is formerly KIN 489m. Students can receive credit for either KIN 489m or KIN 486a",
+      "subject_code": "KIN",
+      "course_number": "486A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FAULKNER, GUY"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "64",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 486A 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=486A&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "486A",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics examines the application of psychology to understanding and supporting healthy sport, physical activity, and health behaviors.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

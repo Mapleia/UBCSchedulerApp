@@ -1,1 +1,44 @@
-{"course_name":"SPPH 533","subject_code":"SPPH","course_number":"533","course_title":"Toxicology and Public Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=533&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"SPPH 533 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=533&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"13:00","end":"16:00","comments":"Classroom SPPH 424","subject_code":"SPPH","course_number":"533","section_number":"002","building":" ","room":"","instructors":["AFSHARI, REZA","BARTLETT, KAREN HASTINGS"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Mechanism of action of commonly encountered occupational toxic agents; relevance of laboratory and epidemiological evidence."}
+{
+  "course_name": "SPPH 533",
+  "subject_code": "SPPH",
+  "course_number": "533",
+  "course_title": "Toxicology and Public Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=533&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 533 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=533&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Course will be delivered entirely online.  To access course module, visit UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "533",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AFSHARI, REZA",
+        "BARTLETT, KAREN HASTINGS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Mechanism of action of commonly encountered occupational toxic agents; relevance of laboratory and epidemiological evidence.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

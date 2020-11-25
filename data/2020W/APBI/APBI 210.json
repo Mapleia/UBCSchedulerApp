@@ -1,1 +1,203 @@
-{"course_name":"APBI 210","subject_code":"APBI","course_number":"210","course_title":"Vascular Plants","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"APBI","course_number":"210","section_number":"001","building":"Earth Sciences Building","room":"1012","instructors":["ELLIS, SHONA MARGARET"],"totalRemaining":"1","currentlyRegistered":"21","generalRemaining":"1","restrictedRemaining":"0"},"L01":{"status":" ","section":"APBI 210 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"","subject_code":"APBI","course_number":"210","section_number":"L01","building":"Biological Sciences","room":"4009","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"L02":{"status":" ","section":"APBI 210 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"","subject_code":"APBI","course_number":"210","section_number":"L02","building":"Biological Sciences","room":"4018","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"L03":{"status":"Full","section":"APBI 210 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"210","section_number":"L03","building":"Biological Sciences","room":"4009","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"},"L05":{"status":"Full","section":"APBI 210 L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L05&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"14:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"210","section_number":"L05","building":"Biological Sciences","room":"4018","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"},"L06":{"status":"Full","section":"APBI 210 L06","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L06&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"14:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"210","section_number":"L06","building":"Biological Sciences","room":"4009","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"},"L08":{"status":" ","section":"APBI 210 L08","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L08&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"8:00","end":"11:00","comments":"","subject_code":"APBI","course_number":"210","section_number":"L08","building":"Biological Sciences","room":"4018","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"3","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"A comparative study of pteridophytes, gymnosperms and angiosperms, integrating form, function, and ecology."}
+{
+  "course_name": "APBI 210",
+  "subject_code": "APBI",
+  "course_number": "210",
+  "course_title": "Vascular Plants",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, SHONA MARGARET",
+        "GRAHAM, SEAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 210 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 210 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 210 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 210 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 210 L06",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L06&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L06",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 210 L08",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=210&section=L08&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "210",
+      "section_number": "L08",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "4",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "A comparative study of pteridophytes, gymnosperms and angiosperms, integrating form, function, and ecology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

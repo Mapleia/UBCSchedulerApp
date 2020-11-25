@@ -1,1 +1,70 @@
-{"course_name":"NURS 548","subject_code":"NURS","course_number":"548","course_title":"Qualitative Methods and Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=548&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"NURS 548 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=548&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"Course is now full, please register for waitlist section NURS 548-01W, and contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for MSN and PHD students.Qualitative Research Methods - This course is designed as an introductory graduate level course for those considering qualitative methods for thesis or dissertation projects or interested in learning about how qualitative methods might be integrated into future mixed methods initiatives. The structure of the course allows for interactive dialogue around foundations of qualitative inquiry, methodological applications from various qualitative research traditions, as well as techniques and tools to strengthen qualitative data collection and analysis.","subject_code":"NURS","course_number":"548","section_number":"001","building":" ","room":"","instructors":["OLIFFE, JOHN"],"totalRemaining":"4","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"4"},"01W":{"status":" ","section":"NURS 548 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=548&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist Section for NURS 548-001","subject_code":"NURS","course_number":"548","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 548",
+  "subject_code": "NURS",
+  "course_number": "548",
+  "course_title": "Qualitative Methods and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=548&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "NURS 548 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=548&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is now full, please register for waitlist section NURS 548-01W, and contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for MSN and PHD students.Qualitative Research Methods - This course is designed as an introductory graduate level course for those considering qualitative methods for thesis or dissertation projects or interested in learning about how qualitative methods might be integrated into future mixed methods initiatives. The structure of the course allows for interactive dialogue around foundations of qualitative inquiry, methodological applications from various qualitative research traditions, as well as techniques and tools to strengthen qualitative data collection and analysis.",
+      "subject_code": "NURS",
+      "course_number": "548",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OLIFFE, JOHN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": " ",
+      "section": "NURS 548 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=548&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist Section for NURS 548-001",
+      "subject_code": "NURS",
+      "course_number": "548",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"LING 447F","subject_code":"LING","course_number":"447F","course_title":"Topics in Linguistics - TOPICS IN LING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447F&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 447F 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447F&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Topic: Structure of WashoPre-requisites: LING 200, LING 201 and at least one of LING 300, LING 311 or LING 327","subject_code":"LING","course_number":"447F","section_number":"001","building":" ","room":"","instructors":["BOCHNAK, MICHAEL RYAN"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different."}
+{
+  "course_name": "LING 447F",
+  "subject_code": "LING",
+  "course_number": "447F",
+  "course_title": "Topics in Linguistics - TOPICS IN LING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 447F 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447F&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Topic: Structure of WashoPre-requisites: LING 200, LING 201 and at least one of LING 300, LING 311 or LING 327",
+      "subject_code": "LING",
+      "course_number": "447F",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOCHNAK, MICHAEL RYAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "22",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

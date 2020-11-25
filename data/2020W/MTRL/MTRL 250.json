@@ -1,1 +1,69 @@
-{"course_name":"MTRL 250","subject_code":"MTRL","course_number":"250","course_title":"Principles and Calculations in Materials Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=250&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 250 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=250&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"","subject_code":"MTRL","course_number":"250","section_number":"101","building":" ","room":"","instructors":["DIXON, DAVID"],"totalRemaining":"9","currentlyRegistered":"108","generalRemaining":"0","restrictedRemaining":"9"},"T1A":{"status":"Restricted","section":"MTRL 250 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=250&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"15:30","end":"17:30","comments":"","subject_code":"MTRL","course_number":"250","section_number":"T1A","building":" ","room":"","instructors":["DIXON, DAVID"],"totalRemaining":"9","currentlyRegistered":"108","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 4","description":"Basic heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium."}
+{
+  "course_name": "MTRL 250",
+  "subject_code": "MTRL",
+  "course_number": "250",
+  "course_title": "Principles and Calculations in Materials Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 250 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=250&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "250",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIXON, DAVID"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "105",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 250 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=250&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "250",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIXON, DAVID"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "105",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 4,
+  "description": "Basic heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

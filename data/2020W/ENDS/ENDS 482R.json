@@ -1,1 +1,70 @@
-{"course_name":"ENDS 482R","subject_code":"ENDS","course_number":"482R","course_title":"Special Topics - SEEING ENVRNMT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482R&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ENDS 482R 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482R&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"14:30","end":"17:30","comments":"","subject_code":"ENDS","course_number":"482R","section_number":"001","building":"To Be Announced","room":"","instructors":["ROEHR, DANIEL"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"},"WL1":{"status":"Restricted","section":"ENDS 482R WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482R&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENDS","course_number":"482R","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ENDS 482R",
+  "subject_code": "ENDS",
+  "course_number": "482R",
+  "course_title": "Special Topics - SEEING ENVRNMT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482R&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENDS 482R 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482R&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482R",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "ROEHR, DANIEL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENDS 482R WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482R&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482R",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

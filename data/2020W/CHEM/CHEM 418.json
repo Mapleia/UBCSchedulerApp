@@ -1,1 +1,45 @@
-{"course_name":"CHEM 418","subject_code":"CHEM","course_number":"418","course_title":"Organometallic Chemistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=418&sessyr=2020&sesscd=W","sections":{"209":{"status":" ","section":"CHEM 418 209","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=418&section=209&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"CHEM","course_number":"418","section_number":"209","building":"Chemistry","room":"D215","instructors":["SCHAFER, LAUREL"],"totalRemaining":"13","currentlyRegistered":"19","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The chemistry of compounds containing organic groups directly bonded to metals and metalloids. Emphasis will be placed on the structure and bonding of the compounds and their use in synthetic chemistry. Credit will be granted for only one of CHEM 418 or CHEM 524."}
+{
+  "course_name": "CHEM 418",
+  "subject_code": "CHEM",
+  "course_number": "418",
+  "course_title": "Organometallic Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=418&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 418 209",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=418&section=209&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "418",
+      "section_number": "209",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHAFER, LAUREL"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "20",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The chemistry of compounds containing organic groups directly bonded to metals and metalloids. Emphasis will be placed on the structure and bonding of the compounds and their use in synthetic chemistry. Credit will be granted for only one of CHEM 418 or CHEM 524.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

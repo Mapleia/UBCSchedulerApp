@@ -1,1 +1,44 @@
-{"course_name":"LING 445","subject_code":"LING","course_number":"445","course_title":"Sociolinguistics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=445&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"LING 445 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=445&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Pre-requisites for this course are LING 200 and 201","subject_code":"LING","course_number":"445","section_number":"002","building":" ","room":"","instructors":["CARDOSO, AMANDA"],"totalRemaining":"10","currentlyRegistered":"40","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The systematic study of language as a social phenomenon."}
+{
+  "course_name": "LING 445",
+  "subject_code": "LING",
+  "course_number": "445",
+  "course_title": "Sociolinguistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 445 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=445&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Pre-requisites for this course are LING 200 and 201",
+      "subject_code": "LING",
+      "course_number": "445",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARDOSO, AMANDA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "40",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The systematic study of language as a social phenomenon.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

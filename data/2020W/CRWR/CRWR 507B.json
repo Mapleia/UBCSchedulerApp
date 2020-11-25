@@ -1,1 +1,44 @@
-{"course_name":"CRWR 507B","subject_code":"CRWR","course_number":"507B","course_title":"Advanced Writing of Drama for the Stage I - ADV DRMA STG I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=507B&sessyr=2020&sesscd=W","sections":{"D02":{"status":"Restricted","section":"CRWR 507B D02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=507B&section=D02&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Wed","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"507B","section_number":"D02","building":"No Scheduled Meeting","room":"","instructors":["HUNT, STEPHEN"],"totalRemaining":"3","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 507B",
+  "subject_code": "CRWR",
+  "course_number": "507B",
+  "course_title": "Advanced Writing of Drama for the Stage I - ADV DRMA STG I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=507B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 507B D02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=507B&section=D02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "507B",
+      "section_number": "D02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUNT, STEPHEN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

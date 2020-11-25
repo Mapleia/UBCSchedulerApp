@@ -1,1 +1,255 @@
-{"course_name":"CPSC 107","subject_code":"CPSC","course_number":"107","course_title":"Systematic Program Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=107&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 107 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"CPSC 107 is intended for students who have *completed* CPSC 103 and have then decided to pursue further study in Computer Science.  If you have not yet completed CPSC 103 and already intend to pursue further study in Computer Science, you should register for CPSC 110 instead.  For more information on how to select a first year CS course go to: https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-coursePlease note that we will open up more labs, if the demand is there when the course starts.","subject_code":"CPSC","course_number":"107","section_number":"201","building":"Hugh Dempster Pavilion","room":"310","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"159","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":" ","section":"CPSC 107 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"9:00","end":"11:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2A","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"3","restrictedRemaining":"0"},"L2B":{"status":" ","section":"CPSC 107 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"11:00","end":"13:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2B","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"22","generalRemaining":"2","restrictedRemaining":"0"},"L2C":{"status":"Full","section":"CPSC 107 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"13:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2C","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"L2D":{"status":"Blocked","section":"CPSC 107 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2D","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"0","generalRemaining":"24","restrictedRemaining":"0"},"L2E":{"status":"Full","section":"CPSC 107 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"16:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2E","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"L2F":{"status":" ","section":"CPSC 107 L2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2F&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"18:00","end":"20:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2F","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"20","generalRemaining":"4","restrictedRemaining":"0"},"L2G":{"status":"Full","section":"CPSC 107 L2G","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2G&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"16:00","end":"18:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"L2G","building":"Institute for Computing (ICICS/CS)","room":"X050","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 107 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"CPSC","course_number":"107","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"938","currentlyRegistered":"61","generalRemaining":"938","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fundamental computation and program structures. Continuing systematic program design from CPSC 103."}
+{
+  "course_name": "CPSC 107",
+  "subject_code": "CPSC",
+  "course_number": "107",
+  "course_title": "Systematic Program Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=107&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 107 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "CPSC 107 is intended for students who have *completed* CPSC 103 and have then decided to pursue further study in Computer Science.  If you have not yet completed CPSC 103 and already intend to pursue further study in Computer Science, you should register for CPSC 110 instead.  For more information on how to select a first year CS course go to: https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-coursePlease note that we will open up more labs, if the demand is there when the course starts.",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GARCIA, RONALD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "183",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 107 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 107 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 107 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 107 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "0",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 107 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 107 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "23",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 107 L2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=L2G&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "L2G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 107 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=107&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "107",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "955",
+      "currentlyRegistered": "44",
+      "generalRemaining": "955",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fundamental computation and program structures. Continuing systematic program design from CPSC 103.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

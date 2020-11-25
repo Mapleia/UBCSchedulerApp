@@ -1,1 +1,44 @@
-{"course_name":"MUSC 170","subject_code":"MUSC","course_number":"170","course_title":"Lyric Diction","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=170&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 170 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=170&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Tue Thu","start":"11:00","end":"12:00","comments":"2020W Term 1 Format:  Students will attend two weekly 40-minute online classes on Tuesday and Thursdays at 11 am, plus some supplementary tutorials at other times to be arranged with the instructor.Restricted to BMUS - VOIC  and  OPER. Open to BMUS General Studies voice concentrators, by instructor permission only.","subject_code":"MUSC","course_number":"170","section_number":"001","building":"Music","room":"338","instructors":["EPP, RICHARD ARTHUR"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 2","description":"A study of the basic phonetics and accepted principles of lyric diction of the four languages most commonly used in concert and operatic repertoire: French, German, Italian, and English."}
+{
+  "course_name": "MUSC 170",
+  "subject_code": "MUSC",
+  "course_number": "170",
+  "course_title": "Lyric Diction",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=170&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 170 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=170&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "2020W Term 1 Format:  Students will attend two weekly 40-minute online classes on Tuesday and Thursdays at 11 am, plus some supplementary tutorials at other times to be arranged with the instructor.Restricted to BMUS - VOIC  and  OPER. Open to BMUS General Studies voice concentrators, by instructor permission only.",
+      "subject_code": "MUSC",
+      "course_number": "170",
+      "section_number": "001",
+      "building": "Music",
+      "room": "338",
+      "instructors": [
+        "EPP, RICHARD ARTHUR"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 2,
+  "description": "A study of the basic phonetics and accepted principles of lyric diction of the four languages most commonly used in concert and operatic repertoire: French, German, Italian, and English.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

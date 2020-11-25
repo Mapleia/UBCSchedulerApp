@@ -1,1 +1,43 @@
-{"course_name":"PATH 720","subject_code":"PATH","course_number":"720","course_title":"Microbiological Diagnosis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=720&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PATH 720 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=720&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"FOR MED RESIDENTS","subject_code":"PATH","course_number":"720","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 0","description":"Conduct of bacterial, fungal, parasitological, and viral laboratory tests relevant to the microbiological examination of patients. For medical residents."}
+{
+  "course_name": "PATH 720",
+  "subject_code": "PATH",
+  "course_number": "720",
+  "course_title": "Microbiological Diagnosis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=720&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PATH 720 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=720&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "FOR MED RESIDENTS",
+      "subject_code": "PATH",
+      "course_number": "720",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": "Conduct of bacterial, fungal, parasitological, and viral laboratory tests relevant to the microbiological examination of patients. For medical residents.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

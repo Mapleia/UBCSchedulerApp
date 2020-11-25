@@ -1,1 +1,72 @@
-{"course_name":"FNIS 210","subject_code":"FNIS","course_number":"210","course_title":"Indigenous Politics and Self-Determination","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNIS 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=210&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"It is recommended that you complete FNIS 100 prior to taking FNIS 210.  Credits will be granted for only one of FNSP 200, FNIS 210, or FNSP 210.  This course is intended for undergraduate students only.  If you are a graduate student, please visit:  http://fnis.arts.ubc.ca/graduate-courses/. This section is now full, please register in the waitlist and you will be moved to the course when a spot opens up.","subject_code":"FNIS","course_number":"210","section_number":"001","building":" ","room":"","instructors":["COULTHARD, GLEN"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"FNIS 210 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=210&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This is a waitlist section for undergraduate students  - only register in this section if FNIS 210 001 is full. Registering in the waitlist section does not guarantee you a spot in the course. When spots open up you will be moved from this section to the actual course. Email cis.program@ubc.ca with any questions.","subject_code":"FNIS","course_number":"210","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"28","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The cultural, historical, political, economic, and gender dynamics that structure the relationship between Indigenous peoples and the state in Canada; Indigenous self-determination struggles in relation to constitutional recognition, self-government, land claims, and economic development. Credit will be granted for only one of FNSP 200, FNIS 210, or FNSP 210."}
+{
+  "course_name": "FNIS 210",
+  "subject_code": "FNIS",
+  "course_number": "210",
+  "course_title": "Indigenous Politics and Self-Determination",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNIS 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "It is recommended that you complete FNIS 100 prior to taking FNIS 210.  Credits will be granted for only one of FNSP 200, FNIS 210, or FNSP 210.  This course is intended for undergraduate students only.  If you are a graduate student, please visit:  http://fnis.arts.ubc.ca/graduate-courses/. This section is now full, please register in the waitlist and you will be moved to the course when a spot opens up.",
+      "subject_code": "FNIS",
+      "course_number": "210",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COULTHARD, GLEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FNIS 210 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=210&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is a waitlist section for undergraduate students  - only register in this section if FNIS 210 001 is full. Registering in the waitlist section does not guarantee you a spot in the course. When spots open up you will be moved from this section to the actual course. Email cis.program@ubc.ca with any questions.",
+      "subject_code": "FNIS",
+      "course_number": "210",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The cultural, historical, political, economic, and gender dynamics that structure the relationship between Indigenous peoples and the state in Canada; Indigenous self-determination struggles in relation to constitutional recognition, self-government, land claims, and economic development. Credit will be granted for only one of FNSP 200, FNIS 210, or FNSP 210.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

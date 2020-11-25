@@ -1,1 +1,124 @@
-{"course_name":"CRWR 509A","subject_code":"CRWR","course_number":"509A","course_title":"Advanced Writing of Fiction I - ADV WRT FICTN I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=509A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CRWR 509A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"13:00","end":"15:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, most of the class discussion will be asynchronous and text-based. There will be an optional Zoom meeting during the scheduled class time, with craft lectures and writing activities (recorded for viewing by anyone who can\u0019t make the synchronous time).","subject_code":"CRWR","course_number":"509A","section_number":"001","building":" ","room":"","instructors":["OHLIN, ALIX"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"1"},"003":{"status":"Full","section":"CRWR 509A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"13:00","end":"15:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, there will be a mixture of synchronous and asynchronous interaction, but the finer details of this will be determined by a discussion with the class at the start of the term.","subject_code":"CRWR","course_number":"509A","section_number":"003","building":" ","room":"","instructors":["VIGNA, JOHN"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"},"D01":{"status":"Restricted","section":"CRWR 509A D01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=D01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu Fri","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"509A","section_number":"D01","building":" ","room":"","instructors":["FERGUSON, JENNY LEE"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"1"},"D03":{"status":"Restricted","section":"CRWR 509A D03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=D03&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu Fri","start":" ","end":" ","comments":"","subject_code":"CRWR","course_number":"509A","section_number":"D03","building":" ","room":"","instructors":["LEE, NANCY"],"totalRemaining":"2","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 509A",
+  "subject_code": "CRWR",
+  "course_number": "509A",
+  "course_title": "Advanced Writing of Fiction I - ADV WRT FICTN I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=509A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 509A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, most of the class discussion will be asynchronous and text-based. There will be an optional Zoom meeting during the scheduled class time, with craft lectures and writing activities (recorded for viewing by anyone who can\u0019t make the synchronous time).",
+      "subject_code": "CRWR",
+      "course_number": "509A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OHLIN, ALIX"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 509A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, there will be a mixture of synchronous and asynchronous interaction, but the finer details of this will be determined by a discussion with the class at the start of the term.",
+      "subject_code": "CRWR",
+      "course_number": "509A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VIGNA, JOHN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 509A D01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=D01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "509A",
+      "section_number": "D01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERGUSON, JENNY LEE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "CRWR 509A D03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=509A&section=D03&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "509A",
+      "section_number": "D03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, NANCY"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,195 @@
-{"course_name":"MATH 180","subject_code":"MATH","course_number":"180","course_title":"Differential Calculus with Physical Applications","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=180&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MATH 180 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"Prerequisites for this course will be strictly enforced. If you do not have a grade of 80% or better in Pre-Calclulus 12, please register in MATH 110.  Students in MATH 180 101 do not need to register for a workshop.","subject_code":"MATH","course_number":"180","section_number":"101","building":" ","room":"","instructors":["LEUNG, FOK-SHUEN","LEUNG, FOK-SHUEN(Coordinator)","BUDDHASON, SARAH(Lead)","BULUT, AHMET ALPEREN(Lead)","DI BENEDETTO, DANIEL(Lead)","MALETTO, SIMONE(Lead)","SCAVIA, FEDERICO(Lead)","SOOFIANI, AMIN(Lead)","LI, JASON","SRIVASTAVA, ISABELLE","WANG, SARAH","YUE, EDISON"],"totalRemaining":"68","currentlyRegistered":"202","generalRemaining":"0","restrictedRemaining":"68"},"102":{"status":"STT","section":"MATH 180 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"MATH 180 102 is comprised of a two hour asynchronous lecture, a one hour synchronous workshop and a 90 minute discussion. Attending lectures will not be required as they will be recorded and can be viewed at any time, but attending workshops and discussions will be required.","subject_code":"MATH","course_number":"180","section_number":"102","building":" ","room":"","instructors":["BACHMANN, SVEN","BENNETT, MICHAEL","BENNETT, MICHAEL(Coordinator)","GHIOCA, DRAGOS","LONDNER, ITAY","ZARE BEZGABADI, MARJAN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"DWA":{"status":"STT","section":"MATH 180 DWA","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=DWA&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"Students must regsiter for a discussion and a workshop.","subject_code":"MATH","course_number":"180","section_number":"DWA","building":" ","room":"","instructors":["TBA","NAUMENKO, ALEXANDER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"DWB":{"status":"Cancelled","section":"MATH 180 DWB","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=DWB&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MATH","course_number":"180","section_number":"DWB","building":"","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WTY":{"status":"STT","section":"MATH 180 WTY","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=WTY&sessyr=2020&sesscd=W","activity":"Workshop","term":"1","interval":"","days":" Tue","start":"8:00","end":"9:00","comments":"Students must regsiter for a discussion and a workshop.","subject_code":"MATH","course_number":"180","section_number":"WTY","building":" ","room":"","instructors":["BENNETT, MICHAEL","NAUMENKO, ALEXANDER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WTZ":{"status":"Cancelled","section":"MATH 180 WTZ","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=WTZ&sessyr=2020&sesscd=W","activity":"Workshop","term":"1","interval":"","days":" ","start":"","end":"","comments":"Students must regsiter for a discussion and a workshop.","subject_code":"MATH","course_number":"180","section_number":"WTZ","building":"","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination."}
+{
+  "course_name": "MATH 180",
+  "subject_code": "MATH",
+  "course_number": "180",
+  "course_title": "Differential Calculus with Physical Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=180&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MATH 180 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "Prerequisites for this course will be strictly enforced. If you do not have a grade of 80% or better in Pre-Calclulus 12, please register in MATH 110.  Students in MATH 180 101 do not need to register for a workshop.",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, FOK-SHUEN",
+        "LEUNG, FOK-SHUEN(Coordinator)",
+        "BUDDHASON, SARAH",
+        "BULUT, AHMET ALPEREN",
+        "DI BENEDETTO, DANIEL",
+        "LI, JASON",
+        "MALETTO, SIMONE",
+        "SCAVIA, FEDERICO",
+        "SOOFIANI, AMIN",
+        "SRIVASTAVA, ISABELLE",
+        "WANG, SARAH",
+        "YUE, EDISON"
+      ],
+      "totalRemaining": "77",
+      "currentlyRegistered": "193",
+      "generalRemaining": "0",
+      "restrictedRemaining": "77"
+    },
+    {
+      "status": "STT",
+      "section": "MATH 180 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MATH 180 102 is comprised of a two hour asynchronous lecture, a one hour synchronous workshop and a 90 minute discussion. Attending lectures will not be required as they will be recorded and can be viewed at any time, but attending workshops and discussions will be required.",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BACHMANN, SVEN",
+        "BENNETT, MICHAEL",
+        "BENNETT, MICHAEL(Coordinator)",
+        "BOWLES, MALCOLM NORMAN STANLEY",
+        "GHIOCA, DRAGOS",
+        "LONDNER, ITAY",
+        "ZARE BEZGABADI, MARJAN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 180 DWA",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=DWA&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Students must regsiter for a discussion and a workshop.",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "DWA",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA",
+        "NAUMENKO, ALEXANDER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Cancelled",
+      "section": "MATH 180 DWB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=DWB&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "DWB",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MATH 180 WTY",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=WTY&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "Students must regsiter for a discussion and a workshop.",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "WTY",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BENNETT, MICHAEL",
+        "BOWLES, MALCOLM NORMAN STANLEY",
+        "NAUMENKO, ALEXANDER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Cancelled",
+      "section": "MATH 180 WTZ",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=180&section=WTZ&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Students must regsiter for a discussion and a workshop.",
+      "subject_code": "MATH",
+      "course_number": "180",
+      "section_number": "WTZ",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion",
+    "Workshop"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MIDW 499A","subject_code":"MIDW","course_number":"499A","course_title":"Midwifery Self-Directed Course - MIDW SLF-DIR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=499A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MIDW 499A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=499A&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MIDW","course_number":"499A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 2","description":"Unique self-directed elective learning opportunities."}
+{
+  "course_name": "MIDW 499A",
+  "subject_code": "MIDW",
+  "course_number": "499A",
+  "course_title": "Midwifery Self-Directed Course - MIDW SLF-DIR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=499A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MIDW 499A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=499A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "499A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 2,
+  "description": "Unique self-directed elective learning opportunities.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

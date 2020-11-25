@@ -1,1 +1,73 @@
-{"course_name":"BMEG 456","subject_code":"BMEG","course_number":"456","course_title":"Clinical and Industrial Biomedical Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=456&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"BMEG 456 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=456&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"16:00","end":"19:00","comments":"For inquiries, please contact the SBME Student Services at undergrad@bme.ubc.ca.","subject_code":"BMEG","course_number":"456","section_number":"101","building":" ","room":"","instructors":["FINDLAY, JUDY"],"totalRemaining":"10","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"10"},"WL1":{"status":" ","section":"BMEG 456 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=456&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"Students who register in this waitlist section are not guaranteed registration in the course. Student will be accomodated into the course provided seats are available and the instructor has given permission to register (NOTE IGEN and MTRL students do not need permission from the instructor to register). Please check the SSC in early August to view registration changes.","subject_code":"BMEG","course_number":"456","section_number":"WL1","building":"","room":"","instructors":["30","0","30","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Principles of clinical practice, Canadian healthcare system, medical approach to diagnosis, ethics and regulations for clinical trials, medical technology management, medical device development and standards, biostatistics. Credit will be granted for only one of BMEG 257, BMEG 456, BMEG 556."}
+{
+  "course_name": "BMEG 456",
+  "subject_code": "BMEG",
+  "course_number": "456",
+  "course_title": "Clinical and Industrial Biomedical Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=456&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 456 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=456&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "For inquiries, please contact the SBME Student Services at undergrad@bme.ubc.ca.",
+      "subject_code": "BMEG",
+      "course_number": "456",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FINDLAY, JUDY"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 456 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=456&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Students who register in this waitlist section are not guaranteed registration in the course. Student will be accomodated into the course provided seats are available and the instructor has given permission to register (NOTE IGEN and MTRL students do not need permission from the instructor to register). Please check the SSC in early August to view registration changes.",
+      "subject_code": "BMEG",
+      "course_number": "456",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of clinical practice, Canadian healthcare system, medical approach to diagnosis, ethics and regulations for clinical trials, medical technology management, medical device development and standards, biostatistics. Credit will be granted for only one of BMEG 257, BMEG 456, BMEG 556.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

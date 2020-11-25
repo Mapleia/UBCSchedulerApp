@@ -1,1 +1,46 @@
-{"course_name":"DENT 420","subject_code":"DENT","course_number":"420","course_title":"Dentistry II: Basic Clinical Dentistry ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=420&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 420 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=420&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DENT","course_number":"420","section_number":"001","building":"","room":"","instructors":["2","54","2","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 38","description":"Continued exposure to body systems and the supporting biomedical sciences with applications in dental clinical sciences, integrated into small group learning, classroom, laboratory, and community settings utilizing technology; continued engagement in professionalism, ethics and communication skills."}
+{
+  "course_name": "DENT 420",
+  "subject_code": "DENT",
+  "course_number": "420",
+  "course_title": "Dentistry II: Basic Clinical Dentistry ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "420",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "2",
+        "54",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 8,
+  "description": "Continued exposure to body systems and the supporting biomedical sciences with applications in dental clinical sciences, integrated into small group learning, classroom, laboratory, and community settings utilizing technology; continued engagement in professionalism, ethics and communication skills.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

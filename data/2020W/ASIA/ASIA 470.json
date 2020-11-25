@@ -1,1 +1,44 @@
-{"course_name":"ASIA 470","subject_code":"ASIA","course_number":"470","course_title":"Comparative Conceptions of the Self","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=470&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ASIA 470 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=470&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.","subject_code":"ASIA","course_number":"470","section_number":"001","building":"Henry Angus","room":"243","instructors":["THOMPSON, EVAN"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Ways in which the \"self\" has been portrayed in eastern and western religious traditions. Thinkers to be considered include Aristotle, Mencius, Freud, Xunzi (Hsün-tzu), Nietzsche, and Zhuangzi (Chuang-tzu)."}
+{
+  "course_name": "ASIA 470",
+  "subject_code": "ASIA",
+  "course_number": "470",
+  "course_title": "Comparative Conceptions of the Self",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=470&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASIA 470 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=470&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "UBC has not yet confirmed an approach for Term 2 courses. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. Should the decision be made to offer Term 2 courses online, one or more of these times may be dropped or reduced, and replaced with asynchronous learning tasks. These details will be updated here as they become available. The overall workload of the course will remain unchanged.",
+      "subject_code": "ASIA",
+      "course_number": "470",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, EVAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Ways in which the \"self\" has been portrayed in eastern and western religious traditions. Thinkers to be considered include Aristotle, Mencius, Freud, Xunzi (Hsün-tzu), Nietzsche, and Zhuangzi (Chuang-tzu).",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

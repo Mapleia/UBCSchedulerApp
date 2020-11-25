@@ -1,1 +1,47 @@
-{"course_name":"MATH 323","subject_code":"MATH","course_number":"323","course_title":"Introduction to Rings and Modules","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=323&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"MATH 323 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=323&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.","subject_code":"MATH","course_number":"323","section_number":"201","building":"Mathematics","room":"203","instructors":["0","35","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Rings, ideals, unique factorization, Euclidean rings, fields, polynomial rings, modules; structure theory of modules over a principal ideal domain."}
+{
+  "course_name": "MATH 323",
+  "subject_code": "MATH",
+  "course_number": "323",
+  "course_title": "Introduction to Rings and Modules",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 323 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=323&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "323",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "11",
+        "24",
+        "11",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Rings, ideals, unique factorization, Euclidean rings, fields, polynomial rings, modules; structure theory of modules over a principal ideal domain.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

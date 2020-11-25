@@ -1,1 +1,43 @@
-{"course_name":"FIPR 534A","subject_code":"FIPR","course_number":"534A","course_title":"Advanced Production for Film and Television - ADV PROD FILM&TV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=534A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIPR 534A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=534A&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Tue","start":" ","end":" ","comments":"Please consult your MFA Film Production Graduate Advisor before enrolling in this course.","subject_code":"FIPR","course_number":"534A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["MCGOWAN, SHARON"],"totalRemaining":"7","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"7"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FIPR 534A",
+  "subject_code": "FIPR",
+  "course_number": "534A",
+  "course_title": "Advanced Production for Film and Television - ADV PROD FILM&TV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=534A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 534A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=534A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please consult your MFA Film Production Graduate Advisor before enrolling in this course.",
+      "subject_code": "FIPR",
+      "course_number": "534A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MCGOWAN, SHARON"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

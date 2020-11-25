@@ -1,1 +1,70 @@
-{"course_name":"NURS 576","subject_code":"NURS","course_number":"576","course_title":"Topics in Social and Environmental Planning to Foster Health of Populations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=576&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"NURS 576 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=576&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for MHLP, MSN and MPHMSN students.This course will examine the characteristics of social and built environments that are developmentally appropriate for seniors with a range of abilities and consider their impact on senior health.","subject_code":"NURS","course_number":"576","section_number":"001","building":" ","room":"","instructors":["COOKE, HEATHER"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"19"},"01W":{"status":"Blocked","section":"NURS 576 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=576&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist section for NURS 576-001","subject_code":"NURS","course_number":"576","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Characteristics of social and built environments for their impact on the health of populations."}
+{
+  "course_name": "NURS 576",
+  "subject_code": "NURS",
+  "course_number": "576",
+  "course_title": "Topics in Social and Environmental Planning to Foster Health of Populations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=576&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 576 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=576&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for MHLP, MSN and MPHMSN students.This course will examine the characteristics of social and built environments that are developmentally appropriate for seniors with a range of abilities and consider their impact on senior health.",
+      "subject_code": "NURS",
+      "course_number": "576",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COOKE, HEATHER"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 576 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=576&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist section for NURS 576-001",
+      "subject_code": "NURS",
+      "course_number": "576",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Characteristics of social and built environments for their impact on the health of populations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

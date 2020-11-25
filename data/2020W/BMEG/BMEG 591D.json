@@ -1,1 +1,75 @@
-{"course_name":"BMEG 591D","subject_code":"BMEG","course_number":"591D","course_title":"Topics in Biomedical Engineering - CLNCL INFRMTCS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=591D&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BMEG 591D 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=591D&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"BMEG","course_number":"591D","section_number":"101","building":" ","room":"","instructors":["GOERGES, MATTHIAS"],"totalRemaining":"5","currentlyRegistered":"10","generalRemaining":"5","restrictedRemaining":"0"},"WL1":{"status":" ","section":"BMEG 591D WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=591D&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"BMEG","course_number":"591D","section_number":"WL1","building":"","room":"","instructors":["10","0","10","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "BMEG 591D",
+  "subject_code": "BMEG",
+  "course_number": "591D",
+  "course_title": "Topics in Biomedical Engineering - CLNCL INFRMTCS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=591D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BMEG 591D 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=591D&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "591D",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GOERGES, MATTHIAS"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 591D WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=591D&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "591D",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "10",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

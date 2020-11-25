@@ -1,1 +1,123 @@
-{"course_name":"MUSC 200","subject_code":"MUSC","course_number":"200","course_title":"Chromatic Harmony and Voice Leading","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=200&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 200 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:00","comments":"This course is for BMUS and BA - Music Majors and Minors. For prospective BA Music Majors and Minors ONLY: to register, e-mail music.advisor@ubc.ca Select MUSC 200 lecture + one tutorial.","subject_code":"MUSC","course_number":"200","section_number":"001","building":"Music","room":"116","instructors":["POUDRIER, EVE"],"totalRemaining":"6","currentlyRegistered":"69","generalRemaining":"0","restrictedRemaining":"6"},"T01":{"status":"Full","section":"MUSC 200 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"MUSC","course_number":"200","section_number":"T01","building":"Music","room":"339","instructors":["POUDRIER, EVE"],"totalRemaining":"0","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"0"},"T02":{"status":"Restricted","section":"MUSC 200 T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"MUSC","course_number":"200","section_number":"T02","building":"Music","room":"339","instructors":["POUDRIER, EVE"],"totalRemaining":"10","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"10"},"T03":{"status":" ","section":"MUSC 200 T03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T03&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"MUSC","course_number":"200","section_number":"T03","building":"Music","room":"339","instructors":["POUDRIER, EVE"],"totalRemaining":"16","currentlyRegistered":"4","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Harmonic and linear functions of common chromatic chords; mixture; chords and progressions of linear origin; tonal plans. Compositional and analytical exercises."}
+{
+  "course_name": "MUSC 200",
+  "subject_code": "MUSC",
+  "course_number": "200",
+  "course_title": "Chromatic Harmony and Voice Leading",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This course is for BMUS and BA - Music Majors and Minors. For prospective BA Music Majors and Minors ONLY: to register, e-mail music.advisor@ubc.ca Select MUSC 200 lecture + one tutorial.",
+      "subject_code": "MUSC",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POUDRIER, EVE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 200 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "200",
+      "section_number": "T01",
+      "building": "Music",
+      "room": "339",
+      "instructors": [
+        "POUDRIER, EVE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 200 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "200",
+      "section_number": "T02",
+      "building": "Music",
+      "room": "339",
+      "instructors": [
+        "POUDRIER, EVE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 200 T03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=200&section=T03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "200",
+      "section_number": "T03",
+      "building": "Music",
+      "room": "339",
+      "instructors": [
+        "POUDRIER, EVE"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Harmonic and linear functions of common chromatic chords; mixture; chords and progressions of linear origin; tonal plans. Compositional and analytical exercises.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

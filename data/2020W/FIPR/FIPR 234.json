@@ -1,1 +1,43 @@
-{"course_name":"FIPR 234","subject_code":"FIPR","course_number":"234","course_title":"Production Planning and Professional Practices","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=234&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIPR 234 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=234&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR 234, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"FIPR","course_number":"234","section_number":"001","building":"Theatre-Film Production Building","room":"104","instructors":["MCGOWAN, SHARON"],"totalRemaining":"1","currentlyRegistered":"64","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"Planning of film productions from concept to completion."}
+{
+  "course_name": "FIPR 234",
+  "subject_code": "FIPR",
+  "course_number": "234",
+  "course_title": "Production Planning and Professional Practices",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=234&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 234 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=234&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIPR 234, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIPR",
+      "course_number": "234",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGOWAN, SHARON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "64",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "Planning of film productions from concept to completion.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

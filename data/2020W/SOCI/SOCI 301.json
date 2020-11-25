@@ -1,1 +1,127 @@
-{"course_name":"SOCI 301","subject_code":"SOCI","course_number":"301","course_title":"Sociology of Development and Underdevelopment","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=301&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"SOCI 301 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"17:00","end":"18:30","comments":"Students who do not have the pre-reqs listed may be considered for the course if they have taken courses such as: Introduction to Anthropology, Political Science, and/or Geography. If you have questions about your preparedness, you are encouraged to contact the professor for the section enrolled.","subject_code":"SOCI","course_number":"301","section_number":"102","building":" ","room":"","instructors":["WEI, QIAN"],"totalRemaining":"11","currentlyRegistered":"69","generalRemaining":"11","restrictedRemaining":"0"},"103":{"status":"Full","section":"SOCI 301 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"SOCI","course_number":"301","section_number":"103","building":" ","room":"","instructors":["CHEONG, AMANDA"],"totalRemaining":"0","currentlyRegistered":"80","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":" ","section":"SOCI 301 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Students who do not have the pre-reqs listed may be considered for the course if they have taken courses such as: Introduction to Anthropology, Political Science, and/or Geography. If you have questions about your preparedness, you are encouraged to contact the professor for the section enrolled.","subject_code":"SOCI","course_number":"301","section_number":"201","building":"Anthropology and Sociology","room":"207","instructors":["ROBINSON, ORAL"],"totalRemaining":"8","currentlyRegistered":"72","generalRemaining":"8","restrictedRemaining":"0"},"202":{"status":" ","section":"SOCI 301 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"301","section_number":"202","building":"Frederic Lasserre","room":"104","instructors":["CHEONG, AMANDA"],"totalRemaining":"1","currentlyRegistered":"79","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Processes of social change in the Third World and other developing countries. Major themes stress the relationship between urbanization and industrialization; modernization and ethnic conflict; imperialism, neo-colonialism, and foreign aid; and intra-national modernization problems such as regional underdevelopment in industrial societies."}
+{
+  "course_name": "SOCI 301",
+  "subject_code": "SOCI",
+  "course_number": "301",
+  "course_title": "Sociology of Development and Underdevelopment",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 301 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Students who do not have the pre-reqs listed may be considered for the course if they have taken courses such as: Introduction to Anthropology, Political Science, and/or Geography. If you have questions about your preparedness, you are encouraged to contact the professor for the section enrolled.",
+      "subject_code": "SOCI",
+      "course_number": "301",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WEI, QIAN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "69",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 301 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "301",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEONG, AMANDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 301 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Students who do not have the pre-reqs listed may be considered for the course if they have taken courses such as: Introduction to Anthropology, Political Science, and/or Geography. If you have questions about your preparedness, you are encouraged to contact the professor for the section enrolled.",
+      "subject_code": "SOCI",
+      "course_number": "301",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBINSON, ORAL"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "73",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 301 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=301&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "301",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEONG, AMANDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Processes of social change in the Third World and other developing countries. Major themes stress the relationship between urbanization and industrialization; modernization and ethnic conflict; imperialism, neo-colonialism, and foreign aid; and intra-national modernization problems such as regional underdevelopment in industrial societies.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

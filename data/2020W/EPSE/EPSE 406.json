@@ -1,1 +1,201 @@
-{"course_name":"EPSE 406","subject_code":"EPSE","course_number":"406","course_title":"Typical and Atypical Development in Infants and Children","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=406&sessyr=2020&sesscd=W","sections":{"63A":{"status":"Blocked","section":"EPSE 406 63A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"406","section_number":"63A","building":" ","room":"","instructors":["EL KHATIB, LARA"],"totalRemaining":"1","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"1"},"63B":{"status":"Blocked","section":"EPSE 406 63B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63B&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"406","section_number":"63B","building":"No Scheduled Meeting","room":"","instructors":["EL KHATIB, LARA"],"totalRemaining":"4","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"4"},"63C":{"status":"Blocked","section":"EPSE 406 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"406","section_number":"63C","building":" ","room":"","instructors":["STEWART, MARY"],"totalRemaining":"4","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"4"},"63D":{"status":"Blocked","section":"EPSE 406 63D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63D&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"406","section_number":"63D","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"63E":{"status":"Blocked","section":"EPSE 406 63E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63E&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:\"\tSpecialization SPED and IDSC (registration opens June 11)\"\tProgram BA, specialization EDUC, emphasis SPEDRestricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"406","section_number":"63E","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"W3A":{"status":"Blocked","section":"EPSE 406 W3A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=W3A&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Enrollment on a waitlist does not guarantee eventual registration in the course.","subject_code":"EPSE","course_number":"406","section_number":"W3A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"36"},"W3D":{"status":"Restricted","section":"EPSE 406 W3D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=W3D&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Enrollment on a waitlist does not guarantee eventual registration in the course.","subject_code":"EPSE","course_number":"406","section_number":"W3D","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"24"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 406",
+  "subject_code": "EPSE",
+  "course_number": "406",
+  "course_title": "Typical and Atypical Development in Infants and Children",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "63A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EL KHATIB, LARA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 63B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63B&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "63B",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "EL KHATIB, LARA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "63C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEWART, MARY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 63D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63D&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "63D",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "EL KHATIB, LARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 63E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=63E&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:\"\tSpecialization SPED and IDSC (registration opens June 11)\"\tProgram BA, specialization EDUC, emphasis SPEDRestricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "63E",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "EL KHATIB, LARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 406 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    },
+    {
+      "status": "Restricted",
+      "section": "EPSE 406 W3D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=406&section=W3D&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "406",
+      "section_number": "W3D",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

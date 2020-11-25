@@ -1,1 +1,74 @@
-{"course_name":"CLST 356","subject_code":"CLST","course_number":"356","course_title":"Alexander the Great and his Empire","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=356&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 356 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=356&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"16:00","end":"17:00","comments":"If the course is full or blocked, please register in the waitlist section.","subject_code":"CLST","course_number":"356","section_number":"001","building":"Buchanan","room":"B304","instructors":["JOHNSON, CARL"],"totalRemaining":"4","currentlyRegistered":"26","generalRemaining":"4","restrictedRemaining":"0"},"WL1":{"status":" ","section":"CLST 356 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=356&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"16:00","end":"17:00","comments":"Waitlist for CLST 356-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.","subject_code":"CLST","course_number":"356","section_number":"WL1","building":" ","room":"","instructors":["JOHNSON, CARL"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The rise of Macedon under Philip II leading to its domination of Greece and the overthrow of the Persian Empire by his son, Alexander; the subsequent spread of Greek civilization in the East."}
+{
+  "course_name": "CLST 356",
+  "subject_code": "CLST",
+  "course_number": "356",
+  "course_title": "Alexander the Great and his Empire",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=356&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 356 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=356&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. If the course is full or blocked, please register in the waitlist section.",
+      "subject_code": "CLST",
+      "course_number": "356",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, CARL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CLST 356 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=356&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "Waitlist for CLST 356-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "CLST",
+      "course_number": "356",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, CARL"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The rise of Macedon under Philip II leading to its domination of Greece and the overthrow of the Persian Empire by his son, Alexander; the subsequent spread of Greek civilization in the East.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

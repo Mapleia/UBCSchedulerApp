@@ -1,1 +1,45 @@
-{"course_name":"PORT 102","subject_code":"PORT","course_number":"102","course_title":"First-Year Portuguese II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PORT&course=102&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PORT 102 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PORT&course=102&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Continuation of PORT 101.Required text:Clémence de Jouët-Pastré, Anna Klobucka, et al., Ponto de Encontro: Portuguese as a World Language package, 2nd Edition, Pearson Canada, 2013. (Ponto de Encontro package includes: Ponto de Encontro textbook [Brazilian Portuguese] and MyPortugueseLab [24 months access]. This textbook package is used in PORT 101, 102, 201 and 202)","subject_code":"PORT","course_number":"102","section_number":"201","building":" ","room":"","instructors":["ROCA, ANDREA"],"totalRemaining":"14","currentlyRegistered":"21","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Grammar, composition, translation, oral practice. Credit will be granted for only one of PORT 102 or PORT 110."}
+{
+  "course_name": "PORT 102",
+  "subject_code": "PORT",
+  "course_number": "102",
+  "course_title": "First-Year Portuguese II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PORT&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PORT 102 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PORT&course=102&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Continuation of PORT 101.Required text:Clémence de Jouët-Pastré, Anna Klobucka, et al., Ponto de Encontro: Portuguese as a World Language package, 2nd Edition, Pearson Canada, 2013. (Ponto de Encontro package includes: Ponto de Encontro textbook [Brazilian Portuguese] and MyPortugueseLab [24 months access]. This textbook package is used in PORT 101, 102, 201 and 202)",
+      "subject_code": "PORT",
+      "course_number": "102",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROCA, ANDREA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "22",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Grammar, composition, translation, oral practice. Credit will be granted for only one of PORT 102 or PORT 110.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

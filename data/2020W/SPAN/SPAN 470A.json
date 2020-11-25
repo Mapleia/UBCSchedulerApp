@@ -1,1 +1,44 @@
-{"course_name":"SPAN 470A","subject_code":"SPAN","course_number":"470A","course_title":"Imperial Eyes and Foundational Fictions: Topics in Spanish-American Colonial and Nineteenth-Century Culture - SP-AM CL< 19C","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=470A&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"SPAN 470A 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=470A&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Selected areas of study relating to colonial and/or nineteenth-century Spanish America. Consult the Department for this year's offerings. Full description: https://fhis.ubc.ca/course-description/span470a/","subject_code":"SPAN","course_number":"470A","section_number":"201","building":" ","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected areas of study relating to colonial and/or nineteenth-century Spanish America. Consult the Department for this year's offerings."}
+{
+  "course_name": "SPAN 470A",
+  "subject_code": "SPAN",
+  "course_number": "470A",
+  "course_title": "Imperial Eyes and Foundational Fictions: Topics in Spanish-American Colonial and Nineteenth-Century Culture - SP-AM CL< 19C",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=470A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "SPAN 470A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=470A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Selected areas of study relating to colonial and/or nineteenth-century Spanish America. Consult the Department for this year's offerings. Full description: https://fhis.ubc.ca/course-description/span470a/",
+      "subject_code": "SPAN",
+      "course_number": "470A",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected areas of study relating to colonial and/or nineteenth-century Spanish America. Consult the Department for this year's offerings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

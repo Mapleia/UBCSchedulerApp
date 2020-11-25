@@ -1,1 +1,43 @@
-{"course_name":"FRST 408","subject_code":"FRST","course_number":"408","course_title":"Advanced Forest Insect Ecology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=408&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"FRST 408 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=408&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"","subject_code":"FRST","course_number":"408","section_number":"201","building":"Forest Sciences Centre","room":"1617","instructors":["CARROLL, ALLAN"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Role of climate and climate change in the population dynamics, outbreak potentials and resultant impacts to forest ecosystems associated with herbivorous forest insects."}
+{
+  "course_name": "FRST 408",
+  "subject_code": "FRST",
+  "course_number": "408",
+  "course_title": "Advanced Forest Insect Ecology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=408&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 408 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=408&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "408",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARROLL, ALLAN"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Role of climate and climate change in the population dynamics, outbreak potentials and resultant impacts to forest ecosystems associated with herbivorous forest insects.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

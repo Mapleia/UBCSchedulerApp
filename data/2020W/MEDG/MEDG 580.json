@@ -1,1 +1,43 @@
-{"course_name":"MEDG 580","subject_code":"MEDG","course_number":"580","course_title":"Genomic Testing and Clinical Bioinformatics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=580&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"MEDG 580 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=580&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MEDG","course_number":"580","section_number":"101","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Annotation, filtering, and candidate variant calling skill development with a clinical focus; yield, benefits, and limitations of genome-wide sequencing. Restricted to students in the Graduate Certificate in Genomic Counselling and Variant Interpretation."}
+{
+  "course_name": "MEDG 580",
+  "subject_code": "MEDG",
+  "course_number": "580",
+  "course_title": "Genomic Testing and Clinical Bioinformatics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=580&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MEDG 580 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=580&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MEDG",
+      "course_number": "580",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Annotation, filtering, and candidate variant calling skill development with a clinical focus; yield, benefits, and limitations of genome-wide sequencing. Restricted to students in the Graduate Certificate in Genomic Counselling and Variant Interpretation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,74 @@
-{"course_name":"CLST 260","subject_code":"CLST","course_number":"260","course_title":"Gladiators, Games, and Spectacle in the Greek and Roman World","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=260&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 260 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=260&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. If this course is full or blocked, please register in the waitlist.","subject_code":"CLST","course_number":"260","section_number":"001","building":" ","room":"","instructors":["MCELDUFF, SIOBHAN"],"totalRemaining":"2","currentlyRegistered":"58","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"History, development, and social function of various forms of spectacle in ancient Greece and Rome, from the Olympic games to the Roman arena."}
+{
+  "course_name": "CLST 260",
+  "subject_code": "CLST",
+  "course_number": "260",
+  "course_title": "Gladiators, Games, and Spectacle in the Greek and Roman World",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=260&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 260 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=260&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. If this course is full or blocked, please register in the waitlist.",
+      "subject_code": "CLST",
+      "course_number": "260",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCELDUFF, SIOBHAN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "58",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CLST 260 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=260&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Wait List for CLST 260-001. Students will be manually moved in order of registration from the waitlist to the course section as seats become available. If the course is blocked but showing available seats, waitlist transfers have not yet taken place.",
+      "subject_code": "CLST",
+      "course_number": "260",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "History, development, and social function of various forms of spectacle in ancient Greece and Rome, from the Olympic games to the Roman arena.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

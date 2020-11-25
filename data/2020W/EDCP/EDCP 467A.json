@@ -1,1 +1,43 @@
-{"course_name":"EDCP 467A","subject_code":"EDCP","course_number":"467A","course_title":"Special Topics in Curriculum and Pedagogy - SP TPCS C&P","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=467A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Unreleased","section":"EDCP 467A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467A&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDCP","course_number":"467A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 467A",
+  "subject_code": "EDCP",
+  "course_number": "467A",
+  "course_title": "Special Topics in Curriculum and Pedagogy - SP TPCS C&P",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=467A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "EDCP 467A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "467A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

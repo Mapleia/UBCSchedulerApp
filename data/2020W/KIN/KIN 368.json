@@ -1,1 +1,70 @@
-{"course_name":"KIN 368","subject_code":"KIN","course_number":"368","course_title":"Indigenous Sport and Physical Culture in Settler Canada","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=368&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 368 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=368&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"This course is formerly KIN 489c. Students can only receive credit for KIN 368 or KIN 489c","subject_code":"KIN","course_number":"368","section_number":"001","building":" ","room":"","instructors":["NORMAN, MOSS"],"totalRemaining":"24","currentlyRegistered":"96","generalRemaining":"0","restrictedRemaining":"24"},"0W1":{"status":"Blocked","section":"KIN 368 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=368&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"368","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Historical and contemporary issues in Canada that shape Indigenous sport and physical activity, health programs, and policies."}
+{
+  "course_name": "KIN 368",
+  "subject_code": "KIN",
+  "course_number": "368",
+  "course_title": "Indigenous Sport and Physical Culture in Settler Canada",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=368&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 368 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=368&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "This course is formerly KIN 489c. Students can only receive credit for KIN 368 or KIN 489c",
+      "subject_code": "KIN",
+      "course_number": "368",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NORMAN, MOSS"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "95",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 368 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=368&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "368",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Historical and contemporary issues in Canada that shape Indigenous sport and physical activity, health programs, and policies.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

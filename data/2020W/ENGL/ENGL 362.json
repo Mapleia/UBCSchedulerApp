@@ -1,1 +1,73 @@
-{"course_name":"ENGL 362","subject_code":"ENGL","course_number":"362","course_title":"Victorian Period Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=362&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 362 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=362&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"ENGL","course_number":"362","section_number":"001","building":" ","room":"","instructors":["BAXTER, GISELE MARIE"],"totalRemaining":"1","currentlyRegistered":"43","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":"Full","section":"ENGL 362 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=362&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ENGL","course_number":"362","section_number":"002","building":"Buchanan","room":"D222","instructors":["EARLE, BO"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"British and Global literature, 1832-1901, with an emphasis on genre or special topics. Consult department website for current year's offerings."}
+{
+  "course_name": "ENGL 362",
+  "subject_code": "ENGL",
+  "course_number": "362",
+  "course_title": "Victorian Period Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=362&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 362 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=362&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "362",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAXTER, GISELE MARIE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "42",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 362 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=362&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "362",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EARLE, BO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "British and Global literature, 1832-1901, with an emphasis on genre or special topics. Consult department website for current year's offerings.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

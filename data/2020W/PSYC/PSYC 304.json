@@ -1,1 +1,100 @@
-{"course_name":"PSYC 304","subject_code":"PSYC","course_number":"304","course_title":"Brain and Behaviour","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=304&sessyr=2020&sesscd=W","sections":{"901":{"status":" ","section":"PSYC 304 901","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=901&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"PSYC","course_number":"304","section_number":"901","building":" ","room":"","instructors":["BARNES, STEVEN","HOSKING, JEREMY"],"totalRemaining":"5","currentlyRegistered":"181","generalRemaining":"5","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 304 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PSYC","course_number":"304","section_number":"002","building":" ","room":"","instructors":["FLORESCO, STANLEY BOGDAN","HOSKING, JEREMY"],"totalRemaining":"6","currentlyRegistered":"182","generalRemaining":"6","restrictedRemaining":"0"},"99A":{"status":" ","section":"PSYC 304 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"B","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education. Please note that this is a distance learning section and may have no synchronous (live, real-time) component. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/Where applicable, please visit this site for examination information: http://www.students.ubc.ca/coursesreg/exams/","subject_code":"PSYC","course_number":"304","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["HANSON, LAURA"],"totalRemaining":"13","currentlyRegistered":"97","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"The neurobiological bases of behaviour; brain processes involved in perception, motivation, emotion, psychopathology, learning and memory. Open to all Arts and Science majors except those in the B.Sc. Psychology program. Credit will be granted for only one of PSYC 304 or PSYC 360."}
+{
+  "course_name": "PSYC 304",
+  "subject_code": "PSYC",
+  "course_number": "304",
+  "course_title": "Brain and Behaviour",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 304 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "304",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARNES, STEVEN",
+        "HOSKING, JEREMY"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "180",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 304 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "304",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FLORESCO, STANLEY BOGDAN",
+        "HOSKING, JEREMY"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "179",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 304 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=304&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "B",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. Please note that this is a distance learning section and may have no synchronous (live, real-time) component. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. More information can be found under Distance Learning at : http://ctlt.ubc.ca/Where applicable, please visit this site for examination information: http://www.students.ubc.ca/coursesreg/exams/",
+      "subject_code": "PSYC",
+      "course_number": "304",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HANSON, LAURA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "96",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "The neurobiological bases of behaviour; brain processes involved in perception, motivation, emotion, psychopathology, learning and memory. Open to all Arts and Science majors except those in the B.Sc. Psychology program. Credit will be granted for only one of PSYC 304 or PSYC 360.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

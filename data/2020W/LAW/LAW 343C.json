@@ -1,1 +1,44 @@
-{"course_name":"LAW 343C","subject_code":"LAW","course_number":"343C","course_title":"Topics in Public Law - TPCS PUBLIC LAW","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=343C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 343C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=343C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"EXAM CONFLICT: STUDENTS REGISTERED IN 468.004/588.004 ARE NOT ALLOWED TO BE REGISTERED IN 343C.001, AND VICE VERSA.","subject_code":"LAW","course_number":"343C","section_number":"001","building":" ","room":"","instructors":["MATSUI, SHIGENORI"],"totalRemaining":"31","currentlyRegistered":"19","generalRemaining":"31","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 343C",
+  "subject_code": "LAW",
+  "course_number": "343C",
+  "course_title": "Topics in Public Law - TPCS PUBLIC LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=343C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 343C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=343C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "EXAM CONFLICT: STUDENTS REGISTERED IN 468.004/588.004 ARE NOT ALLOWED TO BE REGISTERED IN 343C.001, AND VICE VERSA.",
+      "subject_code": "LAW",
+      "course_number": "343C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATSUI, SHIGENORI"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "16",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

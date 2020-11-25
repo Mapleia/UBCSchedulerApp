@@ -1,1 +1,169 @@
-{"course_name":"MATH 256","subject_code":"MATH","course_number":"256","course_title":"Differential Equations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=256&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MATH 256 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"MATH","course_number":"256","section_number":"101","building":" ","room":"","instructors":["CYTRYNBAUM, ERIC","CYTRYNBAUM, ERIC(Coordinator)"],"totalRemaining":"3","currentlyRegistered":"237","generalRemaining":"0","restrictedRemaining":"3"},"102":{"status":"Restricted","section":"MATH 256 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"19:00","end":"20:00","comments":"","subject_code":"MATH","course_number":"256","section_number":"102","building":" ","room":"","instructors":["BUTTENSCHOEN, ANDREAS","CYTRYNBAUM, ERIC(Coordinator)"],"totalRemaining":"30","currentlyRegistered":"185","generalRemaining":"0","restrictedRemaining":"30"},"201":{"status":"Restricted","section":"MATH 256 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"MATH","course_number":"256","section_number":"201","building":"Leonard S. Klinck","room":"200","instructors":["1","149","0","1","","in one of these faculties: APSC\nwith one of these specializations: ****CHML,****CHBE\n\nin one of these faculties: APSC\n\n"],"totalRemaining":"in one of these faculties: APSC\nwith one of these specializations: ****CHML,****CHBE\n\nin one of these faculties: APSC\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"202":{"status":"Restricted","section":"MATH 256 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"MATH","course_number":"256","section_number":"202","building":"Leonard S. Klinck","room":"201","instructors":["49","86","0","49","","in one of these faculties: APSC\nwith one of these specializations: ****CPEN\n\n"],"totalRemaining":"in one of these faculties: APSC\nwith one of these specializations: ****CPEN\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"203":{"status":"Restricted","section":"MATH 256 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=203&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"MATH","course_number":"256","section_number":"203","building":"Mathematics Annex","room":"1100","instructors":["TBA"],"totalRemaining":"61","currentlyRegistered":"71","generalRemaining":"0","restrictedRemaining":"61"}},"credits":"Credits: 3","description":"Linear ordinary differential equations, Laplace transforms, Fourier series and separation of variables for linear partial differential equations. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "MATH 256",
+  "subject_code": "MATH",
+  "course_number": "256",
+  "course_title": "Differential Equations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=256&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MATH 256 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "256",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CYTRYNBAUM, ERIC",
+        "CYTRYNBAUM, ERIC(Coordinator)"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "235",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 256 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "256",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUTTENSCHOEN, ANDREAS",
+        "CYTRYNBAUM, ERIC(Coordinator)"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "180",
+      "generalRemaining": "0",
+      "restrictedRemaining": "35"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 256 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "256",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "148",
+        "0",
+        "2",
+        "",
+        "in one of these faculties: APSC\nwith one of these specializations: ****CHML,****CHBE\n\nin one of these faculties: APSC\n\n"
+      ],
+      "totalRemaining": "in one of these faculties: APSC\nwith one of these specializations: ****CHML,****CHBE\n\nin one of these faculties: APSC\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 256 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "256",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "48",
+        "87",
+        "0",
+        "48",
+        "",
+        "in one of these faculties: APSC\nwith one of these specializations: ****CPEN\n\n"
+      ],
+      "totalRemaining": "in one of these faculties: APSC\nwith one of these specializations: ****CPEN\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 256 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=256&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "256",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "72",
+      "generalRemaining": "0",
+      "restrictedRemaining": "60"
+    }
+  ],
+  "credits": 3,
+  "description": "Linear ordinary differential equations, Laplace transforms, Fourier series and separation of variables for linear partial differential equations. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

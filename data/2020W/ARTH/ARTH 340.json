@@ -1,1 +1,72 @@
-{"course_name":"ARTH 340","subject_code":"ARTH","course_number":"340","course_title":"20th Century Art and Culture: The Triumph and Demise of Modernism","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=340&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARTH 340 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=340&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"ARTH 340 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.This course provides a critical overview of twentieth-century visual arts in Europe and its North American diaspora situated within their social, political, and historical contexts up until and including the 1960s, with a special emphasis on major movements of the historic avant-garde. These include Modernism, Expressionism, Cubism, Futurism, Constructivism, Dada, Surrealism, Abstract Expressionism, and Pop.","subject_code":"ARTH","course_number":"340","section_number":"001","building":" ","room":"","instructors":["WITKOWSKI, JACQUELINE"],"totalRemaining":"14","currentlyRegistered":"66","generalRemaining":"14","restrictedRemaining":"0"},"01W":{"status":" ","section":"ARTH 340 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=340&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"ARTH 340 01W is a waitlist for ARTH 340 001. As seats become available, students will be moved from the waitlist into the lecture based on date of registration and then notified by email.","subject_code":"ARTH","course_number":"340","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"99","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A critical survey of western art and cultural production from the turn of the century to the development of Pop Art."}
+{
+  "course_name": "ARTH 340",
+  "subject_code": "ARTH",
+  "course_number": "340",
+  "course_title": "20th Century Art and Culture: The Triumph and Demise of Modernism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=340&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 340 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=340&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "ARTH 340 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.This course provides a critical overview of twentieth-century visual arts in Europe and its North American diaspora situated within their social, political, and historical contexts up until and including the 1960s, with a special emphasis on major movements of the historic avant-garde. These include Modernism, Expressionism, Cubism, Futurism, Constructivism, Dada, Surrealism, Abstract Expressionism, and Pop.",
+      "subject_code": "ARTH",
+      "course_number": "340",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WITKOWSKI, JACQUELINE"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "66",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 340 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=340&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "ARTH 340 01W is a waitlist for ARTH 340 001. As seats become available, students will be moved from the waitlist into the lecture based on date of registration and then notified by email.",
+      "subject_code": "ARTH",
+      "course_number": "340",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A critical survey of western art and cultural production from the turn of the century to the development of Pop Art.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

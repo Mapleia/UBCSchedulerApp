@@ -1,1 +1,43 @@
-{"course_name":"CHEM 527","subject_code":"CHEM","course_number":"527","course_title":"Nanomaterials","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=527&sessyr=2020&sesscd=W","sections":{"157":{"status":"Full","section":"CHEM 527 157","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=527&section=157&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"17:00","end":"20:00","comments":"","subject_code":"CHEM","course_number":"527","section_number":"157","building":" ","room":"","instructors":["MACLACHLAN, MARK"],"totalRemaining":"0","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CHEM 527",
+  "subject_code": "CHEM",
+  "course_number": "527",
+  "course_title": "Nanomaterials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=527&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CHEM 527 157",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=527&section=157&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "527",
+      "section_number": "157",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACLACHLAN, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

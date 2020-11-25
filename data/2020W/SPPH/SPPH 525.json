@@ -1,1 +1,46 @@
-{"course_name":"SPPH 525","subject_code":"SPPH","course_number":"525","course_title":"Issues and Concepts in Public Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=525&sessyr=2020&sesscd=W","sections":{"001":{"status":"Cancelled","section":"SPPH 525 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=525&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":"","end":"","comments":"Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca","subject_code":"SPPH","course_number":"525","section_number":"001","building":"","room":"","instructors":["50","0","50","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"History of public health research and practice; occupational and environmental health; health services and systems; social and lifecourse determinants of health; and population health and emerging trends."}
+{
+  "course_name": "SPPH 525",
+  "subject_code": "SPPH",
+  "course_number": "525",
+  "course_title": "Issues and Concepts in Public Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=525&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "SPPH 525 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=525&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "525",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "50",
+        "0",
+        "50",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "History of public health research and practice; occupational and environmental health; health services and systems; social and lifecourse determinants of health; and population health and emerging trends.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

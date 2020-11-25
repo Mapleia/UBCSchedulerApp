@@ -1,1 +1,45 @@
-{"course_name":"GREK 352","subject_code":"GREK","course_number":"352","course_title":"Reading Ancient Greek: Verse","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=352&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"GREK 352 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=352&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Note: students who have  received credit for GREK 301 may not receive credit also for GREK 351 or 352.","subject_code":"GREK","course_number":"352","section_number":"001","building":"Buchanan","room":"D306","instructors":["YOON, FLORENCE"],"totalRemaining":"6","currentlyRegistered":"6","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Readings in the major authors in Greek verse."}
+{
+  "course_name": "GREK 352",
+  "subject_code": "GREK",
+  "course_number": "352",
+  "course_title": "Reading Ancient Greek: Verse",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GREK 352 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=352&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. Note: students who have  received credit for GREK 301 may not receive credit also for GREK 351 or 352.",
+      "subject_code": "GREK",
+      "course_number": "352",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOON, FLORENCE"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Readings in the major authors in Greek verse.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

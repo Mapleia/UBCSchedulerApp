@@ -1,1 +1,70 @@
-{"course_name":"ECED 480A","subject_code":"ECED","course_number":"480A","course_title":"Selected Topics in Early Childhood Education - SELECT TOPIC ECE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=480A&sessyr=2020&sesscd=W","sections":{"63C":{"status":" ","section":"ECED 480A 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=480A&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Infant and Toddler Programming: Establishing a Positive Learning EnvironmentThis course explores infant and toddler learning environments, with reference to research on early childhood pedagogy, theories of early learning, curriculum trends and practices, theories of place and space, and with a focus on the role the environment plays in very young children's learning experiences.Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 480A / W3C.","subject_code":"ECED","course_number":"480A","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["ECCLESTONE, KATHLEEN"],"totalRemaining":"24","currentlyRegistered":"12","generalRemaining":"24","restrictedRemaining":"0"},"W3C":{"status":"Blocked","section":"ECED 480A W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=480A&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for ECED 480A / 63C.  Waitlist works on a priority basis.Students registered in the degree programs MED, MA, DEDU EYED, DEDU IDSC, CEYED, CIDSC or BA MIN EDUC, EMP ECED, as well as Unclassified students, are switched to available seats first.  Students will be moved from the waitlist and into the course ONCE PER DAY.","subject_code":"ECED","course_number":"480A","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"36","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECED 480A",
+  "subject_code": "ECED",
+  "course_number": "480A",
+  "course_title": "Selected Topics in Early Childhood Education - SELECT TOPIC ECE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=480A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECED 480A 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=480A&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Infant and Toddler Programming: Establishing a Positive Learning EnvironmentThis course explores infant and toddler learning environments, with reference to research on early childhood pedagogy, theories of early learning, curriculum trends and practices, theories of place and space, and with a focus on the role the environment plays in very young children's learning experiences.Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 480A / W3C.",
+      "subject_code": "ECED",
+      "course_number": "480A",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ECCLESTONE, KATHLEEN"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "13",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 480A W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=480A&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for ECED 480A / 63C.  Waitlist works on a priority basis.Students registered in the degree programs MED, MA, DEDU EYED, DEDU IDSC, CEYED, CIDSC or BA MIN EDUC, EMP ECED, as well as Unclassified students, are switched to available seats first.  Students will be moved from the waitlist and into the course ONCE PER DAY.",
+      "subject_code": "ECED",
+      "course_number": "480A",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

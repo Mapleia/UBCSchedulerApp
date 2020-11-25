@@ -1,1 +1,45 @@
-{"course_name":"CHBE 402","subject_code":"CHBE","course_number":"402","course_title":"Biomass Fractionation Technology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=402&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 402 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=402&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"CHBE","course_number":"402","section_number":"201","building":"Chemical and Biological Engineering Building","room":"103","instructors":["CRANSTON, EMILY"],"totalRemaining":"42","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"42"}},"credits":"Credits: 3","description":"Process and unit operations in the conversion of wood chips to pulp and green bio-products. Biorefinery concepts and emerging technologies for the production of biomaterials, biochemicals and bioenergy."}
+{
+  "course_name": "CHBE 402",
+  "subject_code": "CHBE",
+  "course_number": "402",
+  "course_title": "Biomass Fractionation Technology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 402 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=402&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "402",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FOSTER, EARL"
+      ],
+      "totalRemaining": "42",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "42"
+    }
+  ],
+  "credits": 3,
+  "description": "Process and unit operations in the conversion of wood chips to pulp and green bio-products. Biorefinery concepts and emerging technologies for the production of biomaterials, biochemicals and bioenergy.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

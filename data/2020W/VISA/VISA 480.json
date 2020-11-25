@@ -1,1 +1,43 @@
-{"course_name":"VISA 480","subject_code":"VISA","course_number":"480","course_title":"Advanced Seminar I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=480&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"VISA 480 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=480&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"VISA 480 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.Pre-reqs: VISA 380.","subject_code":"VISA","course_number":"480","section_number":"001","building":" ","room":"","instructors":["THAUBERGER, ALTHEA"],"totalRemaining":"8","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"8"}},"credits":"Credits: 3","description":"Readings in art theory and criticism."}
+{
+  "course_name": "VISA 480",
+  "subject_code": "VISA",
+  "course_number": "480",
+  "course_title": "Advanced Seminar I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=480&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "VISA 480 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=480&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "VISA 480 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.Pre-reqs: VISA 380.",
+      "subject_code": "VISA",
+      "course_number": "480",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THAUBERGER, ALTHEA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "Readings in art theory and criticism.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"SOCI 382","subject_code":"SOCI","course_number":"382","course_title":"Sociological Methods: Qualitative Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=382&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"SOCI 382 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=382&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:30","comments":"","subject_code":"SOCI","course_number":"382","section_number":"201","building":"UBC Life Building","room":"2202","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"80","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Examination of the different traditions of qualitative sociological inquiry and the associated methodological features used to study the interpretive practices and meanings in the everyday lives of individuals."}
+{
+  "course_name": "SOCI 382",
+  "subject_code": "SOCI",
+  "course_number": "382",
+  "course_title": "Sociological Methods: Qualitative Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 382 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=382&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "382",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Examination of the different traditions of qualitative sociological inquiry and the associated methodological features used to study the interpretive practices and meanings in the everyday lives of individuals.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

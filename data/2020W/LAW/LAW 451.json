@@ -1,1 +1,72 @@
-{"course_name":"LAW 451","subject_code":"LAW","course_number":"451","course_title":"Trusts","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=451&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 451 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=451&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"*Cross-listed to LAW 551.001*","subject_code":"LAW","course_number":"451","section_number":"001","building":" ","room":"","instructors":["PAVLICH, DENNIS"],"totalRemaining":"0","currentlyRegistered":"70","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":" ","section":"LAW 451 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=451&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"*Cross-listed with LAW 551.002*","subject_code":"LAW","course_number":"451","section_number":"002","building":" ","room":"","instructors":["SMITH, JOHN"],"totalRemaining":"22","currentlyRegistered":"47","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"History and nature of trusts; express, resulting, implied and constructive trusts; charitable and purpose trusts; administration of trusts; breach of trust. Credit will be granted for only one of LAW 250 or LAW 451."}
+{
+  "course_name": "LAW 451",
+  "subject_code": "LAW",
+  "course_number": "451",
+  "course_title": "Trusts",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=451&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 451 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=451&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "*Cross-listed to LAW 551.001*",
+      "subject_code": "LAW",
+      "course_number": "451",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAVLICH, DENNIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LAW 451 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=451&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "*Cross-listed with LAW 551.002*",
+      "subject_code": "LAW",
+      "course_number": "451",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, JOHN"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "47",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "History and nature of trusts; express, resulting, implied and constructive trusts; charitable and purpose trusts; administration of trusts; breach of trust. Credit will be granted for only one of LAW 250 or LAW 451.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

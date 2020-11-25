@@ -1,1 +1,46 @@
-{"course_name":"CONS 504C","subject_code":"CONS","course_number":"504C","course_title":"Directed Studies in Conservation - DIR STD CONSERV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=504C&sessyr=2020&sesscd=W","sections":{"102":{"status":"Blocked","section":"CONS 504C 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=504C&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":"","end":"","comments":"Closed registration.","subject_code":"CONS","course_number":"504C","section_number":"102","building":"","room":"","instructors":["0","4","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CONS 504C",
+  "subject_code": "CONS",
+  "course_number": "504C",
+  "course_title": "Directed Studies in Conservation - DIR STD CONSERV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=504C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CONS 504C 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=504C&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Closed registration.",
+      "subject_code": "CONS",
+      "course_number": "504C",
+      "section_number": "102",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "4",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

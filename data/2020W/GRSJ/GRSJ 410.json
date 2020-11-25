@@ -1,1 +1,70 @@
-{"course_name":"GRSJ 410","subject_code":"GRSJ","course_number":"410","course_title":"Religious Feminisms","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=410&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"GRSJ 410 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=410&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"15:00","end":"18:00","comments":"","subject_code":"GRSJ","course_number":"410","section_number":"101","building":" ","room":"","instructors":["CHAUDHRY, AYESHA"],"totalRemaining":"4","currentlyRegistered":"26","generalRemaining":"4","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"GRSJ 410 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=410&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon","start":"15:00","end":"18:00","comments":"","subject_code":"GRSJ","course_number":"410","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Examines religious feminisms from three Abrahamic traditions. An in-depth study of challenges various doctrinal discourses and practices pose for feminist projects."}
+{
+  "course_name": "GRSJ 410",
+  "subject_code": "GRSJ",
+  "course_number": "410",
+  "course_title": "Religious Feminisms",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=410&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GRSJ 410 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=410&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "410",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAUDHRY, AYESHA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 410 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=410&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "410",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Examines religious feminisms from three Abrahamic traditions. An in-depth study of challenges various doctrinal discourses and practices pose for feminist projects.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

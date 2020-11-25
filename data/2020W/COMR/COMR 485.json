@@ -1,1 +1,44 @@
-{"course_name":"COMR 485","subject_code":"COMR","course_number":"485","course_title":"Social Entrepreneurship","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=485&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMR 485 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=485&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMR","course_number":"485","section_number":"101","building":" ","room":"","instructors":["THIRUCHITTAMPALAM, DHARINI"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An applied course that examines the innovative, growing, and rapidly evolving field of social entrepreneurship, which tackles social and environmental challenges through business perspectives and methods."}
+{
+  "course_name": "COMR 485",
+  "subject_code": "COMR",
+  "course_number": "485",
+  "course_title": "Social Entrepreneurship",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=485&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMR 485 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=485&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "485",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THIRUCHITTAMPALAM, DHARINI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An applied course that examines the innovative, growing, and rapidly evolving field of social entrepreneurship, which tackles social and environmental challenges through business perspectives and methods.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

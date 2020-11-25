@@ -1,1 +1,43 @@
-{"course_name":"ISCI 300","subject_code":"ISCI","course_number":"300","course_title":"Interdisciplinary Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ISCI 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Tue^","start":"12:30","end":"14:00","comments":"This course is open to 2nd and 3rd year ISCI students.If you are having trouble registering in this course please email: intsci@science.ubc.caThis course meets every other week.^ every second week starting with week following start week","subject_code":"ISCI","course_number":"300","section_number":"001","building":" ","room":"","instructors":["GABRIEL, DENISE"],"totalRemaining":"4","currentlyRegistered":"136","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Critical analysis of recent scientific literature that combines disciplines that students are integrating in their Integrated Sciences Curriculum."}
+{
+  "course_name": "ISCI 300",
+  "subject_code": "ISCI",
+  "course_number": "300",
+  "course_title": "Interdisciplinary Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ISCI 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This course is open to 2nd and 3rd year ISCI students.If you are having trouble registering in this course please email: intsci@science.ubc.caThis course meets every other week.^ every second week starting with week following start week",
+      "subject_code": "ISCI",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GABRIEL, DENISE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "136",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Critical analysis of recent scientific literature that combines disciplines that students are integrating in their Integrated Sciences Curriculum.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

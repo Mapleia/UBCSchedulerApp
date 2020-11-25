@@ -1,1 +1,43 @@
-{"course_name":"MINE 522B","subject_code":"MINE","course_number":"522B","course_title":"Processing of Mineral Fines - PRO MIN FINES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=522B&sessyr=2020&sesscd=W","sections":{"101":{"status":"Unreleased","section":"MINE 522B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=522B&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon","start":" ","end":" ","comments":"The course is offered to Mining Graduate Students only","subject_code":"MINE","course_number":"522B","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["PAWLIK, MAREK"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Particulate systems. Role of particle size and interfacial phenomena in properties of disperse systems. Stability of colloids and suspensions DLVO (Dejaguin-Landau-Vervey-Overbeek). Credit will be granted for only one of MINE 522 or MINE 572."}
+{
+  "course_name": "MINE 522B",
+  "subject_code": "MINE",
+  "course_number": "522B",
+  "course_title": "Processing of Mineral Fines - PRO MIN FINES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=522B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MINE 522B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=522B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "The course is offered to Mining Graduate Students only",
+      "subject_code": "MINE",
+      "course_number": "522B",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PAWLIK, MAREK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Particulate systems. Role of particle size and interfacial phenomena in properties of disperse systems. Stability of colloids and suspensions DLVO (Dejaguin-Landau-Vervey-Overbeek). Credit will be granted for only one of MINE 522 or MINE 572.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

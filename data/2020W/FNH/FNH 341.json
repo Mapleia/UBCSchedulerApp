@@ -1,1 +1,125 @@
-{"course_name":"FNH 341","subject_code":"FNH","course_number":"341","course_title":"Food Theory Applications","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=341&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"FNH 341 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=001&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"12:30","end":"14:30","comments":"","subject_code":"FNH","course_number":"341","section_number":"001","building":"Food, Nutrition and Health","room":"130","instructors":["BAROHN, JOEL","KASTEN, GERRY"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"FNH 341 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=002&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"15:30","end":"17:30","comments":"","subject_code":"FNH","course_number":"341","section_number":"002","building":"Food, Nutrition and Health","room":"130","instructors":["BAROHN, JOEL","KASTEN, GERRY"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"FNH 341 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=003&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"18:30","end":"20:30","comments":"","subject_code":"FNH","course_number":"341","section_number":"003","building":"Food, Nutrition and Health","room":"130","instructors":["BAROHN, JOEL","KASTEN, GERRY"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"0W2":{"status":"Restricted","section":"FNH 341 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for FNH 340 001, FNH 341 002 and FNH 341 003.  Students will be moved according to their priority on the waitlist only if space becomes available (and is unlikely for this course, as it's reserved for Dietetics and Dual Degree [Education] students). All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"FNH","course_number":"341","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Experimental and practical application of scientific principles and theories to problems of food preparation. Note: Course registrants are required to possess a Foodsafe I certificate."}
+{
+  "course_name": "FNH 341",
+  "subject_code": "FNH",
+  "course_number": "341",
+  "course_title": "Food Theory Applications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=341&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FNH 341 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "341",
+      "section_number": "001",
+      "building": "Food, Nutrition and Health",
+      "room": "130",
+      "instructors": [
+        "BAROHN, JOEL LOUIS",
+        "KASTEN, GERRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FNH 341 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=002&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "341",
+      "section_number": "002",
+      "building": "Food, Nutrition and Health",
+      "room": "130",
+      "instructors": [
+        "BAROHN, JOEL LOUIS",
+        "KASTEN, GERRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FNH 341 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=003&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "341",
+      "section_number": "003",
+      "building": "Food, Nutrition and Health",
+      "room": "130",
+      "instructors": [
+        "BAROHN, JOEL LOUIS",
+        "KASTEN, GERRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "FNH 341 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=341&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for FNH 340 001, FNH 341 002 and FNH 341 003.  Students will be moved according to their priority on the waitlist only if space becomes available (and is unlikely for this course, as it's reserved for Dietetics and Dual Degree [Education] students). All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "FNH",
+      "course_number": "341",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Experimental and practical application of scientific principles and theories to problems of food preparation. Note: Course registrants are required to possess a Foodsafe I certificate.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory",
+    "Waiting List"
+  ]
+}

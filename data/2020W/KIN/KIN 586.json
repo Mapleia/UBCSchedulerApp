@@ -1,1 +1,70 @@
-{"course_name":"KIN 586","subject_code":"KIN","course_number":"586","course_title":"Coaching Effectiveness","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=586&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"KIN 586 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=586&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"*Course delivery is online.Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0","subject_code":"KIN","course_number":"586","section_number":"001","building":" ","room":"","instructors":["MACDONALD, KERRY","MOSHER, MICHAEL"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"2"},"WB6":{"status":"Restricted","section":"KIN 586 WB6","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=586&section=WB6&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"**This course is only available for students enrolled in the HPCTL program. Other students, please see KIN 586, section 001.","subject_code":"KIN","course_number":"586","section_number":"WB6","building":" ","room":"","instructors":["TAYLOR, SHAUNNA"],"totalRemaining":"7","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"7"}},"credits":"Credits: 3","description":"Analysis of athlete performance and appropriate design and application of coaching intervention and skill acquisition for athlete and coach development."}
+{
+  "course_name": "KIN 586",
+  "subject_code": "KIN",
+  "course_number": "586",
+  "course_title": "Coaching Effectiveness",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=586&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 586 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=586&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "*Course delivery is online.Course outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0",
+      "subject_code": "KIN",
+      "course_number": "586",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACDONALD, KERRY",
+        "MOSHER, MICHAEL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "KIN 586 WB6",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=586&section=WB6&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "**This course is only available for students enrolled in the HPCTL program. Other students, please see KIN 586, section 001.",
+      "subject_code": "KIN",
+      "course_number": "586",
+      "section_number": "WB6",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAYLOR, SHAUNNA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of athlete performance and appropriate design and application of coaching intervention and skill acquisition for athlete and coach development.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

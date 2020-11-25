@@ -1,1 +1,208 @@
-{"course_name":"EOSC 223","subject_code":"EOSC","course_number":"223","course_title":"Field Techniques","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=223&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"EOSC 223 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"12:00","end":"13:00","comments":"Seven day field school held after final exams. An additional fee will be charged for this course.Two required field trips on weekends during T2.If this section is BLOCKED/FULL, please register on the waitlist (EOSC 223.WL2).","subject_code":"EOSC","course_number":"223","section_number":"201","building":"Earth Sciences Building","room":"2012","instructors":["DARCY, MITCHALL","EBERHARDT, ERIK","HICKEY, KENNETH","PEACOCK, SIMON","SAYLOR, JOEL EDWARD","SCOATES, JAMES STEWART"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":" ","section":"EOSC 223 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"223","section_number":"L2A","building":"Earth and Ocean Sciences","room":"101","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"10","generalRemaining":"5","restrictedRemaining":"0"},"L2B":{"status":"Full","section":"EOSC 223 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"223","section_number":"L2B","building":"Earth and Ocean Sciences","room":"101","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":"STT","section":"EOSC 223 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"","subject_code":"EOSC","course_number":"223","section_number":"L2C","building":"Earth and Ocean Sciences","room":"101","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2D":{"status":"STT","section":"EOSC 223 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"223","section_number":"L2D","building":"Earth and Ocean Sciences","room":"101","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2E":{"status":" ","section":"EOSC 223 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"223","section_number":"L2E","building":"Earth and Ocean Sciences","room":"101","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"12","generalRemaining":"3","restrictedRemaining":"0"},"WL2":{"status":"Restricted","section":"EOSC 223 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed","start":" ","end":" ","comments":"Seven day Field School held after final exams. Additional fee charged for this course.EOSC 223.201: Two required field trips on weekends during the term.If this section is BLOCKED/FULL, please register on the waitlist (EOSC 223.W2L).","subject_code":"EOSC","course_number":"223","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"}},"credits":"Credits: 3","description":"Introduction to the techniques of geological mapping and the interpretation of field data. Includes three one-day field trips on weekends plus a seven-day field school after Spring examinations. A fee is to be paid by January 31."}
+{
+  "course_name": "EOSC 223",
+  "subject_code": "EOSC",
+  "course_number": "223",
+  "course_title": "Field Techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=223&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EOSC 223 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Seven day field school held after final exams. An additional fee will be charged for this course.Two required field trips on weekends during T2.If this section is BLOCKED/FULL, please register on the waitlist (EOSC 223.WL2).",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DARCY, MITCHALL",
+        "EBERHARDT, ERIK",
+        "HICKEY, KENNETH",
+        "PEACOCK, SIMON",
+        "SAYLOR, JOEL EDWARD",
+        "SCOATES, JAMES STEWART"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 223 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "EOSC 223 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "EOSC 223 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EOSC 223 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "EOSC 223 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "EOSC 223 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=223&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Seven day Field School held after final exams. Additional fee charged for this course.EOSC 223.201: Two required field trips on weekends during the term.If this section is BLOCKED/FULL, please register on the waitlist (EOSC 223.W2L).",
+      "subject_code": "EOSC",
+      "course_number": "223",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the techniques of geological mapping and the interpretation of field data. Includes three one-day field trips on weekends plus a seven-day field school after Spring examinations. A fee is to be paid by January 31.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

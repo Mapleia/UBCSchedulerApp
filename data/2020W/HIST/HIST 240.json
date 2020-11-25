@@ -1,1 +1,127 @@
-{"course_name":"HIST 240","subject_code":"HIST","course_number":"240","course_title":"Health, Illness and Medicine I: From the Ancient World to the Early Modern Period","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=240&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 240 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"12:00","end":"13:00","comments":"HIST 240 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.","subject_code":"HIST","course_number":"240","section_number":"101","building":" ","room":"","instructors":["CHRISTOPOULOS, JOHN","GOLDOWITZ, JACOB"],"totalRemaining":"1","currentlyRegistered":"53","generalRemaining":"1","restrictedRemaining":"0"},"L01":{"status":" ","section":"HIST 240 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"HIST","course_number":"240","section_number":"L01","building":" ","room":"","instructors":["CHRISTOPOULOS, JOHN","GOLDOWITZ, JACOB"],"totalRemaining":"1","currentlyRegistered":"17","generalRemaining":"1","restrictedRemaining":"0"},"L02":{"status":"Full","section":"HIST 240 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L02&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"HIST","course_number":"240","section_number":"L02","building":" ","room":"","instructors":["CHRISTOPOULOS, JOHN","GOLDOWITZ, JACOB"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":"Full","section":"HIST 240 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L03&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Wed","start":"13:00","end":"14:00","comments":"","subject_code":"HIST","course_number":"240","section_number":"L03","building":" ","room":"","instructors":["CHRISTOPOULOS, JOHN","GOLDOWITZ, JACOB"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions."}
+{
+  "course_name": "HIST 240",
+  "subject_code": "HIST",
+  "course_number": "240",
+  "course_title": "Health, Illness and Medicine I: From the Ancient World to the Early Modern Period",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=240&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 240 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "HIST 240 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.",
+      "subject_code": "HIST",
+      "course_number": "240",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHRISTOPOULOS, JOHN",
+        "GOLDOWITZ, JACOB"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "53",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 240 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "240",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHRISTOPOULOS, JOHN",
+        "GOLDOWITZ, JACOB"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 240 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "240",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHRISTOPOULOS, JOHN",
+        "GOLDOWITZ, JACOB"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 240 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=240&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "240",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHRISTOPOULOS, JOHN",
+        "GOLDOWITZ, JACOB"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "History of western medicine, from the Ancient World to the Enlightenment, with a focus on social and cultural ideas surrounding the body, health, and disease, and the development of medical institutions.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

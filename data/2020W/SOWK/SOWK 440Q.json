@@ -1,1 +1,43 @@
-{"course_name":"SOWK 440Q","subject_code":"SOWK","course_number":"440Q","course_title":"Integrative Seminars in Social Work - INTGRTV SEM SOWK","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=440Q&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 440Q 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=440Q&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"SOWK","course_number":"440Q","section_number":"001","building":" ","room":"","instructors":["ALLISON, KELLY"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A series of seminars offered during the final term of studies which address salient issues in social policy and social work practice and draw upon combined knowledge from social work and related disciplines."}
+{
+  "course_name": "SOWK 440Q",
+  "subject_code": "SOWK",
+  "course_number": "440Q",
+  "course_title": "Integrative Seminars in Social Work - INTGRTV SEM SOWK",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=440Q&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 440Q 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=440Q&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "440Q",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALLISON, KELLY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A series of seminars offered during the final term of studies which address salient issues in social policy and social work practice and draw upon combined knowledge from social work and related disciplines.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

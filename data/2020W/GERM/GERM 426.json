@@ -1,1 +1,45 @@
-{"course_name":"GERM 426","subject_code":"GERM","course_number":"426","course_title":"German Representations of the Holocaust (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=426&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"GERM 426 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=426&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"The Nazi Holocaust in German-language Literature and Film Read, view, evaluate and discuss memoirs, prose works, essays, graphic novels, poems, and documentaries that portray the Holocaust. Focus on the victims and the bystanders: the Jewish people as well as some of the under-studied and lesser known other victims of the Holocaust (e.g., gay men and women, victims of Nazi euthanasia). All course work readings are available online on UBC Library Course Online Reserves (LOCR).","subject_code":"GERM","course_number":"426","section_number":"001","building":"Buchanan","room":"D207","instructors":["KUMAR, UMA"],"totalRemaining":"14","currentlyRegistered":"16","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The German Nazi Holocaust in German literature and film."}
+{
+  "course_name": "GERM 426",
+  "subject_code": "GERM",
+  "course_number": "426",
+  "course_title": "German Representations of the Holocaust (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=426&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GERM 426 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=426&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "The Nazi Holocaust in German-language Literature and FilmRead, view, evaluate and discuss memoirs, prose works, essays, graphic novels, poems, and documentaries that portray the Holocaust. Focus on the victims and the bystanders: the Jewish people as well as some of the under-studied and lesser known other victims of the Holocaust (e.g., gay men and women, victims of Nazi euthanasia).All course work readings are available online on UBC Library Course Online Reserves (LOCR). This course will be taught synchronously online.",
+      "subject_code": "GERM",
+      "course_number": "426",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUMAR, UMA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "17",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The German Nazi Holocaust in German literature and film.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

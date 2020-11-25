@@ -1,1 +1,70 @@
-{"course_name":"VISA 311","subject_code":"VISA","course_number":"311","course_title":"Intermediate Digital Arts II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=311&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 311 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=311&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon","start":"10:00","end":"13:00","comments":"Pre-req: VISA 210. If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"311","section_number":"001","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"1002","instructors":["D'ONOFRIO, CHRISTINE"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":"Restricted","section":"VISA 311 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=311&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":" ","end":" ","comments":"VISA 311 01W is a waitlist for VISA 311 001. Pre-req: VISA 210. Students who do not have the appropriate pre-requisite will be de-registered.Students will be moved from the waitlist into the class, space permitting, in order of registration date. While we hope to accommodate all interested students in this class, please be aware that being registered on the waitlist does not guarantee you will obtain a seat.","subject_code":"VISA","course_number":"311","section_number":"01W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"89","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"89"}},"credits":"Credits: 3","description":"Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects."}
+{
+  "course_name": "VISA 311",
+  "subject_code": "VISA",
+  "course_number": "311",
+  "course_title": "Intermediate Digital Arts II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "Pre-req: VISA 210. If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "D'ONOFRIO, CHRISTINE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 311 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=311&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "VISA 311 01W is a waitlist for VISA 311 001. Pre-req: VISA 210. Students who do not have the appropriate pre-requisite will be de-registered.Students will be moved from the waitlist into the class, space permitting, in order of registration date. While we hope to accommodate all interested students in this class, please be aware that being registered on the waitlist does not guarantee you will obtain a seat.",
+      "subject_code": "VISA",
+      "course_number": "311",
+      "section_number": "01W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "88",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "88"
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

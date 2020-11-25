@@ -1,1 +1,44 @@
-{"course_name":"ITST 385","subject_code":"ITST","course_number":"385","course_title":"Italian Cinema: Neorealism","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=385&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ITST 385 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=385&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"A survey of the major classics of post-WWII Italian Neorealism in cinema emphasizing their historical, political, social, philosophical and technical contexts. Full description: https://fhis.ubc.ca/course-description/itst385/","subject_code":"ITST","course_number":"385","section_number":"101","building":" ","room":"","instructors":["TESTA, CARLO"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of the major classics of post-WWII Italian Neorealism in cinema emphasizing their historical, political, social, philosophical and technical contexts."}
+{
+  "course_name": "ITST 385",
+  "subject_code": "ITST",
+  "course_number": "385",
+  "course_title": "Italian Cinema: Neorealism",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=385&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITST 385 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=385&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "A survey of the major classics of post-WWII Italian Neorealism in cinema emphasizing their historical, political, social, philosophical and technical contexts. Full description: https://fhis.ubc.ca/course-description/itst385/",
+      "subject_code": "ITST",
+      "course_number": "385",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TESTA, CARLO"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "20",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of the major classics of post-WWII Italian Neorealism in cinema emphasizing their historical, political, social, philosophical and technical contexts.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

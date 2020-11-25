@@ -1,1 +1,100 @@
-{"course_name":"BIOC 410","subject_code":"BIOC","course_number":"410","course_title":"Nucleic Acids-Structure and Function","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=410&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BIOC 410 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"BIOC","course_number":"410","section_number":"101","building":" ","room":"","instructors":["CIERNIA, ANNIE","JAN, ERIC","SADOWSKI, IVAN"],"totalRemaining":"24","currentlyRegistered":"131","generalRemaining":"24","restrictedRemaining":"0"},"T01":{"status":" ","section":"BIOC 410 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"BIOC410 tutorial.","subject_code":"BIOC","course_number":"410","section_number":"T01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"21","currentlyRegistered":"59","generalRemaining":"21","restrictedRemaining":"0"},"T02":{"status":" ","section":"BIOC 410 T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=T02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"BIOC410 tutorial.","subject_code":"BIOC","course_number":"410","section_number":"T02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"71","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Chemical, physical and biological properties of nucleic acids and their role in replication, transcription, translation and regulation of expression of genetic material. Credit will be granted for only one of BIOC 410 or BIOC 510."}
+{
+  "course_name": "BIOC 410",
+  "subject_code": "BIOC",
+  "course_number": "410",
+  "course_title": "Nucleic Acids-Structure and Function",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=410&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOC 410 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "410",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CIERNIA, ANNIE",
+        "JAN, ERIC",
+        "SADOWSKI, IVAN"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "131",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 410 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "BIOC410 tutorial.",
+      "subject_code": "BIOC",
+      "course_number": "410",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "59",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 410 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=410&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "BIOC410 tutorial.",
+      "subject_code": "BIOC",
+      "course_number": "410",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "71",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Chemical, physical and biological properties of nucleic acids and their role in replication, transcription, translation and regulation of expression of genetic material. Credit will be granted for only one of BIOC 410 or BIOC 510.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

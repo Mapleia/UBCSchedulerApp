@@ -1,1 +1,44 @@
-{"course_name":"ITAL 304","subject_code":"ITAL","course_number":"304","course_title":"Italian Literature and Culture of the Modern and Contemporary Age","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=304&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ITAL 304 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=304&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"The development of modern and contemporary Italian literature and culture against the background of social and historical events. Full description: https://fhis.ubc.ca/course-description/ital304/","subject_code":"ITAL","course_number":"304","section_number":"201","building":" ","room":"","instructors":["ZHANG, GAOHENG"],"totalRemaining":"14","currentlyRegistered":"1","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The development of modern and contemporary Italian literature and culture against the background of social and historical events. Alternates with ITAL 303."}
+{
+  "course_name": "ITAL 304",
+  "subject_code": "ITAL",
+  "course_number": "304",
+  "course_title": "Italian Literature and Culture of the Modern and Contemporary Age",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITAL 304 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=304&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "The development of modern and contemporary Italian literature and culture against the background of social and historical events. Full description: https://fhis.ubc.ca/course-description/ital304/",
+      "subject_code": "ITAL",
+      "course_number": "304",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZHANG, GAOHENG"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The development of modern and contemporary Italian literature and culture against the background of social and historical events. Alternates with ITAL 303.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

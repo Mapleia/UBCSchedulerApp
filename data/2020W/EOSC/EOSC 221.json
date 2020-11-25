@@ -1,1 +1,230 @@
-{"course_name":"EOSC 221","subject_code":"EOSC","course_number":"221","course_title":"Introductory Petrology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=221&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"EOSC 221 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"10:30","comments":"","subject_code":"EOSC","course_number":"221","section_number":"201","building":"Earth Sciences Building","room":"2012","instructors":["PORRITT, LUCY","SUTHERLAND, STUART"],"totalRemaining":"14","currentlyRegistered":"67","generalRemaining":"12","restrictedRemaining":"2"},"L2A":{"status":" ","section":"EOSC 221 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"18:00","end":"21:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2A","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"11","generalRemaining":"4","restrictedRemaining":"0"},"L2B":{"status":" ","section":"EOSC 221 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2B","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"8","generalRemaining":"7","restrictedRemaining":"0"},"L2C":{"status":"STT","section":"EOSC 221 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2C","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2D":{"status":"Full","section":"EOSC 221 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2D","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"},"L2E":{"status":" ","section":"EOSC 221 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"18:00","end":"21:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2E","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"10","generalRemaining":"2","restrictedRemaining":"0"},"L2F":{"status":" ","section":"EOSC 221 L2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2F&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"221","section_number":"L2F","building":"Earth and Ocean Sciences","room":"105","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"6","restrictedRemaining":"0"},"2W1":{"status":" ","section":"EOSC 221 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"221","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks."}
+{
+  "course_name": "EOSC 221",
+  "subject_code": "EOSC",
+  "course_number": "221",
+  "course_title": "Introductory Petrology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=221&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 221 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PORRITT, LUCY",
+        "SUTHERLAND, STUART"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "68",
+      "generalRemaining": "12",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 221 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 221 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "8",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "EOSC 221 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "EOSC 221 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 221 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 221 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 221 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=221&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "221",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Optical mineralogy and the classification and genesis of igneous, metamorphic and sedimentary rocks.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

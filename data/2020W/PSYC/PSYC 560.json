@@ -1,1 +1,43 @@
-{"course_name":"PSYC 560","subject_code":"PSYC","course_number":"560","course_title":"Clinical Research Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=560&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 560 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=560&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Non-PSYC grad students MUST obtain written permission of the instructor to take course","subject_code":"PSYC","course_number":"560","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["ALDEN, LYNN"],"totalRemaining":"1","currentlyRegistered":"7","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PSYC 560",
+  "subject_code": "PSYC",
+  "course_number": "560",
+  "course_title": "Clinical Research Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 560 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=560&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Non-PSYC grad students MUST obtain written permission of the instructor to take course",
+      "subject_code": "PSYC",
+      "course_number": "560",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ALDEN, LYNN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

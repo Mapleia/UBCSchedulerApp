@@ -1,1 +1,44 @@
-{"course_name":"MINE 480","subject_code":"MINE","course_number":"480","course_title":"Mine Waste Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=480&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MINE 480 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=480&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"13:30","end":"15:00","comments":"","subject_code":"MINE","course_number":"480","section_number":"201","building":"MacMillan","room":"256","instructors":["PRISCU, CAIUS"],"totalRemaining":"38","currentlyRegistered":"42","generalRemaining":"1","restrictedRemaining":"37"}},"credits":"Credits: 3","description":"Basic geotechnical, hydrological, and water management aspects of mine waste management."}
+{
+  "course_name": "MINE 480",
+  "subject_code": "MINE",
+  "course_number": "480",
+  "course_title": "Mine Waste Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=480&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 480 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=480&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "cross-listed with MINE 590Q",
+      "subject_code": "MINE",
+      "course_number": "480",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRISCU, CAIUS"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "42",
+      "generalRemaining": "1",
+      "restrictedRemaining": "37"
+    }
+  ],
+  "credits": 3,
+  "description": "Basic geotechnical, hydrological, and water management aspects of mine waste management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

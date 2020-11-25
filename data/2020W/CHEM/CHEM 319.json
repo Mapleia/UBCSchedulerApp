@@ -1,1 +1,70 @@
-{"course_name":"CHEM 319","subject_code":"CHEM","course_number":"319","course_title":"Practical Skills for Chemical Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=319&sessyr=2020&sesscd=W","sections":{"162":{"status":"Restricted","section":"CHEM 319 162","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=319&section=162&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"11:00","end":"12:30","comments":"","subject_code":"CHEM","course_number":"319","section_number":"162","building":" ","room":"","instructors":["STOODLEY, ROBIN"],"totalRemaining":"12","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"12"},"1W1":{"status":" ","section":"CHEM 319 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=319&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"319","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"The nature of scientific research; practical skills for chemical research; communicating science.  Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing."}
+{
+  "course_name": "CHEM 319",
+  "subject_code": "CHEM",
+  "course_number": "319",
+  "course_title": "Practical Skills for Chemical Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=319&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHEM 319 162",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=319&section=162&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "319",
+      "section_number": "162",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STOODLEY, ROBIN"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 319 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=319&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "319",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "The nature of scientific research; practical skills for chemical research; communicating science.  Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

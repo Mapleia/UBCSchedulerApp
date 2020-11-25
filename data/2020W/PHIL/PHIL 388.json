@@ -1,1 +1,45 @@
-{"course_name":"PHIL 388","subject_code":"PHIL","course_number":"388","course_title":"Buddhist, Brahmanical and Jain Philosophers in Interaction.","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=388&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 388 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=388&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"PHIL","course_number":"388","section_number":"001","building":"MacMillan","room":"160","instructors":["PRUEITT, CATHERINE"],"totalRemaining":"2","currentlyRegistered":"58","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Debates on issues of epistemology, language and ontology among the philosophical schools or systems of classical India Nagarjuna, Bhartrhari, Uma-svati, Sankara and others."}
+{
+  "course_name": "PHIL 388",
+  "subject_code": "PHIL",
+  "course_number": "388",
+  "course_title": "Buddhist, Brahmanical and Jain Philosophers in Interaction.",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=388&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHIL 388 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=388&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This course will meet remotely via Zoom. Synchronous attendance is encouraged but not required. Each week will have a set of readings on a theme. On Monday and Wednesday, I\u0019ll give online lectures focusing on terms, context, and the specifics of the topic we\u0019re examining. Video recordings of these lectures will be posted to Canvas. On Friday, we\u0019ll have an online class discussion structured by questions that you\u0019ll submit as a group. These questions will emerge from online small group discussions, which you\u0019ll engage over the course of the week. Fridays are the most important days for synchronous attendance since they\u0019re entirely guided by your questions and discussion. Please prioritize attending on Fridays if possible.",
+      "subject_code": "PHIL",
+      "course_number": "388",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRUEITT, CATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Debates on issues of epistemology, language and ontology among the philosophical schools or systems of classical India Nagarjuna, Bhartrhari, Uma-svati, Sankara and others.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

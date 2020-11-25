@@ -1,1 +1,43 @@
-{"course_name":"MRNE 437","subject_code":"MRNE","course_number":"437","course_title":"Population and Community Ecology of Marine Organisms","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MRNE&course=437&sessyr=2020&sesscd=W","sections":{"610":{"status":"Blocked","section":"MRNE 437 610","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MRNE&course=437&section=610&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MRNE","course_number":"437","section_number":"610","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"7","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Emphasis on interactions among organisms and between organisms and their physiochemical environment, and on biological diversity."}
+{
+  "course_name": "MRNE 437",
+  "subject_code": "MRNE",
+  "course_number": "437",
+  "course_title": "Population and Community Ecology of Marine Organisms",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MRNE&course=437&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MRNE 437 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MRNE&course=437&section=610&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MRNE",
+      "course_number": "437",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Emphasis on interactions among organisms and between organisms and their physiochemical environment, and on biological diversity.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

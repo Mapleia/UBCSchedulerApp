@@ -1,1 +1,43 @@
-{"course_name":"FNEL 448B","subject_code":"FNEL","course_number":"448B","course_title":"Directed Research in First Nations Languages - RSRCH FRST NAT L","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=448B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNEL 448B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=448B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"13:00","end":"16:00","comments":"This is the graduate section of FNEL 481 001. Interested students should email cis.program@ubc.ca with a short statement explaining their interest in the course. More information can be found here: https://fnel.arts.ubc.ca/undergraduate/courses/","subject_code":"FNEL","course_number":"448B","section_number":"001","building":" ","room":"","instructors":["GALLA, CANDACE"],"totalRemaining":"1","currentlyRegistered":"3","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Supervised by a faculty member."}
+{
+  "course_name": "FNEL 448B",
+  "subject_code": "FNEL",
+  "course_number": "448B",
+  "course_title": "Directed Research in First Nations Languages - RSRCH FRST NAT L",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNEL&course=448B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNEL 448B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNEL&course=448B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This is the graduate section of FNEL 481 001. Interested students should email cis.program@ubc.ca with a short statement explaining their interest in the course. More information can be found here: https://fnel.arts.ubc.ca/undergraduate/courses/",
+      "subject_code": "FNEL",
+      "course_number": "448B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALLA, CANDACE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "2",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Supervised by a faculty member.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

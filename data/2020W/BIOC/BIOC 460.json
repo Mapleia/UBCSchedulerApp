@@ -1,1 +1,77 @@
-{"course_name":"BIOC 460","subject_code":"BIOC","course_number":"460","course_title":"Advanced Techniques in Biochemistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=460&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"BIOC 460 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=460&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"BIOC","course_number":"460","section_number":"001","building":" ","room":"","instructors":["DEDHAR, SHOUKAT","FOSTER, LEONARD","MUI, ALICE","OVERALL, CHRISTOPHER MARK"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"00W":{"status":" ","section":"BIOC 460 00W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=460&section=00W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Waitlist for BIOC460","subject_code":"BIOC","course_number":"460","section_number":"00W","building":"","room":"","instructors":["28","12","28","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Theoretical basis and practical applications of a selection of advanced techniques currently used in biochemical research. Topics will vary."}
+{
+  "course_name": "BIOC 460",
+  "subject_code": "BIOC",
+  "course_number": "460",
+  "course_title": "Advanced Techniques in Biochemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=460&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOC 460 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=460&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "460",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEDHAR, SHOUKAT",
+        "FOSTER, LEONARD",
+        "MUI, ALICE",
+        "OVERALL, CHRISTOPHER MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 460 00W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=460&section=00W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Waitlist for BIOC460",
+      "subject_code": "BIOC",
+      "course_number": "460",
+      "section_number": "00W",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "10",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Theoretical basis and practical applications of a selection of advanced techniques currently used in biochemical research. Topics will vary.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

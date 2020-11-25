@@ -1,1 +1,44 @@
-{"course_name":"SPPH 381A","subject_code":"SPPH","course_number":"381A","course_title":"Selected Topics - PUBLC HLTH ETHCS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=381A&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"SPPH 381A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=381A&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed","start":"13:30","end":"15:00","comments":"Classroom location: SPPH B151Please note: SPPH does not facilitate registration in this class, does not maintain a waitlist, and will not force register additional students once the class limit has been reached. If the class is full, please monitor enrolment numbers - if a seat becomes free, register yourself quickly. You may also wish to check enrolment numbers one or two weeks before the course start date as there may be some movement at that time.To view SPPH undergraduate course outlines, go to: http://spph.ubc.ca/courses/undergraduate-courses/ .","subject_code":"SPPH","course_number":"381A","section_number":"002","building":"School of Population and Public Health","room":"B151","instructors":["STEEL, DANIEL"],"totalRemaining":"0","currentlyRegistered":"65","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"By seminar and directed readings, certain topics of current interest are explored in depth."}
+{
+  "course_name": "SPPH 381A",
+  "subject_code": "SPPH",
+  "course_number": "381A",
+  "course_title": "Selected Topics - PUBLC HLTH ETHCS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=381A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 381A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=381A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "Classroom location: SPPH B151Please note: SPPH does not facilitate registration in this class, does not maintain a waitlist, and will not force register additional students once the class limit has been reached. If the class is full, please monitor enrolment numbers - if a seat becomes free, register yourself quickly. You may also wish to check enrolment numbers one or two weeks before the course start date as there may be some movement at that time.Course is delivered entirely online.  To access course module on UBC Canvas, go to www.canvas.ubc.caTo view SPPH undergraduate course outlines, go to: http://spph.ubc.ca/courses/undergraduate-courses/ .",
+      "subject_code": "SPPH",
+      "course_number": "381A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEEL, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "65",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "By seminar and directed readings, certain topics of current interest are explored in depth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

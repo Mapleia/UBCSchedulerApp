@@ -1,1 +1,46 @@
-{"course_name":"INFO 456","subject_code":"INFO","course_number":"456","course_title":"Information Policy and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INFO&course=456&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"INFO 456 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INFO&course=456&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" Tue","start":"15:00","end":"16:30","comments":"This course is restricted to students in the Bachelor of Media Studies program, and is not open to general students. For inquiries, please email arts.mediastudies@ubc.ca.","subject_code":"INFO","course_number":"456","section_number":"001","building":" ","room":"","instructors":["0","41","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Develops capabilities required to assess the need for information policies in professional contexts, evaluate relevant socio-technical dimensions and envision likely implications for specific communities and practice settings."}
+{
+  "course_name": "INFO 456",
+  "subject_code": "INFO",
+  "course_number": "456",
+  "course_title": "Information Policy and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INFO&course=456&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "INFO 456 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INFO&course=456&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "This course is restricted to students in the Bachelor of Media Studies program, and is not open to general students. For inquiries, please email arts.mediastudies@ubc.ca.",
+      "subject_code": "INFO",
+      "course_number": "456",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "41",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Develops capabilities required to assess the need for information policies in professional contexts, evaluate relevant socio-technical dimensions and envision likely implications for specific communities and practice settings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

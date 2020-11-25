@@ -1,1 +1,45 @@
-{"course_name":"SPAN 358","subject_code":"SPAN","course_number":"358","course_title":"Divergent Visions: Peninsular Literature and Culture since 1700","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=358&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SPAN 358 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=358&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Modern Spanish literature and culture, from Empire to the European Union. Includes Romanticism, Modernism, Republicanism, and Separatism. Full description: https://fhis.ubc.ca/course-description/span358/","subject_code":"SPAN","course_number":"358","section_number":"201","building":" ","room":"","instructors":["FERNANDEZ UTRERA, MARIA SOLEDAD"],"totalRemaining":"14","currentlyRegistered":"26","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Modern Spanish literature and culture, from Empire to the European Union. Includes Romanticism, Modernism, Republicanism, and Separatism."}
+{
+  "course_name": "SPAN 358",
+  "subject_code": "SPAN",
+  "course_number": "358",
+  "course_title": "Divergent Visions: Peninsular Literature and Culture since 1700",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=358&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 358 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=358&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Modern Spanish literature and culture, from Empire to the European Union. Includes Romanticism, Modernism, Republicanism, and Separatism. Full description: https://fhis.ubc.ca/course-description/span358/",
+      "subject_code": "SPAN",
+      "course_number": "358",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERNANDEZ UTRERA, MARIA SOLEDAD"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "26",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Modern Spanish literature and culture, from Empire to the European Union. Includes Romanticism, Modernism, Republicanism, and Separatism.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

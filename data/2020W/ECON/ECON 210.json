@@ -1,1 +1,72 @@
-{"course_name":"ECON 210","subject_code":"ECON","course_number":"210","course_title":"Microeconomic Policy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=210&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"May not be taken for credit by students with 4th year standing","subject_code":"ECON","course_number":"210","section_number":"001","building":" ","room":"","instructors":["GATEMAN, ROBERT"],"totalRemaining":"13","currentlyRegistered":"75","generalRemaining":"13","restrictedRemaining":"0"},"L1A":{"status":" ","section":"ECON 210 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=210&section=L1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Mon","start":"17:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"210","section_number":"L1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"16","currentlyRegistered":"74","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of policy issues, such as regulation, taxation, environmental and resource policy, health care, education and income distribution.  May not be taken for credit by students with fourth-year standing."}
+{
+  "course_name": "ECON 210",
+  "subject_code": "ECON",
+  "course_number": "210",
+  "course_title": "Microeconomic Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "May not be taken for credit by students with 4th year standing",
+      "subject_code": "ECON",
+      "course_number": "210",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GATEMAN, ROBERT"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "74",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 210 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=210&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "210",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "73",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of policy issues, such as regulation, taxation, environmental and resource policy, health care, education and income distribution.  May not be taken for credit by students with fourth-year standing.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

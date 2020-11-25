@@ -1,1 +1,44 @@
-{"course_name":"MINE 403","subject_code":"MINE","course_number":"403","course_title":"Rock Mechanics Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=403&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MINE 403 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=403&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"MINE","course_number":"403","section_number":"201","building":"Frank Forward","room":"217","instructors":["ELMO, DAVIDE"],"totalRemaining":"7","currentlyRegistered":"33","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The design of rock slopes and underground openings with respect to stress, structure and the rock mass. Stabilization and monitoring of rock movement."}
+{
+  "course_name": "MINE 403",
+  "subject_code": "MINE",
+  "course_number": "403",
+  "course_title": "Rock Mechanics Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 403 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=403&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "cross-listed with MINE 590D",
+      "subject_code": "MINE",
+      "course_number": "403",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The design of rock slopes and underground openings with respect to stress, structure and the rock mass. Stabilization and monitoring of rock movement.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

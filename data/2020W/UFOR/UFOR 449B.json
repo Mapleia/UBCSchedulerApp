@@ -1,1 +1,48 @@
-{"course_name":"UFOR 449B","subject_code":"UFOR","course_number":"449B","course_title":"Directed Studies in Urban Forestry - DIR ST URB FRST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=449B&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"UFOR 449B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=449B&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Tue Wed Thu Fri","start":"9:00","end":"16:00","comments":"","subject_code":"UFOR","course_number":"449B","section_number":"101","building":" ","room":"","instructors":["ALMAS, ANDREW","DAY, SUSAN"],"totalRemaining":"24","currentlyRegistered":"46","generalRemaining":"24","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance."}
+{
+  "course_name": "UFOR 449B",
+  "subject_code": "UFOR",
+  "course_number": "449B",
+  "course_title": "Directed Studies in Urban Forestry - DIR ST URB FRST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=449B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "UFOR 449B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=449B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "UFOR",
+      "course_number": "449B",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALMAS, ANDREW",
+        "DAY, SUSAN"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "46",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

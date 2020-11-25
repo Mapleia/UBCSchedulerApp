@@ -1,1 +1,44 @@
-{"course_name":"SOCI 441","subject_code":"SOCI","course_number":"441","course_title":"Society, Economy and Family","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=441&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SOCI 441 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=441&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"441","section_number":"201","building":"Henry Angus","room":"291","instructors":["JOHNSON, PHYLLIS"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The study of family in social and economic contexts. Credit will be granted for only one of SOCI 441 and FMST 440."}
+{
+  "course_name": "SOCI 441",
+  "subject_code": "SOCI",
+  "course_number": "441",
+  "course_title": "Society, Economy and Family",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 441 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=441&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "441",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, PHYLLIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The study of family in social and economic contexts. Credit will be granted for only one of SOCI 441 and FMST 440.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

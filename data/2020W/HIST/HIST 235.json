@@ -1,1 +1,210 @@
-{"course_name":"HIST 235","subject_code":"HIST","course_number":"235","course_title":"History of Canada: Moments that Matter","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=235&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 235 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"13:00","end":"14:00","comments":"HIST 235 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.HIST 235 will involve a mix of synchronous and asynchronous remote teaching, including live tutorials on Fridays. Accommodations are possible for those unable to attend during scheduled class times.","subject_code":"HIST","course_number":"235","section_number":"101","building":" ","room":"","instructors":["LOO, TINA MERRILL","ALLARD, DANE","BLAIR, MEGAN","PETERS, MERCEDES"],"totalRemaining":"4","currentlyRegistered":"104","generalRemaining":"4","restrictedRemaining":"0"},"L1A":{"status":" ","section":"HIST 235 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1A","building":" ","room":"","instructors":["LOO, TINA MERRILL","BLAIR, MEGAN"],"totalRemaining":"2","currentlyRegistered":"16","generalRemaining":"2","restrictedRemaining":"0"},"L1B":{"status":"Full","section":"HIST 235 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1B","building":" ","room":"","instructors":["LOO, TINA MERRILL","BLAIR, MEGAN"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L1C":{"status":"Full","section":"HIST 235 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1C&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1C","building":" ","room":"","instructors":["LOO, TINA MERRILL","PETERS, MERCEDES"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L1E":{"status":" ","section":"HIST 235 L1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1E&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1E","building":" ","room":"","instructors":["LOO, TINA MERRILL","PETERS, MERCEDES"],"totalRemaining":"1","currentlyRegistered":"17","generalRemaining":"1","restrictedRemaining":"0"},"L1F":{"status":"Full","section":"HIST 235 L1F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1F&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1F","building":" ","room":"","instructors":["LOO, TINA MERRILL","ALLARD, DANE"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L1K":{"status":" ","section":"HIST 235 L1K","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1K&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"HIST","course_number":"235","section_number":"L1K","building":" ","room":"","instructors":["LOO, TINA MERRILL","ALLARD, DANE"],"totalRemaining":"1","currentlyRegistered":"17","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An introduction to major turning points in Canadian history.  Exploration of the social, political, cultural, and environmental transformations/revolutions that have shaped Canada from early European colonialism to the twenty-first century."}
+{
+  "course_name": "HIST 235",
+  "subject_code": "HIST",
+  "course_number": "235",
+  "course_title": "History of Canada: Moments that Matter",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=235&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 235 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "HIST 235 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.HIST 235 will involve a mix of synchronous and asynchronous remote teaching, including live tutorials on Fridays. Accommodations are possible for those unable to attend during scheduled class times.",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "ALLARD, DANE",
+        "BLAIR, MEGAN",
+        "PETERS, MERCEDES"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "103",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 235 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "BLAIR, MEGAN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "16",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 235 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "BLAIR, MEGAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 235 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "PETERS, MERCEDES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 235 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "PETERS, MERCEDES"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 235 L1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1F&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "ALLARD, DANE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 235 L1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=235&section=L1K&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "235",
+      "section_number": "L1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOO, TINA MERRILL",
+        "ALLARD, DANE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "16",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An introduction to major turning points in Canadian history.  Exploration of the social, political, cultural, and environmental transformations/revolutions that have shaped Canada from early European colonialism to the twenty-first century.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

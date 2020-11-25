@@ -1,1 +1,129 @@
-{"course_name":"MICB 499","subject_code":"MICB","course_number":"499","course_title":"Co-operative Work Placement IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=499&sessyr=2020&sesscd=W","sections":{"610":{"status":" ","section":"MICB 499 610","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=610&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"FOR CO-OP STUDENTS ONLY","subject_code":"MICB","course_number":"499","section_number":"610","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"8","generalRemaining":"6","restrictedRemaining":"0"},"620":{"status":" ","section":"MICB 499 620","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=620&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"499","section_number":"620","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"2","generalRemaining":"12","restrictedRemaining":"0"},"CP1":{"status":" ","section":"MICB 499 CP1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=CP1&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MICB","course_number":"499","section_number":"CP1","building":"","room":"","instructors":["25","0","25","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"CP2":{"status":" ","section":"MICB 499 CP2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=CP2&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MICB","course_number":"499","section_number":"CP2","building":"","room":"","instructors":["25","0","25","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Work experience in an industrial research setting, taken during the Winter Session (Term 1) of fifth year. Restricted to students admitted to the Co-operative Education Program of Biotechnology in Microbiology and Immunology."}
+{
+  "course_name": "MICB 499",
+  "subject_code": "MICB",
+  "course_number": "499",
+  "course_title": "Co-operative Work Placement IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=499&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 499 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=610&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "FOR CO-OP STUDENTS ONLY",
+      "subject_code": "MICB",
+      "course_number": "499",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "8",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 499 620",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=620&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "499",
+      "section_number": "620",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "2",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 499 CP1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=CP1&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "499",
+      "section_number": "CP1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "25",
+        "0",
+        "25",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "MICB 499 CP2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=499&section=CP2&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "499",
+      "section_number": "CP2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "25",
+        "0",
+        "25",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Work experience in an industrial research setting, taken during the Winter Session (Term 1) of fifth year. Restricted to students admitted to the Co-operative Education Program of Biotechnology in Microbiology and Immunology.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

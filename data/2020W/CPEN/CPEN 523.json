@@ -1,1 +1,71 @@
-{"course_name":"CPEN 523","subject_code":"CPEN","course_number":"523","course_title":"Software Project Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=523&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"CPEN 523 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=523&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:00","end":"12:00","comments":"Interested students to contact Philippe (philippe@kruchten.com) for permission to enrol in the course.","subject_code":"CPEN","course_number":"523","section_number":"201","building":"West Mall Swing Space","room":"106","instructors":["KRUCHTEN, PHILIPPE"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"},"2W1":{"status":" ","section":"CPEN 523 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=523&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Interested students to contact Philippe (philippe@kruchten.com) for permission to enrol in the course.Restricted only for MEL DESS students","subject_code":"CPEN","course_number":"523","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Credit will only be given for one of CPEN 523 or EECE 543 or CPEN 421.\t"}
+{
+  "course_name": "CPEN 523",
+  "subject_code": "CPEN",
+  "course_number": "523",
+  "course_title": "Software Project Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=523&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPEN 523 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=523&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Interested students to contact Philippe (philippe@kruchten.com) for permission to enrol in the course.",
+      "subject_code": "CPEN",
+      "course_number": "523",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KRUCHTEN, PHILIPPE"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 523 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=523&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Interested students to contact Philippe (philippe@kruchten.com) for permission to enrol in the course.Restricted only for MEL DESS students",
+      "subject_code": "CPEN",
+      "course_number": "523",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will only be given for one of CPEN 523 or EECE 543 or CPEN 421.\t",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

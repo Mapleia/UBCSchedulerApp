@@ -1,1 +1,72 @@
-{"course_name":"PHYS 350","subject_code":"PHYS","course_number":"350","course_title":"Applications of Classical Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=350&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 350 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=350&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:00","comments":"","subject_code":"PHYS","course_number":"350","section_number":"201","building":"Hennings","room":"201","instructors":["BERCIU, MONA"],"totalRemaining":"2","currentlyRegistered":"79","generalRemaining":"2","restrictedRemaining":"0"},"T2A":{"status":" ","section":"PHYS 350 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=350&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"9:00","end":"10:00","comments":"","subject_code":"PHYS","course_number":"350","section_number":"T2A","building":"Hebb","room":"114","instructors":["BERCIU, MONA"],"totalRemaining":"53","currentlyRegistered":"75","generalRemaining":"53","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Review of principles. Particle mechanics: Euler's equations, tops and gyroscopes, motion of the Earth, Lagrangian and Hamiltonian methods. Variational principles in optics and mechanics, Liouville's theorem and statistical mechanics. The relationship between classical and quantum mechanics."}
+{
+  "course_name": "PHYS 350",
+  "subject_code": "PHYS",
+  "course_number": "350",
+  "course_title": "Applications of Classical Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 350 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=350&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "350",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERCIU, MONA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "79",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 350 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=350&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "350",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERCIU, MONA"
+      ],
+      "totalRemaining": "52",
+      "currentlyRegistered": "76",
+      "generalRemaining": "52",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Review of principles. Particle mechanics: Euler's equations, tops and gyroscopes, motion of the Earth, Lagrangian and Hamiltonian methods. Variational principles in optics and mechanics, Liouville's theorem and statistical mechanics. The relationship between classical and quantum mechanics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

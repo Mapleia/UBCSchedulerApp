@@ -1,1 +1,43 @@
-{"course_name":"PCTH 448E","subject_code":"PCTH","course_number":"448E","course_title":"Directed Studies in Pharmacology - DST PHARMACOLOGY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=448E&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"PCTH 448E 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=448E&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" Mon","start":" ","end":" ","comments":"","subject_code":"PCTH","course_number":"448E","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"8","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Advanced investigation of a specific topic in Pharmacology."}
+{
+  "course_name": "PCTH 448E",
+  "subject_code": "PCTH",
+  "course_number": "448E",
+  "course_title": "Directed Studies in Pharmacology - DST PHARMACOLOGY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=448E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 448E 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=448E&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PCTH",
+      "course_number": "448E",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Advanced investigation of a specific topic in Pharmacology.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

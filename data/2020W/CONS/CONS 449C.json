@@ -1,1 +1,179 @@
-{"course_name":"CONS 449C","subject_code":"CONS","course_number":"449C","course_title":"Directed Studies in Natural Resources Conservation - DIR ST NTL RS CN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=449C&sessyr=2020&sesscd=W","sections":{"101":{"status":"Temp. Unavailable","section":"CONS 449C 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Please register in  UFOR 100 (Greening the city : An Introduction to Urban Forestry)","subject_code":"CONS","course_number":"449C","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["KOZAK, ROBERT ANTAL"],"totalRemaining":"60","currentlyRegistered":"0","generalRemaining":"60","restrictedRemaining":"0"},"103":{"status":"Unreleased","section":"CONS 449C 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=103&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"See Program Director","subject_code":"CONS","course_number":"449C","section_number":"103","building":"No Scheduled Meeting","room":"","instructors":["KOZAK, ROBERT ANTAL"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Temp. Unavailable","section":"CONS 449C 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"CONS","course_number":"449C","section_number":"202","building":"Forest Sciences Centre","room":"1001","instructors":["BURTON, COLE"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"},"205":{"status":" ","section":"CONS 449C 205","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=205&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:00","comments":"This course is a Conservation Economics Course.Here is the course theme:  Members of a community have decided that they value a species, an ecosystem, waterway or grassland, or that their cultural or spiritual values are threatened by activities on a landscape. Ecologists have developed a model of the dynamics on this landscape and made recommendations. Now what? Conservation Economics develops the understanding of human behavior, trade-offs and incentives in problems related to environmental conservation. Using a problem-based approach to learning, we will use these tools to explore how members of a community can engage with the government and other local stakeholders to develop policies that incorporate the trade-offs involved in protecting species, ecosystem and landscape values. For the full syllabus please contact Forestry Student Services","subject_code":"CONS","course_number":"449C","section_number":"205","building":"Forest Sciences Centre","room":"2916","instructors":["NELSON, HARRY WILLIAM"],"totalRemaining":"17","currentlyRegistered":"8","generalRemaining":"17","restrictedRemaining":"0"},"206":{"status":" ","section":"CONS 449C 206","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=206&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"14:00","end":"16:00","comments":"","subject_code":"CONS","course_number":"449C","section_number":"206","building":"Forest Sciences Centre","room":"1617","instructors":["WANG, GUANGYU"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"L05":{"status":" ","section":"CONS 449C L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=L05&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"","subject_code":"CONS","course_number":"449C","section_number":"L05","building":"Forest Sciences Centre","room":"2942","instructors":["NELSON, HARRY WILLIAM"],"totalRemaining":"20","currentlyRegistered":"5","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"In special cases and with the approval of the instructor concerned, a student may carry out directed studies of specific problems in natural resources conservation."}
+{
+  "course_name": "CONS 449C",
+  "subject_code": "CONS",
+  "course_number": "449C",
+  "course_title": "Directed Studies in Natural Resources Conservation - DIR ST NTL RS CN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=449C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Temp. Unavailable",
+      "section": "CONS 449C 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please register in  UFOR 100 (Greening the city : An Introduction to Urban Forestry)",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "0",
+      "generalRemaining": "60",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "CONS 449C 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=103&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "See Program Director",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "103",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOZAK, ROBERT ANTAL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Temp. Unavailable",
+      "section": "CONS 449C 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=202&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CONS 449C 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "This course is a Conservation Economics Course.Here is the course theme:  Members of a community have decided that they value a species, an ecosystem, waterway or grassland, or that their cultural or spiritual values are threatened by activities on a landscape. Ecologists have developed a model of the dynamics on this landscape and made recommendations. Now what? Conservation Economics develops the understanding of human behavior, trade-offs and incentives in problems related to environmental conservation. Using a problem-based approach to learning, we will use these tools to explore how members of a community can engage with the government and other local stakeholders to develop policies that incorporate the trade-offs involved in protecting species, ecosystem and landscape values. For the full syllabus please contact Forestry Student Services",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NELSON, HARRY WILLIAM"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "8",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CONS 449C 206",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=206&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "206",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WANG, GUANGYU"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CONS 449C L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=449C&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "449C",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NELSON, HARRY WILLIAM"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "5",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry out directed studies of specific problems in natural resources conservation.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies",
+    "Lecture",
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,126 @@
-{"course_name":"PSYC 301","subject_code":"PSYC","course_number":"301","course_title":"Brain Dysfunction and Recovery","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=301&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"PSYC 301 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"301","section_number":"101","building":" ","room":"","instructors":["HOSKING, JEREMY"],"totalRemaining":"0","currentlyRegistered":"188","generalRemaining":"0","restrictedRemaining":"0"},"902":{"status":"Full","section":"PSYC 301 902","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=902&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Thu","start":"17:00","end":"19:30","comments":"","subject_code":"PSYC","course_number":"301","section_number":"902","building":" ","room":"","instructors":["BARNES, STEVEN"],"totalRemaining":"0","currentlyRegistered":"140","generalRemaining":"0","restrictedRemaining":"0"},"001":{"status":" ","section":"PSYC 301 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"301","section_number":"001","building":" ","room":"","instructors":["HOSKING, JEREMY"],"totalRemaining":"23","currentlyRegistered":"277","generalRemaining":"23","restrictedRemaining":"0"},"002":{"status":"Full","section":"PSYC 301 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"PSYC","course_number":"301","section_number":"002","building":" ","room":"","instructors":["SILVERBERG, NOAH"],"totalRemaining":"0","currentlyRegistered":"150","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Cognitive and behavioral impairments resulting from brain dysfunction. Focus on the efficacy of various intervention approaches."}
+{
+  "course_name": "PSYC 301",
+  "subject_code": "PSYC",
+  "course_number": "301",
+  "course_title": "Brain Dysfunction and Recovery",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 301 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "301",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOSKING, JEREMY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "179",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 301 902",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=902&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "301",
+      "section_number": "902",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARNES, STEVEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 301 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "301",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOSKING, JEREMY"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "268",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 301 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=301&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "301",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILVERBERG, NOAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "150",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Cognitive and behavioral impairments resulting from brain dysfunction. Focus on the efficacy of various intervention approaches.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,75 @@
-{"course_name":"APSC 496D","subject_code":"APSC","course_number":"496D","course_title":"Interdisciplinary Engineering Design Project - INTER ENG PRJECT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=496D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"APSC 496D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=496D&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1-2","interval":"","days":" Tue","start":"18:00","end":"21:00","comments":"New Venture Capstone DesignCompetitive application process, see NVD.ubc.ca for information.","subject_code":"APSC","course_number":"496D","section_number":"001","building":" ","room":"","instructors":["LUSINA, PAUL","MILLER, DAVID","WALUS, KONRAD"],"totalRemaining":"12","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"12"},"002":{"status":"Blocked","section":"APSC 496D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=496D&section=002&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1-2","interval":"","days":" Tue","start":"18:00","end":"21:00","comments":"New Venture Capstone DesignCompetitive application process, see NVD.ubc.ca for information.","subject_code":"APSC","course_number":"496D","section_number":"002","building":" ","room":"","instructors":["LUSINA, PAUL","POGUE, FRASER","SIMONITE, JAMES BLAIR","WALUS, KONRAD"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 9","description":"Projects involving students from several departments.\t"}
+{
+  "course_name": "APSC 496D",
+  "subject_code": "APSC",
+  "course_number": "496D",
+  "course_title": "Interdisciplinary Engineering Design Project - INTER ENG PRJECT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=496D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APSC 496D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=496D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "New Venture Capstone DesignCompetitive application process, see NVD.ubc.ca for information.",
+      "subject_code": "APSC",
+      "course_number": "496D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LUSINA, PAUL",
+        "MILLER, DAVID",
+        "VAN DER LOOS, HENDRIK",
+        "WALUS, KONRAD"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Blocked",
+      "section": "APSC 496D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=496D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "New Venture Capstone DesignCompetitive application process, see NVD.ubc.ca for information.",
+      "subject_code": "APSC",
+      "course_number": "496D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POGUE, FRASER",
+        "SIMONITE, JAMES BLAIR",
+        "VAN DER LOOS, HENDRIK",
+        "WALUS, KONRAD"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": 9,
+  "description": "Projects involving students from several departments.\t",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

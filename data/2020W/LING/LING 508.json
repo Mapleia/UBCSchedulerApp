@@ -1,1 +1,44 @@
-{"course_name":"LING 508","subject_code":"LING","course_number":"508","course_title":"Phonetic Theory and Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=508&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 508 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=508&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"LING","course_number":"508","section_number":"001","building":" ","room":"","instructors":["GICK, BRYAN"],"totalRemaining":"22","currentlyRegistered":"3","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Discussion and critical analysis of current issues in linguistic phonetics; instrumental analysis."}
+{
+  "course_name": "LING 508",
+  "subject_code": "LING",
+  "course_number": "508",
+  "course_title": "Phonetic Theory and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 508 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=508&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "508",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GICK, BRYAN"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "3",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Discussion and critical analysis of current issues in linguistic phonetics; instrumental analysis.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

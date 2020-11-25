@@ -1,1 +1,72 @@
-{"course_name":"CPSC 515","subject_code":"CPSC","course_number":"515","course_title":"Computational Robotics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=515&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 515 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=515&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"12:00","end":"13:30","comments":"","subject_code":"CPSC","course_number":"515","section_number":"101","building":" ","room":"","instructors":["MITCHELL, IAN"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":"Restricted","section":"CPSC 515 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=515&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed","start":"12:00","end":"13:30","comments":"","subject_code":"CPSC","course_number":"515","section_number":"1W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"60","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"60"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 515",
+  "subject_code": "CPSC",
+  "course_number": "515",
+  "course_title": "Computational Robotics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=515&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 515 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=515&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "515",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MITCHELL, IAN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 515 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=515&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "515",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "60",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "60"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

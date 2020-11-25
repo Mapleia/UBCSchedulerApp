@@ -1,1 +1,44 @@
-{"course_name":"COMM 693","subject_code":"COMM","course_number":"693","course_title":"Seminar in Research Methodology I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=693&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"COMM 693 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=693&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"17:00","end":"19:00","comments":"","subject_code":"COMM","course_number":"693","section_number":"001","building":" ","room":"","instructors":["HEAD, C KEITH"],"totalRemaining":"5","currentlyRegistered":"10","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 693",
+  "subject_code": "COMM",
+  "course_number": "693",
+  "course_title": "Seminar in Research Methodology I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=693&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 693 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=693&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "693",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEAD, C KEITH"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

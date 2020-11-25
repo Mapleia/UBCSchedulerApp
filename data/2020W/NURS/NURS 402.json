@@ -1,1 +1,43 @@
-{"course_name":"NURS 402","subject_code":"NURS","course_number":"402","course_title":"Foundational Skills and Competencies for Clinical Practice V","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=402&sessyr=2020&sesscd=W","sections":{"002":{"status":"STT","section":"NURS 402 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=402&section=002&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1-2","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"","subject_code":"NURS","course_number":"402","section_number":"002","building":"Hugh Dempster Pavilion","room":"110","instructors":["JACKSON, CATHRYN","RADU, RALUCA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 2","description":"Students are guided to consolidate skills and competencies for clinical practice through a variety of modalities and learning activities."}
+{
+  "course_name": "NURS 402",
+  "subject_code": "NURS",
+  "course_number": "402",
+  "course_title": "Foundational Skills and Competencies for Clinical Practice V",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "NURS 402 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=402&section=002&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "402",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": "Students are guided to consolidate skills and competencies for clinical practice through a variety of modalities and learning activities.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

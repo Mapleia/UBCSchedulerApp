@@ -1,1 +1,43 @@
-{"course_name":"EDCP 327A","subject_code":"EDCP","course_number":"327A","course_title":"Special Topics  in Health Education - TPCS HEALTH ED","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=327A&sessyr=2020&sesscd=W","sections":{"031":{"status":"Restricted","section":"EDCP 327A 031","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=327A&section=031&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Mon","start":"10:30","end":"12:00","comments":"This section will be offered online.","subject_code":"EDCP","course_number":"327A","section_number":"031","building":" ","room":"","instructors":["PETHERICK, LEANNE"],"totalRemaining":"2","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 327A",
+  "subject_code": "EDCP",
+  "course_number": "327A",
+  "course_title": "Special Topics  in Health Education - TPCS HEALTH ED",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=327A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 327A 031",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=327A&section=031&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "327A",
+      "section_number": "031",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PETHERICK, LEANNE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"BMEG 557","subject_code":"BMEG","course_number":"557","course_title":"Statistical Methods for Evaluating Medical Technologies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=557&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BMEG 557 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=557&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"16:00","end":"17:00","comments":"","subject_code":"BMEG","course_number":"557","section_number":"101","building":" ","room":"","instructors":["BAYAT, SHARAREH"],"totalRemaining":"20","currentlyRegistered":"10","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "BMEG 557",
+  "subject_code": "BMEG",
+  "course_number": "557",
+  "course_title": "Statistical Methods for Evaluating Medical Technologies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=557&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BMEG 557 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=557&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "557",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAYAT, SHARAREH"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

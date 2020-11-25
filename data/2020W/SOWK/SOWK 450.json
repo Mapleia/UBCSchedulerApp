@@ -1,1 +1,41 @@
-{"course_name":"SOWK 450","subject_code":"SOWK","course_number":"450","course_title":"Social Work Practice in Community Mental Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=450&sessyr=2020&sesscd=W","sections":{"99C":{"status":" ","section":"SOWK 450 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=450&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account through Interchange/Netinfo.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. For more information, check the Learner's Guide for distance education at : http://ctlt.ubc.ca/It is important to be sure that your distance course is eligible under the student loan program.  For your reference: http://www.students.ubc.ca/finance/loans.cfm?page=courseloads.Where applicable, please visit this site for examination information: http://www.students.ubc.ca/coursesreg/exams/","subject_code":"SOWK","course_number":"450","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["DAVIS, SIMON"],"totalRemaining":"9","currentlyRegistered":"21","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Online course providing overview of social work services to persons with a mental illness."}
+{
+  "course_name": "SOWK 450",
+  "subject_code": "SOWK",
+  "course_number": "450",
+  "course_title": "Social Work Practice in Community Mental Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=450&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 450 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=450&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account through Interchange/Netinfo.  You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/ . Course materials must be ordered or picked up at the UBC Bookstore. For more information, check the Learner's Guide for distance education at : http://ctlt.ubc.ca/It is important to be sure that your distance course is eligible under the student loan program.  For your reference: http://www.students.ubc.ca/finance/loans.cfm?page=courseloads.Where applicable, please visit this site for examination information: http://www.students.ubc.ca/coursesreg/exams/",
+      "subject_code": "SOWK",
+      "course_number": "450",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DAVIS, SIMON"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "23",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Online course providing overview of social work services to persons with a mental illness.",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

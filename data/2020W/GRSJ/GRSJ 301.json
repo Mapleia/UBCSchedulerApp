@@ -1,1 +1,72 @@
-{"course_name":"GRSJ 301","subject_code":"GRSJ","course_number":"301","course_title":"Gender, Race and Indigeneity in Canada","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=301&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"GRSJ 301 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=301&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"When full this course will be blocked. Once the couse is blocked any seats that open up will be RESERVED for wait listed students. Wait listed students will be notified by email if they are moved into the class.","subject_code":"GRSJ","course_number":"301","section_number":"201","building":"Buchanan","room":"B210","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"GRSJ 301 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=301&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"GRSJ","course_number":"301","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Gender and indigeneity in the documented histories and narrated lives of Indigenous people in Canada."}
+{
+  "course_name": "GRSJ 301",
+  "subject_code": "GRSJ",
+  "course_number": "301",
+  "course_title": "Gender, Race and Indigeneity in Canada",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 301 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=301&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "When full this course will be blocked. Once the couse is blocked any seats that open up will be RESERVED for wait listed students. Wait listed students will be notified by email if they are moved into the class.",
+      "subject_code": "GRSJ",
+      "course_number": "301",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 301 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=301&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "301",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Gender and indigeneity in the documented histories and narrated lives of Indigenous people in Canada.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

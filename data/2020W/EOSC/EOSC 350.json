@@ -1,1 +1,129 @@
-{"course_name":"EOSC 350","subject_code":"EOSC","course_number":"350","course_title":"Environmental, Geotechnical, and Exploration Geophysics I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=350&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"EOSC 350 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"EOSC","course_number":"350","section_number":"101","building":" ","room":"","instructors":["BOSTOCK, MICHAEL","DROLET, DORIANE","LITTEL, GEENA"],"totalRemaining":"15","currentlyRegistered":"40","generalRemaining":"1","restrictedRemaining":"14"},"L1A":{"status":"STT","section":"EOSC 350 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"350","section_number":"L1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L1B":{"status":" ","section":"EOSC 350 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=L1B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"13:00","end":"15:00","comments":"","subject_code":"EOSC","course_number":"350","section_number":"L1B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"31","generalRemaining":"14","restrictedRemaining":"0"},"WL1":{"status":" ","section":"EOSC 350 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"350","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"Principles of geophysical survey design, data acquisition, processing and interpretation with emphasis on near-surface problems. Magnetic, seismic reflection/refraction, electromagnetic and ground penetrating radar surveys. Case history analysis of environmental and geotechnical problems."}
+{
+  "course_name": "EOSC 350",
+  "subject_code": "EOSC",
+  "course_number": "350",
+  "course_title": "Environmental, Geotechnical, and Exploration Geophysics I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 350 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "350",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOSTOCK, MICHAEL",
+        "DROLET, DORIANE",
+        "LITTEL, GEENA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "40",
+      "generalRemaining": "1",
+      "restrictedRemaining": "14"
+    },
+    {
+      "status": "STT",
+      "section": "EOSC 350 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "350",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "EOSC 350 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "350",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "31",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 350 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=350&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "350",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of geophysical survey design, data acquisition, processing and interpretation with emphasis on near-surface problems. Magnetic, seismic reflection/refraction, electromagnetic and ground penetrating radar surveys. Case history analysis of environmental and geotechnical problems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

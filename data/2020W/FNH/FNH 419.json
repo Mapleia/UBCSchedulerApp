@@ -1,1 +1,44 @@
-{"course_name":"FNH 419","subject_code":"FNH","course_number":"419","course_title":"Interfacial Phenomena","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=419&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FNH 419 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=419&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"Pleaes note, the room details will be posted soon.","subject_code":"FNH","course_number":"419","section_number":"001","building":"West Mall Swing Space","room":"207","instructors":["FROSTAD, JOHN"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of FNH 419 and FOOD 519."}
+{
+  "course_name": "FNH 419",
+  "subject_code": "FNH",
+  "course_number": "419",
+  "course_title": "Interfacial Phenomena",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=419&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 419 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=419&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "Pleaes note, the room details will be posted soon.",
+      "subject_code": "FNH",
+      "course_number": "419",
+      "section_number": "001",
+      "building": "West Mall Swing Space",
+      "room": "207",
+      "instructors": [
+        "FROSTAD, JOHN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of FNH 419 and FOOD 519.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

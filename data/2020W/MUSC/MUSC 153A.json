@@ -1,1 +1,44 @@
-{"course_name":"MUSC 153A","subject_code":"MUSC","course_number":"153A","course_title":"University Singers - UBC SINGERS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=153A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 153A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=153A&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Mon Wed","start":"15:00","end":"16:30","comments":"For undergraduates (graduate students register in MUSC 553 001).OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for large ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html.  Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.","subject_code":"MUSC","course_number":"153A","section_number":"001","building":"Music","room":"201","instructors":["LANGAGER, GRAEME"],"totalRemaining":"23","currentlyRegistered":"27","generalRemaining":"23","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties."}
+{
+  "course_name": "MUSC 153A",
+  "subject_code": "MUSC",
+  "course_number": "153A",
+  "course_title": "University Singers - UBC SINGERS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=153A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 153A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=153A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "For undergraduates (graduate students register in MUSC 553 001).OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for large ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html.  Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.",
+      "subject_code": "MUSC",
+      "course_number": "153A",
+      "section_number": "001",
+      "building": "Music",
+      "room": "201",
+      "instructors": [
+        "LANGAGER, GRAEME"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "28",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

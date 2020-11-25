@@ -1,1 +1,43 @@
-{"course_name":"APSC 521","subject_code":"APSC","course_number":"521","course_title":"Co-op Work Term II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=521&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"APSC 521 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=521&section=101&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"APSC","course_number":"521","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Supervised, technical paid work experience with a public or private organization for a minimum of 12 weeks full-time. Co-op assignment(s) required. Restricted to graduate degree students meeting requirement(s) of the Faculty of Applied Science and the Co-operative Education program."}
+{
+  "course_name": "APSC 521",
+  "subject_code": "APSC",
+  "course_number": "521",
+  "course_title": "Co-op Work Term II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=521&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "APSC 521 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=521&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "APSC",
+      "course_number": "521",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Supervised, technical paid work experience with a public or private organization for a minimum of 12 weeks full-time. Co-op assignment(s) required. Restricted to graduate degree students meeting requirement(s) of the Faculty of Applied Science and the Co-operative Education program.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

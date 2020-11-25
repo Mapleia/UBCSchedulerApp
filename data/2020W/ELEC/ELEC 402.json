@@ -1,1 +1,123 @@
-{"course_name":"ELEC 402","subject_code":"ELEC","course_number":"402","course_title":"Introduction to VLSI Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=402&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"ELEC 402 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:30","end":"19:00","comments":"","subject_code":"ELEC","course_number":"402","section_number":"101","building":" ","room":"","instructors":["MOLAVI, REZA"],"totalRemaining":"15","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"15"},"T1A":{"status":" ","section":"ELEC 402 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"","subject_code":"ELEC","course_number":"402","section_number":"T1A","building":" ","room":"","instructors":["MOLAVI, REZA"],"totalRemaining":"15","currentlyRegistered":"45","generalRemaining":"15","restrictedRemaining":"0"},"T1W":{"status":" ","section":"ELEC 402 T1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=T1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Thu","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"402","section_number":"T1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"1W1":{"status":" ","section":"ELEC 402 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"402","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Static CMOS combinational logic circuits. Standard cells design and layout. Memory element (flip-flop and latch) design. Dynamic logic families. Synchronous logic and timing analysis. Power, scaling, and industry trends. Verification. VHDL/Verilog design, layout and synthesis project using CAD tools."}
+{
+  "course_name": "ELEC 402",
+  "subject_code": "ELEC",
+  "course_number": "402",
+  "course_title": "Introduction to VLSI Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ELEC 402 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "402",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOLAVI, REZA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 402 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "402",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOLAVI, REZA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "43",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 402 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "402",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 402 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=402&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "402",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Static CMOS combinational logic circuits. Standard cells design and layout. Memory element (flip-flop and latch) design. Dynamic logic families. Synchronous logic and timing analysis. Power, scaling, and industry trends. Verification. VHDL/Verilog design, layout and synthesis project using CAD tools.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

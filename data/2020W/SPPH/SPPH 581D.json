@@ -1,1 +1,43 @@
-{"course_name":"SPPH 581D","subject_code":"SPPH","course_number":"581D","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=581D&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"SPPH 581D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=581D&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"13:30","end":"16:30","comments":"Required for all 2nd year MSc-OEH students taking the Project Option.   Except by permission of the instructor, the pre-requisite or co-requisite courses include: SPPH 535, SPPH 502, SPPH 522, and either of SPPH 598 or SPPH 599.","subject_code":"SPPH","course_number":"581D","section_number":"002","building":"School of Population and Public Health","room":"B112","instructors":["MCLEOD, CHRISTOPHER"],"totalRemaining":"9","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":"By seminar and directed readings, certain topics of current interest are explored in depth."}
+{
+  "course_name": "SPPH 581D",
+  "subject_code": "SPPH",
+  "course_number": "581D",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=581D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SPPH 581D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=581D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "Course is held entirely online.  To access course module, go to UBC Canvas at www.canvas.ubc.caRequired for all 2nd year MSc-OEH students taking the Project Option.   Except by permission of the instructor, the pre-requisite or co-requisite courses include: SPPH 535, SPPH 502, SPPH 522, and either of SPPH 598 or SPPH 599.",
+      "subject_code": "SPPH",
+      "course_number": "581D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCLEOD, CHRISTOPHER"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "By seminar and directed readings, certain topics of current interest are explored in depth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"MINE 420","subject_code":"MINE","course_number":"420","course_title":"Applied Geostatistics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=420&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MINE 420 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=420&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"MINE","course_number":"420","section_number":"201","building":"Frank Forward","room":"103","instructors":["MISKOVIC, ILIJA"],"totalRemaining":"18","currentlyRegistered":"23","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Geostatistical analysis and simulation of spatiotemporal phenomena in natural and engineered systems with applications to mining problems."}
+{
+  "course_name": "MINE 420",
+  "subject_code": "MINE",
+  "course_number": "420",
+  "course_title": "Applied Geostatistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MINE 420 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=420&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "cross-listed with MINE 552",
+      "subject_code": "MINE",
+      "course_number": "420",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, ILIJA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "23",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Geostatistical analysis and simulation of spatiotemporal phenomena in natural and engineered systems with applications to mining problems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

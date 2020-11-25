@@ -1,1 +1,76 @@
-{"course_name":"PSYC 399","subject_code":"PSYC","course_number":"399","course_title":"Cooperative Work Placement II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=399&sessyr=2020&sesscd=W","sections":{"510":{"status":"Full","section":"PSYC 399 510","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=399&section=510&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"PSYC","course_number":"399","section_number":"510","building":"","room":"","instructors":["0","3","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"610":{"status":"Unreleased","section":"PSYC 399 610","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=399&section=610&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"PSYC","course_number":"399","section_number":"610","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 1. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.)."}
+{
+  "course_name": "PSYC 399",
+  "subject_code": "PSYC",
+  "course_number": "399",
+  "course_title": "Cooperative Work Placement II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=399&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 399 510",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=399&section=510&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "399",
+      "section_number": "510",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "3",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "PSYC 399 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=399&section=610&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "399",
+      "section_number": "610",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 1. Work term report required. Restricted to students admitted to the Co-op Program in Psychology (B.Sc.).",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

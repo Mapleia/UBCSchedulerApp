@@ -1,1 +1,44 @@
-{"course_name":"CPSC 538B","subject_code":"CPSC","course_number":"538B","course_title":"Topics in Computer Systems - DIST SYS ABST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538B&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CPSC 538B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=538B&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"CPSC","course_number":"538B","section_number":"101","building":" ","room":"","instructors":["BESCHASTNIKH, IVAN"],"totalRemaining":"6","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 538B",
+  "subject_code": "CPSC",
+  "course_number": "538B",
+  "course_title": "Topics in Computer Systems - DIST SYS ABST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=538B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 538B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=538B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "538B",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BESCHASTNIKH, IVAN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

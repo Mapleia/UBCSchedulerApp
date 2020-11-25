@@ -1,1 +1,43 @@
-{"course_name":"AUDI 527","subject_code":"AUDI","course_number":"527","course_title":"Introduction to Dysphagia","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=527&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 527 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=527&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"527","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["SKORETZ, STACEY"],"totalRemaining":"5","currentlyRegistered":"35","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Pass/Fail."}
+{
+  "course_name": "AUDI 527",
+  "subject_code": "AUDI",
+  "course_number": "527",
+  "course_title": "Introduction to Dysphagia",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=527&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 527 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=527&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "527",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SKORETZ, STACEY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

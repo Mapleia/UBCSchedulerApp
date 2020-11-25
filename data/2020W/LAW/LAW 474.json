@@ -1,1 +1,149 @@
-{"course_name":"LAW 474","subject_code":"LAW","course_number":"474","course_title":"Trial Advocacy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=474&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 474 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"16:00","end":"18:00","comments":"Students registering for LAW 474.001 must also register for one of LAW 474.L01, 474.L02, 474.L03, or 474.L04.  This course fufills the Experiential Learning requirement.  This course is NOT open to Exchange or Visiting students.","subject_code":"LAW","course_number":"474","section_number":"001","building":" ","room":"","instructors":["SUTHERLAND, JAMES"],"totalRemaining":"0","currentlyRegistered":"48","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":"Full","section":"LAW 474 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Mon","start":"16:30","end":"18:30","comments":"THIS LAB HAS THE OPTION OF IN-PERSON.","subject_code":"LAW","course_number":"474","section_number":"L01","building":"Allard Hall (LAW)","room":"121","instructors":["NUGENT, DANIEL","VOS, TERRY"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"},"L02":{"status":"Full","section":"LAW 474 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L02&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Tue","start":"17:30","end":"19:30","comments":"THIS LAB HAS THE OPTION OF IN-PERSON.","subject_code":"LAW","course_number":"474","section_number":"L02","building":"Allard Hall (LAW)","room":"123","instructors":["RHODES, BRIAN"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":"Full","section":"LAW 474 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L03&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Wed","start":"18:00","end":"20:00","comments":"THIS LAB HAS THE OPTION OF IN-PERSON.","subject_code":"LAW","course_number":"474","section_number":"L03","building":"Allard Hall (LAW)","room":"121","instructors":["JETTE, MARK"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"},"L04":{"status":"Full","section":"LAW 474 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L04&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Thu","start":"17:30","end":"19:30","comments":"THIS LAB HAS THE OPTION OF IN-PERSON.","subject_code":"LAW","course_number":"474","section_number":"L04","building":"Allard Hall (LAW)","room":"123","instructors":["DUNCAN, EMMET"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations."}
+{
+  "course_name": "LAW 474",
+  "subject_code": "LAW",
+  "course_number": "474",
+  "course_title": "Trial Advocacy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=474&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 474 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "Students registering for LAW 474.001 must also register for one of LAW 474.L01, 474.L02, 474.L03, or 474.L04.  This course fufills the Experiential Learning requirement.  This course is NOT open to Exchange or Visiting students.",
+      "subject_code": "LAW",
+      "course_number": "474",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUTHERLAND, JAMES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 474 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "18:30",
+      "comments": "THIS LAB HAS THE OPTION OF IN-PERSON.",
+      "subject_code": "LAW",
+      "course_number": "474",
+      "section_number": "L01",
+      "building": "Allard Hall (LAW)",
+      "room": "121",
+      "instructors": [
+        "NUGENT, DANIEL",
+        "VOS, TERRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 474 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "THIS LAB HAS THE OPTION OF IN-PERSON.",
+      "subject_code": "LAW",
+      "course_number": "474",
+      "section_number": "L02",
+      "building": "Allard Hall (LAW)",
+      "room": "123",
+      "instructors": [
+        "RHODES, BRIAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 474 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "20:00",
+      "comments": "THIS LAB HAS THE OPTION OF IN-PERSON.",
+      "subject_code": "LAW",
+      "course_number": "474",
+      "section_number": "L03",
+      "building": "Allard Hall (LAW)",
+      "room": "121",
+      "instructors": [
+        "JETTE, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 474 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=474&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "THIS LAB HAS THE OPTION OF IN-PERSON.",
+      "subject_code": "LAW",
+      "course_number": "474",
+      "section_number": "L04",
+      "building": "Allard Hall (LAW)",
+      "room": "123",
+      "instructors": [
+        "DUNCAN, EMMET"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Discussion"
+  ]
+}

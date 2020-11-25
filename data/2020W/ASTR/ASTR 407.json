@@ -1,1 +1,45 @@
-{"course_name":"ASTR 407","subject_code":"ASTR","course_number":"407","course_title":"Planetary Science","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=407&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ASTR 407 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=407&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"ASTR","course_number":"407","section_number":"201","building":"Hennings","room":"304","instructors":["GLADMAN, BRETT"],"totalRemaining":"15","currentlyRegistered":"15","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Structure of planetary systems, planetary interiors, planet formation, planetary atmospheres, meteoritics, impact cratering."}
+{
+  "course_name": "ASTR 407",
+  "subject_code": "ASTR",
+  "course_number": "407",
+  "course_title": "Planetary Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=407&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 407 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=407&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "407",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GLADMAN, BRETT"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "15",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Structure of planetary systems, planetary interiors, planet formation, planetary atmospheres, meteoritics, impact cratering.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

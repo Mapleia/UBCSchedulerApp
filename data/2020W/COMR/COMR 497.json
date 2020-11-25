@@ -1,1 +1,72 @@
-{"course_name":"COMR 497","subject_code":"COMR","course_number":"497","course_title":"New Enterprise Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=497&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"COMR 497 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=497&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMR","course_number":"497","section_number":"101","building":" ","room":"","instructors":["DERETIC, MOMCILO"],"totalRemaining":"2","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"2"},"201":{"status":"Restricted","section":"COMR 497 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=497&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri","start":"11:30","end":"13:00","comments":"","subject_code":"COMR","course_number":"497","section_number":"201","building":"Henry Angus","room":"347","instructors":["DERETIC, MOMCILO"],"totalRemaining":"1","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"The particular problems and experiences encountered in starting, developing, and managing new enterprises. The course includes lectures, guest speakers, and case studies. Credit may only be obtained for one of COMM 466, COMM 497, COEC 497, COMR 497, and APSC 486."}
+{
+  "course_name": "COMR 497",
+  "subject_code": "COMR",
+  "course_number": "497",
+  "course_title": "New Enterprise Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMR&course=497&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMR 497 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=497&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "497",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMR 497 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMR&course=497&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMR",
+      "course_number": "497",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DERETIC, MOMCILO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "The particular problems and experiences encountered in starting, developing, and managing new enterprises. The course includes lectures, guest speakers, and case studies. Credit may only be obtained for one of COMM 466, COMM 497, COEC 497, COMR 497, and APSC 486.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

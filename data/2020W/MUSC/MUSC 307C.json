@@ -1,1 +1,78 @@
-{"course_name":"MUSC 307C","subject_code":"MUSC","course_number":"307C","course_title":"Composition III - COMPOSITION III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=307C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 307C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=307C&section=001&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"Restricted to BMUS COMP majors only.","subject_code":"MUSC","course_number":"307C","section_number":"001","building":" ","room":"","instructors":["CARRABRE, THOMAS","CHANG BORTOLUSSI, DOROTHY","CHATMAN, STEPHEN","HAMEL, KEITH","MORLOCK, JOCELYN"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"15"},"002":{"status":"Restricted","section":"MUSC 307C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=307C&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"Open to graduate non-composition music major students, only, by permission of instructor and submission of scores.  Weekly tutorial instruction will be scheduled.  Non-composition majors in 307 also will be expected to attend the Mondaynoon composition seminars.","subject_code":"MUSC","course_number":"307C","section_number":"002","building":"Music","room":"113","instructors":["CARRABRE, THOMAS","CHANG BORTOLUSSI, DOROTHY","CHATMAN, STEPHEN","HAMEL, KEITH","MORLOCK, JOCELYN"],"totalRemaining":"1","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 6","description":"Continuation of MUSC 207."}
+{
+  "course_name": "MUSC 307C",
+  "subject_code": "MUSC",
+  "course_number": "307C",
+  "course_title": "Composition III - COMPOSITION III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=307C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 307C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=307C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Restricted to BMUS COMP majors only.",
+      "subject_code": "MUSC",
+      "course_number": "307C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARRABRE, THOMAS",
+        "CHANG BORTOLUSSI, DOROTHY",
+        "CHATMAN, STEPHEN",
+        "HAMEL, KEITH",
+        "MORLOCK, JOCELYN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "Restricted",
+      "section": "MUSC 307C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=307C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Open to graduate non-composition music major students, only, by permission of instructor and submission of scores.  Weekly tutorial instruction will be scheduled.  Non-composition majors in 307 also will be expected to attend the Mondaynoon composition seminars.",
+      "subject_code": "MUSC",
+      "course_number": "307C",
+      "section_number": "002",
+      "building": "Music",
+      "room": "113",
+      "instructors": [
+        "CARRABRE, THOMAS",
+        "CHANG BORTOLUSSI, DOROTHY",
+        "CHATMAN, STEPHEN",
+        "HAMEL, KEITH",
+        "MORLOCK, JOCELYN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 6,
+  "description": "Continuation of MUSC 207.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial",
+    "Lecture"
+  ]
+}

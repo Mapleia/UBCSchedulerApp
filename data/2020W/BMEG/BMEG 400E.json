@@ -1,1 +1,75 @@
-{"course_name":"BMEG 400E","subject_code":"BMEG","course_number":"400E","course_title":"Topics in Biomedical Engineering - GNM INFRMTCS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=400E&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"BMEG 400E 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400E&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"In Genome Informatics, you will learn how to analyze genomics data. We will focus on general principles that will allow you to perform rigorous analyses to get robust results.For non-BMEG students interested in registering in BMEG 400E, please contact the instructor and register in the waitlist.","subject_code":"BMEG","course_number":"400E","section_number":"201","building":"Leon and Thea Koerner University Centre","room":"107","instructors":["DE BOER, CARL"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"19"},"WL1":{"status":" ","section":"BMEG 400E WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400E&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"BMEG","course_number":"400E","section_number":"WL1","building":"","room":"","instructors":["29","1","29","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Lectures or projects on specialized topics in Biomedical Engineering."}
+{
+  "course_name": "BMEG 400E",
+  "subject_code": "BMEG",
+  "course_number": "400E",
+  "course_title": "Topics in Biomedical Engineering - GNM INFRMTCS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=400E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 400E 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400E&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "In Genome Informatics, you will learn how to analyze genomics data. We will focus on general principles that will allow you to perform rigorous analyses to get robust results.For non-BMEG students interested in registering in BMEG 400E, please contact the instructor and register in the waitlist.",
+      "subject_code": "BMEG",
+      "course_number": "400E",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE BOER, CARL"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 400E WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=400E&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "400E",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "29",
+        "1",
+        "29",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Lectures or projects on specialized topics in Biomedical Engineering.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

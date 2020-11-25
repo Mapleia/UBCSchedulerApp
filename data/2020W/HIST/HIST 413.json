@@ -1,1 +1,45 @@
-{"course_name":"HIST 413","subject_code":"HIST","course_number":"413","course_title":"Imagining the Nation: 19th- and 20th-Century Canada","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=413&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 413 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=413&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"Cross listed with CDST 350B.","subject_code":"HIST","course_number":"413","section_number":"101","building":" ","room":"","instructors":["DUCHARME, MICHEL","LILLICO, COLTIN"],"totalRemaining":"10","currentlyRegistered":"15","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The political and intellectual history of the concept of the nation in French and English Canada, and the different forms of nationalism it inspired from the middle of the nineteenth century to the 1995 Quebec Referendum."}
+{
+  "course_name": "HIST 413",
+  "subject_code": "HIST",
+  "course_number": "413",
+  "course_title": "Imagining the Nation: 19th- and 20th-Century Canada",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=413&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 413 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=413&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "Cross listed with CDST 350B.",
+      "subject_code": "HIST",
+      "course_number": "413",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUCHARME, MICHEL",
+        "LILLICO, COLTIN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The political and intellectual history of the concept of the nation in French and English Canada, and the different forms of nationalism it inspired from the middle of the nineteenth century to the 1995 Quebec Referendum.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

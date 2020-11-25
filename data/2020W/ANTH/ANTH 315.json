@@ -1,1 +1,44 @@
-{"course_name":"ANTH 315","subject_code":"ANTH","course_number":"315","course_title":"Japanese Culture and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=315&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"ANTH 315 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=315&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"This class will cover an overview of Japanese culture and society. We will explore expectations of the so-called traditional family, and its modern revelations, consistencies, and transformations. As part of this, we will explore contemporary issues of the aging population, the low birthrate, and a generation of young adults who in great contrast to previous generations are not marrying or seem to be delaying marriage, shifts in gender and issues of education, work and leisure related to continuing or emerging concepts of gender and gender roles, along with issues on now acknowledged (but until recently denied in Japan\u0019s assertion of a homogeneous people) minorities and marginal groups, along with the growing disabilities and gay movements in Japan. We will address the question of what i and ~t now means to be, Perfectly Japanese, in modern Japan against a background of a culture that long expected or projected conformity.","subject_code":"ANTH","course_number":"315","section_number":"002","building":"Mathematics Annex","room":"1100","instructors":["CREIGHTON, MILLIE"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Japanese culture and society: patterns of organization, value systems, family, education, work, minorities and diversity, harmony and conflict, urban/rural differences, gender, sexuality, youth, tradition, continuity, change, and future prospects."}
+{
+  "course_name": "ANTH 315",
+  "subject_code": "ANTH",
+  "course_number": "315",
+  "course_title": "Japanese Culture and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=315&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ANTH 315 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=315&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "This class will cover an overview of Japanese culture and society. We will explore expectations of the so-called traditional family, and its modern revelations, consistencies, and transformations. As part of this, we will explore contemporary issues of the aging population, the low birthrate, and a generation of young adults who in great contrast to previous generations are not marrying or seem to be delaying marriage, shifts in gender and issues of education, work and leisure related to continuing or emerging concepts of gender and gender roles, along with issues on now acknowledged (but until recently denied in Japan\u0019s assertion of a homogeneous people) minorities and marginal groups, along with the growing disabilities and gay movements in Japan. We will address the question of what i and ~t now means to be, Perfectly Japanese, in modern Japan against a background of a culture that long expected or projected conformity.",
+      "subject_code": "ANTH",
+      "course_number": "315",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CREIGHTON, MILLIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Japanese culture and society: patterns of organization, value systems, family, education, work, minorities and diversity, harmony and conflict, urban/rural differences, gender, sexuality, youth, tradition, continuity, change, and future prospects.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

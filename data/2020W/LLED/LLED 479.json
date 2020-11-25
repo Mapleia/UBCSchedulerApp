@@ -1,1 +1,123 @@
-{"course_name":"LLED 479","subject_code":"LLED","course_number":"479","course_title":"The Education of Immigrant Students","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=479&sessyr=2020&sesscd=W","sections":{"63A":{"status":"Blocked","section":"LLED 479 63A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=63A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. This is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development. This is a pre-approved elective for the online MEd in TESL. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 479 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"479","section_number":"63A","building":" ","room":"","instructors":["CERVATIUC, ANDREEA"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"},"63C":{"status":"Restricted","section":"LLED 479 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. This is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 479 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"479","section_number":"63C","building":" ","room":"","instructors":["DONG, YANNING"],"totalRemaining":"20","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"20"},"W3A":{"status":"Blocked","section":"LLED 479 W3A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=W3A&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 479. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"479","section_number":"W3A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"},"W3C":{"status":"Blocked","section":"LLED 479 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 479. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"479","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"}},"credits":"Credits: 3","description":"An examination of the cultural backgrounds of major ethnic groups. Instructional techniques for meeting the needs of immigrant students in the regular classroom with respect to culture and language."}
+{
+  "course_name": "LLED 479",
+  "subject_code": "LLED",
+  "course_number": "479",
+  "course_title": "The Education of Immigrant Students",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=479&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 479 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. This is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development. This is a pre-approved elective for the online MEd in TESL. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 479 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "479",
+      "section_number": "63A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CERVATIUC, ANDREEA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "LLED 479 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education and the Diploma in Education - Teacher-Librarianship. This is a pre-approved elective for the Diploma in Education - Early Years Education and the Diploma in Education - Infant Development and Supported Child Development. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 479 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "479",
+      "section_number": "63C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONG, YANNING"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 479 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 479. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "479",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 479 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=479&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 479. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "479",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": 3,
+  "description": "An examination of the cultural backgrounds of major ethnic groups. Instructional techniques for meeting the needs of immigrant students in the regular classroom with respect to culture and language.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

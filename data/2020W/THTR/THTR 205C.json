@@ -1,1 +1,43 @@
-{"course_name":"THTR 205C","subject_code":"THTR","course_number":"205C","course_title":"Graphics for Theatre and Film Design - GRAPHICS: T&F D","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=205C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 205C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=205C&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Mon","start":" ","end":" ","comments":"Registration is restricted to BFA Design and Production majors. IF THIS COURSE IS FULL OR BLOCKED PLEASE SIGN UP FOR THE WAITLIST SECTION: THTR 205C - WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Introduction to production design for film and television.","subject_code":"THTR","course_number":"205C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["RIZZOTTI, PATRICK"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"20"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "THTR 205C",
+  "subject_code": "THTR",
+  "course_number": "205C",
+  "course_title": "Graphics for Theatre and Film Design - GRAPHICS: T&F D",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=205C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 205C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=205C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration is restricted to BFA Design and Production majors. IF THIS COURSE IS FULL OR BLOCKED PLEASE SIGN UP FOR THE WAITLIST SECTION: THTR 205C - WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Introduction to production design for film and television.",
+      "subject_code": "THTR",
+      "course_number": "205C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

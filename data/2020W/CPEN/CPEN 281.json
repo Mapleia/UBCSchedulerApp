@@ -1,1 +1,183 @@
-{"course_name":"CPEN 281","subject_code":"CPEN","course_number":"281","course_title":"Technical Communication","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=281&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"CPEN 281 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CPEN","course_number":"281","section_number":"101","building":" ","room":"","instructors":["SANGHARA, HARTAJ"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"102":{"status":"STT","section":"CPEN 281 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CPEN","course_number":"281","section_number":"102","building":" ","room":"","instructors":["QI, HONGXING ESTELLA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"103":{"status":"Full","section":"CPEN 281 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"CPEN","course_number":"281","section_number":"103","building":" ","room":"","instructors":["SANGHARA, HARTAJ"],"totalRemaining":"0","currentlyRegistered":"47","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CPEN 281 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"Waiting list for Section 101","subject_code":"CPEN","course_number":"281","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"1W2":{"status":" ","section":"CPEN 281 1W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"waiting list for section 102","subject_code":"CPEN","course_number":"281","section_number":"1W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"},"1W3":{"status":" ","section":"CPEN 281 1W3","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W3&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waiting List for section 103","subject_code":"CPEN","course_number":"281","section_number":"1W3","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201."}
+{
+  "course_name": "CPEN 281",
+  "subject_code": "CPEN",
+  "course_number": "281",
+  "course_title": "Technical Communication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=281&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CPEN 281 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SANGHARA, HARTAJ"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CPEN 281 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "QI, HONGXING ESTELLA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "CPEN 281 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SANGHARA, HARTAJ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "47",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 281 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waiting list for Section 101",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 281 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "waiting list for section 102",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "1W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 281 1W3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=281&section=1W3&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waiting List for section 103",
+      "subject_code": "CPEN",
+      "course_number": "281",
+      "section_number": "1W3",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC 281, CPEN 281, BMEG 201 or APSC 201.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

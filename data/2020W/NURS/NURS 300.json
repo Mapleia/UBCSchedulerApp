@@ -1,1 +1,43 @@
-{"course_name":"NURS 300","subject_code":"NURS","course_number":"300","course_title":"Theoretical and Professional Foundations for Nursing Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"NURS 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"","subject_code":"NURS","course_number":"300","section_number":"001","building":" ","room":"","instructors":["SEGARIC, CHERYL"],"totalRemaining":"0","currentlyRegistered":"120","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to knowledge fundamental to the discipline and practice of nursing. Students who take NURS300 may not also earn credit for NURS302."}
+{
+  "course_name": "NURS 300",
+  "subject_code": "NURS",
+  "course_number": "300",
+  "course_title": "Theoretical and Professional Foundations for Nursing Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "NURS 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEGARIC, CHERYL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "120",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to knowledge fundamental to the discipline and practice of nursing. Students who take NURS300 may not also earn credit for NURS302.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

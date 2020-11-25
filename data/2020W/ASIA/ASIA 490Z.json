@@ -1,1 +1,70 @@
-{"course_name":"ASIA 490Z","subject_code":"ASIA","course_number":"490Z","course_title":"Asian Classics - Fourth Year Seminar - ASIA CLSSCS SEM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=490Z&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ASIA 490Z 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=490Z&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"15:00","end":"18:00","comments":"An introduction to the Pink Film genre exploring the industry's history and conventions to facilitate a study of the relationship between transnational cinemas, sexuality, and bodies in commercial media. To enroll, please send a statement of your intent for taking this course to scholessha@gmail.com","subject_code":"ASIA","course_number":"490Z","section_number":"001","building":"Buchanan","room":"B302","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"8","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"ASIA 490Z W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=490Z&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":"15:00","end":"18:00","comments":"To enroll, please send a statement of your intent for taking this course to scholessha@gmail.com","subject_code":"ASIA","course_number":"490Z","section_number":"W01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Focus changes from year to year. Prerequisite: Permission of Instructor and fourth-year standing."}
+{
+  "course_name": "ASIA 490Z",
+  "subject_code": "ASIA",
+  "course_number": "490Z",
+  "course_title": "Asian Classics - Fourth Year Seminar - ASIA CLSSCS SEM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=490Z&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 490Z 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=490Z&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "An introduction to the Pink Film genre exploring the industry's history and conventions to facilitate a study of the relationship between transnational cinemas, sexuality, and bodies in commercial media. To enroll, please send a statement of your intent for taking this course to scholessha@gmail.com",
+      "subject_code": "ASIA",
+      "course_number": "490Z",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 490Z W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=490Z&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "To enroll, please send a statement of your intent for taking this course to scholessha@gmail.com",
+      "subject_code": "ASIA",
+      "course_number": "490Z",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Focus changes from year to year. Prerequisite: Permission of Instructor and fourth-year standing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

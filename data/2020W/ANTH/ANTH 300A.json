@@ -1,1 +1,73 @@
-{"course_name":"ANTH 300A","subject_code":"ANTH","course_number":"300A","course_title":"Contemporary Anthropological Theory - CONTMP ANTH THRY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=300A&sessyr=2020&sesscd=W","sections":{"200":{"status":" ","section":"ANTH 300A 200","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=300A&section=200&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This course will explore contemporary approaches to anthropology through anexamination of four key theoretical debates that have shaped the discipline. These debates will be organized into four units: I Culture and Inequality, II: Postcolonialism, III: Nature and Society, and IV: Identity and Post-Identity. This course is designated as \u001cwriting intensive\u001d by the Department of Anthropology. The course is designed to allow you to regularly practice and enhance your skills as a writer.","subject_code":"ANTH","course_number":"300A","section_number":"200","building":"Anthropology and Sociology","room":"205","instructors":["MUEHLMANN, SHAYLIH"],"totalRemaining":"7","currentlyRegistered":"43","generalRemaining":"7","restrictedRemaining":"0"},"001":{"status":" ","section":"ANTH 300A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=300A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"ANTH300A (Contemporary Anthropological Theory):This course will introduce you contemporary theories in cultural anthropology (including structural-functional and symbolic anthropology; configurational and psychological anthropology; Marxist anthropology; socio-textual anthropology; ontological turn in anthropology; etc.), mostly through the close reading of a few ethnographies written by prominent anthropologists about cultural practices and beliefs in a broad range of geographical locations. While reading these ethnographies, we carefully analyze their content and form to discover and appreciate the thought processes and anthropological imaginations that have culminated in these accounts.","subject_code":"ANTH","course_number":"300A","section_number":"001","building":" ","room":"","instructors":["SHIVA, AMIRPOUYAN","HARDING, LAUREN"],"totalRemaining":"2","currentlyRegistered":"48","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Contemporary approaches to society and culture in anthropology. \n"}
+{
+  "course_name": "ANTH 300A",
+  "subject_code": "ANTH",
+  "course_number": "300A",
+  "course_title": "Contemporary Anthropological Theory - CONTMP ANTH THRY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=300A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 300A 200",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=300A&section=200&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course will explore contemporary approaches to anthropology through anexamination of four key theoretical debates that have shaped the discipline. These debates will be organized into four units: I Culture and Inequality, II: Postcolonialism, III: Nature and Society, and IV: Identity and Post-Identity. This course is designated as \u001cwriting intensive\u001d by the Department of Anthropology. The course is designed to allow you to regularly practice and enhance your skills as a writer.",
+      "subject_code": "ANTH",
+      "course_number": "300A",
+      "section_number": "200",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MUEHLMANN, SHAYLIH"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ANTH 300A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=300A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "ANTH300A (Contemporary Anthropological Theory):This course will introduce you contemporary theories in cultural anthropology (including structural-functional and symbolic anthropology; configurational and psychological anthropology; Marxist anthropology; socio-textual anthropology; ontological turn in anthropology; etc.), mostly through the close reading of a few ethnographies written by prominent anthropologists about cultural practices and beliefs in a broad range of geographical locations. While reading these ethnographies, we carefully analyze their content and form to discover and appreciate the thought processes and anthropological imaginations that have culminated in these accounts.",
+      "subject_code": "ANTH",
+      "course_number": "300A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHIVA, AMIRPOUYAN",
+        "HARDING, LAUREN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Contemporary approaches to society and culture in anthropology. \n",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

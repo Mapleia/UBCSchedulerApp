@@ -1,1 +1,43 @@
-{"course_name":"CRWR 514B","subject_code":"CRWR","course_number":"514B","course_title":"Advanced Writing for Television I - ADV WRIT TV I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=514B&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"CRWR 514B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=514B&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"","subject_code":"CRWR","course_number":"514B","section_number":"002","building":"Irving K Barber Learning Centre","room":"156","instructors":["SVENDSEN, LINDA"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 514B",
+  "subject_code": "CRWR",
+  "course_number": "514B",
+  "course_title": "Advanced Writing for Television I - ADV WRIT TV I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=514B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 514B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=514B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "514B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SVENDSEN, LINDA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

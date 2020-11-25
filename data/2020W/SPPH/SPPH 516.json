@@ -1,1 +1,43 @@
-{"course_name":"SPPH 516","subject_code":"SPPH","course_number":"516","course_title":"Methods for Systematic Reviews in Health Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=516&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SPPH 516 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=516&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca   |","subject_code":"SPPH","course_number":"516","section_number":"001","building":" ","room":"","instructors":["PUIL, LORRI"],"totalRemaining":"9","currentlyRegistered":"26","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SPPH 516",
+  "subject_code": "SPPH",
+  "course_number": "516",
+  "course_title": "Methods for Systematic Reviews in Health Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=516&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 516 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=516&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca   |",
+      "subject_code": "SPPH",
+      "course_number": "516",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PUIL, LORRI"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "25",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,125 @@
-{"course_name":"KIN 160","subject_code":"KIN","course_number":"160","course_title":"Leisure and Sport in Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=160&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 160 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This course is formerly KIN 161. Students can receive credit for either KIN 161  or KIN 160","subject_code":"KIN","course_number":"160","section_number":"001","building":" ","room":"","instructors":["NORMAN, MOSS"],"totalRemaining":"9","currentlyRegistered":"141","generalRemaining":"0","restrictedRemaining":"9"},"002":{"status":"Blocked","section":"KIN 160 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This course is formerly KIN 161. Students can receive credit for either KIN 161  or KIN 160","subject_code":"KIN","course_number":"160","section_number":"002","building":"P. A. Woodward Instructional Resources Centre","room":"1","instructors":["NORMAN, MOSS"],"totalRemaining":"0","currentlyRegistered":"125","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Blocked","section":"KIN 160 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.","subject_code":"KIN","course_number":"160","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"0W2":{"status":"Blocked","section":"KIN 160 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.","subject_code":"KIN","course_number":"160","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"9","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems."}
+{
+  "course_name": "KIN 160",
+  "subject_code": "KIN",
+  "course_number": "160",
+  "course_title": "Leisure and Sport in Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=160&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 160 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is formerly KIN 161. Students can receive credit for either KIN 161  or KIN 160",
+      "subject_code": "KIN",
+      "course_number": "160",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NORMAN, MOSS"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "141",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 160 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course is formerly KIN 161. Students can receive credit for either KIN 161  or KIN 160",
+      "subject_code": "KIN",
+      "course_number": "160",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NORMAN, MOSS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "124",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 160 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.",
+      "subject_code": "KIN",
+      "course_number": "160",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 160 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=160&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.",
+      "subject_code": "KIN",
+      "course_number": "160",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"FIST 338A","subject_code":"FIST","course_number":"338A","course_title":"Asian and Australasian Cinema - ASIAN & AUST CIN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=338A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIST 338A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=338A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"9:30","end":"12:30","comments":"If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIST 338A, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"FIST","course_number":"338A","section_number":"001","building":"Chan Centre","room":"290","instructors":["LAIRD, COLLEEN"],"totalRemaining":"11","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"11"},"WL1":{"status":" ","section":"FIST 338A WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=338A&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":"9:30","end":"12:30","comments":"This is a WAIT LIST section for FIST 338A, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"FIST","course_number":"338A","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"13","currentlyRegistered":"2","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Topics may include an analysis of a national cinema, such as that of China, India, or Australia."}
+{
+  "course_name": "FIST 338A",
+  "subject_code": "FIST",
+  "course_number": "338A",
+  "course_title": "Asian and Australasian Cinema - ASIAN & AUST CIN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=338A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIST 338A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=338A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - FIST 338A, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIST",
+      "course_number": "338A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAIRD, COLLEEN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": " ",
+      "section": "FIST 338A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=338A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This is a WAIT LIST section for FIST 338A, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "FIST",
+      "course_number": "338A",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics may include an analysis of a national cinema, such as that of China, India, or Australia.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

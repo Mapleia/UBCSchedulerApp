@@ -1,1 +1,44 @@
-{"course_name":"APBI 318","subject_code":"APBI","course_number":"318","course_title":"Applied Plant Breeding","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=318&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"APBI 318 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=318&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"APBI","course_number":"318","section_number":"001","building":" ","room":"","instructors":["RISEMAN, ANDREW"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Small-scale classical (i.e., non-biotechnological) plant breeding. Hands-on, application-oriented approach to techniques and procedures for managing seed inventories, designing and implementing a simple plant breeding program, and evaluating the impact of selection on breeding populations and desired outcomes."}
+{
+  "course_name": "APBI 318",
+  "subject_code": "APBI",
+  "course_number": "318",
+  "course_title": "Applied Plant Breeding",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=318&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 318 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=318&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "318",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RISEMAN, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Small-scale classical (i.e., non-biotechnological) plant breeding. Hands-on, application-oriented approach to techniques and procedures for managing seed inventories, designing and implementing a simple plant breeding program, and evaluating the impact of selection on breeding populations and desired outcomes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

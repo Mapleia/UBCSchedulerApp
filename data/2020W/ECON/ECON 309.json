@@ -1,1 +1,97 @@
-{"course_name":"ECON 309","subject_code":"ECON","course_number":"309","course_title":"Intermediate Open Economy Macroeconomics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=309&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"ECON 309 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ECON","course_number":"309","section_number":"001","building":"Iona Building","room":"301","instructors":["SIU, HENRY"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L01":{"status":"STT","section":"ECON 309 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Tue","start":"17:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"309","section_number":"L01","building":"Buchanan","room":"D201","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L02":{"status":"STT","section":"ECON 309 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=L02&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Thu","start":"17:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"309","section_number":"L02","building":"Buchanan","room":"D322","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L03":{"status":"STT","section":"ECON 309 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=L03&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"18:00","end":"19:00","comments":"","subject_code":"ECON","course_number":"309","section_number":"L03","building":"Iona Building","room":"533","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"The aggregate economy with emphasis on macroeconomic policy and international economic growth, money and inflation, unemployment, business cycles, and macroeconomic stabilization policy under fixed and flexible exchange rates. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 302, ECON 305 or ECON 309."}
+{
+  "course_name": "ECON 309",
+  "subject_code": "ECON",
+  "course_number": "309",
+  "course_title": "Intermediate Open Economy Macroeconomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=309&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ECON 309 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "309",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIU, HENRY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 309 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "309",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ECON 309 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=309&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "309",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "The aggregate economy with emphasis on macroeconomic policy and international economic growth, money and inflation, unemployment, business cycles, and macroeconomic stabilization policy under fixed and flexible exchange rates. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 302, ECON 305 or ECON 309.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

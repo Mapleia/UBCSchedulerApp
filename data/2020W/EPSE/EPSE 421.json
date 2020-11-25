@@ -1,1 +1,80 @@
-{"course_name":"EPSE 421","subject_code":"EPSE","course_number":"421","course_title":"Assessment of Learning Difficulties","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=421&sessyr=2020&sesscd=W","sections":{"074":{"status":"Cancelled","section":"EPSE 421 074","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=421&section=074&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":"","end":"","comments":"SCPS - Restricted to Special Education Diploma or SPED MA or MEd.","subject_code":"EPSE","course_number":"421","section_number":"074","building":"","room":"","instructors":["20","0","0","20","","in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n"],"totalRemaining":"in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"W74":{"status":"Cancelled","section":"EPSE 421 W74","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=421&section=W74&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Waitlist for EPSE 421 section 074SCPS - Restricted to Special Education Diploma or SPED MA or MEd.","subject_code":"EPSE","course_number":"421","section_number":"W74","building":"","room":"","instructors":["6","0","0","6","","in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n"],"totalRemaining":"in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Theories of learning and instruction; principles and practices of diagnosis and assessment as these relate to students with relevant special needs."}
+{
+  "course_name": "EPSE 421",
+  "subject_code": "EPSE",
+  "course_number": "421",
+  "course_title": "Assessment of Learning Difficulties",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "EPSE 421 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=421&section=074&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "SCPS - Restricted to Special Education Diploma or SPED MA or MEd.",
+      "subject_code": "EPSE",
+      "course_number": "421",
+      "section_number": "074",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "0",
+        "20",
+        "",
+        "in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n"
+      ],
+      "totalRemaining": "in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Cancelled",
+      "section": "EPSE 421 W74",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=421&section=W74&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Waitlist for EPSE 421 section 074SCPS - Restricted to Special Education Diploma or SPED MA or MEd.",
+      "subject_code": "EPSE",
+      "course_number": "421",
+      "section_number": "W74",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "6",
+        "0",
+        "0",
+        "6",
+        "",
+        "in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n"
+      ],
+      "totalRemaining": "in one of these programs: DEDU,MA,MED\nwith one of these specializations: ****SPED\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Theories of learning and instruction; principles and practices of diagnosis and assessment as these relate to students with relevant special needs.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List"
+  ]
+}

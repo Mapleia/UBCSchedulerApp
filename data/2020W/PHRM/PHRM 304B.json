@@ -1,1 +1,106 @@
-{"course_name":"PHRM 304B","subject_code":"PHRM","course_number":"304B","course_title":"Directed Studies in Pharmacy Education - PHARMACY ED","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=304B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Unreleased","section":"PHRM 304B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHRM","course_number":"304B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["0","1","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Unreleased","section":"PHRM 304B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=002&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHRM","course_number":"304B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["0","1","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"003":{"status":"Unreleased","section":"PHRM 304B 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=003&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHRM","course_number":"304B","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["0","1","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Individual assignments involving library and scholarly inquiry related to pharmacy education."}
+{
+  "course_name": "PHRM 304B",
+  "subject_code": "PHRM",
+  "course_number": "304B",
+  "course_title": "Directed Studies in Pharmacy Education - PHARMACY ED",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=304B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "PHRM 304B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "304B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "PHRM 304B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "304B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "PHRM 304B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=304B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHRM",
+      "course_number": "304B",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Individual assignments involving library and scholarly inquiry related to pharmacy education.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

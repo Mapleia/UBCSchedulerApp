@@ -1,1 +1,70 @@
-{"course_name":"KIN 344","subject_code":"KIN","course_number":"344","course_title":"Leisure Services for Persons with a Disability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=344&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"KIN 344 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=344&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"16:00","end":"19:00","comments":"","subject_code":"KIN","course_number":"344","section_number":"002","building":"Biological Sciences","room":"1000","instructors":["SAMUHEL-COREWYN, JANKA"],"totalRemaining":"1","currentlyRegistered":"219","generalRemaining":"0","restrictedRemaining":"1"},"0W2":{"status":"Blocked","section":"KIN 344 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=344&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"344","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"20","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Policy issues relating to leisure opportunities for persons with disabilities."}
+{
+  "course_name": "KIN 344",
+  "subject_code": "KIN",
+  "course_number": "344",
+  "course_title": "Leisure Services for Persons with a Disability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 344 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=344&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "344",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAMUHEL-COREWYN, JANKA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "236",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 344 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=344&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "344",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "3",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Policy issues relating to leisure opportunities for persons with disabilities.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

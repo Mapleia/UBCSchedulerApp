@@ -1,1 +1,97 @@
-{"course_name":"APBI 324","subject_code":"APBI","course_number":"324","course_title":"Introduction to Seed Plant Taxonomy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=324&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 324 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"10:00","end":"11:00","comments":"","subject_code":"APBI","course_number":"324","section_number":"001","building":" ","room":"","instructors":["CRONK, QUENTIN CHARLES"],"totalRemaining":"1","currentlyRegistered":"9","generalRemaining":"1","restrictedRemaining":"0"},"L01":{"status":"Full","section":"APBI 324 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"324","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"},"L02":{"status":" ","section":"APBI 324 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"324","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"4","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection."}
+{
+  "course_name": "APBI 324",
+  "subject_code": "APBI",
+  "course_number": "324",
+  "course_title": "Introduction to Seed Plant Taxonomy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=324&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 324 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "324",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CRONK, QUENTIN CHARLES"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "APBI 324 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "324",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HERSH, EVAN WHITNEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 324 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=324&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "324",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HERSH, EVAN WHITNEY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "4",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

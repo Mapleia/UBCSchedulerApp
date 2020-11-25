@@ -1,1 +1,44 @@
-{"course_name":"LAW 374","subject_code":"LAW","course_number":"374","course_title":"Municipal Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=374&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 374 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=374&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:30","comments":"","subject_code":"LAW","course_number":"374","section_number":"001","building":" ","room":"","instructors":["MANHAS, SUKHBIR"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The municipality as a legal entity; its creation, operation and powers; by-laws and their validity; contractual liability; judicial review; business regulation; expropriation and land use control."}
+{
+  "course_name": "LAW 374",
+  "subject_code": "LAW",
+  "course_number": "374",
+  "course_title": "Municipal Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=374&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 374 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=374&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "374",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANHAS, SUKHBIR"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "43",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The municipality as a legal entity; its creation, operation and powers; by-laws and their validity; contractual liability; judicial review; business regulation; expropriation and land use control.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"CNPS 586","subject_code":"CNPS","course_number":"586","course_title":"Ethics in Counselling Psychology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=586&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CNPS 586 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=586&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"13:30","end":"16:30","comments":"EthicsThis section will be offered online.","subject_code":"CNPS","course_number":"586","section_number":"001","building":" ","room":"","instructors":["NEAULT, ROBERTA"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"2"},"002":{"status":"Restricted","section":"CNPS 586 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=586&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"","subject_code":"CNPS","course_number":"586","section_number":"002","building":"Neville Scarfe","room":"210","instructors":["NEAULT, ROBERTA"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Ethical decision-making and legal issues in counselling psychology research and practice."}
+{
+  "course_name": "CNPS 586",
+  "subject_code": "CNPS",
+  "course_number": "586",
+  "course_title": "Ethics in Counselling Psychology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=586&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CNPS 586 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=586&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "EthicsThis section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "586",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NEAULT, ROBERTA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CNPS 586 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=586&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "586",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NEAULT, ROBERTA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Ethical decision-making and legal issues in counselling psychology research and practice.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

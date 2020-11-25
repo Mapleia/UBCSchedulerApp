@@ -1,1 +1,74 @@
-{"course_name":"ENGL 355","subject_code":"ENGL","course_number":"355","course_title":"Romantic Period Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=355&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 355 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=355&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"ENGL","course_number":"355","section_number":"001","building":" ","room":"","instructors":["EARLE, BO"],"totalRemaining":"6","currentlyRegistered":"39","generalRemaining":"6","restrictedRemaining":"0"},"002":{"status":" ","section":"ENGL 355 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=355&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"ENGL","course_number":"355","section_number":"002","building":"Mathematics","room":"203","instructors":["ENDO, PAUL"],"totalRemaining":"17","currentlyRegistered":"28","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"British and Global literature, 1780-1830, from the period of the French Revolution to the Reform Act and the Abolition of Slavery in the British Empire. May encompass multiple genres and contexts. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 355 and/or 359."}
+{
+  "course_name": "ENGL 355",
+  "subject_code": "ENGL",
+  "course_number": "355",
+  "course_title": "Romantic Period Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 355 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=355&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "355",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EARLE, BO"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "38",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 355 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=355&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "355",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ENDO, PAUL"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "British and Global literature, 1780-1830, from the period of the French Revolution to the Reform Act and the Abolition of Slavery in the British Empire. May encompass multiple genres and contexts. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 355 and/or 359.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

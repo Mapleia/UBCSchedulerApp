@@ -1,1 +1,96 @@
-{"course_name":"BMEG 357","subject_code":"BMEG","course_number":"357","course_title":"Biomedical  Engineering Design II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=357&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"BMEG 357 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"15:30","end":"17:00","comments":"","subject_code":"BMEG","course_number":"357","section_number":"201","building":"Biological Sciences","room":"1000","instructors":["USPRECH, JENNA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"S2A":{"status":"Full","section":"BMEG 357 S2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=S2A&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Wed*","start":"14:00","end":"17:00","comments":"* every second week starting with start week","subject_code":"BMEG","course_number":"357","section_number":"S2A","building":"Chemical and Biological Engineering Building","room":"294","instructors":["USPRECH, JENNA"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"S2B":{"status":"Restricted","section":"BMEG 357 S2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=S2B&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Wed^","start":"14:00","end":"17:00","comments":"^ every second week starting with week following start week","subject_code":"BMEG","course_number":"357","section_number":"S2B","building":"Chemical and Biological Engineering Building","room":"294","instructors":["USPRECH, JENNA"],"totalRemaining":"6","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":"Creating innovations in medical technologies. Case studies in need clinical identification. Supervised design process, building and testing prototypes with potential users."}
+{
+  "course_name": "BMEG 357",
+  "subject_code": "BMEG",
+  "course_number": "357",
+  "course_title": "Biomedical  Engineering Design II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=357&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 357 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "357",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "USPRECH, JENNA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "BMEG 357 S2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=S2A&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "BMEG",
+      "course_number": "357",
+      "section_number": "S2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "USPRECH, JENNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "BMEG 357 S2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=357&section=S2B&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "BMEG",
+      "course_number": "357",
+      "section_number": "S2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "USPRECH, JENNA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": "Creating innovations in medical technologies. Case studies in need clinical identification. Supervised design process, building and testing prototypes with potential users.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Studio"
+  ]
+}

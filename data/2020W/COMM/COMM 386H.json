@@ -1,1 +1,44 @@
-{"course_name":"COMM 386H","subject_code":"COMM","course_number":"386H","course_title":"Topics in Business III - HR ANALYTICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386H&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"COMM 386H 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386H&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"Full course title: HR Analytics: Data and Metrics for HR Professionals  |  Pre-reqs: COMM 203, COMM 205, and COMM 291  |  Learn more at mybcom.sauder.ubc.ca/comm386h","subject_code":"COMM","course_number":"386H","section_number":"201","building":"Henry Angus","room":"237","instructors":["SAJJADIANI, SIMA"],"totalRemaining":"13","currentlyRegistered":"26","generalRemaining":"9","restrictedRemaining":"4"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 386H",
+  "subject_code": "COMM",
+  "course_number": "386H",
+  "course_title": "Topics in Business III - HR ANALYTICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 386H 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386H&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "Full course title: HR Analytics: Data and Metrics for HR Professionals  |  Pre-reqs: COMM 203, COMM 205, and COMM 291  |  Learn more at mybcom.sauder.ubc.ca/comm386h",
+      "subject_code": "COMM",
+      "course_number": "386H",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SAJJADIANI, SIMA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "26",
+      "generalRemaining": "9",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

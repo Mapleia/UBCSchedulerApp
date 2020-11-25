@@ -1,1 +1,123 @@
-{"course_name":"EPSE 687A","subject_code":"EPSE","course_number":"687A","course_title":"Doctoral Practicum In School or Counselling Psychology - SCH CNS PSY PRAC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=687A&sessyr=2020&sesscd=W","sections":{"077":{"status":"Blocked","section":"EPSE 687A 077","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=077&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EPSE","course_number":"687A","section_number":"077","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"PH4":{"status":"Blocked","section":"EPSE 687A PH4","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH4&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"CNPS - Registration is restricted to students in the CNPS PHD program.","subject_code":"EPSE","course_number":"687A","section_number":"PH4","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"},"PH5":{"status":"Blocked","section":"EPSE 687A PH5","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH5&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"CNPS - Registration is restricted to CNPS PHD students.","subject_code":"EPSE","course_number":"687A","section_number":"PH5","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"},"PH6":{"status":"Blocked","section":"EPSE 687A PH6","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH6&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"CNPS","subject_code":"EPSE","course_number":"687A","section_number":"PH6","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":"Pass/Fail"}
+{
+  "course_name": "EPSE 687A",
+  "subject_code": "EPSE",
+  "course_number": "687A",
+  "course_title": "Doctoral Practicum In School or Counselling Psychology - SCH CNS PSY PRAC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=687A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 687A 077",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=077&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EPSE",
+      "course_number": "687A",
+      "section_number": "077",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 687A PH4",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH4&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "CNPS - Registration is restricted to students in the CNPS PHD program.",
+      "subject_code": "EPSE",
+      "course_number": "687A",
+      "section_number": "PH4",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 687A PH5",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH5&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "CNPS - Registration is restricted to CNPS PHD students.",
+      "subject_code": "EPSE",
+      "course_number": "687A",
+      "section_number": "PH5",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 687A PH6",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=687A&section=PH6&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "CNPS",
+      "subject_code": "EPSE",
+      "course_number": "687A",
+      "section_number": "PH6",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": "Pass/Fail",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

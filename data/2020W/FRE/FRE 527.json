@@ -1,1 +1,43 @@
-{"course_name":"FRE 527","subject_code":"FRE","course_number":"527","course_title":"Environmental Economics and Policy: Empirical Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=527&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FRE 527 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=527&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"10:30","end":"12:00","comments":"","subject_code":"FRE","course_number":"527","section_number":"001","building":" ","room":"","instructors":["GULATI, SUMEET"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"25"}},"credits":"Credits: 1.5","description":" "}
+{
+  "course_name": "FRE 527",
+  "subject_code": "FRE",
+  "course_number": "527",
+  "course_title": "Environmental Economics and Policy: Empirical Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=527&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 527 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=527&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "527",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GULATI, SUMEET"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "24"
+    }
+  ],
+  "credits": 5,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

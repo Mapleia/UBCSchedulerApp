@@ -1,1 +1,46 @@
-{"course_name":"MINE 497A","subject_code":"MINE","course_number":"497A","course_title":"Directed Studies - DIR STUD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=497A&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MINE 497A 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=497A&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MINE","course_number":"497A","section_number":"201","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Requires approval of the department head."}
+{
+  "course_name": "MINE 497A",
+  "subject_code": "MINE",
+  "course_number": "497A",
+  "course_title": "Directed Studies - DIR STUD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=497A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MINE 497A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=497A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "497A",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Requires approval of the department head.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

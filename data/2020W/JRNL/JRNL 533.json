@@ -1,1 +1,46 @@
-{"course_name":"JRNL 533","subject_code":"JRNL","course_number":"533","course_title":"Media Ethics and Leadership","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=533&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"JRNL 533 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=533&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"This course is restricted to Master of Journalism students only. The course will be conducted online. Please await further instructions from the course instructor closer to the start of term.","subject_code":"JRNL","course_number":"533","section_number":"002","building":" ","room":"","instructors":["BARFOROUSH, SARANAZ","BARFOROUSH, SARANAZ(Coordinator)","LAPOINTE, KIRK","MANJESHWAR, PRIYA(Lead)"],"totalRemaining":"3","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "JRNL 533",
+  "subject_code": "JRNL",
+  "course_number": "533",
+  "course_title": "Media Ethics and Leadership",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=533&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "JRNL 533 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=533&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This course is restricted to Master of Journalism students only. The course will be conducted online. Please await further instructions from the course instructor closer to the start of term.",
+      "subject_code": "JRNL",
+      "course_number": "533",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARFOROUSH, SARANAZ",
+        "BARFOROUSH, SARANAZ(Coordinator)",
+        "LAPOINTE, KIRK",
+        "MANJESHWAR, PRIYA(Lead)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

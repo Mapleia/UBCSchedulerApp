@@ -1,1 +1,44 @@
-{"course_name":"FNH 380","subject_code":"FNH","course_number":"380","course_title":"Professional Dietetic Practice I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=380&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"FNH 380 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=380&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"13:00","end":"16:00","comments":"Open only to students registered in the Dietetics Major.","subject_code":"FNH","course_number":"380","section_number":"001","building":" ","room":"","instructors":["BROWES, ALISON","KAFKA, TAMAR"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the profession of dietetics in Canada. Restricted to students in the Dietetics Major."}
+{
+  "course_name": "FNH 380",
+  "subject_code": "FNH",
+  "course_number": "380",
+  "course_title": "Professional Dietetic Practice I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FNH 380 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=380&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Open only to students registered in the Dietetics Major.",
+      "subject_code": "FNH",
+      "course_number": "380",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROWES, ALISON",
+        "KAFKA, TAMAR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the profession of dietetics in Canada. Restricted to students in the Dietetics Major.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

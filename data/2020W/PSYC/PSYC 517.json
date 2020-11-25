@@ -1,1 +1,43 @@
-{"course_name":"PSYC 517","subject_code":"PSYC","course_number":"517","course_title":"Biopsychology of Motivation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=517&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PSYC 517 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=517&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"517","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["WINSTANLEY, CATHARINE"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year; consult Department of Psychology."}
+{
+  "course_name": "PSYC 517",
+  "subject_code": "PSYC",
+  "course_number": "517",
+  "course_title": "Biopsychology of Motivation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=517&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 517 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=517&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "517",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "WINSTANLEY, CATHARINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year; consult Department of Psychology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

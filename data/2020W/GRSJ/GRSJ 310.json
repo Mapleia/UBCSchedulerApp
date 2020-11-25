@@ -1,1 +1,70 @@
-{"course_name":"GRSJ 310","subject_code":"GRSJ","course_number":"310","course_title":"Gender, Race, Social Justice and Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=310&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GRSJ 310 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=310&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"A waitlist section is available:  GRSJ 310.WL1.  Waitlisted students will receive an email confirmation is they are moved into the class.","subject_code":"GRSJ","course_number":"310","section_number":"001","building":" ","room":"","instructors":["BHANDAL, TAQDIR"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"GRSJ 310 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=310&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"","subject_code":"GRSJ","course_number":"310","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Interdisciplinary introduction to gender and health issues using selected theoretical frameworks."}
+{
+  "course_name": "GRSJ 310",
+  "subject_code": "GRSJ",
+  "course_number": "310",
+  "course_title": "Gender, Race, Social Justice and Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 310 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=310&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "A waitlist section is available:  GRSJ 310.WL1.  Waitlisted students will receive an email confirmation is they are moved into the class.",
+      "subject_code": "GRSJ",
+      "course_number": "310",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BHANDAL, TAQDIR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 310 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=310&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "310",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Interdisciplinary introduction to gender and health issues using selected theoretical frameworks.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,46 @@
-{"course_name":"THTR 372","subject_code":"THTR","course_number":"372","course_title":"Intermediate B.F.A. Acting II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=372&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 372 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=372&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"16:30","comments":"This course is open only to 3rd year students enrolled in UBC's BFA Acting Program.","subject_code":"THTR","course_number":"372","section_number":"001","building":"Chan Centre","room":"150","instructors":["MCCORMICK, MARLISE"],"totalRemaining":"2","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Open only to B.F.A. Acting students."}
+{
+  "course_name": "THTR 372",
+  "subject_code": "THTR",
+  "course_number": "372",
+  "course_title": "Intermediate B.F.A. Acting II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=372&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 372 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=372&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:30",
+      "comments": "This course is open only to 3rd year students enrolled in UBC's BFA Acting Program.",
+      "subject_code": "THTR",
+      "course_number": "372",
+      "section_number": "001",
+      "building": "Chan Centre",
+      "room": "150",
+      "instructors": [
+        "BERTOIA, SUSAN",
+        "MCCORMICK, MARLISE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Open only to B.F.A. Acting students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

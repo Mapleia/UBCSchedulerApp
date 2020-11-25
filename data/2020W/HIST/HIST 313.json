@@ -1,1 +1,44 @@
-{"course_name":"HIST 313","subject_code":"HIST","course_number":"313","course_title":"Africa from Imperialism to Independence","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=313&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"HIST 313 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=313&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"","subject_code":"HIST","course_number":"313","section_number":"201","building":"Biological Sciences","room":"2200","instructors":["MORTON, DAVID","WILFORD, AARON"],"totalRemaining":"0","currentlyRegistered":"72","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The history of Africa in the 19th and 20th Centuries: the growth of Islam and Christianity, the impact of European colonialism, the development of nationalism, and the variety of different political and social outcomes after independence."}
+{
+  "course_name": "HIST 313",
+  "subject_code": "HIST",
+  "course_number": "313",
+  "course_title": "Africa from Imperialism to Independence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=313&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 313 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=313&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "313",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORTON, DAVID",
+        "WILFORD, AARON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "72",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The history of Africa in the 19th and 20th Centuries: the growth of Islam and Christianity, the impact of European colonialism, the development of nationalism, and the variety of different political and social outcomes after independence.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

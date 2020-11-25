@@ -1,1 +1,43 @@
-{"course_name":"VISA 280","subject_code":"VISA","course_number":"280","course_title":"Contemporary Art: Ideas as Practice II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=280&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"VISA 280 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=280&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"VISA 280 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.","subject_code":"VISA","course_number":"280","section_number":"001","building":" ","room":"","instructors":["THAUBERGER, ALTHEA"],"totalRemaining":"39","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"39"}},"credits":"Credits: 3","description":"Development and history of contemporary art practice, with a focus on how artists realize and exchange ideas. Intended for second year BFA VISA students."}
+{
+  "course_name": "VISA 280",
+  "subject_code": "VISA",
+  "course_number": "280",
+  "course_title": "Contemporary Art: Ideas as Practice II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "VISA 280 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=280&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "VISA 280 001 will be delivered 100% online, with some synchronous (i.e., \"real time\") and some asynchronous components.",
+      "subject_code": "VISA",
+      "course_number": "280",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THAUBERGER, ALTHEA"
+      ],
+      "totalRemaining": "39",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "39"
+    }
+  ],
+  "credits": 3,
+  "description": "Development and history of contemporary art practice, with a focus on how artists realize and exchange ideas. Intended for second year BFA VISA students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

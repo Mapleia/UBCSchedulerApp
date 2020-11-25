@@ -1,1 +1,78 @@
-{"course_name":"PSYC 547E","subject_code":"PSYC","course_number":"547E","course_title":"Reading and Conference - READG & CONFRNCE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=547E&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PSYC 547E 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=547E&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"PSYC","course_number":"547E","section_number":"001","building":"","room":"","instructors":["3","2","3","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"PSYC 547E 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=547E&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"PSYC","course_number":"547E","section_number":"002","building":"","room":"","instructors":["10","0","5","5","","in one of these programs: MA,PHD\nwith one of these specializations: ****PSYC\n\n"],"totalRemaining":"in one of these programs: MA,PHD\nwith one of these specializations: ****PSYC\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PSYC 547E",
+  "subject_code": "PSYC",
+  "course_number": "547E",
+  "course_title": "Reading and Conference - READG & CONFRNCE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=547E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PSYC 547E 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=547E&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "547E",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "3",
+        "2",
+        "3",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PSYC 547E 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=547E&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "547E",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "10",
+        "0",
+        "5",
+        "5",
+        "",
+        "in one of these programs: MA,PHD\nwith one of these specializations: ****PSYC\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MA,PHD\nwith one of these specializations: ****PSYC\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"SOCI 370","subject_code":"SOCI","course_number":"370","course_title":"Sociological Theories: Classical and Contemporary Approaches","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=370&sessyr=2020&sesscd=W","sections":{"301":{"status":" ","section":"SOCI 370 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=370&section=301&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"370","section_number":"301","building":" ","room":"","instructors":["KEMPLE, THOMAS"],"totalRemaining":"1","currentlyRegistered":"84","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"An examination of selected traditions, conceptual problems, and current topics in the field of sociological theory. Credit will be granted for only one of SOCI 370 or both SOCI 371, SOCI 372."}
+{
+  "course_name": "SOCI 370",
+  "subject_code": "SOCI",
+  "course_number": "370",
+  "course_title": "Sociological Theories: Classical and Contemporary Approaches",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 370 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=370&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "370",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KEMPLE, THOMAS"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "84",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "An examination of selected traditions, conceptual problems, and current topics in the field of sociological theory. Credit will be granted for only one of SOCI 370 or both SOCI 371, SOCI 372.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

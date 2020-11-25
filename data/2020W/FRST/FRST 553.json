@@ -1,1 +1,48 @@
-{"course_name":"FRST 553","subject_code":"FRST","course_number":"553","course_title":"International Forest Governance and Policy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=553&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"FRST 553 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=553&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Tue Wed Thu Fri","start":"9:00","end":"12:00","comments":"Restricted Registration. Condensed module course in March; registered students will receive exact schedule from the Program Coordinator.","subject_code":"FRST","course_number":"553","section_number":"101","building":" ","room":"","instructors":["RIGGS, REBECCA ANNE","SAYER, JEFFREY"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 4","description":" "}
+{
+  "course_name": "FRST 553",
+  "subject_code": "FRST",
+  "course_number": "553",
+  "course_title": "International Forest Governance and Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=553&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 553 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=553&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Restricted Registration. Condensed module course in March; registered students will receive exact schedule from the Program Coordinator.",
+      "subject_code": "FRST",
+      "course_number": "553",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIGGS, REBECCA ANNE",
+        "SAYER, JEFFREY"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 4,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

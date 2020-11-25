@@ -1,1 +1,44 @@
-{"course_name":"CLST 404B","subject_code":"CLST","course_number":"404B","course_title":"Seminar in the Reception of the Classical World - RECPTN CLAS WRLD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=404B&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 404B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=404B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Racism in Antiquity. Visit cnrs.ubc.ca for full course descriptions.","subject_code":"CLST","course_number":"404B","section_number":"001","building":"Buchanan","room":"D323","instructors":["DE ANGELIS, FRANCO"],"totalRemaining":"2","currentlyRegistered":"13","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in the reception of the classicial world in its own time and in later eras, with an emphasis on research. Prerequisite: at least one 3-credit upper-level course of content appropriate for the topic of the seminar (to be established by individual instructors). Restricted to majors and honours students in CLST, CLAS, CLAH, ARGR, GRNE, CNRS."}
+{
+  "course_name": "CLST 404B",
+  "subject_code": "CLST",
+  "course_number": "404B",
+  "course_title": "Seminar in the Reception of the Classical World - RECPTN CLAS WRLD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=404B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 404B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=404B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Racism in Antiquity. Visit cnrs.ubc.ca for full course descriptions.Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "CLST",
+      "course_number": "404B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE ANGELIS, FRANCO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in the reception of the classicial world in its own time and in later eras, with an emphasis on research. Prerequisite: at least one 3-credit upper-level course of content appropriate for the topic of the seminar (to be established by individual instructors). Restricted to majors and honours students in CLST, CLAS, CLAH, ARGR, GRNE, CNRS.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

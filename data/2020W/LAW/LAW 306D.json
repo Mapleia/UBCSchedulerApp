@@ -1,1 +1,43 @@
-{"course_name":"LAW 306D","subject_code":"LAW","course_number":"306D","course_title":"Corporate Social Responsibility and the Law - CORP SOC RESPONS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=306D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 306D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=306D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"LAW","course_number":"306D","section_number":"001","building":" ","room":"","instructors":["LIAO, CAROL"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LAW 306D",
+  "subject_code": "LAW",
+  "course_number": "306D",
+  "course_title": "Corporate Social Responsibility and the Law - CORP SOC RESPONS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=306D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 306D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=306D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "306D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIAO, CAROL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

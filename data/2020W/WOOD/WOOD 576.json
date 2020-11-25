@@ -1,1 +1,43 @@
-{"course_name":"WOOD 576","subject_code":"WOOD","course_number":"576","course_title":"Advanced Wood Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=576&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"WOOD 576 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=576&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Directed Study style course with registration permitted only with permisson of instructor.","subject_code":"WOOD","course_number":"576","section_number":"201","building":" ","room":"","instructors":["LAM, FRANK"],"totalRemaining":"2","currentlyRegistered":"1","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis and design of structural wood products. Effect of material structure and variability on performance of wood products."}
+{
+  "course_name": "WOOD 576",
+  "subject_code": "WOOD",
+  "course_number": "576",
+  "course_title": "Advanced Wood Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=576&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "WOOD 576 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=576&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Directed Study style course with registration permitted only with permisson of instructor.",
+      "subject_code": "WOOD",
+      "course_number": "576",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, FRANK"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "1",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis and design of structural wood products. Effect of material structure and variability on performance of wood products.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

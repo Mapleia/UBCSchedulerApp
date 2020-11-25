@@ -1,1 +1,99 @@
-{"course_name":"WOOD 290","subject_code":"WOOD","course_number":"290","course_title":"Secondary Wood Products Manufacturing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=290&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"WOOD 290 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"Lectures will be held in the CAWP Caseroom (FSC 2916).","subject_code":"WOOD","course_number":"290","section_number":"201","building":"Forest Sciences Centre","room":"2916","instructors":["FUERST, ROBERT"],"totalRemaining":"28","currentlyRegistered":"12","generalRemaining":"28","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 290 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"Lab will be held in CAWP Machine Lab.","subject_code":"WOOD","course_number":"290","section_number":"L01","building":"Forest Sciences Centre","room":"1937","instructors":["FUERST, ROBERT"],"totalRemaining":"4","currentlyRegistered":"11","generalRemaining":"4","restrictedRemaining":"0"},"L02":{"status":" ","section":"WOOD 290 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Lab will be held in CAWP Machine Lab.","subject_code":"WOOD","course_number":"290","section_number":"L02","building":"Forest Sciences Centre","room":"1937","instructors":["FUERST, ROBERT"],"totalRemaining":"14","currentlyRegistered":"1","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Basic secondary wood products manufacturing. Focus on producing and joining lumber, edging, drilling, veneers and CNC equipment."}
+{
+  "course_name": "WOOD 290",
+  "subject_code": "WOOD",
+  "course_number": "290",
+  "course_title": "Secondary Wood Products Manufacturing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=290&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 290 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "290",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "12",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 290 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "290",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FUERST, ROBERT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "WOOD 290 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=290&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "290",
+      "section_number": "L02",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "15",
+        "0",
+        "15",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Basic secondary wood products manufacturing. Focus on producing and joining lumber, edging, drilling, veneers and CNC equipment.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

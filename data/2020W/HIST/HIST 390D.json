@@ -1,1 +1,45 @@
-{"course_name":"HIST 390D","subject_code":"HIST","course_number":"390D","course_title":"Topics in History - TOPICS IN HIST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=390D&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"HIST 390D 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=390D&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"Student directed seminar. Bridging the Divide: The History of the Continental Analytic Split. Cross-listed with PHIL 489, 001. Course coordinators: Marcel Shelton, Vlada Asadulaeva. Email: marcelshelton50578@gmail.com, vladaasadulaeva@gmail.com","subject_code":"HIST","course_number":"390D","section_number":"201","building":" ","room":"","instructors":["BRAIN, ROBERT","RICHARDSON, ALAN WALTER"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Small-group instruction in a seminar format on a variety of historical topics. Check with the department for course offerings. This course does not satisfy the History Majors Research Seminar (490) requirement."}
+{
+  "course_name": "HIST 390D",
+  "subject_code": "HIST",
+  "course_number": "390D",
+  "course_title": "Topics in History - TOPICS IN HIST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=390D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 390D 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=390D&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Student directed seminar. Bridging the Divide: The History of the Continental Analytic Split. Cross-listed with PHIL 489, 001. Course coordinators: Marcel Shelton, Vlada Asadulaeva. Email: marcelshelton50578@gmail.com, vladaasadulaeva@gmail.com",
+      "subject_code": "HIST",
+      "course_number": "390D",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRAIN, ROBERT",
+        "RICHARDSON, ALAN WALTER"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Small-group instruction in a seminar format on a variety of historical topics. Check with the department for course offerings. This course does not satisfy the History Majors Research Seminar (490) requirement.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

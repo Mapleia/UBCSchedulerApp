@@ -1,1 +1,43 @@
-{"course_name":"FREN 495","subject_code":"FREN","course_number":"495","course_title":"Research Seminar in French","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=495&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FREN 495 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=495&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Fri","start":"15:00","end":"18:00","comments":"Research on critical topics related to selected literary works. Limited enrolment: required of honours, but open to majors students in French. Full course description: https://fhis.ubc.ca/course-description/fren495/- cross-listed with FREN 510A-201","subject_code":"FREN","course_number":"495","section_number":"201","building":" ","room":"","instructors":["GODFREY, SIMA"],"totalRemaining":"33","currentlyRegistered":"7","generalRemaining":"33","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Research on critical topics related to selected literary works. Limited enrolment: required of honours, but open to majors students in French."}
+{
+  "course_name": "FREN 495",
+  "subject_code": "FREN",
+  "course_number": "495",
+  "course_title": "Research Seminar in French",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 495 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=495&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "Research on critical topics related to selected literary works. Limited enrolment: required of honours, but open to majors students in French. Full course description: https://fhis.ubc.ca/course-description/fren495/- cross-listed with FREN 510A-201",
+      "subject_code": "FREN",
+      "course_number": "495",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GODFREY, SIMA"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "7",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Research on critical topics related to selected literary works. Limited enrolment: required of honours, but open to majors students in French.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

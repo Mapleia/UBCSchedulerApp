@@ -1,1 +1,70 @@
-{"course_name":"ENPH 479","subject_code":"ENPH","course_number":"479","course_title":"Engineering Physics Project III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENPH&course=479&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"ENPH 479 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=479&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"For registration help email:  campbell@phas.ubc.ca","subject_code":"ENPH","course_number":"479","section_number":"101","building":" ","room":"","instructors":["MARZIALI, ANDRE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L1A":{"status":" ","section":"ENPH 479 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=479&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Students will arrange meeting times with their mentors after the course begins.","subject_code":"ENPH","course_number":"479","section_number":"L1A","building":" ","room":"","instructors":["MARZIALI, ANDRE"],"totalRemaining":"34","currentlyRegistered":"46","generalRemaining":"34","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry."}
+{
+  "course_name": "ENPH 479",
+  "subject_code": "ENPH",
+  "course_number": "479",
+  "course_title": "Engineering Physics Project III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENPH&course=479&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ENPH 479 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=479&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "For registration help email:  campbell@phas.ubc.ca",
+      "subject_code": "ENPH",
+      "course_number": "479",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARZIALI, ANDRE"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ENPH 479 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=479&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students will arrange meeting times with their mentors after the course begins.",
+      "subject_code": "ENPH",
+      "course_number": "479",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARZIALI, ANDRE"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "46",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

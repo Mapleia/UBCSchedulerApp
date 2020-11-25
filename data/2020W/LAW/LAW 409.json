@@ -1,1 +1,44 @@
-{"course_name":"LAW 409","subject_code":"LAW","course_number":"409","course_title":"Taxation of Partnerships","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=409&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 409 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=409&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"*Cross-listed with LAW 563.001*","subject_code":"LAW","course_number":"409","section_number":"001","building":" ","room":"","instructors":["DUFF, DAVID"],"totalRemaining":"11","currentlyRegistered":"5","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of statutory and judicial rules governing the taxation of income earned through partnerships. Credit will be granted for only one of LAW 409 or LAW 563."}
+{
+  "course_name": "LAW 409",
+  "subject_code": "LAW",
+  "course_number": "409",
+  "course_title": "Taxation of Partnerships",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=409&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 409 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=409&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "*Cross-listed with LAW 563.001*",
+      "subject_code": "LAW",
+      "course_number": "409",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUFF, DAVID"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "5",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of statutory and judicial rules governing the taxation of income earned through partnerships. Credit will be granted for only one of LAW 409 or LAW 563.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

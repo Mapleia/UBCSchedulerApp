@@ -1,1 +1,43 @@
-{"course_name":"CIVL 509","subject_code":"CIVL","course_number":"509","course_title":"Nonlinear Structural Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=509&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"CIVL 509 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=509&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"","subject_code":"CIVL","course_number":"509","section_number":"201","building":"Neville Scarfe","room":"1003","instructors":["HAUKAAS, TERJE"],"totalRemaining":"17","currentlyRegistered":"23","generalRemaining":"9","restrictedRemaining":"8"}},"credits":"Credits: 3","description":"Nonlinear behaviour of structures and the formulation of elements to model such behaviour; solution strategies; nonlinear material and section response; nonlinear dynamic analysis; nonlinear geometry; application of nonlinear analysis in engineering practice."}
+{
+  "course_name": "CIVL 509",
+  "subject_code": "CIVL",
+  "course_number": "509",
+  "course_title": "Nonlinear Structural Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=509&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 509 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=509&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "509",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAUKAAS, TERJE"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "23",
+      "generalRemaining": "9",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "Nonlinear behaviour of structures and the formulation of elements to model such behaviour; solution strategies; nonlinear material and section response; nonlinear dynamic analysis; nonlinear geometry; application of nonlinear analysis in engineering practice.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

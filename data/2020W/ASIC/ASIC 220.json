@@ -1,1 +1,73 @@
-{"course_name":"ASIC 220","subject_code":"ASIC","course_number":"220","course_title":"Introduction to Sustainability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIC&course=220&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ASIC 220 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=220&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ASIC","course_number":"220","section_number":"001","building":"Chemistry","room":"D200","instructors":["WITTMAN, HANNAH"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"2W2":{"status":" ","section":"ASIC 220 2W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=220&section=2W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"ASIC","course_number":"220","section_number":"2W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Sustainability examined from scientific, economic, and societal perspectives."}
+{
+  "course_name": "ASIC 220",
+  "subject_code": "ASIC",
+  "course_number": "220",
+  "course_title": "Introduction to Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIC&course=220&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ASIC 220 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=220&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ASIC",
+      "course_number": "220",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WITTMAN, HANNAH",
+        "JAMES, DANA(Lead)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ASIC 220 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=220&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "ASIC",
+      "course_number": "220",
+      "section_number": "2W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Sustainability examined from scientific, economic, and societal perspectives.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

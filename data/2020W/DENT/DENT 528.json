@@ -1,1 +1,44 @@
-{"course_name":"DENT 528","subject_code":"DENT","course_number":"528","course_title":"Prosthodontic Treatment Planning and Outcomes Seminars II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=528&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 528 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=528&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"528","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["WYATT, CHRISTOPHER"],"totalRemaining":"15","currentlyRegistered":"3","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "DENT 528",
+  "subject_code": "DENT",
+  "course_number": "528",
+  "course_title": "Prosthodontic Treatment Planning and Outcomes Seminars II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=528&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 528 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=528&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "528",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MCCULLAGH, ANTHONY",
+        "WYATT, CHRISTOPHER"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "3",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

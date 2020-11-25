@@ -1,1 +1,71 @@
-{"course_name":"CHBE 381","subject_code":"CHBE","course_number":"381","course_title":"Bioprocess Engineering I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=381&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 381 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=381&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri","start":"10:00","end":"11:30","comments":"","subject_code":"CHBE","course_number":"381","section_number":"201","building":"Chemical and Biological Engineering Building","room":"102","instructors":["PIRET, JAMES"],"totalRemaining":"15","currentlyRegistered":"59","generalRemaining":"0","restrictedRemaining":"15"},"T2A":{"status":"STT","section":"CHBE 381 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=381&section=T2A&sessyr=2020&sesscd=W","activity":"Problem Session","term":"2","interval":"","days":" Mon*","start":"14:00","end":"16:00","comments":"The class will meet in CHBE 103 (together with CHBE 560 T2A group).* every second week starting with start week","subject_code":"CHBE","course_number":"381","section_number":"T2A","building":"Chemical and Biological Engineering Building","room":"102","instructors":["PIRET, JAMES"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Biological process engineering in the fields of biotechnology and biomedical engineering; enzymatic and cellular kinetics; cell culture, process development and product recovery; bioreactor design and operation. Credit will be granted for only one of CHBE 381, CHBE 560."}
+{
+  "course_name": "CHBE 381",
+  "subject_code": "CHBE",
+  "course_number": "381",
+  "course_title": "Bioprocess Engineering I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=381&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 381 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=381&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "381",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PIRET, JAMES"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "59",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "STT",
+      "section": "CHBE 381 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=381&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "The class will meet in CHBE 103 (together with CHBE 560 T2A group).* every second week starting with start week",
+      "subject_code": "CHBE",
+      "course_number": "381",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PIRET, JAMES"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Biological process engineering in the fields of biotechnology and biomedical engineering; enzymatic and cellular kinetics; cell culture, process development and product recovery; bioreactor design and operation. Credit will be granted for only one of CHBE 381, CHBE 560.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Problem Session"
+  ]
+}

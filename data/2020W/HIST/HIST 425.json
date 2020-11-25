@@ -1,1 +1,154 @@
-{"course_name":"HIST 425","subject_code":"HIST","course_number":"425","course_title":"War and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=425&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"HIST 425 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"15:00","end":"16:00","comments":"HIST 425: Students unable to attend any of the scheduled tutorials because they are outside of the Pacific Time zone should contact the instructor to arrange an accommodation.","subject_code":"HIST","course_number":"425","section_number":"001","building":" ","room":"","instructors":["SENS, ALLEN","FACKNITZ, HANNAH"],"totalRemaining":"3","currentlyRegistered":"69","generalRemaining":"3","restrictedRemaining":"0"},"L1A":{"status":" ","section":"HIST 425 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Wed","start":"16:00","end":"17:00","comments":"","subject_code":"HIST","course_number":"425","section_number":"L1A","building":" ","room":"","instructors":["SENS, ALLEN","FACKNITZ, HANNAH"],"totalRemaining":"2","currentlyRegistered":"16","generalRemaining":"2","restrictedRemaining":"0"},"L1B":{"status":"Full","section":"HIST 425 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"","subject_code":"HIST","course_number":"425","section_number":"L1B","building":" ","room":"","instructors":["SENS, ALLEN","FACKNITZ, HANNAH"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L1C":{"status":" ","section":"HIST 425 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1C&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"HIST","course_number":"425","section_number":"L1C","building":" ","room":"","instructors":["SENS, ALLEN","FACKNITZ, HANNAH"],"totalRemaining":"2","currentlyRegistered":"16","generalRemaining":"2","restrictedRemaining":"0"},"L1D":{"status":"Full","section":"HIST 425 L1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1D&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"","subject_code":"HIST","course_number":"425","section_number":"L1D","building":" ","room":"","instructors":["SENS, ALLEN","FACKNITZ, HANNAH"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history."}
+{
+  "course_name": "HIST 425",
+  "subject_code": "HIST",
+  "course_number": "425",
+  "course_title": "War and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=425&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 425 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "HIST 425: Students unable to attend any of the scheduled tutorials because they are outside of the Pacific Time zone should contact the instructor to arrange an accommodation.",
+      "subject_code": "HIST",
+      "course_number": "425",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "FACKNITZ, HANNAH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "69",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 425 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "425",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "FACKNITZ, HANNAH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "16",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 425 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "425",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "FACKNITZ, HANNAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "HIST 425 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "425",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "FACKNITZ, HANNAH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "16",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "HIST 425 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=425&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "425",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "FACKNITZ, HANNAH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

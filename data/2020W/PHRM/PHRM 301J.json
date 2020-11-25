@@ -1,1 +1,70 @@
-{"course_name":"PHRM 301J","subject_code":"PHRM","course_number":"301J","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301J&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHRM 301J 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301J&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":"","end":"","comments":"Dermatology, Cosmeceuticals and Topical CompoundingIf section is full, please register in the waitlist (PHRM 301J.WL1)Please note that all PHRM301J sessions will be delivered online for 2020W","subject_code":"PHRM","course_number":"301J","section_number":"001","building":"","room":"","instructors":["in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Restricted","section":"PHRM 301J WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301J&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 301J.001 Dermatology, Cosmeceuticals and Topical CompoundingInstructor: Mr. Aaron Sihota","subject_code":"PHRM","course_number":"301J","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Thesis or essay."}
+{
+  "course_name": "PHRM 301J",
+  "subject_code": "PHRM",
+  "course_number": "301J",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 301J 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301J&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Dermatology, Cosmeceuticals and Topical CompoundingIf section is full, please register in the waitlist (PHRM 301J.WL1)Please note that all PHRM301J sessions will be delivered online for 2020W",
+      "subject_code": "PHRM",
+      "course_number": "301J",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 301J WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301J&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 301J.001 Dermatology, Cosmeceuticals and Topical CompoundingInstructor: Mr. Aaron Sihota",
+      "subject_code": "PHRM",
+      "course_number": "301J",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Thesis or essay.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

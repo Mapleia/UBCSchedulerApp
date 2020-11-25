@@ -1,1 +1,43 @@
-{"course_name":"EDST 577","subject_code":"EDST","course_number":"577","course_title":"Social Contexts of Educational Policy, Politics and Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=577&sessyr=2020&sesscd=W","sections":{"081":{"status":" ","section":"EDST 577 081","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=577&section=081&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"EDST 577 section 081:  This is the only section that satisfy the SCPE requirement.This section will be offered online.","subject_code":"EDST","course_number":"577","section_number":"081","building":" ","room":"","instructors":["KELLY, DEIRDRE"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 577",
+  "subject_code": "EDST",
+  "course_number": "577",
+  "course_title": "Social Contexts of Educational Policy, Politics and Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=577&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDST 577 081",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=577&section=081&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "EDST 577 section 081:  This is the only section that satisfy the SCPE requirement.This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "577",
+      "section_number": "081",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KELLY, DEIRDRE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

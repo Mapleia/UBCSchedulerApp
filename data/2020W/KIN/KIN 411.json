@@ -1,1 +1,71 @@
-{"course_name":"KIN 411","subject_code":"KIN","course_number":"411","course_title":"Neuroanatomy of Human Movement","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=411&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 411 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=411&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This course is formerly KIN 473 . Students can receive credit for either KIN 473 or KIN 411","subject_code":"KIN","course_number":"411","section_number":"001","building":"West Mall Swing Space","room":"121","instructors":["CARPENTER, MARK"],"totalRemaining":"0","currentlyRegistered":"244","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Blocked","section":"KIN 411 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=411&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 473. Students can receive credit for either KIN 473 or KIN 411","subject_code":"KIN","course_number":"411","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"43","currentlyRegistered":"7","generalRemaining":"43","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Neuroanatomy of human motion in healthy and clinical populations."}
+{
+  "course_name": "KIN 411",
+  "subject_code": "KIN",
+  "course_number": "411",
+  "course_title": "Neuroanatomy of Human Movement",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 411 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=411&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This course is formerly KIN 473 . Students can receive credit for either KIN 473 or KIN 411",
+      "subject_code": "KIN",
+      "course_number": "411",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARPENTER, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "247",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 411 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=411&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 473. Students can receive credit for either KIN 473 or KIN 411",
+      "subject_code": "KIN",
+      "course_number": "411",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "45",
+      "currentlyRegistered": "5",
+      "generalRemaining": "45",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Neuroanatomy of human motion in healthy and clinical populations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

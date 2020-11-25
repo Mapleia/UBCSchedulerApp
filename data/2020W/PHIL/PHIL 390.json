@@ -1,1 +1,43 @@
-{"course_name":"PHIL 390","subject_code":"PHIL","course_number":"390","course_title":"Honours Tutorial","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=390&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PHIL 390 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=390&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"Due to COVID-19, this course will be online. Much of the syllabus is under construction. But please do make yourself available during the assigned meeting time (Wednesdays, 2:00 - 5:00 PM, Pacific Time) for synchronous course activities using A/V capture software like Zoom. The current plan is to use only 1.5 hours of that time for lecture/discussion with the instructor. The other 1.5 hours might be used for other synchronous course activities, or we might let it go in favor of asynchronous activities. The forms of assessment are also under construction. But the plan is to have assessments that do not require A/V capture while you complete them. Some assignments might be under time constraints, but no camera or mic need be on.","subject_code":"PHIL","course_number":"390","section_number":"001","building":" ","room":"","instructors":["BEDKE, MATTHEW"],"totalRemaining":"12","currentlyRegistered":"13","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"For students in third-year Honours."}
+{
+  "course_name": "PHIL 390",
+  "subject_code": "PHIL",
+  "course_number": "390",
+  "course_title": "Honours Tutorial",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=390&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHIL 390 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=390&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Due to COVID-19, this course will be online. Much of the syllabus is under construction. But please do make yourself available during the assigned meeting time (Wednesdays, 2:00 - 5:00 PM, Pacific Time) for synchronous course activities using A/V capture software like Zoom. The current plan is to use only 1.5 hours of that time for lecture/discussion with the instructor. The other 1.5 hours might be used for other synchronous course activities, or we might let it go in favor of asynchronous activities. The forms of assessment are also under construction. But the plan is to have assessments that do not require A/V capture while you complete them. Some assignments might be under time constraints, but no camera or mic need be on.",
+      "subject_code": "PHIL",
+      "course_number": "390",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEDKE, MATTHEW"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "13",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "For students in third-year Honours.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

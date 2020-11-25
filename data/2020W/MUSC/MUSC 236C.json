@@ -1,1 +1,43 @@
-{"course_name":"MUSC 236C","subject_code":"MUSC","course_number":"236C","course_title":"Piano Repertoire II - PIANO REPTOIRE 2","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=236C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 236C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=236C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Thu","start":"15:00","end":"17:00","comments":"Restricted to BMUS PIAN majors only.  Offered in even academic years (alternates with 136C).","subject_code":"MUSC","course_number":"236C","section_number":"001","building":" ","room":"","instructors":["HAMM, COREY"],"totalRemaining":"11","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"11"}},"credits":"Credits: 4","description":"Continuation of MUSC 136."}
+{
+  "course_name": "MUSC 236C",
+  "subject_code": "MUSC",
+  "course_number": "236C",
+  "course_title": "Piano Repertoire II - PIANO REPTOIRE 2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=236C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 236C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=236C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "Restricted to BMUS PIAN majors only.  Offered in even academic years (alternates with 136C).",
+      "subject_code": "MUSC",
+      "course_number": "236C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAMM, COREY"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 4,
+  "description": "Continuation of MUSC 136.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

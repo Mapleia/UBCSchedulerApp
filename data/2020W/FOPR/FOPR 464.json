@@ -1,1 +1,72 @@
-{"course_name":"FOPR 464","subject_code":"FOPR","course_number":"464","course_title":"Operational Planning and Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FOPR&course=464&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FOPR 464 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=464&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"9:00","end":"10:00","comments":"This course is open to non-Forestry students.  If you are missing the prerequisite, please contact the instructor (kevin.lyons@ubc.ca)","subject_code":"FOPR","course_number":"464","section_number":"201","building":" ","room":"","instructors":["GRIESS, HOLGER","ROESER, DOMINIK"],"totalRemaining":"9","currentlyRegistered":"6","generalRemaining":"9","restrictedRemaining":"0"},"L01":{"status":" ","section":"FOPR 464 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=464&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"","subject_code":"FOPR","course_number":"464","section_number":"L01","building":" ","room":"","instructors":["GRIESS, HOLGER","ROESER, DOMINIK"],"totalRemaining":"9","currentlyRegistered":"6","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"A comprehensive overview of operational planning, financial and contractual management. Includes an experiential learning opportunity that focuses on critical thinking and teamwork. These skills combined with the theoretical course content are applied in a practical application with an external stakeholder."}
+{
+  "course_name": "FOPR 464",
+  "subject_code": "FOPR",
+  "course_number": "464",
+  "course_title": "Operational Planning and Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FOPR&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FOPR 464 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=464&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This course is open to non-Forestry students.  If you are missing the prerequisite, please contact the instructor (kevin.lyons@ubc.ca)",
+      "subject_code": "FOPR",
+      "course_number": "464",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRIESS, HOLGER",
+        "ROESER, DOMINIK"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FOPR 464 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FOPR&course=464&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FOPR",
+      "course_number": "464",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRIESS, HOLGER",
+        "ROESER, DOMINIK"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "A comprehensive overview of operational planning, financial and contractual management. Includes an experiential learning opportunity that focuses on critical thinking and teamwork. These skills combined with the theoretical course content are applied in a practical application with an external stakeholder.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

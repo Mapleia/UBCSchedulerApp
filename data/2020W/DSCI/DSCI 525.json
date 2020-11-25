@@ -1,1 +1,96 @@
-{"course_name":"DSCI 525","subject_code":"DSCI","course_number":"525","course_title":"Web and Cloud Computing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=525&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DSCI 525 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"10:30","end":"12:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"525","section_number":"001","building":"Hugh Dempster Pavilion","room":"110","instructors":["FEELEY, MICHAEL"],"totalRemaining":"20","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"20"},"L01":{"status":"Restricted","section":"DSCI 525 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"13:00","end":"15:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"525","section_number":"L01","building":"Orchard Commons","room":"3018","instructors":["LOURENZUTTI, RODOLFO"],"totalRemaining":"26","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"26"},"L02":{"status":"Full","section":"DSCI 525 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"16:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"525","section_number":"L02","building":"Orchard Commons","room":"4018","instructors":["LOURENZUTTI, RODOLFO"],"totalRemaining":"0","currentlyRegistered":"66","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Networks and the Internet, scraping data, APIs, cloud computing, Web services for scalable computing, Web hosting, Web publication platforms, introduction to parallel computing."}
+{
+  "course_name": "DSCI 525",
+  "subject_code": "DSCI",
+  "course_number": "525",
+  "course_title": "Web and Cloud Computing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=525&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 525 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "525",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FEELEY, MICHAEL"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "21"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 525 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "525",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 525 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=525&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "525",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOURENZUTTI, RODOLFO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "65",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Networks and the Internet, scraping data, APIs, cloud computing, Web services for scalable computing, Web hosting, Web publication platforms, introduction to parallel computing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"GREK 351","subject_code":"GREK","course_number":"351","course_title":"Reading Ancient Greek: Prose","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=351&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"GREK 351 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=351&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.Note: students who have received credit for GREK 301 may not receive credit also for GREK 351 or 352.","subject_code":"GREK","course_number":"351","section_number":"001","building":" ","room":"","instructors":["DE ANGELIS, FRANCO"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Readings in the major authors in Greek prose."}
+{
+  "course_name": "GREK 351",
+  "subject_code": "GREK",
+  "course_number": "351",
+  "course_title": "Reading Ancient Greek: Prose",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=351&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GREK 351 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=351&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.Note: students who have received credit for GREK 301 may not receive credit also for GREK 351 or 352.",
+      "subject_code": "GREK",
+      "course_number": "351",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DE ANGELIS, FRANCO"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Readings in the major authors in Greek prose.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

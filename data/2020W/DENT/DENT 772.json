@@ -1,1 +1,47 @@
-{"course_name":"DENT 772","subject_code":"DENT","course_number":"772","course_title":"Orthodontic and Dentofacial Orthopedic Clinics II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=772&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 772 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=772&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"772","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["KENNEDY, DAVID","PLISKA, BENJAMIN","YEN, EDWIN H"],"totalRemaining":"4","currentlyRegistered":"5","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 12","description":"Continues in third year."}
+{
+  "course_name": "DENT 772",
+  "subject_code": "DENT",
+  "course_number": "772",
+  "course_title": "Orthodontic and Dentofacial Orthopedic Clinics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=772&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 772 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=772&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "772",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KENNEDY, DAVID",
+        "PLISKA, BENJAMIN",
+        "TZUR-GADASSI, LIAT",
+        "VORA, SIDDHARTH",
+        "YEN, EDWIN H"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "5",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Continues in third year.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

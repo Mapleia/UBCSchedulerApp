@@ -1,1 +1,44 @@
-{"course_name":"ANTH 431C","subject_code":"ANTH","course_number":"431C","course_title":"Museum Practice and Curatorship - MUS PRC&CURATRSH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=431C&sessyr=2020&sesscd=W","sections":{"100":{"status":" ","section":"ANTH 431C 100","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=431C&section=100&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ANTH","course_number":"431C","section_number":"100","building":"To Be Announced","room":"","instructors":["ROWLEY, SUSAN"],"totalRemaining":"6","currentlyRegistered":"14","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Management of museum collections and their public presentation, addressing questions of access, collaboration, and cultural property. The public interpretation of anthropological concepts and materials utilizing the programs and facilities of the Museum of Anthropology."}
+{
+  "course_name": "ANTH 431C",
+  "subject_code": "ANTH",
+  "course_number": "431C",
+  "course_title": "Museum Practice and Curatorship - MUS PRC&CURATRSH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=431C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 431C 100",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=431C&section=100&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "431C",
+      "section_number": "100",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "ROWLEY, SUSAN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Management of museum collections and their public presentation, addressing questions of access, collaboration, and cultural property. The public interpretation of anthropological concepts and materials utilizing the programs and facilities of the Museum of Anthropology.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,41 @@
-{"course_name":"CIVL 250","subject_code":"CIVL","course_number":"250","course_title":"Engineering and Sustainable Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=250&sessyr=2020&sesscd=W","sections":{"99A":{"status":"Restricted","section":"CIVL 250 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=250&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"CIVL 250 is an online course. This is a HIGH DEMAND COURSE and EARLY REGISTRATION IS STRONGLY RECOMMENDED. NOTE: This course is not available to first year students. -- If this section is full, please register on the waitlist. This course will also be offered in the summer term. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account. You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/.","subject_code":"CIVL","course_number":"250","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["ROGHANIAN, NEGAR"],"totalRemaining":"161","currentlyRegistered":"124","generalRemaining":"0","restrictedRemaining":"161"}},"credits":"Credits: 3","description":"Implications of a finite biosphere and the complexities inherent in environmental decision-making. Credit will only be granted for only one of CIVL 200 or CIVL 250."}
+{
+  "course_name": "CIVL 250",
+  "subject_code": "CIVL",
+  "course_number": "250",
+  "course_title": "Engineering and Sustainable Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 250 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=250&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "CIVL 250 is an online course. This is a HIGH DEMAND COURSE and EARLY REGISTRATION IS STRONGLY RECOMMENDED. NOTE: This course is not available to first year students. -- If this section is full, please register on the waitlist. This course will also be offered in the summer term. Your instructor and course support staff will contact you by email prior to and during the course. Please ensure you have a valid email account. You will need your Campus Wide Login (CWL) to login to your course at https://www.elearning.ubc.ca/.",
+      "subject_code": "CIVL",
+      "course_number": "250",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ROGHANIAN, NEGAR"
+      ],
+      "totalRemaining": "161",
+      "currentlyRegistered": "124",
+      "generalRemaining": "0",
+      "restrictedRemaining": "161"
+    }
+  ],
+  "credits": 3,
+  "description": "Implications of a finite biosphere and the complexities inherent in environmental decision-making. Credit will only be granted for only one of CIVL 200 or CIVL 250.",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

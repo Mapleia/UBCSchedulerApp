@@ -1,1 +1,43 @@
-{"course_name":"SPPH 536","subject_code":"SPPH","course_number":"536","course_title":"Aboriginal People and Public Health: Ethics, Policy, and Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=536&sessyr=2020&sesscd=W","sections":{"DL2":{"status":" ","section":"SPPH 536 DL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=536&section=DL2&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Sun","start":" ","end":" ","comments":"Classroom location: SPPH B104Please note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.","subject_code":"SPPH","course_number":"536","section_number":"DL2","building":"No Scheduled Meeting","room":"","instructors":["SPITTAL, PATRICIA"],"totalRemaining":"6","currentlyRegistered":"14","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Experience of colonization; Indian Act; the histories and intergenerational impact of the residential school; child-welfare systems; communicable disease prevention; the challenge of ethical public health practice; and traditional healing."}
+{
+  "course_name": "SPPH 536",
+  "subject_code": "SPPH",
+  "course_number": "536",
+  "course_title": "Aboriginal People and Public Health: Ethics, Policy, and Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=536&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 536 DL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=536&section=DL2&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SUN"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Course is delivered entirely online.  To access, please log on to UBC Canvas at www.canvas.ubc.caPlease note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.",
+      "subject_code": "SPPH",
+      "course_number": "536",
+      "section_number": "DL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SPITTAL, PATRICIA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Experience of colonization; Indian Act; the histories and intergenerational impact of the residential school; child-welfare systems; communicable disease prevention; the challenge of ethical public health practice; and traditional healing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

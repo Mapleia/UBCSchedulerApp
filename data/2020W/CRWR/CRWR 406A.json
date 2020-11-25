@@ -1,1 +1,69 @@
-{"course_name":"CRWR 406A","subject_code":"CRWR","course_number":"406A","course_title":"Writing for the Screen I - WRT FOR SCREEN I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=406A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"CRWR 406A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=406A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"10:00","end":"12:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course is mainly synchronous and likely will take place on Zoom (I will confirm with you several weeks before our class begins), but you will be asked to explore the asynchronous modules during the week on your own schedule. You may be asked to post a short video/s of yourself at some point during the course. The class will take place in a two-hour period each week on Tuesdays from 10am PST to noon PST. You will also be asked to arrange a remote meeting with me at least once during the term.","subject_code":"CRWR","course_number":"406A","section_number":"001","building":" ","room":"","instructors":["MEDVED, MAUREEN"],"totalRemaining":"0","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"CRWR 406A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=406A&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course is text based and asynchronous, but you will be asked to view the modules (some of the modules may include video) during the week on your own schedule. You may be asked to post a short video/s of yourself at some point during the course. The actual in-class component will take place on Canvas over a 27 hour period each week from Wednesday at 9am PST to Thursday at noon PST. Each week, by or before Wednesday at 9am, you will be asked to make a short opening written post and check online intermittently, responding to a specific number of questions and prompts during the 27 hour period. You will also be asked to arrange a remote meeting with me at least once during the term.","subject_code":"CRWR","course_number":"406A","section_number":"003","building":" ","room":"","instructors":["MEDVED, MAUREEN"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A workshop class in writing for the screen."}
+{
+  "course_name": "CRWR 406A",
+  "subject_code": "CRWR",
+  "course_number": "406A",
+  "course_title": "Writing for the Screen I - WRT FOR SCREEN I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=406A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CRWR 406A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=406A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course is mainly synchronous and likely will take place on Zoom (I will confirm with you several weeks before our class begins), but you will be asked to explore the asynchronous modules during the week on your own schedule. You may be asked to post a short video/s of yourself at some point during the course. The class will take place in a two-hour period each week on Tuesdays from 10am PST to noon PST. You will also be asked to arrange a remote meeting with me at least once during the term.",
+      "subject_code": "CRWR",
+      "course_number": "406A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEDVED, MAUREEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CRWR 406A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=406A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course is text based and asynchronous, but you will be asked to view the modules (some of the modules may include video) during the week on your own schedule. You may be asked to post a short video/s of yourself at some point during the course. The actual in-class component will take place on Canvas over a 27 hour period each week from Wednesday at 9am PST to Thursday at noon PST. Each week, by or before Wednesday at 9am, you will be asked to make a short opening written post and check online intermittently, responding to a specific number of questions and prompts during the 27 hour period. You will also be asked to arrange a remote meeting with me at least once during the term.",
+      "subject_code": "CRWR",
+      "course_number": "406A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MEDVED, MAUREEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A workshop class in writing for the screen.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

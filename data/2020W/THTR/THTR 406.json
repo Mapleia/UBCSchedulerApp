@@ -1,1 +1,43 @@
-{"course_name":"THTR 406","subject_code":"THTR","course_number":"406","course_title":"Costume Design II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=406&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"THTR 406 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=406&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"If this course is FULL or BLOCKED and you wish to be added to the WAITLIST, please email the Department Secretary thtr.sec@ubc.ca. Please include in your SUBJECT line Waitlist and Course Subject and Number and Section. Thank you.Priority will be given to BFA Design /Production and BA Theatre majors who have successfully completed the pre-requisite.","subject_code":"THTR","course_number":"406","section_number":"001","building":"Frederic Wood Theatre","room":"112","instructors":["FIRKINS, JACQUELINE"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"7","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Complex problems and selected historical studies in costume design."}
+{
+  "course_name": "THTR 406",
+  "subject_code": "THTR",
+  "course_number": "406",
+  "course_title": "Costume Design II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "THTR 406 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=406&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "If this course is FULL or BLOCKED and you wish to be added to the WAITLIST, please email the Department Secretary thtr.sec@ubc.ca. Please include in your SUBJECT line Waitlist and Course Subject and Number and Section. Thank you.Priority will be given to BFA Design /Production and BA Theatre majors who have successfully completed the pre-requisite.Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "THTR",
+      "course_number": "406",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "7",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Complex problems and selected historical studies in costume design.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

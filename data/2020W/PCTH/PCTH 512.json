@@ -1,1 +1,44 @@
-{"course_name":"PCTH 512","subject_code":"PCTH","course_number":"512","course_title":"Experimental Design and Analysis in Pharmacology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=512&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PCTH 512 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=512&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":" ","end":" ","comments":"PCTH 512  and  502: OFFERED IN ODD AND ALTERNATE YEARS ONLY.NEXT COURSE WILL BE AVAILABLE IN 2021W.Day and time of the course will be arranged at a later time.","subject_code":"PCTH","course_number":"512","section_number":"001","building":" ","room":"","instructors":["DORMUTH, COLIN","DORMUTH, COLIN(Coordinator)"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A series of lectures, tutorials and exercises designed to improve student skills in the design and statistical analyses of pharmacological experiments."}
+{
+  "course_name": "PCTH 512",
+  "subject_code": "PCTH",
+  "course_number": "512",
+  "course_title": "Experimental Design and Analysis in Pharmacology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PCTH&course=512&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PCTH 512 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PCTH&course=512&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "PCTH 512  and  502: OFFERED IN ODD AND ALTERNATE YEARS ONLY.NEXT COURSE WILL BE AVAILABLE IN 2021W.Day and time of the course will be arranged at a later time.",
+      "subject_code": "PCTH",
+      "course_number": "512",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DORMUTH, COLIN",
+        "DORMUTH, COLIN(Coordinator)"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A series of lectures, tutorials and exercises designed to improve student skills in the design and statistical analyses of pharmacological experiments.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

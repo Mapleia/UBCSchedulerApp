@@ -1,1 +1,100 @@
-{"course_name":"BIOL 402","subject_code":"BIOL","course_number":"402","course_title":"Aquatic Ecology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=402&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 402 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"BIOL","course_number":"402","section_number":"101","building":" ","room":"","instructors":["WHALEN, MATTHEW","DAVIS, KALEIGH"],"totalRemaining":"2","currentlyRegistered":"38","generalRemaining":"0","restrictedRemaining":"2"},"L01":{"status":" ","section":"BIOL 402 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"","subject_code":"BIOL","course_number":"402","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"38","generalRemaining":"2","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 402 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This is the wait-list for BIOL 402-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"402","section_number":"1W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theoretical and applied limnology; ecology of inland water organisms in relation to physical, chemical and biological factors. One weekend field trip required."}
+{
+  "course_name": "BIOL 402",
+  "subject_code": "BIOL",
+  "course_number": "402",
+  "course_title": "Aquatic Ecology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 402 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "402",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WHALEN, MATTHEW",
+        "DAVIS, KALEIGH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 402 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "402",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 402 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=402&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 402-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the course registration coordinator. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "402",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theoretical and applied limnology; ecology of inland water organisms in relation to physical, chemical and biological factors. One weekend field trip required.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

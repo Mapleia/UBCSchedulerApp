@@ -1,1 +1,44 @@
-{"course_name":"MEDG 530","subject_code":"MEDG","course_number":"530","course_title":"Human Genetics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=530&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MEDG 530 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=530&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Tue Thu","start":"8:30","end":"10:30","comments":"Classes are held at BC Children's  and  Women's Hospital.MEDG 530 is blocked to student registration. Non-Medical Genetics students interested in taking MEDG 530 must obtain permission from the course coordinator, Dr. William Gibson.","subject_code":"MEDG","course_number":"530","section_number":"001","building":" ","room":"","instructors":["GIBSON, WILLIAM"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Human Mendelian and non-Mendelian inheritance and clinical applications of genetics."}
+{
+  "course_name": "MEDG 530",
+  "subject_code": "MEDG",
+  "course_number": "530",
+  "course_title": "Human Genetics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=530&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 530 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=530&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:30",
+      "end": "10:30",
+      "comments": "Course offered on-line only in 2020W.MEDG 530 is blocked to student registration. Non-Medical Genetics students interested in taking MEDG 530 must obtain permission from the course coordinator, Dr. William Gibson.",
+      "subject_code": "MEDG",
+      "course_number": "530",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIBSON, WILLIAM"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "21",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Human Mendelian and non-Mendelian inheritance and clinical applications of genetics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Seminar"
+  ]
+}

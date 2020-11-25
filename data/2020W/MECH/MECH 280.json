@@ -1,1 +1,102 @@
-{"course_name":"MECH 280","subject_code":"MECH","course_number":"280","course_title":"Introduction to Fluid Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=280&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MECH 280 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"For students who have taken PHYS 157, 158, and 159 (instead of PHYS 153), please email students@mech.ubc.ca for registration assistance. Should there be no available seats, you will be added to a waitlist for the course.MINING Year 2 students MUST take EITHER CIVL 215 or MECH 280.  Please remember to register for the accompanying tutorial section.","subject_code":"MECH","course_number":"280","section_number":"201","building":"UBC Life Building","room":"2302","instructors":["GREEN, SHELDON"],"totalRemaining":"31","currentlyRegistered":"77","generalRemaining":"0","restrictedRemaining":"31"},"T2A":{"status":"Restricted","section":"MECH 280 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon Fri","start":"11:00","end":"12:00","comments":"","subject_code":"MECH","course_number":"280","section_number":"T2A","building":"UBC Life Building","room":"2302","instructors":["GREEN, SHELDON"],"totalRemaining":"33","currentlyRegistered":"75","generalRemaining":"0","restrictedRemaining":"33"},"WL2":{"status":" ","section":"MECH 280 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"MECH","course_number":"280","section_number":"WL2","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps."}
+{
+  "course_name": "MECH 280",
+  "subject_code": "MECH",
+  "course_number": "280",
+  "course_title": "Introduction to Fluid Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 280 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "For students who have taken PHYS 157, 158, and 159 (instead of PHYS 153), please email students@mech.ubc.ca for registration assistance. Should there be no available seats, you will be added to a waitlist for the course.MINING Year 2 students MUST take EITHER CIVL 215 or MECH 280.  Please remember to register for the accompanying tutorial section.",
+      "subject_code": "MECH",
+      "course_number": "280",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREEN, SHELDON"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "75",
+      "generalRemaining": "0",
+      "restrictedRemaining": "31"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 280 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "280",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GREEN, SHELDON"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "73",
+      "generalRemaining": "0",
+      "restrictedRemaining": "33"
+    },
+    {
+      "status": " ",
+      "section": "MECH 280 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=280&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "280",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

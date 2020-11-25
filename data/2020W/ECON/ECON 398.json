@@ -1,1 +1,97 @@
-{"course_name":"ECON 398","subject_code":"ECON","course_number":"398","course_title":"Introduction to Applied Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=398&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 398 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"Registration in discussion groups is mandatory.","subject_code":"ECON","course_number":"398","section_number":"001","building":" ","room":"","instructors":["GRAVES, JONATHAN"],"totalRemaining":"58","currentlyRegistered":"32","generalRemaining":"58","restrictedRemaining":"0"},"L01":{"status":" ","section":"ECON 398 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"17:30","end":"19:30","comments":"","subject_code":"ECON","course_number":"398","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"28","currentlyRegistered":"22","generalRemaining":"28","restrictedRemaining":"0"},"L02":{"status":" ","section":"ECON 398 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"17:30","end":"19:30","comments":"","subject_code":"ECON","course_number":"398","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"10","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theory and practice of the analytical application of economics. Causality, empirical analysis, and the application of theoretical models through engagement in applied work."}
+{
+  "course_name": "ECON 398",
+  "subject_code": "ECON",
+  "course_number": "398",
+  "course_title": "Introduction to Applied Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 398 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "Registration in discussion groups is mandatory.",
+      "subject_code": "ECON",
+      "course_number": "398",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAVES, JONATHAN"
+      ],
+      "totalRemaining": "59",
+      "currentlyRegistered": "31",
+      "generalRemaining": "59",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 398 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "398",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "22",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ECON 398 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=398&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "398",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "41",
+      "currentlyRegistered": "9",
+      "generalRemaining": "41",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory and practice of the analytical application of economics. Causality, empirical analysis, and the application of theoretical models through engagement in applied work.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

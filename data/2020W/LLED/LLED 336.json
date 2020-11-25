@@ -1,1 +1,70 @@
-{"course_name":"LLED 336","subject_code":"LLED","course_number":"336","course_title":"Communication: Voice, Audience, Message","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=336&sessyr=2020&sesscd=W","sections":{"177":{"status":"STT","section":"LLED 336 177","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=336&section=177&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"13:00","end":"16:00","comments":"","subject_code":"LLED","course_number":"336","section_number":"177","building":" ","room":"","instructors":["POINT, MARNY"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"624":{"status":"STT","section":"LLED 336 624","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=336&section=624&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LLED","course_number":"336","section_number":"624","building":"No Scheduled Meeting","room":"","instructors":["POINT, MARNY"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Knowledge and development of skills necessary to create a transactional style of teaching."}
+{
+  "course_name": "LLED 336",
+  "subject_code": "LLED",
+  "course_number": "336",
+  "course_title": "Communication: Voice, Audience, Message",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=336&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "LLED 336 177",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=336&section=177&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "336",
+      "section_number": "177",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POINT, MARNY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 336 624",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=336&section=624&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "336",
+      "section_number": "624",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "POINT, MARNY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Knowledge and development of skills necessary to create a transactional style of teaching.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

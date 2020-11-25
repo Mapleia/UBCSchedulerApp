@@ -1,1 +1,43 @@
-{"course_name":"SOCI 364","subject_code":"SOCI","course_number":"364","course_title":"Built Environments","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=364&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SOCI 364 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=364&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"10:00","end":"13:00","comments":"","subject_code":"SOCI","course_number":"364","section_number":"201","building":"Anthropology and Sociology","room":"207","instructors":["LAUSTER, NATHANAEL"],"totalRemaining":"28","currentlyRegistered":"52","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Physical, social, and economic aspects of built environments, including housing and community planning."}
+{
+  "course_name": "SOCI 364",
+  "subject_code": "SOCI",
+  "course_number": "364",
+  "course_title": "Built Environments",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=364&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 364 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=364&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "364",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAUSTER, NATHANAEL"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "54",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Physical, social, and economic aspects of built environments, including housing and community planning.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

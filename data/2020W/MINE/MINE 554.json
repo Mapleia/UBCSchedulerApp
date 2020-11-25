@@ -1,1 +1,43 @@
-{"course_name":"MINE 554","subject_code":"MINE","course_number":"554","course_title":"Mine Economics and Finance","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=554&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MINE 554 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=554&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"17:00","end":"20:00","comments":"","subject_code":"MINE","course_number":"554","section_number":"201","building":"Chemical and Biological Engineering Building","room":"102","instructors":["LOPES DA COSTA, JOSE"],"totalRemaining":"32","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"32"}},"credits":"Credits: 3","description":"Mine valuation using discounted cash flow analysis and option pricing methods. Sources of mine finance and requirements. Sensitivity and risk assessment. Introduction to metals marketing, hedging and risk management."}
+{
+  "course_name": "MINE 554",
+  "subject_code": "MINE",
+  "course_number": "554",
+  "course_title": "Mine Economics and Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=554&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MINE 554 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=554&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "cross-listed with MINE 406",
+      "subject_code": "MINE",
+      "course_number": "554",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOPES DA COSTA, JOSE"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    }
+  ],
+  "credits": 3,
+  "description": "Mine valuation using discounted cash flow analysis and option pricing methods. Sources of mine finance and requirements. Sensitivity and risk assessment. Introduction to metals marketing, hedging and risk management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

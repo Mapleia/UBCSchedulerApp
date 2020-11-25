@@ -1,1 +1,43 @@
-{"course_name":"HIST 373","subject_code":"HIST","course_number":"373","course_title":"History of Hong Kong ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=373&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"HIST 373 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=373&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"15:30","end":"18:30","comments":"Cross-listed with ASIA 373. In 2020W, students should register in HIST 373.","subject_code":"HIST","course_number":"373","section_number":"201","building":"Henry Angus","room":"037","instructors":["SHIN, LEO"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"History, culture, and identities of Hong Kong from the early 1800s to the present."}
+{
+  "course_name": "HIST 373",
+  "subject_code": "HIST",
+  "course_number": "373",
+  "course_title": "History of Hong Kong ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 373 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=373&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:30",
+      "end": "18:30",
+      "comments": "Cross-listed with ASIA 373. In 2020W, students should register in HIST 373. Students can expect a variety of formats which may include a combination of online meetings and outside of class readings, recorded lecturers, and/or assignments, in various proportions. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. One or more of these times may be dropped or reduced and replaced with asynchronous learning tasks. HIST 373 will involve both synchronous and asynchronous learning. Students will be expected to meet synchronously for at least 80 minutes each week. Information on the final format will be sent to registered students via email before the start of Term 2.",
+      "subject_code": "HIST",
+      "course_number": "373",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHIN, LEO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "History, culture, and identities of Hong Kong from the early 1800s to the present.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

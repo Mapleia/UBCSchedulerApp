@@ -1,1 +1,43 @@
-{"course_name":"DENT 783","subject_code":"DENT","course_number":"783","course_title":"Hospital Clinical Pediatrics I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=783&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 783 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=783&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"783","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["RICHMAN, JOY MARION"],"totalRemaining":"20","currentlyRegistered":"2","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "DENT 783",
+  "subject_code": "DENT",
+  "course_number": "783",
+  "course_title": "Hospital Clinical Pediatrics I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=783&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 783 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=783&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "783",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RICHMAN, JOY MARION"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "2",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

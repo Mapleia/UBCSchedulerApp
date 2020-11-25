@@ -1,1 +1,43 @@
-{"course_name":"CNRS 449","subject_code":"CNRS","course_number":"449","course_title":"Honours Essay","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNRS&course=449&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"CNRS 449 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNRS&course=449&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Declared honours students must contact cners.advising@ubc.ca to be registered in this course.","subject_code":"CNRS","course_number":"449","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"7","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "CNRS 449",
+  "subject_code": "CNRS",
+  "course_number": "449",
+  "course_title": "Honours Essay",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNRS&course=449&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CNRS 449 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNRS&course=449&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Declared honours students must contact cners.advising@ubc.ca to be registered in this course.",
+      "subject_code": "CNRS",
+      "course_number": "449",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

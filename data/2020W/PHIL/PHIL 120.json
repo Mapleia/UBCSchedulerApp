@@ -1,1 +1,154 @@
-{"course_name":"PHIL 120","subject_code":"PHIL","course_number":"120","course_title":"Introduction to Critical Thinking","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=120&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 120 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.COVID-19 notice: This course is designed to accommodate students who might not be physically situated in Vancouver. All activities are online, including the remotely proctored final exam.","subject_code":"PHIL","course_number":"120","section_number":"001","building":" ","room":"","instructors":["KOROLEV, ALEXANDRE"],"totalRemaining":"12","currentlyRegistered":"138","generalRemaining":"12","restrictedRemaining":"0"},"002":{"status":"Full","section":"PHIL 120 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.","subject_code":"PHIL","course_number":"120","section_number":"002","building":"Chemical and Biological Engineering Building","room":"101","instructors":["KOROLEV, ALEXANDRE"],"totalRemaining":"0","currentlyRegistered":"150","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":" ","section":"PHIL 120 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PHIL","course_number":"120","section_number":"003","building":" ","room":"","instructors":["BURKHOLDER, LESLIE"],"totalRemaining":"2","currentlyRegistered":"273","generalRemaining":"2","restrictedRemaining":"0"},"99A":{"status":"Full","section":"PHIL 120 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.COVID-19 notice: This course is designed to accommodate students who might not be physically situated in Vancouver. All activities are online, including the remotely proctored final exam.","subject_code":"PHIL","course_number":"120","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["KOROLEV, ALEXANDRE"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"99C":{"status":"Full","section":"PHIL 120 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.","subject_code":"PHIL","course_number":"120","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["KOROLEV, ALEXANDRE"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Tools for dealing with both everyday and more technical arguments and concepts. Analysis and resolution of confusions, ambiguities, and fallacies. This course is restricted to students with fewer than 90 credits."}
+{
+  "course_name": "PHIL 120",
+  "subject_code": "PHIL",
+  "course_number": "120",
+  "course_title": "Introduction to Critical Thinking",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=120&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 120 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.COVID-19 notice: This course is designed to accommodate students who might not be physically situated in Vancouver. All activities are online, including the remotely proctored final exam.",
+      "subject_code": "PHIL",
+      "course_number": "120",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOROLEV, ALEXANDRE"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "138",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 120 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.",
+      "subject_code": "PHIL",
+      "course_number": "120",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOROLEV, ALEXANDRE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "150",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 120 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "120",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURKHOLDER, LESLIE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "273",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 120 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.COVID-19 notice: This course is designed to accommodate students who might not be physically situated in Vancouver. All activities are online, including the remotely proctored final exam.",
+      "subject_code": "PHIL",
+      "course_number": "120",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KOROLEV, ALEXANDRE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 120 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=120&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "A basic introduction to logic and critical reasoning. Topics covered include the analysis of arguments and resolution of ambiguities; the study of fallacies; deductive validity and inductive strength of arguments; elementary classical propositional logic (syntax, semantics, proof theory); Aristotelian/Term logic; intro to non-classical logics (relevance, modal, many-valued logics), scientific reasoning, and issues in the philosophy of logic. Please note: this course is not recommended for students with more than 90 credits.",
+      "subject_code": "PHIL",
+      "course_number": "120",
+      "section_number": "99C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOROLEV, ALEXANDRE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Tools for dealing with both everyday and more technical arguments and concepts. Analysis and resolution of confusions, ambiguities, and fallacies. This course is restricted to students with fewer than 90 credits.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Distance Education"
+  ]
+}

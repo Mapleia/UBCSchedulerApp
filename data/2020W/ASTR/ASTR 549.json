@@ -1,1 +1,97 @@
-{"course_name":"ASTR 549","subject_code":"ASTR","course_number":"549","course_title":"M.Sc. Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=549&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ASTR 549 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTR","course_number":"549","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"201":{"status":" ","section":"ASTR 549 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTR","course_number":"549","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"001":{"status":" ","section":"ASTR 549 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTR","course_number":"549","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 18","description":" "}
+{
+  "course_name": "ASTR 549",
+  "subject_code": "ASTR",
+  "course_number": "549",
+  "course_title": "M.Sc. Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=549&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 549 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "549",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 549 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "549",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 549 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=549&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "549",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 8,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

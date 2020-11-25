@@ -1,1 +1,124 @@
-{"course_name":"CPEN 499A","subject_code":"CPEN","course_number":"499A","course_title":"Undergraduate Thesis - UNDERGRAD THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=499A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"CPEN 499A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"http://ece.ubc.ca/course/cpen/elec-499","subject_code":"CPEN","course_number":"499A","section_number":"101","building":" ","room":"","instructors":["RUBIN, JULIA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"CPEN 499A 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"http://ece.ubc.ca/course/cpen/elec-499","subject_code":"CPEN","course_number":"499A","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CPEN 499A 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"http://ece.ubc.ca/course/cpen/elec-499","subject_code":"CPEN","course_number":"499A","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPEN 499A 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"http://ece.ubc.ca/course/cpen/elec-499","subject_code":"CPEN","course_number":"499A","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Project in electrical engineering or computer engineering involving design, experimental and/or computer simulation work as selected from topics supplied by faculty members. An individual project thesis is to be prepared according to specifications available from the departmental office."}
+{
+  "course_name": "CPEN 499A",
+  "subject_code": "CPEN",
+  "course_number": "499A",
+  "course_title": "Undergraduate Thesis - UNDERGRAD THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=499A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CPEN 499A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RUBIN, JULIA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPEN 499A 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499A",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 499A 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499A",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 499A 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=499A&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "http://ece.ubc.ca/course/cpen/elec-499",
+      "subject_code": "CPEN",
+      "course_number": "499A",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Project in electrical engineering or computer engineering involving design, experimental and/or computer simulation work as selected from topics supplied by faculty members. An individual project thesis is to be prepared according to specifications available from the departmental office.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Thesis",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,130 @@
-{"course_name":"SPAN 301","subject_code":"SPAN","course_number":"301","course_title":"Intermediate Spanish I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=301&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"SPAN 301 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Advanced grammar structures in context, lexical repertoire, fluency and cultural awareness to broaden and develop language skills. Full description: https://fhis.ubc.ca/course-description/span301/","subject_code":"SPAN","course_number":"301","section_number":"101","building":" ","room":"","instructors":["CARBONETTI, MARIA","SALGADO-LEOS, LORENIA"],"totalRemaining":"6","currentlyRegistered":"39","generalRemaining":"6","restrictedRemaining":"0"},"102":{"status":" ","section":"SPAN 301 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Advanced Spanish I.SPAN 301: Advanced Spanish I, es un curso para estudiantes intermedios en el que se profundizan las habilidades ling??icas hacia un nivel intermedio avanzado. Es la continuaci?e SPAN 202, SPAN 207 o para estudiantes de un nivel equivalente con permiso del instructor.  SPAN 301: Advanced Spanish I tambi?puede cursarse concurrentemente con SPAN 206.El objetivo del curso es que los estudiantes ampl? y profundicen sus habilidades comunicativas,  (oralidad, escritura y audici?as?omo tambi?la reflexi?ing??ica trav?del estudio de la gram?ca en contexto.  El curso enfatiza el reconocimiento de la diversidad social y cultural del mundo hispano a partir de la exposici?e los estudiantes a la lectura de textos literarios y no literarios,  el arte y expresiones audiovisuales.El curso incluye lecturas, an?sis de textos, composiciones originales, ejercicios gramaticales y de contraste ingl?espa? discusiones y debates en los que los estudiantes deber?demostrar no solamente su progreso ling??ico sino tambi?su capacidad de reflexi?r?ca.Las clases son conducidas primariamente en espa?y los estudiantes deben usar la lengua espa? en sus intervenciones, y trabajos escritos.El curso incluye oportunidades de voluntariado en projectos comunitarios relacionados con la comunidad hispana.La asistencia, preparaci? participaci?ctiva son req","subject_code":"SPAN","course_number":"301","section_number":"102","building":" ","room":"","instructors":["CARBONETTI, MARIA","SALGADO-LEOS, LORENIA"],"totalRemaining":"11","currentlyRegistered":"34","generalRemaining":"11","restrictedRemaining":"0"},"103":{"status":" ","section":"SPAN 301 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Advanced Spanish I.SPAN 301: Advanced Spanish I, es un curso para estudiantes intermedios en el que se profundizan las habilidades ling??icas hacia un nivel intermedio avanzado. Es la continuaci?e SPAN 202, SPAN 207 o para estudiantes de un nivel equivalente con permiso del instructor.  SPAN 301: Advanced Spanish I tambi?puede cursarse concurrentemente con SPAN 206.El objetivo del curso es que los estudiantes ampl? y profundicen sus habilidades comunicativas,  (oralidad, escritura y audici?as?omo tambi?la reflexi?ing??ica trav?del estudio de la gram?ca en contexto.  El curso enfatiza el reconocimiento de la diversidad social y cultural del mundo hispano a partir de la exposici?e los estudiantes a la lectura de textos literarios y no literarios,  el arte y expresiones audiovisuales.El curso incluye lecturas, an?sis de textos, composiciones originales, ejercicios gramaticales y de contraste ingl?espa? discusiones y debates en los que los estudiantes deber?demostrar no solamente su progreso ling??ico sino tambi?su capacidad de reflexi?r?ca.Las clases son conducidas primariamente en espa?y los estudiantes deben usar la lengua espa? en sus intervenciones, y trabajos escritos.El curso incluye oportunidades de voluntariado en projectos comunitarios relacionados con la comunidad hispana.La asistencia, preparaci? participaci?ctiva son req","subject_code":"SPAN","course_number":"301","section_number":"103","building":" ","room":"","instructors":["ESCUER RIERA, IRIS"],"totalRemaining":"8","currentlyRegistered":"27","generalRemaining":"8","restrictedRemaining":"0"},"W01":{"status":" ","section":"SPAN 301 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"SPAN 301 W01 is a general waitlist for all SPAN 301 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"SPAN","course_number":"301","section_number":"W01","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives."}
+{
+  "course_name": "SPAN 301",
+  "subject_code": "SPAN",
+  "course_number": "301",
+  "course_title": "Intermediate Spanish I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 301 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Advanced grammar structures in context, lexical repertoire, fluency and cultural awareness to broaden and develop language skills. Full description: https://fhis.ubc.ca/course-description/span301/",
+      "subject_code": "SPAN",
+      "course_number": "301",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARBONETTI, MARIA",
+        "SALGADO-LEOS, LORENIA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "39",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 301 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Advanced Spanish I.SPAN 301: Advanced Spanish I, es un curso para estudiantes intermedios en el que se profundizan las habilidades ling??icas hacia un nivel intermedio avanzado. Es la continuaci?e SPAN 202, SPAN 207 o para estudiantes de un nivel equivalente con permiso del instructor.  SPAN 301: Advanced Spanish I tambi?puede cursarse concurrentemente con SPAN 206.El objetivo del curso es que los estudiantes ampl? y profundicen sus habilidades comunicativas,  (oralidad, escritura y audici?as?omo tambi?la reflexi?ing??ica trav?del estudio de la gram?ca en contexto.  El curso enfatiza el reconocimiento de la diversidad social y cultural del mundo hispano a partir de la exposici?e los estudiantes a la lectura de textos literarios y no literarios,  el arte y expresiones audiovisuales.El curso incluye lecturas, an?sis de textos, composiciones originales, ejercicios gramaticales y de contraste ingl?espa? discusiones y debates en los que los estudiantes deber?demostrar no solamente su progreso ling??ico sino tambi?su capacidad de reflexi?r?ca.Las clases son conducidas primariamente en espa?y los estudiantes deben usar la lengua espa? en sus intervenciones, y trabajos escritos.El curso incluye oportunidades de voluntariado en projectos comunitarios relacionados con la comunidad hispana.La asistencia, preparaci? participaci?ctiva son req",
+      "subject_code": "SPAN",
+      "course_number": "301",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARBONETTI, MARIA",
+        "SALGADO-LEOS, LORENIA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "34",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 301 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Advanced Spanish I.SPAN 301: Advanced Spanish I, es un curso para estudiantes intermedios en el que se profundizan las habilidades ling??icas hacia un nivel intermedio avanzado. Es la continuaci?e SPAN 202, SPAN 207 o para estudiantes de un nivel equivalente con permiso del instructor.  SPAN 301: Advanced Spanish I tambi?puede cursarse concurrentemente con SPAN 206.El objetivo del curso es que los estudiantes ampl? y profundicen sus habilidades comunicativas,  (oralidad, escritura y audici?as?omo tambi?la reflexi?ing??ica trav?del estudio de la gram?ca en contexto.  El curso enfatiza el reconocimiento de la diversidad social y cultural del mundo hispano a partir de la exposici?e los estudiantes a la lectura de textos literarios y no literarios,  el arte y expresiones audiovisuales.El curso incluye lecturas, an?sis de textos, composiciones originales, ejercicios gramaticales y de contraste ingl?espa? discusiones y debates en los que los estudiantes deber?demostrar no solamente su progreso ling??ico sino tambi?su capacidad de reflexi?r?ca.Las clases son conducidas primariamente en espa?y los estudiantes deben usar la lengua espa? en sus intervenciones, y trabajos escritos.El curso incluye oportunidades de voluntariado en projectos comunitarios relacionados con la comunidad hispana.La asistencia, preparaci? participaci?ctiva son req",
+      "subject_code": "SPAN",
+      "course_number": "301",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ESCUER RIERA, IRIS"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "25",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 301 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=301&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPAN 301 W01 is a general waitlist for all SPAN 301 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "SPAN",
+      "course_number": "301",
+      "section_number": "W01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

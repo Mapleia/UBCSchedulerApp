@@ -1,1 +1,106 @@
-{"course_name":"BMEG 597","subject_code":"BMEG","course_number":"597","course_title":"Master of Engineering Project","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=597&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BMEG 597 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=101&sessyr=2020&sesscd=W","activity":"Project","term":"1","interval":"","days":" ","start":"","end":"","comments":"Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration","subject_code":"BMEG","course_number":"597","section_number":"101","building":"","room":"","instructors":["0","4","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"201":{"status":"Blocked","section":"BMEG 597 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=201&sessyr=2020&sesscd=W","activity":"Project","term":"2","interval":"","days":" ","start":"","end":"","comments":"Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration.","subject_code":"BMEG","course_number":"597","section_number":"201","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"001":{"status":"Blocked","section":"BMEG 597 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=001&sessyr=2020&sesscd=W","activity":"Project","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration","subject_code":"BMEG","course_number":"597","section_number":"001","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Supervised industrial, clinical, or research project for students registered in Biomedical Engineering program."}
+{
+  "course_name": "BMEG 597",
+  "subject_code": "BMEG",
+  "course_number": "597",
+  "course_title": "Master of Engineering Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=597&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BMEG 597 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=101&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration",
+      "subject_code": "BMEG",
+      "course_number": "597",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "4",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "BMEG 597 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=201&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration.",
+      "subject_code": "BMEG",
+      "course_number": "597",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "BMEG 597 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=597&section=001&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Registration in this course is restricted. Please contact students@bme.ubc.ca to inquire about registration",
+      "subject_code": "BMEG",
+      "course_number": "597",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Supervised industrial, clinical, or research project for students registered in Biomedical Engineering program.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

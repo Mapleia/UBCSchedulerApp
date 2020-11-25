@@ -1,1 +1,43 @@
-{"course_name":"FIPR 536B","subject_code":"FIPR","course_number":"536B","course_title":"Advanced Documentary Development and Production - ADV DOC DEV&PROD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=536B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIPR 536B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=536B&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"This course is only open to students enrolled in UBC's MFA in Film Production program. Graduate students enrolled in other programs may consult the instructor and request permission to take the course.","subject_code":"FIPR","course_number":"536B","section_number":"001","building":"Buchanan","room":"B202","instructors":["WALSH, SHANNON"],"totalRemaining":"1","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FIPR 536B",
+  "subject_code": "FIPR",
+  "course_number": "536B",
+  "course_title": "Advanced Documentary Development and Production - ADV DOC DEV&PROD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=536B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 536B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=536B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This course is only open to students enrolled in UBC's MFA in Film Production program. Graduate students enrolled in other programs may consult the instructor and request permission to take the course.Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIPR",
+      "course_number": "536B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALSH, SHANNON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

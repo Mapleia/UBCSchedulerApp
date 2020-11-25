@@ -1,1 +1,43 @@
-{"course_name":"EDST 528","subject_code":"EDST","course_number":"528","course_title":"Social Movements, Political Learning and Popular Education","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=528&sessyr=2020&sesscd=W","sections":{"022":{"status":"Full","section":"EDST 528 022","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=528&section=022&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"","subject_code":"EDST","course_number":"528","section_number":"022","building":"Ponderosa Commons North - Oak/Cedar House","room":"1009","instructors":["PALACIOS, CAROLINA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 528",
+  "subject_code": "EDST",
+  "course_number": "528",
+  "course_title": "Social Movements, Political Learning and Popular Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=528&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDST 528 022",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=528&section=022&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "528",
+      "section_number": "022",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PALACIOS, CAROLINA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

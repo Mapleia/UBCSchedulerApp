@@ -1,1 +1,44 @@
-{"course_name":"CHEM 528","subject_code":"CHEM","course_number":"528","course_title":"Nanomaterials Characterization","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=528&sessyr=2020&sesscd=W","sections":{"299":{"status":" ","section":"CHEM 528 299","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=528&section=299&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHEM","course_number":"528","section_number":"299","building":"Chemistry","room":"D215","instructors":["WOLF, MICHAEL"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CHEM 528",
+  "subject_code": "CHEM",
+  "course_number": "528",
+  "course_title": "Nanomaterials Characterization",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=528&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 528 299",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=528&section=299&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "528",
+      "section_number": "299",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOLF, MICHAEL"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,46 @@
-{"course_name":"INLB 452","subject_code":"INLB","course_number":"452","course_title":"Gender Justice and Indigenous Resurgence","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=452&sessyr=2020&sesscd=W","sections":{"005":{"status":"Blocked","section":"INLB 452 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=452&section=005&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" Fri","start":"12:00","end":"15:00","comments":"This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.","subject_code":"INLB","course_number":"452","section_number":"005","building":" ","room":"","instructors":["4","6","4","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"The theory and politics of gender and sexuality from Indigenous perspectives. Emphasis on decolonial and intersectional Indigenous feminisms and queer/two-spirit theory. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). Students are eligible for Pass/Fail or percentage grading."}
+{
+  "course_name": "INLB 452",
+  "subject_code": "INLB",
+  "course_number": "452",
+  "course_title": "Gender Justice and Indigenous Resurgence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "INLB 452 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=452&section=005&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.",
+      "subject_code": "INLB",
+      "course_number": "452",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "4",
+        "6",
+        "4",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "The theory and politics of gender and sexuality from Indigenous perspectives. Emphasis on decolonial and intersectional Indigenous feminisms and queer/two-spirit theory. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). Students are eligible for Pass/Fail or percentage grading.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

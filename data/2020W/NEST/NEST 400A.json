@@ -1,1 +1,43 @@
-{"course_name":"NEST 400A","subject_code":"NEST","course_number":"400A","course_title":"Materials and Technologies of the Ancient Near East and Egypt - MTRLS & TECHNOLG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NEST&course=400A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"NEST 400A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NEST&course=400A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Interconnections in the Late Bronze Age Eastern Mediterranean. Cross-listed with Clst 403B, NEST 500D. Majors and Honours seminar for students in Classical, Near Eastern and Religious Studies. Students wishing to count this towards their Arts research requirement should email cners.advising@ubc.ca. Visit cnrs.ubc.ca for full course description.Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.WAITLIST: if this course is full or blocked, or if you do not meet the restrictions, please register in CLST 403B-WL1, which is for the same course. Students specializing in CNRS will receive priority registration from the waitlist.","subject_code":"NEST","course_number":"400A","section_number":"001","building":" ","room":"","instructors":["FISHER, KEVIN"],"totalRemaining":"1","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"The natural resources and production technologies of the ancient Near East and Egypt."}
+{
+  "course_name": "NEST 400A",
+  "subject_code": "NEST",
+  "course_number": "400A",
+  "course_title": "Materials and Technologies of the Ancient Near East and Egypt - MTRLS & TECHNOLG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NEST&course=400A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NEST 400A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NEST&course=400A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Interconnections in the Late Bronze Age Eastern Mediterranean. Cross-listed with Clst 403B, NEST 500D. Majors and Honours seminar for students in Classical, Near Eastern and Religious Studies. Students wishing to count this towards their Arts research requirement should email cners.advising@ubc.ca. Visit cnrs.ubc.ca for full course description.Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.WAITLIST: if this course is full or blocked, or if you do not meet the restrictions, please register in CLST 403B-WL1, which is for the same course. Students specializing in CNRS will receive priority registration from the waitlist.",
+      "subject_code": "NEST",
+      "course_number": "400A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FISHER, KEVIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "The natural resources and production technologies of the ancient Near East and Egypt.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

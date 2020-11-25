@@ -1,1 +1,220 @@
-{"course_name":"COMM 354","subject_code":"COMM","course_number":"354","course_title":"Cost Accounting","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=354&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"COMM 354 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"","subject_code":"COMM","course_number":"354","section_number":"101","building":" ","room":"","instructors":["KROEKER, JEFF"],"totalRemaining":"2","currentlyRegistered":"37","generalRemaining":"1","restrictedRemaining":"1"},"102":{"status":"Full","section":"COMM 354 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"354","section_number":"102","building":" ","room":"","instructors":["KROEKER, JEFF"],"totalRemaining":"0","currentlyRegistered":"38","generalRemaining":"0","restrictedRemaining":"0"},"103":{"status":"Restricted","section":"COMM 354 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"17:30","end":"19:00","comments":"This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"354","section_number":"103","building":" ","room":"","instructors":["KROEKER, JEFF"],"totalRemaining":"1","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"1"},"104":{"status":"Restricted","section":"COMM 354 104","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=104&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"16:00","end":"17:30","comments":"","subject_code":"COMM","course_number":"354","section_number":"104","building":" ","room":"","instructors":["KROEKER, JEFF"],"totalRemaining":"3","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"3"},"201":{"status":" ","section":"COMM 354 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"","subject_code":"COMM","course_number":"354","section_number":"201","building":" ","room":"","instructors":["8","25","8","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"202":{"status":"Restricted","section":"COMM 354 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"354","section_number":"202","building":" ","room":"","instructors":["3","35","0","3","","in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACIB,OPT ACCT,OPT ACCO,OPT AINB\n\n"],"totalRemaining":"in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACIB,OPT ACCT,OPT ACCO,OPT AINB\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"203":{"status":" ","section":"COMM 354 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=203&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"354","section_number":"203","building":" ","room":"","instructors":["9","27","1","8","","in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACCT,OPT ACIB,OPT ACCO,OPT AINB\n\n"],"totalRemaining":"in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACCT,OPT ACIB,OPT ACCO,OPT AINB\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance. The utilization of statistical analysis and linear models is included."}
+{
+  "course_name": "COMM 354",
+  "subject_code": "COMM",
+  "course_number": "354",
+  "course_title": "Cost Accounting",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=354&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 354 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KROEKER, JEFF"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "37",
+      "generalRemaining": "1",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 354 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KROEKER, JEFF"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 354 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KROEKER, JEFF"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "COMM 354 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KROEKER, JEFF"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 354 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "8",
+        "25",
+        "8",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 354 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "3",
+        "35",
+        "0",
+        "3",
+        "",
+        "in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACIB,OPT ACCT,OPT ACCO,OPT AINB\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACIB,OPT ACCT,OPT ACCO,OPT AINB\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 354 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=354&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "354",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "10",
+        "26",
+        "2",
+        "8",
+        "",
+        "in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACCT,OPT ACIB,OPT ACCO,OPT AINB\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BCOM\nin year: =3\nwith one of these specializations: OPT ACCT,OPT ACIB,OPT ACCO,OPT AINB\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance. The utilization of statistical analysis and linear models is included.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

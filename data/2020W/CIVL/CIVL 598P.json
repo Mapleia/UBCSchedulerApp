@@ -1,1 +1,44 @@
-{"course_name":"CIVL 598P","subject_code":"CIVL","course_number":"598P","course_title":"Topics in Civil Engineering - PEDESTRN&BICYCLE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=598P&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"CIVL 598P 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=598P&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"14:00","end":"15:30","comments":"","subject_code":"CIVL","course_number":"598P","section_number":"101","building":" ","room":"","instructors":["BIGAZZI, ALEXANDER YORK"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Seminar or lecture."}
+{
+  "course_name": "CIVL 598P",
+  "subject_code": "CIVL",
+  "course_number": "598P",
+  "course_title": "Topics in Civil Engineering - PEDESTRN&BICYCLE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=598P&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 598P 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=598P&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "598P",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIGAZZI, ALEXANDER YORK"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Seminar or lecture.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

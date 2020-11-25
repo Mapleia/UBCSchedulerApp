@@ -1,1 +1,72 @@
-{"course_name":"CPSC 430","subject_code":"CPSC","course_number":"430","course_title":"Computers and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=430&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 430 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=430&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"CPSC","course_number":"430","section_number":"201","building":"Pharmaceutical Sciences Building","room":"1201","instructors":["LEYTON-BROWN, KEVIN"],"totalRemaining":"0","currentlyRegistered":"162","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 430 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=430&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"CPSC","course_number":"430","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"928","currentlyRegistered":"71","generalRemaining":"928","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine."}
+{
+  "course_name": "CPSC 430",
+  "subject_code": "CPSC",
+  "course_number": "430",
+  "course_title": "Computers and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 430 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=430&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "430",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEYTON-BROWN, KEVIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "159",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 430 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=430&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "430",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "919",
+      "currentlyRegistered": "80",
+      "generalRemaining": "919",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

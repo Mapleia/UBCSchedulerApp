@@ -1,1 +1,43 @@
-{"course_name":"LIBE 580B","subject_code":"LIBE","course_number":"580B","course_title":"Problems in Education - PROB IN EDUC 2","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LIBE&course=580B&sessyr=2020&sesscd=W","sections":{"062":{"status":"Blocked","section":"LIBE 580B 062","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=580B&section=062&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LIBE","course_number":"580B","section_number":"062","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Investigation and report of a problem."}
+{
+  "course_name": "LIBE 580B",
+  "subject_code": "LIBE",
+  "course_number": "580B",
+  "course_title": "Problems in Education - PROB IN EDUC 2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LIBE&course=580B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LIBE 580B 062",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=580B&section=062&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LIBE",
+      "course_number": "580B",
+      "section_number": "062",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation and report of a problem.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

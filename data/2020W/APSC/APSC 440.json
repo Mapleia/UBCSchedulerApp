@@ -1,1 +1,45 @@
-{"course_name":"APSC 440","subject_code":"APSC","course_number":"440","course_title":"Management Fundamentals for Technology-Based Product Marketing and Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=440&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"APSC 440 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=440&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Please be advised that the days/time for this course may change later in the year.  The instructor of the course will accommodate the scheduling of the majority of students registered in the course.","subject_code":"APSC","course_number":"440","section_number":"201","building":"MacMillan","room":"160","instructors":["BASTO DA SILVA, RUI JORGE"],"totalRemaining":"3","currentlyRegistered":"47","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Management topics are presented from the perspective of technology-based industrial practice; project management, marketing and marketing planning, product development and commercialization, introduction to quality management, teamwork and effective individual participation."}
+{
+  "course_name": "APSC 440",
+  "subject_code": "APSC",
+  "course_number": "440",
+  "course_title": "Management Fundamentals for Technology-Based Product Marketing and Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APSC&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APSC 440 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APSC&course=440&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Please be advised that the days/time for this course may change later in the year.  The instructor of the course will accommodate the scheduling of the majority of students registered in the course.",
+      "subject_code": "APSC",
+      "course_number": "440",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASTO DA SILVA, RUI JORGE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Management topics are presented from the perspective of technology-based industrial practice; project management, marketing and marketing planning, product development and commercialization, introduction to quality management, teamwork and effective individual participation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

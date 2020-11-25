@@ -1,1 +1,43 @@
-{"course_name":"THTR 491B","subject_code":"THTR","course_number":"491B","course_title":"Advanced Rehearsal and Performance - AD REHEARS&PERF","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=491B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 491B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=491B&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"2","interval":"","days":" Sat","start":" ","end":" ","comments":"This course is restricted to students registered in UBC's BFA Acting Program.Assigned projects in performance","subject_code":"THTR","course_number":"491B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Open only to B.F.A. Acting students."}
+{
+  "course_name": "THTR 491B",
+  "subject_code": "THTR",
+  "course_number": "491B",
+  "course_title": "Advanced Rehearsal and Performance - AD REHEARS&PERF",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=491B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 491B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=491B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to students registered in UBC's BFA Acting Program.Assigned projects in performance",
+      "subject_code": "THTR",
+      "course_number": "491B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Open only to B.F.A. Acting students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

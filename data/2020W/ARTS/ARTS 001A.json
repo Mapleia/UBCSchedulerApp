@@ -1,1 +1,182 @@
-{"course_name":"ARTS 001A","subject_code":"ARTS","course_number":"001A","course_title":"Arts One - APPEAR + REALITY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTS&course=001A&sessyr=2020&sesscd=W","sections":{"00A":{"status":" ","section":"ARTS 001A 00A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=00A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"10:00","end":"12:00","comments":"Please visit  www.artsone.arts.ubc.ca  for details.  If, when the lecture is full, you would like to be placed on a waitlist for this course email: arts.fyp@ubc.ca","subject_code":"ARTS","course_number":"001A","section_number":"00A","building":" ","room":"","instructors":["BURGESS, MIRANDA","CRAWFORD, ROBERT","KONOVAL, MICHAEL BRANDON","MARSHALL, CHRISTOPHER WARREN","PAUL, JOSEPH"],"totalRemaining":"6","currentlyRegistered":"94","generalRemaining":"6","restrictedRemaining":"0"},"LA1":{"status":" ","section":"ARTS 001A LA1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA1&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"11:00","end":"12:30","comments":"","subject_code":"ARTS","course_number":"001A","section_number":"LA1","building":" ","room":"","instructors":["PAUL, JOSEPH"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"},"LA2":{"status":"Full","section":"ARTS 001A LA2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA2&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"10:00","end":"11:30","comments":"","subject_code":"ARTS","course_number":"001A","section_number":"LA2","building":" ","room":"","instructors":["KONOVAL, MICHAEL BRANDON"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"LA3":{"status":" ","section":"ARTS 001A LA3","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA3&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ARTS","course_number":"001A","section_number":"LA3","building":" ","room":"","instructors":["MARSHALL, CHRISTOPHER WARREN"],"totalRemaining":"5","currentlyRegistered":"15","generalRemaining":"5","restrictedRemaining":"0"},"LA4":{"status":"Full","section":"ARTS 001A LA4","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA4&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"10:00","end":"11:30","comments":"","subject_code":"ARTS","course_number":"001A","section_number":"LA4","building":" ","room":"","instructors":["BURGESS, MIRANDA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"LA5":{"status":"Full","section":"ARTS 001A LA5","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA5&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ARTS","course_number":"001A","section_number":"LA5","building":" ","room":"","instructors":["CRAWFORD, ROBERT"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 18","description":" "}
+{
+  "course_name": "ARTS 001A",
+  "subject_code": "ARTS",
+  "course_number": "001A",
+  "course_title": "Arts One - APPEAR + REALITY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTS&course=001A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTS 001A 00A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=00A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Please visit  www.artsone.arts.ubc.ca  for details.  If, when the lecture is full, you would like to be placed on a waitlist for this course email: arts.fyp@ubc.ca",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "00A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURGESS, MIRANDA",
+        "CRAWFORD, ROBERT",
+        "KONOVAL, MICHAEL BRANDON",
+        "MARSHALL, CHRISTOPHER WARREN",
+        "PAUL, JOSEPH"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "94",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTS 001A LA1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "LA1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAUL, JOSEPH"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARTS 001A LA2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA2&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "LA2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KONOVAL, MICHAEL BRANDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTS 001A LA3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA3&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "LA3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARSHALL, CHRISTOPHER WARREN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARTS 001A LA4",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA4&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "LA4",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURGESS, MIRANDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARTS 001A LA5",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTS&course=001A&section=LA5&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARTS",
+      "course_number": "001A",
+      "section_number": "LA5",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CRAWFORD, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 8,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

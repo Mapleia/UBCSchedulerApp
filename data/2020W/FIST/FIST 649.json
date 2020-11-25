@@ -1,1 +1,46 @@
-{"course_name":"FIST 649","subject_code":"FIST","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=649&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"FIST 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"FIST","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["COULTHARD, LISA","MATHIJS, ERNEST","MCILROY, BRIAN","ZUO, MILA"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "FIST 649",
+  "subject_code": "FIST",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIST&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FIST 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIST&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FIST",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COULTHARD, LISA",
+        "MATHIJS, ERNEST",
+        "MCILROY, BRIAN",
+        "ZUO, MILA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

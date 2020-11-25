@@ -1,1 +1,48 @@
-{"course_name":"MEDG 421","subject_code":"MEDG","course_number":"421","course_title":"Genetics and Cell Biology of Cancer","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=421&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"MEDG 421 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=421&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"OPTIONAL textbook:  \"The Biology of Cancer\" by Robert A. Weinberg (2nd Edition)Note: A background in cell biology is assumed - a grade of B or higher in BIOL 335 is strongly recommended.  The course requires extensive independent reading of scientific journal articles.","subject_code":"MEDG","course_number":"421","section_number":"001","building":"West Mall Swing Space","room":"409","instructors":["LIM, CHINTEN JAMES","MAXWELL, CHRISTOPHER","STIRLING, PETER","STIRLING, PETER(Coordinator)","WASSERMAN, WYETH"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Molecular mechanisms of oncogenes and tumor suppressors in cancer biology, methods of and insights from studying cancer genomes, and current topics in cancer research."}
+{
+  "course_name": "MEDG 421",
+  "subject_code": "MEDG",
+  "course_number": "421",
+  "course_title": "Genetics and Cell Biology of Cancer",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MEDG 421 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=421&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "OPTIONAL textbook:  \"The Biology of Cancer\" by Robert A. Weinberg (2nd Edition)Note: A background in cell biology is assumed - a grade of B or higher in BIOL 335 is strongly recommended.  The course requires extensive independent reading of scientific journal articles.",
+      "subject_code": "MEDG",
+      "course_number": "421",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIM, CHINTEN JAMES",
+        "MAXWELL, CHRISTOPHER",
+        "STIRLING, PETER",
+        "STIRLING, PETER(Coordinator)",
+        "WASSERMAN, WYETH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Molecular mechanisms of oncogenes and tumor suppressors in cancer biology, methods of and insights from studying cancer genomes, and current topics in cancer research.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

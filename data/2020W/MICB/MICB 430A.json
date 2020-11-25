@@ -1,1 +1,72 @@
-{"course_name":"MICB 430A","subject_code":"MICB","course_number":"430A","course_title":"Seminar in Microbiological Literature - SEM MICB LIT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=430A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"MICB 430A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=430A&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"13:30","end":"17:00","comments":"This course is delivered ONLINE.All students should register into the wait-list for now.  4th year students in MBIM MAJ, CMJ CPSC+MBIM and CMJ OCEA+MICB can take MICB 430.  Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca. Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21","subject_code":"MICB","course_number":"430A","section_number":"101","building":" ","room":"","instructors":["CROWE, SEAN","HANEY, CARA","MOHN, WILLIAM"],"totalRemaining":"2","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"2"},"102":{"status":"Blocked","section":"MICB 430A 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=430A&section=102&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"13:30","end":"17:00","comments":"This course is delivered ONLINE.All students should register into the wait-list for now.  4th year students in MBIM MAJ, CMJ CPSC+MBIM and CMJ OCEA+MICB can take MICB 430.  Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21","subject_code":"MICB","course_number":"430A","section_number":"102","building":" ","room":"","instructors":["GAYNOR, ERIN","KRONSTAD, JAMES","THOMPSON, CHARLES"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"MICB 430A WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=430A&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"430A","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Student seminars on selected papers from the microbiological literature. Compulsory for Honours students. Major students may enrol with permission of the department head."}
+{
+  "course_name": "MICB 430A",
+  "subject_code": "MICB",
+  "course_number": "430A",
+  "course_title": "Seminar in Microbiological Literature - SEM MICB LIT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=430A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 430A 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=430A&section=102&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "17:00",
+      "comments": "This course is delivered ONLINE.All students should register into the wait-list for now.  4th year students in MBIM MAJ, CMJ CPSC+MBIM and CMJ OCEA+MICB can take MICB 430.  Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21",
+      "subject_code": "MICB",
+      "course_number": "430A",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GAYNOR, ERIN",
+        "KRONSTAD, JAMES",
+        "THOMPSON, CHARLES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 430A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=430A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "430A",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Student seminars on selected papers from the microbiological literature. Compulsory for Honours students. Major students may enrol with permission of the department head.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

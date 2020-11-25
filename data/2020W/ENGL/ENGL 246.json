@@ -1,1 +1,45 @@
-{"course_name":"ENGL 246","subject_code":"ENGL","course_number":"246","course_title":"Literature and Film","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=246&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 246 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=246&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"ENGL","course_number":"246","section_number":"001","building":" ","room":"","instructors":["MOTA, MIGUEL"],"totalRemaining":"6","currentlyRegistered":"69","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Approaches to the study of the relationships between literature and film."}
+{
+  "course_name": "ENGL 246",
+  "subject_code": "ENGL",
+  "course_number": "246",
+  "course_title": "Literature and Film",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=246&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 246 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=246&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "246",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOTA, MIGUEL"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "69",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Approaches to the study of the relationships between literature and film.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

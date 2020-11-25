@@ -1,1 +1,70 @@
-{"course_name":"CPEN 502","subject_code":"CPEN","course_number":"502","course_title":"Architecture for Learning Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=502&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPEN 502 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=502&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"","subject_code":"CPEN","course_number":"502","section_number":"101","building":" ","room":"","instructors":["SARKARIA, SARBJIT"],"totalRemaining":"0","currentlyRegistered":"49","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CPEN 502 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=502&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPEN","course_number":"502","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Credit will only be given for one of CPEN 502 or EECE 592."}
+{
+  "course_name": "CPEN 502",
+  "subject_code": "CPEN",
+  "course_number": "502",
+  "course_title": "Architecture for Learning Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=502&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPEN 502 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=502&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "502",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SARKARIA, SARBJIT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPEN 502 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=502&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "502",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will only be given for one of CPEN 502 or EECE 592.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

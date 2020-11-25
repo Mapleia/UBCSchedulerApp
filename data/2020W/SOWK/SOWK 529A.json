@@ -1,1 +1,43 @@
-{"course_name":"SOWK 529A","subject_code":"SOWK","course_number":"529A","course_title":"Communities and Social Development: Debates, Approaches and Fields of Practice - CMNTY & SC DEV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=529A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"SOWK 529A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=529A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"17:00","end":"20:00","comments":"Cross listed with SOWK440C","subject_code":"SOWK","course_number":"529A","section_number":"001","building":" ","room":"","instructors":["COULOMBE, ANTOINE"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 529A",
+  "subject_code": "SOWK",
+  "course_number": "529A",
+  "course_title": "Communities and Social Development: Debates, Approaches and Fields of Practice - CMNTY & SC DEV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=529A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOWK 529A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=529A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "Cross listed with SOWK440C",
+      "subject_code": "SOWK",
+      "course_number": "529A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COULOMBE, ANTOINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

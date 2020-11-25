@@ -1,1 +1,71 @@
-{"course_name":"CRWR 311","subject_code":"CRWR","course_number":"311","course_title":"Intermediate Writing for Lyric Forms","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=311&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CRWR 311 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=311&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will consist of video lectures and online modules and students will be able to complete the course asynchronously rather than in real time.","subject_code":"CRWR","course_number":"311","section_number":"001","building":" ","room":"","instructors":["HUSSAIN, TARIQ"],"totalRemaining":"4","currentlyRegistered":"46","generalRemaining":"4","restrictedRemaining":"0"},"002":{"status":" ","section":"CRWR 311 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=311&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"17:30","end":"20:30","comments":"","subject_code":"CRWR","course_number":"311","section_number":"002","building":"Buchanan","room":"B213","instructors":["HUSSAIN, TARIQ"],"totalRemaining":"40","currentlyRegistered":"35","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Techniques of and practice in writing for lyric forms, including song lyrics, lyrical narratives, and libretti. Manuscript submission is not required for admission."}
+{
+  "course_name": "CRWR 311",
+  "subject_code": "CRWR",
+  "course_number": "311",
+  "course_title": "Intermediate Writing for Lyric Forms",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CRWR 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. This particular course will consist of video lectures and online modules and students will be able to complete the course asynchronously rather than in real time.",
+      "subject_code": "CRWR",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUSSAIN, TARIQ"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "46",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CRWR 311 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=311&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "311",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUSSAIN, TARIQ"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "43",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques of and practice in writing for lyric forms, including song lyrics, lyrical narratives, and libretti. Manuscript submission is not required for admission.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

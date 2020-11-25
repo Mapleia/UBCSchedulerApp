@@ -1,1 +1,45 @@
-{"course_name":"CLST 355","subject_code":"CLST","course_number":"355","course_title":"The Athenians and their Empire","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=355&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 355 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=355&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.","subject_code":"CLST","course_number":"355","section_number":"001","building":" ","room":"","instructors":["JOHNSON, CARL"],"totalRemaining":"11","currentlyRegistered":"14","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The sources (literary, epigraphical and other) for Athens' emergence as one of the two leading city-states in late archaic and classical Greece and the stages by which her empire grew."}
+{
+  "course_name": "CLST 355",
+  "subject_code": "CLST",
+  "course_number": "355",
+  "course_title": "The Athenians and their Empire",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 355 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=355&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.",
+      "subject_code": "CLST",
+      "course_number": "355",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, CARL"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "14",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The sources (literary, epigraphical and other) for Athens' emergence as one of the two leading city-states in late archaic and classical Greece and the stages by which her empire grew.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

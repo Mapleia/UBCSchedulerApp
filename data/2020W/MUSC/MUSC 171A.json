@@ -1,1 +1,43 @@
-{"course_name":"MUSC 171A","subject_code":"MUSC","course_number":"171A","course_title":"Music Performance (Secondary) - KEYBOARD INST'S","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=171A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MUSC 171A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=171A&section=001&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Secondary Piano.  Coordinator:  T. Dawson.","subject_code":"MUSC","course_number":"171A","section_number":"001","building":" ","room":"","instructors":["DAWSON, TERENCE"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"}},"credits":"Credits: 2","description":"Private instruction, vocal or instrumental."}
+{
+  "course_name": "MUSC 171A",
+  "subject_code": "MUSC",
+  "course_number": "171A",
+  "course_title": "Music Performance (Secondary) - KEYBOARD INST'S",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=171A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 171A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=171A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Secondary Piano.  Coordinator:  T. Dawson.",
+      "subject_code": "MUSC",
+      "course_number": "171A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAWSON, TERENCE"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": "Private instruction, vocal or instrumental.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

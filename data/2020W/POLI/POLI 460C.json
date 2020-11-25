@@ -1,1 +1,44 @@
-{"course_name":"POLI 460C","subject_code":"POLI","course_number":"460C","course_title":"Foreign Policy Analysis - FRGN POLICY ANLY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=460C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 460C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=460C&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"17:00","end":"20:00","comments":"This is an online course.","subject_code":"POLI","course_number":"460C","section_number":"001","building":" ","room":"","instructors":["EVANS, PAUL","LIU, TRAVIS"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A seminar devoted to the analysis of the foreign policies of one or more states, as well as to the study of literature pertaining to foreign policy analysis. For specific content in a given year, consult the departmental website."}
+{
+  "course_name": "POLI 460C",
+  "subject_code": "POLI",
+  "course_number": "460C",
+  "course_title": "Foreign Policy Analysis - FRGN POLICY ANLY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=460C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 460C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=460C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "This is an online course.",
+      "subject_code": "POLI",
+      "course_number": "460C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, PAUL",
+        "LIU, TRAVIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A seminar devoted to the analysis of the foreign policies of one or more states, as well as to the study of literature pertaining to foreign policy analysis. For specific content in a given year, consult the departmental website.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

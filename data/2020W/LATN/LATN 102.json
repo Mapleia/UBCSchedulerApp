@@ -1,1 +1,73 @@
-{"course_name":"LATN 102","subject_code":"LATN","course_number":"102","course_title":"Beginning Latin II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LATN&course=102&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LATN 102 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=102&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"102","section_number":"001","building":"Hennings","room":"302","instructors":["MULDER, TARA"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"6","restrictedRemaining":"0"},"002":{"status":" ","section":"LATN 102 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=102&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.","subject_code":"LATN","course_number":"102","section_number":"002","building":"Buchanan","room":"B310","instructors":["MINARD, ANTONE"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classical Latin, Part II."}
+{
+  "course_name": "LATN 102",
+  "subject_code": "LATN",
+  "course_number": "102",
+  "course_title": "Beginning Latin II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LATN&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LATN 102 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=102&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "102",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MULDER, TARA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LATN 102 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LATN&course=102&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information. Note: students who have received credit for LATN 100 (or its equivalent at another post-secondary institution) may not receive credit also for LATN 101 or 102.",
+      "subject_code": "LATN",
+      "course_number": "102",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MINARD, ANTONE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classical Latin, Part II.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"BIOL 501","subject_code":"BIOL","course_number":"501","course_title":"Quantitative Methods in Ecology and Evolution","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=501&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"BIOL 501 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=501&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"13:00","end":"15:00","comments":"","subject_code":"BIOL","course_number":"501","section_number":"101","building":" ","room":"","instructors":["SCHLUTER, DOLPH","THOMPSON, KEN"],"totalRemaining":"0","currentlyRegistered":"23","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "BIOL 501",
+  "subject_code": "BIOL",
+  "course_number": "501",
+  "course_title": "Quantitative Methods in Ecology and Evolution",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "BIOL 501 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=501&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "501",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHLUTER, DOLPH",
+        "THOMPSON, KEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

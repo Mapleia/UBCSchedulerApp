@@ -1,1 +1,99 @@
-{"course_name":"COMM 475","subject_code":"COMM","course_number":"475","course_title":"Investment Policy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=475&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 475 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMM","course_number":"475","section_number":"101","building":" ","room":"","instructors":["HEINKEL, ROBERT LEE"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Full","section":"COMM 475 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMM","course_number":"475","section_number":"201","building":" ","room":"","instructors":["FREEDMAN, RUTH"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"COMM 475 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"475","section_number":"202","building":" ","room":"","instructors":["FREEDMAN, RUTH"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations."}
+{
+  "course_name": "COMM 475",
+  "subject_code": "COMM",
+  "course_number": "475",
+  "course_title": "Investment Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=475&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 475 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "475",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEINKEL, ROBERT LEE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 475 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "475",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FREEDMAN, RUTH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 475 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=475&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "475",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FREEDMAN, RUTH"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "The management of security portfolios for individual and institutional investors; relation of investment policy to money markets and business fluctuations.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

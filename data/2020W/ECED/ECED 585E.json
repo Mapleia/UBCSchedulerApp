@@ -1,1 +1,43 @@
-{"course_name":"ECED 585E","subject_code":"ECED","course_number":"585E","course_title":"Advanced Seminar on Research in Early Childhood Education - RES EARLY CHLDHD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=585E&sessyr=2020&sesscd=W","sections":{"61A":{"status":"Blocked","section":"ECED 585E 61A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=585E&section=61A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a PDCE administered course for the EC19 Cohort. Restricted to students in the Cohort.","subject_code":"ECED","course_number":"585E","section_number":"61A","building":"No Scheduled Meeting","room":"","instructors":["BERGER, IRIS"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECED 585E",
+  "subject_code": "ECED",
+  "course_number": "585E",
+  "course_title": "Advanced Seminar on Research in Early Childhood Education - RES EARLY CHLDHD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=585E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECED 585E 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=585E&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for the EC19 Cohort. Restricted to students in the Cohort.",
+      "subject_code": "ECED",
+      "course_number": "585E",
+      "section_number": "61A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BERGER, IRIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

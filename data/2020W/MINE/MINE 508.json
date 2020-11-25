@@ -1,1 +1,43 @@
-{"course_name":"MINE 508","subject_code":"MINE","course_number":"508","course_title":"Integrated Mining and Processing Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=508&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MINE 508 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=508&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MINE","course_number":"508","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":"Methods and systems for integrated mining and processing, conceptual model development, simulation, economic and technical evaluation. Credit will be granted for only one of MINE 508 or MINE 557."}
+{
+  "course_name": "MINE 508",
+  "subject_code": "MINE",
+  "course_number": "508",
+  "course_title": "Integrated Mining and Processing Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MINE 508 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=508&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "508",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": "Methods and systems for integrated mining and processing, conceptual model development, simulation, economic and technical evaluation. Credit will be granted for only one of MINE 508 or MINE 557.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

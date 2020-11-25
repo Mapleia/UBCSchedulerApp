@@ -1,1 +1,123 @@
-{"course_name":"ENPH 480","subject_code":"ENPH","course_number":"480","course_title":"Engineering Physics Project IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENPH&course=480&sessyr=2020&sesscd=W","sections":{"101":{"status":"Unreleased","section":"ENPH 480 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the Engineering Physics Program.  Enrollment is limited to students approved for special projects.","subject_code":"ENPH","course_number":"480","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Unreleased","section":"ENPH 480 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the Engineering Physics Program.  Enrollment is limited to students approved for special projects.","subject_code":"ENPH","course_number":"480","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"L1A":{"status":"Unreleased","section":"ENPH 480 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENPH","course_number":"480","section_number":"L1A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":"Unreleased","section":"ENPH 480 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENPH","course_number":"480","section_number":"L2A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An optional course for those students wishing to continue their project work beyond the development in ENPH 479."}
+{
+  "course_name": "ENPH 480",
+  "subject_code": "ENPH",
+  "course_number": "480",
+  "course_title": "Engineering Physics Project IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENPH&course=480&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "ENPH 480 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the Engineering Physics Program.  Enrollment is limited to students approved for special projects.",
+      "subject_code": "ENPH",
+      "course_number": "480",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "ENPH 480 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the Engineering Physics Program.  Enrollment is limited to students approved for special projects.",
+      "subject_code": "ENPH",
+      "course_number": "480",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "ENPH 480 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENPH",
+      "course_number": "480",
+      "section_number": "L1A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "ENPH 480 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENPH&course=480&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENPH",
+      "course_number": "480",
+      "section_number": "L2A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An optional course for those students wishing to continue their project work beyond the development in ENPH 479.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Laboratory"
+  ]
+}

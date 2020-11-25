@@ -1,1 +1,44 @@
-{"course_name":"COHR 411","subject_code":"COHR","course_number":"411","course_title":"Managing and Building Teams","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COHR&course=411&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"COHR 411 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COHR&course=411&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"COHR","course_number":"411","section_number":"201","building":"Henry Angus","room":"296","instructors":["EVANS, JONATHAN BLAIR"],"totalRemaining":"18","currentlyRegistered":"17","generalRemaining":"13","restrictedRemaining":"5"}},"credits":"Credits: 1.5","description":"Techniques and approaches for building effective teams, handling decision-making in teams, creating reward structures, and developing appropriate leadership models."}
+{
+  "course_name": "COHR 411",
+  "subject_code": "COHR",
+  "course_number": "411",
+  "course_title": "Managing and Building Teams",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COHR&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COHR 411 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COHR&course=411&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COHR",
+      "course_number": "411",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EVANS, JONATHAN BLAIR"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "15",
+      "generalRemaining": "13",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 5,
+  "description": "Techniques and approaches for building effective teams, handling decision-making in teams, creating reward structures, and developing appropriate leadership models.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

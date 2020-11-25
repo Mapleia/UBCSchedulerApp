@@ -1,1 +1,70 @@
-{"course_name":"NURS 586H","subject_code":"NURS","course_number":"586H","course_title":"Specialized Domains of Nursing Practice - SP D NURS PRAC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=586H&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"NURS 586H 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=586H&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"This course is primarily a part of the MHLP program. MSN Students may be eligible to register with permission from the MHLP Pillar Director. MSN students interested in registering, please enrol in the waitlist section NURS 586H-02W, and you will be contacted by School of Nursing Student Support Office (academic.support@nursing.ubc.ca) when space is available in the course.Specialized Domains of Nursing Practice: Curriculum Development in Clinical Education","subject_code":"NURS","course_number":"586H","section_number":"002","building":"School of Population and Public Health","room":"B108","instructors":["SEGARIC, CHERYL"],"totalRemaining":"28","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"28"},"02W":{"status":" ","section":"NURS 586H 02W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=586H&section=02W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Wed","start":" ","end":" ","comments":"Waitlist Section for NURS 586H-002","subject_code":"NURS","course_number":"586H","section_number":"02W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"23","currentlyRegistered":"7","generalRemaining":"23","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 586H",
+  "subject_code": "NURS",
+  "course_number": "586H",
+  "course_title": "Specialized Domains of Nursing Practice - SP D NURS PRAC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=586H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 586H 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=586H&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This course is primarily a part of the MHLP program. MSN Students may be eligible to register with permission from the MHLP Pillar Director. MSN students interested in registering, please enrol in the waitlist section NURS 586H-02W, and you will be contacted by School of Nursing Student Support Office (academic.support@nursing.ubc.ca) when space is available in the course.Specialized Domains of Nursing Practice: Curriculum Development in Clinical Education",
+      "subject_code": "NURS",
+      "course_number": "586H",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEGARIC, CHERYL"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": " ",
+      "section": "NURS 586H 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=586H&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist Section for NURS 586H-002",
+      "subject_code": "NURS",
+      "course_number": "586H",
+      "section_number": "02W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "6",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

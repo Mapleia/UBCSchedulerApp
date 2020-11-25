@@ -1,1 +1,44 @@
-{"course_name":"GERM 412","subject_code":"GERM","course_number":"412","course_title":"German Media Studies (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=412&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"GERM 412 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=412&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"GERM","course_number":"412","section_number":"001","building":"Leon and Thea Koerner University Centre","room":"103","instructors":["NIJDAM, ELIZABETH"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Major themes and methods in German media studies."}
+{
+  "course_name": "GERM 412",
+  "subject_code": "GERM",
+  "course_number": "412",
+  "course_title": "German Media Studies (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=412&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "GERM 412 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=412&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "GERM",
+      "course_number": "412",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NIJDAM, ELIZABETH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Major themes and methods in German media studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,149 @@
-{"course_name":"ECED 401","subject_code":"ECED","course_number":"401","course_title":"Supporting Young Children's Health and Well-Being in Early Childhood Settings","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=401&sessyr=2020&sesscd=W","sections":{"63A":{"status":"Restricted","section":"ECED 401 63A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ECED","course_number":"401","section_number":"63A","building":"No Scheduled Meeting","room":"","instructors":["HITTOS, MADELAINE"],"totalRemaining":"4","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"4"},"63C":{"status":"Blocked","section":"ECED 401 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is now full. Any seats that become available will be filled once daily from the waitlist - ECED 401 / W3C.","subject_code":"ECED","course_number":"401","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["HITTOS, MADELAINE"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"63D":{"status":"Restricted","section":"ECED 401 63D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63D&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 401 / W3D","subject_code":"ECED","course_number":"401","section_number":"63D","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"19","currentlyRegistered":"17","generalRemaining":"0","restrictedRemaining":"19"},"W3A":{"status":"Blocked","section":"ECED 401 W3A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=W3A&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist is now closed.","subject_code":"ECED","course_number":"401","section_number":"W3A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"36","restrictedRemaining":"0"},"W3C":{"status":"Blocked","section":"ECED 401 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for ECED 401 / 63C.  Waitlist works on a priority basis.Students registered in the degree programs MED, MA, DEDU EYED, DEDU IDSC, CEYED, CIDSC or BA MIN EDUC, EMP ECED, as well as Unclassified students, are switched to available seats first.  Students will be moved from the waitlist and into the course ONCE PER DAY.","subject_code":"ECED","course_number":"401","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"36","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECED 401",
+  "subject_code": "ECED",
+  "course_number": "401",
+  "course_title": "Supporting Young Children's Health and Well-Being in Early Childhood Settings",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ECED 401 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ECED",
+      "course_number": "401",
+      "section_number": "63A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HITTOS, MADELAINE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECED 401 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 401 / W3C.",
+      "subject_code": "ECED",
+      "course_number": "401",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HITTOS, MADELAINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "ECED 401 63D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=63D&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration will be blocked when the seats are filled. A waitlist is available for this course - ECED 401 / W3D",
+      "subject_code": "ECED",
+      "course_number": "401",
+      "section_number": "63D",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KIM, JI EUN"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 401 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist is now closed.",
+      "subject_code": "ECED",
+      "course_number": "401",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 401 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=401&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for ECED 401 / 63C.  Waitlist works on a priority basis.Students registered in the degree programs MED, MA, DEDU EYED, DEDU IDSC, CEYED, CIDSC or BA MIN EDUC, EMP ECED, as well as Unclassified students, are switched to available seats first.  Students will be moved from the waitlist and into the course ONCE PER DAY.",
+      "subject_code": "ECED",
+      "course_number": "401",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

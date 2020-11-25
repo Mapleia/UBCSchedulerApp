@@ -1,1 +1,43 @@
-{"course_name":"GRSJ 450A","subject_code":"GRSJ","course_number":"450A","course_title":"Directed Studies - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=450A&sessyr=2020&sesscd=W","sections":{"004":{"status":"Blocked","section":"GRSJ 450A 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=450A&section=004&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Contact department for details.","subject_code":"GRSJ","course_number":"450A","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"General reading and/or a research undertaking, with the agreement, and under supervision of, a faculty member selected by the student and approved by the GRSJ Undergraduate Advisor. A written paper or equivalent will be required. Open to GRSJ majors or minors."}
+{
+  "course_name": "GRSJ 450A",
+  "subject_code": "GRSJ",
+  "course_number": "450A",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=450A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 450A 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=450A&section=004&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact department for details.",
+      "subject_code": "GRSJ",
+      "course_number": "450A",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "General reading and/or a research undertaking, with the agreement, and under supervision of, a faculty member selected by the student and approved by the GRSJ Undergraduate Advisor. A written paper or equivalent will be required. Open to GRSJ majors or minors.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

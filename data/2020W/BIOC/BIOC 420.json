@@ -1,1 +1,95 @@
-{"course_name":"BIOC 420","subject_code":"BIOC","course_number":"420","course_title":"Advanced Biochemical Techniques","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=420&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"BIOC 420 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=101&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"8:30","end":"17:30","comments":"","subject_code":"BIOC","course_number":"420","section_number":"101","building":" ","room":"","instructors":["COVEY, SCOTT"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"6"},"102":{"status":"Blocked","section":"BIOC 420 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=102&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"8:30","end":"17:30","comments":"Overflow section.  Only available if the the Tuesday section is full.  For more information, contact Dr. Covey (scott.covey@ubc.ca)","subject_code":"BIOC","course_number":"420","section_number":"102","building":" ","room":"","instructors":["COVEY, SCOTT"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"},"103":{"status":"Blocked","section":"BIOC 420 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=103&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"8:30","end":"17:30","comments":"","subject_code":"BIOC","course_number":"420","section_number":"103","building":" ","room":"","instructors":["COVEY, SCOTT"],"totalRemaining":"4","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Multi-week experiments in areas of contemporary biochemistry research using classical and modern techniques.  Emphasis on experimental design, technique, critical analysis of data, and scientific communication skills.  Restricted to Honours students in Biochemistry and others with permission of the instructor."}
+{
+  "course_name": "BIOC 420",
+  "subject_code": "BIOC",
+  "course_number": "420",
+  "course_title": "Advanced Biochemical Techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BIOC 420 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=101&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "420",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COVEY, SCOTT"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOC 420 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=102&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:30",
+      "end": "17:30",
+      "comments": "Overflow section.  Only available if the the Tuesday section is full.  For more information, contact Dr. Covey (scott.covey@ubc.ca)",
+      "subject_code": "BIOC",
+      "course_number": "420",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COVEY, SCOTT"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOC 420 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=420&section=103&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "420",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COVEY, SCOTT"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Multi-week experiments in areas of contemporary biochemistry research using classical and modern techniques.  Emphasis on experimental design, technique, critical analysis of data, and scientific communication skills.  Restricted to Honours students in Biochemistry and others with permission of the instructor.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MINE 590D","subject_code":"MINE","course_number":"590D","course_title":"Special Advanced Topics - NUM MODEL ROCK","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=590D&sessyr=2020&sesscd=W","sections":{"201":{"status":"Unreleased","section":"MINE 590D 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=590D&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" Tue","start":"9:30","end":"11:00","comments":"","subject_code":"MINE","course_number":"590D","section_number":"201","building":"Frank Forward","room":"217","instructors":["ELMO, DAVIDE"],"totalRemaining":"0","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A special advanced course may be arranged upon the approval of the department head."}
+{
+  "course_name": "MINE 590D",
+  "subject_code": "MINE",
+  "course_number": "590D",
+  "course_title": "Special Advanced Topics - NUM MODEL ROCK",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=590D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MINE 590D 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=590D&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "cross-listed with MINE 403",
+      "subject_code": "MINE",
+      "course_number": "590D",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELMO, DAVIDE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A special advanced course may be arranged upon the approval of the department head.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

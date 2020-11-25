@@ -1,1 +1,43 @@
-{"course_name":"PHAR 592B","subject_code":"PHAR","course_number":"592B","course_title":"Fundamentals of the Pharmaceutical Sciences Disciplines - FNDMNTL PHAR SCI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=592B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHAR 592B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=592B&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Course offer with a minimal enrolment of 4 students.","subject_code":"PHAR","course_number":"592B","section_number":"001","building":" ","room":"","instructors":["CHANG, THOMAS"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"8"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "PHAR 592B",
+  "subject_code": "PHAR",
+  "course_number": "592B",
+  "course_title": "Fundamentals of the Pharmaceutical Sciences Disciplines - FNDMNTL PHAR SCI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=592B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHAR 592B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=592B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Course offer with a minimal enrolment of 4 students.",
+      "subject_code": "PHAR",
+      "course_number": "592B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHANG, THOMAS"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

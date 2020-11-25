@@ -1,1 +1,44 @@
-{"course_name":"LING 447U","subject_code":"LING","course_number":"447U","course_title":"Topics in Linguistics - TOPICS IN LING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447U&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LING 447U 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447U&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Topic: Explorations of Phon with PeopleLING 313 is a pre-requisite for this course.","subject_code":"LING","course_number":"447U","section_number":"001","building":" ","room":"","instructors":["CARDOSO, AMANDA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different."}
+{
+  "course_name": "LING 447U",
+  "subject_code": "LING",
+  "course_number": "447U",
+  "course_title": "Topics in Linguistics - TOPICS IN LING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447U&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LING 447U 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447U&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Topic: Explorations of Phon with PeopleLING 313 is a pre-requisite for this course.",
+      "subject_code": "LING",
+      "course_number": "447U",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARDOSO, AMANDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

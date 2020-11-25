@@ -1,1 +1,44 @@
-{"course_name":"DES 212","subject_code":"DES","course_number":"212","course_title":"Design Media II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=212&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DES 212 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=212&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"","subject_code":"DES","course_number":"212","section_number":"001","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Advanced techniques in architectural representation and discourse in digital representation and digital making. Credit will be granted for only one of ARCH 437, ARCH 517 or DES 212."}
+{
+  "course_name": "DES 212",
+  "subject_code": "DES",
+  "course_number": "212",
+  "course_title": "Design Media II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=212&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 212 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=212&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "212",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Advanced techniques in architectural representation and discourse in digital representation and digital making. Credit will be granted for only one of ARCH 437, ARCH 517 or DES 212.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

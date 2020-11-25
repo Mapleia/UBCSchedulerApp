@@ -1,1 +1,43 @@
-{"course_name":"BUSI 420A","subject_code":"BUSI","course_number":"420A","course_title":"Integrated Business Leadership - INTEG BUS LDRSHP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=420A&sessyr=2020&sesscd=W","sections":{"003":{"status":"Blocked","section":"BUSI 420A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=420A&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BUSI","course_number":"420A","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Pass/Fail."}
+{
+  "course_name": "BUSI 420A",
+  "subject_code": "BUSI",
+  "course_number": "420A",
+  "course_title": "Integrated Business Leadership - INTEG BUS LDRSHP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=420A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 420A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=420A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "420A",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

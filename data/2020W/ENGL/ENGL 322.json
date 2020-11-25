@@ -1,1 +1,41 @@
-{"course_name":"ENGL 322","subject_code":"ENGL","course_number":"322","course_title":"Stylistics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=322&sessyr=2020&sesscd=W","sections":{"99A":{"status":" ","section":"ENGL 322 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=322&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENGL","course_number":"322","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["BIERMANN, WILHELMINA GEORGINA"],"totalRemaining":"22","currentlyRegistered":"23","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Application of linguistic theory and method to stylistic analysis."}
+{
+  "course_name": "ENGL 322",
+  "subject_code": "ENGL",
+  "course_number": "322",
+  "course_title": "Stylistics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=322&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 322 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=322&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "322",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BIERMANN, WILHELMINA GEORGINA"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "21",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Application of linguistic theory and method to stylistic analysis.",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

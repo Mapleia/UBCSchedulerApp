@@ -1,1 +1,44 @@
-{"course_name":"FREN 348","subject_code":"FREN","course_number":"348","course_title":"French Literature from the Middle Ages to the Revolution (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=348&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FREN 348 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=348&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"A study of French literature through reading and analysis of translated works. Full course description: https://fhis.ubc.ca/course-description/fren348/- cross-listed with MDVL 301-001","subject_code":"FREN","course_number":"348","section_number":"201","building":" ","room":"","instructors":["MORAN, PATRICK"],"totalRemaining":"15","currentlyRegistered":"10","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A study of French literature through reading and analysis of translated works."}
+{
+  "course_name": "FREN 348",
+  "subject_code": "FREN",
+  "course_number": "348",
+  "course_title": "French Literature from the Middle Ages to the Revolution (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=348&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 348 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=348&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "A study of French literature through reading and analysis of translated works. Full course description: https://fhis.ubc.ca/course-description/fren348/- cross-listed with MDVL 301-001",
+      "subject_code": "FREN",
+      "course_number": "348",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MORAN, PATRICK"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "10",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A study of French literature through reading and analysis of translated works.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

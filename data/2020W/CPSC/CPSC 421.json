@@ -1,1 +1,72 @@
-{"course_name":"CPSC 421","subject_code":"CPSC","course_number":"421","course_title":"Introduction to Theory of Computing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=421&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 421 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=421&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CPSC","course_number":"421","section_number":"101","building":" ","room":"","instructors":["FRIEDMAN, JOEL"],"totalRemaining":"0","currentlyRegistered":"47","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"CPSC 421 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=421&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"10:30","comments":"","subject_code":"CPSC","course_number":"421","section_number":"1W1","building":" ","room":"","instructors":["FRIEDMAN, JOEL"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages."}
+{
+  "course_name": "CPSC 421",
+  "subject_code": "CPSC",
+  "course_number": "421",
+  "course_title": "Introduction to Theory of Computing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 421 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=421&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "421",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRIEDMAN, JOEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 421 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=421&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "10:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "421",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRIEDMAN, JOEL"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List"
+  ]
+}

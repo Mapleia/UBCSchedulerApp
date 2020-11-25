@@ -1,1 +1,99 @@
-{"course_name":"BIOL 448C","subject_code":"BIOL","course_number":"448C","course_title":"Directed Studies in Biology - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=448C&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"BIOL 448C 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"","subject_code":"BIOL","course_number":"448C","section_number":"201","building":"West Mall Swing Space","room":"406","instructors":["JANKOWSKI, JILL"],"totalRemaining":"19","currentlyRegistered":"5","generalRemaining":"19","restrictedRemaining":"0"},"L01":{"status":" ","section":"BIOL 448C L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"448C","section_number":"L01","building":"Biological Sciences","room":"1001","instructors":["TBA"],"totalRemaining":"21","currentlyRegistered":"3","generalRemaining":"21","restrictedRemaining":"0"},"2W1":{"status":" ","section":"BIOL 448C 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"","subject_code":"BIOL","course_number":"448C","section_number":"2W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor."}
+{
+  "course_name": "BIOL 448C",
+  "subject_code": "BIOL",
+  "course_number": "448C",
+  "course_title": "Directed Studies in Biology - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=448C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOL 448C 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "448C",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JANKOWSKI, JILL"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "5",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 448C L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "448C",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "3",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 448C 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=448C&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "448C",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A course designed to allow students to undertake an investigation on a specific topic as agreed upon by the faculty member and the student. Permission of the supervisor required. No more than six credits of BIOL 448 may be taken with the same supervisor.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

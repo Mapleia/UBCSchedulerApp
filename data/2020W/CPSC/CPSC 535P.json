@@ -1,1 +1,44 @@
-{"course_name":"CPSC 535P","subject_code":"CPSC","course_number":"535P","course_title":"Topics in Simulation and Optimization - DIGITAL HUMANS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=535P&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CPSC 535P 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=535P&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"10:30","end":"12:00","comments":"","subject_code":"CPSC","course_number":"535P","section_number":"101","building":" ","room":"","instructors":["PAI, DINESH"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"19"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 535P",
+  "subject_code": "CPSC",
+  "course_number": "535P",
+  "course_title": "Topics in Simulation and Optimization - DIGITAL HUMANS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=535P&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CPSC 535P 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=535P&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "535P",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAI, DINESH"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

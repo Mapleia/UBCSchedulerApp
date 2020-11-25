@@ -1,1 +1,70 @@
-{"course_name":"MANU 378","subject_code":"MANU","course_number":"378","course_title":"Engineering Materials II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=378&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"MANU 378 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=378&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"12:00","end":"13:00","comments":"","subject_code":"MANU","course_number":"378","section_number":"101","building":" ","room":"","instructors":["SINCLAIR, CHADWICK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T1A":{"status":"STT","section":"MANU 378 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=378&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"13:30","end":"16:30","comments":"","subject_code":"MANU","course_number":"378","section_number":"T1A","building":" ","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Materials selection for different design criteria; importance of shape and processing variables; computer software in selection. Credit will be granted for only one of MTRL 280 or MANU 378."}
+{
+  "course_name": "MANU 378",
+  "subject_code": "MANU",
+  "course_number": "378",
+  "course_title": "Engineering Materials II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=378&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MANU 378 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=378&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "378",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINCLAIR, CHADWICK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MANU 378 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=378&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "MANU",
+      "course_number": "378",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Materials selection for different design criteria; importance of shape and processing variables; computer software in selection. Credit will be granted for only one of MTRL 280 or MANU 378.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

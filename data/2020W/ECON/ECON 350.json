@@ -1,1 +1,45 @@
-{"course_name":"ECON 350","subject_code":"ECON","course_number":"350","course_title":"Public Finance Policy Topics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=350&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ECON 350 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=350&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"17:00","end":"18:00","comments":"","subject_code":"ECON","course_number":"350","section_number":"001","building":"Buchanan","room":"A203","instructors":["KONG, WAI-CHING ALFRED"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Examination of two or three selected policy problems from areas of taxation, income security, and public expenditures. Topics to be selected each year from areas of current or recent policy debate. Examples include public pension policy, privatization and public services, income tax or sales tax reform, federal-provincial cost sharing programs, tax incentives versus direct expenditures, welfare reform."}
+{
+  "course_name": "ECON 350",
+  "subject_code": "ECON",
+  "course_number": "350",
+  "course_title": "Public Finance Policy Topics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 350 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=350&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ECON",
+      "course_number": "350",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KONG, WAI-CHING ALFRED"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Examination of two or three selected policy problems from areas of taxation, income security, and public expenditures. Topics to be selected each year from areas of current or recent policy debate. Examples include public pension policy, privatization and public services, income tax or sales tax reform, federal-provincial cost sharing programs, tax incentives versus direct expenditures, welfare reform.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

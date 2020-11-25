@@ -1,1 +1,45 @@
-{"course_name":"HEBR 102","subject_code":"HEBR","course_number":"102","course_title":"Beginning Biblical Hebrew II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HEBR&course=102&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"HEBR 102 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HEBR&course=102&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"HEBR","course_number":"102","section_number":"001","building":"Buchanan","room":"D216","instructors":["PETERS, KURTIS"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Biblical Hebrew, with further introduction to vocabulary and grammar, and the reading of biblical texts in the original."}
+{
+  "course_name": "HEBR 102",
+  "subject_code": "HEBR",
+  "course_number": "102",
+  "course_title": "Beginning Biblical Hebrew II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HEBR&course=102&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HEBR 102 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HEBR&course=102&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "HEBR",
+      "course_number": "102",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PETERS, KURTIS"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Biblical Hebrew, with further introduction to vocabulary and grammar, and the reading of biblical texts in the original.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"BIOC 649","subject_code":"BIOC","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=649&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BIOC 649 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOC","course_number":"649","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"7","generalRemaining":"18","restrictedRemaining":"0"},"201":{"status":" ","section":"BIOC 649 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOC","course_number":"649","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"001":{"status":" ","section":"BIOC 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOC","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"31","currentlyRegistered":"39","generalRemaining":"31","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "BIOC 649",
+  "subject_code": "BIOC",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOC 649 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "649",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "7",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 649 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "649",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOC 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "39",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

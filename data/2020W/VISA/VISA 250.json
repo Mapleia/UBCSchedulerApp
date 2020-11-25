@@ -1,1 +1,175 @@
-{"course_name":"VISA 250","subject_code":"VISA","course_number":"250","course_title":"Print Media","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=250&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 250 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"VISA 250 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"250","section_number":"001","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"1002","instructors":["STARLING, DAN"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"VISA 250 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=002&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"250","section_number":"002","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"1002","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"4","restrictedRemaining":"0"},"003":{"status":"Full","section":"VISA 250 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=003&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"250","section_number":"003","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"1002","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":" ","section":"VISA 250 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"VISA 250 01W is a waiting list for VISA 250 001. Students will be moved from the waiting list into the course in order of registration date.","subject_code":"VISA","course_number":"250","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"99","restrictedRemaining":"0"},"02W":{"status":" ","section":"VISA 250 02W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=02W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"VISA 250 02W is a waiting list for VISA 250 002. Students will be moved from the waiting list into the course, space permitting, in order of registration date.","subject_code":"VISA","course_number":"250","section_number":"02W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"99","restrictedRemaining":"0"},"03W":{"status":" ","section":"VISA 250 03W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=03W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"VISA 250 03W is a waiting list for VISA 250 003. Students will be moved from the waiting list into the course, space permitting, in order of registration date.While we hope all interested students will obtain a seat in this class, please be aware that being in the waiting list does not guarantee you will obtain a seat in the class.","subject_code":"VISA","course_number":"250","section_number":"03W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"97","currentlyRegistered":"2","generalRemaining":"97","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications."}
+{
+  "course_name": "VISA 250",
+  "subject_code": "VISA",
+  "course_number": "250",
+  "course_title": "Print Media",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 250 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 250 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "001",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "1002",
+      "instructors": [
+        "STARLING, DAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "VISA 250 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=002&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "002",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "1002",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 250 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=003&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "003",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "1002",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 250 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 250 01W is a waiting list for VISA 250 001. Students will be moved from the waiting list into the course in order of registration date.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 250 02W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=02W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 250 02W is a waiting list for VISA 250 002. Students will be moved from the waiting list into the course, space permitting, in order of registration date.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "02W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "98",
+      "currentlyRegistered": "1",
+      "generalRemaining": "98",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "VISA 250 03W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=250&section=03W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "VISA 250 03W is a waiting list for VISA 250 003. Students will be moved from the waiting list into the course, space permitting, in order of registration date.While we hope all interested students will obtain a seat in this class, please be aware that being in the waiting list does not guarantee you will obtain a seat in the class.",
+      "subject_code": "VISA",
+      "course_number": "250",
+      "section_number": "03W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "97",
+      "currentlyRegistered": "2",
+      "generalRemaining": "97",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

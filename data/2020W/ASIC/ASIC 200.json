@@ -1,1 +1,44 @@
-{"course_name":"ASIC 200","subject_code":"ASIC","course_number":"200","course_title":"Global Issues in the Arts and Sciences","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIC&course=200&sessyr=2020&sesscd=W","sections":{"BA2":{"status":"Restricted","section":"ASIC 200 BA2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=200&section=BA2&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"18:00","end":"21:00","comments":"This section of ASIC 200 is restricted to students in second-year Arts or Science (BA or BSC).The course will be held in Room 105 and associated facilities of the Michael Smith Building which is located on East Mall directly behind the UBC Bookstore. To access the waiting list conatct  Dr. Allen Sens at asens@mail.ubc.ca","subject_code":"ASIC","course_number":"200","section_number":"BA2","building":" ","room":"","instructors":["NG, DAVID","SENS, ALLEN"],"totalRemaining":"22","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"22"}},"credits":"Credits: 3","description":"Selected global issues explored through the methodologies and perspectives of both the physical and life sciences and the humanities and social sciences."}
+{
+  "course_name": "ASIC 200",
+  "subject_code": "ASIC",
+  "course_number": "200",
+  "course_title": "Global Issues in the Arts and Sciences",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIC&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ASIC 200 BA2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIC&course=200&section=BA2&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "This section of ASIC 200 is restricted to students in second-year Arts or Science (BA or BSC).The course will be held in Room 105 and associated facilities of the Michael Smith Building which is located on East Mall directly behind the UBC Bookstore. To access the waiting list conatct  Dr. Allen Sens at asens@mail.ubc.ca",
+      "subject_code": "ASIC",
+      "course_number": "200",
+      "section_number": "BA2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NG, DAVID",
+        "SENS, ALLEN"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "24"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected global issues explored through the methodologies and perspectives of both the physical and life sciences and the humanities and social sciences.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

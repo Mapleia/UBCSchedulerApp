@@ -1,1 +1,72 @@
-{"course_name":"SOCI 380","subject_code":"SOCI","course_number":"380","course_title":"Sociological Methods: Survey Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=380&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"SOCI 380 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=380&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"380","section_number":"101","building":" ","room":"","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"62","generalRemaining":"18","restrictedRemaining":"0"},"202":{"status":" ","section":"SOCI 380 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=380&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"380","section_number":"202","building":"Chemistry","room":"D300","instructors":["TBA"],"totalRemaining":"19","currentlyRegistered":"61","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Questionnaire design, interviewing, sampling, and analysis of survey data."}
+{
+  "course_name": "SOCI 380",
+  "subject_code": "SOCI",
+  "course_number": "380",
+  "course_title": "Sociological Methods: Survey Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 380 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=380&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "380",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUYSER, KIMBERLY"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "62",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 380 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=380&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "380",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "60",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Questionnaire design, interviewing, sampling, and analysis of survey data.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

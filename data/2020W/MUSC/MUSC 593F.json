@@ -1,1 +1,43 @@
-{"course_name":"MUSC 593F","subject_code":"MUSC","course_number":"593F","course_title":"Music Performance (Major) - CHORAL CONDUCTNG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=593F&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 593F 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=593F&section=001&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MUSC","course_number":"593F","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["LANGAGER, GRAEME"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 6","description":"Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements."}
+{
+  "course_name": "MUSC 593F",
+  "subject_code": "MUSC",
+  "course_number": "593F",
+  "course_title": "Music Performance (Major) - CHORAL CONDUCTNG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=593F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 593F 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=593F&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MUSC",
+      "course_number": "593F",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LANGAGER, GRAEME"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 6,
+  "description": "Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

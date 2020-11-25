@@ -1,1 +1,285 @@
-{"course_name":"LLED 201","subject_code":"LLED","course_number":"201","course_title":"Critical Reading and Writing in Academic and Professional Registers","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=201&sessyr=2020&sesscd=W","sections":{"V89":{"status":"STT","section":"LLED 201 V89","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V89&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V89","building":"Orchard Commons","room":"3072","instructors":["AVALOS RIVERA, ALYS"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V90":{"status":"STT","section":"LLED 201 V90","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V90&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V90","building":"Orchard Commons","room":"4062","instructors":["LYNCH, SARAH"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V91":{"status":"STT","section":"LLED 201 V91","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V91&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V91","building":"Orchard Commons","room":"4072","instructors":["KIM, WON"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V92":{"status":"STT","section":"LLED 201 V92","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V92&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V92","building":"Orchard Commons","room":"4062","instructors":["KIM, WON"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V93":{"status":"STT","section":"LLED 201 V93","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V93&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:30","end":"16:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V93","building":"Orchard Commons","room":"3072","instructors":["PRINGLE, JOHN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V94":{"status":"STT","section":"LLED 201 V94","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V94&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:30","end":"16:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V94","building":"Orchard Commons","room":"4062","instructors":["SHAW, AMBER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"V95":{"status":"STT","section":"LLED 201 V95","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V95&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"V95","building":"Orchard Commons","room":"3068","instructors":["SHAW, AMBER"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"VE1":{"status":"STT","section":"LLED 201 VE1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE1&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"VE1","building":"Orchard Commons","room":"3062","instructors":["PRINGLE, JOHN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"VE2":{"status":"STT","section":"LLED 201 VE2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE2&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"VE2","building":"Orchard Commons","room":"3062","instructors":["MAHMOOD, FATIMAH"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"VE3":{"status":"STT","section":"LLED 201 VE3","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE3&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This section is reserved for UBC Vantage College students only.","subject_code":"LLED","course_number":"201","section_number":"VE3","building":" ","room":"","instructors":["MAHMOOD, FATIMAH"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LLED 201",
+  "subject_code": "LLED",
+  "course_number": "201",
+  "course_title": "Critical Reading and Writing in Academic and Professional Registers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "LLED 201 V89",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V89&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V89",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVALOS RIVERA, ALYS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V90",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V90&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V90",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LYNCH, SARAH"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V91",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V91&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V91",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIM, WON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V92",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V92&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V92",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIM, WON"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V93",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V93&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V93",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRINGLE, JOHN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V94",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V94&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V94",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHAW, AMBER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 V95",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=V95&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "V95",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHAW, AMBER"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 VE1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE1&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "VE1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRINGLE, JOHN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 VE2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE2&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "VE2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAHMOOD, FATIMAH"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "LLED 201 VE3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=201&section=VE3&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "18:00",
+      "comments": "This section is reserved for UBC Vantage College students only.",
+      "subject_code": "LLED",
+      "course_number": "201",
+      "section_number": "VE3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAHMOOD, FATIMAH"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

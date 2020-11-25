@@ -1,1 +1,47 @@
-{"course_name":"EOSC 373","subject_code":"EOSC","course_number":"373","course_title":"Introductory Oceanography: Climate and Ecosystems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=373&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"EOSC 373 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=373&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"EOSC 373 can not be taken by students who have credit for EOSC 370, EOSC 371, or BIOL 305.","subject_code":"EOSC","course_number":"373","section_number":"201","building":"Hugh Dempster Pavilion","room":"301","instructors":["BLOCK, STEPHANIE","MALDONADO-PAREJA, MARIA","ORIANS, KRISTIN"],"totalRemaining":"80","currentlyRegistered":"70","generalRemaining":"80","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Physical, chemical, and biological processes in the ocean and their interaction with climate and marine food-webs."}
+{
+  "course_name": "EOSC 373",
+  "subject_code": "EOSC",
+  "course_number": "373",
+  "course_title": "Introductory Oceanography: Climate and Ecosystems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 373 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=373&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "EOSC 373 can not be taken by students who have credit for EOSC 370, EOSC 371, or BIOL 305.",
+      "subject_code": "EOSC",
+      "course_number": "373",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOCK, STEPHANIE",
+        "MALDONADO-PAREJA, MARIA",
+        "ORIANS, KRISTIN"
+      ],
+      "totalRemaining": "81",
+      "currentlyRegistered": "69",
+      "generalRemaining": "81",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Physical, chemical, and biological processes in the ocean and their interaction with climate and marine food-webs.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

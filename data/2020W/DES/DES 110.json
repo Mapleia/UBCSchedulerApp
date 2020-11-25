@@ -1,1 +1,123 @@
-{"course_name":"DES 110","subject_code":"DES","course_number":"110","course_title":"Measured Architectural Drawing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=110&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"DES 110 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:30","end":"16:30","comments":"","subject_code":"DES","course_number":"110","section_number":"001","building":" ","room":"","instructors":["NETTE, LINDSEY"],"totalRemaining":"0","currentlyRegistered":"51","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"DES 110 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"DES","course_number":"110","section_number":"002","building":"Frederic Lasserre","room":"105","instructors":["LEUNG, ARTHUR"],"totalRemaining":"1","currentlyRegistered":"49","generalRemaining":"1","restrictedRemaining":"0"},"WL1":{"status":" ","section":"DES 110 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":"13:30","end":"16:30","comments":"","subject_code":"DES","course_number":"110","section_number":"WL1","building":" ","room":"","instructors":["NETTE, LINDSEY"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"},"WL2":{"status":" ","section":"DES 110 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"DES","course_number":"110","section_number":"WL2","building":"To Be Announced","room":"","instructors":["LEUNG, ARTHUR"],"totalRemaining":"32","currentlyRegistered":"18","generalRemaining":"32","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Techniques applicable to analytic and technical drawing used in architecture, landscape architecture, and urban design with focus primarily on analog drawing techniques. Open to all UBC students regardless of prior experience. Credit will be granted for only one of ENDS 110 or DES 110."}
+{
+  "course_name": "DES 110",
+  "subject_code": "DES",
+  "course_number": "110",
+  "course_title": "Measured Architectural Drawing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "DES 110 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "110",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NETTE, LINDSEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "DES 110 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "110",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, ARTHUR"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "47",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DES 110 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "110",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NETTE, LINDSEY"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "DES 110 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=110&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "110",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEUNG, ARTHUR"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "20",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques applicable to analytic and technical drawing used in architecture, landscape architecture, and urban design with focus primarily on analog drawing techniques. Open to all UBC students regardless of prior experience. Credit will be granted for only one of ENDS 110 or DES 110.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

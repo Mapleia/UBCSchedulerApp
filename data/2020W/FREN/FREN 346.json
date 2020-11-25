@@ -1,1 +1,45 @@
-{"course_name":"FREN 346","subject_code":"FREN","course_number":"346","course_title":"French at Work","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=346&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FREN 346 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=346&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Communicative French for students preparing for a career in the francophone world. Full course description: https://fhis.ubc.ca/course-description/fren346/Not available for credit toward a Minor, Major, or Honours degree in French. Language of instruction is French. This course is aligned with the B1 objectives of the CEFR.","subject_code":"FREN","course_number":"346","section_number":"201","building":" ","room":"","instructors":["BASCOU VALLARINO, SYLVIA"],"totalRemaining":"13","currentlyRegistered":"27","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Communicative French for students preparing for a career in the francophone world. Not available for credit toward a Minor, Major, or Honours degree in French. Language of instruction is French. This course is aligned with the B1 objectives of the CEFR."}
+{
+  "course_name": "FREN 346",
+  "subject_code": "FREN",
+  "course_number": "346",
+  "course_title": "French at Work",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=346&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 346 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=346&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Communicative French for students preparing for a career in the francophone world. Full course description: https://fhis.ubc.ca/course-description/fren346/Not available for credit toward a Minor, Major, or Honours degree in French. Language of instruction is French. This course is aligned with the B1 objectives of the CEFR.",
+      "subject_code": "FREN",
+      "course_number": "346",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASCOU VALLARINO, SYLVIA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "27",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Communicative French for students preparing for a career in the francophone world. Not available for credit toward a Minor, Major, or Honours degree in French. Language of instruction is French. This course is aligned with the B1 objectives of the CEFR.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

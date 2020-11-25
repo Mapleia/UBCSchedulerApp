@@ -1,1 +1,43 @@
-{"course_name":"MECH 527","subject_code":"MECH","course_number":"527","course_title":"Mechatronic System Design Project II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=527&sessyr=2020&sesscd=W","sections":{"101":{"status":"Unreleased","section":"MECH 527 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=527&section=101&sessyr=2020&sesscd=W","activity":"Project","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"527","section_number":"101","building":" ","room":"","instructors":["ALTINTAS, YUSUF"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"The full assembly, instrumentation, computer and electronic interfacing, and testing of a dynamic machine."}
+{
+  "course_name": "MECH 527",
+  "subject_code": "MECH",
+  "course_number": "527",
+  "course_title": "Mechatronic System Design Project II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=527&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MECH 527 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=527&section=101&sessyr=2020&sesscd=W",
+      "activity": "Project",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "527",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTINTAS, YUSUF"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "The full assembly, instrumentation, computer and electronic interfacing, and testing of a dynamic machine.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Project"
+  ]
+}

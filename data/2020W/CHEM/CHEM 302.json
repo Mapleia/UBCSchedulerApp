@@ -1,1 +1,74 @@
-{"course_name":"CHEM 302","subject_code":"CHEM","course_number":"302","course_title":"Atmospheric Environmental Chemistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=302&sessyr=2020&sesscd=W","sections":{"209":{"status":"Full","section":"CHEM 302 209","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=302&section=209&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"CHEM","course_number":"302","section_number":"209","building":"Chemistry","room":"B150","instructors":["MOMOSE, TAKAMASA"],"totalRemaining":"0","currentlyRegistered":"212","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CHEM 302 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=302&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"CHEM","course_number":"302","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain."}
+{
+  "course_name": "CHEM 302",
+  "subject_code": "CHEM",
+  "course_number": "302",
+  "course_title": "Atmospheric Environmental Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=302&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 302 209",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=302&section=209&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "302",
+      "section_number": "209",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOMOSE, TAKAMASA"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "218",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 302 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=302&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "302",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

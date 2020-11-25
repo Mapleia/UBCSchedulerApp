@@ -1,1 +1,71 @@
-{"course_name":"LARC 542","subject_code":"LARC","course_number":"542","course_title":"Aesthetics and Sustainability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=542&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"LARC 542 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=542&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"","subject_code":"LARC","course_number":"542","section_number":"001","building":" ","room":"","instructors":["SHEPPARD, STEPHEN"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"},"WL1":{"status":" ","section":"LARC 542 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=542&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Wed","start":" ","end":" ","comments":"","subject_code":"LARC","course_number":"542","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"27","currentlyRegistered":"0","generalRemaining":"12","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"Analysis and planning of landscapes to communicate sustainability and to inform public awareness and design by exploring the relationship between aesthetics and sustainability."}
+{
+  "course_name": "LARC 542",
+  "subject_code": "LARC",
+  "course_number": "542",
+  "course_title": "Aesthetics and Sustainability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LARC 542 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=542&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "542",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAMPBELL, DAVID CAMERON",
+        "SHEPPARD, STEPHEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LARC 542 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=542&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "542",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "1",
+      "generalRemaining": "11",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis and planning of landscapes to communicate sustainability and to inform public awareness and design by exploring the relationship between aesthetics and sustainability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

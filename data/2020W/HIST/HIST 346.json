@@ -1,1 +1,45 @@
-{"course_name":"HIST 346","subject_code":"HIST","course_number":"346","course_title":"History of Modern France","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=346&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"HIST 346 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=346&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"This survey examines the course of French history over the past 200 years.  We will look at the political, social, economic and cultural developments of the period, which was filled with drama and tumult.  France's modern history is unique in the Western world, with the country functioning as a political laboratory of sorts.  Revolution followed revolution and the regimes were constantly changing: absolute monarchy, republic, empire, constitutional monarchy, republic (2nd time), empire (2nd time), republic (3rd time), proto-fascist dictatorship, and finally republic (numbers 4 and 5).  These changes make France an exciting case study for anyone interested in fundamental questions regarding politics, democracy and the rights of the individual.  Political upheaval went hand-in-hand with nu and ~merous wars, from European conquest under Napoleon to brutal colonial struggles, all of which of course affected the course of events in the country.  Although economic and social changes were not as dramatic, they are equally important in the long run, having helped to shape modern France as it exists today.  The last thirty years, while superficially less dramatic than what preceded them, have seen France grapple with economic crises, the thorny issue of immigration and the country's incorporation into the European Union as it seeks a new role for itself in the 21st century.  The examination of these developments will allow students to better appreciate and understand modern France as it exists today.  The study of French history explains why modern France is, in many ways, different f and ~rom its neighbours.  Vive la différence!This class will be taught in an asynchronous format.","subject_code":"HIST","course_number":"346","section_number":"001","building":" ","room":"","instructors":["LANTHIER, MICHAEL"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Political, social, and cultural history of France from the Revolution of 1789 to the present. France's journey toward democracy; particular focus on the changing nature of French culture and society."}
+{
+  "course_name": "HIST 346",
+  "subject_code": "HIST",
+  "course_number": "346",
+  "course_title": "History of Modern France",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=346&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 346 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=346&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This survey examines the course of French history over the past 200 years.  We will look at the political, social, economic and cultural developments of the period, which was filled with drama and tumult.  France's modern history is unique in the Western world, with the country functioning as a political laboratory of sorts.  Revolution followed revolution and the regimes were constantly changing: absolute monarchy, republic, empire, constitutional monarchy, republic (2nd time), empire (2nd time), republic (3rd time), proto-fascist dictatorship, and finally republic (numbers 4 and 5).  These changes make France an exciting case study for anyone interested in fundamental questions regarding politics, democracy and the rights of the individual.  Political upheaval went hand-in-hand with nu and ~merous wars, from European conquest under Napoleon to brutal colonial struggles, all of which of course affected the course of events in the country.  Although economic and social changes were not as dramatic, they are equally important in the long run, having helped to shape modern France as it exists today.  The last thirty years, while superficially less dramatic than what preceded them, have seen France grapple with economic crises, the thorny issue of immigration and the country's incorporation into the European Union as it seeks a new role for itself in the 21st century.  The examination of these developments will allow students to better appreciate and understand modern France as it exists today.  The study of French history explains why modern France is, in many ways, different f and ~rom its neighbours.  Vive la différence!This class will be taught in an asynchronous format.",
+      "subject_code": "HIST",
+      "course_number": "346",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LANTHIER, MICHAEL"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "32",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Political, social, and cultural history of France from the Revolution of 1789 to the present. France's journey toward democracy; particular focus on the changing nature of French culture and society.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

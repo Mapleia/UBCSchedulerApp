@@ -1,1 +1,47 @@
-{"course_name":"DENT 513","subject_code":"DENT","course_number":"513","course_title":"The Pediatric Patient I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=513&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 513 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=513&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"513","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["KASSAM, SERENA","KORADA, ANU","MATHU-MUJU, KAVITA","RICHMAN, JOY MARION","TSANG, PHOEBE"],"totalRemaining":"20","currentlyRegistered":"2","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Continues in year 2."}
+{
+  "course_name": "DENT 513",
+  "subject_code": "DENT",
+  "course_number": "513",
+  "course_title": "The Pediatric Patient I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=513&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 513 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=513&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "513",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "KASSAM, SERENA",
+        "KORADA, ANU",
+        "MATHU-MUJU, KAVITA",
+        "RICHMAN, JOY MARION",
+        "TSANG, PHOEBE"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "2",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Continues in year 2.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

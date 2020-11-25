@@ -1,1 +1,45 @@
-{"course_name":"APBI 413","subject_code":"APBI","course_number":"413","course_title":"Stress and Coping in Animals","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=413&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"APBI 413 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=413&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"APBI","course_number":"413","section_number":"001","building":" ","room":"","instructors":["WALKER, KRISTEN","MCLELLAN, KATHRYN"],"totalRemaining":"4","currentlyRegistered":"48","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Understanding, assessing, and managing stress in farm, companion, captive wildlife, and research animals: sources of stress; behavioural, emotional, cognitive, and physiological responses; effects on growth, reproduction, health."}
+{
+  "course_name": "APBI 413",
+  "subject_code": "APBI",
+  "course_number": "413",
+  "course_title": "Stress and Coping in Animals",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=413&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APBI 413 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=413&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "413",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALKER, KRISTEN",
+        "MCLELLAN, KATHRYN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Understanding, assessing, and managing stress in farm, companion, captive wildlife, and research animals: sources of stress; behavioural, emotional, cognitive, and physiological responses; effects on growth, reproduction, health.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

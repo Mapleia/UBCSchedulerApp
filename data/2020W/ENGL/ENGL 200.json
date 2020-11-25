@@ -1,1 +1,270 @@
-{"course_name":"ENGL 200","subject_code":"ENGL","course_number":"200","course_title":"Principles of Literary Studies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=200&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ENGL 200 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Fri Wed","start":"10:00","end":"11:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"001","building":" ","room":"","instructors":["BADIR, PATRICIA"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"ENGL 200 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Fri Wed","start":"10:00","end":"11:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"002","building":" ","room":"","instructors":["GOODING, RICHARD"],"totalRemaining":"0","currentlyRegistered":"31","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"ENGL 200 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Fri Wed","start":"10:00","end":"11:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"003","building":" ","room":"","instructors":["WONG, DANIELLE"],"totalRemaining":"0","currentlyRegistered":"31","generalRemaining":"0","restrictedRemaining":"0"},"004":{"status":" ","section":"ENGL 200 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"004","building":" ","room":"","instructors":["DICK, ALEXANDER"],"totalRemaining":"1","currentlyRegistered":"30","generalRemaining":"1","restrictedRemaining":"0"},"005":{"status":"Full","section":"ENGL 200 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=005&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"005","building":" ","room":"","instructors":["MCNEILLY, KEVIN"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"006":{"status":" ","section":"ENGL 200 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=006&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"006","building":" ","room":"","instructors":["JAMES, SUZANNE"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"007":{"status":"Full","section":"ENGL 200 007","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=007&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"007","building":"Mathematics","room":"204","instructors":["GASTON, LISE"],"totalRemaining":"0","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"0"},"008":{"status":"Full","section":"ENGL 200 008","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=008&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"008","building":"Neville Scarfe","room":"203","instructors":["GUY-BRAY, STEPHEN"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"009":{"status":"Full","section":"ENGL 200 009","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=009&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri Wed","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"200","section_number":"009","building":"Neville Scarfe","room":"202","instructors":["LEE, CHRISTOPHER"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A collaboratively-taught exploration and application of key scholarly, theoretical and critical approaches informing the study of literatures in English."}
+{
+  "course_name": "ENGL 200",
+  "subject_code": "ENGL",
+  "course_number": "200",
+  "course_title": "Principles of Literary Studies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BADIR, PATRICIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 200 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GOODING, RICHARD"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "30",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 200 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, DANIELLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 200 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DICK, ALEXANDER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "30",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 200 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCNEILLY, KEVIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 200 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=006&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "006",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JAMES, SUZANNE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 200 007",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=007&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "007",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GASTON, LISE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 200 008",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=008&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "008",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY-BRAY, STEPHEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ENGL 200 009",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=200&section=009&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "200",
+      "section_number": "009",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEE, CHRISTOPHER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A collaboratively-taught exploration and application of key scholarly, theoretical and critical approaches informing the study of literatures in English.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

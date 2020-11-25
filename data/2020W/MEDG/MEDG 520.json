@@ -1,1 +1,45 @@
-{"course_name":"MEDG 520","subject_code":"MEDG","course_number":"520","course_title":"Advanced Human Molecular Genetics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=520&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MEDG 520 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=520&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"10:30","end":"12:00","comments":"Classes will be offered online for 2020W.MEDG 520 is blocked to student registration. Non-Medical Genetics students interested in taking MEDG 520 must obtain permission from the course coordinator, Dr. Stefan Taubert.","subject_code":"MEDG","course_number":"520","section_number":"001","building":" ","room":"","instructors":["TAUBERT, STEFAN","TAUBERT, STEFAN(Coordinator)"],"totalRemaining":"2","currentlyRegistered":"22","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Gene structure and regulation, genetic and epigenetic variation, genome and epigenome analysis, stem cell genetics, personalized genetics, bioinformatics, pharmacogenetics and genomics."}
+{
+  "course_name": "MEDG 520",
+  "subject_code": "MEDG",
+  "course_number": "520",
+  "course_title": "Advanced Human Molecular Genetics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=520&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 520 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=520&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Classes will be offered online for 2020W.MEDG 520 is blocked to student registration. Non-Medical Genetics students interested in taking MEDG 520 must obtain permission from the course coordinator, Dr. Stefan Taubert.",
+      "subject_code": "MEDG",
+      "course_number": "520",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAUBERT, STEFAN",
+        "TAUBERT, STEFAN(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "22",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Gene structure and regulation, genetic and epigenetic variation, genome and epigenome analysis, stem cell genetics, personalized genetics, bioinformatics, pharmacogenetics and genomics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

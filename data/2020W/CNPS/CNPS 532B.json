@@ -1,1 +1,43 @@
-{"course_name":"CNPS 532B","subject_code":"CNPS","course_number":"532B","course_title":"Psychological Assessment in Counselling - PSYC ASSESS CNSL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=532B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CNPS 532B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=532B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"","subject_code":"CNPS","course_number":"532B","section_number":"001","building":"Neville Scarfe","room":"205","instructors":["TRACEY, TERENCE JOHN"],"totalRemaining":"10","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"The use of standardized measures of mental ability, achievement, aptitude, interest and personality."}
+{
+  "course_name": "CNPS 532B",
+  "subject_code": "CNPS",
+  "course_number": "532B",
+  "course_title": "Psychological Assessment in Counselling - PSYC ASSESS CNSL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=532B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CNPS 532B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=532B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "532B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TRACEY, TERENCE JOHN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "The use of standardized measures of mental ability, achievement, aptitude, interest and personality.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

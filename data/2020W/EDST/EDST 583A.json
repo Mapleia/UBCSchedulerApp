@@ -1,1 +1,43 @@
-{"course_name":"EDST 583A","subject_code":"EDST","course_number":"583A","course_title":"Advanced Seminar in Educational Studies - ADV SEM ED STDS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=583A&sessyr=2020&sesscd=W","sections":{"021":{"status":" ","section":"EDST 583A 021","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=583A&section=021&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"This section will be offered online.","subject_code":"EDST","course_number":"583A","section_number":"021","building":" ","room":"","instructors":["TAYLOR, ALISON"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 583A",
+  "subject_code": "EDST",
+  "course_number": "583A",
+  "course_title": "Advanced Seminar in Educational Studies - ADV SEM ED STDS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=583A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDST 583A 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=583A&section=021&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "583A",
+      "section_number": "021",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAYLOR, ALISON"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

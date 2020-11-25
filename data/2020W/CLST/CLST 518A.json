@@ -1,1 +1,43 @@
-{"course_name":"CLST 518A","subject_code":"CLST","course_number":"518A","course_title":"Topics in Greek Art and Archaeology - TPC GREEK A & A","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=518A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CLST 518A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=518A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Archaeology of Democracy. Visit cnrs.ubc.ca for full course descriptions.","subject_code":"CLST","course_number":"518A","section_number":"001","building":"Irving K Barber Learning Centre","room":"191","instructors":["DANIELS, MEGAN"],"totalRemaining":"3","currentlyRegistered":"12","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CLST 518A",
+  "subject_code": "CLST",
+  "course_number": "518A",
+  "course_title": "Topics in Greek Art and Archaeology - TPC GREEK A & A",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CLST&course=518A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CLST 518A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CLST&course=518A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Archaeology of Democracy. Visit cnrs.ubc.ca for full course descriptions. Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "CLST",
+      "course_number": "518A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DANIELS, MEGAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

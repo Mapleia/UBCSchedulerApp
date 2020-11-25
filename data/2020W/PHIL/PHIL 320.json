@@ -1,1 +1,45 @@
-{"course_name":"PHIL 320","subject_code":"PHIL","course_number":"320","course_title":"Logic: Metatheory and Computability","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=320&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PHIL 320 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=320&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"PHIL","course_number":"320","section_number":"001","building":"Forest Sciences Centre","room":"1003","instructors":["GILBERT, DAVID ROBERT"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Continuation of PHIL 220. A system of deduction for predicate logic is selected for further study. Completeness of this system and other metatheoretic results are proved. Other topics include computability, recursive function theory, incompleteness and decidability."}
+{
+  "course_name": "PHIL 320",
+  "subject_code": "PHIL",
+  "course_number": "320",
+  "course_title": "Logic: Metatheory and Computability",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHIL 320 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=320&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PHIL",
+      "course_number": "320",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GILBERT, DAVID ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Continuation of PHIL 220. A system of deduction for predicate logic is selected for further study. Completeness of this system and other metatheoretic results are proved. Other topics include computability, recursive function theory, incompleteness and decidability.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

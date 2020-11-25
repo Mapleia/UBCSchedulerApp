@@ -1,1 +1,43 @@
-{"course_name":"POLI 405F","subject_code":"POLI","course_number":"405F","course_title":"Topics in Canadian Politics - TPC CANADA POLI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405F&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 405F 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405F&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"This course is cross-listed with POLI 501A and will be held in BUCH C403.","subject_code":"POLI","course_number":"405F","section_number":"001","building":" ","room":"","instructors":["BAIER, GERALD"],"totalRemaining":"0","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This seminar examines in depth some of the important issues in Canadian politics."}
+{
+  "course_name": "POLI 405F",
+  "subject_code": "POLI",
+  "course_number": "405F",
+  "course_title": "Topics in Canadian Politics - TPC CANADA POLI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=405F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 405F 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=405F&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This course is cross-listed with POLI 501A.",
+      "subject_code": "POLI",
+      "course_number": "405F",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAIER, GERALD"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This seminar examines in depth some of the important issues in Canadian politics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

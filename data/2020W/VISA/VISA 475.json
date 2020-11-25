@@ -1,1 +1,71 @@
-{"course_name":"VISA 475","subject_code":"VISA","course_number":"475","course_title":"Exhibition Theory and Practice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=475&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 475 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=475&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"12:30","end":"14:00","comments":"VISA and ARTH majors in their final year of their respective major program, as well as 4th-year majors in other Arts areas, are eligible for consideration. All interested students should contact the instructor, Phillip McCrum, at phillip.mccrum@ubc.ca with a brief statement as to why they wish to enroll in a curatorial course and why they would be a good addition to the course. Please include your UBC student number and major program in the email message. Students approved to register will be done so via the department.VISA 475 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). The in-person aspects of the course will take place in the AHVA Gallery, room 1001, Audain Art Centre, 6398 University Boulevard.","subject_code":"VISA","course_number":"475","section_number":"001","building":" ","room":"","instructors":["MCCRUM, PHILLIP"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":"Blocked","section":"VISA 475 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=475&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1-2","interval":"","days":" Fri","start":"12:30","end":"14:00","comments":"VISA 475 01W is a waitlist for VISA 475 001. Note that you cannot self-register in the waitlist. You must first contact the course instructor, Philiip McCrum (phillip.mccrum@ubc.ca), for permission to be registered in the course. If the course is full, but you are otherwise approved, the department will register you on the waitlist.","subject_code":"VISA","course_number":"475","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"98","currentlyRegistered":"1","generalRemaining":"98","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Exhibition course focusing on current curatorial practices and theories with an emphasis on contemporary visual art with the aim of preparing students to engage in the active organization of a large exhibition. Restricted to 4th year Majors in either VISA or ARTH, or permission of the instructor."}
+{
+  "course_name": "VISA 475",
+  "subject_code": "VISA",
+  "course_number": "475",
+  "course_title": "Exhibition Theory and Practice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=475&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 475 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=475&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "VISA and ARTH majors in their final year of their respective major program, as well as 4th-year majors in other Arts areas, are eligible for consideration. All interested students should contact the instructor, Phillip McCrum, at phillip.mccrum@ubc.ca with a brief statement as to why they wish to enroll in a curatorial course and why they would be a good addition to the course. Please include your UBC student number and major program in the email message. Students approved to register will be done so via the department.VISA 475 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). The in-person aspects of the course will take place in the AHVA Gallery, room 1001, Audain Art Centre, 6398 University Boulevard.",
+      "subject_code": "VISA",
+      "course_number": "475",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCRUM, PHILLIP"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "VISA 475 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=475&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "VISA 475 01W is a waitlist for VISA 475 001. Note that you cannot self-register in the waitlist. You must first contact the course instructor, Philiip McCrum (phillip.mccrum@ubc.ca), for permission to be registered in the course. If the course is full, but you are otherwise approved, the department will register you on the waitlist.",
+      "subject_code": "VISA",
+      "course_number": "475",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Exhibition course focusing on current curatorial practices and theories with an emphasis on contemporary visual art with the aim of preparing students to engage in the active organization of a large exhibition. Restricted to 4th year Majors in either VISA or ARTH, or permission of the instructor.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"THTR 320","subject_code":"THTR","course_number":"320","course_title":"History of Theatre I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=320&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 320 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=320&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"If this section if FULL or BLOCKED please sign up for the corresponding wait list section - THTR 320, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ Priority may be given to Majors and Minors in Theatre.","subject_code":"THTR","course_number":"320","section_number":"001","building":"Buchanan","room":"B310","instructors":["MARSHALL, HALLIE"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"THTR 320 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=320&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"This is a WAITLIST section for THTR 320 Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"THTR","course_number":"320","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"5","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Core concepts in world theatre history and the development of theatre prior to the nineteenth century."}
+{
+  "course_name": "THTR 320",
+  "subject_code": "THTR",
+  "course_number": "320",
+  "course_title": "History of Theatre I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 320 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=320&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - THTR 320, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/ Priority may be given to Majors and Minors in Theatre.Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "THTR",
+      "course_number": "320",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARSHALL, HALLIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "THTR 320 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=320&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "This is a WAITLIST section for THTR 320 Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "320",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "2",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Core concepts in world theatre history and the development of theatre prior to the nineteenth century.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

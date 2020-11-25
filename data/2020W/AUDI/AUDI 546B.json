@@ -1,1 +1,43 @@
-{"course_name":"AUDI 546B","subject_code":"AUDI","course_number":"546B","course_title":"Advanced Communication Sciences and Disorders - ADV COMM SCI DIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=546B&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 546B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=546B&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"546B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["SMALL, JEFF"],"totalRemaining":"28","currentlyRegistered":"12","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"May be taken for credit more than once."}
+{
+  "course_name": "AUDI 546B",
+  "subject_code": "AUDI",
+  "course_number": "546B",
+  "course_title": "Advanced Communication Sciences and Disorders - ADV COMM SCI DIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=546B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 546B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=546B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "546B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SMALL, JEFF"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "12",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "May be taken for credit more than once.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,71 @@
-{"course_name":"LARC 523","subject_code":"LARC","course_number":"523","course_title":"Landscape Architecture Theory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=523&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"LARC 523 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=523&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Seminar","term":"2","interval":"","days":" Wed","start":"9:30","end":"12:30","comments":"","subject_code":"LARC","course_number":"523","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"1"},"WL1":{"status":"Restricted","section":"LARC 523 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=523&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed","start":" ","end":" ","comments":"","subject_code":"LARC","course_number":"523","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":"Theoretical positions in landscape architecture and their relation to designed landscapes."}
+{
+  "course_name": "LARC 523",
+  "subject_code": "LARC",
+  "course_number": "523",
+  "course_title": "Landscape Architecture Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=523&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 523 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=523&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "523",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "LARC 523 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=523&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "523",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "Theoretical positions in landscape architecture and their relation to designed landscapes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Seminar",
+    "Waiting List"
+  ]
+}

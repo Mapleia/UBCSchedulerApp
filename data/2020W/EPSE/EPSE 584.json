@@ -1,1 +1,43 @@
-{"course_name":"EPSE 584","subject_code":"EPSE","course_number":"584","course_title":"Motivation in Education","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=584&sessyr=2020&sesscd=W","sections":{"074":{"status":"Full","section":"EPSE 584 074","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=584&section=074&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"HDLC - Restricted for the first week of registration to HDLC students","subject_code":"EPSE","course_number":"584","section_number":"074","building":"Neville Scarfe","room":"1004","instructors":["PERRY, NANCY"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 584",
+  "subject_code": "EPSE",
+  "course_number": "584",
+  "course_title": "Motivation in Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=584&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EPSE 584 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=584&section=074&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "HDLC - Restricted for the first week of registration to HDLC studentsThis section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "584",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PERRY, NANCY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

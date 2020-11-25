@@ -1,1 +1,122 @@
-{"course_name":"CNPS 598C","subject_code":"CNPS","course_number":"598C","course_title":"Field Experiences - FIELD EXPERIENCE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=598C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"CNPS 598C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"","subject_code":"CNPS","course_number":"598C","section_number":"001","building":" ","room":"","instructors":["MATHEW, DEEPAK"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"CNPS 598C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"","subject_code":"CNPS","course_number":"598C","section_number":"002","building":" ","room":"","instructors":["MCCULLOUGH, LUCY"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"1"},"003":{"status":"Blocked","section":"CNPS 598C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=003&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Thu","start":"16:30","end":"19:30","comments":"","subject_code":"CNPS","course_number":"598C","section_number":"003","building":" ","room":"","instructors":["SMITH, GILLIAN"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"61A":{"status":"Blocked","section":"CNPS 598C 61A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=61A&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"This section is reserved for students in the CP18 MED cohort.","subject_code":"CNPS","course_number":"598C","section_number":"61A","building":" ","room":"","instructors":["HANEY, COLLEEN","ROSTAD, FAITH"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"For students in the master's program. Pass/Fail."}
+{
+  "course_name": "CNPS 598C",
+  "subject_code": "CNPS",
+  "course_number": "598C",
+  "course_title": "Field Experiences - FIELD EXPERIENCE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=598C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CNPS 598C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "CNPS",
+      "course_number": "598C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATHEW, DEEPAK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CNPS 598C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "CNPS",
+      "course_number": "598C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCULLOUGH, LUCY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "CNPS 598C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "CNPS",
+      "course_number": "598C",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMITH, GILLIAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CNPS 598C 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=598C&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section is reserved for students in the CP18 MED cohort.",
+      "subject_code": "CNPS",
+      "course_number": "598C",
+      "section_number": "61A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANEY, COLLEEN",
+        "ROSTAD, FAITH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "For students in the master's program. Pass/Fail.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

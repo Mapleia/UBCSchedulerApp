@@ -1,1 +1,70 @@
-{"course_name":"ASIA 336","subject_code":"ASIA","course_number":"336","course_title":"Sufi and Bhakti Devotional Literatures","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=336&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ASIA 336 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=336&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"8:00","end":"9:30","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.","subject_code":"ASIA","course_number":"336","section_number":"001","building":" ","room":"","instructors":["KUMAR BHATT, SUNIL"],"totalRemaining":"33","currentlyRegistered":"22","generalRemaining":"33","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"ASIA 336 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=336&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":"8:00","end":"9:30","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"ASIA","course_number":"336","section_number":"W01","building":" ","room":"","instructors":["KUMAR BHATT, SUNIL"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Sufi and Bhakti thought and tradition in South Asia through literary works in translation."}
+{
+  "course_name": "ASIA 336",
+  "subject_code": "ASIA",
+  "course_number": "336",
+  "course_title": "Sufi and Bhakti Devotional Literatures",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=336&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 336 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=336&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)This course normally meets 3 hours per week. The overall workload for this course remains the same, though for this current term the content will be delivered in a mix-mode format. Students are expected to meet with the instructor synchronously online at the above listed days and times, and complete the rest of the learning tasks asynchronously as outlined in the course syllabus.",
+      "subject_code": "ASIA",
+      "course_number": "336",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUMAR BHATT, SUNIL"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "23",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 336 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=336&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "ASIA",
+      "course_number": "336",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KUMAR BHATT, SUNIL"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Sufi and Bhakti thought and tradition in South Asia through literary works in translation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

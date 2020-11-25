@@ -1,1 +1,123 @@
-{"course_name":"EPSE 320","subject_code":"EPSE","course_number":"320","course_title":"Classroom Inclusion of Students who are Blind and Visually Impaired","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=320&sessyr=2020&sesscd=W","sections":{"076":{"status":"Blocked","section":"EPSE 320 076","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=076&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.","subject_code":"EPSE","course_number":"320","section_number":"076","building":"No Scheduled Meeting","room":"","instructors":["RATHWELL, DAVID"],"totalRemaining":"2","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"2"},"077":{"status":"Blocked","section":"EPSE 320 077","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=077&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.","subject_code":"EPSE","course_number":"320","section_number":"077","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"W76":{"status":"Blocked","section":"EPSE 320 W76","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=W76&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for EPSE 320 section 076SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.","subject_code":"EPSE","course_number":"320","section_number":"W76","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"6"},"W77":{"status":"Full","section":"EPSE 320 W77","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=W77&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for EPSE 320 section 077SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.","subject_code":"EPSE","course_number":"320","section_number":"W77","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Inclusion issues of students with visual impairments in general education classrooms; information about visual impairment, classroom adaptations and accommodations, and application of Universal Design. Appropriate for education majors and classroom teachers."}
+{
+  "course_name": "EPSE 320",
+  "subject_code": "EPSE",
+  "course_number": "320",
+  "course_title": "Classroom Inclusion of Students who are Blind and Visually Impaired",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 320 076",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=076&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "320",
+      "section_number": "076",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RATHWELL, DAVID"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 320 077",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=077&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "320",
+      "section_number": "077",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 320 W76",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=W76&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for EPSE 320 section 076SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "320",
+      "section_number": "W76",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Full",
+      "section": "EPSE 320 W77",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=320&section=W77&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for EPSE 320 section 077SPED - Restricted to:specialization SPED orspecialization IDSC orspecialization EYED orprogram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7.Restriction will be removed for BKIN and BA in year: >=3 with one of these specializations: ****PSYC on July 21.Restriction will be removed for UNCL on July 28.Restriction will be removed for 3rd and 4th year students on August 4.",
+      "subject_code": "EPSE",
+      "course_number": "320",
+      "section_number": "W77",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Inclusion issues of students with visual impairments in general education classrooms; information about visual impairment, classroom adaptations and accommodations, and application of Universal Design. Appropriate for education majors and classroom teachers.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"ARCH 511","subject_code":"ARCH","course_number":"511","course_title":"Architectural Technology I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=511&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 511 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=511&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ARCH","course_number":"511","section_number":"001","building":" ","room":"","instructors":["JOHNSON, GREGORY"],"totalRemaining":"19","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"19"}},"credits":"Credits: 3","description":"Architectural technology, including materials and methods, construction types, and building system integration. Strong emphasis on enclosure performance with focus on smaller buildings and light wood framing construction."}
+{
+  "course_name": "ARCH 511",
+  "subject_code": "ARCH",
+  "course_number": "511",
+  "course_title": "Architectural Technology I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=511&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 511 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=511&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "511",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, GREGORY"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": 3,
+  "description": "Architectural technology, including materials and methods, construction types, and building system integration. Strong emphasis on enclosure performance with focus on smaller buildings and light wood framing construction.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

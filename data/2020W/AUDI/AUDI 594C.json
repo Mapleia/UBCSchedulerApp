@@ -1,1 +1,43 @@
-{"course_name":"AUDI 594C","subject_code":"AUDI","course_number":"594C","course_title":"Speech-Language Pathology Practicum IV - SP-LG PTH PRC IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=594C&sessyr=2020&sesscd=W","sections":{"100":{"status":" ","section":"AUDI 594C 100","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=594C&section=100&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"594C","section_number":"100","building":" ","room":"","instructors":["CHOI, MARCIA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "AUDI 594C",
+  "subject_code": "AUDI",
+  "course_number": "594C",
+  "course_title": "Speech-Language Pathology Practicum IV - SP-LG PTH PRC IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=594C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 594C 100",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=594C&section=100&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "594C",
+      "section_number": "100",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHOI, MARCIA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

@@ -1,1 +1,263 @@
-{"course_name":"PSYC 217","subject_code":"PSYC","course_number":"217","course_title":"Research Methods","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=217&sessyr=2020&sesscd=W","sections":{"901":{"status":"Full","section":"PSYC 217 901","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=901&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"17:00","end":"20:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"901","building":" ","room":"","instructors":["RIVERS, ANDREW"],"totalRemaining":"0","currentlyRegistered":"99","generalRemaining":"0","restrictedRemaining":"0"},"001":{"status":"Full","section":"PSYC 217 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"001","building":" ","room":"","instructors":["RAWN, CATHERINE"],"totalRemaining":"0","currentlyRegistered":"98","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"PSYC 217 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"002","building":" ","room":"","instructors":["RAWN, CATHERINE"],"totalRemaining":"0","currentlyRegistered":"98","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"PSYC 217 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"003","building":" ","room":"","instructors":["CHEUNG, BENJAMIN"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"004":{"status":"Full","section":"PSYC 217 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"004","building":" ","room":"","instructors":["CHEUNG, BENJAMIN"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"005":{"status":"Full","section":"PSYC 217 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=005&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"005","building":" ","room":"","instructors":["LAM, MARK"],"totalRemaining":"0","currentlyRegistered":"98","generalRemaining":"0","restrictedRemaining":"0"},"006":{"status":"Full","section":"PSYC 217 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=006&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"217","section_number":"006","building":" ","room":"","instructors":["LAM, MARK"],"totalRemaining":"0","currentlyRegistered":"99","generalRemaining":"0","restrictedRemaining":"0"},"007":{"status":"Full","section":"PSYC 217 007","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=007&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"217","section_number":"007","building":" ","room":"","instructors":["TRUONG, GRACE"],"totalRemaining":"0","currentlyRegistered":"98","generalRemaining":"0","restrictedRemaining":"0"},"009":{"status":"Full","section":"PSYC 217 009","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=009&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"PSYC","course_number":"217","section_number":"009","building":" ","room":"","instructors":["TRUONG, GRACE"],"totalRemaining":"0","currentlyRegistered":"99","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Focus on various research methods used in psychology, with an emphasis on critical thinking and experimental design.  Restricted to students in the Faculty of Arts who have declared their major in one of Psychology, Cognitive Systems, or Speech Sciences (Linguistics Department). Credit will be granted for only one of PSYC 217 or PSYC 277."}
+{
+  "course_name": "PSYC 217",
+  "subject_code": "PSYC",
+  "course_number": "217",
+  "course_title": "Research Methods",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=217&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 217 901",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=901&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "901",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIVERS, ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAWN, CATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAWN, CATHERINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, BENJAMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, BENJAMIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=005&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=006&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "006",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 007",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=007&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "007",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TRUONG, GRACE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "98",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 217 009",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=217&section=009&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "217",
+      "section_number": "009",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TRUONG, GRACE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Focus on various research methods used in psychology, with an emphasis on critical thinking and experimental design.  Restricted to students in the Faculty of Arts who have declared their major in one of Psychology, Cognitive Systems, or Speech Sciences (Linguistics Department). Credit will be granted for only one of PSYC 217 or PSYC 277.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

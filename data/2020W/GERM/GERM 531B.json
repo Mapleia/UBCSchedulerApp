@@ -1,1 +1,44 @@
-{"course_name":"GERM 531B","subject_code":"GERM","course_number":"531B","course_title":"Special Topics - SPECIAL TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=531B&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"GERM 531B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=531B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This course is cross-listed with GERM 411.This course will focus on analyses of language of fear, hate and persuasion/manipulation, i.e. language used by media, social media, politics and extremism in times of crisis (including the current one). Depending on student interest the focus might be expanded to include analyses of such language use in fiction depicting crises (literary fiction, tv and cinema).","subject_code":"GERM","course_number":"531B","section_number":"001","building":"Leon and Thea Koerner University Centre","room":"103","instructors":["RIEGER, CAROLINE"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This course is taught in English."}
+{
+  "course_name": "GERM 531B",
+  "subject_code": "GERM",
+  "course_number": "531B",
+  "course_title": "Special Topics - SPECIAL TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=531B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GERM 531B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=531B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This course is cross-listed with GERM 411.This course will focus on analyses of language of fear, hate and persuasion/manipulation, i.e. language used by media, social media, politics and extremism in times of crisis (including the current one). Depending on student interest the focus might be expanded to include analyses of such language use in fiction depicting crises (literary fiction, tv and cinema).",
+      "subject_code": "GERM",
+      "course_number": "531B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIEGER, CAROLINE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This course is taught in English.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

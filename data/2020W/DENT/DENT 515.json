@@ -1,1 +1,43 @@
-{"course_name":"DENT 515","subject_code":"DENT","course_number":"515","course_title":"The Pediatric Patient III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=515&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 515 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=515&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"515","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["RICHMAN, JOY MARION"],"totalRemaining":"20","currentlyRegistered":"3","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "DENT 515",
+  "subject_code": "DENT",
+  "course_number": "515",
+  "course_title": "The Pediatric Patient III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=515&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 515 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=515&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "515",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "RICHMAN, JOY MARION"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "3",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

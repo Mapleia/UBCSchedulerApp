@@ -1,1 +1,73 @@
-{"course_name":"URST 400","subject_code":"URST","course_number":"400","course_title":"Seminar in Urban Studies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=URST&course=400&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"URST 400 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=URST&course=400&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"","subject_code":"URST","course_number":"400","section_number":"201","building":"Geography","room":"229","instructors":["WYLY, ELVIN"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":" ","section":"URST 400 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=URST&course=400&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for URST 400, section 201, Term 2.","subject_code":"URST","course_number":"400","section_number":"WL2","building":"","room":"","instructors":["2","8","2","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"A seminar for senior students who wish to explore some common topics of importance to urban studies from the viewpoints of several disciplines."}
+{
+  "course_name": "URST 400",
+  "subject_code": "URST",
+  "course_number": "400",
+  "course_title": "Seminar in Urban Studies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=URST&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "URST 400 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=URST&course=400&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This online seminar has a synchronous scheduled meeting time. There will be some asynchronous lecture material as well. s lecture material as well.",
+      "subject_code": "URST",
+      "course_number": "400",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WYLY, ELVIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "URST 400 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=URST&course=400&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for URST 400, section 201, Term 2.",
+      "subject_code": "URST",
+      "course_number": "400",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "2",
+        "8",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "A seminar for senior students who wish to explore some common topics of importance to urban studies from the viewpoints of several disciplines.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

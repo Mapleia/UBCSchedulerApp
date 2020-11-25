@@ -1,1 +1,43 @@
-{"course_name":"PATH 306","subject_code":"PATH","course_number":"306","course_title":"Laboratory Safety for Medical Laboratory Scientists","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=306&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"PATH 306 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=306&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"12:00","end":"14:00","comments":"RESTRICTED TO BMLS STUDENTS.","subject_code":"PATH","course_number":"306","section_number":"001","building":"UBC Hospital - Koerner Pavilion","room":"G221","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 2","description":"Control processes for workplace hazards of radiological, chemical, and biological origin."}
+{
+  "course_name": "PATH 306",
+  "subject_code": "PATH",
+  "course_number": "306",
+  "course_title": "Laboratory Safety for Medical Laboratory Scientists",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PATH&course=306&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "PATH 306 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PATH&course=306&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "RESTRICTED TO BMLS STUDENTS.",
+      "subject_code": "PATH",
+      "course_number": "306",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": "Control processes for workplace hazards of radiological, chemical, and biological origin.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

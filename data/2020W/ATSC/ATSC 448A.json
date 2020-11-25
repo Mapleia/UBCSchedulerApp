@@ -1,1 +1,69 @@
-{"course_name":"ATSC 448A","subject_code":"ATSC","course_number":"448A","course_title":"Directed Studies - DIR STUDY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=448A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"ATSC 448A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=448A&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ATSC","course_number":"448A","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"6","restrictedRemaining":"4"},"102":{"status":"Blocked","section":"ATSC 448A 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=448A&section=102&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ATSC","course_number":"448A","section_number":"102","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Investigation of a topic to be agreed upon by a member of the faculty and the student.  Permission of the undergraduate advisor and of the supervising faculty member is required before registration."}
+{
+  "course_name": "ATSC 448A",
+  "subject_code": "ATSC",
+  "course_number": "448A",
+  "course_title": "Directed Studies - DIR STUDY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=448A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ATSC 448A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=448A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "448A",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "6",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "ATSC 448A 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=448A&section=102&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "448A",
+      "section_number": "102",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation of a topic to be agreed upon by a member of the faculty and the student.  Permission of the undergraduate advisor and of the supervising faculty member is required before registration.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

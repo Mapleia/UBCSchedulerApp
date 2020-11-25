@@ -1,1 +1,44 @@
-{"course_name":"CHBE 587","subject_code":"CHBE","course_number":"587","course_title":"Interfacial Phenomena","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=587&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 587 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=587&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"CHBE","course_number":"587","section_number":"201","building":"West Mall Swing Space","room":"207","instructors":["FROSTAD, JOHN"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"14"}},"credits":"Credits: 3","description":"Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of CHBE 357, CHBE 487, CHBE 587."}
+{
+  "course_name": "CHBE 587",
+  "subject_code": "CHBE",
+  "course_number": "587",
+  "course_title": "Interfacial Phenomena",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=587&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 587 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=587&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "587",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FROSTAD, JOHN"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    }
+  ],
+  "credits": 3,
+  "description": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of CHBE 357, CHBE 487, CHBE 587.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

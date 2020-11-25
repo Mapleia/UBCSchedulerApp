@@ -1,1 +1,74 @@
-{"course_name":"CPSC 303","subject_code":"CPSC","course_number":"303","course_title":"Numerical Approximation and Discretization","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=303&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 303 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=303&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"303","section_number":"201","building":"Hugh Dempster Pavilion","room":"310","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"130","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 303 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=303&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"303","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"971","currentlyRegistered":"28","generalRemaining":"971","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations."}
+{
+  "course_name": "CPSC 303",
+  "subject_code": "CPSC",
+  "course_number": "303",
+  "course_title": "Numerical Approximation and Discretization",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 303 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=303&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "303",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YI, KWANG"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "127",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 303 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=303&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "303",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "963",
+      "currentlyRegistered": "36",
+      "generalRemaining": "963",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

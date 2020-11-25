@@ -1,1 +1,230 @@
-{"course_name":"DENT 430","subject_code":"DENT","course_number":"430","course_title":"Dentistry III: Intermediate Clinical Dentistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=430&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 430 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DENT","course_number":"430","section_number":"001","building":"","room":"","instructors":["5","57","5","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"DGE":{"status":"Unreleased","section":"DENT 430 DGE","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=DGE&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Thu","start":"10:00","end":"11:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"DGE","building":"P. A. Woodward Instructional Resources Centre","room":"3","instructors":["BRONDANI, MARIO"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"EDE":{"status":"Unreleased","section":"DENT 430 EDE","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=EDE&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"EDE","building":"J.B. MacDonald","room":"158","instructors":["NGUYEN, CAROLINE"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"IGP":{"status":"Unreleased","section":"DENT 430 IGP","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=IGP&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"8:00","end":"10:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"IGP","building":"P. A. Woodward Instructional Resources Centre","room":"3","instructors":["EL-ADWAR, LAMIA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"OMS":{"status":"Unreleased","section":"DENT 430 OMS","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=OMS&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Fri","start":"8:00","end":"10:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"OMS","building":"P. A. Woodward Instructional Resources Centre","room":"1","instructors":["POH, FANG-YEU"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"PM1":{"status":"Unreleased","section":"DENT 430 PM1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=PM1&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Thu","start":"11:00","end":"12:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"PM1","building":"P. A. Woodward Instructional Resources Centre","room":"3","instructors":["FOGELMAN, MENACHEM"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"PMI":{"status":"Unreleased","section":"DENT 430 PMI","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=PMI&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Thu","start":"9:30","end":"12:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"PMI","building":"P. A. Woodward Instructional Resources Centre","room":"5","instructors":["FOGELMAN, MENACHEM"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"RST":{"status":"Unreleased","section":"DENT 430 RST","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=RST&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"DENT","course_number":"430","section_number":"RST","building":"J.B. MacDonald","room":"158","instructors":["LEE, VINCENT"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 36","description":"A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships."}
+{
+  "course_name": "DENT 430",
+  "subject_code": "DENT",
+  "course_number": "430",
+  "course_title": "Dentistry III: Intermediate Clinical Dentistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 430 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "5",
+        "57",
+        "5",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 DGE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=DGE&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "DGE",
+      "building": "P. A. Woodward Instructional Resources Centre",
+      "room": "3",
+      "instructors": [
+        "BRONDANI, MARIO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 EDE",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=EDE&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "EDE",
+      "building": "J.B. MacDonald",
+      "room": "158",
+      "instructors": [
+        "NGUYEN, CAROLINE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 IGP",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=IGP&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "IGP",
+      "building": "P. A. Woodward Instructional Resources Centre",
+      "room": "3",
+      "instructors": [
+        "EL-ADWAR, LAMIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 OMS",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=OMS&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "OMS",
+      "building": "P. A. Woodward Instructional Resources Centre",
+      "room": "1",
+      "instructors": [
+        "POH, FANG-YEU"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 PM1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=PM1&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "PM1",
+      "building": "P. A. Woodward Instructional Resources Centre",
+      "room": "3",
+      "instructors": [
+        "FOGELMAN, MENACHEM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 PMI",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=PMI&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "PMI",
+      "building": "P. A. Woodward Instructional Resources Centre",
+      "room": "5",
+      "instructors": [
+        "FOGELMAN, MENACHEM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 430 RST",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=430&section=RST&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "430",
+      "section_number": "RST",
+      "building": "J.B. MacDonald",
+      "room": "158",
+      "instructors": [
+        "LEE, VINCENT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"HIST 419","subject_code":"HIST","course_number":"419","course_title":"Crime and Punishment in Canadian History","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=419&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 419 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=419&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"HIST","course_number":"419","section_number":"101","building":" ","room":"","instructors":["MILLER, BRADLEY"],"totalRemaining":"5","currentlyRegistered":"45","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The relationship between law and society; the development of legal institutions and the evolving character of crime in Canada."}
+{
+  "course_name": "HIST 419",
+  "subject_code": "HIST",
+  "course_number": "419",
+  "course_title": "Crime and Punishment in Canadian History",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=419&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 419 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=419&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "419",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, BRADLEY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "45",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The relationship between law and society; the development of legal institutions and the evolving character of crime in Canada.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

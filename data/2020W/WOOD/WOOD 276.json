@@ -1,1 +1,72 @@
-{"course_name":"WOOD 276","subject_code":"WOOD","course_number":"276","course_title":"Mechanics of Wood Products","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=276&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"WOOD 276 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=276&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"WOOD","course_number":"276","section_number":"101","building":" ","room":"","instructors":["LAM, FRANK"],"totalRemaining":"33","currentlyRegistered":"17","generalRemaining":"33","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 276 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=276&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"10:00","end":"12:00","comments":"","subject_code":"WOOD","course_number":"276","section_number":"L01","building":" ","room":"","instructors":["LAM, FRANK"],"totalRemaining":"18","currentlyRegistered":"17","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the strength of materials with emphasis on the elastic properties and ultimate strength of wood and wood products."}
+{
+  "course_name": "WOOD 276",
+  "subject_code": "WOOD",
+  "course_number": "276",
+  "course_title": "Mechanics of Wood Products",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=276&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 276 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=276&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "276",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, FRANK"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "17",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 276 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=276&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "276",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAM, FRANK"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "17",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the strength of materials with emphasis on the elastic properties and ultimate strength of wood and wood products.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

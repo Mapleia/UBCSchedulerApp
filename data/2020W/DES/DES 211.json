@@ -1,1 +1,44 @@
-{"course_name":"DES 211","subject_code":"DES","course_number":"211","course_title":"Design Media I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=211&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DES 211 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=211&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"DES","course_number":"211","section_number":"001","building":" ","room":"","instructors":["SCHELLINGERHOUDT, DAVID"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Techniques in architectural drawing, two-dimensional representation, three-dimensional representation and general visual literacy. Credit will be granted for only one of ENDS 320, ARCH 515 or DES 211."}
+{
+  "course_name": "DES 211",
+  "subject_code": "DES",
+  "course_number": "211",
+  "course_title": "Design Media I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=211&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 211 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=211&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "211",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHELLINGERHOUDT, DAVID"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques in architectural drawing, two-dimensional representation, three-dimensional representation and general visual literacy. Credit will be granted for only one of ENDS 320, ARCH 515 or DES 211.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

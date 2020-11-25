@@ -1,1 +1,71 @@
-{"course_name":"ELEC 400M","subject_code":"ELEC","course_number":"400M","course_title":"Topics in Electrical Engineering - MCN LNG FDMT ENG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=400M&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"ELEC 400M 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400M&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"credit will be granted for only one of ELEC 400M/EECE 571M and (CPSC 330 or CPSC 340).Long Title: Machine Learning Fundamentals for EngineersThis is a Special Topics course focusing on foundations and concepts of machine learning and its applications to engineering problems. Students are expected to have obtained a solid background in probability and random variables, as demonstrated by successfully completing one of the following courses: ELEC/STAT 321, MATH/STAT 302, MATH 318.This course can be applied towards the advanced electives requirement of the BASc in Electrical Engineering program and the BASc in Computer Engineering program.Further, credit will be granted for only one of: ELEC 400M, CPSC 330, CPSC 340.","subject_code":"ELEC","course_number":"400M","section_number":"201","building":"Hugh Dempster Pavilion","room":"110","instructors":["LAMPE, LUTZ"],"totalRemaining":"0","currentlyRegistered":"74","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 400M 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400M&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"400M","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Lectures or projects on subjects of current interest."}
+{
+  "course_name": "ELEC 400M",
+  "subject_code": "ELEC",
+  "course_number": "400M",
+  "course_title": "Topics in Electrical Engineering - MCN LNG FDMT ENG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=400M&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 400M 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400M&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "credit will be granted for only one of ELEC 400M/EECE 571M and (CPSC 330 or CPSC 340).Long Title: Machine Learning Fundamentals for EngineersThis is a Special Topics course focusing on foundations and concepts of machine learning and its applications to engineering problems. Students are expected to have obtained a solid background in probability and random variables, as demonstrated by successfully completing one of the following courses: ELEC/STAT 321, MATH/STAT 302, MATH 318.This course can be applied towards the advanced electives requirement of the BASc in Electrical Engineering program and the BASc in Computer Engineering program.Further, credit will be granted for only one of: ELEC 400M, CPSC 330, CPSC 340.",
+      "subject_code": "ELEC",
+      "course_number": "400M",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAMPE, LUTZ"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "73",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 400M 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=400M&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "400M",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Lectures or projects on subjects of current interest.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

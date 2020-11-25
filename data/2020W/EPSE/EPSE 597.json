@@ -1,1 +1,43 @@
-{"course_name":"EPSE 597","subject_code":"EPSE","course_number":"597","course_title":"Structural Equation Modelling and Factor Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=597&sessyr=2020&sesscd=W","sections":{"075":{"status":"Full","section":"EPSE 597 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=597&section=075&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"13:00","end":"16:00","comments":"","subject_code":"EPSE","course_number":"597","section_number":"075","building":"Neville Scarfe","room":"210","instructors":["WU, AMERY"],"totalRemaining":"0","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 597",
+  "subject_code": "EPSE",
+  "course_number": "597",
+  "course_title": "Structural Equation Modelling and Factor Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=597&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EPSE 597 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=597&section=075&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "This section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "597",
+      "section_number": "075",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WU, AMERY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"PLAN 527B","subject_code":"PLAN","course_number":"527B","course_title":"Internship - INTERNSHIP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=527B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PLAN 527B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=001&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.","subject_code":"PLAN","course_number":"527B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"39","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"39"},"002":{"status":"Blocked","section":"PLAN 527B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=002&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.","subject_code":"PLAN","course_number":"527B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"40"},"003":{"status":"Blocked","section":"PLAN 527B 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=003&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.","subject_code":"PLAN","course_number":"527B","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"40"}},"credits":"Credits: 3","description":"Pass/Fail."}
+{
+  "course_name": "PLAN 527B",
+  "subject_code": "PLAN",
+  "course_number": "527B",
+  "course_title": "Internship - INTERNSHIP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=527B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PLAN 527B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.",
+      "subject_code": "PLAN",
+      "course_number": "527B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "38"
+    },
+    {
+      "status": "Blocked",
+      "section": "PLAN 527B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.",
+      "subject_code": "PLAN",
+      "course_number": "527B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "40"
+    },
+    {
+      "status": "Blocked",
+      "section": "PLAN 527B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=527B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Second MCRP Internship (optional). MCRP students only. To register, please contact the Graduate Administrator at the SCARP Office.",
+      "subject_code": "PLAN",
+      "course_number": "527B",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "38"
+    }
+  ],
+  "credits": 3,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

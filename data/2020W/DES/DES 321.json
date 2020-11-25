@@ -1,1 +1,44 @@
-{"course_name":"DES 321","subject_code":"DES","course_number":"321","course_title":"Architectural History I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=321&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DES 321 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=321&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"1","interval":"","days":" Wed Fri","start":"9:30","end":"11:00","comments":"","subject_code":"DES","course_number":"321","section_number":"001","building":" ","room":"","instructors":["GRAY, CHRISTINA"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"A global history of architecture pre-20th century. Credit will be granted for only one of  DES 321, ARCH 404 or ARCH 505."}
+{
+  "course_name": "DES 321",
+  "subject_code": "DES",
+  "course_number": "321",
+  "course_title": "Architectural History I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=321&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 321 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=321&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "321",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAY, CHRISTINA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "A global history of architecture pre-20th century. Credit will be granted for only one of  DES 321, ARCH 404 or ARCH 505.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

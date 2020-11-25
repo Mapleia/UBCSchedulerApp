@@ -1,1 +1,70 @@
-{"course_name":"KIN 420","subject_code":"KIN","course_number":"420","course_title":"Prevention of Sports Injuries","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=420&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 420 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=420&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"17:00","end":"20:00","comments":"","subject_code":"KIN","course_number":"420","section_number":"001","building":" ","room":"","instructors":["LASINSKY, ANNE"],"totalRemaining":"0","currentlyRegistered":"341","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Blocked","section":"KIN 420 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=420&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"420","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"75","currentlyRegistered":"0","generalRemaining":"75","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Training and safety strategies for the prevention of injuries to the musculoskeletal system and sense organs."}
+{
+  "course_name": "KIN 420",
+  "subject_code": "KIN",
+  "course_number": "420",
+  "course_title": "Prevention of Sports Injuries",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "420",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LASINSKY, ANNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "340",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 420 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=420&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "420",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "75",
+      "currentlyRegistered": "0",
+      "generalRemaining": "75",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Training and safety strategies for the prevention of injuries to the musculoskeletal system and sense organs.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

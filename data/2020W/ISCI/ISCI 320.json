@@ -1,1 +1,43 @@
-{"course_name":"ISCI 320","subject_code":"ISCI","course_number":"320","course_title":"Research Development Project","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=320&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"ISCI 320 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=320&section=201&sessyr=2020&sesscd=W","activity":"Field Trip","term":"2","interval":"","days":" Sun","start":" ","end":" ","comments":"The dates for this course are tentatively scheduled as Fri May 1, 2020 to Saturday May 9, 2020.See department for information about course cost, location and timing.  Students not specializing in Integrated Sciences should register on the waitlist.","subject_code":"ISCI","course_number":"320","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"1"},"2W1":{"status":"Full","section":"ISCI 320 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=320&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Sun","start":" ","end":" ","comments":"ISCI 320 waitlist.","subject_code":"ISCI","course_number":"320","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Retreat to develop skills in writing scientific research proposals.  Emphasis on formulating and testing hypotheses to explain observations.  Course location will vary; fee payable prior to retreat."}
+{
+  "course_name": "ISCI 320",
+  "subject_code": "ISCI",
+  "course_number": "320",
+  "course_title": "Research Development Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ISCI&course=320&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ISCI 320 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ISCI&course=320&section=201&sessyr=2020&sesscd=W",
+      "activity": "Field Trip",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SUN"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "The dates for this course are tentatively scheduled as April 29th- May 7, 2021.This is a web-oriented offering of the ISCI 320 field course.",
+      "subject_code": "ISCI",
+      "course_number": "320",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Retreat to develop skills in writing scientific research proposals.  Emphasis on formulating and testing hypotheses to explain observations.  Course location will vary; fee payable prior to retreat.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Field Trip"
+  ]
+}

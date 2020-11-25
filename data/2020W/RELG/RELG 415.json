@@ -1,1 +1,45 @@
-{"course_name":"RELG 415","subject_code":"RELG","course_number":"415","course_title":"The Life and Thought of Paul of Tarsus","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=415&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"RELG 415 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=415&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.If this course is full or blocked, please register in the waitlist. Detailed information for this course in 2020W is available at https://rgst.arts.ubc.ca/rgst-courses/rgst-400/.","subject_code":"RELG","course_number":"415","section_number":"001","building":" ","room":"","instructors":["KEDDIE, GEORGE ANTHONY"],"totalRemaining":"15","currentlyRegistered":"15","generalRemaining":"10","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"The life and literature of Paul in the Roman imperial world: letter writing, patronage and power; Roman imperial iconography; Paul and community formation."}
+{
+  "course_name": "RELG 415",
+  "subject_code": "RELG",
+  "course_number": "415",
+  "course_title": "The Life and Thought of Paul of Tarsus",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RELG 415 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=415&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.If this course is full or blocked, please register in the waitlist. Detailed information for this course in 2020W is available at https://rgst.arts.ubc.ca/rgst-courses/rgst-400/.",
+      "subject_code": "RELG",
+      "course_number": "415",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KEDDIE, GEORGE ANTHONY"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "14",
+      "generalRemaining": "11",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "The life and literature of Paul in the Roman imperial world: letter writing, patronage and power; Roman imperial iconography; Paul and community formation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

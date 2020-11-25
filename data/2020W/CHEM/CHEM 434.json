@@ -1,1 +1,44 @@
-{"course_name":"CHEM 434","subject_code":"CHEM","course_number":"434","course_title":"Principles of Chemical Separation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=434&sessyr=2020&sesscd=W","sections":{"266":{"status":" ","section":"CHEM 434 266","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=434&section=266&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CHEM","course_number":"434","section_number":"266","building":"Chemistry","room":"D213","instructors":["CHEN, DAVID"],"totalRemaining":"4","currentlyRegistered":"6","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Unified theory of separation science; liquid and gas chromatography; capillary electrophoresis; electrochemical and spectroscopic detection; separation methods coupled with mass spectrometry and tandem mass spectrometry; biochemical applications. Credit will be granted for only one of CHEM 434 or CHEM 534."}
+{
+  "course_name": "CHEM 434",
+  "subject_code": "CHEM",
+  "course_number": "434",
+  "course_title": "Principles of Chemical Separation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=434&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 434 266",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=434&section=266&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "434",
+      "section_number": "266",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, DAVID"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "5",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Unified theory of separation science; liquid and gas chromatography; capillary electrophoresis; electrochemical and spectroscopic detection; separation methods coupled with mass spectrometry and tandem mass spectrometry; biochemical applications. Credit will be granted for only one of CHEM 434 or CHEM 534.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"ASIA 210","subject_code":"ASIA","course_number":"210","course_title":"Traditions of Yoga","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ASIA 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=210&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)","subject_code":"ASIA","course_number":"210","section_number":"001","building":"Friedman Building","room":"153","instructors":["SATHAYE, ADHEESH"],"totalRemaining":"11","currentlyRegistered":"59","generalRemaining":"11","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"ASIA 210 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=210&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"ASIA","course_number":"210","section_number":"W01","building":" ","room":"","instructors":["SATHAYE, ADHEESH"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Philosophical, religious, and cultural development of yoga in classical and medieval South Asia and its relation to contemporary globalized practice."}
+{
+  "course_name": "ASIA 210",
+  "subject_code": "ASIA",
+  "course_number": "210",
+  "course_title": "Traditions of Yoga",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "ASIA",
+      "course_number": "210",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SATHAYE, ADHEESH"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "62",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 210 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=210&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "ASIA",
+      "course_number": "210",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SATHAYE, ADHEESH"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Philosophical, religious, and cultural development of yoga in classical and medieval South Asia and its relation to contemporary globalized practice.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

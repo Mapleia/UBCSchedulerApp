@@ -1,1 +1,46 @@
-{"course_name":"DHYG 406","subject_code":"DHYG","course_number":"406","course_title":"Guided Study in Dental Hygiene","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=406&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"DHYG 406 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=406&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"DHYG","course_number":"406","section_number":"001","building":"","room":"","instructors":["0","4","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Conduct an in-depth investigation of a health promotion issue."}
+{
+  "course_name": "DHYG 406",
+  "subject_code": "DHYG",
+  "course_number": "406",
+  "course_title": "Guided Study in Dental Hygiene",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DHYG&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "DHYG 406 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DHYG&course=406&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "DHYG",
+      "course_number": "406",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "4",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Conduct an in-depth investigation of a health promotion issue.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

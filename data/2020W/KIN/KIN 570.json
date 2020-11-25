@@ -1,1 +1,43 @@
-{"course_name":"KIN 570","subject_code":"KIN","course_number":"570","course_title":"Research Methods in Kinesiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=570&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"KIN 570 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=570&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Wed","start":"9:30","end":"12:30","comments":"Course is delivered onlineCourse outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0","subject_code":"KIN","course_number":"570","section_number":"001","building":" ","room":"","instructors":["CROCKER, PETER"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Research methods applied to the study of sport and physical activity, the nature of scientific inquiry, the design of experiments, the survey as a research medium, the historical and philosophical methods of inquiry, the writing of the research report."}
+{
+  "course_name": "KIN 570",
+  "subject_code": "KIN",
+  "course_number": "570",
+  "course_title": "Research Methods in Kinesiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=570&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "KIN 570 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=570&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Course is delivered onlineCourse outline may be found under \"Graduate Course\" at: http://kin.educ.ubc.ca/current-students/current-graduate-students/#Courses-0",
+      "subject_code": "KIN",
+      "course_number": "570",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CROCKER, PETER"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "Research methods applied to the study of sport and physical activity, the nature of scientific inquiry, the design of experiments, the survey as a research medium, the historical and philosophical methods of inquiry, the writing of the research report.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

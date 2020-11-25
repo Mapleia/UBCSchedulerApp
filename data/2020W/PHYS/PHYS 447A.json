@@ -1,1 +1,43 @@
-{"course_name":"PHYS 447A","subject_code":"PHYS","course_number":"447A","course_title":"Advanced Topics in Physics - ADV TPCS PHYS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=447A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Unreleased","section":"PHYS 447A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=447A&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHYS","course_number":"447A","section_number":"101","building":" ","room":"","instructors":["KIEFL, ROBERT"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Directed studies available to students in Honours Physics with approval from the Head of the Department."}
+{
+  "course_name": "PHYS 447A",
+  "subject_code": "PHYS",
+  "course_number": "447A",
+  "course_title": "Advanced Topics in Physics - ADV TPCS PHYS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=447A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "PHYS 447A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=447A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "447A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KIEFL, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Directed studies available to students in Honours Physics with approval from the Head of the Department.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

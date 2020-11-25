@@ -1,1 +1,70 @@
-{"course_name":"FRST 444","subject_code":"FRST","course_number":"444","course_title":"Agroforestry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=444&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"FRST 444 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=444&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"This course is also open to non-Forestry students.","subject_code":"FRST","course_number":"444","section_number":"101","building":"Earth Sciences Building","room":"1013","instructors":["PRESCOTT, CINDY"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"T01":{"status":" ","section":"FRST 444 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=444&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"","subject_code":"FRST","course_number":"444","section_number":"T01","building":"Forest Sciences Centre","room":"1221","instructors":["PRESCOTT, CINDY"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Integration of farms and forests, including tropical agroforestry systems, non-timber forest products, forest farming, woodlot management, silvopastoralism, riparian buffers, windbreaks, soil fertility improvement and nutrient cycling."}
+{
+  "course_name": "FRST 444",
+  "subject_code": "FRST",
+  "course_number": "444",
+  "course_title": "Agroforestry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=444&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FRST 444 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=444&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This course is also open to non-Forestry students.",
+      "subject_code": "FRST",
+      "course_number": "444",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRESCOTT, CINDY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 444 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=444&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "444",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRESCOTT, CINDY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Integration of farms and forests, including tropical agroforestry systems, non-timber forest products, forest farming, woodlot management, silvopastoralism, riparian buffers, windbreaks, soil fertility improvement and nutrient cycling.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

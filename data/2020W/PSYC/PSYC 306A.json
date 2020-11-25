@@ -1,1 +1,73 @@
-{"course_name":"PSYC 306A","subject_code":"PSYC","course_number":"306A","course_title":"Principles of Animal Behaviour - PRIN ANIML BEHAV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=306A&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"PSYC 306A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=306A&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"306A","section_number":"101","building":" ","room":"","instructors":["SEIB, DESIREE"],"totalRemaining":"24","currentlyRegistered":"166","generalRemaining":"24","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 306A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=306A&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"PSYC","course_number":"306A","section_number":"002","building":" ","room":"","instructors":["SOMA, KIRAN"],"totalRemaining":"1","currentlyRegistered":"149","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Behavioural neuroscience; behavioural genetics; social systems; mating and parental strategies; instinct and learning; evolution of human behaviour. Credit will be given for only one of BIOL 310 or PSYC 306."}
+{
+  "course_name": "PSYC 306A",
+  "subject_code": "PSYC",
+  "course_number": "306A",
+  "course_title": "Principles of Animal Behaviour - PRIN ANIML BEHAV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=306A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 306A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=306A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "306A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SEIB, DESIREE"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "164",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 306A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=306A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "306A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOMA, KIRAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "150",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Behavioural neuroscience; behavioural genetics; social systems; mating and parental strategies; instinct and learning; evolution of human behaviour. Credit will be given for only one of BIOL 310 or PSYC 306.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,76 @@
-{"course_name":"NURS 410A","subject_code":"NURS","course_number":"410A","course_title":"Supplemental Guided Study - SPLMNT GUID STDY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=410A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"NURS 410A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=410A&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"NURS","course_number":"410A","section_number":"001","building":"","room":"","instructors":["0","3","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"NURS 410A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=410A&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"NURS","course_number":"410A","section_number":"002","building":"","room":"","instructors":["1","0","1","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Supplemental guided study to integrate and consolidate professional nursing knowledge, skills and competencies. For Bachelor of Science Nursing students only. Pass/Fail."}
+{
+  "course_name": "NURS 410A",
+  "subject_code": "NURS",
+  "course_number": "410A",
+  "course_title": "Supplemental Guided Study - SPLMNT GUID STDY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=410A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "NURS 410A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=410A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "410A",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "3",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 410A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=410A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "410A",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "1",
+        "0",
+        "1",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Supplemental guided study to integrate and consolidate professional nursing knowledge, skills and competencies. For Bachelor of Science Nursing students only. Pass/Fail.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

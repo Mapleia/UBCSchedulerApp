@@ -1,1 +1,149 @@
-{"course_name":"VISA 380","subject_code":"VISA","course_number":"380","course_title":"Studio Theory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=380&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 380 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"9:00","end":"10:00","comments":"Required for all Visual Art (VISA) majors. If registration for VISA 380 001 is blocked, the course is full and you should register in waitlist VISA 380 01W. Students will be moved from the waitlist into the course as seats become available, and then notified of their registration via email.","subject_code":"VISA","course_number":"380","section_number":"001","building":"Frederic Lasserre","room":"102","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"61","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":"Full","section":"VISA 380 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"","subject_code":"VISA","course_number":"380","section_number":"L01","building":"Frederic Lasserre","room":"5C","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"0"},"L02":{"status":"Full","section":"VISA 380 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"","subject_code":"VISA","course_number":"380","section_number":"L02","building":"Frederic Lasserre","room":"210","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":"Full","section":"VISA 380 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L03&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"","subject_code":"VISA","course_number":"380","section_number":"L03","building":"Auditorium Annex","room":"142","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":"Restricted","section":"VISA 380 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Fri","start":" ","end":" ","comments":"VISA 380 01W is a waiting list for VISA 380 001. Students will be moved from the waiting list into the course, space permitting, in order of registration date.Pre-reqs: 12 credits of 200 level VISA with an average of at least 72%. Students who do not have the appropriate pre-requisites will be de-registered and should contact the Department.","subject_code":"VISA","course_number":"380","section_number":"01W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"95","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"95"}},"credits":"Credits: 3","description":"A seminar in problems in contemporary art practice and related theory. Preference given to Visual Art students."}
+{
+  "course_name": "VISA 380",
+  "subject_code": "VISA",
+  "course_number": "380",
+  "course_title": "Studio Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=380&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 380 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Required for all Visual Art (VISA) majors. If registration for VISA 380 001 is blocked, the course is full and you should register in waitlist VISA 380 01W. Students will be moved from the waitlist into the course as seats become available, and then notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "380",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BALUTA, DAMLA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "61",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "VISA 380 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "VISA",
+      "course_number": "380",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "VISA 380 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "VISA",
+      "course_number": "380",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "VISA 380 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "VISA",
+      "course_number": "380",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 380 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=380&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "VISA 380 01W is a waiting list for VISA 380 001. Students will be moved from the waiting list into the course, space permitting, in order of registration date.Pre-reqs: 12 credits of 200 level VISA with an average of at least 72%. Students who do not have the appropriate pre-requisites will be de-registered and should contact the Department.",
+      "subject_code": "VISA",
+      "course_number": "380",
+      "section_number": "01W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "93",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "93"
+    }
+  ],
+  "credits": 3,
+  "description": "A seminar in problems in contemporary art practice and related theory. Preference given to Visual Art students.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

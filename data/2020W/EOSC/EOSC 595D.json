@@ -1,1 +1,43 @@
-{"course_name":"EOSC 595D","subject_code":"EOSC","course_number":"595D","course_title":"Directed Studies - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=595D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"EOSC 595D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=595D&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"595D","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":" "}
+{
+  "course_name": "EOSC 595D",
+  "subject_code": "EOSC",
+  "course_number": "595D",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=595D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 595D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=595D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "595D",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

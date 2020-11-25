@@ -1,1 +1,72 @@
-{"course_name":"CHBE 251","subject_code":"CHBE","course_number":"251","course_title":"Transport Phenomena I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=251&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"CHBE 251 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=251&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CHBE","course_number":"251","section_number":"201","building":"UBC Life Building","room":"2201","instructors":["MARTINEZ, MARK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T2A":{"status":"STT","section":"CHBE 251 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=251&section=T2A&sessyr=2020&sesscd=W","activity":"Problem Session","term":"2","interval":"","days":" Thu^","start":"12:00","end":"14:00","comments":"^ every second week starting with week following start week","subject_code":"CHBE","course_number":"251","section_number":"T2A","building":"Chemistry","room":"B250","instructors":["MARTINEZ, MARK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering."}
+{
+  "course_name": "CHBE 251",
+  "subject_code": "CHBE",
+  "course_number": "251",
+  "course_title": "Transport Phenomena I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=251&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHBE 251 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=251&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "251",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARTINEZ, MARK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "CHBE 251 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=251&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "CHBE",
+      "course_number": "251",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARTINEZ, MARK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Problem Session"
+  ]
+}

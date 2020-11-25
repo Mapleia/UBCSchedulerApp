@@ -1,1 +1,70 @@
-{"course_name":"LLED 469","subject_code":"LLED","course_number":"469","course_title":"Inquiry-Based Pedagogy in School Library Programs","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=469&sessyr=2020&sesscd=W","sections":{"63C":{"status":"Restricted","section":"LLED 469 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=469&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 469 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"469","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["MCNEE, DARCY LEIGH"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"5"},"W3C":{"status":"Blocked","section":"LLED 469 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=469&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 469. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"469","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"}},"credits":"Credits: 3","description":"Principles and practices of teachers and teacher-librarians designing and teaching curriculum using inquiry-based pedagogy. LLED 469 is a core course for the Teacher Librarian Diploma."}
+{
+  "course_name": "LLED 469",
+  "subject_code": "LLED",
+  "course_number": "469",
+  "course_title": "Inquiry-Based Pedagogy in School Library Programs",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=469&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LLED 469 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=469&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 469 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "469",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MCNEE, DARCY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 469 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=469&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 469. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "469",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and practices of teachers and teacher-librarians designing and teaching curriculum using inquiry-based pedagogy. LLED 469 is a core course for the Teacher Librarian Diploma.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

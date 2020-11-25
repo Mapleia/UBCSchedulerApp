@@ -1,1 +1,74 @@
-{"course_name":"WOOD 384","subject_code":"WOOD","course_number":"384","course_title":"Wood Sawmilling and Drying","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=384&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"WOOD 384 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=384&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"WOOD","course_number":"384","section_number":"101","building":" ","room":"","instructors":["AVRAMIDIS, STAVROS","NASIR, VAHID"],"totalRemaining":"21","currentlyRegistered":"39","generalRemaining":"21","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 384 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=384&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"14:00","end":"16:00","comments":"","subject_code":"WOOD","course_number":"384","section_number":"L01","building":" ","room":"","instructors":["AVRAMIDIS, STAVROS","NASIR, VAHID"],"totalRemaining":"21","currentlyRegistered":"39","generalRemaining":"21","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to primary log breakdown systems and lumber material flow in modern sawmills and planermills. Lumber drying equipment and methods."}
+{
+  "course_name": "WOOD 384",
+  "subject_code": "WOOD",
+  "course_number": "384",
+  "course_title": "Wood Sawmilling and Drying",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=384&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 384 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=384&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "384",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "NASIR, VAHID"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "39",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 384 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=384&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "384",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AVRAMIDIS, STAVROS",
+        "NASIR, VAHID"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "39",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to primary log breakdown systems and lumber material flow in modern sawmills and planermills. Lumber drying equipment and methods.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

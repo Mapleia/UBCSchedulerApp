@@ -1,1 +1,100 @@
-{"course_name":"BIOL 445","subject_code":"BIOL","course_number":"445","course_title":"Darwin's Fishes","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=445&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"BIOL 445 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"9:00","end":"11:00","comments":"","subject_code":"BIOL","course_number":"445","section_number":"201","building":"Biological Sciences","room":"1001","instructors":["PAULY, DANIEL"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":" ","section":"BIOL 445 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"This is the wait-list for BIOL 445-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"445","section_number":"2W1","building":"","room":"","instructors":["1","9","1","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T21":{"status":"Full","section":"BIOL 445 T21","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=T21&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"13:00","end":"15:00","comments":"","subject_code":"BIOL","course_number":"445","section_number":"T21","building":"West Mall Swing Space","room":"210","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A series of computer-assisted lectures using ichthyology and the work of Charles Darwin to illustrate basic principles of biology, and their practical implementation, i.e., how biologists select research programs, generate and test hypotheses, and present their case to peers and the public."}
+{
+  "course_name": "BIOL 445",
+  "subject_code": "BIOL",
+  "course_number": "445",
+  "course_title": "Darwin's Fishes",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=445&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 445 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "445",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAULY, DANIEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 445 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This is the wait-list for BIOL 445-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "445",
+      "section_number": "2W1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "10",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 445 T21",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=445&section=T21&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "445",
+      "section_number": "T21",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A series of computer-assisted lectures using ichthyology and the work of Charles Darwin to illustrate basic principles of biology, and their practical implementation, i.e., how biologists select research programs, generate and test hypotheses, and present their case to peers and the public.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Tutorial"
+  ]
+}

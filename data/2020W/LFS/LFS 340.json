@@ -1,1 +1,71 @@
-{"course_name":"LFS 340","subject_code":"LFS","course_number":"340","course_title":"First Nations Health and the Traditional Role of Plants","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=340&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LFS 340 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=340&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"","subject_code":"LFS","course_number":"340","section_number":"001","building":" ","room":"","instructors":["JOVEL, EDUARDO","MENDES, WILSON"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":"Full","section":"LFS 340 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=340&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"","subject_code":"LFS","course_number":"340","section_number":"002","building":"Food, Nutrition and Health","room":"30","instructors":["JOVEL, EDUARDO"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This Interprofessional Health and Human Service (IHHS) course covers the First Nations medical systems and medicinal plants. Bridging the traditional with modern sciences. Credit will be granted for only one of LFS 340 or IHHS 301."}
+{
+  "course_name": "LFS 340",
+  "subject_code": "LFS",
+  "course_number": "340",
+  "course_title": "First Nations Health and the Traditional Role of Plants",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=340&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LFS 340 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=340&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "340",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOVEL, EDUARDO",
+        "MENDES, WILSON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LFS 340 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=340&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "340",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOVEL, EDUARDO"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This Interprofessional Health and Human Service (IHHS) course covers the First Nations medical systems and medicinal plants. Bridging the traditional with modern sciences. Credit will be granted for only one of LFS 340 or IHHS 301.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

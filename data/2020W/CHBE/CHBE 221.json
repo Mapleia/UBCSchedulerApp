@@ -1,1 +1,71 @@
-{"course_name":"CHBE 221","subject_code":"CHBE","course_number":"221","course_title":"Founding Principles in Chemical and Biological Engineering II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=221&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 221 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=221&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHBE","course_number":"221","section_number":"201","building":"Chemical and Biological Engineering Building","room":"101","instructors":["POTVIN, GABRIEL"],"totalRemaining":"2","currentlyRegistered":"122","generalRemaining":"0","restrictedRemaining":"2"},"T2A":{"status":"Restricted","section":"CHBE 221 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=221&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri*","start":"15:00","end":"17:00","comments":"* every second week starting with start week","subject_code":"CHBE","course_number":"221","section_number":"T2A","building":"Chemical and Biological Engineering Building","room":"101","instructors":["POTVIN, GABRIEL"],"totalRemaining":"5","currentlyRegistered":"122","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 4","description":"Introduction to Chemical and Biological Engineering profession with emphasis on the biological sciences that form the founding principles of the discipline."}
+{
+  "course_name": "CHBE 221",
+  "subject_code": "CHBE",
+  "course_number": "221",
+  "course_title": "Founding Principles in Chemical and Biological Engineering II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=221&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 221 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=221&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "221",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "122",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 221 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=221&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI*"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "CHBE",
+      "course_number": "221",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "122",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 4,
+  "description": "Introduction to Chemical and Biological Engineering profession with emphasis on the biological sciences that form the founding principles of the discipline.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

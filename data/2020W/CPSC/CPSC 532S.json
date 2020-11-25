@@ -1,1 +1,44 @@
-{"course_name":"CPSC 532S","subject_code":"CPSC","course_number":"532S","course_title":"Topics in Artificial Intelligence - VISION&LANGUAGE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=532S&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 532S 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=532S&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPSC","course_number":"532S","section_number":"201","building":"Geography","room":"147","instructors":["SIGAL, LEONID"],"totalRemaining":"0","currentlyRegistered":"54","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 532S",
+  "subject_code": "CPSC",
+  "course_number": "532S",
+  "course_title": "Topics in Artificial Intelligence - VISION&LANGUAGE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=532S&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 532S 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=532S&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "532S",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIGAL, LEONID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

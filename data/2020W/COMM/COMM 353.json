@@ -1,1 +1,207 @@
-{"course_name":"COMM 353","subject_code":"COMM","course_number":"353","course_title":"Financial Accounting: Intermediate I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=353&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 353 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"COMM","course_number":"353","section_number":"101","building":" ","room":"","instructors":["D ADDUZIO, JENNA"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Full","section":"COMM 353 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"COMM","course_number":"353","section_number":"102","building":" ","room":"","instructors":["D ADDUZIO, JENNA"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"},"103":{"status":" ","section":"COMM 353 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"18:30","end":"20:00","comments":"This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"353","section_number":"103","building":" ","room":"","instructors":["D ADDUZIO, JENNA"],"totalRemaining":"1","currentlyRegistered":"38","generalRemaining":"1","restrictedRemaining":"0"},"201":{"status":"Full","section":"COMM 353 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"COMM","course_number":"353","section_number":"201","building":" ","room":"","instructors":["RAO, ERIN"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"COMM 353 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"COMM","course_number":"353","section_number":"202","building":" ","room":"","instructors":["BLECK, ALEXANDER"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Restricted","section":"COMM 353 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=203&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMM","course_number":"353","section_number":"203","building":" ","room":"","instructors":["BLECK, ALEXANDER"],"totalRemaining":"1","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"1"},"204":{"status":" ","section":"COMM 353 204","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=204&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COMM","course_number":"353","section_number":"204","building":" ","room":"","instructors":["BLECK, ALEXANDER"],"totalRemaining":"14","currentlyRegistered":"24","generalRemaining":"6","restrictedRemaining":"8"}},"credits":"Credits: 3","description":"An examination of accounting as a means of measurement and as an information system for external reporting purposes."}
+{
+  "course_name": "COMM 353",
+  "subject_code": "COMM",
+  "course_number": "353",
+  "course_title": "Financial Accounting: Intermediate I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=353&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "COMM 353 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "D ADDUZIO, JENNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 353 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "D ADDUZIO, JENNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "COMM 353 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "D ADDUZIO, JENNA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "38",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 353 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAO, ERIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 353 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLECK, ALEXANDER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 353 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLECK, ALEXANDER"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "35",
+      "generalRemaining": "1",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 353 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=353&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "353",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLECK, ALEXANDER"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "24",
+      "generalRemaining": "6",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "An examination of accounting as a means of measurement and as an information system for external reporting purposes.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

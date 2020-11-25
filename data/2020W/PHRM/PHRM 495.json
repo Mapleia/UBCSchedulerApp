@@ -1,1 +1,264 @@
-{"course_name":"PHRM 495","subject_code":"PHRM","course_number":"495","course_title":"Advanced Pharmacy Practice Experience - Selected Direct Patient Care ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=495&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHRM 495 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Block 1Start date: August 3","subject_code":"PHRM","course_number":"495","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Unreleased","section":"PHRM 495 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Block 2Start date: August 31","subject_code":"PHRM","course_number":"495","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"003":{"status":"Restricted","section":"PHRM 495 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=003&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Block 3Start date: September 28","subject_code":"PHRM","course_number":"495","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"004":{"status":"Restricted","section":"PHRM 495 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=004&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Block 4Start date: October 26","subject_code":"PHRM","course_number":"495","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"005":{"status":"Restricted","section":"PHRM 495 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=005&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Block 5Start date: January 4","subject_code":"PHRM","course_number":"495","section_number":"005","building":"No Scheduled Meeting","room":"","instructors":["4","1","0","4","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"006":{"status":"Restricted","section":"PHRM 495 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=006&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Block 6Start date: February 1","subject_code":"PHRM","course_number":"495","section_number":"006","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"007":{"status":"Restricted","section":"PHRM 495 007","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=007&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Block 7Start date: March 1","subject_code":"PHRM","course_number":"495","section_number":"007","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"008":{"status":"Restricted","section":"PHRM 495 008","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=008&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Block 8Start date: March 29","subject_code":"PHRM","course_number":"495","section_number":"008","building":"No Scheduled Meeting","room":"","instructors":["5","0","0","5","","in one of these programs: PHRMFX\n\n"],"totalRemaining":"in one of these programs: PHRMFX\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in outpatient or inpatient settings. Pass/Fail."}
+{
+  "course_name": "PHRM 495",
+  "subject_code": "PHRM",
+  "course_number": "495",
+  "course_title": "Advanced Pharmacy Practice Experience - Selected Direct Patient Care ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 1Start date: August 3",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "PHRM 495 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 2Start date: August 31",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 3Start date: September 28",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=004&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 4Start date: October 26",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=005&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 5Start date: January 4",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "005",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "4",
+        "1",
+        "0",
+        "4",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=006&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 6Start date: February 1",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "006",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 007",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=007&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 7Start date: March 1",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "007",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 495 008",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=495&section=008&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Block 8Start date: March 29",
+      "subject_code": "PHRM",
+      "course_number": "495",
+      "section_number": "008",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: PHRMFX\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMFX\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in outpatient or inpatient settings. Pass/Fail.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

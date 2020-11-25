@@ -1,1 +1,46 @@
-{"course_name":"MICB 505","subject_code":"MICB","course_number":"505","course_title":"Molecular Microbiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=505&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"MICB 505 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=505&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MICB","course_number":"505","section_number":"101","building":"","room":"","instructors":["15","10","15","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "MICB 505",
+  "subject_code": "MICB",
+  "course_number": "505",
+  "course_title": "Molecular Microbiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 505 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=505&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "505",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "11",
+        "14",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

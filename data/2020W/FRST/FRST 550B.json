@@ -1,1 +1,106 @@
-{"course_name":"FRST 550B","subject_code":"FRST","course_number":"550B","course_title":"M.A.Sc. Thesis - MASC THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=550B&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 550B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"FRST","course_number":"550B","section_number":"101","building":"","room":"","instructors":["24","1","24","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"201":{"status":" ","section":"FRST 550B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"FRST","course_number":"550B","section_number":"201","building":"","room":"","instructors":["24","1","24","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"001":{"status":" ","section":"FRST 550B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"FRST","course_number":"550B","section_number":"001","building":"","room":"","instructors":["19","6","19","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "FRST 550B",
+  "subject_code": "FRST",
+  "course_number": "550B",
+  "course_title": "M.A.Sc. Thesis - MASC THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=550B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 550B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "550B",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "1",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "FRST 550B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "550B",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "1",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "FRST 550B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=550B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "550B",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "19",
+        "6",
+        "19",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

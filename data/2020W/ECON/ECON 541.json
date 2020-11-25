@@ -1,1 +1,46 @@
-{"course_name":"ECON 541","subject_code":"ECON","course_number":"541","course_title":"Economic Development I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=541&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ECON 541 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=541&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":"","end":"","comments":"Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.","subject_code":"ECON","course_number":"541","section_number":"001","building":"","room":"","instructors":["18","0","18","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECON 541",
+  "subject_code": "ECON",
+  "course_number": "541",
+  "course_title": "Economic Development I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=541&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 541 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=541&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.",
+      "subject_code": "ECON",
+      "course_number": "541",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "4",
+        "14",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

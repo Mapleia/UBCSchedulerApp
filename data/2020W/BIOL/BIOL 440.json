@@ -1,1 +1,72 @@
-{"course_name":"BIOL 440","subject_code":"BIOL","course_number":"440","course_title":"Plant Genomics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=440&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"BIOL 440 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=440&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"BIOL","course_number":"440","section_number":"201","building":"West Mall Swing Space","room":"107","instructors":["LI, XIN"],"totalRemaining":"13","currentlyRegistered":"17","generalRemaining":"13","restrictedRemaining":"0"},"2W1":{"status":"Blocked","section":"BIOL 440 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=440&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"his is the wait-list for BIOL 440-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students\u0019 responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"440","section_number":"2W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts, principles, applications, and recent discoveries in genome structure, genetics, and comparative genomics in plants with a focus on economically important plants."}
+{
+  "course_name": "BIOL 440",
+  "subject_code": "BIOL",
+  "course_number": "440",
+  "course_title": "Plant Genomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOL 440 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=440&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "440",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LI, XIN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "17",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 440 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=440&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "his is the wait-list for BIOL 440-201. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students\u0019 responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "440",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts, principles, applications, and recent discoveries in genome structure, genetics, and comparative genomics in plants with a focus on economically important plants.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,47 @@
-{"course_name":"BIOC 304","subject_code":"BIOC","course_number":"304","course_title":"Contemporary Biochemical Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=304&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"BIOC 304 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=304&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"BIOC","course_number":"304","section_number":"001","building":" ","room":"","instructors":["BRUMER, HARRY","KIM, HUGH","TEVES, SHEILA","YIP, CALVIN"],"totalRemaining":"57","currentlyRegistered":"93","generalRemaining":"57","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Exploration of the breadth and importance of biochemical research to present day challenges in medicine and biotechnology. Detailed experimental research case studies of novel biochemical methods used to address pressing and ongoing biochemical issues."}
+{
+  "course_name": "BIOC 304",
+  "subject_code": "BIOC",
+  "course_number": "304",
+  "course_title": "Contemporary Biochemical Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOC 304 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=304&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Web-oriented course.",
+      "subject_code": "BIOC",
+      "course_number": "304",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRUMER, HARRY",
+        "KIM, HUGH",
+        "TEVES, SHEILA",
+        "YIP, CALVIN"
+      ],
+      "totalRemaining": "56",
+      "currentlyRegistered": "94",
+      "generalRemaining": "56",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Exploration of the breadth and importance of biochemical research to present day challenges in medicine and biotechnology. Detailed experimental research case studies of novel biochemical methods used to address pressing and ongoing biochemical issues.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

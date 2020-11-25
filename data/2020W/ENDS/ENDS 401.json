@@ -1,1 +1,45 @@
-{"course_name":"ENDS 401","subject_code":"ENDS","course_number":"401","course_title":"Environmental Design Studio III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=401&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ENDS 401 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=401&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Tue Wed Fri","start":"13:30","end":"17:30","comments":"","subject_code":"ENDS","course_number":"401","section_number":"001","building":"To Be Announced","room":"","instructors":["PECHET, BILL"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 9","description":"The exploration of a complex physical and spatial program for building in the public realm, resulting in an integrative design project."}
+{
+  "course_name": "ENDS 401",
+  "subject_code": "ENDS",
+  "course_number": "401",
+  "course_title": "Environmental Design Studio III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENDS 401 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=401&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:30",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "401",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PECHET, BILL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 9,
+  "description": "The exploration of a complex physical and spatial program for building in the public realm, resulting in an integrative design project.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

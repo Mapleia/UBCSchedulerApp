@@ -1,1 +1,100 @@
-{"course_name":"ITAL 202","subject_code":"ITAL","course_number":"202","course_title":"Elementary Italian II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=202&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ITAL 202 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Continuation of ITAL 201. Reading, writing and oral practice, with constant and systematic reference to the grammatical structure of the language. Full description: https://fhis.ubc.ca/course-description/ital202/","subject_code":"ITAL","course_number":"202","section_number":"201","building":" ","room":"","instructors":["ZAMPIERI, ELENA"],"totalRemaining":"9","currentlyRegistered":"26","generalRemaining":"9","restrictedRemaining":"0"},"202":{"status":" ","section":"ITAL 202 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Continuation of ITAL 201. Reading, writing and oral practice, with constant and systematic reference to the grammatical structure of the language. Full description: https://fhis.ubc.ca/course-description/ital202/","subject_code":"ITAL","course_number":"202","section_number":"202","building":" ","room":"","instructors":["ZAMPIERI, ELENA"],"totalRemaining":"13","currentlyRegistered":"22","generalRemaining":"13","restrictedRemaining":"0"},"W02":{"status":" ","section":"ITAL 202 W02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=W02&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"ITAL 202 W02 is a general waitlist for all ITAL 202 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"ITAL","course_number":"202","section_number":"W02","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.\n"}
+{
+  "course_name": "ITAL 202",
+  "subject_code": "ITAL",
+  "course_number": "202",
+  "course_title": "Elementary Italian II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=202&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITAL 202 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Continuation of ITAL 201. Reading, writing and oral practice, with constant and systematic reference to the grammatical structure of the language. Full description: https://fhis.ubc.ca/course-description/ital202/",
+      "subject_code": "ITAL",
+      "course_number": "202",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZAMPIERI, ELENA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ITAL 202 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Continuation of ITAL 201. Reading, writing and oral practice, with constant and systematic reference to the grammatical structure of the language. Full description: https://fhis.ubc.ca/course-description/ital202/",
+      "subject_code": "ITAL",
+      "course_number": "202",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZAMPIERI, ELENA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "22",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ITAL 202 W02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=202&section=W02&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "ITAL 202 W02 is a general waitlist for all ITAL 202 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "ITAL",
+      "course_number": "202",
+      "section_number": "W02",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives.\n",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

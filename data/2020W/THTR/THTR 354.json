@@ -1,1 +1,70 @@
-{"course_name":"THTR 354","subject_code":"THTR","course_number":"354","course_title":"Stage Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=354&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"THTR 354 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=354&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"If this section if FULL or BLOCKED please sign up for the corresponding wait list section - THTR 354, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: https://theatrefilm.ubc.ca/how-to-wait-list-a-course/Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"THTR","course_number":"354","section_number":"001","building":" ","room":"","instructors":["BERG, COLLETTE"],"totalRemaining":"6","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"5"},"WL1":{"status":" ","section":"THTR 354 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=354&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"This is a WAITLIST section for THTR 354, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/","subject_code":"THTR","course_number":"354","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles and procedures of stage management: organizations, systems, and operations."}
+{
+  "course_name": "THTR 354",
+  "subject_code": "THTR",
+  "course_number": "354",
+  "course_title": "Stage Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=354&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "THTR 354 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=354&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "If this section if FULL or BLOCKED please sign up for the corresponding wait list section - THTR 354, Section WL1. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: https://theatrefilm.ubc.ca/how-to-wait-list-a-course/Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "THTR",
+      "course_number": "354",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BERG, COLLETTE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": " ",
+      "section": "THTR 354 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=354&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This is a WAITLIST section for THTR 354, Section 001. Once you have registered in the wait list there is no need to contact the Department. Your registration will be switched to the parent section when space becomes available. Preference may be given to Majors, Minors, or Honours students in Theatre or Film. For more information about Department of Theatre and Film wait lists please visit: http://theatrefilm.ubc.ca/undergraduate/undergraduate-courses/how-to-wait-list-a-course/",
+      "subject_code": "THTR",
+      "course_number": "354",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and procedures of stage management: organizations, systems, and operations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

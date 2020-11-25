@@ -1,1 +1,45 @@
-{"course_name":"HIST 273","subject_code":"HIST","course_number":"273","course_title":"History of India","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=273&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 273 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=273&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:00","comments":"HIST 273 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.HIST 273 will be taught asynchronously. Students will not be expected to participate in class activities during the stated class hours.","subject_code":"HIST","course_number":"273","section_number":"101","building":" ","room":"","instructors":["MAYER, TARA","UTAMI, NILA"],"totalRemaining":"2","currentlyRegistered":"52","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Societies, cultures, and politics of the Indian subcontinent from its ancient civilizations to the formation of the modern nation-states of South Asia."}
+{
+  "course_name": "HIST 273",
+  "subject_code": "HIST",
+  "course_number": "273",
+  "course_title": "History of India",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=273&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 273 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=273&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "HIST 273 will introduce students to the methods of historical practice, including primary-source analysis, historical writing, library and research skills, and public history.HIST 273 will be taught asynchronously. Students will not be expected to participate in class activities during the stated class hours.",
+      "subject_code": "HIST",
+      "course_number": "273",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAYER, TARA",
+        "UTAMI, NILA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "52",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Societies, cultures, and politics of the Indian subcontinent from its ancient civilizations to the formation of the modern nation-states of South Asia.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

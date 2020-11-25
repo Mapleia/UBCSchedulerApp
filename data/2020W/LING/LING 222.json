@@ -1,1 +1,161 @@
-{"course_name":"LING 222","subject_code":"LING","course_number":"222","course_title":"Language Acquisition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=222&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"LING 222 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"Register in lecture and tutorial","subject_code":"LING","course_number":"222","section_number":"002","building":" ","room":"","instructors":["HUDSON KAM, CARLA"],"totalRemaining":"18","currentlyRegistered":"102","generalRemaining":"18","restrictedRemaining":"0"},"TT1":{"status":" ","section":"LING 222 TT1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT1&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"Register in lecture and one tutorial","subject_code":"LING","course_number":"222","section_number":"TT1","building":" ","room":"","instructors":["5","25","5","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"TT2":{"status":" ","section":"LING 222 TT2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT2&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"Register in lecture and one tutorial","subject_code":"LING","course_number":"222","section_number":"TT2","building":" ","room":"","instructors":["12","18","12","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"TT3":{"status":"Full","section":"LING 222 TT3","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT3&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"Register in lecture and one tutorial","subject_code":"LING","course_number":"222","section_number":"TT3","building":" ","room":"","instructors":["0","30","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"TT4":{"status":" ","section":"LING 222 TT4","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT4&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"Register in lecture and one tutorial","subject_code":"LING","course_number":"222","section_number":"TT4","building":" ","room":"","instructors":["1","29","1","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Audition and speech perception, phonological organization, word learning, syntax, and pragmatics."}
+{
+  "course_name": "LING 222",
+  "subject_code": "LING",
+  "course_number": "222",
+  "course_title": "Language Acquisition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=222&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 222 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Register in lecture and tutorial",
+      "subject_code": "LING",
+      "course_number": "222",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUDSON KAM, CARLA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "100",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LING 222 TT1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT1&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Register in lecture and one tutorial",
+      "subject_code": "LING",
+      "course_number": "222",
+      "section_number": "TT1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "5",
+        "25",
+        "5",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "LING 222 TT2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT2&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Register in lecture and one tutorial",
+      "subject_code": "LING",
+      "course_number": "222",
+      "section_number": "TT2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "13",
+        "17",
+        "13",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "LING 222 TT3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT3&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Register in lecture and one tutorial",
+      "subject_code": "LING",
+      "course_number": "222",
+      "section_number": "TT3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "30",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "LING 222 TT4",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=222&section=TT4&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Register in lecture and one tutorial",
+      "subject_code": "LING",
+      "course_number": "222",
+      "section_number": "TT4",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "28",
+        "2",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Audition and speech perception, phonological organization, word learning, syntax, and pragmatics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

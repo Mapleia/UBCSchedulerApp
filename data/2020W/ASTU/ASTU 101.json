@@ -1,1 +1,154 @@
-{"course_name":"ASTU 101","subject_code":"ASTU","course_number":"101","course_title":"Writing for Research in the Social Sciences and the Humanities","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=101&sessyr=2020&sesscd=W","sections":{"P01":{"status":"STT","section":"ASTU 101 P01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"ASTU","course_number":"101","section_number":"P01","building":" ","room":"","instructors":["SIGURDSON, KRISTA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"P02":{"status":"STT","section":"ASTU 101 P02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P02&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"ASTU","course_number":"101","section_number":"P02","building":" ","room":"","instructors":["SIGURDSON, KRISTA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"P03":{"status":"Full","section":"ASTU 101 P03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P03&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"ASTU","course_number":"101","section_number":"P03","building":" ","room":"","instructors":["SCHANDORF, MICHAEL"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"P04":{"status":"STT","section":"ASTU 101 P04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P04&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"ASTU","course_number":"101","section_number":"P04","building":" ","room":"","instructors":["SCHANDORF, MICHAEL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"P05":{"status":"STT","section":"ASTU 101 P05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P05&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"18:30","end":"20:00","comments":"Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.","subject_code":"ASTU","course_number":"101","section_number":"P05","building":" ","room":"","instructors":["SCHANDORF, MICHAEL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program."}
+{
+  "course_name": "ASTU 101",
+  "subject_code": "ASTU",
+  "course_number": "101",
+  "course_title": "Writing for Research in the Social Sciences and the Humanities",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ASTU 101 P01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "ASTU",
+      "course_number": "101",
+      "section_number": "P01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIGURDSON, KRISTA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ASTU 101 P02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "ASTU",
+      "course_number": "101",
+      "section_number": "P02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SIGURDSON, KRISTA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "ASTU 101 P03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P03&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "ASTU",
+      "course_number": "101",
+      "section_number": "P03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHANDORF, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ASTU 101 P04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P04&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "ASTU",
+      "course_number": "101",
+      "section_number": "P04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHANDORF, MICHAEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "ASTU 101 P05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=101&section=P05&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "Reserved for CAP-PPE.   For details visit:  www.cap.arts.ubc.ca Winter Term 1 (September-December) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, and completing quizzes).  By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "ASTU",
+      "course_number": "101",
+      "section_number": "P05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHANDORF, MICHAEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of and practice in academic writing and reading in the social sciences and the humanities. Restricted to students in the Coordinated Arts Program.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,73 @@
-{"course_name":"CSIS 490B","subject_code":"CSIS","course_number":"490B","course_title":"Directed Topics - DIRECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CSIS&course=490B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"CSIS 490B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=490B&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":"","end":"","comments":"Directed Reading- open if required.","subject_code":"CSIS","course_number":"490B","section_number":"001","building":"","room":"","instructors":["5","0","5","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"CSIS 490B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=490B&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CSIS","course_number":"490B","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Designed to allow a student to develop an individual course of study in a specific area as approved by a faculty member affiliated with the CSIS program."}
+{
+  "course_name": "CSIS 490B",
+  "subject_code": "CSIS",
+  "course_number": "490B",
+  "course_title": "Directed Topics - DIRECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CSIS&course=490B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CSIS 490B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=490B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Directed Reading- open if required.",
+      "subject_code": "CSIS",
+      "course_number": "490B",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "5",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "CSIS 490B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=490B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CSIS",
+      "course_number": "490B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Designed to allow a student to develop an individual course of study in a specific area as approved by a faculty member affiliated with the CSIS program.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies",
+    "Web-Oriented Course"
+  ]
+}

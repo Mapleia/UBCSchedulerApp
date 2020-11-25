@@ -1,1 +1,45 @@
-{"course_name":"STAT 538A","subject_code":"STAT","course_number":"538A","course_title":"Generalized Linear Models - GEN LINEAR MODLS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=538A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"STAT 538A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=538A&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:30","end":"11:00","comments":"Half term course - 1.5 credits","subject_code":"STAT","course_number":"538A","section_number":"101","building":" ","room":"","instructors":["CAMPBELL, TREVOR","CAMPBELL, TREVOR(Coordinator)"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 1.5","description":" "}
+{
+  "course_name": "STAT 538A",
+  "subject_code": "STAT",
+  "course_number": "538A",
+  "course_title": "Generalized Linear Models - GEN LINEAR MODLS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=538A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "STAT 538A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=538A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Half term course - 1.5 credits",
+      "subject_code": "STAT",
+      "course_number": "538A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CAMPBELL, TREVOR",
+        "CAMPBELL, TREVOR(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 5,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

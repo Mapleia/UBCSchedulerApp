@@ -1,1 +1,43 @@
-{"course_name":"FNIS 400","subject_code":"FNIS","course_number":"400","course_title":"Practicum/Advanced Research Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=400&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"FNIS 400 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=400&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"12:00","end":"15:00","comments":"Credits will be granted for only one of FNIS 400 or FNSP 400. This course will be held entirely synchronously. For more information, please contact fnis.practicum@ubc.ca. Due to the impacts of COVID-19, all projects will need to be able to be carried out online. The class itself will be meeting virtually once a week for 2-3 hours on Wednesday, and we ask that students keep this in mind as you create your timetables. We will also have individual appointments with students on a regular basis, subject to availability.","subject_code":"FNIS","course_number":"400","section_number":"002","building":" ","room":"","instructors":["JUSTICE, DANIEL"],"totalRemaining":"7","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"7"}},"credits":"Credits: 6","description":"Applied research/community oriented project designed and implemented in collaboration with student, faculty and Aboriginal community organization. Emphasis on examining ethical issues and developing culturally respectful and academically rigorous forms of research. Credit will be granted for only one of FNIS 400 or FNSP 400."}
+{
+  "course_name": "FNIS 400",
+  "subject_code": "FNIS",
+  "course_number": "400",
+  "course_title": "Practicum/Advanced Research Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNIS 400 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=400&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "15:00",
+      "comments": "Credits will be granted for only one of FNIS 400 or FNSP 400. This course will be held entirely synchronously. For more information, please contact fnis.practicum@ubc.ca. Due to the impacts of COVID-19, all projects will need to be able to be carried out online. The class itself will be meeting virtually once a week for 2-3 hours on Wednesday, and we ask that students keep this in mind as you create your timetables. We will also have individual appointments with students on a regular basis, subject to availability.",
+      "subject_code": "FNIS",
+      "course_number": "400",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JUSTICE, DANIEL"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 6,
+  "description": "Applied research/community oriented project designed and implemented in collaboration with student, faculty and Aboriginal community organization. Emphasis on examining ethical issues and developing culturally respectful and academically rigorous forms of research. Credit will be granted for only one of FNIS 400 or FNSP 400.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

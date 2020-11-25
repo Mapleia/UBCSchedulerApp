@@ -1,1 +1,71 @@
-{"course_name":"MTRL 358","subject_code":"MTRL","course_number":"358","course_title":"Hydrometallurgy I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=358&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"MTRL 358 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=358&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:00","end":"10:00","comments":"","subject_code":"MTRL","course_number":"358","section_number":"101","building":" ","room":"","instructors":["WASSINK, BEREND"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T1A":{"status":"Restricted","section":"MTRL 358 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=358&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Fri","start":"9:00","end":"10:00","comments":"","subject_code":"MTRL","course_number":"358","section_number":"T1A","building":" ","room":"","instructors":["WASSINK, BEREND"],"totalRemaining":"6","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":"Aqueous extraction of metals from ores and concentrates."}
+{
+  "course_name": "MTRL 358",
+  "subject_code": "MTRL",
+  "course_number": "358",
+  "course_title": "Hydrometallurgy I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=358&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MTRL 358 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=358&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "358",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WASSINK, BEREND"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 358 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=358&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "358",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WASSINK, BEREND"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": "Aqueous extraction of metals from ores and concentrates.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

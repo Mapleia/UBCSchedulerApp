@@ -1,1 +1,71 @@
-{"course_name":"FNH 474","subject_code":"FNH","course_number":"474","course_title":"Sport Nutrition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=474&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"FNH 474 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=474&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"FNH","course_number":"474","section_number":"002","building":"Food, Nutrition and Health","room":"60","instructors":["MCCRUDDEN, EMMA"],"totalRemaining":"30","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"30"},"0W2":{"status":" ","section":"FNH 474 0W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=474&section=0W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for FNH 474 Section 002. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"FNH","course_number":"474","section_number":"0W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"0","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Nutritional needs of athletes, including energy, carbohydrate and protein; hydration; pre-and post-event nutrition, weight management and body composition issues; ergogenic aids; sports-specific guidelines; and special athlete populations."}
+{
+  "course_name": "FNH 474",
+  "subject_code": "FNH",
+  "course_number": "474",
+  "course_title": "Sport Nutrition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=474&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 474 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=474&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "474",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "O'BYRNE, NICOLE"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "32"
+    },
+    {
+      "status": " ",
+      "section": "FNH 474 0W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=474&section=0W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for FNH 474 Section 002. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "FNH",
+      "course_number": "474",
+      "section_number": "0W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "0",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Nutritional needs of athletes, including energy, carbohydrate and protein; hydration; pre-and post-event nutrition, weight management and body composition issues; ergogenic aids; sports-specific guidelines; and special athlete populations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

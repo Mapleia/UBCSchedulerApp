@@ -1,1 +1,97 @@
-{"course_name":"MATH 589","subject_code":"MATH","course_number":"589","course_title":"M.Sc. Major Essay","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=589&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MATH 589 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=101&sessyr=2020&sesscd=W","activity":"Essay/Report","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MATH","course_number":"589","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"201":{"status":" ","section":"MATH 589 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=201&sessyr=2020&sesscd=W","activity":"Essay/Report","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MATH","course_number":"589","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"001":{"status":" ","section":"MATH 589 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=001&sessyr=2020&sesscd=W","activity":"Essay/Report","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MATH","course_number":"589","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "MATH 589",
+  "subject_code": "MATH",
+  "course_number": "589",
+  "course_title": "M.Sc. Major Essay",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=589&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 589 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=101&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "589",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 589 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=201&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "589",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MATH 589 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=589&section=001&sessyr=2020&sesscd=W",
+      "activity": "Essay/Report",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MATH",
+      "course_number": "589",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Essay/Report"
+  ]
+}

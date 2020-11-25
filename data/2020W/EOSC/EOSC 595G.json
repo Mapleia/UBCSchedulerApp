@@ -1,1 +1,43 @@
-{"course_name":"EOSC 595G","subject_code":"EOSC","course_number":"595G","course_title":"Directed Studies - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=595G&sessyr=2020&sesscd=W","sections":{"205":{"status":"Blocked","section":"EOSC 595G 205","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=595G&section=205&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Marine Natural Products.","subject_code":"EOSC","course_number":"595G","section_number":"205","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EOSC 595G",
+  "subject_code": "EOSC",
+  "course_number": "595G",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=595G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EOSC 595G 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=595G&section=205&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Marine Natural Products.",
+      "subject_code": "EOSC",
+      "course_number": "595G",
+      "section_number": "205",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

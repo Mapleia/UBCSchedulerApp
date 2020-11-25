@@ -1,1 +1,124 @@
-{"course_name":"MICB 421","subject_code":"MICB","course_number":"421","course_title":"Experimental Microbiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=421&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MICB 421 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"Limited to students in the BIOT or MBIM specializations.Registration questions should be directed to Dr. Oliver at dcoliver@mail.ubc.ca.","subject_code":"MICB","course_number":"421","section_number":"201","building":"Biological Sciences","room":"1012","instructors":["OLIVER, DAVID","SUN, EVELYN"],"totalRemaining":"61","currentlyRegistered":"35","generalRemaining":"49","restrictedRemaining":"12"},"L01":{"status":" ","section":"MICB 421 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"13:00","end":"17:00","comments":"If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.","subject_code":"MICB","course_number":"421","section_number":"L01","building":"Biological Sciences","room":"3133","instructors":["OLIVER, DAVID"],"totalRemaining":"17","currentlyRegistered":"11","generalRemaining":"17","restrictedRemaining":"0"},"L02":{"status":" ","section":"MICB 421 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"13:00","end":"17:00","comments":"If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.","subject_code":"MICB","course_number":"421","section_number":"L02","building":"Biological Sciences","room":"3133","instructors":["OLIVER, DAVID"],"totalRemaining":"11","currentlyRegistered":"17","generalRemaining":"11","restrictedRemaining":"0"},"L03":{"status":" ","section":"MICB 421 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"13:00","end":"17:00","comments":"If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.","subject_code":"MICB","course_number":"421","section_number":"L03","building":"Biological Sciences","room":"3133","instructors":["OLIVER, DAVID"],"totalRemaining":"22","currentlyRegistered":"6","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Research in microbial physiology and molecular genetics.  Guided and independent laboratory projects are developed."}
+{
+  "course_name": "MICB 421",
+  "subject_code": "MICB",
+  "course_number": "421",
+  "course_title": "Experimental Microbiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=421&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 421 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "Limited to students in the BIOT or MBIM specializations.Registration questions should be directed to Dr. Oliver at dcoliver@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "421",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OLIVER, DAVID",
+        "SUN, EVELYN"
+      ],
+      "totalRemaining": "61",
+      "currentlyRegistered": "35",
+      "generalRemaining": "49",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": " ",
+      "section": "MICB 421 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.",
+      "subject_code": "MICB",
+      "course_number": "421",
+      "section_number": "L01",
+      "building": "Biological Sciences",
+      "room": "3133",
+      "instructors": [
+        "OLIVER, DAVID"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "12",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 421 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.",
+      "subject_code": "MICB",
+      "course_number": "421",
+      "section_number": "L02",
+      "building": "Biological Sciences",
+      "room": "3133",
+      "instructors": [
+        "OLIVER, DAVID"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "16",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 421 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=421&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "17:00",
+      "comments": "If you have problems during registration in lab sections L01, L02 or L03 contact Craig Kornak (craig.kornak@ubc.ca) with your name and student number.",
+      "subject_code": "MICB",
+      "course_number": "421",
+      "section_number": "L03",
+      "building": "Biological Sciences",
+      "room": "3133",
+      "instructors": [
+        "OLIVER, DAVID"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "6",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Research in microbial physiology and molecular genetics.  Guided and independent laboratory projects are developed.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

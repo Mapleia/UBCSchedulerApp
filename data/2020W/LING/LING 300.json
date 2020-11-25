@@ -1,1 +1,229 @@
-{"course_name":"LING 300","subject_code":"LING","course_number":"300","course_title":"Studies in Grammar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"YOU WILL NEED LING 201 AS A PRE-REQUISITE FOR THIS COURSE.Register in one lecture and one tutorial.If you are an unclassified student and registration to this section is blocked, please contact ling.undergrad@ubc.ca","subject_code":"LING","course_number":"300","section_number":"001","building":" ","room":"","instructors":["DECHAINE, ROSE-MARIE"],"totalRemaining":"3","currentlyRegistered":"57","generalRemaining":"3","restrictedRemaining":"0"},"T01":{"status":" ","section":"LING 300 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"},"T02":{"status":"Full","section":"LING 300 T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"T03":{"status":" ","section":"LING 300 T03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T03&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T03","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"},"002":{"status":"Full","section":"LING 300 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"YOU WILL NEED LING 201 AS A PRE-REQUISITE FOR THIS COURSE.Register in one lecture and one tutorial.If you are an unclassified student and registration to this section is blocked, please contact ling.undergrad@ubc.ca","subject_code":"LING","course_number":"300","section_number":"002","building":" ","room":"","instructors":["DECHAINE, ROSE-MARIE"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"T04":{"status":" ","section":"LING 300 T04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T04&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T04","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"},"T05":{"status":"Full","section":"LING 300 T05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T05&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T05","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"T06":{"status":"Full","section":"LING 300 T06","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T06&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"LING","course_number":"300","section_number":"T06","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to syntactic analysis and theory, with emphasis on description and analysis of data from a wide variety of languages."}
+{
+  "course_name": "LING 300",
+  "subject_code": "LING",
+  "course_number": "300",
+  "course_title": "Studies in Grammar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "YOU WILL NEED LING 201 AS A PRE-REQUISITE FOR THIS COURSE.Register in one lecture and one tutorial.If you are an unclassified student and registration to this section is blocked, please contact ling.undergrad@ubc.ca",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DECHAINE, ROSE-MARIE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "57",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LING 300 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LING 300 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LING 300 T03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LING 300 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "YOU WILL NEED LING 201 AS A PRE-REQUISITE FOR THIS COURSE.Register in one lecture and one tutorial.If you are an unclassified student and registration to this section is blocked, please contact ling.undergrad@ubc.ca",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DECHAINE, ROSE-MARIE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LING 300 T04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T04&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LING 300 T05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T05&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LING 300 T06",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=300&section=T06&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "300",
+      "section_number": "T06",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to syntactic analysis and theory, with emphasis on description and analysis of data from a wide variety of languages.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

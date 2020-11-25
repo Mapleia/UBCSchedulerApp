@@ -1,1 +1,44 @@
-{"course_name":"ARTH 382","subject_code":"ARTH","course_number":"382","course_title":"Is Art History Queer?","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=382&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARTH 382 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=382&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"This course examines queer art's perilous position in culture and society, considering artworks, political events, and cultural moments at the edges of the millennium that illustrate this reality. The course will analyze the overlap between gender, sexuality, race, citizenship, and class, asking, what kinds of artworks, as well as cultures, are produced via these convergences? How do courses on queer culture serve a larger queer historical project? In confronting these questions, we will examine histories of queer visual art, performance, film, and activism, and consider the resulting issues of identification, community, representation, and preservation. Ultimately, this course will ask: How do histories of queer art and visual culture permit us to see more queerly?","subject_code":"ARTH","course_number":"382","section_number":"001","building":"Frederic Lasserre","room":"104","instructors":["SILVER, ERIN"],"totalRemaining":"22","currentlyRegistered":"58","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Issues in the history of art through the lens of queer theory."}
+{
+  "course_name": "ARTH 382",
+  "subject_code": "ARTH",
+  "course_number": "382",
+  "course_title": "Is Art History Queer?",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 382 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=382&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "This course examines queer art's perilous position in culture and society, considering artworks, political events, and cultural moments at the edges of the millennium that illustrate this reality. The course will analyze the overlap between gender, sexuality, race, citizenship, and class, asking, what kinds of artworks, as well as cultures, are produced via these convergences? How do courses on queer culture serve a larger queer historical project? In confronting these questions, we will examine histories of queer visual art, performance, film, and activism, and consider the resulting issues of identification, community, representation, and preservation. Ultimately, this course will ask: How do histories of queer art and visual culture permit us to see more queerly?",
+      "subject_code": "ARTH",
+      "course_number": "382",
+      "section_number": "001",
+      "building": "Frederic Lasserre",
+      "room": "104",
+      "instructors": [
+        "SILVER, ERIN"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "58",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Issues in the history of art through the lens of queer theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

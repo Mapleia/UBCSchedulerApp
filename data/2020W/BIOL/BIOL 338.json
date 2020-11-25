@@ -1,1 +1,154 @@
-{"course_name":"BIOL 338","subject_code":"BIOL","course_number":"338","course_title":"Introduction to Genomics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=338&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"BIOL 338 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"BIOL","course_number":"338","section_number":"201","building":"Hugh Dempster Pavilion","room":"301","instructors":["ADAMS, KEITH","LEE, JAE-HYEOK"],"totalRemaining":"1","currentlyRegistered":"71","generalRemaining":"1","restrictedRemaining":"0"},"T01":{"status":"Full","section":"BIOL 338 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Thu","start":"11:00","end":"12:30","comments":"","subject_code":"BIOL","course_number":"338","section_number":"T01","building":"Neville Scarfe","room":"203","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"T02":{"status":" ","section":"BIOL 338 T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Thu","start":"12:30","end":"14:00","comments":"","subject_code":"BIOL","course_number":"338","section_number":"T02","building":"Neville Scarfe","room":"204","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"22","generalRemaining":"3","restrictedRemaining":"0"},"T03":{"status":" ","section":"BIOL 338 T03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T03&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"12:30","end":"14:00","comments":"","subject_code":"BIOL","course_number":"338","section_number":"T03","building":"Neville Scarfe","room":"200","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"23","generalRemaining":"2","restrictedRemaining":"0"},"2W1":{"status":"Full","section":"BIOL 338 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"This is the wait-list for BIOL 338-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"338","section_number":"2W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"An introduction to genome biology and applications of genomics.\t"}
+{
+  "course_name": "BIOL 338",
+  "subject_code": "BIOL",
+  "course_number": "338",
+  "course_title": "Introduction to Genomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=338&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 338 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "338",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADAMS, KEITH",
+        "LEE, JAE-HYEOK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "72",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 338 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "338",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 338 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "338",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "22",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 338 T03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=T03&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "338",
+      "section_number": "T03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 338 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=338&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 338-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "338",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "An introduction to genome biology and applications of genomics.\t",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

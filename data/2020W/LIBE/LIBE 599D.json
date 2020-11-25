@@ -1,1 +1,97 @@
-{"course_name":"LIBE 599D","subject_code":"LIBE","course_number":"599D","course_title":"Master's Thesis - MASTER'S THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LIBE&course=599D&sessyr=2020&sesscd=W","sections":{"060":{"status":" ","section":"LIBE 599D 060","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=060&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LIBE","course_number":"599D","section_number":"060","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"},"061":{"status":" ","section":"LIBE 599D 061","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=061&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LIBE","course_number":"599D","section_number":"061","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"},"062":{"status":" ","section":"LIBE 599D 062","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=062&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LIBE","course_number":"599D","section_number":"062","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 9","description":" "}
+{
+  "course_name": "LIBE 599D",
+  "subject_code": "LIBE",
+  "course_number": "599D",
+  "course_title": "Master's Thesis - MASTER'S THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LIBE&course=599D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LIBE 599D 060",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=060&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LIBE",
+      "course_number": "599D",
+      "section_number": "060",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LIBE 599D 061",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=061&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LIBE",
+      "course_number": "599D",
+      "section_number": "061",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LIBE 599D 062",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LIBE&course=599D&section=062&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LIBE",
+      "course_number": "599D",
+      "section_number": "062",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 9,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

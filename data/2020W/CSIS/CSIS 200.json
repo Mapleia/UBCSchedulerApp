@@ -1,1 +1,44 @@
-{"course_name":"CSIS 200","subject_code":"CSIS","course_number":"200","course_title":"Critical Engagements in Sexuality Studies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CSIS&course=200&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CSIS 200 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=200&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"When full, this course may be blocked to accommodate students on the wait list.","subject_code":"CSIS","course_number":"200","section_number":"001","building":" ","room":"","instructors":["SLOVIN, LJ"],"totalRemaining":"13","currentlyRegistered":"27","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introductory survey to sexuality studies that emphasizes how sexuality intersects with race, gender, class, ability, and geography."}
+{
+  "course_name": "CSIS 200",
+  "subject_code": "CSIS",
+  "course_number": "200",
+  "course_title": "Critical Engagements in Sexuality Studies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CSIS&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CSIS 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CSIS&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "When full, this course may be blocked to accommodate students on the wait list.",
+      "subject_code": "CSIS",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SLOVIN, LJ"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "27",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introductory survey to sexuality studies that emphasizes how sexuality intersects with race, gender, class, ability, and geography.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

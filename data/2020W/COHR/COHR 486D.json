@@ -1,1 +1,44 @@
-{"course_name":"COHR 486D","subject_code":"COHR","course_number":"486D","course_title":"Special Topics in Organizational Behaviour and Human Resources - NEGOTN FOR LDRS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COHR&course=486D&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"COHR 486D 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COHR&course=486D&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COHR","course_number":"486D","section_number":"201","building":"Henry Angus","room":"235","instructors":["REILLY, PATRICK"],"totalRemaining":"14","currentlyRegistered":"25","generalRemaining":"8","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COHR 486D",
+  "subject_code": "COHR",
+  "course_number": "486D",
+  "course_title": "Special Topics in Organizational Behaviour and Human Resources - NEGOTN FOR LDRS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COHR&course=486D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COHR 486D 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COHR&course=486D&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "COHR",
+      "course_number": "486D",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REILLY, PATRICK"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "26",
+      "generalRemaining": "8",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

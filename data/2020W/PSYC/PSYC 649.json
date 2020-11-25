@@ -1,1 +1,70 @@
-{"course_name":"PSYC 649","subject_code":"PSYC","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=649&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"68","currentlyRegistered":"82","generalRemaining":"65","restrictedRemaining":"3"},"002":{"status":"Full","section":"PSYC 649 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=649&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"649","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "PSYC 649",
+  "subject_code": "PSYC",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "67",
+      "currentlyRegistered": "83",
+      "generalRemaining": "65",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 649 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=649&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "649",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

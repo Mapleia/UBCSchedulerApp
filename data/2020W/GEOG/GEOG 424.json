@@ -1,1 +1,43 @@
-{"course_name":"GEOG 424","subject_code":"GEOG","course_number":"424","course_title":"Feminist Geographies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=424&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"GEOG 424 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=424&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Topic: In this seminar course, we will explore what feminist geographies can offer us in our efforts to understand and resist growing social, political, and economic inequality. In the first half of the course, we will learn what it means to \"do\" feminist geography. In the second half, we will put this knowledge to work as we grapple with a range of topics - from the witchunts of the 16th century to 21st century markets in bodily commodities and many things in between.","subject_code":"GEOG","course_number":"424","section_number":"201","building":" ","room":"","instructors":["COLLARD, JULIANE"],"totalRemaining":"22","currentlyRegistered":"0","generalRemaining":"22","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An introductory survey of contemporary feminist approaches to human geography."}
+{
+  "course_name": "GEOG 424",
+  "subject_code": "GEOG",
+  "course_number": "424",
+  "course_title": "Feminist Geographies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=424&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 424 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=424&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Topic: In this seminar course, we will explore what feminist geographies can offer us in our efforts to understand and resist growing social, political, and economic inequality. In the first half of the course, we will learn what it means to \"do\" feminist geography. In the second half, we will put this knowledge to work as we grapple with a range of topics - from the witchunts of the 16th century to 21st century markets in bodily commodities and many things in between.This online seminar has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "424",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COLLARD, JULIANE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "18",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An introductory survey of contemporary feminist approaches to human geography.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

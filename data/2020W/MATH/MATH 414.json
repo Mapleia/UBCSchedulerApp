@@ -1,1 +1,46 @@
-{"course_name":"MATH 414","subject_code":"MATH","course_number":"414","course_title":"Mathematical Demonstrations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=414&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"MATH 414 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=414&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"This course has a hard registration cap.  It will not be exceeded.","subject_code":"MATH","course_number":"414","section_number":"101","building":" ","room":"","instructors":["MACDONALD, JOHN","MACDONALD, JOHN(Coordinator)"],"totalRemaining":"0","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Students will prepare material illustrating ideas and applications of mathematics and present it to audiences outside the University. Intended for third or fourth year Mathematics students and Math/Science Education students."}
+{
+  "course_name": "MATH 414",
+  "subject_code": "MATH",
+  "course_number": "414",
+  "course_title": "Mathematical Demonstrations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=414&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MATH 414 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=414&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "This course has a hard registration cap.  It will not be exceeded.",
+      "subject_code": "MATH",
+      "course_number": "414",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACDONALD, JOHN",
+        "MACDONALD, JOHN(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Students will prepare material illustrating ideas and applications of mathematics and present it to audiences outside the University. Intended for third or fourth year Mathematics students and Math/Science Education students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

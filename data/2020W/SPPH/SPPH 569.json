@@ -1,1 +1,46 @@
-{"course_name":"SPPH 569","subject_code":"SPPH","course_number":"569","course_title":"Industrial and Environmental Acoustics and Vibration","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=569&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"SPPH 569 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=569&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Wed Thu","start":"9:00","end":"10:30","comments":"Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca","subject_code":"SPPH","course_number":"569","section_number":"001","building":" ","room":"","instructors":["DAVIES, HUGH WILLIAM","GUO, MAGGIE"],"totalRemaining":"2","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Fundamentals of acoustics and vibrations, physiologic effects, measurement, instrumentation, interpretation of data, industrial standards, and control.  For students in Occupational and Environmental Hygiene; other graduate students may enrol with permission of the instructor. Credit will only be given for one SPPH 569 or MECH 505."}
+{
+  "course_name": "SPPH 569",
+  "subject_code": "SPPH",
+  "course_number": "569",
+  "course_title": "Industrial and Environmental Acoustics and Vibration",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=569&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SPPH 569 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=569&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "569",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAVIES, HUGH WILLIAM",
+        "GUO, MAGGIE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Fundamentals of acoustics and vibrations, physiologic effects, measurement, instrumentation, interpretation of data, industrial standards, and control.  For students in Occupational and Environmental Hygiene; other graduate students may enrol with permission of the instructor. Credit will only be given for one SPPH 569 or MECH 505.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

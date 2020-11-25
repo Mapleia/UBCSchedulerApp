@@ -1,1 +1,130 @@
-{"course_name":"BIOL 324","subject_code":"BIOL","course_number":"324","course_title":"Introduction to Seed Plant Taxonomy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=324&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 324 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"10:00","end":"11:00","comments":"","subject_code":"BIOL","course_number":"324","section_number":"101","building":" ","room":"","instructors":["CRONK, QUENTIN CHARLES","HERSH, EVAN WHITNEY(Coordinator)","BOEHM, MANNFRED","PAAJANEN, MIKKO"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"6","restrictedRemaining":"0"},"L10":{"status":" ","section":"BIOL 324 L10","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=L10&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"324","section_number":"L10","building":" ","room":"","instructors":["HERSH, EVAN WHITNEY(Coordinator)"],"totalRemaining":"2","currentlyRegistered":"18","generalRemaining":"2","restrictedRemaining":"0"},"L11":{"status":" ","section":"BIOL 324 L11","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=L11&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"324","section_number":"L11","building":" ","room":"","instructors":["HERSH, EVAN WHITNEY(Coordinator)"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"4","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 324 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"10:00","end":"11:00","comments":"This is the wait-list for BIOL 324-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"324","section_number":"1W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection."}
+{
+  "course_name": "BIOL 324",
+  "subject_code": "BIOL",
+  "course_number": "324",
+  "course_title": "Introduction to Seed Plant Taxonomy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=324&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 324 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "324",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CRONK, QUENTIN CHARLES",
+        "HERSH, EVAN WHITNEY(Coordinator)",
+        "BOEHM, MANNFRED",
+        "PAAJANEN, MIKKO"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "34",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 324 L10",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=L10&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "324",
+      "section_number": "L10",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HERSH, EVAN WHITNEY",
+        "HERSH, EVAN WHITNEY(Coordinator)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "BIOL 324 L11",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=L11&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "324",
+      "section_number": "L11",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HERSH, EVAN WHITNEY",
+        "HERSH, EVAN WHITNEY(Coordinator)"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 324 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=324&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 324-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "324",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

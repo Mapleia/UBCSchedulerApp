@@ -1,1 +1,71 @@
-{"course_name":"MTRL 495","subject_code":"MTRL","course_number":"495","course_title":"Biomaterials","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=495&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"MTRL 495 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=495&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"MTRL","course_number":"495","section_number":"201","building":"Frank Forward","room":"217","instructors":["WANG, RIZHI"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"T2A":{"status":"Full","section":"MTRL 495 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=495&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"14:00","end":"16:00","comments":"","subject_code":"MTRL","course_number":"495","section_number":"T2A","building":"Frank Forward","room":"317","instructors":["WANG, RIZHI"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment."}
+{
+  "course_name": "MTRL 495",
+  "subject_code": "MTRL",
+  "course_number": "495",
+  "course_title": "Biomaterials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MTRL 495 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=495&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "495",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WANG, RIZHI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MTRL 495 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=495&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "495",
+      "section_number": "T2A",
+      "building": "Frank Forward",
+      "room": "317",
+      "instructors": [
+        "WANG, RIZHI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Tutorial"
+  ]
+}

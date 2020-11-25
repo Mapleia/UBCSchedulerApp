@@ -1,1 +1,122 @@
-{"course_name":"ATSC 201","subject_code":"ATSC","course_number":"201","course_title":"Meteorology of Storms","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=201&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ATSC 201 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"Restricted seats for HON and MAJ ATSC students. Homework will be given each week.","subject_code":"ATSC","course_number":"201","section_number":"101","building":" ","room":"","instructors":["STULL, ROLAND","ATARIWALA, KIERETH","DYCK, KYLEE","HAW, JUSTIN MIRABILIS","HETTINGA, RACHEL","HOOFT TOOMEY, EBBA","INABA, FUMIYA","JEWORREK, JULIA","KAO, SAM","LIANG, JENNIFER","LIANG, JESSICA","LITMAN, ADIN","LIU, WILFORD","MACADAM, CLINTON","MATLOCK, BLAISE","MICHALCHUK, QUENTIN","OVEISI, SOURENA","PI, KENG HUA","SHAABAN, AHMED","TAI, KRISTIE","WOHLERS, AMELIA"],"totalRemaining":"91","currentlyRegistered":"59","generalRemaining":"83","restrictedRemaining":"8"},"1W1":{"status":" ","section":"ATSC 201 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ATSC","course_number":"201","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"M01":{"status":" ","section":"ATSC 201 M01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=M01&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"21:00","end":"22:00","comments":"Restricted seats for HON and MAJ ATSC students. Homework will be given each week.","subject_code":"ATSC","course_number":"201","section_number":"M01","building":" ","room":"","instructors":["STULL, ROLAND"],"totalRemaining":"125","currentlyRegistered":"25","generalRemaining":"125","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Characteristics and physical processes of thunderstorms, tornadoes, lightning, hail, hurricanes, blizzards, cyclones and other storms."}
+{
+  "course_name": "ATSC 201",
+  "subject_code": "ATSC",
+  "course_number": "201",
+  "course_title": "Meteorology of Storms",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ATSC&course=201&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ATSC 201 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Restricted seats for HON and MAJ ATSC students. Homework will be given each week.",
+      "subject_code": "ATSC",
+      "course_number": "201",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STULL, ROLAND",
+        "ATARIWALA, KIERETH",
+        "DYCK, KYLEE",
+        "HAW, JUSTIN MIRABILIS",
+        "HETTINGA, RACHEL",
+        "HOOFT TOOMEY, EBBA",
+        "INABA, FUMIYA",
+        "JEWORREK, JULIA",
+        "KAO, SAM",
+        "LIANG, JENNIFER",
+        "LIANG, JESSICA",
+        "LITMAN, ADIN",
+        "LIU, WILFORD",
+        "MACADAM, CLINTON",
+        "MATLOCK, BLAISE",
+        "MICHALCHUK, QUENTIN",
+        "OVEISI, SOURENA",
+        "PI, KENG HUA",
+        "SHAABAN, AHMED",
+        "TAI, KRISTIE",
+        "WOHLERS, AMELIA"
+      ],
+      "totalRemaining": "91",
+      "currentlyRegistered": "59",
+      "generalRemaining": "83",
+      "restrictedRemaining": "8"
+    },
+    {
+      "status": " ",
+      "section": "ATSC 201 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ATSC",
+      "course_number": "201",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ATSC 201 M01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ATSC&course=201&section=M01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "21:00",
+      "end": "22:00",
+      "comments": "Restricted seats for HON and MAJ ATSC students. Homework will be given each week.",
+      "subject_code": "ATSC",
+      "course_number": "201",
+      "section_number": "M01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STULL, ROLAND"
+      ],
+      "totalRemaining": "127",
+      "currentlyRegistered": "23",
+      "generalRemaining": "127",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Characteristics and physical processes of thunderstorms, tornadoes, lightning, hail, hurricanes, blizzards, cyclones and other storms.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

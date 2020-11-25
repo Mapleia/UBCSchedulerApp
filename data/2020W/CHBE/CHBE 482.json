@@ -1,1 +1,72 @@
-{"course_name":"CHBE 482","subject_code":"CHBE","course_number":"482","course_title":"Petroleum Refining Process Modelling and Simulation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=482&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 482 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=482&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"CHBE","course_number":"482","section_number":"201","building":"Chemical and Biological Engineering Building","room":"314","instructors":["POSARAC, DUSKO"],"totalRemaining":"16","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"16"},"T2A":{"status":"Restricted","section":"CHBE 482 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=482&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"","subject_code":"CHBE","course_number":"482","section_number":"T2A","building":"Chemical and Biological Engineering Building","room":"314","instructors":["POSARAC, DUSKO"],"totalRemaining":"16","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"16"}},"credits":"Credits: 3","description":"Petroleum feed stocks testing methods, pseudocomponents, and property methods. Design and simulation of separation and reaction systems. Steady state and dynamic simulation."}
+{
+  "course_name": "CHBE 482",
+  "subject_code": "CHBE",
+  "course_number": "482",
+  "course_title": "Petroleum Refining Process Modelling and Simulation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=482&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 482 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=482&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "482",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POSARAC, DUSKO"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 482 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=482&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "482",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POSARAC, DUSKO"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": 3,
+  "description": "Petroleum feed stocks testing methods, pseudocomponents, and property methods. Design and simulation of separation and reaction systems. Steady state and dynamic simulation.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

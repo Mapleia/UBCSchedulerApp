@@ -1,1 +1,46 @@
-{"course_name":"HIST 333B","subject_code":"HIST","course_number":"333B","course_title":"Third-Year Honours Seminar - 3RD YR HONRS SEM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=333B&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"HIST 333B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=333B&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":"","end":"","comments":"This section of HIST 333B is restricted to Honours students who want to attend term 2 only. Students who want to attend the full version of HIST 333 should register in HIST 333C 001.","subject_code":"HIST","course_number":"333B","section_number":"201","building":"","room":"","instructors":["0","2","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "HIST 333B",
+  "subject_code": "HIST",
+  "course_number": "333B",
+  "course_title": "Third-Year Honours Seminar - 3RD YR HONRS SEM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=333B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 333B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=333B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section of HIST 333B is restricted to Honours students who want to attend term 2 only. Students who want to attend the full version of HIST 333 should register in HIST 333C 001.",
+      "subject_code": "HIST",
+      "course_number": "333B",
+      "section_number": "201",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "2",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"ENGL 337","subject_code":"ENGL","course_number":"337","course_title":"Text and Image","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=337&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 337 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=337&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ENGL","course_number":"337","section_number":"001","building":"Buchanan","room":"D322","instructors":["DALZIEL, PAMELA"],"totalRemaining":"15","currentlyRegistered":"30","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Relationship between texts and images, or the aspect of text as image, in literary and non-literary works and of various genres, periods, and media. Consult department website for current year's offerings."}
+{
+  "course_name": "ENGL 337",
+  "subject_code": "ENGL",
+  "course_number": "337",
+  "course_title": "Text and Image",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=337&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 337 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=337&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "337",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DALZIEL, PAMELA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Relationship between texts and images, or the aspect of text as image, in literary and non-literary works and of various genres, periods, and media. Consult department website for current year's offerings.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

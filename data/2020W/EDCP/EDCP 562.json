@@ -1,1 +1,175 @@
-{"course_name":"EDCP 562","subject_code":"EDCP","course_number":"562","course_title":"Curriculum Issues and Theories","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=562&sessyr=2020&sesscd=W","sections":{"031":{"status":"Full","section":"EDCP 562 031","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=031&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"This section will be offered online.","subject_code":"EDCP","course_number":"562","section_number":"031","building":" ","room":"","instructors":["PINAR, WILLIAM"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"032":{"status":"Full","section":"EDCP 562 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"16:30","end":"19:30","comments":"","subject_code":"EDCP","course_number":"562","section_number":"032","building":"Neville Scarfe","room":"210","instructors":["ROSS, EDDIE WAYNE"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"61A":{"status":"Blocked","section":"EDCP 562 61A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the SCE2 MED off-campus online cohort students only. Administered by PDCE","subject_code":"EDCP","course_number":"562","section_number":"61A","building":" ","room":"","instructors":["ADLER, JAMES DOUGLAS"],"totalRemaining":"1","currentlyRegistered":"21","generalRemaining":"1","restrictedRemaining":"0"},"61B":{"status":"Blocked","section":"EDCP 562 61B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61B&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This section is reserved for students in the MAED Master of Education cohort. No other students will be registered.","subject_code":"EDCP","course_number":"562","section_number":"61B","building":"No Scheduled Meeting","room":"","instructors":["WADDINGTON, TIMOTHY"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"61C":{"status":"Blocked","section":"EDCP 562 61C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61C&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to the NVC5 Off-Campus MED cohort students only. Administered by PDCE","subject_code":"EDCP","course_number":"562","section_number":"61C","building":" ","room":"","instructors":["GOUZOUASIS, PETER"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"62A":{"status":"Blocked","section":"EDCP 562 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=62A&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a PDCE administered course for HEE6 Cohort. Restricted to students in that Cohort.","subject_code":"EDCP","course_number":"562","section_number":"62A","building":"No Scheduled Meeting","room":"","instructors":["EDWARDS, ANTHONY"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 562",
+  "subject_code": "EDCP",
+  "course_number": "562",
+  "course_title": "Curriculum Issues and Theories",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=562&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EDCP 562 031",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=031&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "031",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PINAR, WILLIAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "EDCP 562 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROSS, EDDIE WAYNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 562 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the SCE2 MED off-campus online cohort students only. Administered by PDCE",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "61A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADLER, JAMES DOUGLAS"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "21",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 562 61B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is reserved for students in the MAED Master of Education cohort. No other students will be registered.",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "61B",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "WADDINGTON, TIMOTHY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 562 61C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=61C&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to the NVC5 Off-Campus MED cohort students only. Administered by PDCE",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "61C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GOUZOUASIS, PETER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EDCP 562 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=562&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for HEE6 Cohort. Restricted to students in that Cohort.",
+      "subject_code": "EDCP",
+      "course_number": "562",
+      "section_number": "62A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EDWARDS, ANTHONY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

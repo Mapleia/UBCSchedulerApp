@@ -1,1 +1,44 @@
-{"course_name":"ANTH 471","subject_code":"ANTH","course_number":"471","course_title":"Anthropology of Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=471&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ANTH 471 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=471&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Anthropology of Law, 471:  This course includes an examination of law cross-culturally, including medieval Iceland and the local Coast Salish peoples, a consideration of underlying concepts in various legal systems, the debates which have concerned anthropologists examining the law, and a detailed look at one legal system, the BC Human Rights Tribunal. Students will carry out original research from BCHRT decisions. Finally, we look at courts as ethnographic sites and interview a sitting judge and a lawyer who specializes in Indigenous women\u0019s cases.","subject_code":"ANTH","course_number":"471","section_number":"002","building":" ","room":"","instructors":["MILLER, BRUCE"],"totalRemaining":"15","currentlyRegistered":"25","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Cross-cultural study of the operation of law within contested systems of meaning, the social organization of law, and forms of consciousness of the participants in legal/justice practices."}
+{
+  "course_name": "ANTH 471",
+  "subject_code": "ANTH",
+  "course_number": "471",
+  "course_title": "Anthropology of Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=471&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 471 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=471&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Anthropology of Law, 471:  This course includes an examination of law cross-culturally, including medieval Iceland and the local Coast Salish peoples, a consideration of underlying concepts in various legal systems, the debates which have concerned anthropologists examining the law, and a detailed look at one legal system, the BC Human Rights Tribunal. Students will carry out original research from BCHRT decisions. Finally, we look at courts as ethnographic sites and interview a sitting judge and a lawyer who specializes in Indigenous women\u0019s cases.",
+      "subject_code": "ANTH",
+      "course_number": "471",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MILLER, BRUCE"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "25",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Cross-cultural study of the operation of law within contested systems of meaning, the social organization of law, and forms of consciousness of the participants in legal/justice practices.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"HIST 321A","subject_code":"HIST","course_number":"321A","course_title":"Honours Tutorial - HONOURS TUTORIAL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=321A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"HIST 321A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=321A&section=101&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Thu","start":"10:00","end":"12:00","comments":"HIST 321A restricted to 3rd Year History honours students.In 2020W, the topic will be History through Images. How has photography changed the way that we understand and study past historical events? This course explores how historians might learn to see better, how we might learn to read images, and how photographic images change our relationship with the past. During the first weeks of the class, we shall ll read debates over the nature of sight and the types of evidence provided by photographic images. During the following weeks we'll trace over a 150 years of the wider history of photography as it shaped a range of fields and became a powerful tool for the sciences and medicine, colonial infrastructure, wartime propaganda, communicating the news, constructing individual and national identities, advertising, protest, environmental activism an and ~d feminist critique around the globe. While this curated history of photography includes the Euro-North American context, it will amplify perspectives from East Asia, India, Africa, and Central and South America. The seminar will combine short background lectures with active group discussions and activities, visual analysis of photographs, film viewings, and in-depth engagements with online photography archives.HIST 321A will involve synchronous meetings during the Thursday morning time slot as well as asynchronous elements. Students who are unable to attend the Thursday sessions will be accommodated.","subject_code":"HIST","course_number":"321A","section_number":"101","building":" ","room":"","instructors":["MCCORMICK, KELLY"],"totalRemaining":"0","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "HIST 321A",
+  "subject_code": "HIST",
+  "course_number": "321A",
+  "course_title": "Honours Tutorial - HONOURS TUTORIAL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=321A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 321A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=321A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "HIST 321A restricted to 3rd Year History honours students.In 2020W, the topic will be History through Images. How has photography changed the way that we understand and study past historical events? This course explores how historians might learn to see better, how we might learn to read images, and how photographic images change our relationship with the past. During the first weeks of the class, we shall ll read debates over the nature of sight and the types of evidence provided by photographic images. During the following weeks we'll trace over a 150 years of the wider history of photography as it shaped a range of fields and became a powerful tool for the sciences and medicine, colonial infrastructure, wartime propaganda, communicating the news, constructing individual and national identities, advertising, protest, environmental activism an and ~d feminist critique around the globe. While this curated history of photography includes the Euro-North American context, it will amplify perspectives from East Asia, India, Africa, and Central and South America. The seminar will combine short background lectures with active group discussions and activities, visual analysis of photographs, film viewings, and in-depth engagements with online photography archives.HIST 321A will involve synchronous meetings during the Thursday morning time slot as well as asynchronous elements. Students who are unable to attend the Thursday sessions will be accommodated.",
+      "subject_code": "HIST",
+      "course_number": "321A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCCORMICK, KELLY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

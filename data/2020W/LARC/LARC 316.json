@@ -1,1 +1,43 @@
-{"course_name":"LARC 316","subject_code":"LARC","course_number":"316","course_title":"Trees and Shrubs in Landscape","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=316&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"LARC 316 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=316&section=002&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"11:00","end":"12:30","comments":"","subject_code":"LARC","course_number":"316","section_number":"002","building":" ","room":"","instructors":["JUSTICE, DOUGLAS"],"totalRemaining":"15","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"Culture and identification of landscape materials with emphasis on woody plants. Elementary principles of landscape composition.  Suitable for students of other faculties and departments interested in landscape materials and their uses, but priority given to  Agroecology and Landscape Architecture students."}
+{
+  "course_name": "LARC 316",
+  "subject_code": "LARC",
+  "course_number": "316",
+  "course_title": "Trees and Shrubs in Landscape",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=316&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 316 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=316&section=002&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "316",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JUSTICE, DOUGLAS"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "Culture and identification of landscape materials with emphasis on woody plants. Elementary principles of landscape composition.  Suitable for students of other faculties and departments interested in landscape materials and their uses, but priority given to  Agroecology and Landscape Architecture students.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

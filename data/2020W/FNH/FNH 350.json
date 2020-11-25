@@ -1,1 +1,74 @@
-{"course_name":"FNH 350","subject_code":"FNH","course_number":"350","course_title":"Fundamentals of Nutrition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=350&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FNH 350 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=350&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"This section is FULL so has been blocked from registration - if you wish to be considered for the course, please register for the waitlist (FNH 350 0W1).","subject_code":"FNH","course_number":"350","section_number":"001","building":" ","room":"","instructors":["STEFANSKA, BARBARA","BOYCOTT, CAYLA","YANG, TONY"],"totalRemaining":"0","currentlyRegistered":"207","generalRemaining":"0","restrictedRemaining":"0"},"0W1":{"status":"Blocked","section":"FNH 350 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=350&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"FNH","course_number":"350","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["STEFANSKA, BARBARA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"15"}},"credits":"Credits: 3","description":"Fundamentals of energy and macronutrient metabolism."}
+{
+  "course_name": "FNH 350",
+  "subject_code": "FNH",
+  "course_number": "350",
+  "course_title": "Fundamentals of Nutrition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNH 350 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=350&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This section is FULL so has been blocked from registration - if you wish to be considered for the course, please register for the waitlist (FNH 350 0W1).",
+      "subject_code": "FNH",
+      "course_number": "350",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEFANSKA, BARBARA",
+        "BOYCOTT, CAYLA",
+        "YANG, TONY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "206",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "FNH 350 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=350&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "350",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "STEFANSKA, BARBARA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "Fundamentals of energy and macronutrient metabolism.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

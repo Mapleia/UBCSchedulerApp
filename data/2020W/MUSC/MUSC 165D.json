@@ -1,1 +1,44 @@
-{"course_name":"MUSC 165D","subject_code":"MUSC","course_number":"165D","course_title":"World Music Ensembles - AFRICAN MUS/DANC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=165D&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 165D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=165D&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Tue Thu","start":"17:30","end":"19:00","comments":"AFRICAN MUSIC  and  DANCE ENSEMBLE.For undergraduates (graduate students register in MUSC 565D 001).  OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html. Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.This course/ensemble introduces drumming techniques, dances and other artistic expressions of Africa.  Through the instruments, the voice, the dance movements and other visual art forms and paraphernalia, this class/ensemble brings to the stage a unique African theatrical experience. The course/ensemble may be repeated for credit. It will include public performances (concerts and lecture demonstrations). Also as a practical way of preparing for the main concert, students may be requested to participate in other performances on or off campus as the need may arise.","subject_code":"MUSC","course_number":"165D","section_number":"001","building":"Asian Centre","room":"105","instructors":["GBOLONYO, JUSTICE"],"totalRemaining":"42","currentlyRegistered":"8","generalRemaining":"42","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music, or when permitted in other programs."}
+{
+  "course_name": "MUSC 165D",
+  "subject_code": "MUSC",
+  "course_number": "165D",
+  "course_title": "World Music Ensembles - AFRICAN MUS/DANC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=165D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 165D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=165D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "19:00",
+      "comments": "AFRICAN MUSIC  and  DANCE ENSEMBLE.For undergraduates (graduate students register in MUSC 565D 001).  OPEN TO NON-MUSIC STUDENTS: How do I register for ensembles?  For most ensembles an audition is required to secure your place. During the audition you play or sing a prepared piece for the conductor. Auditions for ensembles take place at the beginning of each academic year. Additional information regarding auditions, including downloadable excerpts for each instrument/voice, can be found here: http://www.music.ubc.ca/student-ensembles.html. Come in and sign up for audition times at the Music Office in late August or if you are unavailable to come in person, call our reception desk at 604-822-3113.This course/ensemble introduces drumming techniques, dances and other artistic expressions of Africa.  Through the instruments, the voice, the dance movements and other visual art forms and paraphernalia, this class/ensemble brings to the stage a unique African theatrical experience. The course/ensemble may be repeated for credit. It will include public performances (concerts and lecture demonstrations). Also as a practical way of preparing for the main concert, students may be requested to participate in other performances on or off campus as the need may arise.",
+      "subject_code": "MUSC",
+      "course_number": "165D",
+      "section_number": "001",
+      "building": "Asian Centre",
+      "room": "105",
+      "instructors": [
+        "GBOLONYO, JUSTICE"
+      ],
+      "totalRemaining": "42",
+      "currentlyRegistered": "8",
+      "generalRemaining": "42",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music, or when permitted in other programs.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

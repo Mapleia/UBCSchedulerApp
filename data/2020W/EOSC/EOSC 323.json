@@ -1,1 +1,208 @@
-{"course_name":"EOSC 323","subject_code":"EOSC","course_number":"323","course_title":"Structural Geology I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=323&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"EOSC 323 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"14:00","end":"15:00","comments":"In order to register for this course, students must have completed all of EOSC 221, EOSC 222, EOSC 223.For Fall 2020, EOSC 323 will involve regular online synchronous lectures (2 per week), which will be recorded, providing opportunities to participate in class activities and discussions with your instructors and your peers. Labs will run synchronously, to provide full support from your TA\u0019s. Please select a lab section that you are able to attend on a regular basis. Instructor office hours / tutorial times will be determined based on a student survey at the start of the semester.","subject_code":"EOSC","course_number":"323","section_number":"101","building":" ","room":"","instructors":["KENNEDY, LORI","PORRITT, LUCY","ABDALE, LINDSEY","HARRIS, MARTIN","KAMAL, DARIUS","LEDOUX, TAYLOR"],"totalRemaining":"31","currentlyRegistered":"51","generalRemaining":"31","restrictedRemaining":"0"},"L1A":{"status":" ","section":"EOSC 323 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"323","section_number":"L1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"},"L1B":{"status":"STT","section":"EOSC 323 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"16:00","end":"19:00","comments":"","subject_code":"EOSC","course_number":"323","section_number":"L1B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L1C":{"status":"Blocked","section":"EOSC 323 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Fri","start":"15:00","end":"18:00","comments":"","subject_code":"EOSC","course_number":"323","section_number":"L1C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L1D":{"status":"Blocked","section":"EOSC 323 L1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"16:00","end":"19:00","comments":"","subject_code":"EOSC","course_number":"323","section_number":"L1D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"},"L1E":{"status":"Full","section":"EOSC 323 L1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"8:00","end":"11:00","comments":"","subject_code":"EOSC","course_number":"323","section_number":"L1E","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"EOSC 323 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"323","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis and interpretation of natural deformation."}
+{
+  "course_name": "EOSC 323",
+  "subject_code": "EOSC",
+  "course_number": "323",
+  "course_title": "Structural Geology I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=323&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 323 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "In order to register for this course, students must have completed all of EOSC 221, EOSC 222, EOSC 223.For Fall 2020, EOSC 323 will involve regular online synchronous lectures (2 per week), which will be recorded, providing opportunities to participate in class activities and discussions with your instructors and your peers. Labs will run synchronously, to provide full support from your TA\u0019s. Please select a lab section that you are able to attend on a regular basis. Instructor office hours / tutorial times will be determined based on a student survey at the start of the semester.",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KENNEDY, LORI",
+        "PORRITT, LUCY",
+        "ABDALE, LINDSEY",
+        "HARRIS, MARTIN",
+        "KAMAL, DARIUS",
+        "LEDOUX, TAYLOR"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "51",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 323 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "EOSC 323 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "EOSC 323 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "EOSC 323 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "EOSC 323 L1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=L1E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "L1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 323 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=323&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "323",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis and interpretation of natural deformation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

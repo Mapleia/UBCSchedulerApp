@@ -1,1 +1,123 @@
-{"course_name":"EOSC 432","subject_code":"EOSC","course_number":"432","course_title":"Fossil Fuels","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=432&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"EOSC 432 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"12:00","end":"13:00","comments":"","subject_code":"EOSC","course_number":"432","section_number":"201","building":"Earth and Ocean Sciences","room":"121","instructors":["BUSTIN, ROBERT MARC"],"totalRemaining":"32","currentlyRegistered":"8","generalRemaining":"32","restrictedRemaining":"0"},"L2A":{"status":" ","section":"EOSC 432 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"15:00","end":"17:00","comments":"","subject_code":"EOSC","course_number":"432","section_number":"L2A","building":"Earth and Ocean Sciences","room":"201","instructors":["TBA"],"totalRemaining":"21","currentlyRegistered":"5","generalRemaining":"21","restrictedRemaining":"0"},"L2B":{"status":" ","section":"EOSC 432 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"13:00","end":"15:00","comments":"","subject_code":"EOSC","course_number":"432","section_number":"L2B","building":"Earth and Ocean Sciences","room":"201","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"3","generalRemaining":"17","restrictedRemaining":"0"},"L2C":{"status":" ","section":"EOSC 432 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"11:00","end":"13:00","comments":"","subject_code":"EOSC","course_number":"432","section_number":"L2C","building":"Earth and Ocean Sciences","room":"201","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Origin, geochemistry and distribution of petroleum and coal in the stratigraphic record. Sedimentation of organic matter, organic diagenesis, migration and accumulation of hydrocarbons. Principles of exploration and development. Techniques for measurement of organic maturation and source rock analyses."}
+{
+  "course_name": "EOSC 432",
+  "subject_code": "EOSC",
+  "course_number": "432",
+  "course_title": "Fossil Fuels",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 432 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "432",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BUSTIN, ROBERT MARC"
+      ],
+      "totalRemaining": "32",
+      "currentlyRegistered": "8",
+      "generalRemaining": "32",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 432 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "432",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "5",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 432 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "432",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "3",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 432 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=432&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "432",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Origin, geochemistry and distribution of petroleum and coal in the stratigraphic record. Sedimentation of organic matter, organic diagenesis, migration and accumulation of hydrocarbons. Principles of exploration and development. Techniques for measurement of organic maturation and source rock analyses.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

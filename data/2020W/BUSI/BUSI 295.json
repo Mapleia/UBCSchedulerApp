@@ -1,1 +1,71 @@
-{"course_name":"BUSI 295","subject_code":"BUSI","course_number":"295","course_title":"Managerial Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=295&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BUSI 295 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=295&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"295","section_number":"101","building":" ","room":"","instructors":["AMLANI, ALYM"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"BUSI 295 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=295&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"BUSI","course_number":"295","section_number":"201","building":" ","room":"","instructors":["AMLANI, ALYM"],"totalRemaining":"0","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Economic foundations of managerial decision making."}
+{
+  "course_name": "BUSI 295",
+  "subject_code": "BUSI",
+  "course_number": "295",
+  "course_title": "Managerial Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=295&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 295 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=295&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "295",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMLANI, ALYM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 295 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=295&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "295",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMLANI, ALYM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Economic foundations of managerial decision making.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

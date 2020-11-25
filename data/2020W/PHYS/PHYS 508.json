@@ -1,1 +1,44 @@
-{"course_name":"PHYS 508","subject_code":"PHYS","course_number":"508","course_title":"Quantum Field Theory II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=508&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 508 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=508&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Fri","start":"14:00","end":"16:00","comments":"","subject_code":"PHYS","course_number":"508","section_number":"201","building":"Hennings","room":"302","instructors":["ROZALI, MOSHE"],"totalRemaining":"17","currentlyRegistered":"8","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHYS 508",
+  "subject_code": "PHYS",
+  "course_number": "508",
+  "course_title": "Quantum Field Theory II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 508 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=508&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "508",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROZALI, MOSHE"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "8",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

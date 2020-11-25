@@ -1,1 +1,44 @@
-{"course_name":"SPPH 550","subject_code":"SPPH","course_number":"550","course_title":"Public Health Approaches to Substance Use and Addictions","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=550&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SPPH 550 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=550&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca","subject_code":"SPPH","course_number":"550","section_number":"001","building":" ","room":"","instructors":["OVIEDO-JOEKES, EUGENIA","ERICKSON, MARGARET"],"totalRemaining":"2","currentlyRegistered":"13","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Critical examination of strategies regarding addictive behaviours, substance use and related problems, in the context of a multi-disciplinary approach."}
+{
+  "course_name": "SPPH 550",
+  "subject_code": "SPPH",
+  "course_number": "550",
+  "course_title": "Public Health Approaches to Substance Use and Addictions",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 550 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=550&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course is delivered entirely online via UBC Canvas.  To access the course module, go to www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "550",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OVIEDO-JOEKES, EUGENIA",
+        "ERICKSON, MARGARET"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "13",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical examination of strategies regarding addictive behaviours, substance use and related problems, in the context of a multi-disciplinary approach.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

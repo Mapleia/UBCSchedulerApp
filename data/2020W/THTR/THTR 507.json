@@ -1,1 +1,43 @@
-{"course_name":"THTR 507","subject_code":"THTR","course_number":"507","course_title":"Scenery Design Studio II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=507&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"THTR 507 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=507&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"Complex scenery design for opera, dance, theatre, and other performance forms.","subject_code":"THTR","course_number":"507","section_number":"001","building":"Theatre-Film Production Building","room":"2","instructors":["RIZZOTTI, PATRICK"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Complex scenery design for opera, dance, theatre, and other performance forms."}
+{
+  "course_name": "THTR 507",
+  "subject_code": "THTR",
+  "course_number": "507",
+  "course_title": "Scenery Design Studio II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=507&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "THTR 507 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=507&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Complex scenery design for opera, dance, theatre, and other performance forms.",
+      "subject_code": "THTR",
+      "course_number": "507",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "2",
+      "instructors": [
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Complex scenery design for opera, dance, theatre, and other performance forms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

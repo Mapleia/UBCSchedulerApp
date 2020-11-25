@@ -1,1 +1,75 @@
-{"course_name":"FRST 305","subject_code":"FRST","course_number":"305","course_title":"Silviculture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=305&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 305 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=305&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"FRST","course_number":"305","section_number":"101","building":" ","room":"","instructors":["GALVAO DE SOUSA MAGALHAES, JULIANA"],"totalRemaining":"10","currentlyRegistered":"70","generalRemaining":"10","restrictedRemaining":"0"},"L01":{"status":"Cancelled","section":"FRST 305 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=305&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" ","start":"","end":"","comments":"Please be advised that the lab section for FRST 305 alternates with the lab section for FRST 320.","subject_code":"FRST","course_number":"305","section_number":"L01","building":"","room":"","instructors":["80","0","80","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Silviculture concepts and principles; stand dynamics; artificial and natural regeneration; cultural techniques for forest stand establishment and stand tending; silvicultural systems; decision making and development of prescriptions; connections to forest planning."}
+{
+  "course_name": "FRST 305",
+  "subject_code": "FRST",
+  "course_number": "305",
+  "course_title": "Silviculture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 305 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=305&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "305",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALVAO DE SOUSA MAGALHAES, JULIANA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "69",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Cancelled",
+      "section": "FRST 305 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=305&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Please be advised that the lab section for FRST 305 alternates with the lab section for FRST 320.",
+      "subject_code": "FRST",
+      "course_number": "305",
+      "section_number": "L01",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "80",
+        "0",
+        "80",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Silviculture concepts and principles; stand dynamics; artificial and natural regeneration; cultural techniques for forest stand establishment and stand tending; silvicultural systems; decision making and development of prescriptions; connections to forest planning.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"LING 270","subject_code":"LING","course_number":"270","course_title":"Introduction to Studies in Second Language Acquisition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=270&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"LING 270 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=270&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"LING","course_number":"270","section_number":"002","building":" ","room":"","instructors":["MARINOVA-TODD, STEFKA"],"totalRemaining":"28","currentlyRegistered":"22","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Linguistic systems that learners of an additional language develop as they approximate towards the target language, and key questions about what this 'interlanguage' system reveals about how we learn languages."}
+{
+  "course_name": "LING 270",
+  "subject_code": "LING",
+  "course_number": "270",
+  "course_title": "Introduction to Studies in Second Language Acquisition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=270&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 270 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=270&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "270",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MARINOVA-TODD, STEFKA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "19",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Linguistic systems that learners of an additional language develop as they approximate towards the target language, and key questions about what this 'interlanguage' system reveals about how we learn languages.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

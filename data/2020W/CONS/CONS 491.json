@@ -1,1 +1,44 @@
-{"course_name":"CONS 491","subject_code":"CONS","course_number":"491","course_title":"Recreation and Tourism Planning","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=491&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"CONS 491 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=491&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"","subject_code":"CONS","course_number":"491","section_number":"101","building":" ","room":"","instructors":["GILANI, HARIS"],"totalRemaining":"19","currentlyRegistered":"41","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles and methods for planning urban and rural recreation and related tourism resources including analyzing recreation resources, applying policies and standards, developing park/recreation area management plans, and understanding benefits to human and community wellbeing and biodiversity."}
+{
+  "course_name": "CONS 491",
+  "subject_code": "CONS",
+  "course_number": "491",
+  "course_title": "Recreation and Tourism Planning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=491&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CONS 491 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=491&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "491",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GILANI, HARIS"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "41",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and methods for planning urban and rural recreation and related tourism resources including analyzing recreation resources, applying policies and standards, developing park/recreation area management plans, and understanding benefits to human and community wellbeing and biodiversity.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

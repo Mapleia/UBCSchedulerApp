@@ -1,1 +1,70 @@
-{"course_name":"ASIA 457","subject_code":"ASIA","course_number":"457","course_title":"The Modern Korean Novel","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=457&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ASIA 457 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=457&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"Prerequisites NOT REQUIRED for 2020W term.Students are eligible to register without ASIA 347.If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)All course will be offered online in Term 1.  Instructors are currently adapting course content and determining the best delivery model for each course. Students can expect a variety of formats which may include a combination of online meetings and outside of class readings, recorded lecturers, and/or assignments, in various proportions. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. One or more of these times may be dropped or reduced and replaced with asynchronous learning tasks. These details will updated here as they become available.","subject_code":"ASIA","course_number":"457","section_number":"001","building":" ","room":"","instructors":["FULTON, BRUCE"],"totalRemaining":"47","currentlyRegistered":"8","generalRemaining":"47","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"ASIA 457 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=457&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)","subject_code":"ASIA","course_number":"457","section_number":"W01","building":" ","room":"","instructors":["FULTON, BRUCE"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"50","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of major single-volume novels, ranging from Yi Kwang-su's Heartlessness to Ch'oe Yun's There a Petal Silently Falls, in translation."}
+{
+  "course_name": "ASIA 457",
+  "subject_code": "ASIA",
+  "course_number": "457",
+  "course_title": "The Modern Korean Novel",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=457&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 457 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=457&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "Prerequisites NOT REQUIRED for 2020W term.Students are eligible to register without ASIA 347.If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)All course will be offered online in Term 1.  Instructors are currently adapting course content and determining the best delivery model for each course. Students can expect a variety of formats which may include a combination of online meetings and outside of class readings, recorded lecturers, and/or assignments, in various proportions. The meeting days and times currently displayed reflect the maximum time that students will be expected to meet synchronously with the instructor. One or more of these times may be dropped or reduced and replaced with asynchronous learning tasks. These details will updated here as they become available.",
+      "subject_code": "ASIA",
+      "course_number": "457",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FULTON, BRUCE"
+      ],
+      "totalRemaining": "47",
+      "currentlyRegistered": "8",
+      "generalRemaining": "47",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASIA 457 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=457&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "ASIA",
+      "course_number": "457",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FULTON, BRUCE"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "50",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of major single-volume novels, ranging from Yi Kwang-su's Heartlessness to Ch'oe Yun's There a Petal Silently Falls, in translation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

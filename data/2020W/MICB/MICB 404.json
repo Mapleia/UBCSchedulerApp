@@ -1,1 +1,74 @@
-{"course_name":"MICB 404","subject_code":"MICB","course_number":"404","course_title":"Topics in Molecular Bacterial Pathogenesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=404&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MICB 404 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=404&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.","subject_code":"MICB","course_number":"404","section_number":"201","building":" ","room":"","instructors":["HANCOCK, ROBERT E"],"totalRemaining":"1","currentlyRegistered":"17","generalRemaining":"1","restrictedRemaining":"0"},"WL2":{"status":" ","section":"MICB 404 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=404&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"404","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"19","currentlyRegistered":"3","generalRemaining":"2","restrictedRemaining":"17"}},"credits":"Credits: 3","description":"A lecture/discussion/library research course. Topics such as antibiotic resistance, pathogen genomics; host-pathogen interactions; evolution of pathogens; host responses to infection, invasive mechanisms, resistance mechanisms."}
+{
+  "course_name": "MICB 404",
+  "subject_code": "MICB",
+  "course_number": "404",
+  "course_title": "Topics in Molecular Bacterial Pathogenesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=404&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 404 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=404&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "404",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANCOCK, ROBERT E"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 404 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=404&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "404",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "2",
+      "generalRemaining": "2",
+      "restrictedRemaining": "18"
+    }
+  ],
+  "credits": 3,
+  "description": "A lecture/discussion/library research course. Topics such as antibiotic resistance, pathogen genomics; host-pathogen interactions; evolution of pathogens; host responses to infection, invasive mechanisms, resistance mechanisms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

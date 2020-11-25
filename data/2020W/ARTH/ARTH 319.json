@@ -1,1 +1,45 @@
-{"course_name":"ARTH 319","subject_code":"ARTH","course_number":"319","course_title":"The Archaeology of Ancient Iraq and Syria: Babylon and Beyond","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=319&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ARTH 319 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=319&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"ARTH 319 is equivalent to NEST 319. If this course is full, students can register in the equivalent section. NEST 319 will apply towards Art History and Visual Art program requirements in the same way as ARTH 319. Please contact the AHVA undergraduate advisor with any questions: greg.gibson@ubc.ca.","subject_code":"ARTH","course_number":"319","section_number":"001","building":"Buchanan","room":"B213","instructors":["FISHER, KEVIN"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An overview of the archaeology of the ancient Near East, with special emphasis on the civilizations of Mesopotamia, from the appearance of the first cities (c. 3400 BCE) to the end of the Persian period (c. 330 BCE)."}
+{
+  "course_name": "ARTH 319",
+  "subject_code": "ARTH",
+  "course_number": "319",
+  "course_title": "The Archaeology of Ancient Iraq and Syria: Babylon and Beyond",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=319&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 319 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=319&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "ARTH 319 is equivalent to NEST 319. If this course is full, students can register in the equivalent section. NEST 319 will apply towards Art History and Visual Art program requirements in the same way as ARTH 319. Please contact the AHVA undergraduate advisor with any questions: greg.gibson@ubc.ca.",
+      "subject_code": "ARTH",
+      "course_number": "319",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FISHER, KEVIN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "13",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An overview of the archaeology of the ancient Near East, with special emphasis on the civilizations of Mesopotamia, from the appearance of the first cities (c. 3400 BCE) to the end of the Persian period (c. 330 BCE).",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

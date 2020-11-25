@@ -1,1 +1,44 @@
-{"course_name":"RHSC 500","subject_code":"RHSC","course_number":"500","course_title":"Advanced Concepts for Rehabilitation Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=500&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"RHSC 500 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=500&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":" ","end":" ","comments":"RHSC 500 will start on Tuesday, September 10, 2019. (not September 4th)This version of the course is not for MRSc students.PLEASE NOTE: This course is only for RHSC graduate students. It is not open to graduate students from other faculties.","subject_code":"RHSC","course_number":"500","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["LIU, TERESA YEONG LIH","NIMMON, LAURA"],"totalRemaining":"9","currentlyRegistered":"22","generalRemaining":"1","restrictedRemaining":"8"}},"credits":"Credits: 2","description":"Issues relevant to clinical investigations in rehabilitation. Emphasis on research design, measurement issues, selection of analytical approaches, and relevant epidemiological concepts."}
+{
+  "course_name": "RHSC 500",
+  "subject_code": "RHSC",
+  "course_number": "500",
+  "course_title": "Advanced Concepts for Rehabilitation Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RHSC&course=500&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RHSC 500 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RHSC&course=500&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "RHSC 500 will start on Tuesday, September 10, 2019. (not September 4th)This version of the course is not for MRSc students.PLEASE NOTE: This course is only for RHSC graduate students. It is not open to graduate students from other faculties.",
+      "subject_code": "RHSC",
+      "course_number": "500",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LIU, TERESA YEONG LIH",
+        "NIMMON, LAURA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "21",
+      "generalRemaining": "1",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 2,
+  "description": "Issues relevant to clinical investigations in rehabilitation. Emphasis on research design, measurement issues, selection of analytical approaches, and relevant epidemiological concepts.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

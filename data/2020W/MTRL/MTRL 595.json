@@ -1,1 +1,76 @@
-{"course_name":"MTRL 595","subject_code":"MTRL","course_number":"595","course_title":"Advanced Biomaterials","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=595&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MTRL 595 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=595&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"MTRL","course_number":"595","section_number":"201","building":"Frank Forward","room":"217","instructors":["WANG, RIZHI"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"14"},"T2A":{"status":"Restricted","section":"MTRL 595 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=595&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"MTRL","course_number":"595","section_number":"T2A","building":"","room":"","instructors":["15","5","0","15","","in one of these faculties: GRAD\n\n"],"totalRemaining":"in one of these faculties: GRAD\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Formation and structure-function relations of biological materials, the interaction of tissue-synthetic biomaterials, advanced biomaterials design, biomimetic processing, and current progress in drug delivery systems and biomedical devices."}
+{
+  "course_name": "MTRL 595",
+  "subject_code": "MTRL",
+  "course_number": "595",
+  "course_title": "Advanced Biomaterials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=595&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 595 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=595&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "595",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WANG, RIZHI"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "14"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 595 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=595&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Web based",
+      "subject_code": "MTRL",
+      "course_number": "595",
+      "section_number": "T2A",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "6",
+        "0",
+        "14",
+        "",
+        "in one of these faculties: GRAD\n\n"
+      ],
+      "totalRemaining": "in one of these faculties: GRAD\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Formation and structure-function relations of biological materials, the interaction of tissue-synthetic biomaterials, advanced biomaterials design, biomimetic processing, and current progress in drug delivery systems and biomedical devices.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Tutorial"
+  ]
+}

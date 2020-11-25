@@ -1,1 +1,43 @@
-{"course_name":"LAW 470","subject_code":"LAW","course_number":"470","course_title":"Innocence Project","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=470&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 470 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=470&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"Registration by Permission Only. This class fulfills the Experiential Learning Requirement.  THIS CLASS WILL MEET IN-PERSON.","subject_code":"LAW","course_number":"470","section_number":"001","building":"Allard Hall (LAW)","room":"105","instructors":["LEVY, TAMARA"],"totalRemaining":"3","currentlyRegistered":"15","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Clinical program giving hands-on experience in reviewing claims of innocence post-conviction. Not offered every year; consult Faculty."}
+{
+  "course_name": "LAW 470",
+  "subject_code": "LAW",
+  "course_number": "470",
+  "course_title": "Innocence Project",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=470&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 470 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=470&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Registration by Permission Only. This class fulfills the Experiential Learning Requirement.  THIS CLASS WILL MEET IN-PERSON.",
+      "subject_code": "LAW",
+      "course_number": "470",
+      "section_number": "001",
+      "building": "Allard Hall (LAW)",
+      "room": "105",
+      "instructors": [
+        "LEVY, TAMARA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "15",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Clinical program giving hands-on experience in reviewing claims of innocence post-conviction. Not offered every year; consult Faculty.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

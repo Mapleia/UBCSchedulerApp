@@ -1,1 +1,70 @@
-{"course_name":"EPSE 390A","subject_code":"EPSE","course_number":"390A","course_title":"Special Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=390A&sessyr=2020&sesscd=W","sections":{"63C":{"status":"Restricted","section":"EPSE 390A 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=390A&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:\"\tSpecialization SPED, EYED and IDSCRestricted to:\"\tSpecialization SPED, EYED and IDSC\"\tProgram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7Restriction will be removed for BKIN, and BA - specialization PSYC > = to Year 3 on July 21.Restriction will be removed for UNCL on July 28Restrictions will be removed for 3rd  and  4th Year students in general on August 4","subject_code":"EPSE","course_number":"390A","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"12"},"W3C":{"status":"Blocked","section":"EPSE 390A W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=390A&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Enrollment on a waitlist does not guarantee eventual registration in the course.","subject_code":"EPSE","course_number":"390A","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"36"}},"credits":"Credits: 3","description":"A study of innovative practices, ideas, and theories in special education. The specific topics may change yearly to reflect changing priorities and interests in special education, and the specific interest and competencies of visiting and regular faculty."}
+{
+  "course_name": "EPSE 390A",
+  "subject_code": "EPSE",
+  "course_number": "390A",
+  "course_title": "Special Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=390A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EPSE 390A 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=390A&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:\"\tSpecialization SPED, EYED and IDSCRestricted to:\"\tSpecialization SPED, EYED and IDSC\"\tProgram BA, specialization EDUC, emphasis SPEDRestriction will be removed for DEDU on July 7Restriction will be removed for BKIN, and BA - specialization PSYC > = to Year 3 on July 21.Restriction will be removed for UNCL on July 28Restrictions will be removed for 3rd  and  4th Year students in general on August 4",
+      "subject_code": "EPSE",
+      "course_number": "390A",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PETERS, GINAYA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 390A W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=390A&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "390A",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    }
+  ],
+  "credits": 3,
+  "description": "A study of innovative practices, ideas, and theories in special education. The specific topics may change yearly to reflect changing priorities and interests in special education, and the specific interest and competencies of visiting and regular faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

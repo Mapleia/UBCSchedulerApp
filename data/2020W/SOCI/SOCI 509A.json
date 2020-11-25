@@ -1,1 +1,43 @@
-{"course_name":"SOCI 509A","subject_code":"SOCI","course_number":"509A","course_title":"Sociology of the Environment - SOCI OF ENVIRON","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=509A&sessyr=2020&sesscd=W","sections":{"202":{"status":" ","section":"SOCI 509A 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=509A&section=202&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"SOCI","course_number":"509A","section_number":"202","building":"Buchanan","room":"D216","instructors":["TINDALL, DAVID"],"totalRemaining":"8","currentlyRegistered":"7","generalRemaining":"2","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOCI 509A",
+  "subject_code": "SOCI",
+  "course_number": "509A",
+  "course_title": "Sociology of the Environment - SOCI OF ENVIRON",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=509A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 509A 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=509A&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "509A",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TINDALL, DAVID"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "4",
+      "generalRemaining": "5",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

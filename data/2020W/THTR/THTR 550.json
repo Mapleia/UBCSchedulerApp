@@ -1,1 +1,47 @@
-{"course_name":"THTR 550","subject_code":"THTR","course_number":"550","course_title":"Studies in Historic Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=550&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 550 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=550&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"550","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FIRKINS, JACQUELINE","GARDINER, ROBERT","PENNEFATHER, PATRICK","POWERS, BRADLEY","RIZZOTTI, PATRICK"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Seminar in theatre scenery, costumes, and architecture of selected historical periods. Pre- or co-requisite: THTR 505 and THTR 506."}
+{
+  "course_name": "THTR 550",
+  "subject_code": "THTR",
+  "course_number": "550",
+  "course_title": "Studies in Historic Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 550 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=550&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "550",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GARDINER, ROBERT",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Seminar in theatre scenery, costumes, and architecture of selected historical periods. Pre- or co-requisite: THTR 505 and THTR 506.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

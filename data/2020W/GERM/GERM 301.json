@@ -1,1 +1,76 @@
-{"course_name":"GERM 301","subject_code":"GERM","course_number":"301","course_title":"German Literature 1900 - 1945 (in English)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=301&sessyr=2020&sesscd=W","sections":{"001":{"status":"Cancelled","section":"GERM 301 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=301&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" ","start":"","end":"","comments":"GERM 302 002 is being held in Winter 2020 Term 2 instead of this course.","subject_code":"GERM","course_number":"301","section_number":"001","building":"","room":"","instructors":["40","0","40","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":" ","section":"GERM 301 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=301&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"The Literature of Interior Spaces. Private homes, hotels, factories, offices and prisons: this semester, we will explore interior spaces as cultural and political subjects in pre-WWII 20th c. literature and art- from Kafka's legal attics to Grete Lihotzky's rationalized domestic architecture, and from Kracauer's and Murnau's hotel lobbies to the office-worlds in the prose of the New Objectivity. In addition to reading fiction and poetry, we will discuss texts by authors associated with the Frankfurt School, explore works by Bauhaus artists and architects and watch Weimar-era Kammerspielfilme (\"chamber dramas\"). This course is taught in English.","subject_code":"GERM","course_number":"301","section_number":"002","building":" ","room":"","instructors":["IURASCU, ILINCA","SCHWEBEL, SHOSHANA(Lead)"],"totalRemaining":"1","currentlyRegistered":"44","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Reading and discussion of selected works against the background of literary, social, and political developments in twentieth-century Germany with special emphasis on plays and novels dealing with the First World War and Nazism."}
+{
+  "course_name": "GERM 301",
+  "subject_code": "GERM",
+  "course_number": "301",
+  "course_title": "German Literature 1900 - 1945 (in English)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GERM&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "GERM 301 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=301&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "GERM 302 002 is being held in Winter 2020 Term 2 instead of this course.",
+      "subject_code": "GERM",
+      "course_number": "301",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "40",
+        "0",
+        "40",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "GERM 301 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GERM&course=301&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "The Literature of Interior Spaces. Private homes, hotels, factories, offices and prisons: this semester, we will explore interior spaces as cultural and political subjects in pre-WWII 20th c. literature and art- from Kafka's legal attics to Grete Lihotzky's rationalized domestic architecture, and from Kracauer's and Murnau's hotel lobbies to the office-worlds in the prose of the New Objectivity. In addition to reading fiction and poetry, we will discuss texts by authors associated with the Frankfurt School, explore works by Bauhaus artists and architects and watch Weimar-era Kammerspielfilme (\"chamber dramas\"). This course is taught in English.",
+      "subject_code": "GERM",
+      "course_number": "301",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "IURASCU, ILINCA",
+        "SCHWEBEL, SHOSHANA(Lead)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Reading and discussion of selected works against the background of literary, social, and political developments in twentieth-century Germany with special emphasis on plays and novels dealing with the First World War and Nazism.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Web-Oriented Course"
+  ]
+}

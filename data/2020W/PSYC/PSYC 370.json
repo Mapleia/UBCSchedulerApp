@@ -1,1 +1,44 @@
-{"course_name":"PSYC 370","subject_code":"PSYC","course_number":"370","course_title":"Behavioural Neuroscience I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=370&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 370 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=370&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PSYC","course_number":"370","section_number":"001","building":" ","room":"","instructors":["SNYDER, JASON"],"totalRemaining":"6","currentlyRegistered":"94","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Advanced methods and topics in behavioural neuroscience."}
+{
+  "course_name": "PSYC 370",
+  "subject_code": "PSYC",
+  "course_number": "370",
+  "course_title": "Behavioural Neuroscience I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=370&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 370 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=370&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "370",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SNYDER, JASON"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "94",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Advanced methods and topics in behavioural neuroscience.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

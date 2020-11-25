@@ -1,1 +1,43 @@
-{"course_name":"EPSE 577","subject_code":"EPSE","course_number":"577","course_title":"Seminar in Assessment and Positive Behaviour Support in School and Community Settings","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=577&sessyr=2020&sesscd=W","sections":{"075":{"status":" ","section":"EPSE 577 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=577&section=075&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"SPED","subject_code":"EPSE","course_number":"577","section_number":"075","building":"Neville Scarfe","room":"205","instructors":["LUCYSHYN, JOSEPH"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 577",
+  "subject_code": "EPSE",
+  "course_number": "577",
+  "course_title": "Seminar in Assessment and Positive Behaviour Support in School and Community Settings",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=577&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EPSE 577 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=577&section=075&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "SPED This section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "577",
+      "section_number": "075",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LUCYSHYN, JOSEPH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

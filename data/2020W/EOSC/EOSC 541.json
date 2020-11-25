@@ -1,1 +1,43 @@
-{"course_name":"EOSC 541","subject_code":"EOSC","course_number":"541","course_title":"Multi-component Reactive Transport Modelling in Groundwater","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=541&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"EOSC 541 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=541&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"8:00","end":"9:00","comments":"","subject_code":"EOSC","course_number":"541","section_number":"201","building":"To Be Announced","room":"","instructors":["MAYER, ULRICH"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EOSC 541",
+  "subject_code": "EOSC",
+  "course_number": "541",
+  "course_title": "Multi-component Reactive Transport Modelling in Groundwater",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=541&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 541 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=541&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "541",
+      "section_number": "201",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "MAYER, ULRICH"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

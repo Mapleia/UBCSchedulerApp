@@ -1,1 +1,70 @@
-{"course_name":"PHRM 301S","subject_code":"PHRM","course_number":"301S","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301S&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHRM 301S 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301S&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":"","end":"","comments":"Primary Care Pharmacy PracticeIf section is full, please register in waitlist (PHRM 301S.WL1)Please note that all PHRM 301S sessions will be delivered online for 2020W.","subject_code":"PHRM","course_number":"301S","section_number":"001","building":"","room":"","instructors":["in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Restricted","section":"PHRM 301S WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301S&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 301S.001 Primary Care Pharmacy PracticeInstructors: Ms. Jillian Reardon  and  Mr. Jamie Yuen","subject_code":"PHRM","course_number":"301S","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Thesis or essay."}
+{
+  "course_name": "PHRM 301S",
+  "subject_code": "PHRM",
+  "course_number": "301S",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301S&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 301S 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301S&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Primary Care Pharmacy PracticeIf section is full, please register in waitlist (PHRM 301S.WL1)Please note that all PHRM 301S sessions will be delivered online for 2020W.",
+      "subject_code": "PHRM",
+      "course_number": "301S",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 301S WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301S&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 301S.001 Primary Care Pharmacy PracticeInstructors: Ms. Jillian Reardon  and  Mr. Jamie Yuen",
+      "subject_code": "PHRM",
+      "course_number": "301S",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Thesis or essay.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

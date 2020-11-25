@@ -1,1 +1,44 @@
-{"course_name":"CONS 310","subject_code":"CONS","course_number":"310","course_title":"Ecology in a Changing Climate","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=310&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CONS 310 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=310&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CONS","course_number":"310","section_number":"201","building":"Forest Sciences Centre","room":"1222","instructors":["WOLKOVICH, ELIZABETH"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Impact of climate change on ecological systems. Builds framework for understanding past and future changes following fundamental organizing units of ecology - individuals, populations, species, communities, and ecosystems."}
+{
+  "course_name": "CONS 310",
+  "subject_code": "CONS",
+  "course_number": "310",
+  "course_title": "Ecology in a Changing Climate",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CONS&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CONS 310 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CONS&course=310&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CONS",
+      "course_number": "310",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WOLKOVICH, ELIZABETH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Impact of climate change on ecological systems. Builds framework for understanding past and future changes following fundamental organizing units of ecology - individuals, populations, species, communities, and ecosystems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

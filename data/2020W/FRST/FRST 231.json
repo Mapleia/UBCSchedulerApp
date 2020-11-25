@@ -1,1 +1,231 @@
-{"course_name":"FRST 231","subject_code":"FRST","course_number":"231","course_title":"Introduction to Biometrics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=231&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"FRST 231 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:00","comments":"This course is open to non-Forestry students.  This course may meet the statistics requirement for your program - please check with your program advisor.","subject_code":"FRST","course_number":"231","section_number":"101","building":" ","room":"","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"17","currentlyRegistered":"133","generalRemaining":"17","restrictedRemaining":"0"},"201":{"status":"Full","section":"FRST 231 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"FRST","course_number":"231","section_number":"201","building":"Forest Sciences Centre","room":"1221","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"0","currentlyRegistered":"90","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":" ","section":"FRST 231 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"9:00","end":"11:00","comments":"","subject_code":"FRST","course_number":"231","section_number":"L01","building":" ","room":"","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"3","currentlyRegistered":"47","generalRemaining":"3","restrictedRemaining":"0"},"L02":{"status":"Full","section":"FRST 231 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"16:00","end":"18:00","comments":"","subject_code":"FRST","course_number":"231","section_number":"L02","building":" ","room":"","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"},"L04":{"status":" ","section":"FRST 231 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L04&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Fri","start":"9:00","end":"11:00","comments":"","subject_code":"FRST","course_number":"231","section_number":"L04","building":" ","room":"","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"19","currentlyRegistered":"31","generalRemaining":"19","restrictedRemaining":"0"},"LA2":{"status":" ","section":"FRST 231 LA2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=LA2&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"14:00","end":"16:00","comments":"","subject_code":"FRST","course_number":"231","section_number":"LA2","building":"Forest Sciences Centre","room":"1222","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"43","generalRemaining":"2","restrictedRemaining":"0"},"LA3":{"status":"Full","section":"FRST 231 LA3","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=LA3&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:00","end":"16:00","comments":"","subject_code":"FRST","course_number":"231","section_number":"LA3","building":"Forest Sciences Centre","room":"1222","instructors":["VARHOLA TROYA, ANDRES"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"99C":{"status":" ","section":"FRST 231 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"This section of the course is ONLINE- distance education. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre and login to the course through canvas.ubc.ca. For more information including resources for distance learners visit distancelearning.ubc.ca. In this course, you have to write the final exam online (from home) using Proctorio (an online remote proctoring service). Contact your instructor if you have any questions, and with a valid request, the instructor will arrange a paper exam at UBC's Point Grey campus only. Proctorio will record your webcam, computer screen, or other actions during th and ~e exam session and share that information with your instructor. The recorded information meets British Columbia's Freedom of Information and Protection of Privacy Act. To use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone, and you will need to install both the Google Chrome web browser  and  Proctorio's Chrome extension. Login to the course through canvas.ubc.ca","subject_code":"FRST","course_number":"231","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["AHMED, SUBORNA"],"totalRemaining":"19","currentlyRegistered":"21","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Basic theories of probability and statistics. Sampling distribution, methods of estimation and hypothesis testing; goodness of fit and tests for independence; analysis of variance, regression and correlation. Consult the Faculty of Science Credit Exclusion Lists: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "FRST 231",
+  "subject_code": "FRST",
+  "course_number": "231",
+  "course_title": "Introduction to Biometrics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=231&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 231 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "This course is open to non-Forestry students.  This course may meet the statistics requirement for your program - please check with your program advisor.",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "130",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 231 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "90",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 231 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "44",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 231 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 231 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "31",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 231 LA2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=LA2&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "LA2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 231 LA3",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=LA3&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "LA3",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VARHOLA TROYA, ANDRES"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "42",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 231 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=231&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section of the course is ONLINE- distance education. All communication will be by email. It is your responsibility to ensure you have a valid email account so that you can be contacted with important information and updates. You can update your contact information through the Student Service Centre and login to the course through canvas.ubc.ca. For more information including resources for distance learners visit distancelearning.ubc.ca. In this course, you have to write the final exam online (from home) using Proctorio (an online remote proctoring service). Contact your instructor if you have any questions, and with a valid request, the instructor will arrange a paper exam at UBC's Point Grey campus only. Proctorio will record your webcam, computer screen, or other actions during th and ~e exam session and share that information with your instructor. The recorded information meets British Columbia's Freedom of Information and Protection of Privacy Act. To use Proctorio, you are required to have access to a regular computer (Windows/Mac desktop or laptop). You cannot take the exams from mobile devices (e.g., iPhone, iPad, Android device, tablet, etc). You need a working webcam and microphone, and you will need to install both the Google Chrome web browser  and  Proctorio's Chrome extension. Login to the course through canvas.ubc.ca",
+      "subject_code": "FRST",
+      "course_number": "231",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "AHMED, SUBORNA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "22",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Basic theories of probability and statistics. Sampling distribution, methods of estimation and hypothesis testing; goodness of fit and tests for independence; analysis of variance, regression and correlation. Consult the Faculty of Science Credit Exclusion Lists: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Distance Education"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"PHYS 530B","subject_code":"PHYS","course_number":"530B","course_title":"Topics in General Relativity Theory - GEN RELATIVITY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=530B&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 530B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=530B&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PHYS","course_number":"530B","section_number":"201","building":"Hennings","room":"302","instructors":["UNRUH, WILLIAM"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHYS 530B",
+  "subject_code": "PHYS",
+  "course_number": "530B",
+  "course_title": "Topics in General Relativity Theory - GEN RELATIVITY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=530B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 530B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=530B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "530B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "UNRUH, WILLIAM"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

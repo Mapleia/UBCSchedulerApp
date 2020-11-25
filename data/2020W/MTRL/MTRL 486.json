@@ -1,1 +1,69 @@
-{"course_name":"MTRL 486","subject_code":"MTRL","course_number":"486","course_title":"Nondestructive Evaluation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=486&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 486 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=486&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"13:00","end":"15:00","comments":"","subject_code":"MTRL","course_number":"486","section_number":"101","building":" ","room":"","instructors":["MAIJER, DAAN"],"totalRemaining":"11","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"11"},"T1A":{"status":"Restricted","section":"MTRL 486 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=486&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"15:00","end":"17:00","comments":"","subject_code":"MTRL","course_number":"486","section_number":"T1A","building":" ","room":"","instructors":["MAIJER, DAAN"],"totalRemaining":"11","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"11"}},"credits":"Credits: 3","description":"Principles of test methods; inspection techniques and equipment; quantitative flaw evaluation; reliability analysis."}
+{
+  "course_name": "MTRL 486",
+  "subject_code": "MTRL",
+  "course_number": "486",
+  "course_title": "Nondestructive Evaluation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=486&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 486 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=486&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "486",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAIJER, DAAN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 486 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=486&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "486",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAIJER, DAAN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of test methods; inspection techniques and equipment; quantitative flaw evaluation; reliability analysis.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

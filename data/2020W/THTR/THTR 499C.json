@@ -1,1 +1,47 @@
-{"course_name":"THTR 499C","subject_code":"THTR","course_number":"499C","course_title":"Production III - PRODUCTION III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=499C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 499C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=499C&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Wed","start":" ","end":" ","comments":"Students wishing to take 499C must be registered in at least ONE of the following courses in the same serssion:THTR 405, 406, 407, 408, 450, 452, 454, 456, 462, 505, 506, 507, 508","subject_code":"THTR","course_number":"499C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FIRKINS, JACQUELINE","GARDINER, ROBERT","PENNEFATHER, PATRICK","POWERS, BRADLEY","RIZZOTTI, PATRICK"],"totalRemaining":"29","currentlyRegistered":"1","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 9","description":"Assigned projects in Theatre or Film design and production."}
+{
+  "course_name": "THTR 499C",
+  "subject_code": "THTR",
+  "course_number": "499C",
+  "course_title": "Production III - PRODUCTION III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=499C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 499C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=499C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students wishing to take 499C must be registered in at least ONE of the following courses in the same serssion:THTR 405, 406, 407, 408, 450, 452, 454, 456, 462, 505, 506, 507, 508",
+      "subject_code": "THTR",
+      "course_number": "499C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GARDINER, ROBERT",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 9,
+  "description": "Assigned projects in Theatre or Film design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

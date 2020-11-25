@@ -1,1 +1,43 @@
-{"course_name":"FIPR 433","subject_code":"FIPR","course_number":"433","course_title":"Film and Media Production III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=433&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIPR 433 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=433&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1-2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"This course is restricted to 4th year students in UBC's BFA in Film Production.","subject_code":"FIPR","course_number":"433","section_number":"001","building":"Theatre-Film Production Building","room":"104","instructors":["DRLJACA, IGOR"],"totalRemaining":"10","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 9","description":"Advanced film and media production."}
+{
+  "course_name": "FIPR 433",
+  "subject_code": "FIPR",
+  "course_number": "433",
+  "course_title": "Film and Media Production III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=433&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 433 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=433&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This course is restricted to 4th year students in UBC's BFA in Film Production.",
+      "subject_code": "FIPR",
+      "course_number": "433",
+      "section_number": "001",
+      "building": "Theatre-Film Production Building",
+      "room": "104",
+      "instructors": [
+        "DRLJACA, IGOR"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 9,
+  "description": "Advanced film and media production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

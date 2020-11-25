@@ -1,1 +1,43 @@
-{"course_name":"ARTH 253","subject_code":"ARTH","course_number":"253","course_title":"Asian Architecture: Sacred and Urban Spaces","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=253&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARTH 253 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=253&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"Asian CitiesThrough a series of case studies focusing on current urban form, this course will examine city and representation across Asia. Topics discussed will include geography, landscape, and the inscription of historical memory (The Past City); modernism and the rise of urban culture in the twentieth century (The Modernist City); urban forms in the age of European encroachment (The Colonial City); developmentalism and its critique in the postwar/post-independence periods (The City of the Future). We will conclude with a brief exploration of diasporic formations across the Pacific rim, including Vancouver--The Diasporic City.","subject_code":"ARTH","course_number":"253","section_number":"001","building":"Frederic Lasserre","room":"102","instructors":["ADRIASOLA MUNOZ, IGNACIO ALBERTO"],"totalRemaining":"13","currentlyRegistered":"47","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Select built forms in Asia, such as temples, tombs, palaces, cities and gardens, and their relations to cultural, social and political systems."}
+{
+  "course_name": "ARTH 253",
+  "subject_code": "ARTH",
+  "course_number": "253",
+  "course_title": "Asian Architecture: Sacred and Urban Spaces",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=253&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 253 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=253&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Asian CitiesThrough a series of case studies focusing on current urban form, this course will examine city and representation across Asia. Topics discussed will include geography, landscape, and the inscription of historical memory (The Past City); modernism and the rise of urban culture in the twentieth century (The Modernist City); urban forms in the age of European encroachment (The Colonial City); developmentalism and its critique in the postwar/post-independence periods (The City of the Future). We will conclude with a brief exploration of diasporic formations across the Pacific rim, including Vancouver--The Diasporic City.",
+      "subject_code": "ARTH",
+      "course_number": "253",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADRIASOLA MUNOZ, IGNACIO ALBERTO"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "48",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Select built forms in Asia, such as temples, tombs, palaces, cities and gardens, and their relations to cultural, social and political systems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

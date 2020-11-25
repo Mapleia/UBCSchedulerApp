@@ -1,1 +1,102 @@
-{"course_name":"MUSC 103","subject_code":"MUSC","course_number":"103","course_title":"Introduction to the Theory of Music","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=103&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"MUSC 103 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"OPEN TO ALL STUDENTS. Not applicable to the BMUS or to BA Music majors or Music minors.","subject_code":"MUSC","course_number":"103","section_number":"001","building":" ","room":"","instructors":["KONOVAL, MICHAEL BRANDON"],"totalRemaining":"0","currentlyRegistered":"61","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"MUSC 103 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Music Performance (Secondary): Preparatory Skills.  Preparatory training in fundamentals of music theory and aural skills. For BMUS students only, and only as required by School of Music admission procedures. Contact the School of Music Student Advisor for more information.2020W Format:  Students will attend two weekly 50-minute online classes on Mondays and Wednesdays at 10 am, and may drop in for online office hours Fridays at 10 am or other times as arranged with the instructor.","subject_code":"MUSC","course_number":"103","section_number":"002","building":" ","room":"","instructors":["REIMER, SARAH"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"1"},"1W1":{"status":" ","section":"MUSC 103 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Wait list for MUSC 103 001. Students will be moved to the class in order of DATE REGISTRATION on this waitlist, as/if space becomes available in the class.","subject_code":"MUSC","course_number":"103","section_number":"1W1","building":" ","room":"","instructors":["KONOVAL, MICHAEL BRANDON"],"totalRemaining":"40","currentlyRegistered":"10","generalRemaining":"15","restrictedRemaining":"25"}},"credits":"Credits: 3","description":"Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. This course is not applicable to the B.Mus."}
+{
+  "course_name": "MUSC 103",
+  "subject_code": "MUSC",
+  "course_number": "103",
+  "course_title": "Introduction to the Theory of Music",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=103&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 103 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "OPEN TO ALL STUDENTS. Not applicable to the BMUS or to BA Music majors or Music minors.",
+      "subject_code": "MUSC",
+      "course_number": "103",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KONOVAL, MICHAEL BRANDON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "61",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 103 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Music Performance (Secondary): Preparatory Skills.  Preparatory training in fundamentals of music theory and aural skills. For BMUS students only, and only as required by School of Music admission procedures. Contact the School of Music Student Advisor for more information.2020W Format:  Students will attend two weekly 50-minute online classes on Mondays and Wednesdays at 10 am, and may drop in for online office hours Fridays at 10 am or other times as arranged with the instructor.",
+      "subject_code": "MUSC",
+      "course_number": "103",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REIMER, SARAH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 103 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=103&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Wait list for MUSC 103 001. Students will be moved to the class in order of DATE REGISTRATION on this waitlist, as/if space becomes available in the class.",
+      "subject_code": "MUSC",
+      "course_number": "103",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KONOVAL, MICHAEL BRANDON"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. This course is not applicable to the B.Mus.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

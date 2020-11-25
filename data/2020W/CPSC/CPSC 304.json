@@ -1,1 +1,624 @@
-{"course_name":"CPSC 304","subject_code":"CPSC","course_number":"304","course_title":"Introduction to Relational Databases","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=304&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 304 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.","subject_code":"CPSC","course_number":"304","section_number":"101","building":" ","room":"","instructors":["NG, RAYMOND TAK-YAN"],"totalRemaining":"0","currentlyRegistered":"182","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Full","section":"CPSC 304 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.","subject_code":"CPSC","course_number":"304","section_number":"102","building":" ","room":"","instructors":["KNORR, EDWIN MAX"],"totalRemaining":"0","currentlyRegistered":"156","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Full","section":"CPSC 304 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Note: Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.","subject_code":"CPSC","course_number":"304","section_number":"201","building":"West Mall Swing Space","room":"222","instructors":["WONG, JESSICA"],"totalRemaining":"0","currentlyRegistered":"189","generalRemaining":"0","restrictedRemaining":"0"},"T1A":{"status":" ","section":"CPSC 304 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"12:00","end":"13:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"35","generalRemaining":"1","restrictedRemaining":"0"},"T1B":{"status":"Full","section":"CPSC 304 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T1C":{"status":" ","section":"CPSC 304 T1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1C&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"26","generalRemaining":"10","restrictedRemaining":"0"},"T1D":{"status":"Full","section":"CPSC 304 T1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1D&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T1E":{"status":"Full","section":"CPSC 304 T1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1E&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"16:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1E","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T1G":{"status":" ","section":"CPSC 304 T1G","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1G&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"18:00","end":"19:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1G","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"34","generalRemaining":"2","restrictedRemaining":"0"},"T1H":{"status":"Full","section":"CPSC 304 T1H","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1H&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1H","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T1K":{"status":"Blocked","section":"CPSC 304 T1K","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1K&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1K","building":" ","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"36","restrictedRemaining":"0"},"T1M":{"status":"Blocked","section":"CPSC 304 T1M","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1M&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1M","building":" ","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"36","restrictedRemaining":"0"},"T1N":{"status":" ","section":"CPSC 304 T1N","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1N&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"18:00","end":"19:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1N","building":" ","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"30","generalRemaining":"6","restrictedRemaining":"0"},"T1P":{"status":"Full","section":"CPSC 304 T1P","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1P&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"15:00","end":"16:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1P","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T1R":{"status":" ","section":"CPSC 304 T1R","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1R&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"16:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T1R","building":" ","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"30","generalRemaining":"6","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"CPSC 304 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"1W1","building":" ","room":"","instructors":["NG, RAYMOND TAK-YAN"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"},"1W2":{"status":"Blocked","section":"CPSC 304 1W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=1W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"CPSC","course_number":"304","section_number":"1W2","building":" ","room":"","instructors":["KNORR, EDWIN MAX"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"},"T2A":{"status":"Full","section":"CPSC 304 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Thu","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T2A","building":"Institute for Computing (ICICS/CS)","room":"X350","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T2D":{"status":"Full","section":"CPSC 304 T2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2D&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T2D","building":"Institute for Computing (ICICS/CS)","room":"X350","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T2E":{"status":" ","section":"CPSC 304 T2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2E&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"16:00","end":"17:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T2E","building":"Institute for Computing (ICICS/CS)","room":"X350","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"35","generalRemaining":"1","restrictedRemaining":"0"},"T2G":{"status":"Full","section":"CPSC 304 T2G","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2G&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"11:00","end":"12:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T2G","building":"Institute for Computing (ICICS/CS)","room":"X350","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"T2K":{"status":" ","section":"CPSC 304 T2K","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2K&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"14:00","end":"15:00","comments":"","subject_code":"CPSC","course_number":"304","section_number":"T2K","building":"Institute for Computing (ICICS/CS)","room":"X350","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"18","generalRemaining":"18","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CPSC 304 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPSC","course_number":"304","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"866","currentlyRegistered":"133","generalRemaining":"866","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages,data warehouses, special topics."}
+{
+  "course_name": "CPSC 304",
+  "subject_code": "CPSC",
+  "course_number": "304",
+  "course_title": "Introduction to Relational Databases",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=304&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 304 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NG, RAYMOND TAK-YAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "182",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KNORR, EDWIN MAX"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "156",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Note: Depending upon how many students sign-up for this section either an additional tutorial section will be opened or the existing tutorials will be expanded slightly so as  to have a sufficient number of seats for the students registered in the course.  However, there is no guarantee that the resulting seats will fit your time table so make sure to take that into consideration when planning your time table.",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "189",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "35",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "26",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "34",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1H&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 304 T1K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1K&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 304 T1M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1M&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T1N",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1N&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1N",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "30",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T1P",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1P&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1P",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T1R",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T1R&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T1R",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "30",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 304 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NG, RAYMOND TAK-YAN"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 304 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "1W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KNORR, EDWIN MAX"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "35",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2E&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "CPSC 304 T2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2G&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T2G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 T2K",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=T2K&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "T2K",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "19",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 304 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=304&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "304",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "859",
+      "currentlyRegistered": "140",
+      "generalRemaining": "859",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages,data warehouses, special topics.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

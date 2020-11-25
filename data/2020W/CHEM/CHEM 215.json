@@ -1,1 +1,383 @@
-{"course_name":"CHEM 215","subject_code":"CHEM","course_number":"215","course_title":"Introductory Analytical Chemical Laboratory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=215&sessyr=2020&sesscd=W","sections":{"1W1":{"status":" ","section":"CHEM 215 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"215","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"225","currentlyRegistered":"0","generalRemaining":"225","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CHEM 215 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"215","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"60","currentlyRegistered":"240","generalRemaining":"60","restrictedRemaining":"0"},"L13":{"status":"Blocked","section":"CHEM 215 L13","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=L13&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.CHEM215 is the lab portion of the former CHEM211.","subject_code":"CHEM","course_number":"215","section_number":"L13","building":"Chemistry","room":"C226","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"0","generalRemaining":"24","restrictedRemaining":"0"},"L14":{"status":"Blocked","section":"CHEM 215 L14","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=L14&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.CHEM215 is the lab portion of the former CHEM211.","subject_code":"CHEM","course_number":"215","section_number":"L14","building":"Chemistry","room":"C226","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"0","generalRemaining":"24","restrictedRemaining":"0"},"L15":{"status":"Blocked","section":"CHEM 215 L15","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=L15&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.CHEM215 is the lab portion of the former CHEM211.","subject_code":"CHEM","course_number":"215","section_number":"L15","building":"Chemistry","room":"C226","instructors":["TBA"],"totalRemaining":"33","currentlyRegistered":"0","generalRemaining":"24","restrictedRemaining":"9"},"L16":{"status":"Blocked","section":"CHEM 215 L16","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=L16&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"2020W: See current info on lab registrations under heading 'Laboratory Courses' at https://chem.ubc.ca/undergraduates-covid-impact-chem-coursesIf lab section registration is blocked, register onto waitlist.CHEM215 is the lab portion of the former CHEM211.","subject_code":"CHEM","course_number":"215","section_number":"L16","building":"Chemistry","room":"C226","instructors":["TBA"],"totalRemaining":"24","currentlyRegistered":"0","generalRemaining":"24","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"An introduction to the principles and techniques in the analytical chemistry laboratory."}
+{
+  "course_name": "CHEM 215",
+  "subject_code": "CHEM",
+  "course_number": "215",
+  "course_title": "Introductory Analytical Chemical Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=215&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 215 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "225",
+      "currentlyRegistered": "0",
+      "generalRemaining": "225",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 215 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "257",
+      "currentlyRegistered": "143",
+      "generalRemaining": "257",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A00",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A00&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A00",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE*"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE*"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 A05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=A05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 04.  Note: if registering for CHEM 225 as well, register for a BXX section.* every second week starting with start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "A05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 B00",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B00&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B00",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 B01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 B02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Full",
+      "section": "CHEM 215 B03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 B04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHEM 215 B05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=215&section=B05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Lab starts the week of January 11.  Note: if registering for CHEM 225 as well, register for a AXX section.^ every second week starting with week following start week",
+      "subject_code": "CHEM",
+      "course_number": "215",
+      "section_number": "B05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 1,
+  "description": "An introduction to the principles and techniques in the analytical chemistry laboratory.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Waiting List",
+    "Laboratory"
+  ]
+}

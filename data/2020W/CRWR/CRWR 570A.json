@@ -1,1 +1,43 @@
-{"course_name":"CRWR 570A","subject_code":"CRWR","course_number":"570A","course_title":"Advanced Special Projects in Creative Writing - ADV PROJCTS CRWR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=570A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CRWR 570A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=570A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, because it relies heavily upon dialogue, it will be a synchronous course; that is, it is in \u001creal time.\u001d Students should download Skype and make sure that it is working properly for them. Students considering taking this course and wishing to discuss it with me can contact me at maillard@mail.ubc.ca","subject_code":"CRWR","course_number":"570A","section_number":"001","building":" ","room":"","instructors":["MAILLARD, KEITH"],"totalRemaining":"6","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CRWR 570A",
+  "subject_code": "CRWR",
+  "course_number": "570A",
+  "course_title": "Advanced Special Projects in Creative Writing - ADV PROJCTS CRWR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=570A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 570A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=570A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "All CRWR Winter Term 1 (September-December) courses/sections will be held online. For this particular course, because it relies heavily upon dialogue, it will be a synchronous course; that is, it is in \u001creal time.\u001d Students should download Skype and make sure that it is working properly for them. Students considering taking this course and wishing to discuss it with me can contact me at maillard@mail.ubc.ca",
+      "subject_code": "CRWR",
+      "course_number": "570A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MAILLARD, KEITH"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

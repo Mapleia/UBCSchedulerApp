@@ -1,1 +1,278 @@
-{"course_name":"ARCL 103","subject_code":"ARCL","course_number":"103","course_title":"Introduction to Archaeology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=103&sessyr=2020&sesscd=W","sections":{"100":{"status":" ","section":"ARCL 103 100","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=100&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"14:00","comments":"ARCL103: This course is a survey of human history, from the evolution of our earliest human ancestors to the complex cultures and civilizations that emerged across the globe, tracing these discoveries alongside the development of archaeology as a practice. Through weekly lectures and discussion sections, we will examine common themes in the emergence and development of civilizations in Ancient China, the Near East, and the Americas.  Weekly tutorials complement lectures by focusing on the methods of archaeology and the material culture that enables us to investigate our human past.","subject_code":"ARCL","course_number":"103","section_number":"100","building":"Hennings","room":"201","instructors":["SPELLER, CAMILLA"],"totalRemaining":"12","currentlyRegistered":"163","generalRemaining":"12","restrictedRemaining":"0"},"D1A":{"status":" ","section":"ARCL 103 D1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"16:00","end":"17:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1A","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"23","generalRemaining":"2","restrictedRemaining":"0"},"D1B":{"status":"Full","section":"ARCL 103 D1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1B","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"D1C":{"status":"Full","section":"ARCL 103 D1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1C&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1C","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"D1D":{"status":"Full","section":"ARCL 103 D1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1D&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1D","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"D1E":{"status":"Full","section":"ARCL 103 D1E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1E&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1E","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"D1F":{"status":" ","section":"ARCL 103 D1F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1F&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1F","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"},"D1G":{"status":"Blocked","section":"ARCL 103 D1G","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1G&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1G","building":"Anthropology and Sociology","room":"1109","instructors":["TBA"],"totalRemaining":"38","currentlyRegistered":"0","generalRemaining":"38","restrictedRemaining":"0"},"D1H":{"status":" ","section":"ARCL 103 D1H","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1H&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1H","building":"Anthropology and Sociology","room":"203","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"5","generalRemaining":"20","restrictedRemaining":"0"},"D1I":{"status":"Blocked","section":"ARCL 103 D1I","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1I&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"ARCL","course_number":"103","section_number":"D1I","building":"Anthropology and Sociology","room":"205","instructors":["TBA"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of world archaeology, from the emergence of humankind to the beginning of state societies."}
+{
+  "course_name": "ARCL 103",
+  "subject_code": "ARCL",
+  "course_number": "103",
+  "course_title": "Introduction to Archaeology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=103&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 103 100",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=100&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "ARCL103: This course is a survey of human history, from the evolution of our earliest human ancestors to the complex cultures and civilizations that emerged across the globe, tracing these discoveries alongside the development of archaeology as a practice. Through weekly lectures and discussion sections, we will examine common themes in the emergence and development of civilizations in Ancient China, the Near East, and the Americas.  Weekly tutorials complement lectures by focusing on the methods of archaeology and the material culture that enables us to investigate our human past.",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "100",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SPELLER, CAMILLA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "165",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARCL 103 D1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARCL 103 D1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARCL 103 D1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ARCL 103 D1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARCL 103 D1E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1E&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARCL 103 D1F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1F&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ARCL 103 D1G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1G&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1G",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "0",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARCL 103 D1H",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1H&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1H",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "8",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ARCL 103 D1I",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=103&section=D1I&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "103",
+      "section_number": "D1I",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of world archaeology, from the emergence of humankind to the beginning of state societies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

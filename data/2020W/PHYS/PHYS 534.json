@@ -1,1 +1,47 @@
-{"course_name":"PHYS 534","subject_code":"PHYS","course_number":"534","course_title":"Radiotherapy Physics I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=534&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"PHYS 534 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=534&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Fri","start":"9:00","end":"10:30","comments":"Location: BCCA","subject_code":"PHYS","course_number":"534","section_number":"101","building":" ","room":"","instructors":["BECKHAM, WAYNE","DUZENLI, CHERYL","LLOYD, SAMANTHA","ZAVGORODNI, SERGEI"],"totalRemaining":"21","currentlyRegistered":"4","generalRemaining":"21","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles of dosimetry of ionizing radiation with emphasis on applications to radiotherapy and radiobiology."}
+{
+  "course_name": "PHYS 534",
+  "subject_code": "PHYS",
+  "course_number": "534",
+  "course_title": "Radiotherapy Physics I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=534&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 534 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=534&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Location: BCCA",
+      "subject_code": "PHYS",
+      "course_number": "534",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BECKHAM, WAYNE",
+        "DUZENLI, CHERYL",
+        "LLOYD, SAMANTHA",
+        "ZAVGORODNI, SERGEI"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "4",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of dosimetry of ionizing radiation with emphasis on applications to radiotherapy and radiobiology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

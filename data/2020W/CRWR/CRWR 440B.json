@@ -1,1 +1,43 @@
-{"course_name":"CRWR 440B","subject_code":"CRWR","course_number":"440B","course_title":"Interdisciplinary Projects - INTRDIS PROJECTS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=440B&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"CRWR 440B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=440B&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"","subject_code":"CRWR","course_number":"440B","section_number":"002","building":"Ponderosa Commons North - Oak/Cedar House","room":"1008","instructors":["WARRENER, SHERYDA"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Group projects and workshops with students majoring in other creative arts."}
+{
+  "course_name": "CRWR 440B",
+  "subject_code": "CRWR",
+  "course_number": "440B",
+  "course_title": "Interdisciplinary Projects - INTRDIS PROJECTS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CRWR&course=440B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CRWR 440B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CRWR&course=440B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CRWR",
+      "course_number": "440B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WARRENER, SHERYDA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "Group projects and workshops with students majoring in other creative arts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

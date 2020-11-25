@@ -1,1 +1,43 @@
-{"course_name":"DES 101","subject_code":"DES","course_number":"101","course_title":"Introductory Workshop","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=101&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DES 101 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=101&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DES","course_number":"101","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FUJITA, MARI"],"totalRemaining":"3","currentlyRegistered":"69","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 1","description":"Week long orientation to the School community, the City and the study of design one week prior to the start of Winter Session Term 1. Credit will be granted for only one of ENDS 101 or DES 101."}
+{
+  "course_name": "DES 101",
+  "subject_code": "DES",
+  "course_number": "101",
+  "course_title": "Introductory Workshop",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "101",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FUJITA, MARI"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "69",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 1,
+  "description": "Week long orientation to the School community, the City and the study of design one week prior to the start of Winter Session Term 1. Credit will be granted for only one of ENDS 101 or DES 101.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

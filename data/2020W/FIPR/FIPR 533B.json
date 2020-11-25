@@ -1,1 +1,43 @@
-{"course_name":"FIPR 533B","subject_code":"FIPR","course_number":"533B","course_title":"Advanced Problems in Directing - ADV PROB FILM PR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=533B&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"FIPR 533B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=533B&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"Please consult your MFA Film Production Graduate Advisor before enrolling in this course.","subject_code":"FIPR","course_number":"533B","section_number":"001","building":"To Be Announced","room":"","instructors":["DRLJACA, IGOR"],"totalRemaining":"14","currentlyRegistered":"1","generalRemaining":"5","restrictedRemaining":"9"}},"credits":"Credits: 3","description":"Problems in directing narrative film. Explores problems in scripting, performance, shot design, and editing through seminars, workshops with acting students, and production exercises."}
+{
+  "course_name": "FIPR 533B",
+  "subject_code": "FIPR",
+  "course_number": "533B",
+  "course_title": "Advanced Problems in Directing - ADV PROB FILM PR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=533B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FIPR 533B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=533B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Please consult your MFA Film Production Graduate Advisor before enrolling in this course.",
+      "subject_code": "FIPR",
+      "course_number": "533B",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "DRLJACA, IGOR"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "2",
+      "generalRemaining": "5",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 3,
+  "description": "Problems in directing narrative film. Explores problems in scripting, performance, shot design, and editing through seminars, workshops with acting students, and production exercises.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

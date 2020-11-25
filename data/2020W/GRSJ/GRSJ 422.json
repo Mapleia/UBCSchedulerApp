@@ -1,1 +1,70 @@
-{"course_name":"GRSJ 422","subject_code":"GRSJ","course_number":"422","course_title":"Advanced Research Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=422&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"GRSJ 422 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=422&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"Wait list section is WL1.  Waitlisted students will receive an email confirmation if  moved into the class.  GRSJ majors/minors have priority on waitlists.","subject_code":"GRSJ","course_number":"422","section_number":"101","building":" ","room":"","instructors":["ANGELES, LEONORA"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"GRSJ 422 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=422&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"","subject_code":"GRSJ","course_number":"422","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Critical theories, methodologies, ethics and practices appropriate for advanced feminist research."}
+{
+  "course_name": "GRSJ 422",
+  "subject_code": "GRSJ",
+  "course_number": "422",
+  "course_title": "Advanced Research Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=422&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 422 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=422&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Wait list section is WL1.  Waitlisted students will receive an email confirmation if  moved into the class.  GRSJ majors/minors have priority on waitlists.",
+      "subject_code": "GRSJ",
+      "course_number": "422",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ANGELES, LEONORA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 422 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=422&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "422",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical theories, methodologies, ethics and practices appropriate for advanced feminist research.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

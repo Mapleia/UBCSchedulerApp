@@ -1,1 +1,75 @@
-{"course_name":"MTRL 592B","subject_code":"MTRL","course_number":"592B","course_title":"Advanced Topics in Materials Engineering - ADVANCED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=592B&sessyr=2020&sesscd=W","sections":{"103":{"status":"Restricted","section":"MTRL 592B 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=592B&section=103&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"Directed Studies Frank Ko, Mech student 2014W","subject_code":"MTRL","course_number":"592B","section_number":"103","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"1"},"107":{"status":"Restricted","section":"MTRL 592B 107","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=592B&section=107&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":"","end":"","comments":"Dr. Alfantazi's directed studies for 5 students, 3 credits.Please see instructor for meeting times","subject_code":"MTRL","course_number":"592B","section_number":"107","building":"","room":"","instructors":["5","0","0","5","","in one of these programs: MASC,MENG,PHD\nin one of these faculties: GRAD\n\n"],"totalRemaining":"in one of these programs: MASC,MENG,PHD\nin one of these faculties: GRAD\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"May be arranged on approval of the department head."}
+{
+  "course_name": "MTRL 592B",
+  "subject_code": "MTRL",
+  "course_number": "592B",
+  "course_title": "Advanced Topics in Materials Engineering - ADVANCED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=592B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 592B 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=592B&section=103&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Directed Studies Frank Ko, Mech student 2014W",
+      "subject_code": "MTRL",
+      "course_number": "592B",
+      "section_number": "103",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 592B 107",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=592B&section=107&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Dr. Alfantazi's directed studies for 5 students, 3 credits.Please see instructor for meeting times",
+      "subject_code": "MTRL",
+      "course_number": "592B",
+      "section_number": "107",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "5",
+        "0",
+        "0",
+        "5",
+        "",
+        "in one of these programs: MASC,MENG,PHD\nin one of these faculties: GRAD\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MASC,MENG,PHD\nin one of these faculties: GRAD\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "May be arranged on approval of the department head.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

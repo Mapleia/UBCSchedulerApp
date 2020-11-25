@@ -1,1 +1,149 @@
-{"course_name":"PHYS 229","subject_code":"PHYS","course_number":"229","course_title":"Intermediate Experimental Physics II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=229&sessyr=2020&sesscd=W","sections":{"L2A":{"status":"STT","section":"PHYS 229 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"PHYS","course_number":"229","section_number":"L2A","building":" ","room":"","instructors":["BONN, DOUGLAS ANDREW"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2B":{"status":"Full","section":"PHYS 229 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"PHYS","course_number":"229","section_number":"L2B","building":" ","room":"","instructors":["BONN, DOUGLAS ANDREW"],"totalRemaining":"0","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":"Full","section":"PHYS 229 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"PHYS","course_number":"229","section_number":"L2C","building":" ","room":"","instructors":["BONN, DOUGLAS ANDREW"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"L2W":{"status":"Full","section":"PHYS 229 L2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHYS","course_number":"229","section_number":"L2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"},"T2A":{"status":" ","section":"PHYS 229 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"12:00","end":"13:00","comments":"","subject_code":"PHYS","course_number":"229","section_number":"T2A","building":" ","room":"","instructors":["BONN, DOUGLAS ANDREW"],"totalRemaining":"34","currentlyRegistered":"96","generalRemaining":"34","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Thermodynamics experiments, modern physics experiments and use of computers in data analysis."}
+{
+  "course_name": "PHYS 229",
+  "subject_code": "PHYS",
+  "course_number": "229",
+  "course_title": "Intermediate Experimental Physics II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=229&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHYS 229 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "All 2020W labs are being run online in Term 2.",
+      "subject_code": "PHYS",
+      "course_number": "229",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BONN, DOUGLAS ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHYS 229 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "All 2020W labs are being run online in Term 2.",
+      "subject_code": "PHYS",
+      "course_number": "229",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BONN, DOUGLAS ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHYS 229 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "All 2020W labs are being run online in Term 2.",
+      "subject_code": "PHYS",
+      "course_number": "229",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BONN, DOUGLAS ANDREW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 229 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "229",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 229 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=229&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "All 2020W tutorials are being run online in Term 2.",
+      "subject_code": "PHYS",
+      "course_number": "229",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BONN, DOUGLAS ANDREW"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "100",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Thermodynamics experiments, modern physics experiments and use of computers in data analysis.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Laboratory",
+    "Waiting List",
+    "Tutorial"
+  ]
+}

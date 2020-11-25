@@ -1,1 +1,75 @@
-{"course_name":"ELEC 403","subject_code":"ELEC","course_number":"403","course_title":"Advanced Digital VLSI Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=403&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ELEC 403 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=403&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"17:30","end":"20:30","comments":"","subject_code":"ELEC","course_number":"403","section_number":"201","building":"UBC Life Building","room":"2212","instructors":["42","18","7","35","","in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n\n"],"totalRemaining":"in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2W1":{"status":" ","section":"ELEC 403 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=403&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"403","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Logical effort. Noise in digital systems. Low power techniques. Power distribution. SRAM and DRAM design. Non-volatile memory technologies. High speed adder, multiplier and divider design. Clock Trees. Synchronization and FIFO. Scaling, and industry trends. High-speed circuit design and layout project."}
+{
+  "course_name": "ELEC 403",
+  "subject_code": "ELEC",
+  "course_number": "403",
+  "course_title": "Advanced Digital VLSI Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 403 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=403&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "403",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "44",
+        "16",
+        "8",
+        "36",
+        "",
+        "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****CPEN\n-OR-\nin one of these programs: BASC\nin year: >=4\nwith one of these specializations: ****ELEC\n-OR-\nin one of these faculties: GRAD\nwith one of these specializations: ****EECE\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 403 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=403&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "403",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Logical effort. Noise in digital systems. Low power techniques. Power distribution. SRAM and DRAM design. Non-volatile memory technologies. High speed adder, multiplier and divider design. Clock Trees. Synchronization and FIFO. Scaling, and industry trends. High-speed circuit design and layout project.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

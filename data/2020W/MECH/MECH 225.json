@@ -1,1 +1,137 @@
-{"course_name":"MECH 225","subject_code":"MECH","course_number":"225","course_title":"Integration of Engineering Concepts II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=225&sessyr=2020&sesscd=W","sections":{"1RM":{"status":"Unreleased","section":"MECH 225 1RM","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=1RM&sessyr=2020&sesscd=W","activity":"Reserved Section","term":"1","interval":"","days":" ","start":"","end":"","comments":"This section is for students completing remediation requirements only.  Registration only by permission, email undergrad (at) mech (dot) ubc (dot) ca.","subject_code":"MECH","course_number":"225","section_number":"1RM","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2AB":{"status":"Full","section":"MECH 225 2AB","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2AB&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue","start":"15:30","end":"16:30","comments":"","subject_code":"MECH","course_number":"225","section_number":"2AB","building":"Civil and Mechanical Engineering","room":"1204","instructors":["ABELLO RUBIO, JUAN","D'ENTREMONT, AGNES","HENDRA, GRAHAM","WALLS, PATRICK"],"totalRemaining":"0","currentlyRegistered":"70","generalRemaining":"0","restrictedRemaining":"0"},"2CD":{"status":"STT","section":"MECH 225 2CD","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2CD&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:00","comments":"","subject_code":"MECH","course_number":"225","section_number":"2CD","building":"Forest Sciences Centre","room":"1221","instructors":["ABELLO RUBIO, JUAN","D'ENTREMONT, AGNES","HENDRA, GRAHAM","WALLS, PATRICK"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"2RM":{"status":"Unreleased","section":"MECH 225 2RM","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2RM&sessyr=2020&sesscd=W","activity":"Reserved Section","term":"2","interval":"","days":" ","start":"","end":"","comments":"This section is for students completing remediation requirements only. Registration only by permission, email undergrad (at) mech (dot) ubc (dot) ca.","subject_code":"MECH","course_number":"225","section_number":"2RM","building":"","room":"","instructors":["0","0","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Integration of the theory and practice of Mechanical Engineering to illustrate the commonality and conceptual connectivity of seemingly different technical areas. Emphasis on thermodynamics, fluid mechanics, and mathematics."}
+{
+  "course_name": "MECH 225",
+  "subject_code": "MECH",
+  "course_number": "225",
+  "course_title": "Integration of Engineering Concepts II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=225&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "MECH 225 1RM",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=1RM&sessyr=2020&sesscd=W",
+      "activity": "Reserved Section",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section is for students completing remediation requirements only.  Registration only by permission, email undergrad (at) mech (dot) ubc (dot) ca.",
+      "subject_code": "MECH",
+      "course_number": "225",
+      "section_number": "1RM",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MECH 225 2AB",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2AB&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "225",
+      "section_number": "2AB",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABELLO RUBIO, JUAN",
+        "D'ENTREMONT, AGNES",
+        "HENDRA, GRAHAM",
+        "WALLS, PATRICK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "MECH 225 2CD",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2CD&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "225",
+      "section_number": "2CD",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABELLO RUBIO, JUAN",
+        "D'ENTREMONT, AGNES",
+        "HENDRA, GRAHAM",
+        "WALLS, PATRICK"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Unreleased",
+      "section": "MECH 225 2RM",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=225&section=2RM&sessyr=2020&sesscd=W",
+      "activity": "Reserved Section",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This section is for students completing remediation requirements only. Registration only by permission, email undergrad (at) mech (dot) ubc (dot) ca.",
+      "subject_code": "MECH",
+      "course_number": "225",
+      "section_number": "2RM",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Integration of the theory and practice of Mechanical Engineering to illustrate the commonality and conceptual connectivity of seemingly different technical areas. Emphasis on thermodynamics, fluid mechanics, and mathematics.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Reserved Section",
+    "Web-Oriented Course"
+  ]
+}

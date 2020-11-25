@@ -1,1 +1,127 @@
-{"course_name":"MECH 305","subject_code":"MECH","course_number":"305","course_title":"Data Analysis and Mechanical Engineering Laboratories","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=305&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MECH 305 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"MECH","course_number":"305","section_number":"201","building":"Buchanan","room":"A102","instructors":["MOHAMMADPANAH FOROUTAGHE, AHMAD","ROGAK, STEVEN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":"Restricted","section":"MECH 305 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"MECH","course_number":"305","section_number":"L2A","building":"To Be Announced","room":"","instructors":["MOHAMMADPANAH FOROUTAGHE, AHMAD","ROGAK, STEVEN"],"totalRemaining":"4","currentlyRegistered":"58","generalRemaining":"0","restrictedRemaining":"4"},"L2B":{"status":"Restricted","section":"MECH 305 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"MECH","course_number":"305","section_number":"L2B","building":" ","room":"","instructors":["MOHAMMADPANAH FOROUTAGHE, AHMAD","ROGAK, STEVEN"],"totalRemaining":"14","currentlyRegistered":"42","generalRemaining":"0","restrictedRemaining":"14"},"WL2":{"status":" ","section":"MECH 305 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"305","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools."}
+{
+  "course_name": "MECH 305",
+  "subject_code": "MECH",
+  "course_number": "305",
+  "course_title": "Data Analysis and Mechanical Engineering Laboratories",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MECH 305 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "305",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 305 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "305",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 305 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "305",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOHAMMADPANAH FOROUTAGHE, AHMAD",
+        "ROGAK, STEVEN"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    },
+    {
+      "status": " ",
+      "section": "MECH 305 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=305&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "305",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

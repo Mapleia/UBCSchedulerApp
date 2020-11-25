@@ -1,1 +1,127 @@
-{"course_name":"LAW 380C","subject_code":"LAW","course_number":"380C","course_title":"Externship Reflection - EXTRNSHP REFLECT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=380C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 380C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=001&sessyr=2020&sesscd=W","activity":"Workshop","term":"1","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Registration by Permission Only.  Restricted to 3rd Year students only.","subject_code":"LAW","course_number":"380C","section_number":"001","building":" ","room":"","instructors":["LOCKE, J. JEFFREY"],"totalRemaining":"5","currentlyRegistered":"5","generalRemaining":"5","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"LAW 380C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=002&sessyr=2020&sesscd=W","activity":"Workshop","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Registration by Permission Only.  Restricted to 3rd Year students only.","subject_code":"LAW","course_number":"380C","section_number":"002","building":" ","room":"","instructors":["LOCKE, J. JEFFREY"],"totalRemaining":"4","currentlyRegistered":"6","generalRemaining":"4","restrictedRemaining":"0"},"003":{"status":"Blocked","section":"LAW 380C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"Registration by permission only.","subject_code":"LAW","course_number":"380C","section_number":"003","building":" ","room":"","instructors":["HAWKINS, KIM","MANGAT, RAJWANT","SOOD, VANDANA"],"totalRemaining":"7","currentlyRegistered":"3","generalRemaining":"7","restrictedRemaining":"0"},"004":{"status":"Blocked","section":"LAW 380C 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=004&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"Registration by permission only.","subject_code":"LAW","course_number":"380C","section_number":"004","building":" ","room":"","instructors":["HAWKINS, KIM","MANGAT, RAJWANT","SOOD, VANDANA"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Structured reflective exercises on the LAW 379 Externship experience."}
+{
+  "course_name": "LAW 380C",
+  "subject_code": "LAW",
+  "course_number": "380C",
+  "course_title": "Externship Reflection - EXTRNSHP REFLECT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=380C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 380C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Registration by Permission Only.  Restricted to 3rd Year students only.",
+      "subject_code": "LAW",
+      "course_number": "380C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOCKE, J. JEFFREY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "5",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Workshop",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Registration by Permission Only.  Restricted to 3rd Year students only.",
+      "subject_code": "LAW",
+      "course_number": "380C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOCKE, J. JEFFREY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Registration by permission only.",
+      "subject_code": "LAW",
+      "course_number": "380C",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAWKINS, KIM",
+        "MANGAT, RAJWANT",
+        "SOOD, VANDANA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 380C 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=380C&section=004&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Registration by permission only.",
+      "subject_code": "LAW",
+      "course_number": "380C",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAWKINS, KIM",
+        "MANGAT, RAJWANT",
+        "SOOD, VANDANA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Structured reflective exercises on the LAW 379 Externship experience.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Workshop",
+    "Seminar"
+  ]
+}

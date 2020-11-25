@@ -1,34 +1,12 @@
 package ui;
 
 
-import java.util.Scanner;
-
+// Runs an instance of the app.
 public class Main {
-    private static boolean startOver = false;
-
     public static void main(String[] args) {
-        new SchedulerApp();
-        showOptions();
-
-        while (startOver) {
-            new SchedulerApp();
-        }
-    }
-
-    public static void showOptions() {
-        Scanner input = new Scanner(System.in);
-
-        System.out.println("~~~~~~~~~~~~~~~~ OPTIONS ~~~~~~~~~~~~~~~~");
-        System.out.println("TYPE (not case sensitive):");
-        System.out.println("EXIT (or e) - to exit.");
-        System.out.println("NEW  (or n) - to make a new Timetable.");
-
-        String inputStr = input.nextLine();
-        if (inputStr.equalsIgnoreCase("EXIT") || inputStr.equalsIgnoreCase("E")) {
-            System.exit(0);
-        }
-        if (inputStr.equalsIgnoreCase("NEW") || inputStr.equalsIgnoreCase("N")) {
-            startOver = true;
-        }
+        new ConsoleSchedulerApp();
     }
 }
+
+// BIOL 155, BIOL 200, BIOL 140, CHEM 233, ENGL 110, CPSC 210, CPSC 310, BIOL 234, JAPN 200, CHEM 235, MATH 103,
+// STAT 200, PHYS 100, WRDS 150B, MICB 201, CPSC 320, CPSC 213, CPSC 410, BIOL 260

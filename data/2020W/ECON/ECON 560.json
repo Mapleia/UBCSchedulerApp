@@ -1,1 +1,45 @@
-{"course_name":"ECON 560","subject_code":"ECON","course_number":"560","course_title":"Economics of Labour","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=560&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 560 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=560&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"15:30","end":"17:00","comments":"This is an advanced topics course:  for PhD students only.Prerequisites: ECON 600, 601, 602, 603, 626  and  627.Course description TBA.Classroom changed to Iona 038Class cancelled 02/10/2019","subject_code":"ECON","course_number":"560","section_number":"001","building":" ","room":"","instructors":["HOFFMANN, FLORIAN","SAGGIO, RAFFAELE"],"totalRemaining":"3","currentlyRegistered":"12","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECON 560",
+  "subject_code": "ECON",
+  "course_number": "560",
+  "course_title": "Economics of Labour",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 560 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=560&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "This is an advanced topics course:  for PhD students only.Prerequisites: ECON 600, 601, 602, 603, 626  and  627.Course description TBA.Classroom changed to Iona 038Class cancelled 02/10/2019",
+      "subject_code": "ECON",
+      "course_number": "560",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOFFMANN, FLORIAN",
+        "SAGGIO, RAFFAELE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

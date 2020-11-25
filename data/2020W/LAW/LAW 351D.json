@@ -1,1 +1,43 @@
-{"course_name":"LAW 351D","subject_code":"LAW","course_number":"351D","course_title":"Topics in Human Rights - TPCS HUMAN RIGHT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=351D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 351D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=351D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"9:30","end":"12:30","comments":"","subject_code":"LAW","course_number":"351D","section_number":"001","building":" ","room":"","instructors":["BARRETT, NICOLE"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 351D",
+  "subject_code": "LAW",
+  "course_number": "351D",
+  "course_title": "Topics in Human Rights - TPCS HUMAN RIGHT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=351D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 351D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=351D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "351D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARRETT, NICOLE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

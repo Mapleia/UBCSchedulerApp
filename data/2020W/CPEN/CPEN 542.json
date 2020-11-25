@@ -1,1 +1,44 @@
-{"course_name":"CPEN 542","subject_code":"CPEN","course_number":"542","course_title":"Cybersecurity","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=542&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"CPEN 542 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=542&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPEN","course_number":"542","section_number":"101","building":" ","room":"","instructors":["BEZNOSOV, KONSTANTIN"],"totalRemaining":"17","currentlyRegistered":"13","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Credit will only be given for one of CPEN 542 or EECE 512."}
+{
+  "course_name": "CPEN 542",
+  "subject_code": "CPEN",
+  "course_number": "542",
+  "course_title": "Cybersecurity",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPEN&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CPEN 542 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPEN&course=542&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPEN",
+      "course_number": "542",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEZNOSOV, KONSTANTIN"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "13",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will only be given for one of CPEN 542 or EECE 512.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

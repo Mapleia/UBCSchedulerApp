@@ -1,1 +1,46 @@
-{"course_name":"POLI 377","subject_code":"POLI","course_number":"377","course_title":"Nuclear Weapons and Arms Control","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=377&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 377 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=377&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"This section is crosslisted with APSC 377 101.","subject_code":"POLI","course_number":"377","section_number":"001","building":" ","room":"","instructors":["SENS, ALLEN","YEDLIN, MATTHEW","BOYD, MATTHEW"],"totalRemaining":"0","currentlyRegistered":"49","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities."}
+{
+  "course_name": "POLI 377",
+  "subject_code": "POLI",
+  "course_number": "377",
+  "course_title": "Nuclear Weapons and Arms Control",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=377&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 377 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=377&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This section is crosslisted with APSC 377 101.",
+      "subject_code": "POLI",
+      "course_number": "377",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SENS, ALLEN",
+        "YEDLIN, MATTHEW",
+        "BOYD, MATTHEW"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

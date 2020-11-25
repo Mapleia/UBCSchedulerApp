@@ -1,1 +1,47 @@
-{"course_name":"THTR 299C","subject_code":"THTR","course_number":"299C","course_title":"Production I - PRODUCTION I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=299C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 299C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=299C&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" Wed","start":" ","end":" ","comments":"","subject_code":"THTR","course_number":"299C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FIRKINS, JACQUELINE","GARDINER, ROBERT","PENNEFATHER, PATRICK","POWERS, BRADLEY","RIZZOTTI, PATRICK"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Assigned projects in theatre production."}
+{
+  "course_name": "THTR 299C",
+  "subject_code": "THTR",
+  "course_number": "299C",
+  "course_title": "Production I - PRODUCTION I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=299C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 299C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=299C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "THTR",
+      "course_number": "299C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FIRKINS, JACQUELINE",
+        "GARDINER, ROBERT",
+        "PENNEFATHER, PATRICK",
+        "POWERS, BRADLEY",
+        "RIZZOTTI, PATRICK"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Assigned projects in theatre production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

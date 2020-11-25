@@ -1,1 +1,46 @@
-{"course_name":"EOSC 470","subject_code":"EOSC","course_number":"470","course_title":"Biological Oceanography","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=470&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"EOSC 470 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=470&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Pre-requisites: One of EOSC 372, EOSC 373, BIOL305.","subject_code":"EOSC","course_number":"470","section_number":"101","building":" ","room":"","instructors":["LIPSEN, MICHAEL","ZARRINDERAKHT, MARYAM"],"totalRemaining":"14","currentlyRegistered":"26","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A quantitative examination of processes regulating the abundance, distribution and production of phytoplankton, zooplankton, microbes and fish. Controls of primary and secondary production, ecosystem dynamics and foodwebs."}
+{
+  "course_name": "EOSC 470",
+  "subject_code": "EOSC",
+  "course_number": "470",
+  "course_title": "Biological Oceanography",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=470&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EOSC 470 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=470&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Pre-requisites: One of EOSC 372, EOSC 373, BIOL305.",
+      "subject_code": "EOSC",
+      "course_number": "470",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIPSEN, MICHAEL",
+        "ZARRINDERAKHT, MARYAM"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "26",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A quantitative examination of processes regulating the abundance, distribution and production of phytoplankton, zooplankton, microbes and fish. Controls of primary and secondary production, ecosystem dynamics and foodwebs.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

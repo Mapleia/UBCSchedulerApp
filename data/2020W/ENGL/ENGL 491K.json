@@ -1,1 +1,43 @@
-{"course_name":"ENGL 491K","subject_code":"ENGL","course_number":"491K","course_title":"Senior Honours Seminar - SR HONORS SEMNR1","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=491K&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"ENGL 491K 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=491K&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"14:30","end":"16:30","comments":"","subject_code":"ENGL","course_number":"491K","section_number":"002","building":"Buchanan Tower","room":"541","instructors":["EARLE, BO"],"totalRemaining":"0","currentlyRegistered":"17","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Offerings in literary theory."}
+{
+  "course_name": "ENGL 491K",
+  "subject_code": "ENGL",
+  "course_number": "491K",
+  "course_title": "Senior Honours Seminar - SR HONORS SEMNR1",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=491K&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 491K 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=491K&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "491K",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EARLE, BO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Offerings in literary theory.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

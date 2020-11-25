@@ -1,1 +1,44 @@
-{"course_name":"CHEM 560","subject_code":"CHEM","course_number":"560","course_title":"Organic Chemistry: Building Molecules and Understanding Reactivity","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=560&sessyr=2020&sesscd=W","sections":{"166":{"status":" ","section":"CHEM 560 166","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=560&section=166&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CHEM","course_number":"560","section_number":"166","building":" ","room":"","instructors":["REID, JOLENE"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Credit will be granted for only one of CHEM 460 or CHEM 560."}
+{
+  "course_name": "CHEM 560",
+  "subject_code": "CHEM",
+  "course_number": "560",
+  "course_title": "Organic Chemistry: Building Molecules and Understanding Reactivity",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 560 166",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=560&section=166&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "560",
+      "section_number": "166",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REID, JOLENE"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will be granted for only one of CHEM 460 or CHEM 560.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

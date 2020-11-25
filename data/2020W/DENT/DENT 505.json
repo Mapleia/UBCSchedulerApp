@@ -1,1 +1,70 @@
-{"course_name":"DENT 505","subject_code":"DENT","course_number":"505","course_title":"Dental Traumatology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=505&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 505 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=505&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"505","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["HAAPASALO, MARKUS"],"totalRemaining":"3","currentlyRegistered":"0","generalRemaining":"3","restrictedRemaining":"0"},"002":{"status":"Unreleased","section":"DENT 505 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=505&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"505","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Dental trauma and tooth resorptions: etiology, pathogenesis, epidemiology, diagnosis, and treatment. Lectures, seminars, and simulation training."}
+{
+  "course_name": "DENT 505",
+  "subject_code": "DENT",
+  "course_number": "505",
+  "course_title": "Dental Traumatology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 505 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=505&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "505",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HAAPASALO, MARKUS"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "0",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "DENT 505 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=505&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "505",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Dental trauma and tooth resorptions: etiology, pathogenesis, epidemiology, diagnosis, and treatment. Lectures, seminars, and simulation training.",
+  "terms": [
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

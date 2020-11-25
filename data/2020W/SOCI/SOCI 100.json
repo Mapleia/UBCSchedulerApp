@@ -1,1 +1,151 @@
-{"course_name":"SOCI 100","subject_code":"SOCI","course_number":"100","course_title":"Introduction to Sociology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=100&sessyr=2020&sesscd=W","sections":{"306":{"status":"STT","section":"SOCI 100 306","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=306&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"-  Select one Discussion from sections D6A, D6B, D6C, D6DReserved for Coordinated Arts Program - Global Citizens theme. Please visit www.cap.arts.ubc.ca for details.The course consists of lectures in real time (synchronous), that will be recorded and posted on Canvas so that you may watch them in your own time (asynchronous). Each week you will engage with a mix of pedagogical activities such as readings, quizzes and online discussions in your own time, and attend a tutorial where you will meet and work with your peers in real time. Attendance of tutorials is important for you to build community and learn how to work together. As such, there are a range of tutorial times to accommodate students in different time-zones. If you are unable to attend tutorials due to internet or technical difficulties, alternate means to participate will be provided.","subject_code":"SOCI","course_number":"100","section_number":"306","building":" ","room":"","instructors":["ARMITAGE, NEIL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"D6A":{"status":"Full","section":"SOCI 100 D6A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Wed","start":"9:00","end":"10:00","comments":"","subject_code":"SOCI","course_number":"100","section_number":"D6A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"D6C":{"status":" ","section":"SOCI 100 D6C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6C&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Wed","start":"14:00","end":"15:00","comments":"","subject_code":"SOCI","course_number":"100","section_number":"D6C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"25","generalRemaining":"1","restrictedRemaining":"0"},"D6D":{"status":"Full","section":"SOCI 100 D6D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6D&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Wed","start":"8:00","end":"9:00","comments":"","subject_code":"SOCI","course_number":"100","section_number":"D6D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"D6B":{"status":" ","section":"SOCI 100 D6B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6B&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Tue","start":"17:00","end":"18:00","comments":"Reserved for students in the Coordinated Arts Program","subject_code":"SOCI","course_number":"100","section_number":"D6B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"16","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Introduction to problems in the analysis of social structures and processes. Basic sociological concepts will be introduced and their application demonstrated in various areas of sociology. Credit will be granted for only one of SOCI 100 or both SOCI 101, SOCI 102."}
+{
+  "course_name": "SOCI 100",
+  "subject_code": "SOCI",
+  "course_number": "100",
+  "course_title": "Introduction to Sociology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "SOCI 100 306",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=306&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "-  Select one Discussion from sections D6A, D6B, D6C, D6DReserved for Coordinated Arts Program - Global Citizens theme. Please visit www.cap.arts.ubc.ca for details.The course consists of lectures in real time (synchronous), that will be recorded and posted on Canvas so that you may watch them in your own time (asynchronous). Each week you will engage with a mix of pedagogical activities such as readings, quizzes and online discussions in your own time, and attend a tutorial where you will meet and work with your peers in real time. Attendance of tutorials is important for you to build community and learn how to work together. As such, there are a range of tutorial times to accommodate students in different time-zones. If you are unable to attend tutorials due to internet or technical difficulties, alternate means to participate will be provided.",
+      "subject_code": "SOCI",
+      "course_number": "100",
+      "section_number": "306",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ARMITAGE, NEIL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 100 D6A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "100",
+      "section_number": "D6A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 100 D6C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "100",
+      "section_number": "D6C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 100 D6D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "100",
+      "section_number": "D6D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 100 D6B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=100&section=D6B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "Reserved for students in the Coordinated Arts Program",
+      "subject_code": "SOCI",
+      "course_number": "100",
+      "section_number": "D6B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "16",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Introduction to problems in the analysis of social structures and processes. Basic sociological concepts will be introduced and their application demonstrated in various areas of sociology. Credit will be granted for only one of SOCI 100 or both SOCI 101, SOCI 102.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

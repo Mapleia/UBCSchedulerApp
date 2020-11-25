@@ -1,1 +1,128 @@
-{"course_name":"PHRM 301H","subject_code":"PHRM","course_number":"301H","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301H&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"PHRM 301H 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Travel Health (Term 1)If section is full, please register in waitlist (PHRM 301H.WL1)Please note that all PHRM 301H sessions will be delivered online.","subject_code":"PHRM","course_number":"301H","section_number":"001","building":" ","room":"","instructors":["30","0","0","30","","in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"],"totalRemaining":"in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"PHRM 301H 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Travel Health (Term 2)If section is full, please register in waitlist (PHRM 301H.WL2)Please note that all PHRM 301H sessions will be delivered online.","subject_code":"PHRM","course_number":"301H","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"0","restrictedRemaining":"1"},"WL1":{"status":"Restricted","section":"PHRM 301H WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 301H.001 Travel Health (Term 1)Instructor: Mr. Ajit Johal","subject_code":"PHRM","course_number":"301H","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"},"WL2":{"status":"Restricted","section":"PHRM 301H WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 301H.002 Travel Health (Term 2)Instructor: Mr. Ajit Johal","subject_code":"PHRM","course_number":"301H","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":"Thesis or essay."}
+{
+  "course_name": "PHRM 301H",
+  "subject_code": "PHRM",
+  "course_number": "301H",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "PHRM 301H 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Travel Health (Term 1)If section is full, please register in waitlist (PHRM 301H.WL1)Please note that all PHRM 301H sessions will be delivered online.",
+      "subject_code": "PHRM",
+      "course_number": "301H",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "0",
+        "30",
+        "",
+        "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n"
+      ],
+      "totalRemaining": "in one of these programs: PHRMD\nin one of these faculties: PHAR\nin year: =3\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "PHRM 301H 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Travel Health (Term 2)If section is full, please register in waitlist (PHRM 301H.WL2)Please note that all PHRM 301H sessions will be delivered online.",
+      "subject_code": "PHRM",
+      "course_number": "301H",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 301H WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 301H.001 Travel Health (Term 1)Instructor: Mr. Ajit Johal",
+      "subject_code": "PHRM",
+      "course_number": "301H",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 301H WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301H&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 301H.002 Travel Health (Term 2)Instructor: Mr. Ajit Johal",
+      "subject_code": "PHRM",
+      "course_number": "301H",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Thesis or essay.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

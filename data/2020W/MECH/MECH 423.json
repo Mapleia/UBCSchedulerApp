@@ -1,1 +1,126 @@
-{"course_name":"MECH 423","subject_code":"MECH","course_number":"423","course_title":"Mechatronic Product Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=423&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MECH 423 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"12:00","end":"13:00","comments":"Lab will take place in KAIS 1210","subject_code":"MECH","course_number":"423","section_number":"101","building":" ","room":"","instructors":["MA, HONGSHEN"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"6"},"L1A":{"status":"Restricted","section":"MECH 423 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=L1A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"Lab will take place in RH 118 until September 18th 2019.After that, they will take place in KAIS 1210","subject_code":"MECH","course_number":"423","section_number":"L1A","building":" ","room":"","instructors":["MA, HONGSHEN"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"6"},"T1A":{"status":"Restricted","section":"MECH 423 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Wed","start":"16:00","end":"17:00","comments":"Tutorials will take place in RH 118 until September 18th 2019.After that, they will take place in KAIS 1210","subject_code":"MECH","course_number":"423","section_number":"T1A","building":" ","room":"","instructors":["MA, HONGSHEN"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"6"},"WL1":{"status":"Blocked","section":"MECH 423 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"MECH","course_number":"423","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"15"}},"credits":"Credits: 4","description":"Design of mechatronic systems for industrial and human-centric applications; compliant structures; electronic circuits to interface with sensors and actuators; embedded systems; precision timing and control; data acquisition and processing; user interfaces; and product innovation."}
+{
+  "course_name": "MECH 423",
+  "subject_code": "MECH",
+  "course_number": "423",
+  "course_title": "Mechatronic Product Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=423&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 423 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Lab will take place in KAIS 1210",
+      "subject_code": "MECH",
+      "course_number": "423",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 423 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Lab will take place in RH 118 until September 18th 2019.After that, they will take place in KAIS 1210",
+      "subject_code": "MECH",
+      "course_number": "423",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 423 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "Tutorials will take place in RH 118 until September 18th 2019.After that, they will take place in KAIS 1210",
+      "subject_code": "MECH",
+      "course_number": "423",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MA, HONGSHEN"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 423 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=423&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "423",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 4,
+  "description": "Design of mechatronic systems for industrial and human-centric applications; compliant structures; electronic circuits to interface with sensors and actuators; embedded systems; precision timing and control; data acquisition and processing; user interfaces; and product innovation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

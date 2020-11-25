@@ -1,1 +1,43 @@
-{"course_name":"PHYS 399","subject_code":"PHYS","course_number":"399","course_title":"Co-operative Work Placement III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=399&sessyr=2020&sesscd=W","sections":{"612":{"status":" ","section":"PHYS 399 612","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=399&section=612&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHYS","course_number":"399","section_number":"612","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics."}
+{
+  "course_name": "PHYS 399",
+  "subject_code": "PHYS",
+  "course_number": "399",
+  "course_title": "Co-operative Work Placement III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=399&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 399 612",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=399&section=612&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "399",
+      "section_number": "612",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Physics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"SOWK 550","subject_code":"SOWK","course_number":"550","course_title":"Social Work and Social Justice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=550&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 550 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=550&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"","subject_code":"SOWK","course_number":"550","section_number":"001","building":" ","room":"","instructors":["COULOMBE, ANTOINE","MONTGOMERY, HARPELL"],"totalRemaining":"13","currentlyRegistered":"37","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 550",
+  "subject_code": "SOWK",
+  "course_number": "550",
+  "course_title": "Social Work and Social Justice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 550 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=550&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "550",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COULOMBE, ANTOINE",
+        "MONTGOMERY, HARPELL"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "37",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

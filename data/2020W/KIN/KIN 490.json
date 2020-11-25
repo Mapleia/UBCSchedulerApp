@@ -1,1 +1,70 @@
-{"course_name":"KIN 490","subject_code":"KIN","course_number":"490","course_title":"Directed Studies in Kinesiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=490&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 490 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=490&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"490","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"KIN 490 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=490&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"KIN","course_number":"490","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Opportunity for students to conduct an independent study in a subject area of interest to them, under the direction of a KIN faculty member."}
+{
+  "course_name": "KIN 490",
+  "subject_code": "KIN",
+  "course_number": "490",
+  "course_title": "Directed Studies in Kinesiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=490&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 490 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=490&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "490",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 490 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=490&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "KIN",
+      "course_number": "490",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Opportunity for students to conduct an independent study in a subject area of interest to them, under the direction of a KIN faculty member.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

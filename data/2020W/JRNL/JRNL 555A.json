@@ -1,1 +1,46 @@
-{"course_name":"JRNL 555A","subject_code":"JRNL","course_number":"555A","course_title":"International Reporting - INTL REPORTING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=555A&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"JRNL 555A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=555A&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Tue","start":"9:30","end":"12:30","comments":"This is a competitive entry course restricted to Master of Journalism students only.  Approval of instructor required for registration in course.  Email jrnl.journal@ubc.ca for application form and instructions to apply.","subject_code":"JRNL","course_number":"555A","section_number":"002","building":" ","room":"","instructors":["GRETSINGER, KATHRYN","KLEIN, PETER","BOWNESS, EVAN(Lead)","JAMES, DANA(Lead)"],"totalRemaining":"1","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "JRNL 555A",
+  "subject_code": "JRNL",
+  "course_number": "555A",
+  "course_title": "International Reporting - INTL REPORTING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=555A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "JRNL 555A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=555A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This is a competitive entry course restricted to Master of Journalism students only.  Approval of instructor required for registration in course.  Email jrnl.journal@ubc.ca for application form and instructions to apply.",
+      "subject_code": "JRNL",
+      "course_number": "555A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRETSINGER, KATHRYN",
+        "KLEIN, PETER",
+        "BOWNESS, EVAN(Lead)",
+        "JAMES, DANA(Lead)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

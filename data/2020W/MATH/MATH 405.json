@@ -1,1 +1,44 @@
-{"course_name":"MATH 405","subject_code":"MATH","course_number":"405","course_title":"Numerical Methods for Differential Equations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=405&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MATH 405 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=405&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"CROSSLISTED WITH MATH 607E/101","subject_code":"MATH","course_number":"405","section_number":"101","building":" ","room":"","instructors":["ORTNER, CHRISTOPH"],"totalRemaining":"20","currentlyRegistered":"25","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "MATH 405",
+  "subject_code": "MATH",
+  "course_number": "405",
+  "course_title": "Numerical Methods for Differential Equations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=405&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 405 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=405&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "CROSSLISTED WITH MATH 607E/101",
+      "subject_code": "MATH",
+      "course_number": "405",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORTNER, CHRISTOPH"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "23",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

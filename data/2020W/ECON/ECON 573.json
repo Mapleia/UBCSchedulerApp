@@ -1,1 +1,44 @@
-{"course_name":"ECON 573","subject_code":"ECON","course_number":"573","course_title":"Environmental Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=573&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 573 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=573&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"14:00","end":"15:30","comments":"Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.","subject_code":"ECON","course_number":"573","section_number":"001","building":"Buchanan","room":"B218","instructors":["BAYLIS, PATRICK"],"totalRemaining":"1","currentlyRegistered":"17","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECON 573",
+  "subject_code": "ECON",
+  "course_number": "573",
+  "course_title": "Environmental Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=573&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 573 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=573&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.",
+      "subject_code": "ECON",
+      "course_number": "573",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAYLIS, PATRICK"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

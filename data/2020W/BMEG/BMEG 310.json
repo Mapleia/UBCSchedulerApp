@@ -1,1 +1,100 @@
-{"course_name":"BMEG 310","subject_code":"BMEG","course_number":"310","course_title":"Introduction to Bioinformatics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=310&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"BMEG 310 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"BMEG","course_number":"310","section_number":"101","building":" ","room":"","instructors":["BASHASHATI SAGHEZCHI, ALI","DE BOER, CARL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"T1A":{"status":"Restricted","section":"BMEG 310 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Mon","start":"9:00","end":"11:00","comments":"","subject_code":"BMEG","course_number":"310","section_number":"T1A","building":" ","room":"","instructors":["BASHASHATI SAGHEZCHI, ALI","DE BOER, CARL"],"totalRemaining":"9","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"9"},"T1B":{"status":"Full","section":"BMEG 310 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=T1B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Thu","start":"9:00","end":"11:00","comments":"","subject_code":"BMEG","course_number":"310","section_number":"T1B","building":" ","room":"","instructors":["BASHASHATI SAGHEZCHI, ALI","DE BOER, CARL"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Principles behind the methods of bioinformatics. The use of bioinformatics databases and tools for solving problems in genomics, proteomics, structural biology and evolutionary biology."}
+{
+  "course_name": "BMEG 310",
+  "subject_code": "BMEG",
+  "course_number": "310",
+  "course_title": "Introduction to Bioinformatics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=310&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "BMEG 310 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "310",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "DE BOER, CARL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "BMEG 310 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "310",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "DE BOER, CARL"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Full",
+      "section": "BMEG 310 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=310&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "310",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BASHASHATI SAGHEZCHI, ALI",
+        "DE BOER, CARL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Principles behind the methods of bioinformatics. The use of bioinformatics databases and tools for solving problems in genomics, proteomics, structural biology and evolutionary biology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

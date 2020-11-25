@@ -1,1 +1,44 @@
-{"course_name":"FNH 303","subject_code":"FNH","course_number":"303","course_title":"Food Product Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=303&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FNH 303 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=303&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"FNH","course_number":"303","section_number":"001","building":"MacMillan","room":"158","instructors":["SCAMAN, CHRISTINE"],"totalRemaining":"5","currentlyRegistered":"69","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Introduction to and application of concepts involved in food product formulation and development."}
+{
+  "course_name": "FNH 303",
+  "subject_code": "FNH",
+  "course_number": "303",
+  "course_title": "Food Product Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=303&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 303 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=303&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "303",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCAMAN, CHRISTINE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "69",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to and application of concepts involved in food product formulation and development.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

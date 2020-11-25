@@ -1,1 +1,43 @@
-{"course_name":"BMEG 590","subject_code":"BMEG","course_number":"590","course_title":"Biomedical Engineering Professional Skills","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=590&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"BMEG 590 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=590&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"This course is for the Biomedical Engineering Program Engineers in Scrubs (BME EiS) students who started prior to 2019W and have not yet completed their course requirements. No other students are allowed in this course. Contact students@bme.ubc.ca for registration.","subject_code":"BMEG","course_number":"590","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"20"}},"credits":"Credits: 1","description":"Formulate and implement a professional skills development plan involving workshops on topics such as writing, presentation, teaching, finance, marketing, equity, ethics.  Pass/Fail grading."}
+{
+  "course_name": "BMEG 590",
+  "subject_code": "BMEG",
+  "course_number": "590",
+  "course_title": "Biomedical Engineering Professional Skills",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=590&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BMEG 590 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=590&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is for the Biomedical Engineering Program Engineers in Scrubs (BME EiS) students who started prior to 2019W and have not yet completed their course requirements. No other students are allowed in this course. Contact students@bme.ubc.ca for registration.",
+      "subject_code": "BMEG",
+      "course_number": "590",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 1,
+  "description": "Formulate and implement a professional skills development plan involving workshops on topics such as writing, presentation, teaching, finance, marketing, equity, ethics.  Pass/Fail grading.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

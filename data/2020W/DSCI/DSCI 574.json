@@ -1,1 +1,96 @@
-{"course_name":"DSCI 574","subject_code":"DSCI","course_number":"574","course_title":"Spatial and Temporal Models","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=574&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DSCI 574 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"574","section_number":"001","building":"West Mall Swing Space","room":"121","instructors":["BEUZEN, TOMAS"],"totalRemaining":"19","currentlyRegistered":"101","generalRemaining":"0","restrictedRemaining":"19"},"L01":{"status":"Restricted","section":"DSCI 574 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"13:00","end":"15:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"574","section_number":"L01","building":"Orchard Commons","room":"3018","instructors":["BEUZEN, TOMAS"],"totalRemaining":"26","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"26"},"L02":{"status":"Full","section":"DSCI 574 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"14:00","end":"16:00","comments":"Reserved for MDS-Vancouver students.","subject_code":"DSCI","course_number":"574","section_number":"L02","building":"Orchard Commons","room":"4018","instructors":["BEUZEN, TOMAS"],"totalRemaining":"0","currentlyRegistered":"67","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"Time series. State space and change point detection. Hidden Markov Models. Gaussian processes."}
+{
+  "course_name": "DSCI 574",
+  "subject_code": "DSCI",
+  "course_number": "574",
+  "course_title": "Spatial and Temporal Models",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=574&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DSCI 574 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "574",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "20"
+    },
+    {
+      "status": "Restricted",
+      "section": "DSCI 574 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "574",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": "Full",
+      "section": "DSCI 574 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DSCI&course=574&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Reserved for MDS-Vancouver students.",
+      "subject_code": "DSCI",
+      "course_number": "574",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEUZEN, TOMAS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "Time series. State space and change point detection. Hidden Markov Models. Gaussian processes.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"RMST 520","subject_code":"RMST","course_number":"520","course_title":"Studies in Romance Languages and Cultures","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RMST&course=520&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"RMST 520 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RMST&course=520&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"- cross-listed with ITAL 404-101, ITST 414-101 and RMST 420C-101","subject_code":"RMST","course_number":"520","section_number":"101","building":" ","room":"","instructors":["BOCCASSINI, DANIELA"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "RMST 520",
+  "subject_code": "RMST",
+  "course_number": "520",
+  "course_title": "Studies in Romance Languages and Cultures",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RMST&course=520&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RMST 520 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RMST&course=520&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "- cross-listed with ITAL 404-101, ITST 414-101 and RMST 420C-101",
+      "subject_code": "RMST",
+      "course_number": "520",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOCCASSINI, DANIELA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "2",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

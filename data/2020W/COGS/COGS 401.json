@@ -1,1 +1,125 @@
-{"course_name":"COGS 401","subject_code":"COGS","course_number":"401","course_title":"Seminar in Cognitive Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COGS&course=401&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"COGS 401 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"The number of hours required to complete the online version of this course are the same as those required when the course is given on campus. A variety of online methods will be used in its teaching. Some but not all of these methods allow students to determine the pace and timing of their own learning. To avoid scheduling conflicts, students should ensure that they are able to login to the course's canvas site during the scheduled class hours. Inability to participate in the course's online requirements can be accommodated only when the university's policy on academic concession (https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions#are-you-eligible-for-an-academic-concession) applies.If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.","subject_code":"COGS","course_number":"401","section_number":"001","building":" ","room":"","instructors":["WARD, LAWRENCE"],"totalRemaining":"11","currentlyRegistered":"34","generalRemaining":"5","restrictedRemaining":"6"},"002":{"status":" ","section":"COGS 401 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.","subject_code":"COGS","course_number":"401","section_number":"002","building":"West Mall Swing Space","room":"405","instructors":["PAI-SPERING, MIRIAM"],"totalRemaining":"17","currentlyRegistered":"28","generalRemaining":"5","restrictedRemaining":"12"},"003":{"status":" ","section":"COGS 401 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"IMPORTANT: this section of COGS 401 has an industry/entrepreneurship focus.This course section has a mix of synchronous and asynchronous delivery but students should ensure that they are able to log into the course's canvas site during the scheduled class hours.If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.","subject_code":"COGS","course_number":"401","section_number":"003","building":" ","room":"","instructors":["AMLANI, ALYM"],"totalRemaining":"9","currentlyRegistered":"36","generalRemaining":"7","restrictedRemaining":"2"},"WL2":{"status":" ","section":"COGS 401 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Please note that a seat in the waiting list does not guarantee a seat in the course (it is highly recommended to register for a course section with seats available if there are any). You will be notified if you get moved out of the waiting list and into the course section.","subject_code":"COGS","course_number":"401","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"28","currentlyRegistered":"2","generalRemaining":"28","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Interdisciplinary seminar integrating theory, methods, and current research topics."}
+{
+  "course_name": "COGS 401",
+  "subject_code": "COGS",
+  "course_number": "401",
+  "course_title": "Seminar in Cognitive Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COGS&course=401&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COGS 401 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "The number of hours required to complete the online version of this course are the same as those required when the course is given on campus. A variety of online methods will be used in its teaching. Some but not all of these methods allow students to determine the pace and timing of their own learning. To avoid scheduling conflicts, students should ensure that they are able to login to the course's canvas site during the scheduled class hours. Inability to participate in the course's online requirements can be accommodated only when the university's policy on academic concession (https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions#are-you-eligible-for-an-academic-concession) applies.If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.",
+      "subject_code": "COGS",
+      "course_number": "401",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WARD, LAWRENCE"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "34",
+      "generalRemaining": "5",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": " ",
+      "section": "COGS 401 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "The number of hours required to complete the online version of this course is the same as is required when the course is given on campus. A variety of online methods will be used in its teaching. Some but not all of these methods allow students to determine the pace and timing of their own learning. To avoid scheduling conflicts, students should ensure that they are able to log in to the course's canvas site during the scheduled class hours. Inability to participate in the course's online requirements can be accommodated only when the university's policy on academic concession applies.If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.",
+      "subject_code": "COGS",
+      "course_number": "401",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PAI-SPERING, MIRIAM"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "5",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": " ",
+      "section": "COGS 401 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "IMPORTANT: this section of COGS 401 has an industry/entrepreneurship focus.This course section has a mix of synchronous and asynchronous delivery but students should ensure that they are able to log into the course's canvas site during the scheduled class hours.If this course section is 'blocked' (and is full), it is recommended to register for a different COGS 401 section. If this course section is 'blocked' (but is not full), you are encouraged to either register for a different COGS 401 section or to register for the COGS 401 waiting list. If ALL COGS 401 sections are full, please register for the COGS 401 waiting list. You will be notified as you are moved into the course section.",
+      "subject_code": "COGS",
+      "course_number": "401",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMLANI, ALYM"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "36",
+      "generalRemaining": "7",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "COGS 401 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COGS&course=401&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please note that a seat in the waiting list does not guarantee a seat in the course (it is highly recommended to register for a course section with seats available if there are any). You will be notified if you get moved out of the waiting list and into the course section.",
+      "subject_code": "COGS",
+      "course_number": "401",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Interdisciplinary seminar integrating theory, methods, and current research topics.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

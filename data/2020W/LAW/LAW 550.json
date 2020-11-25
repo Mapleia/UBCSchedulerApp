@@ -1,1 +1,45 @@
-{"course_name":"LAW 550","subject_code":"LAW","course_number":"550","course_title":"Taxation of Corporate Reorganizations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=550&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 550 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=550&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"*Cross-listed with LAW 414.001*","subject_code":"LAW","course_number":"550","section_number":"001","building":" ","room":"","instructors":["ABDULLA, ASIF","SWANSTON, JILL"],"totalRemaining":"1","currentlyRegistered":"7","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of statutory and judicial rules governing the taxation of corporate reorganizations. Credit will be granted for only one of LAW 414 or LAW 550."}
+{
+  "course_name": "LAW 550",
+  "subject_code": "LAW",
+  "course_number": "550",
+  "course_title": "Taxation of Corporate Reorganizations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 550 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=550&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "*Cross-listed with LAW 414.001*",
+      "subject_code": "LAW",
+      "course_number": "550",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ABDULLA, ASIF",
+        "SWANSTON, JILL"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "7",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of statutory and judicial rules governing the taxation of corporate reorganizations. Credit will be granted for only one of LAW 414 or LAW 550.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"MICB 549","subject_code":"MICB","course_number":"549","course_title":"M.Sc. Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=549&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MICB 549 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=101&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" Mon","start":"7:00","end":"8:00","comments":"","subject_code":"MICB","course_number":"549","section_number":"101","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"28","currentlyRegistered":"2","generalRemaining":"28","restrictedRemaining":"0"},"201":{"status":" ","section":"MICB 549 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=201&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" Mon","start":"7:00","end":"8:00","comments":"","subject_code":"MICB","course_number":"549","section_number":"201","building":" ","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"0"},"001":{"status":" ","section":"MICB 549 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" Mon","start":"7:00","end":"8:00","comments":"","subject_code":"MICB","course_number":"549","section_number":"001","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 18","description":" "}
+{
+  "course_name": "MICB 549",
+  "subject_code": "MICB",
+  "course_number": "549",
+  "course_title": "M.Sc. Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=549&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MICB 549 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=101&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "549",
+      "section_number": "101",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 549 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=201&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "549",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 549 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=549&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "07:00",
+      "end": "08:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "549",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 8,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

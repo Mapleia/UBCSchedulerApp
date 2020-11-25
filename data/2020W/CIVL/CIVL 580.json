@@ -1,1 +1,44 @@
-{"course_name":"CIVL 580","subject_code":"CIVL","course_number":"580","course_title":"Geotechnical Earthquake Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=580&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"CIVL 580 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=580&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Do NOT contact the professor regarding registration problems.Please check back regularly to see if space opens up in the class.   Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  If you cannot register because of the registration restriction please register to the waitlist and meet the instructor on the first day of the class.","subject_code":"CIVL","course_number":"580","section_number":"101","building":" ","room":"","instructors":["TAIEBAT, MAHDI"],"totalRemaining":"4","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Local site effects, soil-structure-interaction, liquefaction, seismic slope stability, seismic design of retaining structures; advanced methods in geotechnical earthquake engineering."}
+{
+  "course_name": "CIVL 580",
+  "subject_code": "CIVL",
+  "course_number": "580",
+  "course_title": "Geotechnical Earthquake Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=580&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CIVL 580 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=580&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Do NOT contact the professor regarding registration problems.Please check back regularly to see if space opens up in the class.   Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  If you cannot register because of the registration restriction please register to the waitlist and meet the instructor on the first day of the class.",
+      "subject_code": "CIVL",
+      "course_number": "580",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAIEBAT, MAHDI"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Local site effects, soil-structure-interaction, liquefaction, seismic slope stability, seismic design of retaining structures; advanced methods in geotechnical earthquake engineering.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

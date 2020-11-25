@@ -1,1 +1,45 @@
-{"course_name":"ENGL 350","subject_code":"ENGL","course_number":"350","course_title":"Milton","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=350&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ENGL 350 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=350&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"ENGL","course_number":"350","section_number":"001","building":" ","room":"","instructors":["GUY-BRAY, STEPHEN"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A detailed study of Milton's works. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 350 and/or 354."}
+{
+  "course_name": "ENGL 350",
+  "subject_code": "ENGL",
+  "course_number": "350",
+  "course_title": "Milton",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=350&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ENGL 350 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=350&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "350",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY-BRAY, STEPHEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A detailed study of Milton's works. Consult department website for current year's offerings. Credit will be granted for up to 6 credits of ENGL 350 and/or 354.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

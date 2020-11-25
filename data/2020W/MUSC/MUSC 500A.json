@@ -1,1 +1,44 @@
-{"course_name":"MUSC 500A","subject_code":"MUSC","course_number":"500A","course_title":"Advanced Musical Analysis - ADV MUSICAL ANLY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=500A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 500A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=500A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Tonal Analysis.  With Music 411. This course focuses on sonata form around the turn of the nineteenth century, with a special focus on works by Schubert. The analytical approach encompasses techniques that complement Schenkerian analysis. Topics include chromaticism and enharmonicism, harmonic rhythm and phrase rhythm, and divergences from Classical-era formal norms. There is no textbook, but several advanced readings will be assigned. This course is open to anyone who has successfully completed the Graduate Entrance Examination in theory.","subject_code":"MUSC","course_number":"500A","section_number":"001","building":" ","room":"","instructors":["VAN HANDEL, LEIGH"],"totalRemaining":"2","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "MUSC 500A",
+  "subject_code": "MUSC",
+  "course_number": "500A",
+  "course_title": "Advanced Musical Analysis - ADV MUSICAL ANLY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=500A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 500A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=500A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Tonal Analysis.  With Music 411. This course focuses on sonata form around the turn of the nineteenth century, with a special focus on works by Schubert. The analytical approach encompasses techniques that complement Schenkerian analysis. Topics include chromaticism and enharmonicism, harmonic rhythm and phrase rhythm, and divergences from Classical-era formal norms. There is no textbook, but several advanced readings will be assigned. This course is open to anyone who has successfully completed the Graduate Entrance Examination in theory.",
+      "subject_code": "MUSC",
+      "course_number": "500A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN HANDEL, LEIGH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

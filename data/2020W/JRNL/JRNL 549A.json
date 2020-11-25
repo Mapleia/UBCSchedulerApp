@@ -1,1 +1,78 @@
-{"course_name":"JRNL 549A","subject_code":"JRNL","course_number":"549A","course_title":"Thesis  - THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"JRNL 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"This is the course code for the Academic Thesis.  Registration for the Final Research Project is JRNL 548.  Please email soj.grad@ubc.a for permission to register in this course.","subject_code":"JRNL","course_number":"549A","section_number":"001","building":"","room":"","instructors":["22","3","0","22","","in one of these programs: MJ\n\n"],"totalRemaining":"in one of these programs: MJ\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"JRNL 549A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=549A&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":"","end":"","comments":"Fall registration for 2nd Yr MJ students completing Thesis during the fall.  Please email soj.grad@ubc.a for permission to register in this course.","subject_code":"JRNL","course_number":"549A","section_number":"002","building":"","room":"","instructors":["4","1","4","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "JRNL 549A",
+  "subject_code": "JRNL",
+  "course_number": "549A",
+  "course_title": "Thesis  - THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "JRNL 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This is the course code for the Academic Thesis.  Registration for the Final Research Project is JRNL 548.  Please email soj.grad@ubc.a for permission to register in this course.",
+      "subject_code": "JRNL",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "22",
+        "3",
+        "0",
+        "22",
+        "",
+        "in one of these programs: MJ\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MJ\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "JRNL 549A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=549A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Fall registration for 2nd Yr MJ students completing Thesis during the fall.  Please email soj.grad@ubc.a for permission to register in this course.",
+      "subject_code": "JRNL",
+      "course_number": "549A",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "4",
+        "1",
+        "4",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

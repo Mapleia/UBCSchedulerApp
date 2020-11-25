@@ -1,1 +1,43 @@
-{"course_name":"FNIS 501A","subject_code":"FNIS","course_number":"501A","course_title":"Special Topics - SPECIAL TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=501A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"FNIS 501A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=501A&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"9:30","end":"12:30","comments":"Course Title: Indigenous Theory and Methods Seminar.Please visit http//fnis.arts.ca/graduate-courses/ regarding the registration process. If the course is full, please email the instructor and cc: cis.program@ubc.ca to discuss your options.","subject_code":"FNIS","course_number":"501A","section_number":"101","building":" ","room":"","instructors":["NASON, DOROTHY"],"totalRemaining":"3","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FNIS 501A",
+  "subject_code": "FNIS",
+  "course_number": "501A",
+  "course_title": "Special Topics - SPECIAL TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNIS&course=501A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FNIS 501A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNIS&course=501A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "Course Title: Indigenous Theory and Methods Seminar.Please visit http//fnis.arts.ca/graduate-courses/ regarding the registration process. If the course is full, please email the instructor and cc: cis.program@ubc.ca to discuss your options.",
+      "subject_code": "FNIS",
+      "course_number": "501A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NASON, DOROTHY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

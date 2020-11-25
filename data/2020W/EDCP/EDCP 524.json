@@ -1,1 +1,43 @@
-{"course_name":"EDCP 524","subject_code":"EDCP","course_number":"524","course_title":"Technology, Virtual Worlds, and Digital Visual Culture in Art Education","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=524&sessyr=2020&sesscd=W","sections":{"62A":{"status":"Blocked","section":"EDCP 524 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=524&section=62A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a PDCE administered course for KTY3. Restricted to students in the course. This is a blended course with part of the course held at WKTEP in Nelson, BC and part of the course will be online.","subject_code":"EDCP","course_number":"524","section_number":"62A","building":"No Scheduled Meeting","room":"","instructors":["KOZAK, DONNA"],"totalRemaining":"0","currentlyRegistered":"22","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Foundations and conflicting conceptions of digital visual culture and art education. Theory and practice in the development and implementation of art education technology."}
+{
+  "course_name": "EDCP 524",
+  "subject_code": "EDCP",
+  "course_number": "524",
+  "course_title": "Technology, Virtual Worlds, and Digital Visual Culture in Art Education",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDCP 524 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=524&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a PDCE administered course for KTY3. Restricted to students in the course.",
+      "subject_code": "EDCP",
+      "course_number": "524",
+      "section_number": "62A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOZAK, DONNA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "22",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Foundations and conflicting conceptions of digital visual culture and art education. Theory and practice in the development and implementation of art education technology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

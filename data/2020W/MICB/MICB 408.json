@@ -1,1 +1,75 @@
-{"course_name":"MICB 408","subject_code":"MICB","course_number":"408","course_title":"Advanced Bacterial Pathogenesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=408&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"MICB 408 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=408&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.","subject_code":"MICB","course_number":"408","section_number":"201","building":"Biological Sciences","room":"3145","instructors":["THOMPSON, CHARLES","TOCHEVA, ELITZA"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":" ","section":"MICB 408 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=408&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"MICB","course_number":"408","section_number":"WL2","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"5","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Current and emerging themes in bacterial pathogenesis including cellular microbiology, bacterial cell biology processes and their role in virulence including secretion systems to deliver virulence factors and immune evasion strategies employed by pathogens.  Development of antibiotics and resistance to antibiotics."}
+{
+  "course_name": "MICB 408",
+  "subject_code": "MICB",
+  "course_number": "408",
+  "course_title": "Advanced Bacterial Pathogenesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=408&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MICB 408 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=408&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "408",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, CHARLES",
+        "TOCHEVA, ELITZA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 408 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=408&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "408",
+      "section_number": "WL2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "5",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Current and emerging themes in bacterial pathogenesis including cellular microbiology, bacterial cell biology processes and their role in virulence including secretion systems to deliver virulence factors and immune evasion strategies employed by pathogens.  Development of antibiotics and resistance to antibiotics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

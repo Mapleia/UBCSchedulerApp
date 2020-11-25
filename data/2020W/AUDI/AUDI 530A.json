@@ -1,1 +1,43 @@
-{"course_name":"AUDI 530A","subject_code":"AUDI","course_number":"530A","course_title":"Research Methods - RESEARCH METHODS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=530A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 530A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=530A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"530A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["CHAN, SYLVIA"],"totalRemaining":"12","currentlyRegistered":"48","generalRemaining":"12","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"May be taken more than once for credit."}
+{
+  "course_name": "AUDI 530A",
+  "subject_code": "AUDI",
+  "course_number": "530A",
+  "course_title": "Research Methods - RESEARCH METHODS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=530A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 530A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=530A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "530A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CHAN, SYLVIA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "48",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "May be taken more than once for credit.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

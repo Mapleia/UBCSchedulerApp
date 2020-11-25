@@ -1,1 +1,101 @@
-{"course_name":"ENGL 220","subject_code":"ENGL","course_number":"220","course_title":"Literature in English to the 18th Century","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=220&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ENGL 220 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"ENGL","course_number":"220","section_number":"002","building":" ","room":"","instructors":["ENDO, PAUL"],"totalRemaining":"21","currentlyRegistered":"24","generalRemaining":"21","restrictedRemaining":"0"},"003":{"status":" ","section":"ENGL 220 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"ENGL","course_number":"220","section_number":"003","building":"Irving K Barber Learning Centre","room":"155","instructors":["FOX, LORCAN FRANCIS"],"totalRemaining":"14","currentlyRegistered":"31","generalRemaining":"14","restrictedRemaining":"0"},"004":{"status":" ","section":"ENGL 220 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=004&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"ENGL","course_number":"220","section_number":"004","building":" ","room":"","instructors":["FOX, LORCAN FRANCIS"],"totalRemaining":"15","currentlyRegistered":"30","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of prose, poetry and drama to the 18th Century."}
+{
+  "course_name": "ENGL 220",
+  "subject_code": "ENGL",
+  "course_number": "220",
+  "course_title": "Literature in English to the 18th Century",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=220&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 220 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "220",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ENDO, PAUL"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "24",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 220 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "220",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FOX, LORCAN FRANCIS"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "34",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 220 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=220&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "220",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FOX, LORCAN FRANCIS"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "28",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of prose, poetry and drama to the 18th Century.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

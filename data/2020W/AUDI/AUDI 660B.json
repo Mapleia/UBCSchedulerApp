@@ -1,1 +1,43 @@
-{"course_name":"AUDI 660B","subject_code":"AUDI","course_number":"660B","course_title":"Seminar in Hearing Science - SEM HEARING SCIE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=660B&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"AUDI 660B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=660B&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"660B","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 2","description":" "}
+{
+  "course_name": "AUDI 660B",
+  "subject_code": "AUDI",
+  "course_number": "660B",
+  "course_title": "Seminar in Hearing Science - SEM HEARING SCIE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=660B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 660B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=660B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "660B",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

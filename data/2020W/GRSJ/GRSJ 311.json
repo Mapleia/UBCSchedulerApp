@@ -1,1 +1,70 @@
-{"course_name":"GRSJ 311","subject_code":"GRSJ","course_number":"311","course_title":"African/Black Women in the Americas","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=311&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GRSJ 311 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=311&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"16:00","end":"19:00","comments":"","subject_code":"GRSJ","course_number":"311","section_number":"001","building":"Buchanan","room":"B218","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"GRSJ 311 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=311&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Wed","start":"16:00","end":"19:00","comments":"","subject_code":"GRSJ","course_number":"311","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"3","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An interdisciplinary survey of gender studies and histories of African/Black women in the Americas from the beginning of the slave trade to the present."}
+{
+  "course_name": "GRSJ 311",
+  "subject_code": "GRSJ",
+  "course_number": "311",
+  "course_title": "African/Black Women in the Americas",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=311&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 311 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=311&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "311",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 311 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=311&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "311",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An interdisciplinary survey of gender studies and histories of African/Black women in the Americas from the beginning of the slave trade to the present.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

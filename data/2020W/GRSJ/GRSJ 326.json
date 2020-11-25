@@ -1,1 +1,72 @@
-{"course_name":"GRSJ 326","subject_code":"GRSJ","course_number":"326","course_title":"The Politics of Gender, Families, and Nation-Building","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=326&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GRSJ 326 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=326&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Wait list section is WL1.  Waitlisted students will receive an email confirmation if  moved into the class.  GRSJ majors/minors have priority on waitlists.","subject_code":"GRSJ","course_number":"326","section_number":"001","building":" ","room":"","instructors":["BANDALI, ALIFA"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"GRSJ 326 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=326&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"GRSJ","course_number":"326","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"50","currentlyRegistered":"0","generalRemaining":"30","restrictedRemaining":"20"}},"credits":"Credits: 3","description":"Investigation of historical and contemporary scholarship on the diversity of families, focusing on differences of gender, sexuality, race/ethnicity, and social class within and across national borders."}
+{
+  "course_name": "GRSJ 326",
+  "subject_code": "GRSJ",
+  "course_number": "326",
+  "course_title": "The Politics of Gender, Families, and Nation-Building",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=326&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 326 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=326&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Wait list section is WL1.  Waitlisted students will receive an email confirmation if  moved into the class.  GRSJ majors/minors have priority on waitlists.",
+      "subject_code": "GRSJ",
+      "course_number": "326",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BANDALI, ALIFA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "GRSJ 326 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=326&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "326",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "50",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation of historical and contemporary scholarship on the diversity of families, focusing on differences of gender, sexuality, race/ethnicity, and social class within and across national borders.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

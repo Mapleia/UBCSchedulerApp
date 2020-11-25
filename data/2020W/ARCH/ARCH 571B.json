@@ -1,1 +1,70 @@
-{"course_name":"ARCH 571B","subject_code":"ARCH","course_number":"571B","course_title":"Seminar: Technology and Analysis - CRFT ARCH DTLNG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=571B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 571B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=571B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"ARCH","course_number":"571B","section_number":"001","building":" ","room":"","instructors":["JOHNSON, GREGORY"],"totalRemaining":"5","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"5"},"WL1":{"status":"Restricted","section":"ARCH 571B WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=571B&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Wed","start":" ","end":" ","comments":"","subject_code":"ARCH","course_number":"571B","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["JOHNSON, GREGORY"],"totalRemaining":"18","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"18"}},"credits":"Credits: 3","description":"Topics across a range of building material and construction technology-based subject matter."}
+{
+  "course_name": "ARCH 571B",
+  "subject_code": "ARCH",
+  "course_number": "571B",
+  "course_title": "Seminar: Technology and Analysis - CRFT ARCH DTLNG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=571B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 571B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=571B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "571B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, GREGORY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "ARCH 571B WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=571B&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "571B",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSON, GREGORY"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "18"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics across a range of building material and construction technology-based subject matter.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

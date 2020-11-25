@@ -1,1 +1,45 @@
-{"course_name":"MUSC 530C","subject_code":"MUSC","course_number":"530C","course_title":"Topics in Ethnomusicology - ORAL COMPOSITION","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=530C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MUSC 530C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=530C&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"12:00","comments":"With 403G. An analysis-and-practice class, students will invent short compositions incorporating rhythm techniques found in a variety of world traditions, and teach them to one another orally.  Please contact instructor for permission to register.","subject_code":"MUSC","course_number":"530C","section_number":"001","building":"Asian Centre","room":"105","instructors":["TENZER, MICHAEL"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Topics involving methodology and fieldwork in non-Western traditions. Topics will vary and students should consult the School as to areas of focus in any given term."}
+{
+  "course_name": "MUSC 530C",
+  "subject_code": "MUSC",
+  "course_number": "530C",
+  "course_title": "Topics in Ethnomusicology - ORAL COMPOSITION",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=530C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 530C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=530C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "With 403G. An analysis-and-practice class, students will invent short compositions incorporating rhythm techniques found in a variety of world traditions, and teach them to one another orally.  Please contact instructor for permission to register.",
+      "subject_code": "MUSC",
+      "course_number": "530C",
+      "section_number": "001",
+      "building": "Asian Centre",
+      "room": "105",
+      "instructors": [
+        "TENZER, MICHAEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics involving methodology and fieldwork in non-Western traditions. Topics will vary and students should consult the School as to areas of focus in any given term.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

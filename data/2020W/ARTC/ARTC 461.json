@@ -1,1 +1,70 @@
-{"course_name":"ARTC 461","subject_code":"ARTC","course_number":"461","course_title":"Arts Co-op Work Term #6 (Extension)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTC&course=461&sessyr=2020&sesscd=W","sections":{"01F":{"status":"Blocked","section":"ARTC 461 01F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTC&course=461&section=01F&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Arts Co-op Undergraduate Work Term 6 Extension Fall","subject_code":"ARTC","course_number":"461","section_number":"01F","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":"Blocked","section":"ARTC 461 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTC&course=461&section=01W&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Arts Co-op Undergraduate Work Term 6 Extension Winter","subject_code":"ARTC","course_number":"461","section_number":"01W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Extension of co-op term with the same employer as ARTC 450 or 451 for a minimum of 13 weeks full-time. Reflective assignments required. Credit will be granted for only one of ARTC 460 and 461. This course is not eligible for Credit/D/Fail grading. Restricted to students in the Arts Co-operative Education Program."}
+{
+  "course_name": "ARTC 461",
+  "subject_code": "ARTC",
+  "course_number": "461",
+  "course_title": "Arts Co-op Work Term #6 (Extension)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTC&course=461&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARTC 461 01F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTC&course=461&section=01F&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Arts Co-op Undergraduate Work Term 6 Extension Fall",
+      "subject_code": "ARTC",
+      "course_number": "461",
+      "section_number": "01F",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ARTC 461 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTC&course=461&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Arts Co-op Undergraduate Work Term 6 Extension Winter",
+      "subject_code": "ARTC",
+      "course_number": "461",
+      "section_number": "01W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Extension of co-op term with the same employer as ARTC 450 or 451 for a minimum of 13 weeks full-time. Reflective assignments required. Credit will be granted for only one of ARTC 460 and 461. This course is not eligible for Credit/D/Fail grading. Restricted to students in the Arts Co-operative Education Program.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

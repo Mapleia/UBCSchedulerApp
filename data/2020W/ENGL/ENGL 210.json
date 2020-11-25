@@ -1,1 +1,44 @@
-{"course_name":"ENGL 210","subject_code":"ENGL","course_number":"210","course_title":"An Introduction to English Honours","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=210&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ENGL 210 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=210&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"FOR ENGLISH HONOURS STUDENTS ONLY.","subject_code":"ENGL","course_number":"210","section_number":"001","building":" ","room":"","instructors":["ECHARD, SIAN"],"totalRemaining":"3","currentlyRegistered":"22","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"For Honours students accepted by the English Honours Committee on the recommendation of the instructor. Students permitted to take this course must take ENGL 211 concurrently."}
+{
+  "course_name": "ENGL 210",
+  "subject_code": "ENGL",
+  "course_number": "210",
+  "course_title": "An Introduction to English Honours",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ENGL 210 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=210&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "FOR ENGLISH HONOURS STUDENTS ONLY.",
+      "subject_code": "ENGL",
+      "course_number": "210",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ECHARD, SIAN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "22",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "For Honours students accepted by the English Honours Committee on the recommendation of the instructor. Students permitted to take this course must take ENGL 211 concurrently.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

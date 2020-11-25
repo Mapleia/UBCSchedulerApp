@@ -1,1 +1,125 @@
-{"course_name":"BIOL 416","subject_code":"BIOL","course_number":"416","course_title":"Principles of Conservation Biology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=416&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"BIOL 416 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:00","comments":"","subject_code":"BIOL","course_number":"416","section_number":"201","building":"Biological Sciences","room":"2200","instructors":["DAVIES, JONATHAN"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"T01":{"status":"Full","section":"BIOL 416 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"416","section_number":"T01","building":"Biological Sciences","room":"1001","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"T02":{"status":"Full","section":"BIOL 416 T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=T02&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"416","section_number":"T02","building":"Biological Sciences","room":"1001","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":"Full","section":"BIOL 416 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:00","comments":"This is the wait-list for BIOL 416-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"416","section_number":"2W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Ecological basis of conserving biological diversity and ecosystem services; application of ecological theory to global and local conservation problems in the context of economic, legal, political, and social perspectives. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "BIOL 416",
+  "subject_code": "BIOL",
+  "course_number": "416",
+  "course_title": "Principles of Conservation Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=416&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 416 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "416",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAVIES, JONATHAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 416 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "416",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 416 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "416",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "BIOL 416 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=416&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "This is the wait-list for BIOL 416-201.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "416",
+      "section_number": "2W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Ecological basis of conserving biological diversity and ecosystem services; application of ecological theory to global and local conservation problems in the context of economic, legal, political, and social perspectives. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

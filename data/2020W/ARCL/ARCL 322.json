@@ -1,1 +1,44 @@
-{"course_name":"ARCL 322","subject_code":"ARCL","course_number":"322","course_title":"Archaeological Foundations of East and Southeast Asia","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=322&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARCL 322 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=322&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ARCL","course_number":"322","section_number":"001","building":" ","room":"","instructors":["JING, ZHICHUN"],"totalRemaining":"16","currentlyRegistered":"34","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of the archaeology of East and Southeast Asia, with an emphasis on the beginnings of the economic, social, political, and artistic traditions and systems of the great civilizations, and the conditions in which they arose. Theories of cultural development emphasizing Neolithic and state-level societies will be discussed."}
+{
+  "course_name": "ARCL 322",
+  "subject_code": "ARCL",
+  "course_number": "322",
+  "course_title": "Archaeological Foundations of East and Southeast Asia",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=322&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 322 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=322&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARCL",
+      "course_number": "322",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JING, ZHICHUN"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "34",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of the archaeology of East and Southeast Asia, with an emphasis on the beginnings of the economic, social, political, and artistic traditions and systems of the great civilizations, and the conditions in which they arose. Theories of cultural development emphasizing Neolithic and state-level societies will be discussed.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

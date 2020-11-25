@@ -1,1 +1,44 @@
-{"course_name":"PHYS 523B","subject_code":"PHYS","course_number":"523B","course_title":"Quantum Electronics and Nonlinear Optics - QNTM ELEC&NLNR","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=523B&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"PHYS 523B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=523B&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"14:00","end":"15:30","comments":"","subject_code":"PHYS","course_number":"523B","section_number":"201","building":" ","room":"","instructors":["RAUSSENDORF, ROBERT"],"totalRemaining":"17","currentlyRegistered":"3","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Macroscopic and microscopic treatments of linear and non-linear response to electromagnetic fields."}
+{
+  "course_name": "PHYS 523B",
+  "subject_code": "PHYS",
+  "course_number": "523B",
+  "course_title": "Quantum Electronics and Nonlinear Optics - QNTM ELEC&NLNR",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=523B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 523B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=523B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "523B",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RAUSSENDORF, ROBERT"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "3",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Macroscopic and microscopic treatments of linear and non-linear response to electromagnetic fields.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

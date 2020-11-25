@@ -1,1 +1,97 @@
-{"course_name":"EDCP 699","subject_code":"EDCP","course_number":"699","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=699&sessyr=2020&sesscd=W","sections":{"031":{"status":" ","section":"EDCP 699 031","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=031&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDCP","course_number":"699","section_number":"031","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"73","currentlyRegistered":"7","generalRemaining":"73","restrictedRemaining":"0"},"032":{"status":" ","section":"EDCP 699 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=032&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDCP","course_number":"699","section_number":"032","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"},"033":{"status":" ","section":"EDCP 699 033","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=033&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"EDCP","course_number":"699","section_number":"033","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"45","currentlyRegistered":"40","generalRemaining":"45","restrictedRemaining":"0"}},"credits":"Credits: 0","description":"Pass/Fail."}
+{
+  "course_name": "EDCP 699",
+  "subject_code": "EDCP",
+  "course_number": "699",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=699&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDCP 699 031",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=031&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "699",
+      "section_number": "031",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "73",
+      "currentlyRegistered": "7",
+      "generalRemaining": "73",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EDCP 699 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=032&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "699",
+      "section_number": "032",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EDCP 699 033",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=699&section=033&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "699",
+      "section_number": "033",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "45",
+      "currentlyRegistered": "40",
+      "generalRemaining": "45",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

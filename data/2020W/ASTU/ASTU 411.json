@@ -1,1 +1,70 @@
-{"course_name":"ASTU 411","subject_code":"ASTU","course_number":"411","course_title":"Co-operative Work Placement IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=411&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"ASTU 411 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=411&section=101&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTU","course_number":"411","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"ASTU 411 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=411&section=201&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTU","course_number":"411","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report."}
+{
+  "course_name": "ASTU 411",
+  "subject_code": "ASTU",
+  "course_number": "411",
+  "course_title": "Co-operative Work Placement IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASTU 411 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=411&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "411",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASTU 411 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=411&section=201&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "411",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

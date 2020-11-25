@@ -1,1 +1,74 @@
-{"course_name":"CHEM 305","subject_code":"CHEM","course_number":"305","course_title":"Biophysical Chemistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=305&sessyr=2020&sesscd=W","sections":{"211":{"status":" ","section":"CHEM 305 211","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=305&section=211&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"CHEM","course_number":"305","section_number":"211","building":"Chemistry","room":"D200","instructors":["STRAUS, SUZANA"],"totalRemaining":"62","currentlyRegistered":"38","generalRemaining":"62","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CHEM 305 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=305&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.","subject_code":"CHEM","course_number":"305","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Diffusion and transport phenomena; interaction of radiation and matter. Methods for determining molecular weight, size, and shape of molecules in solution."}
+{
+  "course_name": "CHEM 305",
+  "subject_code": "CHEM",
+  "course_number": "305",
+  "course_title": "Biophysical Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 305 211",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=305&section=211&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "305",
+      "section_number": "211",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STRAUS, SUZANA"
+      ],
+      "totalRemaining": "62",
+      "currentlyRegistered": "38",
+      "generalRemaining": "62",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 305 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=305&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "You will be moved into active registration IF space becomes available. Timetables MAY BE MODIFIED to allow conflict-free registration.  Waitlisting does not guarantee placement in this course. If you are waitlisted, it is recommended that you access the SSC periodically to check your status. It is YOUR responsibility to check the SSC for registration changes.",
+      "subject_code": "CHEM",
+      "course_number": "305",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Diffusion and transport phenomena; interaction of radiation and matter. Methods for determining molecular weight, size, and shape of molecules in solution.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

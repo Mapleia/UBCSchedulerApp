@@ -1,1 +1,73 @@
-{"course_name":"ENGL 344","subject_code":"ENGL","course_number":"344","course_title":"Middle English Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=344&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 344 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=344&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"ENGL","course_number":"344","section_number":"001","building":"Mathematics","room":"104","instructors":["PARELES, MARISSA"],"totalRemaining":"31","currentlyRegistered":"14","generalRemaining":"31","restrictedRemaining":"0"},"002":{"status":" ","section":"ENGL 344 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=344&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ENGL","course_number":"344","section_number":"002","building":" ","room":"","instructors":["ECHARD, SIAN"],"totalRemaining":"4","currentlyRegistered":"41","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Please see the Department website for further information on topics offered in the current session. May encompass multiple genres and contexts. Consult department website for current year's offerings."}
+{
+  "course_name": "ENGL 344",
+  "subject_code": "ENGL",
+  "course_number": "344",
+  "course_title": "Middle English Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 344 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=344&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "344",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PARELES, MARISSA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "14",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 344 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=344&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "344",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ECHARD, SIAN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "41",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Please see the Department website for further information on topics offered in the current session. May encompass multiple genres and contexts. Consult department website for current year's offerings.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

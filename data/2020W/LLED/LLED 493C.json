@@ -1,1 +1,43 @@
-{"course_name":"LLED 493C","subject_code":"LLED","course_number":"493C","course_title":"Supervised Study in Modern Languages Education - SPR ST MDN LANG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=493C&sessyr=2020&sesscd=W","sections":{"003":{"status":"Blocked","section":"LLED 493C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=493C&section=003&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"LLED 491, 492, AND 493 ARE NOT AVAILABLE FOR REGISTRATION WITHOUT DEPARTMENTAL APPROVAL.","subject_code":"LLED","course_number":"493C","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "LLED 493C",
+  "subject_code": "LLED",
+  "course_number": "493C",
+  "course_title": "Supervised Study in Modern Languages Education - SPR ST MDN LANG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=493C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 493C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=493C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "LLED 491, 492, AND 493 ARE NOT AVAILABLE FOR REGISTRATION WITHOUT DEPARTMENTAL APPROVAL.",
+      "subject_code": "LLED",
+      "course_number": "493C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

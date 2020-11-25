@@ -1,1 +1,43 @@
-{"course_name":"PSYC 312A","subject_code":"PSYC","course_number":"312A","course_title":"History of Psychology - PSYCHOLOGY HIST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=312A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PSYC 312A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=312A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"PSYC","course_number":"312A","section_number":"001","building":" ","room":"","instructors":["KINGSTONE, ALAN FORBES"],"totalRemaining":"5","currentlyRegistered":"61","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"The principal trends of psychological explanation and events in the history of psychology from the earliest times to the present. Open only to Major or Honours students or by permission of the instructor."}
+{
+  "course_name": "PSYC 312A",
+  "subject_code": "PSYC",
+  "course_number": "312A",
+  "course_title": "History of Psychology - PSYCHOLOGY HIST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=312A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PSYC 312A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=312A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "312A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KINGSTONE, ALAN FORBES"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "63",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "The principal trends of psychological explanation and events in the history of psychology from the earliest times to the present. Open only to Major or Honours students or by permission of the instructor.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,74 @@
-{"course_name":"PHIL 338","subject_code":"PHIL","course_number":"338","course_title":"Philosophy of Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=338&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 338 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=338&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"COVID-19 notice: this course will feature both synchronous and asynchronous components. Students will be asked to attend online lectures and discussions on Wednesdays (1:00 - 1:30 PM) and Fridays (1:00 - 1:50 PM) each week. Overview: We live in a society where the rule of law is taken for granted. We think that we should respect the legal system, obey the law, and be punished if we violate any law. But what is law? What makes a law a law and what distinguishes it from other rules such as etiquette? What is the rule of law and why is it valuable? Do we always have an obligation to obey the law? This course aims to explore these issues and demonstrate their relevance to our lives.","subject_code":"PHIL","course_number":"338","section_number":"001","building":" ","room":"","instructors":["CHAN, IRWIN"],"totalRemaining":"16","currentlyRegistered":"74","generalRemaining":"16","restrictedRemaining":"0"},"002":{"status":" ","section":"PHIL 338 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=338&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"PHIL","course_number":"338","section_number":"002","building":"Buchanan","room":"B213","instructors":["BITTNER, THOMAS JACOB"],"totalRemaining":"14","currentlyRegistered":"64","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Concepts of law, constitution and sovereignty; law and morality; natural law theories and legal positivism; obligation, responsibility, and punishment."}
+{
+  "course_name": "PHIL 338",
+  "subject_code": "PHIL",
+  "course_number": "338",
+  "course_title": "Philosophy of Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=338&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 338 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=338&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "COVID-19 notice: this course will feature both synchronous and asynchronous components. Students will be asked to attend online lectures and discussions on Wednesdays (1:00 - 1:30 PM) and Fridays (1:00 - 1:50 PM) each week. Overview: We live in a society where the rule of law is taken for granted. We think that we should respect the legal system, obey the law, and be punished if we violate any law. But what is law? What makes a law a law and what distinguishes it from other rules such as etiquette? What is the rule of law and why is it valuable? Do we always have an obligation to obey the law? This course aims to explore these issues and demonstrate their relevance to our lives.",
+      "subject_code": "PHIL",
+      "course_number": "338",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHAN, IRWIN"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "74",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 338 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=338&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "We will investigate some of the main philosophical problems that arise in connection with law in general and with the legal system of Canada in particular. Class meetings will use a lecture/discussion format and take place entirely online on Zoom. Mondays and Wednesdays will be lectures with attendance required. They will be recorded, so that students living in distant time zones can view them during their daylight hours. Friday class meetings will be used for class discussion, assessment (quizzes and exams), and student presentations.",
+      "subject_code": "PHIL",
+      "course_number": "338",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BITTNER, THOMAS JACOB"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "67",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts of law, constitution and sovereignty; law and morality; natural law theories and legal positivism; obligation, responsibility, and punishment.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

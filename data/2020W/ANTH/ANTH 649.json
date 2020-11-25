@@ -1,1 +1,103 @@
-{"course_name":"ANTH 649","subject_code":"ANTH","course_number":"649","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=649&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ANTH 649 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"649","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"4","generalRemaining":"36","restrictedRemaining":"0"},"002":{"status":" ","section":"ANTH 649 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"649","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"4","generalRemaining":"36","restrictedRemaining":"0"},"003":{"status":" ","section":"ANTH 649 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=003&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"649","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"13","currentlyRegistered":"32","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "ANTH 649",
+  "subject_code": "ANTH",
+  "course_number": "649",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=649&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 649 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "649",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "37",
+      "currentlyRegistered": "3",
+      "generalRemaining": "37",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ANTH 649 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "649",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "4",
+      "generalRemaining": "36",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ANTH 649 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=649&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "649",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "33",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"SOWK 654","subject_code":"SOWK","course_number":"654","course_title":"Advanced Qualitative Inquiry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=654&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 654 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=654&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"","subject_code":"SOWK","course_number":"654","section_number":"001","building":"Jack Bell Building for the School of Social Work","room":"326","instructors":["O'CONNOR, DEBORAH"],"totalRemaining":"6","currentlyRegistered":"4","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 654",
+  "subject_code": "SOWK",
+  "course_number": "654",
+  "course_title": "Advanced Qualitative Inquiry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=654&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 654 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=654&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "654",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "O'CONNOR, DEBORAH"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "4",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MINE 493","subject_code":"MINE","course_number":"493","course_title":"Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=493&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"MINE 493 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=493&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"12:00","end":"13:00","comments":"","subject_code":"MINE","course_number":"493","section_number":"001","building":" ","room":"","instructors":["VEIGA, MARCELLO"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 1","description":"Oral presentation of a technical nature. Use of closed circuit television for personal evaluation."}
+{
+  "course_name": "MINE 493",
+  "subject_code": "MINE",
+  "course_number": "493",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=493&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 493 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=493&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "493",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VEIGA, MARCELLO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 1,
+  "description": "Oral presentation of a technical nature. Use of closed circuit television for personal evaluation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

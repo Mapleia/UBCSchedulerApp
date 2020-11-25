@@ -1,1 +1,103 @@
-{"course_name":"APBI 314","subject_code":"APBI","course_number":"314","course_title":"Animals and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=314&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"APBI 314 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"APBI","course_number":"314","section_number":"001","building":" ","room":"","instructors":["FRASER, DAVID","VON KEYSERLINGK, MARINA","ARANT, MEGAN","RUSSELL, ELIZABETH","XENAKIS, KONSTANTINA"],"totalRemaining":"6","currentlyRegistered":"124","generalRemaining":"0","restrictedRemaining":"6"},"003":{"status":"Restricted","section":"APBI 314 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"12:30","end":"15:30","comments":"","subject_code":"APBI","course_number":"314","section_number":"003","building":"Leonard S. Klinck","room":"460","instructors":["MACRAE, AMELIA"],"totalRemaining":"4","currentlyRegistered":"61","generalRemaining":"0","restrictedRemaining":"4"},"0W1":{"status":" ","section":"APBI 314 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"This is a Wait List Section for APBI 314 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"APBI","course_number":"314","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Contemporary use of animals for food production, companionship, recreation and science; social and ethical issues concerning human impacts on animals; animals in human culture; protection of animals by society and the law."}
+{
+  "course_name": "APBI 314",
+  "subject_code": "APBI",
+  "course_number": "314",
+  "course_title": "Animals and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=314&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APBI 314 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "314",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FRASER, DAVID",
+        "VON KEYSERLINGK, MARINA",
+        "ARANT, MEGAN",
+        "RUSSELL, ELIZABETH",
+        "XENAKIS, KONSTANTINA"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "123",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "APBI 314 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "314",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACRAE, AMELIA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "63",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": " ",
+      "section": "APBI 314 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=314&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for APBI 314 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "314",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Contemporary use of animals for food production, companionship, recreation and science; social and ethical issues concerning human impacts on animals; animals in human culture; protection of animals by society and the law.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

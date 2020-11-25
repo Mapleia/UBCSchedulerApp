@@ -1,1 +1,96 @@
-{"course_name":"BUSI 294","subject_code":"BUSI","course_number":"294","course_title":"Introductory Management Accounting","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=294&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BUSI 294 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"294","section_number":"101","building":" ","room":"","instructors":["MACLEAN, MEGAN"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Blocked","section":"BUSI 294 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"294","section_number":"102","building":" ","room":"","instructors":["MCGUINNESS, ALINA"],"totalRemaining":"0","currentlyRegistered":"67","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Blocked","section":"BUSI 294 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"294","section_number":"202","building":" ","room":"","instructors":["MACLEAN, MEGAN"],"totalRemaining":"0","currentlyRegistered":"22","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the development and use of accounting information for management planning and control, and the development of cost information for financial reports."}
+{
+  "course_name": "BUSI 294",
+  "subject_code": "BUSI",
+  "course_number": "294",
+  "course_title": "Introductory Management Accounting",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=294&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 294 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "294",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACLEAN, MEGAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 294 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "294",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCGUINNESS, ALINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "66",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 294 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=294&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "294",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NORWOOD, PETER"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the development and use of accounting information for management planning and control, and the development of cost information for financial reports.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,177 @@
-{"course_name":"CPSC 330","subject_code":"CPSC","course_number":"330","course_title":"Applied Machine Learning","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=330&sessyr=2020&sesscd=W","sections":{"102":{"status":"Full","section":"CPSC 330 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPSC","course_number":"330","section_number":"102","building":" ","room":"","instructors":["GELBART, MICHAEL"],"totalRemaining":"0","currentlyRegistered":"196","generalRemaining":"0","restrictedRemaining":"0"},"T1A":{"status":" ","section":"CPSC 330 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"","subject_code":"CPSC","course_number":"330","section_number":"T1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"43","generalRemaining":"2","restrictedRemaining":"0"},"T1B":{"status":"Full","section":"CPSC 330 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"CPSC","course_number":"330","section_number":"T1B","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"T1C":{"status":" ","section":"CPSC 330 T1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1C&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"","subject_code":"CPSC","course_number":"330","section_number":"T1C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"42","generalRemaining":"3","restrictedRemaining":"0"},"T1D":{"status":" ","section":"CPSC 330 T1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1D&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Thu","start":"17:00","end":"18:00","comments":"","subject_code":"CPSC","course_number":"330","section_number":"T1D","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"43","generalRemaining":"2","restrictedRemaining":"0"},"1W2":{"status":"Blocked","section":"CPSC 330 1W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=1W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPSC","course_number":"330","section_number":"1W2","building":" ","room":"","instructors":["GELBART, MICHAEL"],"totalRemaining":"999","currentlyRegistered":"0","generalRemaining":"999","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results."}
+{
+  "course_name": "CPSC 330",
+  "subject_code": "CPSC",
+  "course_number": "330",
+  "course_title": "Applied Machine Learning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 330 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GELBART, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "194",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 330 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "43",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 330 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 330 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "41",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CPSC 330 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "43",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 330 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=330&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "330",
+      "section_number": "1W2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GELBART, MICHAEL"
+      ],
+      "totalRemaining": "999",
+      "currentlyRegistered": "0",
+      "generalRemaining": "999",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

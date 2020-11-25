@@ -1,1 +1,70 @@
-{"course_name":"AUDI 547C","subject_code":"AUDI","course_number":"547C","course_title":"Directed Reading in Audiology and Speech Sciences - DIR READ AUDI&SP","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=547C&sessyr=2020&sesscd=W","sections":{"003":{"status":" ","section":"AUDI 547C 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547C&section=003&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This course has been renamed and renumbered to AUDI 540","subject_code":"AUDI","course_number":"547C","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"40","restrictedRemaining":"0"},"006":{"status":" ","section":"AUDI 547C 006","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547C&section=006&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course has now been renamed and renumbered as AUDI 540","subject_code":"AUDI","course_number":"547C","section_number":"006","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"40","currentlyRegistered":"0","generalRemaining":"40","restrictedRemaining":"0"}},"credits":"Credits: 1","description":"May be taken more than once."}
+{
+  "course_name": "AUDI 547C",
+  "subject_code": "AUDI",
+  "course_number": "547C",
+  "course_title": "Directed Reading in Audiology and Speech Sciences - DIR READ AUDI&SP",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=547C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 547C 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547C&section=003&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course has been renamed and renumbered to AUDI 540",
+      "subject_code": "AUDI",
+      "course_number": "547C",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "AUDI 547C 006",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=547C&section=006&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course has now been renamed and renumbered as AUDI 540",
+      "subject_code": "AUDI",
+      "course_number": "547C",
+      "section_number": "006",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "0",
+      "generalRemaining": "40",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": "May be taken more than once.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

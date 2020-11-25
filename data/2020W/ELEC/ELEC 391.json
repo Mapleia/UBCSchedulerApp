@@ -1,1 +1,179 @@
-{"course_name":"ELEC 391","subject_code":"ELEC","course_number":"391","course_title":"Electrical Engineering Design Studio II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=391&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"ELEC 391 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"15:00","end":"17:00","comments":"","subject_code":"ELEC","course_number":"391","section_number":"201","building":"West Mall Swing Space","room":"222","instructors":["STOCCO, LEO"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":"Full","section":"ELEC 391 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"15:30","comments":"","subject_code":"ELEC","course_number":"391","section_number":"L2A","building":"UBC Life Building","room":"2534","instructors":["STOCCO, LEO"],"totalRemaining":"0","currentlyRegistered":"73","generalRemaining":"0","restrictedRemaining":"0"},"L2B":{"status":"STT","section":"ELEC 391 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Thu","start":"8:00","end":"11:00","comments":"","subject_code":"ELEC","course_number":"391","section_number":"L2B","building":"UBC Life Building","room":"2534","instructors":["STOCCO, LEO"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2C":{"status":" ","section":"ELEC 391 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Thu","start":"17:30","end":"20:30","comments":"","subject_code":"ELEC","course_number":"391","section_number":"L2C","building":"UBC Life Building","room":"2534","instructors":["STOCCO, LEO"],"totalRemaining":"18","currentlyRegistered":"52","generalRemaining":"18","restrictedRemaining":"0"},"L2W":{"status":" ","section":"ELEC 391 L2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"391","section_number":"L2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"33","currentlyRegistered":"7","generalRemaining":"33","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 391 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"391","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"32","currentlyRegistered":"8","generalRemaining":"32","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Introduction to project management.  Problem definition.  Design principles and practices.  Implementation techniques including circuit design, software design, solid modelling, PCBs, assembling, and packaging.  Testing and evaluation.  Effective presentations."}
+{
+  "course_name": "ELEC 391",
+  "subject_code": "ELEC",
+  "course_number": "391",
+  "course_title": "Electrical Engineering Design Studio II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=391&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ELEC 391 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STOCCO, LEO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 391 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STOCCO, LEO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "73",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "STT",
+      "section": "ELEC 391 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STOCCO, LEO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 391 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:30",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STOCCO, LEO"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "56",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 391 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "9",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 391 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=391&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "391",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "9",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Introduction to project management.  Problem definition.  Design principles and practices.  Implementation techniques including circuit design, software design, solid modelling, PCBs, assembling, and packaging.  Testing and evaluation.  Effective presentations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

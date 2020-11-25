@@ -1,1 +1,71 @@
-{"course_name":"ASTR 403","subject_code":"ASTR","course_number":"403","course_title":"Cosmology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=403&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ASTR 403 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=403&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Note PHYS 250 is also an eligible prerequisite. Students with PHYS 250 wanting to register in this course please contact the Physics  and  Astronomy Undergrad Program Coordinator with your student number for registraiton help.","subject_code":"ASTR","course_number":"403","section_number":"201","building":"Hennings","room":"304","instructors":["SCOTT, DOUGLAS"],"totalRemaining":"10","currentlyRegistered":"40","generalRemaining":"10","restrictedRemaining":"0"},"20W":{"status":" ","section":"ASTR 403 20W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=403&section=20W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTR","course_number":"403","section_number":"20W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the study of the Universe as a whole. Foundations of the Hot Big Bang model, the early Universe, nucleosynthesis, the cosmic microwave background, large-scale structure, galaxy formation and quasars. Credit will be granted for only one of ASTR 403 or PHYS 571."}
+{
+  "course_name": "ASTR 403",
+  "subject_code": "ASTR",
+  "course_number": "403",
+  "course_title": "Cosmology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTR&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASTR 403 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=403&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Note PHYS 250 is also an eligible prerequisite. Students with PHYS 250 wanting to register in this course please contact the Physics  and  Astronomy Undergrad Program Coordinator with your student number for registraiton help.",
+      "subject_code": "ASTR",
+      "course_number": "403",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCOTT, DOUGLAS"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "38",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASTR 403 20W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTR&course=403&section=20W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTR",
+      "course_number": "403",
+      "section_number": "20W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the study of the Universe as a whole. Foundations of the Hot Big Bang model, the early Universe, nucleosynthesis, the cosmic microwave background, large-scale structure, galaxy formation and quasars. Credit will be granted for only one of ASTR 403 or PHYS 571.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

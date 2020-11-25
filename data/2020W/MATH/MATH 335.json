@@ -1,1 +1,103 @@
-{"course_name":"MATH 335","subject_code":"MATH","course_number":"335","course_title":"Introduction to Mathematics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=335&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MATH 335 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"Please register on the wait list when the course is full. MATH 335 has limited capacity. NOTE:  MATH 335 is not required for admission to BC elementary education programs. The Ministry of Education required teacher candidates to have 3 credits of university level mathematics, and specific courses are not listed. The prerequisites for this course will be strictly enforced; in particular, if you have taken a credited UBC MATH course, you are not eligible to take MATH 335.","subject_code":"MATH","course_number":"335","section_number":"201","building":"Mathematics","room":"102","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"202":{"status":"Restricted","section":"MATH 335 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"15:00","comments":"This section is for stduents in the NITE program","subject_code":"MATH","course_number":"335","section_number":"202","building":" ","room":"","instructors":["31","19","0","31","","with one of the following versions: NITE\n\n"],"totalRemaining":"with one of the following versions: NITE\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL2":{"status":"Full","section":"MATH 335 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"NOTE:  This is a wait list for MATH 335 201.  Wait list does not guarantee placement in this course. Students will be screened from this wait list. The prerequisites for this course will be strictly enforced. In particular, students with any UBC MATH credits will not be permitted to register.","subject_code":"MATH","course_number":"335","section_number":"WL2","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "MATH 335",
+  "subject_code": "MATH",
+  "course_number": "335",
+  "course_title": "Introduction to Mathematics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=335&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MATH 335 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Please register on the wait list when the course is full. MATH 335 has limited capacity. NOTE:  MATH 335 is not required for admission to BC elementary education programs. The Ministry of Education required teacher candidates to have 3 credits of university level mathematics, and specific courses are not listed. The prerequisites for this course will be strictly enforced; in particular, if you have taken a credited UBC MATH course, you are not eligible to take MATH 335.",
+      "subject_code": "MATH",
+      "course_number": "335",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "MATH 335 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "This section is for stduents in the NITE program",
+      "subject_code": "MATH",
+      "course_number": "335",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "30",
+        "20",
+        "0",
+        "30",
+        "",
+        "with one of the following versions: NITE\n\n"
+      ],
+      "totalRemaining": "with one of the following versions: NITE\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Full",
+      "section": "MATH 335 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=335&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "NOTE:  This is a wait list for MATH 335 201.  Wait list does not guarantee placement in this course. Students will be screened from this wait list. The prerequisites for this course will be strictly enforced. In particular, students with any UBC MATH credits will not be permitted to register.",
+      "subject_code": "MATH",
+      "course_number": "335",
+      "section_number": "WL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "7",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

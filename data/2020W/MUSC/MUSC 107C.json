@@ -1,1 +1,75 @@
-{"course_name":"MUSC 107C","subject_code":"MUSC","course_number":"107C","course_title":"Composition I - COMPOSITION I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=107C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 107C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=107C&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Mon","start":"12:00","end":"13:00","comments":"FOR BMUS - Section for Composition Major students only.  (Non composition majors should contact Dr. Chatman for permission to register in Section 002.) Interested students should contact Dr. Chatman and submit one or two representative scores. Two years of university-level theory are recommended, but not required. COMP majors only are required to attend the Monday noon composition seminar.2020W Term 1 Format: Students will attend a weekly online seminar on Fridays 10 am - noon, a weekly online seminar on Mondays from noon-1 pm, and a 30-minute online composition lesson for 30 minutes each week at a time to be arranged with the instructor.1st term instructor: Dr. Chang; 2nd term instructor: Dr. Chatman","subject_code":"MUSC","course_number":"107C","section_number":"001","building":" ","room":"","instructors":["CARRABRE, THOMAS","CHANG BORTOLUSSI, DOROTHY","CHATMAN, STEPHEN","HAMEL, KEITH","MORLOCK, JOCELYN"],"totalRemaining":"4","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"4"},"002":{"status":"Blocked","section":"MUSC 107C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=107C&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Fri","start":"10:00","end":"12:00","comments":"Section for Non-Composition Majors Only.  Please contact instructor for permission to register.","subject_code":"MUSC","course_number":"107C","section_number":"002","building":" ","room":"","instructors":["CHANG BORTOLUSSI, DOROTHY","CHATMAN, STEPHEN","HAMEL, KEITH"],"totalRemaining":"0","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"An introduction to musical composition."}
+{
+  "course_name": "MUSC 107C",
+  "subject_code": "MUSC",
+  "course_number": "107C",
+  "course_title": "Composition I - COMPOSITION I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=107C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 107C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=107C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "FOR BMUS - Section for Composition Major students only.  (Non composition majors should contact Dr. Chatman for permission to register in Section 002.) Interested students should contact Dr. Chatman and submit one or two representative scores. Two years of university-level theory are recommended, but not required. COMP majors only are required to attend the Monday noon composition seminar.2020W Term 1 Format: Students will attend a weekly online seminar on Fridays 10 am - noon, a weekly online seminar on Mondays from noon-1 pm, and a 30-minute online composition lesson for 30 minutes each week at a time to be arranged with the instructor.1st term instructor: Dr. Chang; 2nd term instructor: Dr. Chatman",
+      "subject_code": "MUSC",
+      "course_number": "107C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARRABRE, THOMAS",
+        "CHANG BORTOLUSSI, DOROTHY",
+        "CHATMAN, STEPHEN",
+        "HAMEL, KEITH",
+        "MORLOCK, JOCELYN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "MUSC 107C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=107C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Section for Non-Composition Majors Only.  Please contact instructor for permission to register.",
+      "subject_code": "MUSC",
+      "course_number": "107C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHANG BORTOLUSSI, DOROTHY",
+        "CHATMAN, STEPHEN",
+        "HAMEL, KEITH"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "An introduction to musical composition.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

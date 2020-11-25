@@ -1,1 +1,70 @@
-{"course_name":"ENDS 482C","subject_code":"ENDS","course_number":"482C","course_title":"Special Topics - SPECIAL TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ENDS 482C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482C&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENDS","course_number":"482C","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"ENDS 482C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482C&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ENDS","course_number":"482C","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ENDS 482C",
+  "subject_code": "ENDS",
+  "course_number": "482C",
+  "course_title": "Special Topics - SPECIAL TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENDS&course=482C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ENDS 482C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482C",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ENDS 482C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENDS&course=482C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ENDS",
+      "course_number": "482C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

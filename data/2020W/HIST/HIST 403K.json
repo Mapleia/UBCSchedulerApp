@@ -1,1 +1,43 @@
-{"course_name":"HIST 403K","subject_code":"HIST","course_number":"403K","course_title":"Seminar in the History of International Relations - CONSTRUC OF RACE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403K&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"HIST 403K 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403K&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"12:00","end":"14:00","comments":"The Global Construction of RaceThis seminar examines the formation of racial ideas and the ways in which they have led to marginalization, violence, and incarceration around the world. It will draw on examples from North America, Asia, Europe, and Africa.","subject_code":"HIST","course_number":"403K","section_number":"201","building":"Buchanan","room":"B216","instructors":["SILVER, LARA"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations."}
+{
+  "course_name": "HIST 403K",
+  "subject_code": "HIST",
+  "course_number": "403K",
+  "course_title": "Seminar in the History of International Relations - CONSTRUC OF RACE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403K&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "HIST 403K 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403K&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "The Global Construction of RaceThis seminar examines the formation of racial ideas and the ways in which they have led to marginalization, violence, and incarceration around the world. It will draw on examples from North America, Asia, Europe, and Africa.HIST 403K will be entirely online and asynchronous. Students do not need to be available during listed class times to fully participate in the course.",
+      "subject_code": "HIST",
+      "course_number": "403K",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILVER, LARA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

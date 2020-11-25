@@ -1,1 +1,44 @@
-{"course_name":"LAW 352","subject_code":"LAW","course_number":"352","course_title":"Aboriginal Peoples and Canadian Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=352&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 352 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=352&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Wed","start":"15:30","end":"17:00","comments":"","subject_code":"LAW","course_number":"352","section_number":"001","building":" ","room":"","instructors":["CHRISTIE, GORDON"],"totalRemaining":"35","currentlyRegistered":"15","generalRemaining":"35","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Survey of the history and present status of the legal relationships between Canada's Aboriginal peoples and the state. Credit will be granted for only one of LAW 200 or LAW 352."}
+{
+  "course_name": "LAW 352",
+  "subject_code": "LAW",
+  "course_number": "352",
+  "course_title": "Aboriginal Peoples and Canadian Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 352 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=352&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "352",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHRISTIE, GORDON"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "15",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Survey of the history and present status of the legal relationships between Canada's Aboriginal peoples and the state. Credit will be granted for only one of LAW 200 or LAW 352.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"LAW 394","subject_code":"LAW","course_number":"394","course_title":"Mining Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=394&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 394 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=394&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"17:00","end":"20:00","comments":"","subject_code":"LAW","course_number":"394","section_number":"001","building":" ","room":"","instructors":["COLLIE, DON","MONK, ALAN"],"totalRemaining":"20","currentlyRegistered":"10","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Acquisition of mineral interests; development, financing and organization of mining companies; regulation of exploitation industry interests; management taxation. Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 394",
+  "subject_code": "LAW",
+  "course_number": "394",
+  "course_title": "Mining Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=394&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 394 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=394&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "394",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "COLLIE, DON",
+        "MONK, ALAN"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "10",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Acquisition of mineral interests; development, financing and organization of mining companies; regulation of exploitation industry interests; management taxation. Not offered each year, consult Faculty.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

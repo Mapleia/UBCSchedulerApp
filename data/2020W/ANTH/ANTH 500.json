@@ -1,1 +1,43 @@
-{"course_name":"ANTH 500","subject_code":"ANTH","course_number":"500","course_title":"History of Anthropological Thought","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=500&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ANTH 500 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=500&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Thu","start":"15:00","end":"18:00","comments":"","subject_code":"ANTH","course_number":"500","section_number":"001","building":" ","room":"","instructors":["BLACKBURN, CAROLE"],"totalRemaining":"4","currentlyRegistered":"11","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Various approaches to anthropology, from classical to contemporary."}
+{
+  "course_name": "ANTH 500",
+  "subject_code": "ANTH",
+  "course_number": "500",
+  "course_title": "History of Anthropological Thought",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=500&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 500 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=500&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "500",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLACKBURN, CAROLE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "11",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Various approaches to anthropology, from classical to contemporary.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"AUDI 540","subject_code":"AUDI","course_number":"540","course_title":"Approaches to Audiology and Speech-Language Pathology for People of First Nations, Métis or Inuit Heritage","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=540&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 540 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Part 1 of the First Nations course","subject_code":"AUDI","course_number":"540","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["CIOCCA, VALTER"],"totalRemaining":"12","currentlyRegistered":"48","generalRemaining":"12","restrictedRemaining":"0"},"002":{"status":" ","section":"AUDI 540 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=002&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Part 2 of the First Nations course","subject_code":"AUDI","course_number":"540","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["CIOCCA, VALTER"],"totalRemaining":"18","currentlyRegistered":"42","generalRemaining":"18","restrictedRemaining":"0"},"003":{"status":" ","section":"AUDI 540 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=003&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"540","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["CIOCCA, VALTER"],"totalRemaining":"45","currentlyRegistered":"1","generalRemaining":"45","restrictedRemaining":"0"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "AUDI 540",
+  "subject_code": "AUDI",
+  "course_number": "540",
+  "course_title": "Approaches to Audiology and Speech-Language Pathology for People of First Nations, Métis or Inuit Heritage",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=540&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 540 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Part 1 of the First Nations course",
+      "subject_code": "AUDI",
+      "course_number": "540",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CIOCCA, VALTER"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "48",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "AUDI 540 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Part 2 of the First Nations course",
+      "subject_code": "AUDI",
+      "course_number": "540",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CIOCCA, VALTER"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "43",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "AUDI 540 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=540&section=003&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "540",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "CIOCCA, VALTER"
+      ],
+      "totalRemaining": "45",
+      "currentlyRegistered": "1",
+      "generalRemaining": "45",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

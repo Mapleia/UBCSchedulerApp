@@ -1,1 +1,43 @@
-{"course_name":"CHBE 598","subject_code":"CHBE","course_number":"598","course_title":"Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=598&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CHBE 598 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=598&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"13:00","end":"15:00","comments":"","subject_code":"CHBE","course_number":"598","section_number":"001","building":"Chemical and Biological Engineering Building","room":"102","instructors":["LAU, ANTHONY K"],"totalRemaining":"103","currentlyRegistered":"77","generalRemaining":"86","restrictedRemaining":"17"}},"credits":"Credits: 1","description":"Current topics in chemical and biological engineering research. A required seminar for all thesis graduate students (M.Sc., M.A.Sc., and Ph.D.) in the Department of Chemical and Biological Engineering."}
+{
+  "course_name": "CHBE 598",
+  "subject_code": "CHBE",
+  "course_number": "598",
+  "course_title": "Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=598&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHBE 598 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=598&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "598",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAU, ANTHONY K"
+      ],
+      "totalRemaining": "105",
+      "currentlyRegistered": "75",
+      "generalRemaining": "86",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": 1,
+  "description": "Current topics in chemical and biological engineering research. A required seminar for all thesis graduate students (M.Sc., M.A.Sc., and Ph.D.) in the Department of Chemical and Biological Engineering.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

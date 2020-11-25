@@ -1,1 +1,97 @@
-{"course_name":"UFOR 330","subject_code":"UFOR","course_number":"330","course_title":"Environmental Justice and Urban Green Equity ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=330&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"UFOR 330 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=330&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:00","end":"13:30","comments":"","subject_code":"UFOR","course_number":"330","section_number":"201","building":"Pharmaceutical Sciences Building","room":"3208","instructors":["NESBITT, LORIEN"],"totalRemaining":"9","currentlyRegistered":"51","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theory, concepts and applications of urban green equity and urban environmental justice with particular focus on implications for urban forest policy, planning, management, and design."}
+{
+  "course_name": "UFOR 330",
+  "subject_code": "UFOR",
+  "course_number": "330",
+  "course_title": "Environmental Justice and Urban Green Equity ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "UFOR 330 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=330&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "UFOR",
+      "course_number": "330",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NESBITT, LORIEN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "47",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "UFOR 330 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=330&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "UFOR",
+      "course_number": "330",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NESBITT, LORIEN"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "UFOR 330 T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=330&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "UFOR",
+      "course_number": "330",
+      "section_number": "T02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NESBITT, LORIEN"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory, concepts and applications of urban green equity and urban environmental justice with particular focus on implications for urban forest policy, planning, management, and design.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

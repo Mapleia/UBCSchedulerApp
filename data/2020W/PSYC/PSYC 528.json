@@ -1,1 +1,43 @@
-{"course_name":"PSYC 528","subject_code":"PSYC","course_number":"528","course_title":"Advanced Methods in Social Psychology and Personality","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=528&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 528 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=528&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PSYC","course_number":"528","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["SCHALLER, MARK"],"totalRemaining":"2","currentlyRegistered":"10","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"To be offered in alternate years only."}
+{
+  "course_name": "PSYC 528",
+  "subject_code": "PSYC",
+  "course_number": "528",
+  "course_title": "Advanced Methods in Social Psychology and Personality",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=528&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 528 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=528&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "528",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SCHALLER, MARK"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "10",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "To be offered in alternate years only.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"EDCP 467J","subject_code":"EDCP","course_number":"467J","course_title":"Special Topics in Curriculum and Pedagogy - SP TPCS C&P","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=467J&sessyr=2020&sesscd=W","sections":{"301":{"status":"Restricted","section":"EDCP 467J 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467J&section=301&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"EDCP 467J Curriculum and Pedagogy in Junior Science: Grades 8-10This course focuses on teaching and learning in the junior science classroom that follows a hands-on Inquiry approach.This section will be offered online.","subject_code":"EDCP","course_number":"467J","section_number":"301","building":" ","room":"","instructors":["JOHNSTONE, LESLIE"],"totalRemaining":"6","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"6"},"302":{"status":"Full","section":"EDCP 467J 302","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467J&section=302&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"EDCP 467J Curriculum and Pedagogy in Junior Science: Grades 8-10This course focuses on teaching and learning in the junior science classroom that follows a hands-on Inquiry approach.This section will be offered online.","subject_code":"EDCP","course_number":"467J","section_number":"302","building":" ","room":"","instructors":["BARTOSH, OKSANA"],"totalRemaining":"0","currentlyRegistered":"31","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 467J",
+  "subject_code": "EDCP",
+  "course_number": "467J",
+  "course_title": "Special Topics in Curriculum and Pedagogy - SP TPCS C&P",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=467J&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 467J 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467J&section=301&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "EDCP 467J Curriculum and Pedagogy in Junior Science: Grades 8-10This course focuses on teaching and learning in the junior science classroom that follows a hands-on Inquiry approach.This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "467J",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "JOHNSTONE, LESLIE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    },
+    {
+      "status": "Full",
+      "section": "EDCP 467J 302",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=467J&section=302&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "EDCP 467J Curriculum and Pedagogy in Junior Science: Grades 8-10This course focuses on teaching and learning in the junior science classroom that follows a hands-on Inquiry approach.This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "467J",
+      "section_number": "302",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARTOSH, OKSANA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "31",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

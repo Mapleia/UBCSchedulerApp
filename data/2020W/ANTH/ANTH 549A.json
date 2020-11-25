@@ -1,1 +1,101 @@
-{"course_name":"ANTH 549A","subject_code":"ANTH","course_number":"549A","course_title":"Master's Thesis - MASTERS THESIS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ANTH 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"549A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"33","currentlyRegistered":"2","generalRemaining":"33","restrictedRemaining":"0"},"002":{"status":" ","section":"ANTH 549A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"549A","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"35","currentlyRegistered":"0","generalRemaining":"35","restrictedRemaining":"0"},"003":{"status":" ","section":"ANTH 549A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=003&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ANTH","course_number":"549A","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"5","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "ANTH 549A",
+  "subject_code": "ANTH",
+  "course_number": "549A",
+  "course_title": "Master's Thesis - MASTERS THESIS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "2",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ANTH 549A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "549A",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "1",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ANTH 549A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=549A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "549A",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "5",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

@@ -1,1 +1,48 @@
-{"course_name":"MEDG 420","subject_code":"MEDG","course_number":"420","course_title":"Human Genomics and Medical Genetics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=420&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MEDG 420 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=420&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:00","end":"11:00","comments":"NOTE: This is an upper level Medical Genetics course requiring independent learning, class discussion and strong background in basic genetics.  Students must have at least a 'B' grade in the prerequisites BIOL335 and BIOL338.Wait list: email Cheryl Bishop at medical.genetics@ubc.ca and include your student # and your grades in the prerequisites.","subject_code":"MEDG","course_number":"420","section_number":"001","building":" ","room":"","instructors":["EAVES, CONSTANCE JEAN","FRIEDMAN, JAN MARSHALL","MAGER, DIXIE","ROSS, COLIN","SIMPSON, ELIZABETH(Coordinator)"],"totalRemaining":"3","currentlyRegistered":"17","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Sequence and structure of the human genome. Human genetic evolution. Identification of genes affecting normal and pathological variation.  Molecular mechanisms of genetic diseases and disorders. Medical applications of human genetics."}
+{
+  "course_name": "MEDG 420",
+  "subject_code": "MEDG",
+  "course_number": "420",
+  "course_title": "Human Genomics and Medical Genetics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDG&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MEDG 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDG&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "NOTE: This is an upper level Medical Genetics course requiring independent learning, class discussion and strong background in basic genetics.  Students must have at least a 'B' grade in the prerequisites BIOL335 and BIOL338.Wait list: email Cheryl Bishop at medical.genetics@ubc.ca and include your student # and your grades in the prerequisites.",
+      "subject_code": "MEDG",
+      "course_number": "420",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "EAVES, CONSTANCE JEAN",
+        "FRIEDMAN, JAN MARSHALL",
+        "MAGER, DIXIE",
+        "ROSS, COLIN",
+        "SIMPSON, ELIZABETH(Coordinator)"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "17",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Sequence and structure of the human genome. Human genetic evolution. Identification of genes affecting normal and pathological variation.  Molecular mechanisms of genetic diseases and disorders. Medical applications of human genetics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

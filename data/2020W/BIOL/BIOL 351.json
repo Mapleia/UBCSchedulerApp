@@ -1,1 +1,192 @@
-{"course_name":"BIOL 351","subject_code":"BIOL","course_number":"351","course_title":"Plant Physiology I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=351&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 351 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"BIOL","course_number":"351","section_number":"101","building":" ","room":"","instructors":["MANSFIELD, SHAWN","BORREGO, ISAAC","LI, DONGLEI","RAKEI, AIDA"],"totalRemaining":"0","currentlyRegistered":"53","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 351 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"This is the wait-list for BIOL 351-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"351","section_number":"1W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"10"},"L10":{"status":"Blocked","section":"BIOL 351 L10","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L10&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"351","section_number":"L10","building":" ","room":"","instructors":["SINGH, SANTOKH","SINGH, SANTOKH(Coordinator)","RAKEI, AIDA"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"L11":{"status":"Blocked","section":"BIOL 351 L11","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L11&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"351","section_number":"L11","building":" ","room":"","instructors":["SINGH, SANTOKH","SINGH, SANTOKH(Coordinator)","BORREGO, ISAAC","RAKEI, AIDA"],"totalRemaining":"1","currentlyRegistered":"11","generalRemaining":"1","restrictedRemaining":"0"},"L12":{"status":"Blocked","section":"BIOL 351 L12","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L12&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"351","section_number":"L12","building":" ","room":"","instructors":["SINGH, SANTOKH","SINGH, SANTOKH(Coordinator)","BORREGO, ISAAC","LI, DONGLEI"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"},"L13":{"status":"Blocked","section":"BIOL 351 L13","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L13&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"","subject_code":"BIOL","course_number":"351","section_number":"L13","building":" ","room":"","instructors":["SINGH, SANTOKH","SINGH, SANTOKH(Coordinator)","LI, DONGLEI"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. Restricted to Majors and Honours students in Biology."}
+{
+  "course_name": "BIOL 351",
+  "subject_code": "BIOL",
+  "course_number": "351",
+  "course_title": "Plant Physiology I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=351&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANSFIELD, SHAWN",
+        "BORREGO, ISAAC",
+        "LI, DONGLEI",
+        "RAKEI, AIDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "53",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 351-101. Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office. Students are moved in chronological order from the wait-list into the course as space becomes available. Timetables may be modified to allow for conflict-free registration. It is the students responsibility to check SSC for registration changes. Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 L10",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L10&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "L10",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINGH, SANTOKH",
+        "SINGH, SANTOKH(Coordinator)",
+        "RAKEI, AIDA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 L11",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L11&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "L11",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINGH, SANTOKH",
+        "SINGH, SANTOKH(Coordinator)",
+        "BORREGO, ISAAC",
+        "RAKEI, AIDA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "11",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 L12",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L12&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "L12",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINGH, SANTOKH",
+        "SINGH, SANTOKH(Coordinator)",
+        "BORREGO, ISAAC",
+        "LI, DONGLEI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 351 L13",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=351&section=L13&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "351",
+      "section_number": "L13",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SINGH, SANTOKH",
+        "SINGH, SANTOKH(Coordinator)",
+        "LI, DONGLEI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. Restricted to Majors and Honours students in Biology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Laboratory"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"AUDI 562","subject_code":"AUDI","course_number":"562","course_title":"Pediatric Audiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=562&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 562 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=562&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"AUDI","course_number":"562","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["LOK, KELLIE"],"totalRemaining":"19","currentlyRegistered":"11","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "AUDI 562",
+  "subject_code": "AUDI",
+  "course_number": "562",
+  "course_title": "Pediatric Audiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=562&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 562 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=562&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "562",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LOK, KELLIE"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "11",
+      "generalRemaining": "19",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

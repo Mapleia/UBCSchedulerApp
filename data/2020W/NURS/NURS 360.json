@@ -1,1 +1,44 @@
-{"course_name":"NURS 360","subject_code":"NURS","course_number":"360","course_title":"Nursing Practice with Adults/Older Adults and their Families","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=360&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"NURS 360 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=360&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"NURS","course_number":"360","section_number":"001","building":" ","room":"","instructors":["MANN, DALBIR","TIPPING, JULIE ANNE"],"totalRemaining":"0","currentlyRegistered":"122","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Clinical practice to integrate and consolidate professional nursing knowledge, skills and competencies in the care of adults/older adults with stable or expected health care challenges and their families. Students who take NURS 360 cannot earn credit for NURS 303, NURS 337 or NURS 420"}
+{
+  "course_name": "NURS 360",
+  "subject_code": "NURS",
+  "course_number": "360",
+  "course_title": "Nursing Practice with Adults/Older Adults and their Families",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "NURS 360 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=360&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "360",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MANN, DALBIR",
+        "TIPPING, JULIE ANNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "122",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Clinical practice to integrate and consolidate professional nursing knowledge, skills and competencies in the care of adults/older adults with stable or expected health care challenges and their families. Students who take NURS 360 cannot earn credit for NURS 303, NURS 337 or NURS 420",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

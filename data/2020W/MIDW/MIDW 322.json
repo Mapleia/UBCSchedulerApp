@@ -1,1 +1,47 @@
-{"course_name":"MIDW 322","subject_code":"MIDW","course_number":"322","course_title":"Midwifery Primary Care","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=322&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"MIDW 322 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=322&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" Tue Wed Thu Fri","start":"9:00","end":"16:00","comments":"","subject_code":"MIDW","course_number":"322","section_number":"002","building":"To Be Announced","room":"","instructors":["BUTSKA, LUBA","ELLIS, CATHRYN"],"totalRemaining":"0","currentlyRegistered":"23","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 8","description":"Clinical course focusing on consolidation of skills and knowledge of all aspects of midwifery care."}
+{
+  "course_name": "MIDW 322",
+  "subject_code": "MIDW",
+  "course_number": "322",
+  "course_title": "Midwifery Primary Care",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MIDW&course=322&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MIDW 322 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MIDW&course=322&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "MIDW",
+      "course_number": "322",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "BUTSKA, LUBA",
+        "ELLIS, CATHRYN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "23",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 8,
+  "description": "Clinical course focusing on consolidation of skills and knowledge of all aspects of midwifery care.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

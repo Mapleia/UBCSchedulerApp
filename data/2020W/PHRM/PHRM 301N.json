@@ -1,1 +1,73 @@
-{"course_name":"PHRM 301N","subject_code":"PHRM","course_number":"301N","course_title":"Selected Topics - SELECTED TOPICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301N&sessyr=2020&sesscd=W","sections":{"001":{"status":"Temp. Unavailable","section":"PHRM 301N 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301N&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"9:00","end":"12:00","comments":"Pharmacy Practice in Acutely and Critically Ill PatientsRegistrants must have a GPA of 70% or higher in the previous winter sessionIf section is full, please register in the waitlist (PHRM 301N.WL1)","subject_code":"PHRM","course_number":"301N","section_number":"001","building":" ","room":"","instructors":["0","40","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL1":{"status":"Restricted","section":"PHRM 301N WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301N&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for PHRM 301N.001 Pharmacy Practice in Acutely  and  Critically Ill PatientsInstructor: Ms. Karen Dahri","subject_code":"PHRM","course_number":"301N","section_number":"WL1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Thesis or essay."}
+{
+  "course_name": "PHRM 301N",
+  "subject_code": "PHRM",
+  "course_number": "301N",
+  "course_title": "Selected Topics - SELECTED TOPICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=301N&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Temp. Unavailable",
+      "section": "PHRM 301N 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301N&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Pharmacy Practice in Acutely and Critically Ill PatientsRegistrants must have a GPA of 70% or higher in the previous winter sessionIf section is full, please register in the waitlist (PHRM 301N.WL1)",
+      "subject_code": "PHRM",
+      "course_number": "301N",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "40",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Restricted",
+      "section": "PHRM 301N WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=301N&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for PHRM 301N.001 Pharmacy Practice in Acutely  and  Critically Ill PatientsInstructor: Ms. Karen Dahri",
+      "subject_code": "PHRM",
+      "course_number": "301N",
+      "section_number": "WL1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Thesis or essay.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List"
+  ]
+}

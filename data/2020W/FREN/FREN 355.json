@@ -1,1 +1,45 @@
-{"course_name":"FREN 355","subject_code":"FREN","course_number":"355","course_title":"Advanced Composition","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=355&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FREN 355 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=355&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"FREN","course_number":"355","section_number":"201","building":" ","room":"","instructors":["BOUCHARD, MARIE-EVE"],"totalRemaining":"14","currentlyRegistered":"26","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Development of essay writing skills in French."}
+{
+  "course_name": "FREN 355",
+  "subject_code": "FREN",
+  "course_number": "355",
+  "course_title": "Advanced Composition",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FREN&course=355&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FREN 355 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FREN&course=355&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FREN",
+      "course_number": "355",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOUCHARD, MARIE-EVE"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "25",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Development of essay writing skills in French.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

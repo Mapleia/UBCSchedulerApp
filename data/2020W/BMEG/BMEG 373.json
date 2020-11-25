@@ -1,1 +1,75 @@
-{"course_name":"BMEG 373","subject_code":"BMEG","course_number":"373","course_title":"Microfluidics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=373&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"BMEG 373 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=373&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"This course is restricted to students in the Cellular Bioengineering and Biomechanics and Biomaterials streams in Biomedical Engineering. Students not part of one of these streams will be dropped without notification. Contact undergrad@bme.ubc.ca with any questions.","subject_code":"BMEG","course_number":"373","section_number":"101","building":" ","room":"","instructors":["TROPINI, CAROLINA"],"totalRemaining":"17","currentlyRegistered":"13","generalRemaining":"0","restrictedRemaining":"17"},"W1L":{"status":" ","section":"BMEG 373 W1L","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=373&section=W1L&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"BMEG","course_number":"373","section_number":"W1L","building":"","room":"","instructors":["30","0","30","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Advantages and disadvantages of miniaturization of complex fluid flow processes. Manipulating liquid flow; electrophoretic velocity and mobility; serial dilution; capillary electrophoresis; integrated microfluidic platforms; and blood and the motility of bacteria."}
+{
+  "course_name": "BMEG 373",
+  "subject_code": "BMEG",
+  "course_number": "373",
+  "course_title": "Microfluidics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=373&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 373 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=373&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This course is restricted to students in the Cellular Bioengineering and Biomechanics and Biomaterials streams in Biomedical Engineering. Students not part of one of these streams will be dropped without notification. Contact undergrad@bme.ubc.ca with any questions.",
+      "subject_code": "BMEG",
+      "course_number": "373",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TROPINI, CAROLINA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "13",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 373 W1L",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=373&section=W1L&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "373",
+      "section_number": "W1L",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "30",
+        "0",
+        "30",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Advantages and disadvantages of miniaturization of complex fluid flow processes. Manipulating liquid flow; electrophoretic velocity and mobility; serial dilution; capillary electrophoresis; integrated microfluidic platforms; and blood and the motility of bacteria.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

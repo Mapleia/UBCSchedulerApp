@@ -1,1 +1,43 @@
-{"course_name":"GEOG 514D","subject_code":"GEOG","course_number":"514D","course_title":"Topics in Environmental Geography - TPCS IN ENV GEOG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=514D&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"GEOG 514D 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=514D&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"GEOG","course_number":"514D","section_number":"201","building":"Geography","room":"223","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 1.5","description":" "}
+{
+  "course_name": "GEOG 514D",
+  "subject_code": "GEOG",
+  "course_number": "514D",
+  "course_title": "Topics in Environmental Geography - TPCS IN ENV GEOG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=514D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 514D 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=514D&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "In-person seminar. Remote participation requires instructor's prior approval.",
+      "subject_code": "GEOG",
+      "course_number": "514D",
+      "section_number": "201",
+      "building": "Geography",
+      "room": "223",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 5,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

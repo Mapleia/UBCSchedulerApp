@@ -1,1 +1,46 @@
-{"course_name":"DENT 725","subject_code":"DENT","course_number":"725","course_title":"Clinical Prosthodontics I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=725&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 725 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=725&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"725","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["BRYANT, S","MCCULLAGH, ANTHONY","NGUYEN, CAROLINE","WYATT, CHRISTOPHER"],"totalRemaining":"14","currentlyRegistered":"2","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "DENT 725",
+  "subject_code": "DENT",
+  "course_number": "725",
+  "course_title": "Clinical Prosthodontics I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=725&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 725 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=725&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "725",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BRYANT, S",
+        "MCCULLAGH, ANTHONY",
+        "MOSTAFA, NESRINE",
+        "WYATT, CHRISTOPHER"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "2",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

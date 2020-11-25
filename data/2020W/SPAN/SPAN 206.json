@@ -1,1 +1,127 @@
-{"course_name":"SPAN 206","subject_code":"SPAN","course_number":"206","course_title":"Conversational Spanish I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=206&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SPAN 206 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"SPAN","course_number":"206","section_number":"201","building":" ","room":"","instructors":["ESCUER RIERA, IRIS"],"totalRemaining":"10","currentlyRegistered":"25","generalRemaining":"10","restrictedRemaining":"0"},"202":{"status":" ","section":"SPAN 206 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"","subject_code":"SPAN","course_number":"206","section_number":"202","building":" ","room":"","instructors":["ESCUER RIERA, IRIS"],"totalRemaining":"5","currentlyRegistered":"30","generalRemaining":"5","restrictedRemaining":"0"},"W01":{"status":" ","section":"SPAN 206 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"SPAN 206 W01 is a general waitlist for all SPAN 206 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"SPAN","course_number":"206","section_number":"W01","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"},"W02":{"status":" ","section":"SPAN 206 W02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=W02&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"SPAN 206 W02 is a general waitlist for all SPAN 206 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.","subject_code":"SPAN","course_number":"206","section_number":"W02","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"100","currentlyRegistered":"0","generalRemaining":"100","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Emphasizes communication skills through discussion, debate, and presentations; developing oral fluency and listening comprehension, through discussion of written texts and films. May include experiential learning projects involving native speakers from the Hispanic community."}
+{
+  "course_name": "SPAN 206",
+  "subject_code": "SPAN",
+  "course_number": "206",
+  "course_title": "Conversational Spanish I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPAN&course=206&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPAN 206 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SPAN",
+      "course_number": "206",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ESCUER RIERA, IRIS"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "26",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 206 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "SPAN",
+      "course_number": "206",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ESCUER RIERA, IRIS"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "29",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 206 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPAN 206 W01 is a general waitlist for all SPAN 206 sections in Term 1.  Registering for this waitlist (W01) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W01 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "SPAN",
+      "course_number": "206",
+      "section_number": "W01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPAN 206 W02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPAN&course=206&section=W02&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SPAN 206 W02 is a general waitlist for all SPAN 206 sections in Term 2.  Registering for this waitlist (W02) serves two purposes: 1) If space opens up in any section of this course, you will be notified and/or placed automatically in the open section (W02 -> Any Section);  2) If there is sufficient demand for an additional section of this course to be offered, you will be notified when an additional section is created. Full sections will at times be blocked for registration and waitlisted students will be transferred to sections on a priority basis.",
+      "subject_code": "SPAN",
+      "course_number": "206",
+      "section_number": "W02",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "100",
+      "currentlyRegistered": "0",
+      "generalRemaining": "100",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Emphasizes communication skills through discussion, debate, and presentations; developing oral fluency and listening comprehension, through discussion of written texts and films. May include experiential learning projects involving native speakers from the Hispanic community.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

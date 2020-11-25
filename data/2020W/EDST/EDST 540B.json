@@ -1,1 +1,43 @@
-{"course_name":"EDST 540B","subject_code":"EDST","course_number":"540B","course_title":"Locating Oneself in Global Learning - GLOB LEARN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=540B&sessyr=2020&sesscd=W","sections":{"022":{"status":"Restricted","section":"EDST 540B 022","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=540B&section=022&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is restricted to students in the ALGC program.","subject_code":"EDST","course_number":"540B","section_number":"022","building":"No Scheduled Meeting","room":"","instructors":["GROSJEAN, GARNET"],"totalRemaining":"9","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 540B",
+  "subject_code": "EDST",
+  "course_number": "540B",
+  "course_title": "Locating Oneself in Global Learning - GLOB LEARN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=540B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDST 540B 022",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=540B&section=022&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restricted to students in the ALGC program.",
+      "subject_code": "EDST",
+      "course_number": "540B",
+      "section_number": "022",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "GROSJEAN, GARNET"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

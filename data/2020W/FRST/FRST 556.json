@@ -1,1 +1,71 @@
-{"course_name":"FRST 556","subject_code":"FRST","course_number":"556","course_title":"Land Information Acquisition and Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=556&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"FRST 556 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=556&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"9:00","end":"11:30","comments":"This is a restricted course for MSFM students only.","subject_code":"FRST","course_number":"556","section_number":"101","building":"Forest Sciences Centre","room":"1611","instructors":["COOPS, NICHOLAS CHARLES","LEMAY, VALERIE"],"totalRemaining":"2","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"2"},"L01":{"status":"Restricted","section":"FRST 556 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=556&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"8:30","end":"11:00","comments":"This is a restricted lab section for MSFM students only.","subject_code":"FRST","course_number":"556","section_number":"L01","building":"Forest Sciences Centre","room":"1611","instructors":["LEMAY, VALERIE"],"totalRemaining":"2","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Principles and application of data acquisition and use."}
+{
+  "course_name": "FRST 556",
+  "subject_code": "FRST",
+  "course_number": "556",
+  "course_title": "Land Information Acquisition and Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=556&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRST 556 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=556&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:30",
+      "comments": "This is a restricted course for MSFM students only.",
+      "subject_code": "FRST",
+      "course_number": "556",
+      "section_number": "101",
+      "building": "Forest Sciences Centre",
+      "room": "1611",
+      "instructors": [
+        "COOPS, NICHOLAS CHARLES",
+        "LEMAY, VALERIE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    },
+    {
+      "status": "Restricted",
+      "section": "FRST 556 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=556&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:30",
+      "end": "11:00",
+      "comments": "This is a restricted lab section for MSFM students only.",
+      "subject_code": "FRST",
+      "course_number": "556",
+      "section_number": "L01",
+      "building": "Forest Sciences Centre",
+      "room": "1611",
+      "instructors": [
+        "LEMAY, VALERIE"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and application of data acquisition and use.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

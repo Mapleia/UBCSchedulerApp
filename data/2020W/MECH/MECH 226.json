@@ -1,1 +1,48 @@
-{"course_name":"MECH 226","subject_code":"MECH","course_number":"226","course_title":"Technical Communication for Mechanical Engineers","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=226&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MECH 226 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=226&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" ","start":"","end":"","comments":"Only students who are registered in Mech 2 can take this course. This course cannot be taken independently from the rest of the Mech 2 curriculum.","subject_code":"MECH","course_number":"226","section_number":"001","building":"","room":"","instructors":["15","113","0","15","","in one of these programs: BASC\nin year: =2\nwith one of these specializations: ****MECH\n\n"],"totalRemaining":"in one of these programs: BASC\nin year: =2\nwith one of these specializations: ****MECH\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material.  Restricted to students in the second year of Mechanical Engineering."}
+{
+  "course_name": "MECH 226",
+  "subject_code": "MECH",
+  "course_number": "226",
+  "course_title": "Technical Communication for Mechanical Engineers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=226&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 226 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=226&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Only students who are registered in Mech 2 can take this course. This course cannot be taken independently from the rest of the Mech 2 curriculum.",
+      "subject_code": "MECH",
+      "course_number": "226",
+      "section_number": "001",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "15",
+        "113",
+        "0",
+        "15",
+        "",
+        "in one of these programs: BASC\nin year: =2\nwith one of these specializations: ****MECH\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BASC\nin year: =2\nwith one of these specializations: ****MECH\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material.  Restricted to students in the second year of Mechanical Engineering.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

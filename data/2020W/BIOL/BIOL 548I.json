@@ -1,1 +1,44 @@
-{"course_name":"BIOL 548I","subject_code":"BIOL","course_number":"548I","course_title":"Advanced Topics in Biology - ADV TOPICS BIOL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548I&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"BIOL 548I 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548I&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"15:00","end":"16:30","comments":"TITLE: Science WritingDESCRIPTION: This 1 credit course provides practical instruction on the writing of scientific journal articles and research proposals in zoology. The emphasis of the course is on choosing and justifying research questions, developing hypotheses, structuring manuscripts, providing and using peer evaluation, and improving your writing style. Students will be evaluated on their ability to apply the concepts learnt during lectures to the development of their own research proposal or manuscript.Location: BioSci 4223/Online","subject_code":"BIOL","course_number":"548I","section_number":"101","building":" ","room":"","instructors":["SRIVASTAVA, DIANE"],"totalRemaining":"10","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "BIOL 548I",
+  "subject_code": "BIOL",
+  "course_number": "548I",
+  "course_title": "Advanced Topics in Biology - ADV TOPICS BIOL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548I&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BIOL 548I 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548I&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "TITLE: Science WritingDESCRIPTION: This 1 credit course provides practical instruction on the writing of scientific journal articles and research proposals in zoology. The emphasis of the course is on choosing and justifying research questions, developing hypotheses, structuring manuscripts, providing and using peer evaluation, and improving your writing style. Students will be evaluated on their ability to apply the concepts learnt during lectures to the development of their own research proposal or manuscript.Location: BioSci 4223/Online",
+      "subject_code": "BIOL",
+      "course_number": "548I",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SRIVASTAVA, DIANE"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

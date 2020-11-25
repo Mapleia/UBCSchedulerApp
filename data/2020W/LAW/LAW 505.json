@@ -1,1 +1,67 @@
-{"course_name":"LAW 505","subject_code":"LAW","course_number":"505","course_title":"Canadian Public Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=505&sessyr=2020&sesscd=W","sections":{"99A":{"status":"Blocked","section":"LAW 505 99A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=505&section=99A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"A","interval":"","days":" ","start":" ","end":" ","comments":"Part of UBC Law's Distance Learning Program.  Enrolment is limited to LLMCL and Unclassified students.  For more information on eligibility and enrolment, please visit http://www.allard.ubc.ca/admissions/distance-learning-program.","subject_code":"LAW","course_number":"505","section_number":"99A","building":"No Scheduled Meeting","room":"","instructors":["DAVEY, SAMANTHA"],"totalRemaining":"2","currentlyRegistered":"23","generalRemaining":"2","restrictedRemaining":"0"},"99C":{"status":"Blocked","section":"LAW 505 99C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=505&section=99C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"C","interval":"","days":" ","start":" ","end":" ","comments":"Part of UBC Law's Distance Learning Program.  Enrolment is limited to LLMCL and Unclassified students.  For more information on eligibility and enrolment, please visit http://www.allard.ubc.ca/admissions/distance-learning-program.","subject_code":"LAW","course_number":"505","section_number":"99C","building":"No Scheduled Meeting","room":"","instructors":["DAVEY, SAMANTHA"],"totalRemaining":"9","currentlyRegistered":"14","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 5","description":" "}
+{
+  "course_name": "LAW 505",
+  "subject_code": "LAW",
+  "course_number": "505",
+  "course_title": "Canadian Public Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=505&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 505 99A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=505&section=99A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "A",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Part of UBC Law's Distance Learning Program.  Enrolment is limited to LLMCL and Unclassified students.  For more information on eligibility and enrolment, please visit http://www.allard.ubc.ca/admissions/distance-learning-program.",
+      "subject_code": "LAW",
+      "course_number": "505",
+      "section_number": "99A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DAVEY, SAMANTHA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "21",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 505 99C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=505&section=99C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "C",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Part of UBC Law's Distance Learning Program.  Enrolment is limited to LLMCL and Unclassified students.  For more information on eligibility and enrolment, please visit http://www.allard.ubc.ca/admissions/distance-learning-program.",
+      "subject_code": "LAW",
+      "course_number": "505",
+      "section_number": "99C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DAVEY, SAMANTHA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "17",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 5,
+  "description": " ",
+  "terms": [],
+  "activities": [
+    "Distance Education"
+  ]
+}

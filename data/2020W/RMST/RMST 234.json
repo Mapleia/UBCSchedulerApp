@@ -1,1 +1,44 @@
-{"course_name":"RMST 234","subject_code":"RMST","course_number":"234","course_title":"Introduction to Romance Language Cinema","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RMST&course=234&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"RMST 234 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RMST&course=234&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"Introduction to Romance Language Cinema. Full description: https://fhis.ubc.ca/course-description/rmst234/","subject_code":"RMST","course_number":"234","section_number":"101","building":" ","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "RMST 234",
+  "subject_code": "RMST",
+  "course_number": "234",
+  "course_title": "Introduction to Romance Language Cinema",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RMST&course=234&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "RMST 234 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RMST&course=234&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "Introduction to Romance Language Cinema. Full description: https://fhis.ubc.ca/course-description/rmst234/",
+      "subject_code": "RMST",
+      "course_number": "234",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

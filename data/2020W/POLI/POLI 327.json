@@ -1,1 +1,45 @@
-{"course_name":"POLI 327","subject_code":"POLI","course_number":"327","course_title":"European Integration","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=327&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"POLI 327 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=327&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"","subject_code":"POLI","course_number":"327","section_number":"001","building":" ","room":"","instructors":["HUEBNER, KURT","JACOBSEN, HENRIK"],"totalRemaining":"14","currentlyRegistered":"64","generalRemaining":"2","restrictedRemaining":"12"}},"credits":"Credits: 3","description":"Post-1945 integration of Europe, comparison of national politics and attitudes to integration, and the history and institutions of the European Union."}
+{
+  "course_name": "POLI 327",
+  "subject_code": "POLI",
+  "course_number": "327",
+  "course_title": "European Integration",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "POLI 327 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=327&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "327",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUEBNER, KURT",
+        "JACOBSEN, HENRIK"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "61",
+      "generalRemaining": "2",
+      "restrictedRemaining": "15"
+    }
+  ],
+  "credits": 3,
+  "description": "Post-1945 integration of Europe, comparison of national politics and attitudes to integration, and the history and institutions of the European Union.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

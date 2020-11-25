@@ -1,1 +1,43 @@
-{"course_name":"LLED 565D","subject_code":"LLED","course_number":"565D","course_title":"Special Course in Subject Matter Field - SPC C SUBJ MTFLD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=565D&sessyr=2020&sesscd=W","sections":{"062":{"status":" ","section":"LLED 565D 062","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=565D&section=062&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"16:30","end":"19:30","comments":"Living through our indigenous languages through performative arts.This section will be offered online.","subject_code":"LLED","course_number":"565D","section_number":"062","building":"Neville Scarfe","room":"200","instructors":["GALLA, CANDACE"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field."}
+{
+  "course_name": "LLED 565D",
+  "subject_code": "LLED",
+  "course_number": "565D",
+  "course_title": "Special Course in Subject Matter Field - SPC C SUBJ MTFLD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=565D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LLED 565D 062",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=565D&section=062&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Living through our indigenous languages through performative arts.This section will be offered online.",
+      "subject_code": "LLED",
+      "course_number": "565D",
+      "section_number": "062",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALLA, CANDACE"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

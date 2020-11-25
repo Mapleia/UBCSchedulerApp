@@ -1,1 +1,44 @@
-{"course_name":"RELG 316","subject_code":"RELG","course_number":"316","course_title":"The Origins of Christianity: Literary Contexts","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=316&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"RELG 316 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=316&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"RELG","course_number":"316","section_number":"001","building":"Buchanan","room":"B319","instructors":["PETERS, KURTIS"],"totalRemaining":"14","currentlyRegistered":"46","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The origins of Christianity as reflected in the New Testament and contemporaneous literature."}
+{
+  "course_name": "RELG 316",
+  "subject_code": "RELG",
+  "course_number": "316",
+  "course_title": "The Origins of Christianity: Literary Contexts",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=RELG&course=316&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "RELG 316 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=RELG&course=316&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "Please check cnrs.ubc.ca or contact the instructor for web-based course delivery information.",
+      "subject_code": "RELG",
+      "course_number": "316",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PETERS, KURTIS"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "49",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The origins of Christianity as reflected in the New Testament and contemporaneous literature.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

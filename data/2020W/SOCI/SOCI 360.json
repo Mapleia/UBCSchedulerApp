@@ -1,1 +1,72 @@
-{"course_name":"SOCI 360","subject_code":"SOCI","course_number":"360","course_title":"Sociology and Natural Resources","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=360&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"SOCI 360 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=360&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"18:00","end":"19:30","comments":"","subject_code":"SOCI","course_number":"360","section_number":"102","building":" ","room":"","instructors":["VADEBONCOEUR, NATHAN"],"totalRemaining":"7","currentlyRegistered":"73","generalRemaining":"7","restrictedRemaining":"0"},"202":{"status":" ","section":"SOCI 360 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=360&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"SOCI","course_number":"360","section_number":"202","building":"Chemistry","room":"C124","instructors":["TINDALL, DAVID"],"totalRemaining":"45","currentlyRegistered":"35","generalRemaining":"45","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Sociological perspectives on property, resource industries (such as agriculture, fishing, forestry and mining), resource development, and resource communities. May also include examination of social aspects of resource development in the Third World."}
+{
+  "course_name": "SOCI 360",
+  "subject_code": "SOCI",
+  "course_number": "360",
+  "course_title": "Sociology and Natural Resources",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 360 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=360&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "360",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VADEBONCOEUR, NATHAN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "73",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 360 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=360&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "360",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TINDALL, DAVID"
+      ],
+      "totalRemaining": "46",
+      "currentlyRegistered": "34",
+      "generalRemaining": "46",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Sociological perspectives on property, resource industries (such as agriculture, fishing, forestry and mining), resource development, and resource communities. May also include examination of social aspects of resource development in the Third World.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

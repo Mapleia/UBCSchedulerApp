@@ -1,1 +1,71 @@
-{"course_name":"LLED 489A","subject_code":"LLED","course_number":"489A","course_title":"Applied Linguistics for Teachers - APPL LING TEACH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=489A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LLED 489A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=489A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"Students must officially have, at least, third-year undergraduate standing or must have obtained their first degree.","subject_code":"LLED","course_number":"489A","section_number":"001","building":" ","room":"","instructors":["KOWKABI, NASRIN","SAALFELD, JOEL"],"totalRemaining":"2","currentlyRegistered":"34","generalRemaining":"2","restrictedRemaining":"0"},"WL1":{"status":"Unreleased","section":"LLED 489A WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=489A&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"","subject_code":"LLED","course_number":"489A","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LLED 489A",
+  "subject_code": "LLED",
+  "course_number": "489A",
+  "course_title": "Applied Linguistics for Teachers - APPL LING TEACH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=489A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LLED 489A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=489A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Students must officially have, at least, third-year undergraduate standing or must have obtained their first degree.",
+      "subject_code": "LLED",
+      "course_number": "489A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOWKABI, NASRIN",
+        "SAALFELD, JOEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "33",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "LLED 489A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=489A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "LLED",
+      "course_number": "489A",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

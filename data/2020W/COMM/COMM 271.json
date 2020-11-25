@@ -1,1 +1,45 @@
-{"course_name":"COMM 271","subject_code":"COMM","course_number":"271","course_title":"Introduction to Capital Markets","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=271&sessyr=2020&sesscd=W","sections":{"101":{"status":"Unreleased","section":"COMM 271 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=271&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"COMM 271 is restricted to students in Year 2 of the BCom program. Admission to the course is by application only; see mybcom.sauder.ubc.ca/comm271","subject_code":"COMM","course_number":"271","section_number":"101","building":" ","room":"","instructors":["CARLSON, MURRAY","HEINKEL, ROBERT LEE"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Roles of capital market institutions and participants. Skill development for basic financial principles in the quantitative and qualitative evaluation of bond and stock investments."}
+{
+  "course_name": "COMM 271",
+  "subject_code": "COMM",
+  "course_number": "271",
+  "course_title": "Introduction to Capital Markets",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=271&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "COMM 271 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=271&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "COMM 271 is restricted to students in Year 2 of the BCom program. Admission to the course is by application only; see mybcom.sauder.ubc.ca/comm271",
+      "subject_code": "COMM",
+      "course_number": "271",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARLSON, MURRAY",
+        "HEINKEL, ROBERT LEE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Roles of capital market institutions and participants. Skill development for basic financial principles in the quantitative and qualitative evaluation of bond and stock investments.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"ANTH 506A","subject_code":"ANTH","course_number":"506A","course_title":"Current Research in Anthropology - CURRENT RES ANTH","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=506A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ANTH 506A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=506A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Thu","start":"12:30","end":"14:00","comments":"This course is designed to support your professional development as you begin your graduate program in Anthropology. Connect with your cohort as you learn the expectations associated with classes, research, teaching, applying for grants, presenting, publishing, interdisciplinary work and community engagement in Anthropology. Plan to acquire core skills that can be transferred across different possible career paths, and glimpse the \u001cbig picture\u001d of academic life and professional opportunities. Faculty mentors and others will visit class to share their experiences as you envision your own future at UBC and beyond.","subject_code":"ANTH","course_number":"506A","section_number":"001","building":" ","room":"","instructors":["HEATHERINGTON, TRACEY"],"totalRemaining":"3","currentlyRegistered":"12","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The relationship between current theoretical issues and research methods."}
+{
+  "course_name": "ANTH 506A",
+  "subject_code": "ANTH",
+  "course_number": "506A",
+  "course_title": "Current Research in Anthropology - CURRENT RES ANTH",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=506A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 506A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=506A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "This course is designed to support your professional development as you begin your graduate program in Anthropology. Connect with your cohort as you learn the expectations associated with classes, research, teaching, applying for grants, presenting, publishing, interdisciplinary work and community engagement in Anthropology. Plan to acquire core skills that can be transferred across different possible career paths, and glimpse the \u001cbig picture\u001d of academic life and professional opportunities. Faculty mentors and others will visit class to share their experiences as you envision your own future at UBC and beyond.",
+      "subject_code": "ANTH",
+      "course_number": "506A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HEATHERINGTON, TRACEY"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The relationship between current theoretical issues and research methods.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

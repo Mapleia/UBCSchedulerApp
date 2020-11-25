@@ -1,1 +1,43 @@
-{"course_name":"ARTH 551A","subject_code":"ARTH","course_number":"551A","course_title":"Studies in Chinese Art - CHN ART","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=551A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARTH 551A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=551A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"Place in Chinese Visual Culture: From Topographical Painting to GeoaestheticsThis seminar explores concepts of \"place\" and related terms (site, scene, region, empire) to examine how pre-modern Chinese visual culture has engaged with the physical environment. Theorizations of space and place, narrative and itineraries, as well as recent approaches in environmental history and geoaesthetics will inform our examination of how place is constructed in paintings, prints, maps, and the built environment.","subject_code":"ARTH","course_number":"551A","section_number":"001","building":" ","room":"","instructors":["ORELL, JULIA"],"totalRemaining":"3","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ARTH 551A",
+  "subject_code": "ARTH",
+  "course_number": "551A",
+  "course_title": "Studies in Chinese Art - CHN ART",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=551A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARTH 551A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=551A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Place in Chinese Visual Culture: From Topographical Painting to GeoaestheticsThis seminar explores concepts of \"place\" and related terms (site, scene, region, empire) to examine how pre-modern Chinese visual culture has engaged with the physical environment. Theorizations of space and place, narrative and itineraries, as well as recent approaches in environmental history and geoaesthetics will inform our examination of how place is constructed in paintings, prints, maps, and the built environment.",
+      "subject_code": "ARTH",
+      "course_number": "551A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ORELL, JULIA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

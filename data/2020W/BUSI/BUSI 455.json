@@ -1,1 +1,122 @@
-{"course_name":"BUSI 455","subject_code":"BUSI","course_number":"455","course_title":"Principles of Auditing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=455&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BUSI 455 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Sat","start":"9:00","end":"12:00","comments":"","subject_code":"BUSI","course_number":"455","section_number":"101","building":" ","room":"","instructors":["CHONG, MARY"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":"Blocked","section":"BUSI 455 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"455","section_number":"102","building":" ","room":"","instructors":["YEE, DOUGLAS"],"totalRemaining":"0","currentlyRegistered":"54","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"BUSI 455 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Thu","start":"18:30","end":"21:30","comments":"","subject_code":"BUSI","course_number":"455","section_number":"201","building":" ","room":"","instructors":["MOWBRAY, DOUGLAS"],"totalRemaining":"0","currentlyRegistered":"17","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Blocked","section":"BUSI 455 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Sat","start":"9:00","end":"12:00","comments":"","subject_code":"BUSI","course_number":"455","section_number":"202","building":" ","room":"","instructors":["CHONG, MARY"],"totalRemaining":"0","currentlyRegistered":"23","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles of internal control; audit evidence; sampling and testing; audit reports; standards and responsibilities of the external audit."}
+{
+  "course_name": "BUSI 455",
+  "subject_code": "BUSI",
+  "course_number": "455",
+  "course_title": "Principles of Auditing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 455 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "455",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 455 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "455",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YEE, DOUGLAS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "52",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 455 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "21:30",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "455",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOWBRAY, DOUGLAS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 455 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=455&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "SAT"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "455",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHONG, MARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of internal control; audit evidence; sampling and testing; audit reports; standards and responsibilities of the external audit.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

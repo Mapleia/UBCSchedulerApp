@@ -1,1 +1,99 @@
-{"course_name":"PSYC 309A","subject_code":"PSYC","course_number":"309A","course_title":"Cognitive Processes - COGNTV PROCESSES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=309A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PSYC 309A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"309A","section_number":"001","building":" ","room":"","instructors":["HANDY, TODD"],"totalRemaining":"0","currentlyRegistered":"180","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Full","section":"PSYC 309A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"PSYC","course_number":"309A","section_number":"002","building":" ","room":"","instructors":["PALOMBO, DANIELA"],"totalRemaining":"0","currentlyRegistered":"240","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"PSYC 309A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"PSYC","course_number":"309A","section_number":"003","building":" ","room":"","instructors":["PALOMBO, DANIELA"],"totalRemaining":"0","currentlyRegistered":"180","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Contribution of cognitive processes to perception, attention, and memory; cognitive development, language, thinking, and creativity."}
+{
+  "course_name": "PSYC 309A",
+  "subject_code": "PSYC",
+  "course_number": "309A",
+  "course_title": "Cognitive Processes - COGNTV PROCESSES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=309A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 309A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "309A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANDY, TODD"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "179",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 309A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "309A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PALOMBO, DANIELA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "240",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 309A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=309A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "309A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PALOMBO, DANIELA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "180",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Contribution of cognitive processes to perception, attention, and memory; cognitive development, language, thinking, and creativity.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

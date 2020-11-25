@@ -1,1 +1,44 @@
-{"course_name":"APBI 316","subject_code":"APBI","course_number":"316","course_title":"Equine Biology, Health and Welfare","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=316&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"APBI 316 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=316&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"","subject_code":"APBI","course_number":"316","section_number":"001","building":"MacMillan","room":"160","instructors":["MACRAE, AMELIA"],"totalRemaining":"0","currentlyRegistered":"50","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Anatomy, physiology, reproduction, nutrition of the horse; common disease pathology, prevention and treatments; equine behaviour."}
+{
+  "course_name": "APBI 316",
+  "subject_code": "APBI",
+  "course_number": "316",
+  "course_title": "Equine Biology, Health and Welfare",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=316&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 316 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=316&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "316",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MACRAE, AMELIA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "50",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Anatomy, physiology, reproduction, nutrition of the horse; common disease pathology, prevention and treatments; equine behaviour.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

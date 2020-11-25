@@ -1,1 +1,72 @@
-{"course_name":"APBI 402","subject_code":"APBI","course_number":"402","course_title":"Sustainable Soil Management","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=402&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 402 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=402&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"13:00","end":"14:00","comments":"","subject_code":"APBI","course_number":"402","section_number":"001","building":"Orchard Commons","room":"3074","instructors":["BROWN, SANDRA","KRZIC, MAJA"],"totalRemaining":"4","currentlyRegistered":"36","generalRemaining":"4","restrictedRemaining":"0"},"T01":{"status":" ","section":"APBI 402 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=402&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"15:00","end":"17:00","comments":"","subject_code":"APBI","course_number":"402","section_number":"T01","building":"Biological Sciences","room":"1012","instructors":["BROWN, SANDRA","KRZIC, MAJA"],"totalRemaining":"4","currentlyRegistered":"36","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Application of fundamental, unifying, soil science principles in sustainable ecosystem management."}
+{
+  "course_name": "APBI 402",
+  "subject_code": "APBI",
+  "course_number": "402",
+  "course_title": "Sustainable Soil Management",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=402&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 402 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=402&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "402",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROWN, SANDRA",
+        "KRZIC, MAJA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "36",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 402 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=402&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "402",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROWN, SANDRA",
+        "KRZIC, MAJA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Application of fundamental, unifying, soil science principles in sustainable ecosystem management.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

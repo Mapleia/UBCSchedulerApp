@@ -1,1 +1,76 @@
-{"course_name":"HIST 104F","subject_code":"HIST","course_number":"104F","course_title":"Topics in World History - CULTURES CONTACT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=104F&sessyr=2020&sesscd=W","sections":{"101":{"status":"Cancelled","section":"HIST 104F 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104F&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":"","end":"","comments":"In 2020W, HIST 104F has been cancelled.","subject_code":"HIST","course_number":"104F","section_number":"101","building":"","room":"","instructors":["108","0","108","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L01":{"status":"Cancelled","section":"HIST 104F L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104F&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"HIST","course_number":"104F","section_number":"L01","building":"","room":"","instructors":["18","0","18","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings."}
+{
+  "course_name": "HIST 104F",
+  "subject_code": "HIST",
+  "course_number": "104F",
+  "course_title": "Topics in World History - CULTURES CONTACT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=104F&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "HIST 104F 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104F&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "In 2020W, HIST 104F has been cancelled.",
+      "subject_code": "HIST",
+      "course_number": "104F",
+      "section_number": "101",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "108",
+        "0",
+        "108",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Cancelled",
+      "section": "HIST 104F L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=104F&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "HIST",
+      "course_number": "104F",
+      "section_number": "L01",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "18",
+        "0",
+        "18",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MUSC 593H","subject_code":"MUSC","course_number":"593H","course_title":"Music Performance (Major) - WIND CONDUCTING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=593H&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 593H 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=593H&section=001&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1-2","interval":"","days":" Tue","start":"13:00","end":"15:00","comments":"Class will meet in Room 319","subject_code":"MUSC","course_number":"593H","section_number":"001","building":" ","room":"","instructors":["TAYLOR, ROBERT"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements."}
+{
+  "course_name": "MUSC 593H",
+  "subject_code": "MUSC",
+  "course_number": "593H",
+  "course_title": "Music Performance (Major) - WIND CONDUCTING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=593H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 593H 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=593H&section=001&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Class will meet in Room 319",
+      "subject_code": "MUSC",
+      "course_number": "593H",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

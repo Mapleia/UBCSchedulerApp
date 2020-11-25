@@ -1,1 +1,43 @@
-{"course_name":"EDCP 441B","subject_code":"EDCP","course_number":"441B","course_title":"Assessment in Mathematics Education - ASSMNT MATH EDUC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=441B&sessyr=2020&sesscd=W","sections":{"301":{"status":"Restricted","section":"EDCP 441B 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=441B&section=301&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"","subject_code":"EDCP","course_number":"441B","section_number":"301","building":" ","room":"","instructors":["LI, KEVIN"],"totalRemaining":"9","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 441B",
+  "subject_code": "EDCP",
+  "course_number": "441B",
+  "course_title": "Assessment in Mathematics Education - ASSMNT MATH EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=441B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 441B 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=441B&section=301&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "EDCP",
+      "course_number": "441B",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LI, KEVIN"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "21",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

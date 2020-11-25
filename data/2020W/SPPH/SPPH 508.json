@@ -1,1 +1,97 @@
-{"course_name":"SPPH 508","subject_code":"SPPH","course_number":"508","course_title":"M.P.H. Practicum","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=508&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SPPH 508 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" Mon","start":" ","end":" ","comments":"","subject_code":"SPPH","course_number":"508","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"6","generalRemaining":"9","restrictedRemaining":"0"},"002":{"status":" ","section":"SPPH 508 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"SPPH","course_number":"508","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"12","currentlyRegistered":"8","generalRemaining":"12","restrictedRemaining":"0"},"003":{"status":" ","section":"SPPH 508 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=003&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"SPPH","course_number":"508","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"2","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Includes a significant component of applied epidemiology and biostatistics in a field setting."}
+{
+  "course_name": "SPPH 508",
+  "subject_code": "SPPH",
+  "course_number": "508",
+  "course_title": "M.P.H. Practicum",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SPPH 508 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SPPH",
+      "course_number": "508",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "6",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPPH 508 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SPPH",
+      "course_number": "508",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPPH 508 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=508&section=003&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SPPH",
+      "course_number": "508",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Includes a significant component of applied epidemiology and biostatistics in a field setting.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

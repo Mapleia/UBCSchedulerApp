@@ -1,1 +1,77 @@
-{"course_name":"PLAN 526","subject_code":"PLAN","course_number":"526","course_title":"Selected Topics in Experimental Learning: The Planning Studio","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=526&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PLAN 526 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=526&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Tue","start":"13:00","end":"16:00","comments":"MCRP Studio requirement. MCRP students only. Exception: MCRP students in the Indigenous Community Planning (ICP) concentration must register for PLAN 526-002 instead.","subject_code":"PLAN","course_number":"526","section_number":"001","building":" ","room":"","instructors":["GURSTEIN, PENELOPE","MOCHRIE, CLARE","SENBEL, MAGED","VILLAGOMEZ, ERICK","FOROUZANDEH, PEYVAND(Lead)"],"totalRemaining":"12","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"12"},"002":{"status":"Restricted","section":"PLAN 526 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=526&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"MCRP Studio requirement for MCRP students in the Indigenous Community Planning (ICP) concentration only. MCRP students not in the ICP concentration must register for PLAN 526-001 instead. Please contact the course instructor for course dates and times.","subject_code":"PLAN","course_number":"526","section_number":"002","building":" ","room":"","instructors":["GRAHAM, SCOTT","HEMPHILL, JESSIE","JOHNSON, SHAUNA","LOW, MARGARET","MALONEY, KEISHA(Lead)"],"totalRemaining":"2","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "PLAN 526",
+  "subject_code": "PLAN",
+  "course_number": "526",
+  "course_title": "Selected Topics in Experimental Learning: The Planning Studio",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PLAN&course=526&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PLAN 526 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=526&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "MCRP Studio requirement. MCRP students only. Exception: MCRP students in the Indigenous Community Planning (ICP) concentration must register for PLAN 526-002 instead.",
+      "subject_code": "PLAN",
+      "course_number": "526",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GURSTEIN, PENELOPE",
+        "MOCHRIE, CLARE",
+        "SENBEL, MAGED",
+        "VILLAGOMEZ, ERICK",
+        "FOROUZANDEH, PEYVAND(Lead)"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Restricted",
+      "section": "PLAN 526 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PLAN&course=526&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MCRP Studio requirement for MCRP students in the Indigenous Community Planning (ICP) concentration only. MCRP students not in the ICP concentration must register for PLAN 526-001 instead. Please contact the course instructor for course dates and times.",
+      "subject_code": "PLAN",
+      "course_number": "526",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRAHAM, SCOTT",
+        "HEMPHILL, JESSIE",
+        "JOHNSON, SHAUNA",
+        "LOW, MARGARET",
+        "MALONEY, KEISHA(Lead)"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

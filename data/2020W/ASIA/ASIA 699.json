@@ -1,1 +1,98 @@
-{"course_name":"ASIA 699","subject_code":"ASIA","course_number":"699","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=699&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ASIA 699 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASIA","course_number":"699","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"},"001":{"status":" ","section":"ASIA 699 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASIA","course_number":"699","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"16","currentlyRegistered":"29","generalRemaining":"16","restrictedRemaining":"0"},"002":{"status":" ","section":"ASIA 699 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASIA","course_number":"699","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"2","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 0","description":"In Chinese, Japanese, Korean, or South Asian Studies only."}
+{
+  "course_name": "ASIA 699",
+  "subject_code": "ASIA",
+  "course_number": "699",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=699&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 699 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASIA",
+      "course_number": "699",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 699 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASIA",
+      "course_number": "699",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "29",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 699 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=699&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASIA",
+      "course_number": "699",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "18",
+      "currentlyRegistered": "2",
+      "generalRemaining": "18",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": "In Chinese, Japanese, Korean, or South Asian Studies only.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar",
+    "Web-Oriented Course"
+  ]
+}

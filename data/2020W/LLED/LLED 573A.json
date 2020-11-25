@@ -1,1 +1,43 @@
-{"course_name":"LLED 573A","subject_code":"LLED","course_number":"573A","course_title":"Theories of Second Language Acquisition - SEC LANG ACQ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=573A&sessyr=2020&sesscd=W","sections":{"62A":{"status":"Blocked","section":"LLED 573A 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=573A&section=62A&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This course is restrictred to the FRM7 Off-Campus MED cohort students only. Administered by PDCE","subject_code":"LLED","course_number":"573A","section_number":"62A","building":"No Scheduled Meeting","room":"","instructors":["SPILIOTOPOULOS, VASILIKI"],"totalRemaining":"0","currentlyRegistered":"17","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LLED 573A",
+  "subject_code": "LLED",
+  "course_number": "573A",
+  "course_title": "Theories of Second Language Acquisition - SEC LANG ACQ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=573A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 573A 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=573A&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is restrictred to the FRM7 Off-Campus MED cohort students only. Administered by PDCE",
+      "subject_code": "LLED",
+      "course_number": "573A",
+      "section_number": "62A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SPILIOTOPOULOS, VASILIKI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "17",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

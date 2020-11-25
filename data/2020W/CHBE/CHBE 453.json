@@ -1,1 +1,78 @@
-{"course_name":"CHBE 453","subject_code":"CHBE","course_number":"453","course_title":"Biological Process and Product Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=453&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CHBE 453 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=453&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"12:30","end":"13:30","comments":"","subject_code":"CHBE","course_number":"453","section_number":"001","building":" ","room":"","instructors":["BALDWIN, SUSAN","BERRETTA, SERGIO","LIM, CHOON JIM","POSARAC, DUSKO","VERRETT, JONATHAN"],"totalRemaining":"4","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"4"},"T0A":{"status":"Restricted","section":"CHBE 453 T0A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=453&section=T0A&sessyr=2020&sesscd=W","activity":"Problem Session","term":"1","interval":"","days":" Fri","start":"14:30","end":"16:30","comments":"Tutorials in CHBE 318 and project rooms.","subject_code":"CHBE","course_number":"453","section_number":"T0A","building":" ","room":"","instructors":["BALDWIN, SUSAN","BERRETTA, SERGIO","LIM, CHOON JIM","POSARAC, DUSKO","VERRETT, JONATHAN"],"totalRemaining":"4","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 6","description":"8-month project-based course, integrating chemical and biological engineering concepts with economics, life cycle analysis and health and safety considerations in the design of major biological processes."}
+{
+  "course_name": "CHBE 453",
+  "subject_code": "CHBE",
+  "course_number": "453",
+  "course_title": "Biological Process and Product Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=453&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 453 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=453&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:30",
+      "end": "13:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "453",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BALDWIN, SUSAN",
+        "BERRETTA, SERGIO",
+        "LIM, CHOON JIM",
+        "POSARAC, DUSKO",
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "CHBE 453 T0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=453&section=T0A&sessyr=2020&sesscd=W",
+      "activity": "Problem Session",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:30",
+      "end": "16:30",
+      "comments": "Tutorials in CHBE 318 and project rooms.",
+      "subject_code": "CHBE",
+      "course_number": "453",
+      "section_number": "T0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BALDWIN, SUSAN",
+        "BERRETTA, SERGIO",
+        "LIM, CHOON JIM",
+        "POSARAC, DUSKO",
+        "VERRETT, JONATHAN"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 6,
+  "description": "8-month project-based course, integrating chemical and biological engineering concepts with economics, life cycle analysis and health and safety considerations in the design of major biological processes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Problem Session"
+  ]
+}

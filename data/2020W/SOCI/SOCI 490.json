@@ -1,1 +1,43 @@
-{"course_name":"SOCI 490","subject_code":"SOCI","course_number":"490","course_title":"Contemporary Chinese Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=490&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"SOCI 490 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=490&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"10:00","end":"13:00","comments":"","subject_code":"SOCI","course_number":"490","section_number":"201","building":"Anthropology and Sociology","room":"207","instructors":["FU, QIANG"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Current social topics in Chinese society; perspectives on gender, inequality, culture, and social relations."}
+{
+  "course_name": "SOCI 490",
+  "subject_code": "SOCI",
+  "course_number": "490",
+  "course_title": "Contemporary Chinese Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=490&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 490 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=490&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "490",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FU, QIANG"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Current social topics in Chinese society; perspectives on gender, inequality, culture, and social relations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

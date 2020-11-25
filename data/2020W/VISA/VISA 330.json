@@ -1,1 +1,70 @@
-{"course_name":"VISA 330","subject_code":"VISA","course_number":"330","course_title":"Intermediate Painting I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=330&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"VISA 330 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=330&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"VISA 330 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.","subject_code":"VISA","course_number":"330","section_number":"001","building":"Dorothy Somerset Studio","room":"107","instructors":["MCCRUM, PHILLIP"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"1"},"01W":{"status":"Restricted","section":"VISA 330 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=330&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"VISA 330 01W is a waitlist for VISA 330 001. Students will be moved from the waitlist into the class in order of registration date.","subject_code":"VISA","course_number":"330","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"99"}},"credits":"Credits: 3","description":"Development of techniques and personal style in relation to ideas. History and contemporary issues in painting will be introduced  to assist students in conceptualizing their painting practice."}
+{
+  "course_name": "VISA 330",
+  "subject_code": "VISA",
+  "course_number": "330",
+  "course_title": "Intermediate Painting I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=330&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "VISA 330 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=330&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 330 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements). If registration for this class is blocked, then it is full and you should register on the corresponding waitlist. Students will be periodically moved from the waitlist into the class as seats become available, and notified of their registration via email.",
+      "subject_code": "VISA",
+      "course_number": "330",
+      "section_number": "001",
+      "building": "Dorothy Somerset Studio",
+      "room": "107",
+      "instructors": [
+        "MCCRUM, PHILLIP"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 330 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=330&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 330 01W is a waitlist for VISA 330 001. Students will be moved from the waitlist into the class in order of registration date.",
+      "subject_code": "VISA",
+      "course_number": "330",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "99"
+    }
+  ],
+  "credits": 3,
+  "description": "Development of techniques and personal style in relation to ideas. History and contemporary issues in painting will be introduced  to assist students in conceptualizing their painting practice.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,72 @@
-{"course_name":"WOOD 280","subject_code":"WOOD","course_number":"280","course_title":"Wood Anatomy and Identification","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=280&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"WOOD 280 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=280&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"WOOD","course_number":"280","section_number":"101","building":" ","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"26","currentlyRegistered":"14","generalRemaining":"26","restrictedRemaining":"0"},"L01":{"status":" ","section":"WOOD 280 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=280&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"10:00","end":"12:00","comments":"","subject_code":"WOOD","course_number":"280","section_number":"L01","building":" ","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"27","currentlyRegistered":"13","generalRemaining":"27","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to tree growth; macroscopic and microscopic anatomy and identification of softwoods and hardwoods; descriptions of cell wall ultra-structure, wood variability and wood quality."}
+{
+  "course_name": "WOOD 280",
+  "subject_code": "WOOD",
+  "course_number": "280",
+  "course_title": "Wood Anatomy and Identification",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=280&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "WOOD 280 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=280&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "280",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "14",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "WOOD 280 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=280&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "WOOD",
+      "course_number": "280",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "13",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to tree growth; macroscopic and microscopic anatomy and identification of softwoods and hardwoods; descriptions of cell wall ultra-structure, wood variability and wood quality.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

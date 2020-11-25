@@ -1,1 +1,102 @@
-{"course_name":"MECH 488","subject_code":"MECH","course_number":"488","course_title":"Introduction to Ship Hydrodynamics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=488&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MECH 488 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"17:00","end":"18:00","comments":"Course will be held in CEME 1203","subject_code":"MECH","course_number":"488","section_number":"101","building":" ","room":"","instructors":["MCKESSON, CHRISTOPHER"],"totalRemaining":"26","currentlyRegistered":"34","generalRemaining":"0","restrictedRemaining":"26"},"102":{"status":"Blocked","section":"MECH 488 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"17:00","end":"18:00","comments":"This off campus section is reserved for UBC-O students. For registration, please contact Renee, or email the UBC MECH Student Services Office at students@mech.ubc.ca.This course will take place at UBC-O in room SCI 331.","subject_code":"MECH","course_number":"488","section_number":"102","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"MECH 488 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"Graduate students, please register onto this waitlist.We will register you into the main course in August, as long as there is enough space.","subject_code":"MECH","course_number":"488","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Ship terminology, lines plans, ship hydrostatics, transverse and longitudinal stability of ships, dimensional analysis, ship resistance prediction; ship propulsion methods, propeller selection and design."}
+{
+  "course_name": "MECH 488",
+  "subject_code": "MECH",
+  "course_number": "488",
+  "course_title": "Introduction to Ship Hydrodynamics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=488&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 488 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "Course will be held in CEME 1203",
+      "subject_code": "MECH",
+      "course_number": "488",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCKESSON, CHRISTOPHER"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "27"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 488 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This off campus section is reserved for UBC-O students. For registration, please contact Renee, or email the UBC MECH Student Services Office at students@mech.ubc.ca.This course will take place at UBC-O in room SCI 331.",
+      "subject_code": "MECH",
+      "course_number": "488",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 488 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=488&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Graduate students, please register onto this waitlist.We will register you into the main course in August, as long as there is enough space.",
+      "subject_code": "MECH",
+      "course_number": "488",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Ship terminology, lines plans, ship hydrostatics, transverse and longitudinal stability of ships, dimensional analysis, ship resistance prediction; ship propulsion methods, propeller selection and design.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

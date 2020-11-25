@@ -1,1 +1,43 @@
-{"course_name":"SOCI 479","subject_code":"SOCI","course_number":"479","course_title":"Social Determinants of Health","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=479&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"SOCI 479 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=479&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"","subject_code":"SOCI","course_number":"479","section_number":"201","building":"Allard Hall (LAW)","room":"121","instructors":["VEENSTRA, GERRY"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Relationships between social phenomena (e.g., personal beliefs, lifestyle practices, social support, socio-economic status, social class, gender, and ethnicity) and the health of human populations."}
+{
+  "course_name": "SOCI 479",
+  "subject_code": "SOCI",
+  "course_number": "479",
+  "course_title": "Social Determinants of Health",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=479&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOCI 479 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=479&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "479",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VEENSTRA, GERRY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Relationships between social phenomena (e.g., personal beliefs, lifestyle practices, social support, socio-economic status, social class, gender, and ethnicity) and the health of human populations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

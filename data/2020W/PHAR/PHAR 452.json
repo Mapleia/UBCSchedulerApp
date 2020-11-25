@@ -1,1 +1,73 @@
-{"course_name":"PHAR 452","subject_code":"PHAR","course_number":"452","course_title":"Therapeutics IV","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=452&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHAR 452 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=452&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Tue Fri","start":" ","end":" ","comments":"Therapeutics IVPHRM 1101","subject_code":"PHAR","course_number":"452","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["PEARSON, MARION"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"1"},"L01":{"status":"Restricted","section":"PHAR 452 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=452&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue Wed","start":" ","end":" ","comments":"Integration Activities for PHAR 452 Therapeutics IVPHRM 2340, 3201, 3202, 3206, 3208 - See Google Calendar for specific schedule","subject_code":"PHAR","course_number":"452","section_number":"L01","building":"No Scheduled Meeting","room":"","instructors":["PEARSON, MARION"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 2","description":"Rational drug therapy, management of patient-specific drug-related problems and therapeutic monitoring of selected disease states."}
+{
+  "course_name": "PHAR 452",
+  "subject_code": "PHAR",
+  "course_number": "452",
+  "course_title": "Therapeutics IV",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=452&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHAR 452 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=452&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Therapeutics IVPHRM 1101",
+      "subject_code": "PHAR",
+      "course_number": "452",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PEARSON, MARION"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHAR 452 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=452&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Integration Activities for PHAR 452 Therapeutics IVPHRM 2340, 3201, 3202, 3206, 3208 - See Google Calendar for specific schedule",
+      "subject_code": "PHAR",
+      "course_number": "452",
+      "section_number": "L01",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "PEARSON, MARION"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 2,
+  "description": "Rational drug therapy, management of patient-specific drug-related problems and therapeutic monitoring of selected disease states.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Laboratory"
+  ]
+}

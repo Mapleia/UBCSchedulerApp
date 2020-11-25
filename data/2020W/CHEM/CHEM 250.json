@@ -1,1 +1,72 @@
-{"course_name":"CHEM 250","subject_code":"CHEM","course_number":"250","course_title":"Inorganic Chemistry for Engineers","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=250&sessyr=2020&sesscd=W","sections":{"111":{"status":" ","section":"CHEM 250 111","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=250&section=111&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CHEM","course_number":"250","section_number":"111","building":" ","room":"","instructors":["MONGA, VISHAKHA"],"totalRemaining":"89","currentlyRegistered":"129","generalRemaining":"89","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"CHEM 250 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=250&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"250","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Chemistry of selected groups of inorganic compounds, considered in relation to industrial processes."}
+{
+  "course_name": "CHEM 250",
+  "subject_code": "CHEM",
+  "course_number": "250",
+  "course_title": "Inorganic Chemistry for Engineers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=250&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHEM 250 111",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=250&section=111&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "250",
+      "section_number": "111",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MONGA, VISHAKHA"
+      ],
+      "totalRemaining": "89",
+      "currentlyRegistered": "129",
+      "generalRemaining": "89",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHEM 250 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=250&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "250",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Chemistry of selected groups of inorganic compounds, considered in relation to industrial processes.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

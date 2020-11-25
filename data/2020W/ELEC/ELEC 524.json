@@ -1,1 +1,47 @@
-{"course_name":"ELEC 524","subject_code":"ELEC","course_number":"524","course_title":"Advanced Biophotonics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=524&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"ELEC 524 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=524&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ELEC","course_number":"524","section_number":"101","building":" ","room":"","instructors":["0","9","0","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Credit will only be given for one of ELEC 524 or EECE 535."}
+{
+  "course_name": "ELEC 524",
+  "subject_code": "ELEC",
+  "course_number": "524",
+  "course_title": "Advanced Biophotonics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=524&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 524 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=524&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "524",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "0",
+        "9",
+        "0",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Credit will only be given for one of ELEC 524 or EECE 535.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

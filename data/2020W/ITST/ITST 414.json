@@ -1,1 +1,44 @@
-{"course_name":"ITST 414","subject_code":"ITST","course_number":"414","course_title":"Topics in the Italian Literature and Culture of the Middle Ages in Translation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=414&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ITST 414 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=414&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Italian literature of the Middle Ages in its intellectual, socio-political and cultural context. Dante and his contemporaries and/or immediate followers. Full description: https://fhis.ubc.ca/course-description/itst414/- cross-listed with ITAL 404-101, RMST 420C-101 and RMST 520-101","subject_code":"ITST","course_number":"414","section_number":"101","building":" ","room":"","instructors":["BOCCASSINI, DANIELA"],"totalRemaining":"4","currentlyRegistered":"6","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Italian literature of the Middle Ages in its intellectual, socio-political and cultural context. Dante and his contemporaries and/or immediate followers (may include Petrarch and Boccaccio). Precludes credit for ITAL 404."}
+{
+  "course_name": "ITST 414",
+  "subject_code": "ITST",
+  "course_number": "414",
+  "course_title": "Topics in the Italian Literature and Culture of the Middle Ages in Translation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITST&course=414&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITST 414 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITST&course=414&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Italian literature of the Middle Ages in its intellectual, socio-political and cultural context. Dante and his contemporaries and/or immediate followers. Full description: https://fhis.ubc.ca/course-description/itst414/- cross-listed with ITAL 404-101, RMST 420C-101 and RMST 520-101",
+      "subject_code": "ITST",
+      "course_number": "414",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOCCASSINI, DANIELA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "6",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Italian literature of the Middle Ages in its intellectual, socio-political and cultural context. Dante and his contemporaries and/or immediate followers (may include Petrarch and Boccaccio). Precludes credit for ITAL 404.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

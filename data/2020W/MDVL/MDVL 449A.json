@@ -1,1 +1,43 @@
-{"course_name":"MDVL 449A","subject_code":"MDVL","course_number":"449A","course_title":"Graduating Essay or Supervised Study - MEDIEVAL STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MDVL&course=449A&sessyr=2020&sesscd=W","sections":{"BOC":{"status":"Full","section":"MDVL 449A BOC","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MDVL&course=449A&section=BOC&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MDVL","course_number":"449A","section_number":"BOC","building":"No Scheduled Meeting","room":"","instructors":["BOCCASSINI, DANIELA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "MDVL 449A",
+  "subject_code": "MDVL",
+  "course_number": "449A",
+  "course_title": "Graduating Essay or Supervised Study - MEDIEVAL STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MDVL&course=449A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MDVL 449A BOC",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MDVL&course=449A&section=BOC&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MDVL",
+      "course_number": "449A",
+      "section_number": "BOC",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BOCCASSINI, DANIELA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

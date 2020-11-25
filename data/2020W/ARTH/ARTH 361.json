@@ -1,1 +1,44 @@
-{"course_name":"ARTH 361","subject_code":"ARTH","course_number":"361","course_title":"Chinese Modern and Contemporary Art","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=361&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ARTH 361 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=361&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"ARTH","course_number":"361","section_number":"001","building":"Frederic Lasserre","room":"105","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"44","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Chinese art and its global entanglements from Qing Encounters to the 21st century."}
+{
+  "course_name": "ARTH 361",
+  "subject_code": "ARTH",
+  "course_number": "361",
+  "course_title": "Chinese Modern and Contemporary Art",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=361&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARTH 361 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=361&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "ARTH",
+      "course_number": "361",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "41",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Chinese art and its global entanglements from Qing Encounters to the 21st century.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

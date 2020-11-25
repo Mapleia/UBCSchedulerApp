@@ -1,1 +1,44 @@
-{"course_name":"LAW 435C","subject_code":"LAW","course_number":"435C","course_title":"Topics in Tort Law - TPCS IN TORT LAW","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=435C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 435C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=435C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"17:00","end":"20:00","comments":"","subject_code":"LAW","course_number":"435C","section_number":"001","building":" ","room":"","instructors":["KAZIMIRSKI, MARC","KOVACS, SANDY"],"totalRemaining":"17","currentlyRegistered":"21","generalRemaining":"17","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 435C",
+  "subject_code": "LAW",
+  "course_number": "435C",
+  "course_title": "Topics in Tort Law - TPCS IN TORT LAW",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=435C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 435C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=435C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "435C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KAZIMIRSKI, MARC",
+        "KOVACS, SANDY"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "17",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

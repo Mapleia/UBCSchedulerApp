@@ -1,1 +1,70 @@
-{"course_name":"ECED 490","subject_code":"ECED","course_number":"490","course_title":"Early Childhood Education Practicum and Seminar I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=490&sessyr=2020&sesscd=W","sections":{"61A":{"status":"Blocked","section":"ECED 490 61A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=490&section=61A&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Registration to this practicum course is blocked.Students completing the BC ECE Basic Certificate program of courses with Early Childhood Education who meet the prerequisites for practicum will be contacted and registered by the program.Inquiries: http://earlychildhood.educ.ubc.ca/about/contact-us.","subject_code":"ECED","course_number":"490","section_number":"61A","building":"No Scheduled Meeting","room":"","instructors":["BERGER, IRIS"],"totalRemaining":"12","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"12"},"62A":{"status":"Blocked","section":"ECED 490 62A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=490&section=62A&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Registration to this practicum course is blocked.Students completing the BC ECE Basic Certificate program of courses with Early Childhood Education who meet the prerequisites for practicum will be contacted and registered by the program.Inquiries: http://earlychildhood.educ.ubc.ca/about/contact-us.","subject_code":"ECED","course_number":"490","section_number":"62A","building":"No Scheduled Meeting","room":"","instructors":["BERGER, IRIS"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"36"}},"credits":"Credits: 2","description":"Pass/Fail."}
+{
+  "course_name": "ECED 490",
+  "subject_code": "ECED",
+  "course_number": "490",
+  "course_title": "Early Childhood Education Practicum and Seminar I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECED&course=490&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ECED 490 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=490&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration to this practicum course is blocked.Students completing the BC ECE Basic Certificate program of courses with Early Childhood Education who meet the prerequisites for practicum will be contacted and registered by the program.Inquiries: http://earlychildhood.educ.ubc.ca/about/contact-us.",
+      "subject_code": "ECED",
+      "course_number": "490",
+      "section_number": "61A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BERGER, IRIS"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "12"
+    },
+    {
+      "status": "Blocked",
+      "section": "ECED 490 62A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECED&course=490&section=62A&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Registration to this practicum course is blocked.Students completing the BC ECE Basic Certificate program of courses with Early Childhood Education who meet the prerequisites for practicum will be contacted and registered by the program.Inquiries: http://earlychildhood.educ.ubc.ca/about/contact-us.",
+      "subject_code": "ECED",
+      "course_number": "490",
+      "section_number": "62A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BERGER, IRIS"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    }
+  ],
+  "credits": 2,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

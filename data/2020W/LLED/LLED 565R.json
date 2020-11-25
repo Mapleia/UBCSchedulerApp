@@ -1,1 +1,44 @@
-{"course_name":"LLED 565R","subject_code":"LLED","course_number":"565R","course_title":"Special Course in Subject Matter Field - SPC C SUBJ MTFLD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=565R&sessyr=2020&sesscd=W","sections":{"061":{"status":" ","section":"LLED 565R 061","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=565R&section=061&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"Adolescent literacies.This section will be offered online.","subject_code":"LLED","course_number":"565R","section_number":"061","building":" ","room":"","instructors":["ROGERS, THERESA","HAMILTON, CAROLINE"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field."}
+{
+  "course_name": "LLED 565R",
+  "subject_code": "LLED",
+  "course_number": "565R",
+  "course_title": "Special Course in Subject Matter Field - SPC C SUBJ MTFLD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=565R&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LLED 565R 061",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=565R&section=061&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Adolescent literacies.This section will be offered online.",
+      "subject_code": "LLED",
+      "course_number": "565R",
+      "section_number": "061",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROGERS, THERESA",
+        "HAMILTON, CAROLINE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"COMM 671","subject_code":"COMM","course_number":"671","course_title":"Theory of Finance","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=671&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"COMM 671 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=671&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"17:00","end":"20:00","comments":"","subject_code":"COMM","course_number":"671","section_number":"001","building":" ","room":"","instructors":["LAZRAK, ALI"],"totalRemaining":"7","currentlyRegistered":"8","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 671",
+  "subject_code": "COMM",
+  "course_number": "671",
+  "course_title": "Theory of Finance",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=671&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "COMM 671 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=671&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "671",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAZRAK, ALI"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "8",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

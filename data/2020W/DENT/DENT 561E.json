@@ -1,1 +1,43 @@
-{"course_name":"DENT 561E","subject_code":"DENT","course_number":"561E","course_title":"Directed Studies in Dental Sciences - DST DENTAL SCIE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=561E&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"DENT 561E 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=561E&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"561E","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"3","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "DENT 561E",
+  "subject_code": "DENT",
+  "course_number": "561E",
+  "course_title": "Directed Studies in Dental Sciences - DST DENTAL SCIE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=561E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 561E 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=561E&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "561E",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "3",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

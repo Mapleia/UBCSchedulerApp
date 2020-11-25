@@ -1,1 +1,70 @@
-{"course_name":"PHAR 469","subject_code":"PHAR","course_number":"469","course_title":"Introductory Pharmacy Practice Experience II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=469&sessyr=2020&sesscd=W","sections":{"001":{"status":"Unreleased","section":"PHAR 469 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=469&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHAR","course_number":"469","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"PHAR 469 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=469&section=002&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHAR","course_number":"469","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["DHALIWAL, NEELAM","YEUNG, JANICE"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"A 160-hour pharmacy clerkship focused on delivery of comprehensive patient care and disease management in community practice."}
+{
+  "course_name": "PHAR 469",
+  "subject_code": "PHAR",
+  "course_number": "469",
+  "course_title": "Introductory Pharmacy Practice Experience II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=469&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "PHAR 469 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=469&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHAR",
+      "course_number": "469",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHAR 469 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=469&section=002&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHAR",
+      "course_number": "469",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "DHALIWAL, NEELAM",
+        "YEUNG, JANICE"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    }
+  ],
+  "credits": 3,
+  "description": "A 160-hour pharmacy clerkship focused on delivery of comprehensive patient care and disease management in community practice.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

@@ -1,1 +1,96 @@
-{"course_name":"LAW 312D","subject_code":"LAW","course_number":"312D","course_title":"Topics in Philosophy of Law and Theoretical Perspectives - TPCS PHIL&THRTCL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=312D&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 312D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"LAW","course_number":"312D","section_number":"001","building":" ","room":"","instructors":["LIN, LI-WEN"],"totalRemaining":"3","currentlyRegistered":"12","generalRemaining":"3","restrictedRemaining":"0"},"002":{"status":"Full","section":"LAW 312D 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"LAW","course_number":"312D","section_number":"002","building":" ","room":"","instructors":["LISTON, MARY ANN"],"totalRemaining":"0","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"0"},"003":{"status":"Full","section":"LAW 312D 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"LAW","course_number":"312D","section_number":"003","building":" ","room":"","instructors":["ETXABE, JULEN"],"totalRemaining":"0","currentlyRegistered":"14","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 312D",
+  "subject_code": "LAW",
+  "course_number": "312D",
+  "course_title": "Topics in Philosophy of Law and Theoretical Perspectives - TPCS PHIL&THRTCL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=312D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 312D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "312D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LIN, LI-WEN"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LAW 312D 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "312D",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LISTON, MARY ANN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LAW 312D 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=312D&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "312D",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ETXABE, JULEN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "9",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Not offered each year, consult Faculty.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

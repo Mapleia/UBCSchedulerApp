@@ -1,1 +1,176 @@
-{"course_name":"FRST 200","subject_code":"FRST","course_number":"200","course_title":"Forest Plant Biology I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=200&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"FRST 200 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"Forestry students should plan to take FRST 200 in TERM 1 and FRST 210 in TERM 2.This course is also open to non-Forestry students who meet the prerequisites.  Non-Forestry students may take only FRST 200 if they so wished.","subject_code":"FRST","course_number":"200","section_number":"001","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"0","currentlyRegistered":"200","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":"Full","section":"FRST 200 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"10:00","end":"12:00","comments":"","subject_code":"FRST","course_number":"200","section_number":"L01","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"L02":{"status":"Full","section":"FRST 200 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"13:00","end":"15:00","comments":"","subject_code":"FRST","course_number":"200","section_number":"L02","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"L03":{"status":" ","section":"FRST 200 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"15:00","end":"17:00","comments":"","subject_code":"FRST","course_number":"200","section_number":"L03","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"10","currentlyRegistered":"25","generalRemaining":"10","restrictedRemaining":"0"},"L04":{"status":"Full","section":"FRST 200 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L04&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"8:00","end":"10:00","comments":"","subject_code":"FRST","course_number":"200","section_number":"L04","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"},"L05":{"status":"Full","section":"FRST 200 L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L05&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"8:00","end":"10:00","comments":"","subject_code":"FRST","course_number":"200","section_number":"L05","building":" ","room":"","instructors":["GUY, ROBERT"],"totalRemaining":"0","currentlyRegistered":"43","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The structure, diversity and development of trees and other plants, with emphasis on the angiosperms."}
+{
+  "course_name": "FRST 200",
+  "subject_code": "FRST",
+  "course_number": "200",
+  "course_title": "Forest Plant Biology I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "FRST 200 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Forestry students should plan to take FRST 200 in TERM 1 and FRST 210 in TERM 2.This course is also open to non-Forestry students who meet the prerequisites.  Non-Forestry students may take only FRST 200 if they so wished.",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "198",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 200 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "44",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 200 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRST 200 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "24",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 200 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "FRST 200 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=200&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "200",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GUY, ROBERT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "42",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The structure, diversity and development of trees and other plants, with emphasis on the angiosperms.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

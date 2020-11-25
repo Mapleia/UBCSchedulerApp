@@ -1,1 +1,97 @@
-{"course_name":"PSYC 270","subject_code":"PSYC","course_number":"270","course_title":"Introduction to Behavioural Neuroscience","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=270&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PSYC 270 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"PSYC","course_number":"270","section_number":"001","building":" ","room":"","instructors":["SOMA, KIRAN"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":"Full","section":"PSYC 270 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"14:00","end":"16:00","comments":"","subject_code":"PSYC","course_number":"270","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"52","generalRemaining":"0","restrictedRemaining":"0"},"L02":{"status":"Restricted","section":"PSYC 270 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Tue","start":"16:00","end":"18:00","comments":"","subject_code":"PSYC","course_number":"270","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"48","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Foundational topics in behavioural neuroscience. Credit will be granted for only one of PSYC 260 or PSYC 270."}
+{
+  "course_name": "PSYC 270",
+  "subject_code": "PSYC",
+  "course_number": "270",
+  "course_title": "Introduction to Behavioural Neuroscience",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=270&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PSYC 270 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "270",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SOMA, KIRAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "99",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Full",
+      "section": "PSYC 270 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "270",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "51",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "PSYC 270 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=270&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "PSYC",
+      "course_number": "270",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "48",
+      "generalRemaining": "0",
+      "restrictedRemaining": "2"
+    }
+  ],
+  "credits": 3,
+  "description": "Foundational topics in behavioural neuroscience. Credit will be granted for only one of PSYC 260 or PSYC 270.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

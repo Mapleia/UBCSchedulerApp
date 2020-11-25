@@ -1,1 +1,101 @@
-{"course_name":"ENGL 222","subject_code":"ENGL","course_number":"222","course_title":"Literature in Canada","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=222&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ENGL 222 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ENGL","course_number":"222","section_number":"002","building":" ","room":"","instructors":["GRUBISIC, BRETT"],"totalRemaining":"3","currentlyRegistered":"42","generalRemaining":"3","restrictedRemaining":"0"},"003":{"status":" ","section":"ENGL 222 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"The instructor for this course is Alicia Fahey.","subject_code":"ENGL","course_number":"222","section_number":"003","building":"Buchanan","room":"B313","instructors":["FAHEY, ALICIA"],"totalRemaining":"1","currentlyRegistered":"44","generalRemaining":"1","restrictedRemaining":"0"},"004":{"status":" ","section":"ENGL 222 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=004&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ENGL","course_number":"222","section_number":"004","building":"Mathematics","room":"104","instructors":["HART, ALEXANDER"],"totalRemaining":"19","currentlyRegistered":"26","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The major types of Canadian writing: fiction, poetry, non-fictional prose, and drama"}
+{
+  "course_name": "ENGL 222",
+  "subject_code": "ENGL",
+  "course_number": "222",
+  "course_title": "Literature in Canada",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=222&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 222 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "222",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRUBISIC, BRETT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "42",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 222 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "The instructor for this course is Alicia Fahey.",
+      "subject_code": "ENGL",
+      "course_number": "222",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FAHEY, ALICIA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "44",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ENGL 222 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=222&section=004&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "222",
+      "section_number": "004",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HART, ALEXANDER"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "29",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The major types of Canadian writing: fiction, poetry, non-fictional prose, and drama",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

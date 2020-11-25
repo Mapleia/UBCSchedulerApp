@@ -1,1 +1,78 @@
-{"course_name":"STAT 305","subject_code":"STAT","course_number":"305","course_title":"Introduction to Statistical Inference","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=305&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"STAT 305 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"16:00","end":"17:00","comments":"As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS!For registration and wait list information, see: https://www.stat.ubc.ca/undergrad-registration-info-and-faqsSeats reserved for Stat specializations will be released one month after registration open if not filled. Students registered on the wait list will receive first priority for unfilled seats.","subject_code":"STAT","course_number":"305","section_number":"101","building":" ","room":"","instructors":["BOUCHARD-COTE, ALEXANDRE","BOUCHARD-COTE, ALEXANDRE(Coordinator)"],"totalRemaining":"41","currentlyRegistered":"139","generalRemaining":"20","restrictedRemaining":"21"},"202":{"status":"Full","section":"STAT 305 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"16:00","end":"17:00","comments":"For registration information, see:https://www.stat.ubc.ca/undergrad-registration-info-and-faqsSEATS RESERVED FOR STATISTICS MAJORS WILL BE RELEASED ON AUGUST 1ST IF NOT FILLED.Note: please do not register in this course unless you can also find an open seat in a lab section that does not conflict with your schedule. We are not able to overload our labs for any reason, so if you are unable to find a seat in a lab section that does not conflict with yoru schedule, please do not register for the class.","subject_code":"STAT","course_number":"305","section_number":"202","building":"West Mall Swing Space","room":"221","instructors":["BLOEM-REDDY, BENJAMIN","BLOEM-REDDY, BENJAMIN(Coordinator)","WELCH, WILLIAM","WELCH, WILLIAM(Coordinator)"],"totalRemaining":"0","currentlyRegistered":"180","generalRemaining":"0","restrictedRemaining":"0"},"L2A":{"status":" ","section":"STAT 305 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"16:00","end":"17:00","comments":"","subject_code":"STAT","course_number":"305","section_number":"L2A","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"32","generalRemaining":"4","restrictedRemaining":"0"},"L2B":{"status":"Full","section":"STAT 305 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"17:00","end":"18:00","comments":"","subject_code":"STAT","course_number":"305","section_number":"L2B","building":"Earth Sciences Building","room":"1042","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":" ","section":"STAT 305 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"8:00","end":"9:00","comments":"","subject_code":"STAT","course_number":"305","section_number":"L2C","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"18","currentlyRegistered":"18","generalRemaining":"18","restrictedRemaining":"0"},"L2D":{"status":"Full","section":"STAT 305 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"11:00","end":"12:00","comments":"","subject_code":"STAT","course_number":"305","section_number":"L2D","building":"Earth Sciences Building","room":"1042","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"L2E":{"status":"Full","section":"STAT 305 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"9:00","end":"10:00","comments":"","subject_code":"STAT","course_number":"305","section_number":"L2E","building":"Earth Sciences Building","room":"1046","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Review of probability theory. Sampling distribution theory, large sample theory and methods of estimation and hypothesis testing, including maximum likelihood estimation, likelihood ratio testing and confidence interval construction."}
+{
+  "course_name": "STAT 305",
+  "subject_code": "STAT",
+  "course_number": "305",
+  "course_title": "Introduction to Statistical Inference",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=305&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "STAT 305 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "As the course is on-line this term you DO NOT HAVE TO REGISTER FOR LABS!For registration and wait list information, see: https://www.stat.ubc.ca/undergrad-registration-info-and-faqsSeats reserved for Stat specializations will be released one month after registration open if not filled. Students registered on the wait list will receive first priority for unfilled seats.",
+      "subject_code": "STAT",
+      "course_number": "305",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BOUCHARD-COTE, ALEXANDRE",
+        "BOUCHARD-COTE, ALEXANDRE(Coordinator)"
+      ],
+      "totalRemaining": "48",
+      "currentlyRegistered": "132",
+      "generalRemaining": "26",
+      "restrictedRemaining": "22"
+    },
+    {
+      "status": "Full",
+      "section": "STAT 305 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=305&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "For registration information, see:https://www.stat.ubc.ca/undergrad-registration-info-and-faqsSEATS RESERVED FOR STATISTICS MAJORS WILL BE RELEASED ON AUGUST 1ST IF NOT FILLED.Note: We are no longer holding labs for this course this term",
+      "subject_code": "STAT",
+      "course_number": "305",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BLOEM-REDDY, BENJAMIN",
+        "BLOEM-REDDY, BENJAMIN(Coordinator)",
+        "WELCH, WILLIAM",
+        "WELCH, WILLIAM(Coordinator)"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "180",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Review of probability theory. Sampling distribution theory, large sample theory and methods of estimation and hypothesis testing, including maximum likelihood estimation, likelihood ratio testing and confidence interval construction.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

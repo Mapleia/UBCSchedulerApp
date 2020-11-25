@@ -1,1 +1,69 @@
-{"course_name":"SPPH 540","subject_code":"SPPH","course_number":"540","course_title":"Program Planning and Evaluation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=540&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"SPPH 540 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=540&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"9:00","end":"12:00","comments":"Classroom Location: SPPH B104","subject_code":"SPPH","course_number":"540","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"DL2":{"status":"Restricted","section":"SPPH 540 DL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=540&section=DL2&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Fri","start":"8:30","end":"16:30","comments":"Classroom location: SPPH B104Please note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.","subject_code":"SPPH","course_number":"540","section_number":"DL2","building":" ","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"15","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Examines the concept of evaluation in health services and how various methodological approaches can be used in evaluative studies."}
+{
+  "course_name": "SPPH 540",
+  "subject_code": "SPPH",
+  "course_number": "540",
+  "course_title": "Program Planning and Evaluation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=540&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SPPH 540 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=540&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Course will be delivered entirely online.  To access course module, visit UBC Canvas at www.canvas.ubc.ca",
+      "subject_code": "SPPH",
+      "course_number": "540",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SPPH 540 DL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=540&section=DL2&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:30",
+      "end": "16:30",
+      "comments": "Course is delivered entirely online.  To access, please log on to UBC Canvas at www.canvas.ubc.caPlease note, because of DL course-conflict scheduling issues, please double check to make sure this course does not conflict with any of the other courses you have registered in this term.",
+      "subject_code": "SPPH",
+      "course_number": "540",
+      "section_number": "DL2",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Examines the concept of evaluation in health services and how various methodological approaches can be used in evaluative studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

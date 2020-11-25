@@ -1,1 +1,46 @@
-{"course_name":"INLB 210","subject_code":"INLB","course_number":"210","course_title":"Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=210&sessyr=2020&sesscd=W","sections":{"005":{"status":"Blocked","section":"INLB 210 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=210&section=005&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.","subject_code":"INLB","course_number":"210","section_number":"005","building":" ","room":"","instructors":["8","2","8","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Cultural, political, and economic context that informs the experiences of Indigenous people and communities. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."}
+{
+  "course_name": "INLB 210",
+  "subject_code": "INLB",
+  "course_number": "210",
+  "course_title": "Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=INLB&course=210&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "INLB 210 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=INLB&course=210&section=005&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This section is offered as part of the Dechinta Certificate in Land Based Research and is not open for registration. Visit dechinta.ca for more information.",
+      "subject_code": "INLB",
+      "course_number": "210",
+      "section_number": "005",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "8",
+        "2",
+        "8",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Cultural, political, and economic context that informs the experiences of Indigenous people and communities. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s).",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

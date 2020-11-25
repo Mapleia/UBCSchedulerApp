@@ -1,1 +1,71 @@
-{"course_name":"ELEC 455","subject_code":"ELEC","course_number":"455","course_title":"Power Systems Protection","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=455&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"ELEC 455 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=455&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"15:00","end":"18:00","comments":"","subject_code":"ELEC","course_number":"455","section_number":"201","building":"UBC Life Building","room":"2212","instructors":["HENVILLE, CHARLES FRANCIS","NAGPAL, MUKESH"],"totalRemaining":"36","currentlyRegistered":"14","generalRemaining":"36","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 455 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=455&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"455","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis of disturbances, security of power systems, cascading and blackouts; role and impact of protection; transducers and measuring elements; protection of transmission and distribution systems; protection of generators, substation equipment, special protection systems and relays."}
+{
+  "course_name": "ELEC 455",
+  "subject_code": "ELEC",
+  "course_number": "455",
+  "course_title": "Power Systems Protection",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=455&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ELEC 455 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=455&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "455",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HENVILLE, CHARLES FRANCIS",
+        "NAGPAL, MUKESH"
+      ],
+      "totalRemaining": "35",
+      "currentlyRegistered": "15",
+      "generalRemaining": "35",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 455 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=455&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "455",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of disturbances, security of power systems, cascading and blackouts; role and impact of protection; transducers and measuring elements; protection of transmission and distribution systems; protection of generators, substation equipment, special protection systems and relays.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

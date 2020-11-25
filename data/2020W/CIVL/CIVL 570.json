@@ -1,1 +1,44 @@
-{"course_name":"CIVL 570","subject_code":"CIVL","course_number":"570","course_title":"Advanced Soil Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=570&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"CIVL 570 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=570&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"14:00","end":"15:00","comments":"Do NOT contact the professor regarding registration problems.Please check back regularly to see if space opens up in the class.   Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  If you do not have pre-requisites for CIVL 570 please register to the waitlist and meet the instructor on the first day of the class.","subject_code":"CIVL","course_number":"570","section_number":"101","building":" ","room":"","instructors":["WIJEWICKREME, DHARMAPRIYA"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"26","restrictedRemaining":"3"}},"credits":"Credits: 2","description":"Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading."}
+{
+  "course_name": "CIVL 570",
+  "subject_code": "CIVL",
+  "course_number": "570",
+  "course_title": "Advanced Soil Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=570&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CIVL 570 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=570&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "Do NOT contact the professor regarding registration problems.Please check back regularly to see if space opens up in the class.   Priority will be given to students requiring the course as a core component to their program and to Civil Engineering students requesting the course as a technical elective (if applicable).  If you do not have pre-requisites for CIVL 570 please register to the waitlist and meet the instructor on the first day of the class.",
+      "subject_code": "CIVL",
+      "course_number": "570",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WIJEWICKREME, DHARMAPRIYA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "21",
+      "generalRemaining": "26",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 2,
+  "description": "Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MUSC 545C","subject_code":"MUSC","course_number":"545C","course_title":"Seminar in Conducting and Repertoire II - WIND COND&REP II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=545C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"MUSC 545C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=545C&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Thu","start":"13:30","end":"15:30","comments":"Please contact instructor for permission to register (rob.taylor@ubc.ca).  Class will meet in MUSC Room 319.","subject_code":"MUSC","course_number":"545C","section_number":"001","building":" ","room":"","instructors":["TAYLOR, ROBERT"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 4","description":"Advanced study of conducting techniques and of representative major compositions and literature (later historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance."}
+{
+  "course_name": "MUSC 545C",
+  "subject_code": "MUSC",
+  "course_number": "545C",
+  "course_title": "Seminar in Conducting and Repertoire II - WIND COND&REP II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=545C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MUSC 545C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=545C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "Please contact instructor for permission to register (rob.taylor@ubc.ca).  Class will meet in MUSC Room 319.",
+      "subject_code": "MUSC",
+      "course_number": "545C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 4,
+  "description": "Advanced study of conducting techniques and of representative major compositions and literature (later historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"DENT 572","subject_code":"DENT","course_number":"572","course_title":"Literature Review in Periodontics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=572&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 572 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=572&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Fri","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"572","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["HAKKINEN, LARI","LAKSCHEVITZ, FLAVIA"],"totalRemaining":"30","currentlyRegistered":"2","generalRemaining":"30","restrictedRemaining":"0"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "DENT 572",
+  "subject_code": "DENT",
+  "course_number": "572",
+  "course_title": "Literature Review in Periodontics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=572&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 572 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=572&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "572",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HAKKINEN, LARI"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "2",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

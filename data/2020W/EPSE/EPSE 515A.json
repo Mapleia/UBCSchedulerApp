@@ -1,1 +1,43 @@
-{"course_name":"EPSE 515A","subject_code":"EPSE","course_number":"515A","course_title":"Building Supportive School and Community Environments to Prevent Problem Behaviour  - BULD SUPP SCH BE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=515A&sessyr=2020&sesscd=W","sections":{"074":{"status":" ","section":"EPSE 515A 074","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=515A&section=074&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"","subject_code":"EPSE","course_number":"515A","section_number":"074","building":"Neville Scarfe","room":"202","instructors":["LUCYSHYN, JOSEPH"],"totalRemaining":"7","currentlyRegistered":"13","generalRemaining":"7","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Evidence-based primary and secondary prevention approaches and practices that aim to prevent the development of behaviour disorders in children and youth."}
+{
+  "course_name": "EPSE 515A",
+  "subject_code": "EPSE",
+  "course_number": "515A",
+  "course_title": "Building Supportive School and Community Environments to Prevent Problem Behaviour  - BULD SUPP SCH BE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=515A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EPSE 515A 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=515A&section=074&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EPSE",
+      "course_number": "515A",
+      "section_number": "074",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LUCYSHYN, JOSEPH"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "15",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Evidence-based primary and secondary prevention approaches and practices that aim to prevent the development of behaviour disorders in children and youth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

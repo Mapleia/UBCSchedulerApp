@@ -1,1 +1,43 @@
-{"course_name":"EDCP 542","subject_code":"EDCP","course_number":"542","course_title":"Theorizing Pedagogy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=542&sessyr=2020&sesscd=W","sections":{"032":{"status":" ","section":"EDCP 542 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=542&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"","subject_code":"EDCP","course_number":"542","section_number":"032","building":"Neville Scarfe","room":"208","instructors":["PHELAN, ANNE"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Pedagogy as construed by teacher-researchers, curriculum thinkers, indigenous scholars, educational philosophers, and cultural theorists."}
+{
+  "course_name": "EDCP 542",
+  "subject_code": "EDCP",
+  "course_number": "542",
+  "course_title": "Theorizing Pedagogy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=542&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "EDCP 542 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=542&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "542",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PHELAN, ANNE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Pedagogy as construed by teacher-researchers, curriculum thinkers, indigenous scholars, educational philosophers, and cultural theorists.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

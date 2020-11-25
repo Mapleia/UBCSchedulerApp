@@ -1,1 +1,123 @@
-{"course_name":"LLED 462","subject_code":"LLED","course_number":"462","course_title":"School Library Resource Centre Programs","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=462&sessyr=2020&sesscd=W","sections":{"63A":{"status":"Blocked","section":"LLED 462 63A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=63A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship, and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 452 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"462","section_number":"63A","building":" ","room":"","instructors":["DELVECCHIO, JENNIFER"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"5"},"63C":{"status":"Restricted","section":"LLED 462 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship, and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 452 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"462","section_number":"63C","building":"No Scheduled Meeting","room":"","instructors":["SCHEMBRI, NATALIE"],"totalRemaining":"8","currentlyRegistered":"22","generalRemaining":"0","restrictedRemaining":"8"},"W3A":{"status":"Blocked","section":"LLED 462 W3A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=W3A&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 462. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"462","section_number":"W3A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"},"W3C":{"status":"Blocked","section":"LLED 462 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is a priority sequence waitlist for LLED 462. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.","subject_code":"LLED","course_number":"462","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"30"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "LLED 462",
+  "subject_code": "LLED",
+  "course_number": "462",
+  "course_title": "School Library Resource Centre Programs",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LLED&course=462&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LLED 462 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship, and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 452 W3A). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "462",
+      "section_number": "63A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DELVECCHIO, JENNIFER"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "LLED 462 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a core course for the Diploma in Education - Literacy Education, the Diploma in Education - Teacher-Librarianship, and the Certificate in Teacher-Librarianship. Registration will be blocked when the course is full. A priority sequence waitlist is available for this course (LLED 452 W3C). For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "462",
+      "section_number": "63C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "SCHEMBRI, NATALIE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 462 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 462. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "462",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Blocked",
+      "section": "LLED 462 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LLED&course=462&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a priority sequence waitlist for LLED 462. For information about how LLED wait lists function, please visit https://pdce.educ.ubc.ca/online-courses/.",
+      "subject_code": "LLED",
+      "course_number": "462",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

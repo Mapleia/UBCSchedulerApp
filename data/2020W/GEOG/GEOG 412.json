@@ -1,1 +1,182 @@
-{"course_name":"GEOG 412","subject_code":"GEOG","course_number":"412","course_title":"Water Management: Theory, Policy, and Practice.","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=412&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"GEOG 412 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"9:00","end":"10:00","comments":"Students can choose to participate synchronous online seminars at the scheduled meeting time or review content asynchronously.","subject_code":"GEOG","course_number":"412","section_number":"101","building":" ","room":"","instructors":["BAKKER, KAREN JESSICA"],"totalRemaining":"3","currentlyRegistered":"29","generalRemaining":"3","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"GEOG 412 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"9:00","end":"12:00","comments":"","subject_code":"GEOG","course_number":"412","section_number":"201","building":"Geography","room":"229","instructors":["BAKKER, KAREN JESSICA"],"totalRemaining":"1","currentlyRegistered":"31","generalRemaining":"1","restrictedRemaining":"0"},"L1A":{"status":"Full","section":"GEOG 412 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=L1A&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Mon","start":"10:00","end":"11:00","comments":"This online discussion has a synchronous scheduled meeting time.","subject_code":"GEOG","course_number":"412","section_number":"L1A","building":" ","room":"","instructors":["BAKKER, KAREN JESSICA"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"L1B":{"status":" ","section":"GEOG 412 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=L1B&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Mon","start":"19:00","end":"20:00","comments":"This online discussion has a synchronous scheduled meeting time.","subject_code":"GEOG","course_number":"412","section_number":"L1B","building":" ","room":"","instructors":["BAKKER, KAREN JESSICA"],"totalRemaining":"3","currentlyRegistered":"13","generalRemaining":"3","restrictedRemaining":"0"},"WL1":{"status":"Blocked","section":"GEOG 412 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOG 412, Section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOG","course_number":"412","section_number":"WL1","building":"","room":"","instructors":["20","0","20","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"WL2":{"status":" ","section":"GEOG 412 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOG 412, section 201 in term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOG","course_number":"412","section_number":"WL2","building":"","room":"","instructors":["12","8","12","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Interdisciplinary analysis of critical water issues, in Canada and internationally.  Focus on social science perspectives.  Emphasis on presentation, research, and essay-writing skills."}
+{
+  "course_name": "GEOG 412",
+  "subject_code": "GEOG",
+  "course_number": "412",
+  "course_title": "Water Management: Theory, Policy, and Practice.",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=412&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 412 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "Students can choose to participate synchronous online seminars at the scheduled meeting time or review content asynchronously.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAKKER, KAREN JESSICA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "29",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 412 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This online lecture is all asynchronous except for serveral synchronous class during scheduled time to answer students questions.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAKKER, KAREN JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 412 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAKKER, KAREN JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 412 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "19:00",
+      "end": "20:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAKKER, KAREN JESSICA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "13",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOG 412 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 412, Section 101, Term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "20",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "GEOG 412 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=412&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 412, section 201 in term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "412",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "14",
+        "6",
+        "14",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Interdisciplinary analysis of critical water issues, in Canada and internationally.  Focus on social science perspectives.  Emphasis on presentation, research, and essay-writing skills.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Discussion",
+    "Waiting List"
+  ]
+}

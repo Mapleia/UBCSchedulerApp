@@ -1,1 +1,127 @@
-{"course_name":"CPSC 540","subject_code":"CPSC","course_number":"540","course_title":"Machine Learning","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=540&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"CPSC 540 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:00","comments":"CPSC 540 is *not* an introductory course.  Only students who have (or will have) completed CPSC 340 or CPSC 532M or an equivalent rigorous introduction to Machine Learning (not just a MOOC) should register.","subject_code":"CPSC","course_number":"540","section_number":"201","building":"P. A. Woodward Instructional Resources Centre","room":"1","instructors":["SCHMIDT, MARK"],"totalRemaining":"0","currentlyRegistered":"27","generalRemaining":"0","restrictedRemaining":"0"},"2W1":{"status":"Restricted","section":"CPSC 540 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":"15:00","end":"16:30","comments":"","subject_code":"CPSC","course_number":"540","section_number":"2W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"47","currentlyRegistered":"53","generalRemaining":"0","restrictedRemaining":"47"},"T2A":{"status":"Restricted","section":"CPSC 540 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Thu","start":"12:00","end":"13:00","comments":"","subject_code":"CPSC","course_number":"540","section_number":"T2A","building":"West Mall Swing Space","room":"105","instructors":["TBA"],"totalRemaining":"120","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"120"},"T2B":{"status":"Unreleased","section":"CPSC 540 T2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=T2B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Thu","start":"13:00","end":"14:00","comments":"","subject_code":"CPSC","course_number":"540","section_number":"T2B","building":"West Mall Swing Space","room":"105","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 540",
+  "subject_code": "CPSC",
+  "course_number": "540",
+  "course_title": "Machine Learning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=540&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 540 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "CPSC 540 is *not* an introductory course.  Only students who have (or will have) completed CPSC 340 or CPSC 532M or an equivalent rigorous introduction to Machine Learning (not just a MOOC) should register.",
+      "subject_code": "CPSC",
+      "course_number": "540",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHMIDT, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 540 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "540",
+      "section_number": "2W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "48",
+      "currentlyRegistered": "52",
+      "generalRemaining": "0",
+      "restrictedRemaining": "48"
+    },
+    {
+      "status": "Restricted",
+      "section": "CPSC 540 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "540",
+      "section_number": "T2A",
+      "building": "West Mall Swing Space",
+      "room": "105",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "120",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "120"
+    },
+    {
+      "status": "Unreleased",
+      "section": "CPSC 540 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=540&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "540",
+      "section_number": "T2B",
+      "building": "West Mall Swing Space",
+      "room": "105",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List",
+    "Tutorial"
+  ]
+}

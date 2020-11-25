@@ -1,1 +1,44 @@
-{"course_name":"ENGL 245","subject_code":"ENGL","course_number":"245","course_title":"Comics and Graphic Media","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=245&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ENGL 245 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=245&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ENGL","course_number":"245","section_number":"001","building":"Buchanan","room":"D219","instructors":["MCNEILLY, KEVIN"],"totalRemaining":"0","currentlyRegistered":"75","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to the critical study of comics and graphic media."}
+{
+  "course_name": "ENGL 245",
+  "subject_code": "ENGL",
+  "course_number": "245",
+  "course_title": "Comics and Graphic Media",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=245&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 245 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=245&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "245",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCNEILLY, KEVIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "74",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to the critical study of comics and graphic media.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

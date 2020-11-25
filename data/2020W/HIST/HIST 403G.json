@@ -1,1 +1,43 @@
-{"course_name":"HIST 403G","subject_code":"HIST","course_number":"403G","course_title":"Seminar in the History of International Relations - MDRN NRTH AFRICA","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403G&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"HIST 403G 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403G&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"In 2020W, this seminar will be held on line. The topic for HIST 403G, 101 is Modern North Africa.","subject_code":"HIST","course_number":"403G","section_number":"101","building":" ","room":"","instructors":["BYRNE, JEFFREY"],"totalRemaining":"5","currentlyRegistered":"13","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations."}
+{
+  "course_name": "HIST 403G",
+  "subject_code": "HIST",
+  "course_number": "403G",
+  "course_title": "Seminar in the History of International Relations - MDRN NRTH AFRICA",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 403G 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403G&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "In 2020W, this seminar will be held on line. The topic for HIST 403G, 101 is Modern North Africa.",
+      "subject_code": "HIST",
+      "course_number": "403G",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BYRNE, JEFFREY"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "13",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

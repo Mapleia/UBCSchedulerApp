@@ -1,1 +1,45 @@
-{"course_name":"STAT 536E","subject_code":"STAT","course_number":"536E","course_title":"Statistical Theory for the Design and Analysis of Clinical Studies - BIOSTAT METHODS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=536E&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"STAT 536E 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=536E&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Credit will not be granted for those with credit in Stat 536A, B, or C","subject_code":"STAT","course_number":"536E","section_number":"201","building":"Earth Sciences Building","room":"4192","instructors":["WU, LANG","WU, LANG(Coordinator)"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 2","description":" "}
+{
+  "course_name": "STAT 536E",
+  "subject_code": "STAT",
+  "course_number": "536E",
+  "course_title": "Statistical Theory for the Design and Analysis of Clinical Studies - BIOSTAT METHODS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=536E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "STAT 536E 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=536E&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Credit will not be granted for those with credit in Stat 536A, B, or C",
+      "subject_code": "STAT",
+      "course_number": "536E",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WU, LANG",
+        "WU, LANG(Coordinator)"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "8"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

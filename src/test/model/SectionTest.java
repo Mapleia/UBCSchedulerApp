@@ -1,320 +1,340 @@
 package model;
 
-
-import exceptions.NoSectionFound;
 import org.json.JSONObject;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import persistence.JsonReader;
 
-import java.io.IOException;
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
-import java.util.ArrayList;
-import java.util.List;
+import java.time.LocalDate;
+import java.time.LocalTime;
+import java.util.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 public class SectionTest {
-    private static final String[] PREFERENCE_ARRAY = {"Afternoon", "Morning", "Evening"};
-    private TimeTable timeTableW;
-    private TimeTable timeTableS;
-    private Course cpsc210;
-    private Course biol155;
-    private Section sectionL1U;
-    private Section sectionT;
-    private final String[] cpsc210L1U = new String[]{"CPSC 210 L1U", "Laboratory"};
-
+    public Course cpsc210;
+    public JsonReader reader;
+    public Section cpsc210_101;
+    public List<String> preferences = new LinkedList<>();
 
     @BeforeEach
     public void setup() {
-        timeTableW = new TimeTable(2020, true, PREFERENCE_ARRAY);
-        timeTableS = new TimeTable(2021, false, PREFERENCE_ARRAY);
+        reader = new JsonReader("./data/2020W/CPSC/CPSC 210.json");
+        preferences.add("Afternoon");
+        preferences.add("Evening");
+        preferences.add("Morning");
 
         try {
-            biol155 = Course.createCourse("BIOL", "155", timeTableS);
-            cpsc210 = Course.createCourse("CPSC", "210", timeTableW);
-            JSONObject obj = JsonReader.findCourseFile("CPSC", "210", timeTableW);
-
-            sectionL1U = cpsc210.get(cpsc210L1U[0]);
-            sectionT = Section.createSection(obj.getJSONObject("sections").getJSONObject("L1U"), timeTableW);
-
+            cpsc210 = reader.readCourse("2020W", preferences);
+            cpsc210.sortSections();
         } catch (Exception e) {
-            fail("No course found, setup failed.");
-            e.printStackTrace();
-        }
-    }
-
-    @Test
-    public void testConstructor() {
-        assertEquals("Full", sectionL1U.getStatus());
-        assertEquals(cpsc210L1U[0], sectionL1U.getSection());
-        assertEquals("18:00", sectionL1U.getStart());
-        assertEquals("20:00", sectionL1U.getEnd());
-        assertEquals(cpsc210L1U[1], sectionL1U.getActivity());
-        assertEquals("1", sectionL1U.getTerm());
-        assertEquals(" Tue", sectionL1U.getDays());
-        assertFalse(sectionL1U.isCrucialFieldsBlank());
-        assertEquals("Evening", sectionL1U.getTimeSlot());
-    }
-
-    @Test
-    public void testEquals() {
-        assertTrue(sectionL1U.equals(sectionT));
-        try {
-            assertFalse(sectionT.equals(cpsc210.get("CPSC 210 101")));
-        } catch (NoSectionFound noSectionFound) {
-            noSectionFound.printStackTrace();
             fail();
         }
     }
 
     @Test
-    public void testEqualsNotSection() {
-        assertFalse(sectionL1U.equals(cpsc210));
+    public void testCreateSection() {
+        ArrayList<String> days = new ArrayList<>();
+        days.add("TUE");
+        assertEquals("CPSC 210 L1U", cpsc210.getSectionsMap().get("CPSC 210 L1U").getSection());
+        assertEquals("18:00", cpsc210.getSectionsMap().get("CPSC 210 L1U").getStart().toString());
+        assertEquals("CPSC 210", cpsc210.getSectionsMap().get("CPSC 210 L1U").getCourse());
+        assertEquals(cpsc210.getSectionsMap().get("CPSC 210 L1U").getDays(), days);
+        assertEquals(cpsc210.getSectionsMap().get("CPSC 210 L1U").getTerm(), "1");
     }
 
     @Test
-    public void testHashCode() {
-        assertEquals(sectionL1U.hashCode(), sectionT.hashCode());
-    }
+    public void testToJson() {
+        ArrayList<String> days = new ArrayList<>();
+        days.add("TUE");
 
-    @Test
-    public void testOverlappingTrueFull() {
-        // s ----- e
-        // 18 --- 20
-        // s ----- e
-        Section sectionNew = new Section("Full", "BIOL 200 LI8", "18:00", "20:00",
-                "Laboratory", "1", "Tue", timeTableW);
-        assertTrue(sectionNew.isOverlapping(sectionL1U));
-    }
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("status", "Full");
+        jsonObject.put("section", "CPSC 210 L1U");
+        jsonObject.put("course", "CPSC 210");
+        jsonObject.put("activity", "Laboratory");
+        jsonObject.put("term", "1");
+        jsonObject.put("days", days);
+        jsonObject.put("start", "18:00");
+        jsonObject.put("end", "19:50");
 
-    @Test
-    public void testOverlappingTrueStart() {
-        // OG:    s ----- e
-        //        18 --- 20
-        //  N: s ----- e
-        //     17 --- 19
-        Section sectionNew = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Laboratory", "1", "Tue", timeTableW);
-        assertTrue(sectionNew.isOverlapping(sectionL1U));
-    }
-
-    @Test
-    public void testOverlappingTrueLong() {
-        // OG:  s ----- e
-        //      18 --- 20
-        // N: s -------- e
-        //    17 ------ 20:30
-        Section sectionNew = new Section("Full", "BIOL 200 LI8", "17:00", "20:30",
-                "Laboratory", "1", "Tue", timeTableW);
-        assertTrue(sectionNew.isOverlapping(sectionL1U));
-    }
-
-    @Test
-    public void testOverlappingTrueEnd() {
-        // OG:  s ----- e
-        //      18 --- 20
-        // N:       s ----- e
-        //          17 --- 20:30
-        Section sectionNew = new Section("Full", "BIOL 200 LI8", "19:30", "21:30",
-                "Laboratory", "1", "Tue", timeTableW);
-        assertTrue(sectionNew.isOverlapping(sectionL1U));
-    }
-
-    @Test
-    public void testOverlappingMultipleTrue() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Laboratory", "1", "Tue", timeTableW);
-        Section s2 = new Section("Full", "BIOL 200 LI8", "17:00", "20:30",
-                "Laboratory", "1", "Mon", timeTableW);
-        Section s3 = new Section("Full", "BIOL 200 LI8", "19:30", "21:30",
-                "Laboratory", "1", "Wed", timeTableW);
-
-        List<Section> listS = new ArrayList<>();
-        listS.add(s1);
-        listS.add(s2);
-        listS.add(s3);
-        assertTrue(sectionL1U.isOverlapping(listS));
-    }
-
-    @Test
-    public void testOverlappingEmpty() {
-        List<Section> listS = new ArrayList<>();
-        assertFalse(sectionL1U.isOverlapping(listS));
-    }
-
-    @Test
-    public void testOverlappingMultipleFalse() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Laboratory", "1", "Fri", timeTableW);
-        Section s2 = new Section("Full", "BIOL 200 LI8", "17:00", "20:30",
-                "Laboratory", "1", "Mon", timeTableW);
-        Section s3 = new Section("Full", "BIOL 200 LI8", "19:30", "21:30",
-                "Laboratory", "1", "Wed", timeTableW);
-        List<Section> listS = new ArrayList<>();
-        listS.add(s1);
-        listS.add(s2);
-        listS.add(s3);
-        assertFalse(sectionL1U.isOverlapping(listS));
-    }
-
-    @Test
-    public void testOverlappingTrueMultipleDays() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Laboratory", "1", "Tue Thu", timeTableW);
-        assertTrue(sectionL1U.isOverlapping(s1));
-        assertTrue(s1.isOverlapping(sectionL1U));
+        JSONObject test = cpsc210.getSectionsMap().get("CPSC 210 L1U").toJson();
+        assertTrue(test.similar(jsonObject));
 
     }
 
-
-
     @Test
-    public void testDaysIsBlankNotLecture() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Laboratory", "1", " ", timeTableW);
-        assertEquals("Laboratory", s1.getActivity());
+    public void testCreateZonedDateTimes() {
+        cpsc210_101 = cpsc210.getSectionsMap().get("CPSC 210 101");
+
+        assertEquals(cpsc210_101.getFirstWeekList().get(0), LocalDate.of(2020, 9, 2));
+        assertEquals(cpsc210_101.getFirstWeekList().get(1), LocalDate.of(2020, 9, 4));
+        assertEquals(cpsc210_101.getFirstWeekList().get(2), LocalDate.of(2020, 9, 7));
+
     }
 
     @Test
-    public void testDaysIsBlankLecture() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Lecture", "1", " ", timeTableW);
-        assertEquals("Required", s1.getActivity());
-    }
-
-    @Test
-    public void testDaysIsBlankWebOrientedCourse() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Web-Oriented Course", "1", " ", timeTableW);
-        assertEquals("Required", s1.getActivity());
-    }
-
-    @Test
-    public void testFormatDateAndTime() {
-        TimeSpan zdt = sectionL1U.getTimeSpans().get(0);
-
-        ZonedDateTime startT;
-        ZonedDateTime endT;
-
-        startT = ZonedDateTime.of(2020, 9, 8, 18, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        endT = ZonedDateTime.of(2020, 9, 8, 20, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        assertEquals(startT, zdt.getStart());
-        assertEquals(endT, zdt.getEnd());
-    }
-
-    @Test
-    public void testFormatDateAndTimeSpring() {
-
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Web-Oriented Course", "2", "Tue", timeTableW);
-        TimeSpan zdt = s1.getTimeSpans().get(0);
-
-        ZonedDateTime startT;
-        ZonedDateTime endT;
-
-        startT = ZonedDateTime.of(2021, 1, 5, 17, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        endT = ZonedDateTime.of(2021, 1, 5, 19, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        assertEquals(startT, zdt.getStart());
-        assertEquals(endT, zdt.getEnd());
-    }
-
-    @Test
-    public void testFormatDateAndTimeSummer1() {
-        TimeTable timeTableS = new TimeTable(2021, false, PREFERENCE_ARRAY);
-
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Web-Oriented Course", "1", "Tue", timeTableS);
-
-        TimeSpan zdt = s1.getTimeSpans().get(0);
-
-        ZonedDateTime startT;
-        ZonedDateTime endT;
-
-        startT = ZonedDateTime.of(2021, 5, 4, 17, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        endT = ZonedDateTime.of(2021, 5, 4, 19, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        assertEquals(startT, zdt.getStart());
-        assertEquals(endT, zdt.getEnd());
-    }
-
-    @Test
-    public void testFormatDateAndTimeSummer2() {
-        TimeTable timeTableS = new TimeTable(2021, false, PREFERENCE_ARRAY);
-
-        Section s1 = new Section("Full", "BIOL 200 LI8", "17:00", "19:00",
-                "Web-Oriented Course", "2", "Tue", timeTableS);
-
-        TimeSpan zdt = s1.getTimeSpans().get(0);
-
-        ZonedDateTime startT;
-        ZonedDateTime endT;
-
-        startT = ZonedDateTime.of(2021, 7, 6, 17, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        endT = ZonedDateTime.of(2021, 7, 6, 19, 0, 0, 0,
-                ZoneId.of(TimeSpan.TIMEZONE));
-
-        assertEquals(startT, zdt.getStart());
-        assertEquals(endT, zdt.getEnd());
-    }
-
-    @Test
-    public void testEmptyTimeSpans() {
-
-        Section s1 = new Section("Full", "BIOL 200 LI8", " ", " ",
-                "Web-Oriented Course", "2", " ", timeTableW);
-
-        assertTrue(s1.getTimeSlot().equals(""));
-        assertTrue(s1.getTimeSpans().isEmpty());
-    }
-
-    @Test
-    public void testNoTerm() {
-        Section s1 = new Section("Full", "BIOL 200 LI8", "18:00", "19:00",
-                "Web-Oriented Course", " ", "Tue", timeTableW);
-        assertEquals(9, s1.getTimeSpans().get(0).getStart().getMonthValue());
-    }
-
-    @Test
-    public void testOverlappingDoubleTerm() {
+    public void testStartEndIsNull() {
+        Course biol200;
+        JsonReader readerNew = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
         try {
-            Section s1 = new Section("Full", "BIOL 200 LI8", "14:30", "17:00",
-                    "Web-Oriented Course", "2", "Tue", timeTableW);
-            Course biol155 = Course.createCourse("BIOL", "155", timeTableW);
-            Section s2 = biol155.get("BIOL 155 001");
-            assertTrue(
-                    TimeSpan.isOverlapping(s1.getTimeSpans().get(0), s2.getTimeSpans().get(2))
-                || TimeSpan.isOverlapping(s2.getTimeSpans().get(2), s1.getTimeSpans().get(0)));
-            assertTrue(s1.isOverlapping(s2));
-        } catch (NoSectionFound | IOException noSectionFound) {
-            noSectionFound.printStackTrace();
-        }
-    }
-
-    @Test
-    public void testSummerT12() {
-        try {
-
-            assertEquals(5, biol155.get("BIOL 155 001").getTimeSpans().get(0).getStart().getMonthValue());
-            assertEquals(7, biol155.get("BIOL 155 001").getTimeSpans().get(2).getStart().getMonthValue());
+            biol200 = readerNew.readCourse("2020W", preferences);
+            biol200.sortSections();
+            Section section = biol200.getSectionsMap().get("BIOL 200 000");
+            assertEquals("N/A", section.getTimeSpan());
 
         } catch (Exception e) {
             fail();
-            e.printStackTrace();
         }
+
+
+    }
+
+    @Test
+    public void testIsOverlappingType1() {
+        // [====]
+        //    [====]
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end,
+                "2020W");
+
+        LocalTime start2 = LocalTime.of(9, 30, 0);
+        LocalTime end2 = LocalTime.of(11, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1-2", Collections.singletonList("TUE"), start2, end2,
+                "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+        assertTrue(Section.isOverlapping(comparison2, comparison1));
+
+    }
+
+    @Test
+    public void testIsOverlappingType2() {
+        //    [====]
+        // [====]
+        LocalTime start = LocalTime.of(9, 30, 0);
+        LocalTime end = LocalTime.of(11, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
+
+        LocalTime start2 = LocalTime.of(9, 0, 0);
+        LocalTime end2 = LocalTime.of(10, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+
+    }
+
+    @Test
+    public void testIsOverlappingType3() {
+        //    [====]
+        // [===========]
+        LocalTime start = LocalTime.of(9, 30, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
+
+        LocalTime start2 = LocalTime.of(8, 30, 0);
+        LocalTime end2 = LocalTime.of(11, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+
+    }
+
+    @Test
+    public void testIsOverlappingType4() {
+        // [====]
+        // [====]
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
+
+        LocalTime start2 = LocalTime.of(9, 0, 0);
+        LocalTime end2 = LocalTime.of(10, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+    }
+
+    @Test
+    public void testIsOverlappingType5() {
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
+
+        // [====]
+        // [==========]
+        LocalTime start2 = LocalTime.of(9, 0, 0);
+        LocalTime end2 = LocalTime.of(11, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+
+        // [====]
+        // [==]
+        LocalTime start3 = LocalTime.of(9, 0, 0);
+        LocalTime end3 = LocalTime.of(9, 30, 0);
+        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, end3, "2020W");
+        assertTrue(Section.isOverlapping(comparison1, comparison3));
+    }
+
+    @Test
+    public void testIsOverlappingType6() {
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
+
+        //       [====]
+        // [==========]
+        LocalTime start2 = LocalTime.of(8, 0, 0);
+        LocalTime end2 = LocalTime.of(10, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertTrue(Section.isOverlapping(comparison1, comparison2));
+
+        // [====]
+        //   [==]
+        LocalTime start3 = LocalTime.of(9, 30, 0);
+        LocalTime end3 = LocalTime.of(10, 0, 0);
+        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, end3, "2020W");
+        assertTrue(Section.isOverlapping(comparison1, comparison3));
+    }
+
+    @Test
+    public void testIsOverlappingTypeNull() {
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(10, 0, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU", "SAT"), start, end, "2020W");
+
+
+        LocalTime end2 = LocalTime.of(10, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), null, end2, "2020W");
+
+        assertFalse(Section.isOverlapping(comparison1, comparison2));
+        assertFalse(Section.isOverlapping(comparison2, comparison1));
+
+
+        LocalTime start3 = LocalTime.of(9, 30, 0);
+        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, null, "2020W");
+        assertFalse(Section.isOverlapping(comparison1, comparison3));
+        assertFalse(Section.isOverlapping(comparison3, comparison1));
+
+        Section comparison4 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", new ArrayList<>(), start3, end2, "2020W");
+        assertFalse(Section.isOverlapping(comparison1, comparison4));
+
+    }
+
+    @Test
+    public void testIsOverlappingTypeOutOfBounds() {
+        LocalTime start = LocalTime.of(9, 0, 0);
+        LocalTime end = LocalTime.of(9, 50, 0);
+        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU", "SAT"), start, end, "2020W");
+
+        LocalTime start2 = LocalTime.of(10, 0, 0);
+
+        LocalTime end2 = LocalTime.of(11, 0, 0);
+        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
+                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
+
+        assertFalse(Section.isOverlapping(comparison1, comparison2));
+        assertFalse(Section.isOverlapping(comparison2, comparison1));
+
+    }
+
+    @Test
+    public void testTimeSpanNA() {
+        assertEquals("N/A", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(8, 0),
+                null, "2020W").getTimeSpan());
+        assertEquals("N/A", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), null,
+                LocalTime.of(8, 0), "2020W").getTimeSpan());
+    }
+
+    @Test
+    public void testTimeSpanMorning() {
+        assertEquals("MORNING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(8, 0),
+                LocalTime.of(9, 0),"2020W").getTimeSpan());
+        assertEquals("MORNING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(11, 0),
+                LocalTime.of(12, 0),"2020W").getTimeSpan());
+        assertEquals("MORNING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(11, 58),
+                LocalTime.of(13, 0),"2020W").getTimeSpan());
+        assertEquals("MORNING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(11, 59),
+                LocalTime.of(13, 0),"2020W").getTimeSpan());
+        assertEquals("MORNING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(0, 0),
+                LocalTime.of(1, 0),"2020W").getTimeSpan());
+    }
+
+    @Test
+    public void testTimeSpanAfternoon() {
+        assertEquals("AFTERNOON", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(12, 0),
+                LocalTime.of(13, 0),"2020W").getTimeSpan());
+        assertEquals("AFTERNOON", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(12, 0),
+                LocalTime.of(13, 0),"2020W").getTimeSpan());
+        assertEquals("AFTERNOON", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(17, 59),
+                LocalTime.of(19, 0),"2020W").getTimeSpan());
+    }
+
+    @Test
+    public void testTimeSpanEvening() {
+        assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(18, 0),
+                LocalTime.of(19, 0),"2020W").getTimeSpan());
+        assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(20, 0),
+                LocalTime.of(21, 0),"2020W").getTimeSpan());
+        assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(23, 0),
+                LocalTime.of(23, 1),"2020W").getTimeSpan());
+        assertEquals("EVENING", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(23, 59),
+                LocalTime.of(0, 0),"2020W").getTimeSpan());
+    }
+
+    @Test
+    public void testGetStartStr() {
+        assertEquals("18:00", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(18, 0),
+                LocalTime.of(19, 0),"2020W").getStartStr());
+        assertEquals("N/A", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), null,
+                LocalTime.of(19, 0),"2020W").getStartStr());
+    }
+
+    @Test
+    public void testGetEndStr() {
+        assertEquals("19:00", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(18, 0),
+                LocalTime.of(19, 0),"2020W").getEndStr());
+        assertEquals("N/A", new Section(" ", "BIOL 200 001", "BIOL 200",
+                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), LocalTime.of(18, 0),
+                null,"2020W").getEndStr());
     }
 }

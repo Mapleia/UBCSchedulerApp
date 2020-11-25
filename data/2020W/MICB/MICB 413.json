@@ -1,1 +1,72 @@
-{"course_name":"MICB 413","subject_code":"MICB","course_number":"413","course_title":"Topics in Microbiome Research","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=413&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"MICB 413 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=413&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"14:00","end":"18:00","comments":"This course is delivered ONLINE.Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.","subject_code":"MICB","course_number":"413","section_number":"101","building":" ","room":"","instructors":["FINLAY, B BRETT","OSBORNE, LISA","TROPINI, CAROLINA"],"totalRemaining":"0","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"0"},"WL1":{"status":" ","section":"MICB 413 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=413&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":"14:00","end":"18:00","comments":"","subject_code":"MICB","course_number":"413","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"22","currentlyRegistered":"0","generalRemaining":"2","restrictedRemaining":"20"}},"credits":"Credits: 3","description":"Critical examination and discussion of contemporary research literature concerning the impact of host-associated microbiomes on host development, health and disease with a focus on humans.  Priority given to students in Microbiology and Immunology specializations."}
+{
+  "course_name": "MICB 413",
+  "subject_code": "MICB",
+  "course_number": "413",
+  "course_title": "Topics in Microbiome Research",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=413&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 413 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=413&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "This course is delivered ONLINE.Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.  Please see the following URL: https://www.microbiology.ubc.ca/undergraduate/mi-course-delivery-2020-21Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "413",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FINLAY, B BRETT",
+        "OSBORNE, LISA",
+        "TROPINI, CAROLINA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 413 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=413&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "413",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "0",
+      "generalRemaining": "2",
+      "restrictedRemaining": "20"
+    }
+  ],
+  "credits": 3,
+  "description": "Critical examination and discussion of contemporary research literature concerning the impact of host-associated microbiomes on host development, health and disease with a focus on humans.  Priority given to students in Microbiology and Immunology specializations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

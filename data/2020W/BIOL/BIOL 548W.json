@@ -1,1 +1,45 @@
-{"course_name":"BIOL 548W","subject_code":"BIOL","course_number":"548W","course_title":"Advanced Topics in Biology - ADV TOPICS BIOL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548W&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"BIOL 548W 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548W&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"9:00","end":"10:30","comments":"Course Description SCIENTIFIC COLLABORATION IN ECOLOGY AND EVOLUTIONThis course puts into practice recent research on effective team science, teaching skills to optimize collaboration, including: cross-discipline communication, meeting facilitation, conflict resolution, team workflow, digital collaboration, authorships and IP, and working group organization. Particular attention will be paid to participant diversity and acknowledging power imbalances, negotiating roles, and cross-cultural communication.Delivery format\"\t8 sessions, 1.5 hours per session\"\teach session generally includes a lecture and hands-on component, each varying in length among sessionsPre-requisites\"\tGraduate-level thesis in Ecology or Evolutionary BiologyFull syllabus: https://osf.io/xcrk6/wiki/Course%20outline/","subject_code":"BIOL","course_number":"548W","section_number":"101","building":" ","room":"","instructors":["AMUNDRUD, SARAH","SRIVASTAVA, DIANE"],"totalRemaining":"5","currentlyRegistered":"10","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "BIOL 548W",
+  "subject_code": "BIOL",
+  "course_number": "548W",
+  "course_title": "Advanced Topics in Biology - ADV TOPICS BIOL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548W&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "BIOL 548W 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548W&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "10:30",
+      "comments": "Course Description SCIENTIFIC COLLABORATION IN ECOLOGY AND EVOLUTIONThis course puts into practice recent research on effective team science, teaching skills to optimize collaboration, including: cross-discipline communication, meeting facilitation, conflict resolution, team workflow, digital collaboration, authorships and IP, and working group organization. Particular attention will be paid to participant diversity and acknowledging power imbalances, negotiating roles, and cross-cultural communication.Delivery format\"\t8 sessions, 1.5 hours per session\"\teach session generally includes a lecture and hands-on component, each varying in length among sessionsPre-requisites\"\tGraduate-level thesis in Ecology or Evolutionary BiologyFull syllabus: https://osf.io/xcrk6/wiki/Course%20outline/",
+      "subject_code": "BIOL",
+      "course_number": "548W",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AMUNDRUD, SARAH",
+        "SRIVASTAVA, DIANE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"JRNL 550","subject_code":"JRNL","course_number":"550","course_title":"Feature Writing","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=550&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"JRNL 550 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=550&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Fri","start":"9:30","end":"12:30","comments":"This class is restricted to second year Master of Journalism students.  15 students is the miminum enrollment requirement for the course to run.  If the class becomes full, please email jrnl.journal@ubc.ca to be put on the waitlist. The course will be conducted online. Please await further instructions from the course instructor as the start of term approaches. If the course becomes full, please email jrnl.journal@ubc.ca to be added to the Waitlist.","subject_code":"JRNL","course_number":"550","section_number":"001","building":" ","room":"","instructors":["BEERS, DAVID","MACKINNON, JAMES","MACKINNON, JAMES(Coordinator)"],"totalRemaining":"5","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "JRNL 550",
+  "subject_code": "JRNL",
+  "course_number": "550",
+  "course_title": "Feature Writing",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=JRNL&course=550&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "JRNL 550 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=JRNL&course=550&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "This class is restricted to second year Master of Journalism students.  15 students is the miminum enrollment requirement for the course to run.  If the class becomes full, please email jrnl.journal@ubc.ca to be put on the waitlist. The course will be conducted online. Please await further instructions from the course instructor as the start of term approaches. If the course becomes full, please email jrnl.journal@ubc.ca to be added to the Waitlist.",
+      "subject_code": "JRNL",
+      "course_number": "550",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BEERS, DAVID",
+        "MACKINNON, JAMES",
+        "MACKINNON, JAMES(Coordinator)"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

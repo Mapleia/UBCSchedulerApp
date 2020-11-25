@@ -1,1 +1,95 @@
-{"course_name":"GRSJ 505B","subject_code":"GRSJ","course_number":"505B","course_title":"Directed Reading in Advanced Feminist Studies - DIR READ FEMNST","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=505B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GRSJ 505B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Contact GRSJ program assistant for registration.","subject_code":"GRSJ","course_number":"505B","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"GRSJ 505B 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GRSJ","course_number":"505B","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"},"003":{"status":"Blocked","section":"GRSJ 505B 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=003&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GRSJ","course_number":"505B","section_number":"003","building":" ","room":"","instructors":["LOUTZENHEISER, LISA"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"4","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "GRSJ 505B",
+  "subject_code": "GRSJ",
+  "course_number": "505B",
+  "course_title": "Directed Reading in Advanced Feminist Studies - DIR READ FEMNST",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRSJ&course=505B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRSJ 505B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Contact GRSJ program assistant for registration.",
+      "subject_code": "GRSJ",
+      "course_number": "505B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 505B 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "505B",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRSJ 505B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRSJ&course=505B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GRSJ",
+      "course_number": "505B",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOUTZENHEISER, LISA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "4",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

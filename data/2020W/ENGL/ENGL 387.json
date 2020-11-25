@@ -1,1 +1,45 @@
-{"course_name":"ENGL 387","subject_code":"ENGL","course_number":"387","course_title":"Theory: Bodies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=387&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ENGL 387 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=387&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"ENGL","course_number":"387","section_number":"001","building":" ","room":"","instructors":["MCNEILLY, KEVIN"],"totalRemaining":"6","currentlyRegistered":"39","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theories of corporeality and embodied thought."}
+{
+  "course_name": "ENGL 387",
+  "subject_code": "ENGL",
+  "course_number": "387",
+  "course_title": "Theory: Bodies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENGL&course=387&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ENGL 387 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENGL&course=387&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "ENGL",
+      "course_number": "387",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCNEILLY, KEVIN"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "38",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theories of corporeality and embodied thought.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

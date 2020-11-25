@@ -1,1 +1,44 @@
-{"course_name":"CPSC 533R","subject_code":"CPSC","course_number":"533R","course_title":"Topics in Computer Graphics - VISUAL AI","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=533R&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"CPSC 533R 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=533R&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"CPSC","course_number":"533R","section_number":"101","building":" ","room":"","instructors":["RHODIN, HELGE"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "CPSC 533R",
+  "subject_code": "CPSC",
+  "course_number": "533R",
+  "course_title": "Topics in Computer Graphics - VISUAL AI",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=533R&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CPSC 533R 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=533R&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "533R",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RHODIN, HELGE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,126 @@
-{"course_name":"COMM 437","subject_code":"COMM","course_number":"437","course_title":"Database Technology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=437&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"COMM 437 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"","subject_code":"COMM","course_number":"437","section_number":"101","building":" ","room":"","instructors":["SUN, WEI"],"totalRemaining":"0","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"0"},"102":{"status":" ","section":"COMM 437 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"437","section_number":"102","building":" ","room":"","instructors":["SUN, WEI"],"totalRemaining":"10","currentlyRegistered":"30","generalRemaining":"7","restrictedRemaining":"3"},"201":{"status":"Full","section":"COMM 437 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"13:00","end":"14:30","comments":"","subject_code":"COMM","course_number":"437","section_number":"201","building":"Henry Angus","room":"434","instructors":["NAN, NING"],"totalRemaining":"0","currentlyRegistered":"40","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"COMM 437 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=202&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"437","section_number":"202","building":"Henry Angus","room":"434","instructors":["NAN, NING"],"totalRemaining":"0","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theory and technology of database management from an applications perspective; database design; database administration. Credit will be granted for only one of COMM 437, COEC 437, or CPSC 304."}
+{
+  "course_name": "COMM 437",
+  "subject_code": "COMM",
+  "course_number": "437",
+  "course_title": "Database Technology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=437&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 437 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "437",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUN, WEI"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": " ",
+      "section": "COMM 437 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "This section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "437",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SUN, WEI"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "29",
+      "generalRemaining": "8",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 437 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "14:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "437",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAN, NING"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "COMM 437 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=437&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "14:30",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "437",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NAN, NING"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theory and technology of database management from an applications perspective; database design; database administration. Credit will be granted for only one of COMM 437, COEC 437, or CPSC 304.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

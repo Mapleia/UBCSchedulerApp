@@ -1,1 +1,70 @@
-{"course_name":"CPSC 448B","subject_code":"CPSC","course_number":"448B","course_title":"Directed Studies in Computer Science - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=448B&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"CPSC 448B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=448B&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CPSC","course_number":"448B","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Blocked","section":"CPSC 448B 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=448B&section=202&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"SEE DEPT TO REGISTER","subject_code":"CPSC","course_number":"448B","section_number":"202","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Open ordinarily to students in Computer Science with at least a 72% average and the permission of the head of the department or designate. The course may consist of supervised reading, participation in a seminar, and one or more programming projects."}
+{
+  "course_name": "CPSC 448B",
+  "subject_code": "CPSC",
+  "course_number": "448B",
+  "course_title": "Directed Studies in Computer Science - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=448B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CPSC 448B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=448B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CPSC",
+      "course_number": "448B",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CPSC 448B 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=448B&section=202&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "SEE DEPT TO REGISTER",
+      "subject_code": "CPSC",
+      "course_number": "448B",
+      "section_number": "202",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Open ordinarily to students in Computer Science with at least a 72% average and the permission of the head of the department or designate. The course may consist of supervised reading, participation in a seminar, and one or more programming projects.",
+  "terms": [
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

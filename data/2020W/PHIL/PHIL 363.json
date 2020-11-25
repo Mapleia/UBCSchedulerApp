@@ -1,1 +1,44 @@
-{"course_name":"PHIL 363","subject_code":"PHIL","course_number":"363","course_title":"History and Philosophy of Economics from Ricardo to Keynes","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=363&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 363 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=363&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"This course is cross-listed with ECON 319 001. Students can register in either section. We will trace the development of economics from 1800 up to the present, focusing on the conceptual and methodological foundations of economics, specifically the problems of value and distribution.  We will read works by David Ricardo, John Stuart Mill, Karl Marx, William Stanley Jevons, John Maynard Keynes, Milton Friedman, Friedrich Hayek and Amartya Sen. The book by Sylvia Nasar will provide a broader context.","subject_code":"PHIL","course_number":"363","section_number":"001","building":"Irving K Barber Learning Centre","room":"261","instructors":["SCHABAS, MARGARET"],"totalRemaining":"3","currentlyRegistered":"42","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The development of economic thought from David Ricardo up to the present, including such figures as Mill, Jevons, and Keynes, focusing primarily on the conceptual foundations of economics, particularly the problems of value, distribution and growth."}
+{
+  "course_name": "PHIL 363",
+  "subject_code": "PHIL",
+  "course_number": "363",
+  "course_title": "History and Philosophy of Economics from Ricardo to Keynes",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=363&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 363 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=363&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "This course is cross-listed with ECON 319 001. Students can register in either section. We will trace the development of economics from 1800 up to the present, focusing on the conceptual and methodological foundations of economics, specifically the problems of value and distribution.  We will read works by David Ricardo, John Stuart Mill, Karl Marx, William Stanley Jevons, John Maynard Keynes, Milton Friedman, Friedrich Hayek and Amartya Sen. The book by Sylvia Nasar will provide a broader context.",
+      "subject_code": "PHIL",
+      "course_number": "363",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHABAS, MARGARET"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "36",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The development of economic thought from David Ricardo up to the present, including such figures as Mill, Jevons, and Keynes, focusing primarily on the conceptual foundations of economics, particularly the problems of value, distribution and growth.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

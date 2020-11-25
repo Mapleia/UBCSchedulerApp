@@ -1,15 +1,30 @@
 package exceptions;
 
-public class NoCourseFound extends Exception {
-    private final String code;
-    private final String number;
+import java.util.ArrayList;
 
-    public NoCourseFound(String code, String number) {
-        this.code = code;
-        this.number = number;
+// NoCourseFound is thrown when an error is encountered when parsing / reading from course JSON file.
+public class NoCourseFound extends Exception {
+    ArrayList<String> list;
+
+    // constructor
+    public NoCourseFound() {
+        list = new ArrayList<>();
     }
 
-    public void printCourse() {
-        System.out.println("Culprit: " + code + " " + number);
+    // EFFECTS: adds culprit course to list.
+    public void addClasses(String input) {
+        list.add(input);
+    }
+
+    // EFFECTS: returns size of error list.
+    public int size() {
+        return list.size();
+    }
+
+    // EFFECTS: prints out the list of courses that were not found into UI.
+    public void printClasses() {
+        for (String s : list) {
+            System.out.println(s);
+        }
     }
 }

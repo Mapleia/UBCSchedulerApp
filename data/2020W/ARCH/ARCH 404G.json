@@ -1,1 +1,44 @@
-{"course_name":"ARCH 404G","subject_code":"ARCH","course_number":"404G","course_title":"Topics in Architectural History I (Pre-1900) - ARC + DISEASE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=404G&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"ARCH 404G 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=404G&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Discussion","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ARCH","course_number":"404G","section_number":"001","building":"Frederic Lasserre","room":"102","instructors":["STEVENS, SARA"],"totalRemaining":"28","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"28"}},"credits":"Credits: 3","description":"History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields."}
+{
+  "course_name": "ARCH 404G",
+  "subject_code": "ARCH",
+  "course_number": "404G",
+  "course_title": "Topics in Architectural History I (Pre-1900) - ARC + DISEASE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=404G&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ARCH 404G 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=404G&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "404G",
+      "section_number": "001",
+      "building": "Frederic Lasserre",
+      "room": "102",
+      "instructors": [
+        "STEVENS, SARA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "28"
+    }
+  ],
+  "credits": 3,
+  "description": "History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Discussion"
+  ]
+}

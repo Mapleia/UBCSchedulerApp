@@ -1,1 +1,72 @@
-{"course_name":"CHEM 427","subject_code":"CHEM","course_number":"427","course_title":"Applications of Materials Chemistry","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=427&sessyr=2020&sesscd=W","sections":{"199":{"status":"Full","section":"CHEM 427 199","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=427&section=199&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"CHEM","course_number":"427","section_number":"199","building":" ","room":"","instructors":["HUDSON, ZACHARY"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"1W1":{"status":" ","section":"CHEM 427 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=427&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"","subject_code":"CHEM","course_number":"427","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Contemporary materials chemistry, including design and synthesis of materials for energy, electronics, and health applications."}
+{
+  "course_name": "CHEM 427",
+  "subject_code": "CHEM",
+  "course_number": "427",
+  "course_title": "Applications of Materials Chemistry",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHEM&course=427&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "CHEM 427 199",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=427&section=199&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "427",
+      "section_number": "199",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HUDSON, ZACHARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CHEM 427 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHEM&course=427&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CHEM",
+      "course_number": "427",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Contemporary materials chemistry, including design and synthesis of materials for energy, electronics, and health applications.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,72 @@
-{"course_name":"ARTH 341","subject_code":"ARTH","course_number":"341","course_title":"20th Century Art and Culture: The Postmodern","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=341&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ARTH 341 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=341&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"A critical examination of international visual art and culture from the 1950s to the present. By analyzing the multiple legacies of the early avant-garde and the development of the global art market, this course will consider the social, political, and philosophical questions raised by postmodernism and its formative influence on art after 1945. Movements to be covered include conceptual art, land art, performance, installation, and other manifestations of the expanded field.","subject_code":"ARTH","course_number":"341","section_number":"001","building":"Frederic Lasserre","room":"102","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"66","generalRemaining":"14","restrictedRemaining":"0"},"01W":{"status":" ","section":"ARTH 341 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=341&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"ARTH 341 01W is a waitlist for ARTH 341 001. Students will be moved off the waitlist as spaces become available, based on date of registration.","subject_code":"ARTH","course_number":"341","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"99","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A critical examination of international visual art and culture from the 1950s to the present;  the role of art in consumerist society and the emergence of postmodernism."}
+{
+  "course_name": "ARTH 341",
+  "subject_code": "ARTH",
+  "course_number": "341",
+  "course_title": "20th Century Art and Culture: The Postmodern",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=341&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARTH 341 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=341&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "A critical examination of international visual art and culture from the 1950s to the present. By analyzing the multiple legacies of the early avant-garde and the development of the global art market, this course will consider the social, political, and philosophical questions raised by postmodernism and its formative influence on art after 1945. Movements to be covered include conceptual art, land art, performance, installation, and other manifestations of the expanded field.",
+      "subject_code": "ARTH",
+      "course_number": "341",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "71",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 341 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=341&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "ARTH 341 01W is a waitlist for ARTH 341 001. Students will be moved off the waitlist as spaces become available, based on date of registration.",
+      "subject_code": "ARTH",
+      "course_number": "341",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "99",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A critical examination of international visual art and culture from the 1950s to the present;  the role of art in consumerist society and the emergence of postmodernism.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

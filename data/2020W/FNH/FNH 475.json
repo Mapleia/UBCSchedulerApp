@@ -1,1 +1,44 @@
-{"course_name":"FNH 475","subject_code":"FNH","course_number":"475","course_title":"Foundations of Nutrition Care II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=475&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FNH 475 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=475&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"13:00","end":"16:00","comments":"","subject_code":"FNH","course_number":"475","section_number":"001","building":"Food, Nutrition and Health","room":"40","instructors":["LEVY MILNE, RYNA","WILLIAMS, BROCK"],"totalRemaining":"3","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Etiology and pathophysiology of and nutrition therapy for additional diseases and conditions, and further skill development related to the Nutrition Care Process. Restricted to students in year 4 of the Dietetics Major."}
+{
+  "course_name": "FNH 475",
+  "subject_code": "FNH",
+  "course_number": "475",
+  "course_title": "Foundations of Nutrition Care II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FNH&course=475&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FNH 475 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FNH&course=475&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FNH",
+      "course_number": "475",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVY MILNE, RYNA",
+        "WILLIAMS, BROCK"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Etiology and pathophysiology of and nutrition therapy for additional diseases and conditions, and further skill development related to the Nutrition Care Process. Restricted to students in year 4 of the Dietetics Major.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

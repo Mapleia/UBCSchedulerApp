@@ -1,1 +1,43 @@
-{"course_name":"POLI 649A","subject_code":"POLI","course_number":"649A","course_title":"Doctoral Dissertation - DOC DISSERTATION","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=649A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"POLI 649A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=649A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"POLI","course_number":"649A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"7","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "POLI 649A",
+  "subject_code": "POLI",
+  "course_number": "649A",
+  "course_title": "Doctoral Dissertation - DOC DISSERTATION",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=649A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "POLI 649A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=649A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "649A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "7",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

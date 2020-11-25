@@ -1,1 +1,44 @@
-{"course_name":"PHRM 451","subject_code":"PHRM","course_number":"451","course_title":"Critical Appraisal of Pharmacotherapy Literature","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=451&sessyr=2020&sesscd=W","sections":{"002":{"status":"Restricted","section":"PHRM 451 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=451&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Students to register in PHRM 451 Section 002Course Instructors:  Dr. Ricky Turgeon","subject_code":"PHRM","course_number":"451","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TURGEON, RICKY","TURGEON, RICKY(Coordinator)"],"totalRemaining":"16","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"16"}},"credits":"Credits: 4","description":"Principles of clinical study design, focusing on randomized controlled trials, systematic reviews, epidemiologic studies (cohort, case-control), pharmacoeconomic analyses, clinical prediction rules, and guidelines. Pass/Fail."}
+{
+  "course_name": "PHRM 451",
+  "subject_code": "PHRM",
+  "course_number": "451",
+  "course_title": "Critical Appraisal of Pharmacotherapy Literature",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHRM&course=451&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHRM 451 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHRM&course=451&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Students to register in PHRM 451 Section 002Course Instructors:  Dr. Ricky Turgeon",
+      "subject_code": "PHRM",
+      "course_number": "451",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TURGEON, RICKY",
+        "TURGEON, RICKY(Coordinator)"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "16"
+    }
+  ],
+  "credits": 4,
+  "description": "Principles of clinical study design, focusing on randomized controlled trials, systematic reviews, epidemiologic studies (cohort, case-control), pharmacoeconomic analyses, clinical prediction rules, and guidelines. Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

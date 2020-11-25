@@ -1,1 +1,122 @@
-{"course_name":"WOOD 449C","subject_code":"WOOD","course_number":"449C","course_title":"Directed Studies in Wood Products Processing - DIR ST WD PR PRC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=449C&sessyr=2020&sesscd=W","sections":{"103":{"status":"Unreleased","section":"WOOD 449C 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=103&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"see program director","subject_code":"WOOD","course_number":"449C","section_number":"103","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Unreleased","section":"WOOD 449C 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=203&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"see program director","subject_code":"WOOD","course_number":"449C","section_number":"203","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"610":{"status":"Unreleased","section":"WOOD 449C 610","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=610&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is an off-campus directed studies course.","subject_code":"WOOD","course_number":"449C","section_number":"610","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"620":{"status":"Unreleased","section":"WOOD 449C 620","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=620&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"This is an off-campus directed studies course.","subject_code":"WOOD","course_number":"449C","section_number":"620","building":"No Scheduled Meeting","room":"","instructors":["ELLIS, SIMON"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing."}
+{
+  "course_name": "WOOD 449C",
+  "subject_code": "WOOD",
+  "course_number": "449C",
+  "course_title": "Directed Studies in Wood Products Processing - DIR ST WD PR PRC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=WOOD&course=449C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Unreleased",
+      "section": "WOOD 449C 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=103&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "see program director",
+      "subject_code": "WOOD",
+      "course_number": "449C",
+      "section_number": "103",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 449C 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=203&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "see program director",
+      "subject_code": "WOOD",
+      "course_number": "449C",
+      "section_number": "203",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 449C 610",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=610&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is an off-campus directed studies course.",
+      "subject_code": "WOOD",
+      "course_number": "449C",
+      "section_number": "610",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Unreleased",
+      "section": "WOOD 449C 620",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=WOOD&course=449C&section=620&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is an off-campus directed studies course.",
+      "subject_code": "WOOD",
+      "course_number": "449C",
+      "section_number": "620",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "ELLIS, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

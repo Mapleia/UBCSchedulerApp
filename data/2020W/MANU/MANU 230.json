@@ -1,1 +1,69 @@
-{"course_name":"MANU 230","subject_code":"MANU","course_number":"230","course_title":"Manufacturing Engineering Laboratory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=230&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"MANU 230 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=230&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon","start":"10:00","end":"11:00","comments":"Term one is web based","subject_code":"MANU","course_number":"230","section_number":"001","building":" ","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L0A":{"status":"STT","section":"MANU 230 L0A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=230&section=L0A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"10:00","end":"12:00","comments":"Term one is web based","subject_code":"MANU","course_number":"230","section_number":"L0A","building":" ","room":"","instructors":[""],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization."}
+{
+  "course_name": "MANU 230",
+  "subject_code": "MANU",
+  "course_number": "230",
+  "course_title": "Manufacturing Engineering Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MANU&course=230&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MANU 230 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=230&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "Term one is web based",
+      "subject_code": "MANU",
+      "course_number": "230",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MANU 230 L0A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MANU&course=230&section=L0A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "Term one is web based",
+      "subject_code": "MANU",
+      "course_number": "230",
+      "section_number": "L0A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

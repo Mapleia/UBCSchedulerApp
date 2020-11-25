@@ -1,1 +1,46 @@
-{"course_name":"ANTH 213","subject_code":"ANTH","course_number":"213","course_title":"Sex, Gender, and Culture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=213&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ANTH 213 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=213&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ANTH","course_number":"213","section_number":"002","building":" ","room":"","instructors":["LEVINE, AMY","AGRO, HILARY","HARDING, LAUREN"],"totalRemaining":"37","currentlyRegistered":"113","generalRemaining":"37","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An anthropological exploration of how understandings of sex and gender are culturally and historically shaped."}
+{
+  "course_name": "ANTH 213",
+  "subject_code": "ANTH",
+  "course_number": "213",
+  "course_title": "Sex, Gender, and Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ANTH&course=213&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ANTH 213 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ANTH&course=213&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ANTH",
+      "course_number": "213",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LEVINE, AMY",
+        "AGRO, HILARY",
+        "HARDING, LAUREN"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "112",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An anthropological exploration of how understandings of sex and gender are culturally and historically shaped.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

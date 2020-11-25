@@ -1,1 +1,99 @@
-{"course_name":"MECH 426","subject_code":"MECH","course_number":"426","course_title":"Mechanical Design","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=426&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MECH 426 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed Fri","start":"13:00","end":"14:00","comments":"","subject_code":"MECH","course_number":"426","section_number":"101","building":" ","room":"","instructors":["OSTAFICHUK, PETER"],"totalRemaining":"40","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"40"},"T1B":{"status":"Restricted","section":"MECH 426 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=T1B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"MECH","course_number":"426","section_number":"T1B","building":" ","room":"","instructors":["OSTAFICHUK, PETER"],"totalRemaining":"40","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"40"},"WL1":{"status":"Blocked","section":"MECH 426 WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"MECH","course_number":"426","section_number":"WL1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Design of shafts and welded joints. Fatigue and fracture considerations in design: failure types, failure under static and dynamic loading, fatigue failure, crack initiation, and propagation. Introduction to the FEM in mechanical design. Students can only receive credit for one of MECH 326 or MECH 426."}
+{
+  "course_name": "MECH 426",
+  "subject_code": "MECH",
+  "course_number": "426",
+  "course_title": "Mechanical Design",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=426&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 426 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "426",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSTAFICHUK, PETER"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "40"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 426 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "426",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OSTAFICHUK, PETER"
+      ],
+      "totalRemaining": "40",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "40"
+    },
+    {
+      "status": "Blocked",
+      "section": "MECH 426 WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=426&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "426",
+      "section_number": "WL1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Design of shafts and welded joints. Fatigue and fracture considerations in design: failure types, failure under static and dynamic loading, fatigue failure, crack initiation, and propagation. Introduction to the FEM in mechanical design. Students can only receive credit for one of MECH 326 or MECH 426.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,44 @@
-{"course_name":"SOCI 410C","subject_code":"SOCI","course_number":"410C","course_title":"Selected Topics in Canadian Society - COVID & SOCIETY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=410C&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"SOCI 410C 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=410C&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"18:00","end":"19:30","comments":"Please note there are NO PREREQUISITES for this course. You may ignore the yellow warning upon your registration and the course will appear on your timetable. Questions can be directed to soci.ugrad@ubc.ca","subject_code":"SOCI","course_number":"410C","section_number":"101","building":" ","room":"","instructors":["LYON, KATHERINE"],"totalRemaining":"135","currentlyRegistered":"165","generalRemaining":"130","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Selected areas of study relating to Canadian society such as BC Studies; French Canada's demographic problems; rural communities; social welfare and community programs in Canada. Consult the Department for this year's offerings."}
+{
+  "course_name": "SOCI 410C",
+  "subject_code": "SOCI",
+  "course_number": "410C",
+  "course_title": "Selected Topics in Canadian Society - COVID & SOCIETY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=410C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 410C 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=410C&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "Please note there are NO PREREQUISITES for this course. You may ignore the yellow warning upon your registration and the course will appear on your timetable. Questions can be directed to soci.ugrad@ubc.ca",
+      "subject_code": "SOCI",
+      "course_number": "410C",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LYON, KATHERINE"
+      ],
+      "totalRemaining": "136",
+      "currentlyRegistered": "164",
+      "generalRemaining": "131",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected areas of study relating to Canadian society such as BC Studies; French Canada's demographic problems; rural communities; social welfare and community programs in Canada. Consult the Department for this year's offerings.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,75 @@
-{"course_name":"TIBT 300","subject_code":"TIBT","course_number":"300","course_title":"Classical Tibetan I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=TIBT&course=300&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"TIBT 300 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=TIBT&course=300&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:00","end":"11:00","comments":"If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)","subject_code":"TIBT","course_number":"300","section_number":"001","building":" ","room":"","instructors":["CHUSANG, SONAM"],"totalRemaining":"15","currentlyRegistered":"5","generalRemaining":"15","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"TIBT 300 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=TIBT&course=300&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Mon Wed","start":"9:00","end":"11:00","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"TIBT","course_number":"300","section_number":"W01","building":" ","room":"","instructors":["20","0","20","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"The basics of classical Tibetan grammar and vocabulary, with readings from a selection of daily prayer verses."}
+{
+  "course_name": "TIBT 300",
+  "subject_code": "TIBT",
+  "course_number": "300",
+  "course_title": "Classical Tibetan I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=TIBT&course=300&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "TIBT 300 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=TIBT&course=300&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "If this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "TIBT",
+      "course_number": "300",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHUSANG, SONAM"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "5",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "TIBT 300 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=TIBT&course=300&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "TIBT",
+      "course_number": "300",
+      "section_number": "W01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "20",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "The basics of classical Tibetan grammar and vocabulary, with readings from a selection of daily prayer verses.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,97 @@
-{"course_name":"EPSE 699","subject_code":"EPSE","course_number":"699","course_title":"Doctoral Dissertation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=699&sessyr=2020&sesscd=W","sections":{"074":{"status":" ","section":"EPSE 699 074","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=074&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"GRAD","subject_code":"EPSE","course_number":"699","section_number":"074","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"45","generalRemaining":"5","restrictedRemaining":"0"},"075":{"status":" ","section":"EPSE 699 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=075&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"GRAD","subject_code":"EPSE","course_number":"699","section_number":"075","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"6","generalRemaining":"4","restrictedRemaining":"0"},"076":{"status":" ","section":"EPSE 699 076","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=076&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"GRAD","subject_code":"EPSE","course_number":"699","section_number":"076","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 0","description":"Pass/Fail."}
+{
+  "course_name": "EPSE 699",
+  "subject_code": "EPSE",
+  "course_number": "699",
+  "course_title": "Doctoral Dissertation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=699&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EPSE 699 074",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=074&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "GRAD",
+      "subject_code": "EPSE",
+      "course_number": "699",
+      "section_number": "074",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "45",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EPSE 699 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=075&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "GRAD",
+      "subject_code": "EPSE",
+      "course_number": "699",
+      "section_number": "075",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "7",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "EPSE 699 076",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=699&section=076&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "GRAD",
+      "subject_code": "EPSE",
+      "course_number": "699",
+      "section_number": "076",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 0,
+  "description": "Pass/Fail.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

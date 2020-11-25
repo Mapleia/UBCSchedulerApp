@@ -1,1 +1,44 @@
-{"course_name":"ECON 457","subject_code":"ECON","course_number":"457","course_title":"Seminar in International Economic Relations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=457&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 457 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=457&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Course restricted to 4th year students majoring in International Relations.","subject_code":"ECON","course_number":"457","section_number":"001","building":"Buchanan","room":"B304","instructors":["HASAN, EMRUL"],"totalRemaining":"16","currentlyRegistered":"16","generalRemaining":"11","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Selected topics focusing upon various issues arising in international economic relations. Open only to fourth-year students in the Major program in International Relations."}
+{
+  "course_name": "ECON 457",
+  "subject_code": "ECON",
+  "course_number": "457",
+  "course_title": "Seminar in International Economic Relations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=457&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 457 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=457&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Course restricted to 4th year students majoring in International Relations.",
+      "subject_code": "ECON",
+      "course_number": "457",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HASAN, EMRUL"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "15",
+      "generalRemaining": "12",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics focusing upon various issues arising in international economic relations. Open only to fourth-year students in the Major program in International Relations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

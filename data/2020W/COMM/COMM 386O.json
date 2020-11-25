@@ -1,1 +1,45 @@
-{"course_name":"COMM 386O","subject_code":"COMM","course_number":"386O","course_title":"Topics in Business III - BEHAVRL FINANCE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386O&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"COMM 386O 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386O&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"COMM","course_number":"386O","section_number":"201","building":" ","room":"","instructors":["CARLSON, MURRAY","GRIFFIN, DALE"],"totalRemaining":"8","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"8"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 386O",
+  "subject_code": "COMM",
+  "course_number": "386O",
+  "course_title": "Topics in Business III - BEHAVRL FINANCE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386O&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 386O 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386O&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "386O",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CARLSON, MURRAY",
+        "GRIFFIN, DALE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

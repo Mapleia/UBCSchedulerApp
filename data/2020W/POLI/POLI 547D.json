@@ -1,1 +1,43 @@
-{"course_name":"POLI 547D","subject_code":"POLI","course_number":"547D","course_title":"Topics in Political Theory - TPCS POLI THEORY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=547D&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 547D 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=547D&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"14:00","end":"17:00","comments":"This course is cross-listed with POLI 448B and will be held in BUCH C403.","subject_code":"POLI","course_number":"547D","section_number":"001","building":"Irving K Barber Learning Centre","room":"264","instructors":["WARREN, MARK"],"totalRemaining":"0","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "POLI 547D",
+  "subject_code": "POLI",
+  "course_number": "547D",
+  "course_title": "Topics in Political Theory - TPCS POLI THEORY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=547D&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 547D 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=547D&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This course is cross-listed with POLI 448B.",
+      "subject_code": "POLI",
+      "course_number": "547D",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WARREN, MARK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

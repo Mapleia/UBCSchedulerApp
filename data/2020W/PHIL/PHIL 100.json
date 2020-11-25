@@ -1,1 +1,177 @@
-{"course_name":"PHIL 100","subject_code":"PHIL","course_number":"100","course_title":"Introduction to Philosophy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=100&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 100 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"This course is a self-contained introduction to philosophy in the Western tradition. We will not follow a chronological order but will proceed thematically, covering material in the philosophy of religion, moral philosophy, epistemology, and metaphysics. We will discuss texts written by philosophers of the past, from antiquity to the 20th century.COVID-19 notice: In term one, this course will be delivered online. Every student in the course will be required to attend the discussion sections remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade. Online lectures will be available for remote attendance on Collaborate Ultra for interested students, but attending those is optional. Online lectures will be recorded and subsequently posted on the course's Canvas page following their delivery.Note: This course has mandatory discussion sections. Students must also register in one of the following sections: L01, L02, L03, L04, or L05.","subject_code":"PHIL","course_number":"100","section_number":"001","building":" ","room":"","instructors":["KRAAL, ANDERS","SIMCHEN, ORI"],"totalRemaining":"18","currentlyRegistered":"113","generalRemaining":"18","restrictedRemaining":"0"},"L01":{"status":" ","section":"PHIL 100 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Fri","start":"14:00","end":"15:00","comments":"This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.","subject_code":"PHIL","course_number":"100","section_number":"L01","building":" ","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"22","generalRemaining":"3","restrictedRemaining":"0"},"L02":{"status":" ","section":"PHIL 100 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L02&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Fri","start":"12:00","end":"13:00","comments":"This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.","subject_code":"PHIL","course_number":"100","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"7","currentlyRegistered":"18","generalRemaining":"7","restrictedRemaining":"0"},"L03":{"status":" ","section":"PHIL 100 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L03&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Fri","start":"10:00","end":"11:00","comments":"This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.","subject_code":"PHIL","course_number":"100","section_number":"L03","building":" ","room":"","instructors":["TBA"],"totalRemaining":"2","currentlyRegistered":"23","generalRemaining":"2","restrictedRemaining":"0"},"L04":{"status":" ","section":"PHIL 100 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L04&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.","subject_code":"PHIL","course_number":"100","section_number":"L04","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"},"L05":{"status":"Full","section":"PHIL 100 L05","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L05&sessyr=2020&sesscd=W","activity":"Discussion","term":"1-2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.","subject_code":"PHIL","course_number":"100","section_number":"L05","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Basic problems and methods of Philosophy. Topics such as the existence of God, the nature and scope of human knowledge, the relationship between mind and body, personal identity, free will, issues and problems in moral philosophy. Credit will be granted for only one of PHIL 100 and either or both PHIL 101 or PHIL 102."}
+{
+  "course_name": "PHIL 100",
+  "subject_code": "PHIL",
+  "course_number": "100",
+  "course_title": "Introduction to Philosophy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=100&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 100 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This course is a self-contained introduction to philosophy in the Western tradition. We will not follow a chronological order but will proceed thematically, covering material in the philosophy of religion, moral philosophy, epistemology, and metaphysics. We will discuss texts written by philosophers of the past, from antiquity to the 20th century.COVID-19 notice: In term one, this course will be delivered online. Every student in the course will be required to attend the discussion sections remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade. Online lectures will be available for remote attendance on Collaborate Ultra for interested students, but attending those is optional. Online lectures will be recorded and subsequently posted on the course's Canvas page following their delivery.Note: This course has mandatory discussion sections. Students must also register in one of the following sections: L01, L02, L03, L04, or L05.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KRAAL, ANDERS",
+        "SIMCHEN, ORI"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "110",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 100 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "22",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 100 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 100 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHIL 100 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "PHIL 100 L05",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=100&section=L05&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This discussion section is for students registered in PHIL 100 001.COVID-19 notice: In Term 1, this discussion section will take place online. Every student in the course will be required to attend their discussion section remotely -- online attendance is mandatory. Attendance and participation will account for 6% of the final grade.",
+      "subject_code": "PHIL",
+      "course_number": "100",
+      "section_number": "L05",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Basic problems and methods of Philosophy. Topics such as the existence of God, the nature and scope of human knowledge, the relationship between mind and body, personal identity, free will, issues and problems in moral philosophy. Credit will be granted for only one of PHIL 100 and either or both PHIL 101 or PHIL 102.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion"
+  ]
+}

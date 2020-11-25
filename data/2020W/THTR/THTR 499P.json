@@ -1,1 +1,44 @@
-{"course_name":"THTR 499P","subject_code":"THTR","course_number":"499P","course_title":"Production III - PRODUCTION III","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=499P&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"THTR 499P 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=499P&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"This section is restricted to students in the BFA in Theatre Design and Production program.","subject_code":"THTR","course_number":"499P","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["FOWLER, RUTH SKAI","WEST, LORRAINE"],"totalRemaining":"24","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"24"}},"credits":"Credits: 6","description":"Assigned projects in Theatre or Film design and production."}
+{
+  "course_name": "THTR 499P",
+  "subject_code": "THTR",
+  "course_number": "499P",
+  "course_title": "Production III - PRODUCTION III",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=THTR&course=499P&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "THTR 499P 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=THTR&course=499P&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This section is restricted to students in the BFA in Theatre Design and Production program.",
+      "subject_code": "THTR",
+      "course_number": "499P",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "FOWLER, RUTH SKAI",
+        "WEST, LORRAINE"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "24"
+    }
+  ],
+  "credits": 6,
+  "description": "Assigned projects in Theatre or Film design and production.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

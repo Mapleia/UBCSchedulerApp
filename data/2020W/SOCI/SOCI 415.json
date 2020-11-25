@@ -1,1 +1,152 @@
-{"course_name":"SOCI 415","subject_code":"SOCI","course_number":"415","course_title":"Theories of Family and Kinship","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=415&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"SOCI 415 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"SOCI","course_number":"415","section_number":"102","building":" ","room":"","instructors":["WAINER, RAFAEL"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"},"103":{"status":" ","section":"SOCI 415 103","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=103&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"415","section_number":"103","building":" ","room":"","instructors":["BARTOLIC, SILVIA"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"104":{"status":"Full","section":"SOCI 415 104","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=104&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:30","end":"11:00","comments":"","subject_code":"SOCI","course_number":"415","section_number":"104","building":" ","room":"","instructors":["ROUTRAY, SANJEEV"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"SOCI 415 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=202&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"SOCI","course_number":"415","section_number":"202","building":"Earth Sciences Building","room":"2012","instructors":["ROUTRAY, SANJEEV"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Full","section":"SOCI 415 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=203&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"SOCI","course_number":"415","section_number":"203","building":"Mathematics","room":"104","instructors":["ROUTRAY, SANJEEV"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Theoretical approaches to the study of the family and family forms."}
+{
+  "course_name": "SOCI 415",
+  "subject_code": "SOCI",
+  "course_number": "415",
+  "course_title": "Theories of Family and Kinship",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 415 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "415",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WAINER, RAFAEL"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "SOCI 415 103",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=103&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "415",
+      "section_number": "103",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BARTOLIC, SILVIA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 415 104",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=104&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "415",
+      "section_number": "104",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROUTRAY, SANJEEV"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 415 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "415",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROUTRAY, SANJEEV"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 415 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=415&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "415",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROUTRAY, SANJEEV"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Theoretical approaches to the study of the family and family forms.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

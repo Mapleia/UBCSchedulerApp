@@ -1,1 +1,97 @@
-{"course_name":"ASIA 532B","subject_code":"ASIA","course_number":"532B","course_title":"Topics in Traditional Japanese Literature - TRAD JAPN LIT","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=532B&sessyr=2020&sesscd=W","sections":{"709":{"status":" ","section":"ASIA 532B 709","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=709&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"532B","section_number":"709","building":" ","room":"","instructors":["MOSTOW, JOSHUA SCOTT"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"009":{"status":" ","section":"ASIA 532B 009","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=009&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"532B","section_number":"009","building":" ","room":"","instructors":["MOSTOW, JOSHUA SCOTT"],"totalRemaining":"9","currentlyRegistered":"1","generalRemaining":"9","restrictedRemaining":"0"},"021":{"status":" ","section":"ASIA 532B 021","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=021&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"15:00","end":"18:00","comments":"Course outline is available on https://asia.ubc.ca/graduate/grad-courses/","subject_code":"ASIA","course_number":"532B","section_number":"021","building":" ","room":"","instructors":["LAFFIN, CHRISTINA"],"totalRemaining":"5","currentlyRegistered":"2","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ASIA 532B",
+  "subject_code": "ASIA",
+  "course_number": "532B",
+  "course_title": "Topics in Traditional Japanese Literature - TRAD JAPN LIT",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASIA&course=532B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ASIA 532B 709",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=709&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "532B",
+      "section_number": "709",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOSTOW, JOSHUA SCOTT"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 532B 009",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=009&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "532B",
+      "section_number": "009",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MOSTOW, JOSHUA SCOTT"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ASIA 532B 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASIA&course=532B&section=021&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "Course outline is available on https://asia.ubc.ca/graduate/grad-courses/",
+      "subject_code": "ASIA",
+      "course_number": "532B",
+      "section_number": "021",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LAFFIN, CHRISTINA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "2",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

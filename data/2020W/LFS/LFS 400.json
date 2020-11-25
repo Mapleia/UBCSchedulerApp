@@ -1,1 +1,70 @@
-{"course_name":"LFS 400","subject_code":"LFS","course_number":"400","course_title":"Audio Storytelling","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=400&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LFS 400 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=400&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"10:00","end":"12:00","comments":"","subject_code":"LFS","course_number":"400","section_number":"001","building":"MacMillan","room":"358","instructors":["MCHUGH, DUNCAN M"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"L01":{"status":"Full","section":"LFS 400 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=400&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Fri","start":"11:00","end":"12:00","comments":"","subject_code":"LFS","course_number":"400","section_number":"L01","building":"MacMillan","room":"258","instructors":["MCHUGH, DUNCAN M"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Adopts a journalistic framework to communicate powerful stories and present academic content in new ways through the use of audio technology."}
+{
+  "course_name": "LFS 400",
+  "subject_code": "LFS",
+  "course_number": "400",
+  "course_title": "Audio Storytelling",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=400&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LFS 400 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=400&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "400",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCHUGH, DUNCAN M"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "LFS 400 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=400&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "400",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MCHUGH, DUNCAN M"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Adopts a journalistic framework to communicate powerful stories and present academic content in new ways through the use of audio technology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

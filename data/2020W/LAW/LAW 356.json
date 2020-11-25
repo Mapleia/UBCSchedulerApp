@@ -1,1 +1,43 @@
-{"course_name":"LAW 356","subject_code":"LAW","course_number":"356","course_title":"First Nations and Economic Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=356&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LAW 356 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=356&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"LAW","course_number":"356","section_number":"001","building":" ","room":"","instructors":["HANNA, DARWIN"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Legal issues affecting land use and economic activity involving First Nations' resources. Not offered each year, consult Faculty."}
+{
+  "course_name": "LAW 356",
+  "subject_code": "LAW",
+  "course_number": "356",
+  "course_title": "First Nations and Economic Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=356&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LAW 356 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=356&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "356",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HANNA, DARWIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Legal issues affecting land use and economic activity involving First Nations' resources. Not offered each year, consult Faculty.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

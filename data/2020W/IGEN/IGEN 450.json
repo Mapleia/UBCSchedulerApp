@@ -1,1 +1,45 @@
-{"course_name":"IGEN 450","subject_code":"IGEN","course_number":"450","course_title":"Pipeline Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=IGEN&course=450&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"IGEN 450 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=450&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"12:00","end":"13:00","comments":"","subject_code":"IGEN","course_number":"450","section_number":"101","building":" ","room":"","instructors":["WIJEWICKREME, DHARMAPRIYA","ASSELIN, EDOUARD(Coordinator)"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Pipeline materials and material selection; fracture mechanics; manufacturing and processing; welding and corrosion; soil-pipe interactions; surveying and site investigations; slope stability; natural hazards; pipeline loads and response."}
+{
+  "course_name": "IGEN 450",
+  "subject_code": "IGEN",
+  "course_number": "450",
+  "course_title": "Pipeline Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=IGEN&course=450&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "IGEN 450 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=450&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "IGEN",
+      "course_number": "450",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WIJEWICKREME, DHARMAPRIYA",
+        "ASSELIN, EDOUARD(Coordinator)"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Pipeline materials and material selection; fracture mechanics; manufacturing and processing; welding and corrosion; soil-pipe interactions; surveying and site investigations; slope stability; natural hazards; pipeline loads and response.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

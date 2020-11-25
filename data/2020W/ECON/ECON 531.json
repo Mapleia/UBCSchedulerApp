@@ -1,1 +1,44 @@
-{"course_name":"ECON 531","subject_code":"ECON","course_number":"531","course_title":"Economic History of Modern Europe","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=531&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"ECON 531 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=531&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.","subject_code":"ECON","course_number":"531","section_number":"001","building":"Buchanan","room":"B303","instructors":["VALENCIA CAICEDO, FELIPE"],"totalRemaining":"8","currentlyRegistered":"7","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECON 531",
+  "subject_code": "ECON",
+  "course_number": "531",
+  "course_title": "Economic History of Modern Europe",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=531&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ECON 531 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=531&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "Prerequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.",
+      "subject_code": "ECON",
+      "course_number": "531",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VALENCIA CAICEDO, FELIPE"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "7",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

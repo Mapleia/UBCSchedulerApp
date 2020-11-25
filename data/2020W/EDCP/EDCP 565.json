@@ -1,1 +1,43 @@
-{"course_name":"EDCP 565","subject_code":"EDCP","course_number":"565","course_title":"Teaching in Museums","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=565&sessyr=2020&sesscd=W","sections":{"61A":{"status":"Blocked","section":"EDCP 565 61A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=565&section=61A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This course is reserved for students in the MED6 Master of Museum Education cohort. No other students will be registered.","subject_code":"EDCP","course_number":"565","section_number":"61A","building":"No Scheduled Meeting","room":"","instructors":["MCINTOSH, LISA"],"totalRemaining":"0","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Issues, theories, and research studies.\t"}
+{
+  "course_name": "EDCP 565",
+  "subject_code": "EDCP",
+  "course_number": "565",
+  "course_title": "Teaching in Museums",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=565&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDCP 565 61A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=565&section=61A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This course is reserved for students in the MED6 Master of Museum Education cohort. No other students will be registered.",
+      "subject_code": "EDCP",
+      "course_number": "565",
+      "section_number": "61A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "MCINTOSH, LISA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Issues, theories, and research studies.\t",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

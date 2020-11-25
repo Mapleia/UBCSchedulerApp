@@ -1,1 +1,102 @@
-{"course_name":"FRE 340","subject_code":"FRE","course_number":"340","course_title":"International Agricultural Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=340&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"FRE 340 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"FRE","course_number":"340","section_number":"001","building":" ","room":"","instructors":["HOLOWAYCHUK, SEAN","GARBIEC, HELEN","JONAS, ISAAC","LUNA PEREZ, ERIKA"],"totalRemaining":"22","currentlyRegistered":"33","generalRemaining":"18","restrictedRemaining":"4"},"002":{"status":" ","section":"FRE 340 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"18:30","end":"20:00","comments":"","subject_code":"FRE","course_number":"340","section_number":"002","building":" ","room":"","instructors":["HOLOWAYCHUK, SEAN","JONAS, ISAAC"],"totalRemaining":"16","currentlyRegistered":"19","generalRemaining":"16","restrictedRemaining":"0"},"0W1":{"status":" ","section":"FRE 340 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This wait list is to be used for BOTH FRE 340 001 and FRE 340 002.  If you wish to be in one of the two sections and the section you want is full, please add yourself to this wait list and LFS Student Services will work with you to do it's best to accommodate your interest in being in the @9:30am (section 001) or the @6:30pm (section 002) section.","subject_code":"FRE","course_number":"340","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["HOLOWAYCHUK, SEAN"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Characteristics, processes and sources of economic growth, role of agricultural and resource sectors in economic growth, analysis of output and input markets in those sectors, policy failures, tools for empirical analysis of rural markets, growth, and the environment."}
+{
+  "course_name": "FRE 340",
+  "subject_code": "FRE",
+  "course_number": "340",
+  "course_title": "International Agricultural Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=340&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRE 340 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "340",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOLOWAYCHUK, SEAN",
+        "GARBIEC, HELEN",
+        "JONAS, ISAAC",
+        "LUNA PEREZ, ERIKA"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "33",
+      "generalRemaining": "18",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": " ",
+      "section": "FRE 340 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "340",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HOLOWAYCHUK, SEAN",
+        "JONAS, ISAAC"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "19",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "FRE 340 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=340&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This wait list is to be used for BOTH FRE 340 001 and FRE 340 002.  If you wish to be in one of the two sections and the section you want is full, please add yourself to this wait list and LFS Student Services will work with you to do it's best to accommodate your interest in being in the @9:30am (section 001) or the @6:30pm (section 002) section.",
+      "subject_code": "FRE",
+      "course_number": "340",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "HOLOWAYCHUK, SEAN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Characteristics, processes and sources of economic growth, role of agricultural and resource sectors in economic growth, analysis of output and input markets in those sectors, policy failures, tools for empirical analysis of rural markets, growth, and the environment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

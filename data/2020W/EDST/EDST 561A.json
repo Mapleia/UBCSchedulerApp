@@ -1,1 +1,43 @@
-{"course_name":"EDST 561A","subject_code":"EDST","course_number":"561A","course_title":"Practicum - PRACTICUM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=561A&sessyr=2020&sesscd=W","sections":{"081":{"status":"Blocked","section":"EDST 561A 081","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=561A&section=081&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Please e-mail grad.edst@ubc.ca for departmental approval and course registration.","subject_code":"EDST","course_number":"561A","section_number":"081","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"20","currentlyRegistered":"0","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 561A",
+  "subject_code": "EDST",
+  "course_number": "561A",
+  "course_title": "Practicum - PRACTICUM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=561A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EDST 561A 081",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=561A&section=081&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please e-mail grad.edst@ubc.ca for departmental approval and course registration.",
+      "subject_code": "EDST",
+      "course_number": "561A",
+      "section_number": "081",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "0",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

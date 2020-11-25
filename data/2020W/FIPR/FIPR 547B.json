@@ -1,1 +1,47 @@
-{"course_name":"FIPR 547B","subject_code":"FIPR","course_number":"547B","course_title":"Directed Studies in Film Production - DIR ST FILM PROD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=547B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"FIPR 547B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=547B&section=001&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Please consult your MFA Film Production Graduate Advisor before enrolling in this course. Permission of the Department is required.","subject_code":"FIPR","course_number":"547B","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["BOURGES, ANTOINE","DRLJACA, IGOR","MCGOWAN, SHARON","SCHOLTE, TOM","WALSH, SHANNON"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"5"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FIPR 547B",
+  "subject_code": "FIPR",
+  "course_number": "547B",
+  "course_title": "Directed Studies in Film Production - DIR ST FILM PROD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=547B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "FIPR 547B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=547B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Please consult your MFA Film Production Graduate Advisor before enrolling in this course. Permission of the Department is required.",
+      "subject_code": "FIPR",
+      "course_number": "547B",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "BOURGES, ANTOINE",
+        "DRLJACA, IGOR",
+        "MCGOWAN, SHARON",
+        "SCHOLTE, TOM",
+        "WALSH, SHANNON"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

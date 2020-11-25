@@ -1,1 +1,70 @@
-{"course_name":"BUSI 443","subject_code":"BUSI","course_number":"443","course_title":"Assessment Administration","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=443&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"BUSI 443 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=443&section=001&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BUSI","course_number":"443","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"002":{"status":"Blocked","section":"BUSI 443 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=443&section=002&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BUSI","course_number":"443","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduces the practice of real property assessment, including the nature of the techniques used, the required duties of assessors, and how an assessment office is administrated."}
+{
+  "course_name": "BUSI 443",
+  "subject_code": "BUSI",
+  "course_number": "443",
+  "course_title": "Assessment Administration",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BUSI&course=443&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BUSI 443 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=443&section=001&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "443",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BUSI 443 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BUSI&course=443&section=002&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BUSI",
+      "course_number": "443",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "6",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduces the practice of real property assessment, including the nature of the techniques used, the required duties of assessors, and how an assessment office is administrated.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

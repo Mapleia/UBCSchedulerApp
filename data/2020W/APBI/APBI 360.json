@@ -1,1 +1,44 @@
-{"course_name":"APBI 360","subject_code":"APBI","course_number":"360","course_title":"Agroecology II: Application and analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=360&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 360 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=360&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"APBI","course_number":"360","section_number":"001","building":"Food, Nutrition and Health","room":"50","instructors":["RISEMAN, ANDREW"],"totalRemaining":"10","currentlyRegistered":"28","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Animals and Plants as Components of Agricultural Ecosystems. A systems approach is used to investigate the functions and interactions of plants and animals in agricultural systems."}
+{
+  "course_name": "APBI 360",
+  "subject_code": "APBI",
+  "course_number": "360",
+  "course_title": "Agroecology II: Application and analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 360 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=360&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "360",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RISEMAN, ANDREW"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "25",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Animals and Plants as Components of Agricultural Ecosystems. A systems approach is used to investigate the functions and interactions of plants and animals in agricultural systems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

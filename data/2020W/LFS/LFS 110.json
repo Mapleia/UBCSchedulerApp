@@ -1,1 +1,97 @@
-{"course_name":"LFS 110","subject_code":"LFS","course_number":"110","course_title":"Land One: First-year Integrative Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=110&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"LFS 110 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue","start":"10:00","end":"11:00","comments":"Course is ONLINE for term one.  Term two is TBC.  This section is for students admitted to the LAND ONE program only.","subject_code":"LFS","course_number":"110","section_number":"101","building":" ","room":"","instructors":["TOMASELLI CRESPO, MARIA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"10"},"L01":{"status":"Restricted","section":"LFS 110 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"11:00","end":"12:00","comments":"Course is ONLINE for term one.  Term two is TBC.  This section is for students admitted to the LAND ONE program only.","subject_code":"LFS","course_number":"110","section_number":"L01","building":" ","room":"","instructors":["TOMASELLI CRESPO, MARIA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"10"},"T01":{"status":"Restricted","section":"LFS 110 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Thu","start":"10:00","end":"11:00","comments":"Course is ONLINE for term one.  Term two is TBC. This section is for students admitted to the LAND ONE program only.","subject_code":"LFS","course_number":"110","section_number":"T01","building":" ","room":"","instructors":["TOMASELLI CRESPO, MARIA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":"Current issues and cases in Forestry and Land and Food Systems are examined with a focus on integration of first-year subjects and exposure to both Indigenous and Western perspectives.  Restricted to Faculty of Land and Food Systems students in the Land One option."}
+{
+  "course_name": "LFS 110",
+  "subject_code": "LFS",
+  "course_number": "110",
+  "course_title": "Land One: First-year Integrative Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=110&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LFS 110 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This section is for students admitted to the LAND ONE program only.",
+      "subject_code": "LFS",
+      "course_number": "110",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMASELLI CRESPO, MARIA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "LFS 110 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This section is for students admitted to the LAND ONE program only.",
+      "subject_code": "LFS",
+      "course_number": "110",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMASELLI CRESPO, MARIA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "LFS 110 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=110&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This section is for students admitted to the LAND ONE program only.",
+      "subject_code": "LFS",
+      "course_number": "110",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TOMASELLI CRESPO, MARIA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": "Current issues and cases in Forestry and Land and Food Systems are examined with a focus on integration of first-year subjects and exposure to both Indigenous and Western perspectives.  Restricted to Faculty of Land and Food Systems students in the Land One option.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Tutorial"
+  ]
+}

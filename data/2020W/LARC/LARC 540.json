@@ -1,1 +1,44 @@
-{"course_name":"LARC 540","subject_code":"LARC","course_number":"540","course_title":"Site Analysis and Planning","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=540&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"LARC 540 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=540&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"1","interval":"","days":" Mon Wed","start":"11:00","end":"12:30","comments":"","subject_code":"LARC","course_number":"540","section_number":"001","building":" ","room":"","instructors":["ROBB, DOUGLAS"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Site analysis and planning of relatively complex sites, emphasizing stormwater management design. Credit will be granted for only one of LARC 540, LARC 440 or DES 231."}
+{
+  "course_name": "LARC 540",
+  "subject_code": "LARC",
+  "course_number": "540",
+  "course_title": "Site Analysis and Planning",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=540&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "LARC 540 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=540&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "540",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROBB, DOUGLAS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Site analysis and planning of relatively complex sites, emphasizing stormwater management design. Credit will be granted for only one of LARC 540, LARC 440 or DES 231.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

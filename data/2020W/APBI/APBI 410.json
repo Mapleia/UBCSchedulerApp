@@ -1,1 +1,46 @@
-{"course_name":"APBI 410","subject_code":"APBI","course_number":"410","course_title":"Applied Animal Health and Physiology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=410&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"APBI 410 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=410&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"BIOL 361 OR BIOL 364 are also acceptable prerequisties for APBI 410 - if you have one of these courses, please contact LFS Student Services (students@landfood.ubc.ca) for help with your registration.","subject_code":"APBI","course_number":"410","section_number":"002","building":" ","room":"","instructors":["CERRI, RONALDO","DOS SANTOS MARQUES, JESSICA","MOORE, AINSLEY"],"totalRemaining":"33","currentlyRegistered":"17","generalRemaining":"33","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Application of physiology and pathology principles to health and disease of domestic animals."}
+{
+  "course_name": "APBI 410",
+  "subject_code": "APBI",
+  "course_number": "410",
+  "course_title": "Applied Animal Health and Physiology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=410&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 410 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=410&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "BIOL 361 OR BIOL 364 are also acceptable prerequisties for APBI 410 - if you have one of these courses, please contact LFS Student Services (students@landfood.ubc.ca) for help with your registration.",
+      "subject_code": "APBI",
+      "course_number": "410",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CERRI, RONALDO",
+        "DOS SANTOS MARQUES, JESSICA",
+        "MOORE, AINSLEY"
+      ],
+      "totalRemaining": "33",
+      "currentlyRegistered": "17",
+      "generalRemaining": "33",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Application of physiology and pathology principles to health and disease of domestic animals.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

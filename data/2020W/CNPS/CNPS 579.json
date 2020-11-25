@@ -1,1 +1,43 @@
-{"course_name":"CNPS 579","subject_code":"CNPS","course_number":"579","course_title":"Research in Counselling Psychology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=579&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"CNPS 579 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=579&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"16:30","end":"19:30","comments":"This section will be offered online.","subject_code":"CNPS","course_number":"579","section_number":"001","building":" ","room":"","instructors":["YOUNG, RICHARD"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"11"}},"credits":"Credits: 3","description":"Assumptions and methods of major research paradigms."}
+{
+  "course_name": "CNPS 579",
+  "subject_code": "CNPS",
+  "course_number": "579",
+  "course_title": "Research in Counselling Psychology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CNPS&course=579&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CNPS 579 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CNPS&course=579&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "CNPS",
+      "course_number": "579",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "YOUNG, RICHARD"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 3,
+  "description": "Assumptions and methods of major research paradigms.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

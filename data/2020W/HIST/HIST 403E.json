@@ -1,1 +1,43 @@
-{"course_name":"HIST 403E","subject_code":"HIST","course_number":"403E","course_title":"Seminar in the History of International Relations - WAR STRATEGY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403E&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"HIST 403E 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403E&section=201&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"15:30","end":"17:30","comments":"The History of War Strategy from Ancient to Modern Times:In this course, students critically analyze the evolution of military strategy around the world, its relationship to technology, politics, and culture, and its impact on warfare throughout history.  We will analyze both primary and secondary sources covering strategy from ancient to modern times, with an emphasis on how strategists used history as a guide in dealing with their own security dilemmas.  As a capstone research course in International Relations, this seminar requires students to conduct a research project culminating in a 5000 word paper.  Please note that this is a reading-intensive seminar course.","subject_code":"HIST","course_number":"403E","section_number":"201","building":"Buchanan","room":"D306","instructors":["GOSSEN, DAVID"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations."}
+{
+  "course_name": "HIST 403E",
+  "subject_code": "HIST",
+  "course_number": "403E",
+  "course_title": "Seminar in the History of International Relations - WAR STRATEGY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=403E&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 403E 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=403E&section=201&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "The History of War Strategy from Ancient to Modern Times:In this course, students critically analyze the evolution of military strategy around the world, its relationship to technology, politics, and culture, and its impact on warfare throughout history.  We will analyze both primary and secondary sources covering strategy from ancient to modern times, with an emphasis on how strategists used history as a guide in dealing with their own security dilemmas.  As a capstone research course in International Relations, this seminar requires students to conduct a research project culminating in a 5000 word paper.  Please note that this is a reading-intensive seminar course.HIST 403E is a seminar with synchronous 2-hour sessions each Monday, involving student presentations and weekly discussions of assigned readings.",
+      "subject_code": "HIST",
+      "course_number": "403E",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GOSSEN, DAVID"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "17",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics in the history of international relations. Restricted to fourth year students majoring in History or International Relations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

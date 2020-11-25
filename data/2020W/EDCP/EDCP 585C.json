@@ -1,1 +1,43 @@
-{"course_name":"EDCP 585C","subject_code":"EDCP","course_number":"585C","course_title":"Special Course in Curriculum and Pedagogy - SPECIAL CURR&PED","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=585C&sessyr=2020&sesscd=W","sections":{"032":{"status":" ","section":"EDCP 585C 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=585C&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"16:30","end":"19:30","comments":"Ethnography in the Classroom","subject_code":"EDCP","course_number":"585C","section_number":"032","building":"Neville Scarfe","room":"1209","instructors":["LOUTZENHEISER, LISA"],"totalRemaining":"16","currentlyRegistered":"4","generalRemaining":"16","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 585C",
+  "subject_code": "EDCP",
+  "course_number": "585C",
+  "course_title": "Special Course in Curriculum and Pedagogy - SPECIAL CURR&PED",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=585C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDCP 585C 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=585C&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "Ethnography in the ClassroomThis section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "585C",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOUTZENHEISER, LISA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "7",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

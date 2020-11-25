@@ -1,1 +1,97 @@
-{"course_name":"MTRL 382","subject_code":"MTRL","course_number":"382","course_title":"Ceramics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=382&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MTRL 382 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"MTRL","course_number":"382","section_number":"201","building":"Frank Forward","room":"317","instructors":["TROCZYNSKI, TOM"],"totalRemaining":"10","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"10"},"L2A":{"status":"Restricted","section":"MTRL 382 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"MTRL","course_number":"382","section_number":"L2A","building":"Frank Forward","room":"217","instructors":["TROCZYNSKI, TOM"],"totalRemaining":"10","currentlyRegistered":"22","generalRemaining":"0","restrictedRemaining":"10"},"L2B":{"status":"STT","section":"MTRL 382 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"MTRL","course_number":"382","section_number":"L2B","building":"Civil and Mechanical Engineering","room":"1212","instructors":["TROCZYNSKI, TOM"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics."}
+{
+  "course_name": "MTRL 382",
+  "subject_code": "MTRL",
+  "course_number": "382",
+  "course_title": "Ceramics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=382&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 382 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "382",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TROCZYNSKI, TOM"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "41",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "MTRL 382 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "382",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TROCZYNSKI, TOM"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "STT",
+      "section": "MTRL 382 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=382&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "382",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TROCZYNSKI, TOM"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

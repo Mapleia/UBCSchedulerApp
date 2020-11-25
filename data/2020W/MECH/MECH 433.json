@@ -1,1 +1,71 @@
-{"course_name":"MECH 433","subject_code":"MECH","course_number":"433","course_title":"Biofluids","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=433&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"MECH 433 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=433&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"","subject_code":"MECH","course_number":"433","section_number":"201","building":"Food, Nutrition and Health","room":"50","instructors":["GRECOV, DANA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"2"},"T2A":{"status":"Restricted","section":"MECH 433 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=433&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"16:00","end":"17:00","comments":"","subject_code":"MECH","course_number":"433","section_number":"T2A","building":"Biological Sciences","room":"1012","instructors":["GRECOV, DANA"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"Review of principles, Navier-Stokes equations, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in human body."}
+{
+  "course_name": "MECH 433",
+  "subject_code": "MECH",
+  "course_number": "433",
+  "course_title": "Biofluids",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=433&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MECH 433 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=433&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "433",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": "Restricted",
+      "section": "MECH 433 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=433&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "433",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GRECOV, DANA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Review of principles, Navier-Stokes equations, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in human body.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

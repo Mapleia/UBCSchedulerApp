@@ -1,1 +1,43 @@
-{"course_name":"GEOG 446A","subject_code":"GEOG","course_number":"446A","course_title":"Topics in Geography - TOPICS IN GEOG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=446A&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"GEOG 446A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=446A&section=101&sessyr=2020&sesscd=W","activity":"Research","term":"1","interval":"","days":" Wed","start":"18:00","end":"21:00","comments":"This online seminar has a synchronous scheduled meeting time. The course examines the contemporary dynamics of global agro-food systems from a political ecology perspective in order to unpack the environmental, cultural, ethical, and socio-economic implications of our current food regime.  We will explore potential solutions to the global problems brought on by our current ago-food system, as well as take an indepth look at different grassroots responses to industrial food systems in the form of alternative food movements.","subject_code":"GEOG","course_number":"446A","section_number":"101","building":" ","room":"","instructors":["BROWN, LOCH"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"See the departmental undergraduate advisor for details."}
+{
+  "course_name": "GEOG 446A",
+  "subject_code": "GEOG",
+  "course_number": "446A",
+  "course_title": "Topics in Geography - TOPICS IN GEOG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=446A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 446A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=446A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Research",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "This online seminar has a synchronous scheduled meeting time. The course examines the contemporary dynamics of global agro-food systems from a political ecology perspective in order to unpack the environmental, cultural, ethical, and socio-economic implications of our current food regime.  We will explore potential solutions to the global problems brought on by our current ago-food system, as well as take an indepth look at different grassroots responses to industrial food systems in the form of alternative food movements.",
+      "subject_code": "GEOG",
+      "course_number": "446A",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROWN, LOCH"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "See the departmental undergraduate advisor for details.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Research"
+  ]
+}

@@ -1,1 +1,49 @@
-{"course_name":"DES 202","subject_code":"DES","course_number":"202","course_title":"Design Studio II - Form","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=202&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"DES 202 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=202&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"2","interval":"","days":" Mon Wed","start":"13:30","end":"17:00","comments":"","subject_code":"DES","course_number":"202","section_number":"001","building":"To Be Announced","room":"","instructors":["2","28","0","2","","in one of these programs: BDES\nin year: =2\n\n"],"totalRemaining":"in one of these programs: BDES\nin year: =2\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Essential processes and methods for thinking in three-dimensional spatial terms."}
+{
+  "course_name": "DES 202",
+  "subject_code": "DES",
+  "course_number": "202",
+  "course_title": "Design Studio II - Form",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DES&course=202&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "DES 202 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DES&course=202&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "13:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "DES",
+      "course_number": "202",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "2",
+        "28",
+        "0",
+        "2",
+        "",
+        "in one of these programs: BDES\nin year: =2\n\n"
+      ],
+      "totalRemaining": "in one of these programs: BDES\nin year: =2\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Essential processes and methods for thinking in three-dimensional spatial terms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Studio"
+  ]
+}

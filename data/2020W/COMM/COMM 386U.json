@@ -1,1 +1,44 @@
-{"course_name":"COMM 386U","subject_code":"COMM","course_number":"386U","course_title":"Topics in Business III - SOCIAL MEDIA","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386U&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"COMM 386U 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386U&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"19:00","end":"20:30","comments":"Full course title: Social Media Strategy  |  Pre-reqs: COMM 296  |  Learn more at mybcom.sauder.ubc.ca/comm386uThis section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.","subject_code":"COMM","course_number":"386U","section_number":"101","building":" ","room":"","instructors":["VAUGHAN, JARRETT"],"totalRemaining":"2","currentlyRegistered":"41","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "COMM 386U",
+  "subject_code": "COMM",
+  "course_number": "386U",
+  "course_title": "Topics in Business III - SOCIAL MEDIA",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=386U&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "COMM 386U 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=386U&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "Full course title: Social Media Strategy  |  Pre-reqs: COMM 296  |  Learn more at mybcom.sauder.ubc.ca/comm386uThis section has been scheduled to accommodate students who will be studying in time zones across Asia during Term 1 of 2020W.  If you will be studying in a time zone within the Western Hemisphere, we kindly ask that you choose a different section that starts before 5:00 p.m.  If seats are still remaining in this section once all students have registered by the end of July, you can consider switching into this section.",
+      "subject_code": "COMM",
+      "course_number": "386U",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAUGHAN, JARRETT"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "40",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

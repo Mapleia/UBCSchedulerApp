@@ -1,1 +1,44 @@
-{"course_name":"ARCL 235","subject_code":"ARCL","course_number":"235","course_title":"Controlling Nature: Plant and Animal Domestication","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=235&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"ARCL 235 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=235&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"16:00","end":"17:30","comments":"ARCL235: The domestication of plant and animal revolutionized the life-ways of past peoples, their relationship with their environment, and their technological and social development. This course examines the origins of the food we eat; how, when and why humans became dependent of cultivated foods and domestic animals; and how we can recognize these fundamental shifts in subsistence in the archaeological record.","subject_code":"ARCL","course_number":"235","section_number":"002","building":"Hebb","room":"114","instructors":["SPELLER, CAMILLA"],"totalRemaining":"55","currentlyRegistered":"35","generalRemaining":"55","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"How, when and why humans became dependent on cultivated foods and domestic animals and the methods used to document plant and animal domestication."}
+{
+  "course_name": "ARCL 235",
+  "subject_code": "ARCL",
+  "course_number": "235",
+  "course_title": "Controlling Nature: Plant and Animal Domestication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCL&course=235&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ARCL 235 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCL&course=235&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "17:30",
+      "comments": "ARCL235: The domestication of plant and animal revolutionized the life-ways of past peoples, their relationship with their environment, and their technological and social development. This course examines the origins of the food we eat; how, when and why humans became dependent of cultivated foods and domestic animals; and how we can recognize these fundamental shifts in subsistence in the archaeological record.",
+      "subject_code": "ARCL",
+      "course_number": "235",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SPELLER, CAMILLA"
+      ],
+      "totalRemaining": "55",
+      "currentlyRegistered": "35",
+      "generalRemaining": "55",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "How, when and why humans became dependent on cultivated foods and domestic animals and the methods used to document plant and animal domestication.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

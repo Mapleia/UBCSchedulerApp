@@ -1,1 +1,97 @@
-{"course_name":"LFS 549","subject_code":"LFS","course_number":"549","course_title":"Master's Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=549&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LFS 549 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LFS","course_number":"549","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"12","generalRemaining":"8","restrictedRemaining":"0"},"002":{"status":" ","section":"LFS 549 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=002&sessyr=2020&sesscd=W","activity":"Thesis","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LFS","course_number":"549","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"},"003":{"status":" ","section":"LFS 549 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=003&sessyr=2020&sesscd=W","activity":"Thesis","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LFS","course_number":"549","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"0","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 12","description":" "}
+{
+  "course_name": "LFS 549",
+  "subject_code": "LFS",
+  "course_number": "549",
+  "course_title": "Master's Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LFS&course=549&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LFS 549 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "549",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "12",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LFS 549 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=002&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "549",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LFS 549 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LFS&course=549&section=003&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LFS",
+      "course_number": "549",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "0",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"MUSC 333","subject_code":"MUSC","course_number":"333","course_title":"Accompanying on the Harpsichord I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=333&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 333 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=333&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1-2","interval":"","days":" Mon","start":"10:30","end":"12:00","comments":"Restricted to BMUS/GMUS students.  Final approval of enrolment is subject to approval of instructor, Head of the Keyboard Division, and the Director.","subject_code":"MUSC","course_number":"333","section_number":"001","building":"Music","room":"304","instructors":["WEIMANN, ALEXANDER"],"totalRemaining":"4","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 2","description":"Basic techniques and styles of continuo playing. Open to keyboard players with no previous harpsichord experience."}
+{
+  "course_name": "MUSC 333",
+  "subject_code": "MUSC",
+  "course_number": "333",
+  "course_title": "Accompanying on the Harpsichord I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=333&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 333 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=333&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "10:30",
+      "end": "12:00",
+      "comments": "Restricted to BMUS/GMUS students.  Final approval of enrolment is subject to approval of instructor, Head of the Keyboard Division, and the Director.",
+      "subject_code": "MUSC",
+      "course_number": "333",
+      "section_number": "001",
+      "building": "Music",
+      "room": "304",
+      "instructors": [
+        "WEIMANN, ALEXANDER"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "2",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 2,
+  "description": "Basic techniques and styles of continuo playing. Open to keyboard players with no previous harpsichord experience.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

@@ -1,1 +1,73 @@
-{"course_name":"MICB 406","subject_code":"MICB","course_number":"406","course_title":"Topics in Molecular Virology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=406&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"MICB 406 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=406&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.","subject_code":"MICB","course_number":"406","section_number":"201","building":" ","room":"","instructors":["HORWITZ, MARC","JEAN, FRANCOIS"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":"Blocked","section":"MICB 406 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=406&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Tue Thu","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"406","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"11","generalRemaining":"2","restrictedRemaining":"13"}},"credits":"Credits: 3","description":"Presentations, library research, paper reviews, class discussions about current research in virology. Topics such as molecular targets in viral therapy; chronic viral infection; virus-host cell interaction."}
+{
+  "course_name": "MICB 406",
+  "subject_code": "MICB",
+  "course_number": "406",
+  "course_title": "Topics in Molecular Virology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=406&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "MICB 406 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=406&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "Students should register into the wait-list at the present time.   Students will be contacted in early July regarding registration.  Student that are on the wait-lists for MICB 404, 406, 407, 412 and 413 will be asked to rank their preferences for registration - please check for an email after the first week of June.  Depending on the demand for these courses, students may be registered in only one course.  If seats remain open, students may be registered into a second course.  Students should consult SSC on a regular basis in July to see if they have been moved into the course.Registration questions should be directed to Dr. Kion at tkion@mail.ubc.ca.Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.",
+      "subject_code": "MICB",
+      "course_number": "406",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HORWITZ, MARC",
+        "JEAN, FRANCOIS"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "29",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "MICB 406 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=406&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "406",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "11",
+      "generalRemaining": "2",
+      "restrictedRemaining": "13"
+    }
+  ],
+  "credits": 3,
+  "description": "Presentations, library research, paper reviews, class discussions about current research in virology. Topics such as molecular targets in viral therapy; chronic viral infection; virus-host cell interaction.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,152 @@
-{"course_name":"APBI 327","subject_code":"APBI","course_number":"327","course_title":"Introduction to Entomology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=327&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 327 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:00","comments":"","subject_code":"APBI","course_number":"327","section_number":"001","building":" ","room":"","instructors":["AKHTAR, YASMIN","LIM, MICHELLE","MELO, ZACHARY","TSURUDA, MATTHEW"],"totalRemaining":"8","currentlyRegistered":"52","generalRemaining":"8","restrictedRemaining":"0"},"L01":{"status":" ","section":"APBI 327 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"9:00","end":"11:00","comments":"","subject_code":"APBI","course_number":"327","section_number":"L01","building":" ","room":"","instructors":["AKHTAR, YASMIN"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"},"L02":{"status":" ","section":"APBI 327 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"9:00","end":"11:00","comments":"","subject_code":"APBI","course_number":"327","section_number":"L02","building":" ","room":"","instructors":["AKHTAR, YASMIN"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"},"L03":{"status":" ","section":"APBI 327 L03","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L03&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"13:30","end":"15:30","comments":"","subject_code":"APBI","course_number":"327","section_number":"L03","building":" ","room":"","instructors":["AKHTAR, YASMIN"],"totalRemaining":"1","currentlyRegistered":"14","generalRemaining":"1","restrictedRemaining":"0"},"L04":{"status":" ","section":"APBI 327 L04","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L04&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Thu","start":"13:30","end":"15:30","comments":"","subject_code":"APBI","course_number":"327","section_number":"L04","building":" ","room":"","instructors":["AKHTAR, YASMIN"],"totalRemaining":"5","currentlyRegistered":"10","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A survey of the structure, classification and biology of insects; ecology and life-histories of insects; insect-plant relations."}
+{
+  "course_name": "APBI 327",
+  "subject_code": "APBI",
+  "course_number": "327",
+  "course_title": "Introduction to Entomology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=327&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 327 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "327",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AKHTAR, YASMIN",
+        "LIM, MICHELLE",
+        "MELO, ZACHARY",
+        "TSURUDA, MATTHEW"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "52",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 327 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "327",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AKHTAR, YASMIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 327 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "327",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AKHTAR, YASMIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 327 L03",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L03&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "327",
+      "section_number": "L03",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AKHTAR, YASMIN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "14",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "APBI 327 L04",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=327&section=L04&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "327",
+      "section_number": "L04",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AKHTAR, YASMIN"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "10",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A survey of the structure, classification and biology of insects; ecology and life-histories of insects; insect-plant relations.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

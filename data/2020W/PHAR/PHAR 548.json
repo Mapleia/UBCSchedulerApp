@@ -1,1 +1,121 @@
-{"course_name":"PHAR 548","subject_code":"PHAR","course_number":"548","course_title":"M.Sc. Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=548&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHAR 548 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" Wed Fri","start":"12:00","end":"13:00","comments":"All continuing MSc student must register for this course","subject_code":"PHAR","course_number":"548","section_number":"001","building":"To Be Announced","room":"","instructors":["WONG, JUDY(Coordinator)"],"totalRemaining":"29","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"29"},"002":{"status":"Restricted","section":"PHAR 548 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed Fri","start":"12:00","end":"13:00","comments":"Restricted to students who will complete their MSc program by December 31st","subject_code":"PHAR","course_number":"548","section_number":"002","building":"To Be Announced","room":"","instructors":["WONG, JUDY","WONG, JUDY(Coordinator)"],"totalRemaining":"7","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"7"},"003":{"status":"Restricted","section":"PHAR 548 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=003&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed Fri","start":"11:00","end":"13:00","comments":"Restriced to new students who will be starting their MSc program on January 1st","subject_code":"PHAR","course_number":"548","section_number":"003","building":"To Be Announced","room":"","instructors":["WONG, JUDY","WONG, JUDY(Coordinator)"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 2","description":"Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics."}
+{
+  "course_name": "PHAR 548",
+  "subject_code": "PHAR",
+  "course_number": "548",
+  "course_title": "M.Sc. Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=548&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHAR 548 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "All continuing MSc student must register for this course",
+      "subject_code": "PHAR",
+      "course_number": "548",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "DE VERA, MARY",
+        "DE VERA, MARY(Coordinator)",
+        "LI, SHYH-DAR",
+        "LI, SHYH-DAR(Coordinator)",
+        "RODRIGUES, BRIAN",
+        "ROSS, COLIN",
+        "ROSS, COLIN(Coordinator)",
+        "WONG, JUDY(Coordinator)"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "30"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHAR 548 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Restricted to students who will complete their MSc program by December 31st",
+      "subject_code": "PHAR",
+      "course_number": "548",
+      "section_number": "002",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "DE VERA, MARY",
+        "DE VERA, MARY(Coordinator)",
+        "LI, SHYH-DAR",
+        "LI, SHYH-DAR(Coordinator)",
+        "ROSS, COLIN",
+        "ROSS, COLIN(Coordinator)",
+        "WONG, JUDY",
+        "WONG, JUDY(Coordinator)"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Restricted",
+      "section": "PHAR 548 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=548&section=003&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "Restriced to new students who will be starting their MSc program on January 1st",
+      "subject_code": "PHAR",
+      "course_number": "548",
+      "section_number": "003",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "DE VERA, MARY",
+        "DE VERA, MARY(Coordinator)",
+        "LI, SHYH-DAR",
+        "LI, SHYH-DAR(Coordinator)",
+        "ROSS, COLIN",
+        "ROSS, COLIN(Coordinator)",
+        "WONG, JUDY",
+        "WONG, JUDY(Coordinator)"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 2,
+  "description": "Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics.",
+  "terms": [
+    "1",
+    "2",
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

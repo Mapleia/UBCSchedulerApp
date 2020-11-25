@@ -1,1 +1,72 @@
-{"course_name":"GREK 101","subject_code":"GREK","course_number":"101","course_title":"Beginning Ancient Greek I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=101&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"GREK 101 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=101&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.To register after the course start date but before the add/drop deadline, please contact the instructor. Note: students who have received credit for GREK 100 (or its equivalent at another post-secondary institution) may not receive credit also for GREK 101 or 102.","subject_code":"GREK","course_number":"101","section_number":"001","building":" ","room":"","instructors":["REID, SHELLEY"],"totalRemaining":"0","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"0"},"T01":{"status":" ","section":"GREK 101 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=101&section=T01&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Fri","start":"15:00","end":"16:00","comments":"Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for GREK 100 (or its equivalent at another post-secondary institution) may not receive credit also for GREK 101 or 102.","subject_code":"GREK","course_number":"101","section_number":"T01","building":" ","room":"","instructors":["REID, SHELLEY"],"totalRemaining":"1","currentlyRegistered":"31","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Classical and Hellenistic Greek, Part I."}
+{
+  "course_name": "GREK 101",
+  "subject_code": "GREK",
+  "course_number": "101",
+  "course_title": "Beginning Ancient Greek I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GREK&course=101&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GREK 101 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=101&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery.To register after the course start date but before the add/drop deadline, please contact the instructor. Note: students who have received credit for GREK 100 (or its equivalent at another post-secondary institution) may not receive credit also for GREK 101 or 102.",
+      "subject_code": "GREK",
+      "course_number": "101",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REID, SHELLEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "32",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GREK 101 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GREK&course=101&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "16:00",
+      "comments": "Visit https://cnrs.ubc.ca/fall2020courses/ for information on course delivery. Note: students who have received credit for GREK 100 (or its equivalent at another post-secondary institution) may not receive credit also for GREK 101 or 102.",
+      "subject_code": "GREK",
+      "course_number": "101",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "REID, SHELLEY"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "31",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Classical and Hellenistic Greek, Part I.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial"
+  ]
+}

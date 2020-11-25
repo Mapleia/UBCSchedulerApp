@@ -1,1 +1,47 @@
-{"course_name":"MEDD 411","subject_code":"MEDD","course_number":"411","course_title":"Foundations of Medical Practice I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=411&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MEDD 411 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=411&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon Tue Wed Thu Fri","start":"8:00","end":"12:00","comments":"","subject_code":"MEDD","course_number":"411","section_number":"001","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"290","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 17","description":"Integrating foundational and clinical sciences and clinical practice themes. Case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Organized on the basis of clinical presentations. Pass/fail."}
+{
+  "course_name": "MEDD 411",
+  "subject_code": "MEDD",
+  "course_number": "411",
+  "course_title": "Foundations of Medical Practice I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MEDD&course=411&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MEDD 411 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MEDD&course=411&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "MEDD",
+      "course_number": "411",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "290",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 7,
+  "description": "Integrating foundational and clinical sciences and clinical practice themes. Case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Organized on the basis of clinical presentations. Pass/fail.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

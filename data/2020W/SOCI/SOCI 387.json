@@ -1,1 +1,73 @@
-{"course_name":"SOCI 387","subject_code":"SOCI","course_number":"387","course_title":"Drugs and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=387&sessyr=2020&sesscd=W","sections":{"102":{"status":" ","section":"SOCI 387 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=387&section=102&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon Wed","start":"18:00","end":"19:30","comments":"","subject_code":"SOCI","course_number":"387","section_number":"102","building":" ","room":"","instructors":["SMALL, ROBERT"],"totalRemaining":"5","currentlyRegistered":"75","generalRemaining":"5","restrictedRemaining":"0"},"201":{"status":"Full","section":"SOCI 387 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=387&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"SOCI","course_number":"387","section_number":"201","building":"Pharmaceutical Sciences Building","room":"1201","instructors":["RICHARDSON, LINDSEY"],"totalRemaining":"0","currentlyRegistered":"80","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Social dimensions of the causes, consequences, regulation, and treatment of substance use from Canadian and international perspectives."}
+{
+  "course_name": "SOCI 387",
+  "subject_code": "SOCI",
+  "course_number": "387",
+  "course_title": "Drugs and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOCI&course=387&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOCI 387 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=387&section=102&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "387",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMALL, ROBERT"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "75",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "SOCI 387 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOCI&course=387&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "SOCI",
+      "course_number": "387",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RICHARDSON, LINDSEY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "80",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Social dimensions of the causes, consequences, regulation, and treatment of substance use from Canadian and international perspectives.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Lecture",
+    "Web-Oriented Course"
+  ]
+}

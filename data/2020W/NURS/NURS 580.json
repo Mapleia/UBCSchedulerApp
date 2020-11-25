@@ -1,1 +1,71 @@
-{"course_name":"NURS 580","subject_code":"NURS","course_number":"580","course_title":"The Philosophy of Evidence","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=580&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"NURS 580 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=580&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for PHD students.This course presents a study of changing paradigms of nursing science in historical perspective. It includes a critical analysis of constructs and theories in nursing science. The focus is on both theoretical analysis and empirical investigation. Prerequisite: NURS 511 or equivalent.","subject_code":"NURS","course_number":"580","section_number":"001","building":" ","room":"","instructors":["HAASE, KRISTEN","THORNE, SALLY"],"totalRemaining":"7","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"7"},"01W":{"status":"Blocked","section":"NURS 580 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=580&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist section for NURS 580-001","subject_code":"NURS","course_number":"580","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Students not enrolled in the doctoral program require permission of instructor."}
+{
+  "course_name": "NURS 580",
+  "subject_code": "NURS",
+  "course_number": "580",
+  "course_title": "The Philosophy of Evidence",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=580&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 580 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=580&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for PHD students.This course presents a study of changing paradigms of nursing science in historical perspective. It includes a critical analysis of constructs and theories in nursing science. The focus is on both theoretical analysis and empirical investigation. Prerequisite: NURS 511 or equivalent.",
+      "subject_code": "NURS",
+      "course_number": "580",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAASE, KRISTEN",
+        "THORNE, SALLY"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    },
+    {
+      "status": "Blocked",
+      "section": "NURS 580 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=580&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist section for NURS 580-001",
+      "subject_code": "NURS",
+      "course_number": "580",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Students not enrolled in the doctoral program require permission of instructor.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

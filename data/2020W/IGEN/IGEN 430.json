@@ -1,1 +1,44 @@
-{"course_name":"IGEN 430","subject_code":"IGEN","course_number":"430","course_title":"Advanced Engineering Design Projects","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=IGEN&course=430&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"IGEN 430 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=430&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1-2","interval":"","days":" Wed","start":"12:00","end":"16:00","comments":"Instructors: Sanja Miskovic and Fariborz Taghipour","subject_code":"IGEN","course_number":"430","section_number":"001","building":" ","room":"","instructors":["MISKOVIC, SANJA","TAGHIPOUR, FARIBORZ"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 6","description":"Projects involving all material in the curriculum of the Integrated Engineering Program. Students will be expected to propose a project and complete the design and construction of a prototype. Restricted to students in the fourth year of the Integrated Engineering program."}
+{
+  "course_name": "IGEN 430",
+  "subject_code": "IGEN",
+  "course_number": "430",
+  "course_title": "Advanced Engineering Design Projects",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=IGEN&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "IGEN 430 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=IGEN&course=430&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "12:00",
+      "end": "16:00",
+      "comments": "Instructors: Sanja Miskovic and Fariborz Taghipour",
+      "subject_code": "IGEN",
+      "course_number": "430",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MISKOVIC, SANJA",
+        "TAGHIPOUR, FARIBORZ"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 6,
+  "description": "Projects involving all material in the curriculum of the Integrated Engineering Program. Students will be expected to propose a project and complete the design and construction of a prototype. Restricted to students in the fourth year of the Integrated Engineering program.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

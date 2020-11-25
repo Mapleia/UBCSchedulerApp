@@ -1,1 +1,45 @@
-{"course_name":"PHYS 403","subject_code":"PHYS","course_number":"403","course_title":"Statistical Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=403&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"PHYS 403 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=403&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"PHYS","course_number":"403","section_number":"201","building":"Hennings","room":"201","instructors":["STAMP, PHILIP C"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Principles and applications of  statistical mechanics. Ideal gases, degenerate Fermi gases, Bose-Einstein condensation, black body radiation, fluctuations and phase transitions. Credit will be granted for only one of PHYS 403 or PHYS 455. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414."}
+{
+  "course_name": "PHYS 403",
+  "subject_code": "PHYS",
+  "course_number": "403",
+  "course_title": "Statistical Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=403&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 403 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=403&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "403",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STAMP, PHILIP C"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "120",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles and applications of  statistical mechanics. Ideal gases, degenerate Fermi gases, Bose-Einstein condensation, black body radiation, fluctuations and phase transitions. Credit will be granted for only one of PHYS 403 or PHYS 455. Please consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

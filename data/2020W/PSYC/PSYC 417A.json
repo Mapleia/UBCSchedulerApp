@@ -1,1 +1,99 @@
-{"course_name":"PSYC 417A","subject_code":"PSYC","course_number":"417A","course_title":"Special Topics in Psychology - SP TPCS IN PSYC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=417A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PSYC 417A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed Fri","start":"13:00","end":"14:00","comments":"Course topic Applied regression analysisDescription: This course will provide students with foundational knowledge on linear regression analysis. Students will develop an ability to properly apply regression methods to empirical data, including making informed decisions about analytic strategies and methods, understanding and reporting results, and being able to critically evaluate the use of regression methods in published research. This course requires the successful completion of PSYC 218.","subject_code":"PSYC","course_number":"417A","section_number":"001","building":" ","room":"","instructors":["RIGHTS, JASON"],"totalRemaining":"11","currentlyRegistered":"39","generalRemaining":"11","restrictedRemaining":"0"},"002":{"status":" ","section":"PSYC 417A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Course topic: The Science of Happiness. In this seminar-style course, students will read and discuss cutting-edge research addressing questions such as: Does money really make people happier? Why are people happier in some places than others? How do technological innovations, such as smartphones and social media, affect happiness?","subject_code":"PSYC","course_number":"417A","section_number":"002","building":" ","room":"","instructors":["DUNN, ELIZABETH"],"totalRemaining":"10","currentlyRegistered":"30","generalRemaining":"10","restrictedRemaining":"0"},"003":{"status":" ","section":"PSYC 417A 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=003&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"15:30","end":"17:00","comments":"Course topic: The Science of Happiness. In this seminar-style course, students will read and discuss cutting-edge research addressing questions such as: Does money really make people happier? Why are people happier in some places than others? How do technological innovations, such as smartphones and social media, affect happiness?","subject_code":"PSYC","course_number":"417A","section_number":"003","building":" ","room":"","instructors":["DUNN, ELIZABETH"],"totalRemaining":"15","currentlyRegistered":"25","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Intensive examination of selected topics and issues in psychology."}
+{
+  "course_name": "PSYC 417A",
+  "subject_code": "PSYC",
+  "course_number": "417A",
+  "course_title": "Special Topics in Psychology - SP TPCS IN PSYC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=417A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PSYC 417A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "13:00",
+      "end": "14:00",
+      "comments": "Course topic Applied regression analysisDescription: This course will provide students with foundational knowledge on linear regression analysis. Students will develop an ability to properly apply regression methods to empirical data, including making informed decisions about analytic strategies and methods, understanding and reporting results, and being able to critically evaluate the use of regression methods in published research. This course requires the successful completion of PSYC 218.",
+      "subject_code": "PSYC",
+      "course_number": "417A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RIGHTS, JASON"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "39",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 417A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Course topic: The Science of Happiness. In this seminar-style course, students will read and discuss cutting-edge research addressing questions such as: Does money really make people happier? Why are people happier in some places than others? How do technological innovations, such as smartphones and social media, affect happiness?",
+      "subject_code": "PSYC",
+      "course_number": "417A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNN, ELIZABETH"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "32",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PSYC 417A 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=417A&section=003&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "Course topic: The Science of Happiness. In this seminar-style course, students will read and discuss cutting-edge research addressing questions such as: Does money really make people happier? Why are people happier in some places than others? How do technological innovations, such as smartphones and social media, affect happiness?",
+      "subject_code": "PSYC",
+      "course_number": "417A",
+      "section_number": "003",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DUNN, ELIZABETH"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "27",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Intensive examination of selected topics and issues in psychology.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

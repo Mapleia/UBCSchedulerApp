@@ -1,1 +1,43 @@
-{"course_name":"LARC 570C","subject_code":"LARC","course_number":"570C","course_title":"Co-operative Education - COOP EDUC","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=570C&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"LARC 570C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=570C&section=002&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Internship Form Required: See Advisor","subject_code":"LARC","course_number":"570C","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 6","description":"Approved and supervised work experience in an established company or organization for a minimum of one academic term.  Technical report required."}
+{
+  "course_name": "LARC 570C",
+  "subject_code": "LARC",
+  "course_number": "570C",
+  "course_title": "Co-operative Education - COOP EDUC",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=570C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LARC 570C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=570C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Internship Form Required: See Advisor",
+      "subject_code": "LARC",
+      "course_number": "570C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 6,
+  "description": "Approved and supervised work experience in an established company or organization for a minimum of one academic term.  Technical report required.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Tutorial"
+  ]
+}

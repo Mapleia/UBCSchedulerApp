@@ -1,1 +1,259 @@
-{"course_name":"GEOG 313","subject_code":"GEOG","course_number":"313","course_title":"Environmental Justice and Social Change","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=313&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"GEOG 313 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"14:00","end":"16:00","comments":"","subject_code":"GEOG","course_number":"313","section_number":"201","building":"Geography","room":"100","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"6","currentlyRegistered":"144","generalRemaining":"6","restrictedRemaining":"0"},"L2A":{"status":"Full","section":"GEOG 313 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2A&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon^","start":"11:00","end":"13:00","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2A","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"L2B":{"status":"Full","section":"GEOG 313 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2B&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Mon^","start":"16:00","end":"18:00","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2B","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":" ","section":"GEOG 313 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2C&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Thu^","start":"12:30","end":"14:30","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2C","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"},"L2D":{"status":" ","section":"GEOG 313 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2D&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Thu^","start":"9:00","end":"11:00","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2D","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"9","currentlyRegistered":"16","generalRemaining":"9","restrictedRemaining":"0"},"L2E":{"status":" ","section":"GEOG 313 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2E&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri^","start":"9:00","end":"11:00","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2E","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"10","currentlyRegistered":"15","generalRemaining":"10","restrictedRemaining":"0"},"L2F":{"status":"Full","section":"GEOG 313 L2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2F&sessyr=2020&sesscd=W","activity":"Discussion","term":"2","interval":"","days":" Fri^","start":"11:00","end":"13:00","comments":"Discussion sections are scheduled for the week of Jan 6, Jan 20, Feb 3, Feb 24, Mar 9, Mar 23.^ every second week starting with week following start week","subject_code":"GEOG","course_number":"313","section_number":"L2F","building":"Geography","room":"201","instructors":["DEMPSEY, JESSICA"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":" ","section":"GEOG 313 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOG 313, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOG","course_number":"313","section_number":"WL2","building":"","room":"","instructors":["25","0","25","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Economic, social, political and cultural structures and institutions that shape contemporary socioecological challenges."}
+{
+  "course_name": "GEOG 313",
+  "subject_code": "GEOG",
+  "course_number": "313",
+  "course_title": "Environmental Justice and Social Change",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=313&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 313 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Mix of asynchronous and synchronous components: Several synchronous online lecture held on Wednesday during the scheduled class time.",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "138",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 313 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 313 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 313 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "12:30",
+      "end": "14:30",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "23",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 313 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "13",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 313 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "09:00",
+      "end": "11:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "15",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 313 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "This online discussion has a synchronous scheduled meeting time.^ every second week starting with week following start week",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEMPSEY, JESSICA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 313 L2G",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=L2G&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "This online discussion has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "L2G",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "24",
+        "1",
+        "24",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "GEOG 313 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=313&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 313, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "313",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "25",
+        "0",
+        "25",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Economic, social, political and cultural structures and institutions that shape contemporary socioecological challenges.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Discussion",
+    "Waiting List"
+  ]
+}

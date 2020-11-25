@@ -1,1 +1,72 @@
-{"course_name":"CHIN 405","subject_code":"CHIN","course_number":"405","course_title":"Advanced Chinese Speaking and Writing I (Non-Heritage)","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHIN&course=405&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"CHIN 405 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=405&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"-  PLACEMENT PROCEDURE: ALL students who wish to take ANY CHIN courses, (CNTO or CLCH 389/399) are required to complete an \"On-Line Placement Questionnaire\" to obtain a placement approval for registration. Please only register for the course that you have approval for. To get your placement approval, please go to https://placement.asia.ubc.ca/ - For further information regarding CHIN courses, please go to http://www.chinese.arts.ubc.ca/front.htmIf this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)","subject_code":"CHIN","course_number":"405","section_number":"001","building":" ","room":"","instructors":["LI, DUANDUAN"],"totalRemaining":"23","currentlyRegistered":"7","generalRemaining":"23","restrictedRemaining":"0"},"W01":{"status":"Blocked","section":"CHIN 405 W01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=405&section=W01&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"17:00","end":"18:30","comments":"Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/","subject_code":"CHIN","course_number":"405","section_number":"W01","building":"To Be Announced","room":"","instructors":["LI, DUANDUAN"],"totalRemaining":"25","currentlyRegistered":"0","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"More formal styles of oral and written communication. Can be taken concurrently with CHIN 401. Credit will be granted for only one of CHIN 405 or CHIN 305 or CHIN 408."}
+{
+  "course_name": "CHIN 405",
+  "subject_code": "CHIN",
+  "course_number": "405",
+  "course_title": "Advanced Chinese Speaking and Writing I (Non-Heritage)",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHIN&course=405&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "CHIN 405 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=405&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "-  PLACEMENT PROCEDURE: ALL students who wish to take ANY CHIN courses, (CNTO or CLCH 389/399) are required to complete an \"On-Line Placement Questionnaire\" to obtain a placement approval for registration. Please only register for the course that you have approval for. To get your placement approval, please go to https://placement.asia.ubc.ca/ - For further information regarding CHIN courses, please go to http://www.chinese.arts.ubc.ca/front.htmIf this course is blocked please sign up for the waitlist section. Students will be placed into the class based off our department priority guidelines. For more information please visit: http://www.asia.ubc.ca/undergraduate/department-wait-lists/ (Is the class blocked even though there are a few seats that are free? This is normal. Please check our website for what this means.)",
+      "subject_code": "CHIN",
+      "course_number": "405",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LI, DUANDUAN"
+      ],
+      "totalRemaining": "23",
+      "currentlyRegistered": "7",
+      "generalRemaining": "23",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "CHIN 405 W01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHIN&course=405&section=W01&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "17:00",
+      "end": "18:30",
+      "comments": "Registering for this section does not mean you are enrolled in the course, this is a waitlist section. Students will be moved off the waitlist into the course automatically once there is space. For more information including our department priority guidelines please see: http://www.asia.ubc.ca/undergraduate/department-wait-lists/",
+      "subject_code": "CHIN",
+      "course_number": "405",
+      "section_number": "W01",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "LI, DUANDUAN"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "0",
+      "generalRemaining": "25",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "More formal styles of oral and written communication. Can be taken concurrently with CHIN 401. Credit will be granted for only one of CHIN 405 or CHIN 305 or CHIN 408.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"LAW 578","subject_code":"LAW","course_number":"578","course_title":"Refugee Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=578&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 578 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=578&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"9:30","end":"12:30","comments":"*Cross-listed to LAW 378D.001*","subject_code":"LAW","course_number":"578","section_number":"001","building":" ","room":"","instructors":["ARBEL, EFRAT"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"International and Canadian refugee law; the Refugee Convention and its implementation in Canada; the practice of refugee law in Canadian courts and tribunals. Course content does not duplicate Law 377. Credit will only be given to one of LAW 578 or LAW 378."}
+{
+  "course_name": "LAW 578",
+  "subject_code": "LAW",
+  "course_number": "578",
+  "course_title": "Refugee Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=578&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 578 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=578&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "*Cross-listed to LAW 378D.001*",
+      "subject_code": "LAW",
+      "course_number": "578",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ARBEL, EFRAT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "International and Canadian refugee law; the Refugee Convention and its implementation in Canada; the practice of refugee law in Canadian courts and tribunals. Course content does not duplicate Law 377. Credit will only be given to one of LAW 578 or LAW 378.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

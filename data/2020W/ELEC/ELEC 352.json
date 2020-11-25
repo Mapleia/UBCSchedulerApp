@@ -1,1 +1,123 @@
-{"course_name":"ELEC 352","subject_code":"ELEC","course_number":"352","course_title":"Electric Energy Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=352&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"ELEC 352 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Thu","start":"12:30","end":"14:00","comments":"","subject_code":"ELEC","course_number":"352","section_number":"201","building":"Food, Nutrition and Health","room":"40","instructors":["CHEN, YU CHRISTINE"],"totalRemaining":"18","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"18"},"T2A":{"status":" ","section":"ELEC 352 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue","start":"11:00","end":"13:00","comments":"","subject_code":"ELEC","course_number":"352","section_number":"T2A","building":"Civil and Mechanical Engineering","room":"1202","instructors":["CHEN, YU CHRISTINE"],"totalRemaining":"39","currentlyRegistered":"31","generalRemaining":"39","restrictedRemaining":"0"},"T2W":{"status":" ","section":"ELEC 352 T2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=T2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"352","section_number":"T2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"26","currentlyRegistered":"4","generalRemaining":"26","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 352 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"352","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"27","currentlyRegistered":"3","generalRemaining":"27","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Overview of three-phase energy systems. High-voltage transmission, low-voltage distribution. Performance of renewable electricity generation. Grid integration of renewable energy systems."}
+{
+  "course_name": "ELEC 352",
+  "subject_code": "ELEC",
+  "course_number": "352",
+  "course_title": "Electric Energy Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=352&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ELEC 352 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "352",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, YU CHRISTINE"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 352 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "352",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEN, YU CHRISTINE"
+      ],
+      "totalRemaining": "38",
+      "currentlyRegistered": "32",
+      "generalRemaining": "38",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 352 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "352",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "27",
+      "currentlyRegistered": "3",
+      "generalRemaining": "27",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 352 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=352&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "352",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "28",
+      "currentlyRegistered": "2",
+      "generalRemaining": "28",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Overview of three-phase energy systems. High-voltage transmission, low-voltage distribution. Performance of renewable electricity generation. Grid integration of renewable energy systems.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

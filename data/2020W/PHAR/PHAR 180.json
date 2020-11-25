@@ -1,1 +1,45 @@
-{"course_name":"PHAR 180","subject_code":"PHAR","course_number":"180","course_title":"Pharmaceutical Topics and Communication Seminar I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=180&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"PHAR 180 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=180&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Pharmaceutical Topics and Communication Seminar I","subject_code":"PHAR","course_number":"180","section_number":"001","building":"Pharmaceutical Sciences Building","room":"1201","instructors":["TBA"],"totalRemaining":"11","currentlyRegistered":"39","generalRemaining":"0","restrictedRemaining":"11"}},"credits":"Credits: 1","description":"Current topics in the Pharmaceutical Sciences and basic skills for a short presentation on a biological science topic."}
+{
+  "course_name": "PHAR 180",
+  "subject_code": "PHAR",
+  "course_number": "180",
+  "course_title": "Pharmaceutical Topics and Communication Seminar I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHAR&course=180&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "PHAR 180 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHAR&course=180&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Pharmaceutical Topics and Communication Seminar I",
+      "subject_code": "PHAR",
+      "course_number": "180",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "39",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    }
+  ],
+  "credits": 1,
+  "description": "Current topics in the Pharmaceutical Sciences and basic skills for a short presentation on a biological science topic.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

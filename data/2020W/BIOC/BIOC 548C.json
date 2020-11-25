@@ -1,1 +1,43 @@
-{"course_name":"BIOC 548C","subject_code":"BIOC","course_number":"548C","course_title":"Directed Studies - DIRECTED STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=548C&sessyr=2020&sesscd=W","sections":{"002":{"status":"Blocked","section":"BIOC 548C 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=548C&section=002&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"BIOC","course_number":"548C","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"In special cases, with approval of the department head, advanced courses may be arranged for graduate students in attendance."}
+{
+  "course_name": "BIOC 548C",
+  "subject_code": "BIOC",
+  "course_number": "548C",
+  "course_title": "Directed Studies - DIRECTED STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOC&course=548C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOC 548C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOC&course=548C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "BIOC",
+      "course_number": "548C",
+      "section_number": "002",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "In special cases, with approval of the department head, advanced courses may be arranged for graduate students in attendance.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

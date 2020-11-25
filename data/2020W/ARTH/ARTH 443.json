@@ -1,1 +1,70 @@
-{"course_name":"ARTH 443","subject_code":"ARTH","course_number":"443","course_title":"Seminar in Canadian Art","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=443&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ARTH 443 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=443&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"If registration for ARTH 443 001 is blocked, the course is full and you should register in waitlist ARTH 443 01W. Students will be moved from the waitlist into the course as seats become available, and then notified of their registration via email.","subject_code":"ARTH","course_number":"443","section_number":"001","building":"Frederic Lasserre","room":"211","instructors":["SILVER, ERIN"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":" ","section":"ARTH 443 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=443&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"ARTH 443 01W is a waitlist for ARTH 443 001. Students will be moved from the waitlist into the seminar as spaces become available, and then notified of their registration via email.","subject_code":"ARTH","course_number":"443","section_number":"01W","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"89","currentlyRegistered":"10","generalRemaining":"89","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ARTH 443",
+  "subject_code": "ARTH",
+  "course_number": "443",
+  "course_title": "Seminar in Canadian Art",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARTH&course=443&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARTH 443 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=443&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "If registration for ARTH 443 001 is blocked, the course is full and you should register in waitlist ARTH 443 01W. Students will be moved from the waitlist into the course as seats become available, and then notified of their registration via email.",
+      "subject_code": "ARTH",
+      "course_number": "443",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SILVER, ERIN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ARTH 443 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARTH&course=443&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "ARTH 443 01W is a waitlist for ARTH 443 001. Students will be moved from the waitlist into the seminar as spaces become available, and then notified of their registration via email.",
+      "subject_code": "ARTH",
+      "course_number": "443",
+      "section_number": "01W",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "89",
+      "currentlyRegistered": "10",
+      "generalRemaining": "89",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

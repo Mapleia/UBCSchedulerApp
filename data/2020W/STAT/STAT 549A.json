@@ -1,1 +1,43 @@
-{"course_name":"STAT 549A","subject_code":"STAT","course_number":"549A","course_title":"Thesis for Master's Degree - THESIS FOR MSTRS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=549A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"STAT 549A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=549A&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"THESIS ONLY","subject_code":"STAT","course_number":"549A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"17","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"17"}},"credits":"Credits: 6","description":" "}
+{
+  "course_name": "STAT 549A",
+  "subject_code": "STAT",
+  "course_number": "549A",
+  "course_title": "Thesis for Master's Degree - THESIS FOR MSTRS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=549A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "STAT 549A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=STAT&course=549A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "THESIS ONLY",
+      "subject_code": "STAT",
+      "course_number": "549A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    }
+  ],
+  "credits": 6,
+  "description": " ",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

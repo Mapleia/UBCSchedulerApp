@@ -1,1 +1,45 @@
-{"course_name":"POLI 341A","subject_code":"POLI","course_number":"341A","course_title":"Contemporary Political Theory - CONTMP POLI THRY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=341A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"POLI 341A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=341A&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"POLI","course_number":"341A","section_number":"001","building":"Buchanan","room":"A101","instructors":["SNELGROVE, COREY"],"totalRemaining":"0","currentlyRegistered":"101","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Topics may include freedom, colonialism, capitalism, Critical Theory and ideology, power and knowledge, social justice, rationalism, gender and identity politics, and the \"political.\""}
+{
+  "course_name": "POLI 341A",
+  "subject_code": "POLI",
+  "course_number": "341A",
+  "course_title": "Contemporary Political Theory - CONTMP POLI THRY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=341A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 341A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=341A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "POLI",
+      "course_number": "341A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SNELGROVE, COREY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Topics may include freedom, colonialism, capitalism, Critical Theory and ideology, power and knowledge, social justice, rationalism, gender and identity politics, and the \"political.\"",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

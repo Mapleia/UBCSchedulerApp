@@ -1,1 +1,44 @@
-{"course_name":"NURS 601","subject_code":"NURS","course_number":"601","course_title":"Doctoral Seminar","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=601&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"NURS 601 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=601&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"Please contact academic.support@nursing.ubc.ca to register in this section.The doctoral seminars provide an opportunity for PhD students to share information about the program, develop relationships with one another and faculty, learn about supervisory processes, the program\u0019s management, and for involving oneself in the School. This course is designed as a set of student-centered seminars to provide an ongoing opportunity for students to discuss phenomena relevant to nursing science, academia, and the process of undertaking doctoral thesis research. (2 terms required, usually in first year)","subject_code":"NURS","course_number":"601","section_number":"001","building":" ","room":"","instructors":["DAHINTEN, SUSAN","GARRETT, BERNARD MARK"],"totalRemaining":"6","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 0","description":" "}
+{
+  "course_name": "NURS 601",
+  "subject_code": "NURS",
+  "course_number": "601",
+  "course_title": "Doctoral Seminar",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=601&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "NURS 601 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=601&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Please contact academic.support@nursing.ubc.ca to register in this section.The doctoral seminars provide an opportunity for PhD students to share information about the program, develop relationships with one another and faculty, learn about supervisory processes, the program\u0019s management, and for involving oneself in the School. This course is designed as a set of student-centered seminars to provide an ongoing opportunity for students to discuss phenomena relevant to nursing science, academia, and the process of undertaking doctoral thesis research. (2 terms required, usually in first year)",
+      "subject_code": "NURS",
+      "course_number": "601",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DAHINTEN, SUSAN",
+        "GARRETT, BERNARD MARK"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "6"
+    }
+  ],
+  "credits": 0,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

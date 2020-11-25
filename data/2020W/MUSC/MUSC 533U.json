@@ -1,1 +1,43 @@
-{"course_name":"MUSC 533U","subject_code":"MUSC","course_number":"533U","course_title":"Advanced Studies in Music Theory - MUSC THRY PEDGOG","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=533U&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"MUSC 533U 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=533U&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Wed","start":"13:00","end":"15:30","comments":"Topic: Music Theory Pedagogy.  With MUSC 403U.  An overview of pedagogical philosophies and techniques for teaching music theory at the university level. Students will reinforce theory concepts, develop teaching and course design skills, and gain familiarity with current textbooks, materials, and issues in music theory instruction.","subject_code":"MUSC","course_number":"533U","section_number":"001","building":" ","room":"","instructors":["VAN HANDEL, LEIGH"],"totalRemaining":"3","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Research seminar on a core or emerging topic in music theory. May be repeated to a maximum of 12 credits if different topics are covered."}
+{
+  "course_name": "MUSC 533U",
+  "subject_code": "MUSC",
+  "course_number": "533U",
+  "course_title": "Advanced Studies in Music Theory - MUSC THRY PEDGOG",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=533U&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MUSC 533U 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=533U&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "15:30",
+      "comments": "Topic: Music Theory Pedagogy.  With MUSC 403U.  An overview of pedagogical philosophies and techniques for teaching music theory at the university level. Students will reinforce theory concepts, develop teaching and course design skills, and gain familiarity with current textbooks, materials, and issues in music theory instruction.",
+      "subject_code": "MUSC",
+      "course_number": "533U",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "VAN HANDEL, LEIGH"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Research seminar on a core or emerging topic in music theory. May be repeated to a maximum of 12 credits if different topics are covered.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

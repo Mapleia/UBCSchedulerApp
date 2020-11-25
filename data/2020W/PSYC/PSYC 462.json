@@ -1,1 +1,44 @@
-{"course_name":"PSYC 462","subject_code":"PSYC","course_number":"462","course_title":"Drugs and Behavioural Neuroscience","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=462&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PSYC 462 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=462&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"Completion of first year Biology is strongly recommended","subject_code":"PSYC","course_number":"462","section_number":"001","building":" ","room":"","instructors":["FLORESCO, STANLEY BOGDAN"],"totalRemaining":"0","currentlyRegistered":"149","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to neurochemical systems and functional neuroanatomy; animal models of human cognitive processes and mental disorders; neurochemical foundations and treatments for mental disorders."}
+{
+  "course_name": "PSYC 462",
+  "subject_code": "PSYC",
+  "course_number": "462",
+  "course_title": "Drugs and Behavioural Neuroscience",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PSYC&course=462&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PSYC 462 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PSYC&course=462&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "Completion of first year Biology is strongly recommended",
+      "subject_code": "PSYC",
+      "course_number": "462",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FLORESCO, STANLEY BOGDAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "149",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to neurochemical systems and functional neuroanatomy; animal models of human cognitive processes and mental disorders; neurochemical foundations and treatments for mental disorders.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

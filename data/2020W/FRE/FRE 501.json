@@ -1,1 +1,71 @@
-{"course_name":"FRE 501","subject_code":"FRE","course_number":"501","course_title":"Strategic Economic Analysis of Agri-Food Markets","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=501&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FRE 501 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=501&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"15:00","end":"17:00","comments":"","subject_code":"FRE","course_number":"501","section_number":"001","building":"West Mall Swing Space","room":"221","instructors":["VERCAMMEN, JAMES"],"totalRemaining":"9","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"9"},"L01":{"status":"Restricted","section":"FRE 501 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=501&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Fri","start":"12:00","end":"14:00","comments":"","subject_code":"FRE","course_number":"501","section_number":"L01","building":"West Mall Swing Space","room":"221","instructors":["VERCAMMEN, JAMES"],"totalRemaining":"36","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"36"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FRE 501",
+  "subject_code": "FRE",
+  "course_number": "501",
+  "course_title": "Strategic Economic Analysis of Agri-Food Markets",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=501&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 501 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=501&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "501",
+      "section_number": "001",
+      "building": "West Mall Swing Space",
+      "room": "221",
+      "instructors": [
+        "VERCAMMEN, JAMES"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "FRE 501 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=501&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "501",
+      "section_number": "L01",
+      "building": "West Mall Swing Space",
+      "room": "221",
+      "instructors": [
+        "VERCAMMEN, JAMES"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

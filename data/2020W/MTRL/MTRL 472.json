@@ -1,1 +1,69 @@
-{"course_name":"MTRL 472","subject_code":"MTRL","course_number":"472","course_title":"Welding and Joining of Materials","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=472&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"MTRL 472 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=472&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"16:00","end":"18:00","comments":"","subject_code":"MTRL","course_number":"472","section_number":"101","building":" ","room":"","instructors":["ASADI, MAHYAR"],"totalRemaining":"7","currentlyRegistered":"33","generalRemaining":"7","restrictedRemaining":"0"},"L1A":{"status":"Full","section":"MTRL 472 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=472&section=L1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu","start":"16:00","end":"18:00","comments":"","subject_code":"MTRL","course_number":"472","section_number":"L1A","building":" ","room":"","instructors":["ASADI, MAHYAR"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Case studies addressing temperature modelling in welding and joining, material selection for welds and joints, calculation of properties for welds and joints, mechanical analysis of joints, and design of welding and joining procedures."}
+{
+  "course_name": "MTRL 472",
+  "subject_code": "MTRL",
+  "course_number": "472",
+  "course_title": "Welding and Joining of Materials",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=472&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MTRL 472 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=472&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "472",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASADI, MAHYAR"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "33",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "MTRL 472 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=472&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "472",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ASADI, MAHYAR"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Case studies addressing temperature modelling in welding and joining, material selection for welds and joints, calculation of properties for welds and joints, mechanical analysis of joints, and design of welding and joining procedures.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

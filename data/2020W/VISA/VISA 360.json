@@ -1,1 +1,70 @@
-{"course_name":"VISA 360","subject_code":"VISA","course_number":"360","course_title":"Intermediate Sculpture I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=360&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"VISA 360 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=360&section=001&sessyr=2020&sesscd=W","activity":"Studio","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"VISA 360 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements).","subject_code":"VISA","course_number":"360","section_number":"001","building":"Ponderosa Commons East - Audain Art Centre/Spruce ","room":"3000","instructors":["KOH, GERMAINE"],"totalRemaining":"4","currentlyRegistered":"16","generalRemaining":"0","restrictedRemaining":"4"},"01W":{"status":"Restricted","section":"VISA 360 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=360&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"VISA 360 01W is a waitlist for VISA 360 001. Students will be moved periodically from the waitlist into the class, based on date of registration, and notified via email.","subject_code":"VISA","course_number":"360","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"99","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"99"}},"credits":"Credits: 3","description":"Investigation of contemporary practices in sculpture and the use of scale. Emphasis on public sculpture."}
+{
+  "course_name": "VISA 360",
+  "subject_code": "VISA",
+  "course_number": "360",
+  "course_title": "Intermediate Sculpture I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=VISA&course=360&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "VISA 360 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=360&section=001&sessyr=2020&sesscd=W",
+      "activity": "Studio",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 360 001 will be delivered with some online and some in-person components at the UBC Vancouver campus (adhering to physical distancing and health requirements).",
+      "subject_code": "VISA",
+      "course_number": "360",
+      "section_number": "001",
+      "building": "Ponderosa Commons East - Audain Art Centre/Spruce ",
+      "room": "3000",
+      "instructors": [
+        "KOH, GERMAINE"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "16",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "VISA 360 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=VISA&course=360&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "VISA 360 01W is a waitlist for VISA 360 001. Students will be moved periodically from the waitlist into the class, based on date of registration, and notified via email.",
+      "subject_code": "VISA",
+      "course_number": "360",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "99",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "99"
+    }
+  ],
+  "credits": 3,
+  "description": "Investigation of contemporary practices in sculpture and the use of scale. Emphasis on public sculpture.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Studio",
+    "Waiting List"
+  ]
+}

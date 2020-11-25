@@ -1,1 +1,48 @@
-{"course_name":"SPPH 481A","subject_code":"SPPH","course_number":"481A","course_title":"Special Topics in Population and Public Health - DH RESRCH MTHODS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=481A&sessyr=2020&sesscd=W","sections":{"DL2":{"status":"Restricted","section":"SPPH 481A DL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=481A&section=DL2&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" ","start":"","end":"","comments":"Restricted to 4th-year undergraduate level and higher.Course is delivered entirely online via www.canvas.ubc.caDHRM is a high-level 4th year undergraduate course, open to all learners with an interest in health research. There are no specific pre-requisites for this course. Learners will be accepted into DHRM if they have satisfied the requirements to enter a 4th year undergraduate course within their own discipline. DHRM is also open to graduate learners of various disciplines, with permission of the Course Instructor.","subject_code":"SPPH","course_number":"481A","section_number":"DL2","building":"","room":"","instructors":["32","3","0","32","","in year: >=4\n\n"],"totalRemaining":"in year: >=4\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Selected topics will vary.  Multiple versions may be taken. This course takes an interprofessional approach and population/public health perspective in addressing current issues in healthcare and health-related fields."}
+{
+  "course_name": "SPPH 481A",
+  "subject_code": "SPPH",
+  "course_number": "481A",
+  "course_title": "Special Topics in Population and Public Health - DH RESRCH MTHODS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SPPH&course=481A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "SPPH 481A DL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SPPH&course=481A&section=DL2&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Restricted to 4th-year undergraduate level and higher.Course is delivered entirely online via www.canvas.ubc.caDHRM is a high-level 4th year undergraduate course, open to all learners with an interest in health research. There are no specific pre-requisites for this course. Learners will be accepted into DHRM if they have satisfied the requirements to enter a 4th year undergraduate course within their own discipline. DHRM is also open to graduate learners of various disciplines, with permission of the Course Instructor.",
+      "subject_code": "SPPH",
+      "course_number": "481A",
+      "section_number": "DL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "26",
+        "9",
+        "0",
+        "26",
+        "",
+        "in year: >=4\n\n"
+      ],
+      "totalRemaining": "in year: >=4\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Selected topics will vary.  Multiple versions may be taken. This course takes an interprofessional approach and population/public health perspective in addressing current issues in healthcare and health-related fields.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,71 @@
-{"course_name":"LING 242","subject_code":"LING","course_number":"242","course_title":"Computational Tools for Linguistic Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=242&sessyr=2020&sesscd=W","sections":{"002":{"status":" ","section":"LING 242 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=242&section=002&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"15:30","end":"17:00","comments":"","subject_code":"LING","course_number":"242","section_number":"002","building":" ","room":"","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"11","generalRemaining":"14","restrictedRemaining":"0"},"L02":{"status":" ","section":"LING 242 L02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=242&section=L02&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"17:00","end":"19:00","comments":"","subject_code":"LING","course_number":"242","section_number":"L02","building":" ","room":"","instructors":["TBA"],"totalRemaining":"15","currentlyRegistered":"10","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Practical skills for analyzing language using the Python programming language and relevant packages."}
+{
+  "course_name": "LING 242",
+  "subject_code": "LING",
+  "course_number": "242",
+  "course_title": "Computational Tools for Linguistic Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=242&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 242 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=242&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:30",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "242",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "LING 242 L02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=242&section=L02&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "LING",
+      "course_number": "242",
+      "section_number": "L02",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "11",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Practical skills for analyzing language using the Python programming language and relevant packages.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory"
+  ]
+}

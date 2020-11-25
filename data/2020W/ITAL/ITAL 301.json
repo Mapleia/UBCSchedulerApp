@@ -1,1 +1,45 @@
-{"course_name":"ITAL 301","subject_code":"ITAL","course_number":"301","course_title":"Intermediate Italian I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=301&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"ITAL 301 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=301&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Reading, writing, speaking, comprehension. Special emphasis on oral practice and on composition. Full description: https://fhis.ubc.ca/course-description/ital301/","subject_code":"ITAL","course_number":"301","section_number":"101","building":" ","room":"","instructors":["CANUTO, LUISA"],"totalRemaining":"21","currentlyRegistered":"14","generalRemaining":"21","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Advanced grammar structures in context, lexical repertoire and cultural elements to further increase learners\u0019 ability to communicate in most situations, including complex conversations. Aligned with CEFR level B1 objectives.\n"}
+{
+  "course_name": "ITAL 301",
+  "subject_code": "ITAL",
+  "course_number": "301",
+  "course_title": "Intermediate Italian I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ITAL&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "ITAL 301 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ITAL&course=301&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Reading, writing, speaking, comprehension. Special emphasis on oral practice and on composition. Full description: https://fhis.ubc.ca/course-description/ital301/",
+      "subject_code": "ITAL",
+      "course_number": "301",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CANUTO, LUISA"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "13",
+      "generalRemaining": "22",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Advanced grammar structures in context, lexical repertoire and cultural elements to further increase learners\u0019 ability to communicate in most situations, including complex conversations. Aligned with CEFR level B1 objectives.\n",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

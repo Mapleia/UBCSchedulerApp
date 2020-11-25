@@ -1,1 +1,43 @@
-{"course_name":"PHIL 440","subject_code":"PHIL","course_number":"440","course_title":"Topics in Epistemology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=440&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"PHIL 440 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=440&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"PHIL","course_number":"440","section_number":"001","building":"Buchanan","room":"D313","instructors":["ICHIKAWA, JONATHAN"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis of the concept of knowledge; problems of justifying ordinary and basic empirical beliefs."}
+{
+  "course_name": "PHIL 440",
+  "subject_code": "PHIL",
+  "course_number": "440",
+  "course_title": "Topics in Epistemology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "PHIL 440 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=440&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This is a student-driven, discussion-based seminar. We will meet once per week for three hours, via Zoom. Due to its seminar nature, synchronous participation is required.",
+      "subject_code": "PHIL",
+      "course_number": "440",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ICHIKAWA, JONATHAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of the concept of knowledge; problems of justifying ordinary and basic empirical beliefs.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

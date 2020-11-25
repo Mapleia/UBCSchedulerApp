@@ -1,1 +1,44 @@
-{"course_name":"MUSC 165A","subject_code":"MUSC","course_number":"165A","course_title":"World Music Ensembles - CHIN INSTRMTL EN","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=165A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"MUSC 165A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=165A&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Tue Thu","start":"13:30","end":"15:00","comments":"CHINESE INSTRUMENTAL ENSEMBLE.  For undergraduates (graduate students register in MUSC 565A 001).  Music Majors:  for resolution of Tuesday scheduling conflicts, please speak with the instructor.Students do not need to know a Chinese instrument to join this ensemble, however, students need to sign up for an interview before class begins; these will be used to admit students according to cognate instrument abilities.http://www.music.ubc.ca/index.php?id=2011","subject_code":"MUSC","course_number":"165A","section_number":"001","building":"Asian Centre","room":"105","instructors":["WONG, GLORIA NGAR-YAN"],"totalRemaining":"0","currentlyRegistered":"9","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music, or when permitted in other programs."}
+{
+  "course_name": "MUSC 165A",
+  "subject_code": "MUSC",
+  "course_number": "165A",
+  "course_title": "World Music Ensembles - CHIN INSTRMTL EN",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=165A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MUSC 165A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=165A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "13:30",
+      "end": "15:00",
+      "comments": "CHINESE INSTRUMENTAL ENSEMBLE.  For undergraduates (graduate students register in MUSC 565A 001).  Music Majors:  for resolution of Tuesday scheduling conflicts, please speak with the instructor.Students do not need to know a Chinese instrument to join this ensemble, however, students need to sign up for an interview before class begins; these will be used to admit students according to cognate instrument abilities.http://www.music.ubc.ca/index.php?id=2011",
+      "subject_code": "MUSC",
+      "course_number": "165A",
+      "section_number": "001",
+      "building": "Asian Centre",
+      "room": "105",
+      "instructors": [
+        "WONG, GLORIA NGAR-YAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "9",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music, or when permitted in other programs.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

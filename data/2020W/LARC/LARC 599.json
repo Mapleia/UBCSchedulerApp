@@ -1,1 +1,43 @@
-{"course_name":"LARC 599","subject_code":"LARC","course_number":"599","course_title":"Research Thesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=599&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"LARC 599 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=599&section=001&sessyr=2020&sesscd=W","activity":"Thesis","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"LARC","course_number":"599","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 12","description":"Open only to M.A.S.L.A. candidates."}
+{
+  "course_name": "LARC 599",
+  "subject_code": "LARC",
+  "course_number": "599",
+  "course_title": "Research Thesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=599&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 599 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=599&section=001&sessyr=2020&sesscd=W",
+      "activity": "Thesis",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "599",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 2,
+  "description": "Open only to M.A.S.L.A. candidates.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Thesis"
+  ]
+}

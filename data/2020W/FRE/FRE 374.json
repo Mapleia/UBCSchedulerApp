@@ -1,1 +1,73 @@
-{"course_name":"FRE 374","subject_code":"FRE","course_number":"374","course_title":"Land and Resource Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=374&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FRE 374 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=374&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"FRE 374 is equivalent to ECON 374.","subject_code":"FRE","course_number":"374","section_number":"001","building":" ","room":"","instructors":["NOACK, FREDERIK","ZARATE BARRERA, TATIANA"],"totalRemaining":"15","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"15"},"0W1":{"status":" ","section":"FRE 374 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=374&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for FRE 374 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"FRE","course_number":"374","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Willingness to pay, opportunity costs, externalities, and market failures in natural resource markets; dynamic efficiency; economic applications including mineral, marine, forest, land, water, and biodiversity."}
+{
+  "course_name": "FRE 374",
+  "subject_code": "FRE",
+  "course_number": "374",
+  "course_title": "Land and Resource Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=374&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 374 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=374&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "FRE 374 is equivalent to ECON 374.",
+      "subject_code": "FRE",
+      "course_number": "374",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NOACK, FREDERIK",
+        "ZARATE BARRERA, TATIANA"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "58",
+      "generalRemaining": "0",
+      "restrictedRemaining": "17"
+    },
+    {
+      "status": " ",
+      "section": "FRE 374 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=374&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for FRE 374 Section 001. Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "FRE",
+      "course_number": "374",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Willingness to pay, opportunity costs, externalities, and market failures in natural resource markets; dynamic efficiency; economic applications including mineral, marine, forest, land, water, and biodiversity.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

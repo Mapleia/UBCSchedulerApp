@@ -1,1 +1,43 @@
-{"course_name":"NURS 430","subject_code":"NURS","course_number":"430","course_title":"Theoretical Perspectives in Nursing: Special Topics in Complex and Urgent Health Challenges across Settings/Populations","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=430&sessyr=2020&sesscd=W","sections":{"002":{"status":"STT","section":"NURS 430 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=430&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Wed","start":"9:00","end":"12:00","comments":"","subject_code":"NURS","course_number":"430","section_number":"002","building":"Orchard Commons","room":"3016","instructors":["BOSCHMA, GEERTJE","MANN, DALBIR","TIPPING, JULIE ANNE"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 2","description":"Consolidation of fundamental theories, concepts, evidence, and competencies pertaining to nursing practice across the life-span and care context."}
+{
+  "course_name": "NURS 430",
+  "subject_code": "NURS",
+  "course_number": "430",
+  "course_title": "Theoretical Perspectives in Nursing: Special Topics in Complex and Urgent Health Challenges across Settings/Populations",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "NURS 430 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=430&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "NURS",
+      "course_number": "430",
+      "section_number": "002",
+      "building": "",
+      "room": "",
+      "instructors": [
+        ""
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 2,
+  "description": "Consolidation of fundamental theories, concepts, evidence, and competencies pertaining to nursing practice across the life-span and care context.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

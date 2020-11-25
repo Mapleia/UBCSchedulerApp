@@ -1,1 +1,71 @@
-{"course_name":"ELEC 473","subject_code":"ELEC","course_number":"473","course_title":"Biological Micro-Electro-Mechanical Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=473&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"ELEC 473 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=473&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ELEC","course_number":"473","section_number":"101","building":" ","room":"","instructors":["CHEUNG, KAREN"],"totalRemaining":"11","currentlyRegistered":"28","generalRemaining":"0","restrictedRemaining":"11"},"1W1":{"status":" ","section":"ELEC 473 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=473&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"473","section_number":"1W1","building":" ","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Principles of sensors, actuators, microfluidics, biotechnology and nanotechnology, with applications in probing, detection, assaying and drug delivery."}
+{
+  "course_name": "ELEC 473",
+  "subject_code": "ELEC",
+  "course_number": "473",
+  "course_title": "Biological Micro-Electro-Mechanical Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=473&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ELEC 473 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=473&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "473",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CHEUNG, KAREN"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "28",
+      "generalRemaining": "0",
+      "restrictedRemaining": "11"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 473 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=473&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "473",
+      "section_number": "1W1",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Principles of sensors, actuators, microfluidics, biotechnology and nanotechnology, with applications in probing, detection, assaying and drug delivery.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Waiting List"
+  ]
+}

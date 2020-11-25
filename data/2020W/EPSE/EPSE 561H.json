@@ -1,1 +1,48 @@
-{"course_name":"EPSE 561H","subject_code":"EPSE","course_number":"561H","course_title":"Laboratory Practicum - LAB PRACTICUM","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=561H&sessyr=2020&sesscd=W","sections":{"075":{"status":"Cancelled","section":"EPSE 561H 075","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=561H&section=075&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" ","start":"","end":"","comments":"HDLC - Restricted for the first week of registration to HDLC students","subject_code":"EPSE","course_number":"561H","section_number":"075","building":"","room":"","instructors":["20","0","0","20","","with one of these specializations: ****HDLC\n\n"],"totalRemaining":"with one of these specializations: ****HDLC\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 561H",
+  "subject_code": "EPSE",
+  "course_number": "561H",
+  "course_title": "Laboratory Practicum - LAB PRACTICUM",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=561H&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Cancelled",
+      "section": "EPSE 561H 075",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=561H&section=075&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "HDLC - Restricted for the first week of registration to HDLC students",
+      "subject_code": "EPSE",
+      "course_number": "561H",
+      "section_number": "075",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "0",
+        "20",
+        "",
+        "with one of these specializations: ****HDLC\n\n"
+      ],
+      "totalRemaining": "with one of these specializations: ****HDLC\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

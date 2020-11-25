@@ -1,1 +1,643 @@
-{"course_name":"ELEC 344","subject_code":"ELEC","course_number":"344","course_title":"Applied Electronics and Electromechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=344&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"ELEC 344 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri","start":"15:00","end":"17:00","comments":"Please sign up L1A with T1A, L1B with T1B, L1C with T1C, L1D with T1D and L1E with T1E, thank you.","subject_code":"ELEC","course_number":"344","section_number":"101","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"201":{"status":" ","section":"ELEC 344 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Fri","start":"12:00","end":"14:00","comments":"Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2F with T2F","subject_code":"ELEC","course_number":"344","section_number":"201","building":"UBC Life Building","room":"2302","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"9","currentlyRegistered":"68","generalRemaining":"9","restrictedRemaining":"0"},"L1A":{"status":"Full","section":"ELEC 344 L1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu^","start":"12:00","end":"14:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"L1A","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"L1B":{"status":" ","section":"ELEC 344 L1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1B&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue^","start":"12:00","end":"14:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"L1B","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"3","restrictedRemaining":"0"},"L1C":{"status":" ","section":"ELEC 344 L1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1C&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri^","start":"12:00","end":"14:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"L1C","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"7","currentlyRegistered":"17","generalRemaining":"7","restrictedRemaining":"0"},"L1D":{"status":"Full","section":"ELEC 344 L1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1D&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed^","start":"12:00","end":"14:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"L1D","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"L1W":{"status":" ","section":"ELEC 344 L1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"L1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"T1A":{"status":"Full","section":"ELEC 344 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Thu*","start":"12:00","end":"14:00","comments":"* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"T1A","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"0","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"0"},"T1B":{"status":" ","section":"ELEC 344 T1B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1B&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue*","start":"12:00","end":"14:00","comments":"* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"T1B","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"3","restrictedRemaining":"0"},"T1C":{"status":" ","section":"ELEC 344 T1C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1C&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Fri*","start":"12:00","end":"14:00","comments":"* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"T1C","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"7","currentlyRegistered":"17","generalRemaining":"7","restrictedRemaining":"0"},"T1D":{"status":"Full","section":"ELEC 344 T1D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1D&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed*","start":"12:00","end":"14:00","comments":"* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"T1D","building":" ","room":"","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"0","currentlyRegistered":"24","generalRemaining":"0","restrictedRemaining":"0"},"T1W":{"status":" ","section":"ELEC 344 T1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"T1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"1W1":{"status":" ","section":"ELEC 344 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"1W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"L2A":{"status":"Restricted","section":"ELEC 344 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon*","start":"15:30","end":"17:30","comments":"Please sign up L2A with T0A, L2B with T0B, L2C with T0C, L2D with T0D and L2E with T0E.* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"L2A","building":"UBC Life Building","room":"2532","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"12","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"12"},"L2B":{"status":"Restricted","section":"ELEC 344 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Mon*","start":"13:00","end":"15:00","comments":"Please sign up L2A with T0A, L2B with T0B, L2C with T0C, L2D with T0D and L2E with T0E.* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"L2B","building":"UBC Life Building","room":"2532","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"4","currentlyRegistered":"20","generalRemaining":"0","restrictedRemaining":"4"},"L2C":{"status":"Restricted","section":"ELEC 344 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed*","start":"13:00","end":"15:00","comments":"Please sign up L2A with T0A, L2B with T0B, L2C with T0C, L2D with T0D and L2E with T0E.* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"L2C","building":"UBC Life Building","room":"2532","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"3"},"L2F":{"status":"Restricted","section":"ELEC 344 L2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2F&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue*","start":"16:00","end":"18:00","comments":"* every second week starting with start week","subject_code":"ELEC","course_number":"344","section_number":"L2F","building":"UBC Life Building","room":"2532","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"13","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"13"},"L2W":{"status":" ","section":"ELEC 344 L2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"L2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"27","currentlyRegistered":"3","generalRemaining":"27","restrictedRemaining":"0"},"T2A":{"status":"Restricted","section":"ELEC 344 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon^","start":"15:30","end":"17:30","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"T2A","building":"UBC Life Building","room":"2402","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"12","currentlyRegistered":"12","generalRemaining":"0","restrictedRemaining":"12"},"T2B":{"status":"Restricted","section":"ELEC 344 T2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2B&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon^","start":"13:00","end":"15:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"T2B","building":"UBC Life Building","room":"2532","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"5","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"5"},"T2C":{"status":"Restricted","section":"ELEC 344 T2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2C&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Wed^","start":"13:00","end":"15:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"T2C","building":"UBC Life Building","room":"2402","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"3","currentlyRegistered":"21","generalRemaining":"0","restrictedRemaining":"3"},"T2F":{"status":"Restricted","section":"ELEC 344 T2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2F&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Tue^","start":"16:00","end":"18:00","comments":"^ every second week starting with week following start week","subject_code":"ELEC","course_number":"344","section_number":"T2F","building":"UBC Life Building","room":"2402","instructors":["GALIANO ZURBRIGGEN, IGNACIO"],"totalRemaining":"13","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"13"},"T2W":{"status":" ","section":"ELEC 344 T2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"T2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"26","currentlyRegistered":"4","generalRemaining":"26","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 344 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"344","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"29","currentlyRegistered":"1","generalRemaining":"29","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Characteristics of semiconductor devices; analog circuits; force and torque production; motor principles and torque-speed characteristics; principles of power electronics. Not open to students in Electrical and Computer Engineering."}
+{
+  "course_name": "ELEC 344",
+  "subject_code": "ELEC",
+  "course_number": "344",
+  "course_title": "Applied Electronics and Electromechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=344&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "ELEC 344 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "Please sign up L1A with T1A, L1B with T1B, L1C with T1C, L1D with T1D and L1E with T1E, thank you.",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2F with T2F",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "70",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 344 L1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU^"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 L1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "21",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 L1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI^"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "17",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 344 L1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 L1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 344 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU*"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 T1B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE*"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T1B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "21",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 T1C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI*"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T1C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "17",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 344 T1D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1D&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "12:00",
+      "end": "14:00",
+      "comments": "* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T1D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "24",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "1W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2D with T2D and L2E with T2E.* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "14",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON*"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2D with T2D and L2E with T2E.* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED*"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2D with T2D and L2E with T2E.* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE*"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "Please sign up L2A with T2A, L2B with T2B, L2C with T2C, L2D with T2D and L2E with T2E.* every second week starting with start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 L2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=L2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "L2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "4",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "15:30",
+      "end": "17:30",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "15",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 T2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2B&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON^"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "19",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 T2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2C&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED^"
+      ],
+      "start": "13:00",
+      "end": "15:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Restricted",
+      "section": "ELEC 344 T2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2F&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE^"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "^ every second week starting with week following start week",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GALIANO ZURBRIGGEN, IGNACIO"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "13"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "4",
+      "generalRemaining": "26",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 344 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=344&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "344",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "1",
+      "generalRemaining": "29",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Characteristics of semiconductor devices; analog circuits; force and torque production; motor principles and torque-speed characteristics; principles of power electronics. Not open to students in Electrical and Computer Engineering.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,203 @@
-{"course_name":"ELEC 331","subject_code":"ELEC","course_number":"331","course_title":"Computer Communications","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=331&sessyr=2020&sesscd=W","sections":{"101":{"status":"Full","section":"ELEC 331 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ELEC","course_number":"331","section_number":"101","building":" ","room":"","instructors":["AGHAREBPARAST, FARSHID"],"totalRemaining":"0","currentlyRegistered":"89","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Full","section":"ELEC 331 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"ELEC","course_number":"331","section_number":"201","building":"Civil and Mechanical Engineering","room":"1202","instructors":["WONG, WAI-SHUEN VINCENT"],"totalRemaining":"0","currentlyRegistered":"100","generalRemaining":"0","restrictedRemaining":"0"},"T1A":{"status":" ","section":"ELEC 331 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T1A&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"17:00","end":"19:00","comments":"","subject_code":"ELEC","course_number":"331","section_number":"T1A","building":" ","room":"","instructors":["AGHAREBPARAST, FARSHID"],"totalRemaining":"7","currentlyRegistered":"89","generalRemaining":"7","restrictedRemaining":"0"},"T1W":{"status":" ","section":"ELEC 331 T1W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T1W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"331","section_number":"T1W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"1","currentlyRegistered":"0","generalRemaining":"1","restrictedRemaining":"0"},"T2A":{"status":" ","section":"ELEC 331 T2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"17:00","end":"19:00","comments":"Please note new time for the tutorial, thanks.","subject_code":"ELEC","course_number":"331","section_number":"T2A","building":"Hugh Dempster Pavilion","room":"110","instructors":["WONG, WAI-SHUEN VINCENT"],"totalRemaining":"24","currentlyRegistered":"96","generalRemaining":"24","restrictedRemaining":"0"},"T2W":{"status":" ","section":"ELEC 331 T2W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T2W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"331","section_number":"T2W","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"10","restrictedRemaining":"0"},"2W1":{"status":" ","section":"ELEC 331 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"331","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"20","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Analysis, design and implementation of computer networks and their protocols. Application layer protocols, transmission control protocol (TCP), Internet protocol (IP), routing algorithms, reliable data transfer, multiple access, Ethernet."}
+{
+  "course_name": "ELEC 331",
+  "subject_code": "ELEC",
+  "course_number": "331",
+  "course_title": "Computer Communications",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=331&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 331 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "89",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "ELEC 331 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, WAI-SHUEN VINCENT"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "100",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 331 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "AGHAREBPARAST, FARSHID"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "89",
+      "generalRemaining": "7",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 331 T1W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T1W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "T1W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "0",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 331 T2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "17:00",
+      "end": "19:00",
+      "comments": "Please note new time for the tutorial, thanks.",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "T2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, WAI-SHUEN VINCENT"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "96",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 331 T2W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=T2W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "T2W",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "19",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 331 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=331&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "331",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "17",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Analysis, design and implementation of computer networks and their protocols. Application layer protocols, transmission control protocol (TCP), Internet protocol (IP), routing algorithms, reliable data transfer, multiple access, Ethernet.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,74 @@
-{"course_name":"MICB 308","subject_code":"MICB","course_number":"308","course_title":"Paradigms in Bacterial Pathogenesis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=308&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MICB 308 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=308&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"12:00","end":"13:00","comments":"Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.BIOC 202 can be used in place of BIOL 201.","subject_code":"MICB","course_number":"308","section_number":"201","building":"P. A. Woodward Instructional Resources Centre","room":"2","instructors":["FERNANDEZ, RACHEL"],"totalRemaining":"1","currentlyRegistered":"139","generalRemaining":"1","restrictedRemaining":"0"},"WL2":{"status":" ","section":"MICB 308 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=308&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed Fri","start":" ","end":" ","comments":"","subject_code":"MICB","course_number":"308","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"14","currentlyRegistered":"1","generalRemaining":"14","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Mechanisms of bacterial pathogenesis including adherence, invasion, intracellular survival, toxins, host defenses and microbial evasion strategies, antibiotics, and vaccines.  Introduction to experimental approaches used to study bacterial pathogens."}
+{
+  "course_name": "MICB 308",
+  "subject_code": "MICB",
+  "course_number": "308",
+  "course_title": "Paradigms in Bacterial Pathogenesis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MICB&course=308&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "MICB 308 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=308&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Questions about registration should be directed to Dr. Kion at tkion@mail.ubc.ca.BIOC 202 can be used in place of BIOL 201.",
+      "subject_code": "MICB",
+      "course_number": "308",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FERNANDEZ, RACHEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "140",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MICB 308 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MICB&course=308&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "MICB",
+      "course_number": "308",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "1",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Mechanisms of bacterial pathogenesis including adherence, invasion, intracellular survival, toxins, host defenses and microbial evasion strategies, antibiotics, and vaccines.  Introduction to experimental approaches used to study bacterial pathogens.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

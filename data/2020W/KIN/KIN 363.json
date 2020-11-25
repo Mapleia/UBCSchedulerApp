@@ -1,1 +1,70 @@
-{"course_name":"KIN 363","subject_code":"KIN","course_number":"363","course_title":"Leisure, Sport and Popular Culture","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=363&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"KIN 363 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=363&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"16:00","end":"19:00","comments":"This course is formerly KIN 381 . Students can receive credit for either KIN 381 or KIN 363","subject_code":"KIN","course_number":"363","section_number":"001","building":"P. A. Woodward Instructional Resources Centre","room":"3","instructors":["TBA"],"totalRemaining":"4","currentlyRegistered":"116","generalRemaining":"0","restrictedRemaining":"4"},"0W1":{"status":"Blocked","section":"KIN 363 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=363&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 381 . Students can receive credit for either KIN 381  or KIN 363","subject_code":"KIN","course_number":"363","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"12","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Selected aspects of leisure and sport examined in relation to modern social structures and cultures."}
+{
+  "course_name": "KIN 363",
+  "subject_code": "KIN",
+  "course_number": "363",
+  "course_title": "Leisure, Sport and Popular Culture",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=KIN&course=363&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "KIN 363 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=363&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "This course is formerly KIN 381 . Students can receive credit for either KIN 381 or KIN 363",
+      "subject_code": "KIN",
+      "course_number": "363",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "121",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "KIN 363 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=KIN&course=363&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "When wait-lists are used, it is the  STUDENTS' RESPONSIBILITY to check the SSC for changes made to their registration.This course is formerly KIN 381 . Students can receive credit for either KIN 381  or KIN 363",
+      "subject_code": "KIN",
+      "course_number": "363",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "16",
+      "currentlyRegistered": "4",
+      "generalRemaining": "16",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Selected aspects of leisure and sport examined in relation to modern social structures and cultures.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

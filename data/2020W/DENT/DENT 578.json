@@ -1,1 +1,45 @@
-{"course_name":"DENT 578","subject_code":"DENT","course_number":"578","course_title":"Endodontic Literature Review I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=578&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"DENT 578 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=578&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"DENT","course_number":"578","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["COIL, JEFFREY MARTIN","HAAPASALO, MARKUS","SHEN, YA"],"totalRemaining":"20","currentlyRegistered":"3","generalRemaining":"20","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Dental anatomy, morphology, endodontic instruments, diagnosis and differential diagnosis, etiology and pathogenesis of endodontic infections, and strategies of infection control."}
+{
+  "course_name": "DENT 578",
+  "subject_code": "DENT",
+  "course_number": "578",
+  "course_title": "Endodontic Literature Review I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DENT&course=578&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "DENT 578 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=DENT&course=578&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "DENT",
+      "course_number": "578",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "COIL, JEFFREY MARTIN",
+        "HAAPASALO, MARKUS",
+        "SHEN, YA"
+      ],
+      "totalRemaining": "20",
+      "currentlyRegistered": "3",
+      "generalRemaining": "20",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Dental anatomy, morphology, endodontic instruments, diagnosis and differential diagnosis, etiology and pathogenesis of endodontic infections, and strategies of infection control.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

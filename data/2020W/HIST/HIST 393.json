@@ -1,1 +1,45 @@
-{"course_name":"HIST 393","subject_code":"HIST","course_number":"393","course_title":"Introduction to History and Philosophy of Science","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=393&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"HIST 393 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=393&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"Cross-listed with PHIL 360. What is science?  There is no single answer, but to begin to understand it as a human practice, a body of knowledge, or an instrument for change, we will read some of the key classics in the history of science and use this understanding to address philosophical questions on the methods and scope of science.  We will first read brief selections from Aristotle, Copernicus, and the leading seventeenth-century natural philosophers: Bacon, Galileo, Descartes, Boyle and Newton. Next we will read a survey of eighteenth-century science (Hankins), and an account of nineteenth-century British science (Laura Snyder, The Breakfast Club).  We will finish with Thomas Kuhn\u0019s challenge to the claim that there is continuous scientific progress.  There will be two midterm tests and ~ and one final exam, and one short essay on the Snyder book, based on an assigned question.","subject_code":"HIST","course_number":"393","section_number":"201","building":"Chemistry","room":"C124","instructors":["KOJEVNIKOV, ALEXEI"],"totalRemaining":"5","currentlyRegistered":"25","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"An examination of historical, conceptual, and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science."}
+{
+  "course_name": "HIST 393",
+  "subject_code": "HIST",
+  "course_number": "393",
+  "course_title": "Introduction to History and Philosophy of Science",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=HIST&course=393&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "HIST 393 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=HIST&course=393&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Cross-listed with PHIL 360. What is science?  There is no single answer, but to begin to understand it as a human practice, a body of knowledge, or an instrument for change, we will read some of the key classics in the history of science and use this understanding to address philosophical questions on the methods and scope of science.  We will first read brief selections from Aristotle, Copernicus, and the leading seventeenth-century natural philosophers: Bacon, Galileo, Descartes, Boyle and Newton. Next we will read a survey of eighteenth-century science (Hankins), and an account of nineteenth-century British science (Laura Snyder, The Breakfast Club).  We will finish with Thomas Kuhn\u0019s challenge to the claim that there is continuous scientific progress.  There will be two midterm tests and ~ and one final exam, and one short essay on the Snyder book, based on an assigned question.",
+      "subject_code": "HIST",
+      "course_number": "393",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KOJEVNIKOV, ALEXEI"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "25",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "An examination of historical, conceptual, and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"LARC 431","subject_code":"LARC","course_number":"431","course_title":"Landscape Technologies I: Site Engineering","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=431&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"LARC 431 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=431&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Mon","start":"14:00","end":"17:00","comments":"","subject_code":"LARC","course_number":"431","section_number":"001","building":"Frederic Lasserre","room":"105","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"3","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Terrain design, drainage, and stormwater management. Open only to B. End. students. Credit will be granted for only one of LARC 431 or LARC 531."}
+{
+  "course_name": "LARC 431",
+  "subject_code": "LARC",
+  "course_number": "431",
+  "course_title": "Landscape Technologies I: Site Engineering",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LARC&course=431&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "LARC 431 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LARC&course=431&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "LARC",
+      "course_number": "431",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Terrain design, drainage, and stormwater management. Open only to B. End. students. Credit will be granted for only one of LARC 431 or LARC 531.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

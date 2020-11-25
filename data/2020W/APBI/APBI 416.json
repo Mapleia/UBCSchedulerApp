@@ -1,1 +1,44 @@
-{"course_name":"APBI 416","subject_code":"APBI","course_number":"416","course_title":"Compassionate Conservation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=416&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"APBI 416 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=416&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"10:00","end":"13:00","comments":"A course in animal welfare is recommended prior to taking this course, but not required.","subject_code":"APBI","course_number":"416","section_number":"001","building":" ","room":"","instructors":["WALKER, KRISTEN","NAITO, RUMI"],"totalRemaining":"3","currentlyRegistered":"37","generalRemaining":"0","restrictedRemaining":"3"}},"credits":"Credits: 3","description":"Evaluation of humane treatment of individual animals living in the wild and managed within conservation biology. Assessment of attitudes and viewpoints of the role of animal welfare in conservation biology."}
+{
+  "course_name": "APBI 416",
+  "subject_code": "APBI",
+  "course_number": "416",
+  "course_title": "Compassionate Conservation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=416&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APBI 416 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=416&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "A course in animal welfare is recommended prior to taking this course, but not required.",
+      "subject_code": "APBI",
+      "course_number": "416",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALKER, KRISTEN",
+        "NAITO, RUMI"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "37",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    }
+  ],
+  "credits": 3,
+  "description": "Evaluation of humane treatment of individual animals living in the wild and managed within conservation biology. Assessment of attitudes and viewpoints of the role of animal welfare in conservation biology.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

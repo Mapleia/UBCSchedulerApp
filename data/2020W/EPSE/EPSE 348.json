@@ -1,1 +1,123 @@
-{"course_name":"EPSE 348","subject_code":"EPSE","course_number":"348","course_title":"Family-Centred Practice for Children with Special Needs","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=348&sessyr=2020&sesscd=W","sections":{"63A":{"status":"Blocked","section":"EPSE 348 63A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=63A&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED, or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"348","section_number":"63A","building":" ","room":"","instructors":["STEWART, MARY"],"totalRemaining":"10","currentlyRegistered":"26","generalRemaining":"0","restrictedRemaining":"10"},"63C":{"status":"Blocked","section":"EPSE 348 63C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=63C&sessyr=2020&sesscd=W","activity":"Distance Education","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28","subject_code":"EPSE","course_number":"348","section_number":"63C","building":" ","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"0"},"W3A":{"status":"Blocked","section":"EPSE 348 W3A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=W3A&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Enrollment on a waitlist does not guarantee eventual registration in the course.","subject_code":"EPSE","course_number":"348","section_number":"W3A","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"36","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"36"},"W3C":{"status":"Restricted","section":"EPSE 348 W3C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=W3C&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"Enrollment on a waitlist does not guarantee eventual registration in the course.","subject_code":"EPSE","course_number":"348","section_number":"W3C","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"34","currentlyRegistered":"2","generalRemaining":"0","restrictedRemaining":"34"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EPSE 348",
+  "subject_code": "EPSE",
+  "course_number": "348",
+  "course_title": "Family-Centred Practice for Children with Special Needs",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EPSE&course=348&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "EPSE 348 63A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=63A&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED, or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "348",
+      "section_number": "63A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEWART, MARY"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "26",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 348 63C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=63C&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Restricted to:DEDU with specialization SPED, IDSC, EYED; BEDS; BA with specialization EDUC, emphasis SPED; MA or MED with specialization ECED or CIDSC students.Restriction will be removed for BA Year 3 and 4 with PSYC specialization; BKIN on July 21Restriction will be removed for UNCL on July 28",
+      "subject_code": "EPSE",
+      "course_number": "348",
+      "section_number": "63C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "STEWART, MARY"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "EPSE 348 W3A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=W3A&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "348",
+      "section_number": "W3A",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "36",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "36"
+    },
+    {
+      "status": "Restricted",
+      "section": "EPSE 348 W3C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EPSE&course=348&section=W3C&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Enrollment on a waitlist does not guarantee eventual registration in the course.",
+      "subject_code": "EPSE",
+      "course_number": "348",
+      "section_number": "W3C",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Distance Education",
+    "Waiting List"
+  ]
+}

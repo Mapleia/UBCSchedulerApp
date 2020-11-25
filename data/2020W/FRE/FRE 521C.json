@@ -1,1 +1,70 @@
-{"course_name":"FRE 521C","subject_code":"FRE","course_number":"521C","course_title":"Topics in Food and Resource Economics - TOPICS IN FRE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=521C&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FRE 521C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=521C&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Fri","start":"15:00","end":"17:00","comments":"","subject_code":"FRE","course_number":"521C","section_number":"001","building":" ","room":"","instructors":["WISEMAN, KELLEEN"],"totalRemaining":"10","currentlyRegistered":"35","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 2","description":" "}
+{
+  "course_name": "FRE 521C",
+  "subject_code": "FRE",
+  "course_number": "521C",
+  "course_title": "Topics in Food and Resource Economics - TOPICS IN FRE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=521C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 521C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=521C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "15:00",
+      "end": "17:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "521C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WISEMAN, KELLEEN"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "35",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    },
+    {
+      "status": "Restricted",
+      "section": "FRE 521C 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=521C&section=002&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "",
+      "subject_code": "FRE",
+      "course_number": "521C",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "47",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "47"
+    }
+  ],
+  "credits": 2,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture",
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,125 @@
-{"course_name":"PHYS 200","subject_code":"PHYS","course_number":"200","course_title":"Relativity and Quanta","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=200&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"PHYS 200 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"9:00","end":"10:00","comments":"","subject_code":"PHYS","course_number":"200","section_number":"101","building":" ","room":"","instructors":["LISTER, ALISON"],"totalRemaining":"17","currentlyRegistered":"153","generalRemaining":"17","restrictedRemaining":"0"},"T1A":{"status":" ","section":"PHYS 200 T1A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=T1A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"11:00","end":"12:30","comments":"All tutorials sections are online for Fall 2020W Term 1.","subject_code":"PHYS","course_number":"200","section_number":"T1A","building":" ","room":"","instructors":["TBA"],"totalRemaining":"34","currentlyRegistered":"131","generalRemaining":"34","restrictedRemaining":"0"},"10W":{"status":"Blocked","section":"PHYS 200 10W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=10W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"PHYS","course_number":"200","section_number":"10W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"T1M":{"status":" ","section":"PHYS 200 T1M","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=T1M&sessyr=2020&sesscd=W","activity":"Tutorial","term":"1","interval":"","days":" Tue","start":"18:00","end":"19:30","comments":"All tutorials sections are online for Fall 2020W Term 1.*This section is reserved for students who are residing outside of the Pacific Time Zone*","subject_code":"PHYS","course_number":"200","section_number":"T1M","building":" ","room":"","instructors":["TBA"],"totalRemaining":"143","currentlyRegistered":"22","generalRemaining":"143","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Special relativity: Lorentz transformation, dynamics and conservation laws. Quantum physics: the experimental evidence for quantization; a qualitative discussion of the concepts of quantum mechanics and their application to simple systems of atoms and nuclei."}
+{
+  "course_name": "PHYS 200",
+  "subject_code": "PHYS",
+  "course_number": "200",
+  "course_title": "Relativity and Quanta",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHYS&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHYS 200 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "200",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LISTER, ALISON"
+      ],
+      "totalRemaining": "17",
+      "currentlyRegistered": "153",
+      "generalRemaining": "17",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 200 T1A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=T1A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "All tutorials sections are online for Fall 2020W Term 1.",
+      "subject_code": "PHYS",
+      "course_number": "200",
+      "section_number": "T1A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "34",
+      "currentlyRegistered": "131",
+      "generalRemaining": "34",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "PHYS 200 10W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=10W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "PHYS",
+      "course_number": "200",
+      "section_number": "10W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "PHYS 200 T1M",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHYS&course=200&section=T1M&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "18:00",
+      "end": "19:30",
+      "comments": "All tutorials sections are online for Fall 2020W Term 1.*This section is reserved for students who are residing outside of the Pacific Time Zone*",
+      "subject_code": "PHYS",
+      "course_number": "200",
+      "section_number": "T1M",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "143",
+      "currentlyRegistered": "22",
+      "generalRemaining": "143",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Special relativity: Lorentz transformation, dynamics and conservation laws. Quantum physics: the experimental evidence for quantization; a qualitative discussion of the concepts of quantum mechanics and their application to simple systems of atoms and nuclei.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

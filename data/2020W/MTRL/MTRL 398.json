@@ -1,1 +1,43 @@
-{"course_name":"MTRL 398","subject_code":"MTRL","course_number":"398","course_title":"Engineering Written Communication","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=398&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"MTRL 398 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=398&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"12:00","end":"13:00","comments":"Course Section will be arranged for time and place.   Meet  4 to 5 times in Term 1","subject_code":"MTRL","course_number":"398","section_number":"101","building":" ","room":"","instructors":["WONG, MATTHEW"],"totalRemaining":"19","currentlyRegistered":"38","generalRemaining":"0","restrictedRemaining":"19"}},"credits":"Credits: 1","description":"Written communication in engineering. Reporting of technical material."}
+{
+  "course_name": "MTRL 398",
+  "subject_code": "MTRL",
+  "course_number": "398",
+  "course_title": "Engineering Written Communication",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=398&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "MTRL 398 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=398&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "12:00",
+      "end": "13:00",
+      "comments": "Course Section will be arranged for time and place.   Meet  4 to 5 times in Term 1",
+      "subject_code": "MTRL",
+      "course_number": "398",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WONG, MATTHEW"
+      ],
+      "totalRemaining": "19",
+      "currentlyRegistered": "38",
+      "generalRemaining": "0",
+      "restrictedRemaining": "19"
+    }
+  ],
+  "credits": 1,
+  "description": "Written communication in engineering. Reporting of technical material.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

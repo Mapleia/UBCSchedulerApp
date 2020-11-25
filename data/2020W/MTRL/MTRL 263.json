@@ -1,1 +1,70 @@
-{"course_name":"MTRL 263","subject_code":"MTRL","course_number":"263","course_title":"Transport Phenomena I - Fluid Mechanics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=263&sessyr=2020&sesscd=W","sections":{"201":{"status":"STT","section":"MTRL 263 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=263&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed Fri","start":"10:00","end":"11:00","comments":"","subject_code":"MTRL","course_number":"263","section_number":"201","building":"Orchard Commons","room":"1001","instructors":["DIXON, DAVID"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"L2A":{"status":"STT","section":"MTRL 263 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=263&section=L2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Mon","start":"16:00","end":"18:00","comments":"","subject_code":"MTRL","course_number":"263","section_number":"L2A","building":"West Mall Swing Space","room":"121","instructors":["DIXON, DAVID"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements."}
+{
+  "course_name": "MTRL 263",
+  "subject_code": "MTRL",
+  "course_number": "263",
+  "course_title": "Transport Phenomena I - Fluid Mechanics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MTRL&course=263&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MTRL 263 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=263&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED",
+        "FRI"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "263",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DIXON, DAVID"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "MTRL 263 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MTRL&course=263&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "16:00",
+      "end": "18:00",
+      "comments": "",
+      "subject_code": "MTRL",
+      "course_number": "263",
+      "section_number": "L2A",
+      "building": "West Mall Swing Space",
+      "room": "121",
+      "instructors": [
+        "DIXON, DAVID"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

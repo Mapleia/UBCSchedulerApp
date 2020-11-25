@@ -1,1 +1,44 @@
-{"course_name":"ECON 567","subject_code":"ECON","course_number":"567","course_title":"Organization Theory and Non-market Allocation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=567&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"ECON 567 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=567&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Prequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.","subject_code":"ECON","course_number":"567","section_number":"001","building":"Iona Building","room":"533","instructors":["SCHRIMPF, PAUL"],"totalRemaining":"0","currentlyRegistered":"18","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ECON 567",
+  "subject_code": "ECON",
+  "course_number": "567",
+  "course_title": "Organization Theory and Non-market Allocation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ECON&course=567&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ECON 567 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ECON&course=567&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Prequisites: ECON 500, 502, 526  and  527.Course registration available starting on TBA.Course description TBA.",
+      "subject_code": "ECON",
+      "course_number": "567",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SCHRIMPF, PAUL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "18",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,71 @@
-{"course_name":"ELEC 441","subject_code":"ELEC","course_number":"441","course_title":"Control Systems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=441&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"ELEC 441 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=441&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"ELEC","course_number":"441","section_number":"201","building":"Civil and Mechanical Engineering","room":"1204","instructors":["KAMGARPOUR, MARYAM"],"totalRemaining":"0","currentlyRegistered":"60","generalRemaining":"0","restrictedRemaining":"0"},"2W2":{"status":" ","section":"ELEC 441 2W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=441&section=2W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ELEC","course_number":"441","section_number":"2W2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"3","currentlyRegistered":"27","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Relationships between system parameters and system responses for linear control systems. Design specifications for dynamic and steady-state performance and realization by use of feedback control. Robust design of PID controllers and multivariable controllers."}
+{
+  "course_name": "ELEC 441",
+  "subject_code": "ELEC",
+  "course_number": "441",
+  "course_title": "Control Systems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ELEC&course=441&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "ELEC 441 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=441&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "441",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "KAMGARPOUR, MARYAM"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "60",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "ELEC 441 2W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ELEC&course=441&section=2W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ELEC",
+      "course_number": "441",
+      "section_number": "2W2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "27",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Relationships between system parameters and system responses for linear control systems. Design specifications for dynamic and steady-state performance and realization by use of feedback control. Robust design of PID controllers and multivariable controllers.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

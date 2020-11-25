@@ -1,1 +1,43 @@
-{"course_name":"FIPR 436B","subject_code":"FIPR","course_number":"436B","course_title":"Documentary Development and Production - DOCMNTY DEV&PROD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=436B&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FIPR 436B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=436B&section=001&sessyr=2020&sesscd=W","activity":"Lecture-Laboratory","term":"2","interval":"","days":" Tue","start":"9:00","end":"12:00","comments":"Permission of the Department is required to register in this course. Students must also take FIPR 436A in Term 1 in order to develop their projects for FIPR 436B in Term 2. Restricted to students in the BFA Film Production Program.","subject_code":"FIPR","course_number":"436B","section_number":"001","building":"Buchanan","room":"B202","instructors":["WALSH, SHANNON"],"totalRemaining":"4","currentlyRegistered":"5","generalRemaining":"0","restrictedRemaining":"4"}},"credits":"Credits: 3","description":"Documentary concept development, essential production techniques, and marketing."}
+{
+  "course_name": "FIPR 436B",
+  "subject_code": "FIPR",
+  "course_number": "436B",
+  "course_title": "Documentary Development and Production - DOCMNTY DEV&PROD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FIPR&course=436B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FIPR 436B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FIPR&course=436B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture-Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "Permission of the Department is required to register in this course. Students must also take FIPR 436A in Term 1 in order to develop their projects for FIPR 436B in Term 2. Restricted to students in the BFA Film Production Program.Winter Term 2 (January-April) sections will be held online. Classes will include a combination of synchronous (live) and asynchronous activities (such as watching recorded lectures, posting to discussion boards, or completing quizzes). By the start of term, instructors will provide their students with more information on what to expect in their individual sections.",
+      "subject_code": "FIPR",
+      "course_number": "436B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALSH, SHANNON"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    }
+  ],
+  "credits": 3,
+  "description": "Documentary concept development, essential production techniques, and marketing.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Lecture-Laboratory"
+  ]
+}

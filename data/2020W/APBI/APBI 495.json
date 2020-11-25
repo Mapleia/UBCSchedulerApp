@@ -1,1 +1,43 @@
-{"course_name":"APBI 495","subject_code":"APBI","course_number":"495","course_title":"Human Wildlife Conflict ","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=495&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"APBI 495 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=495&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"10:00","end":"13:00","comments":"If this section is full, please look to register in CONS 495 sec 001. APBI 495 and CONS 495 are cross-listed. Inquiries about this can be directed to LFS Student Services at students@landfood.ubc.ca.","subject_code":"APBI","course_number":"495","section_number":"001","building":"UBC Life Building","room":"2212","instructors":["WALKER, KRISTEN"],"totalRemaining":"1","currentlyRegistered":"19","generalRemaining":"0","restrictedRemaining":"1"}},"credits":"Credits: 3","description":"Evaluation of the impacts of human wildlife conflicts on wildlife populations; application of innovative methods to reduce human wildlife conflicts."}
+{
+  "course_name": "APBI 495",
+  "subject_code": "APBI",
+  "course_number": "495",
+  "course_title": "Human Wildlife Conflict ",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=495&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "APBI 495 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=495&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "13:00",
+      "comments": "If this section is full, please look to register in CONS 495 sec 001. APBI 495 and CONS 495 are cross-listed. Inquiries about this can be directed to LFS Student Services at students@landfood.ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "495",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "WALKER, KRISTEN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "20",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Evaluation of the impacts of human wildlife conflicts on wildlife populations; application of innovative methods to reduce human wildlife conflicts.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

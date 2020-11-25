@@ -1,1 +1,43 @@
-{"course_name":"EDST 597","subject_code":"EDST","course_number":"597","course_title":"Educational Theories: Equality, Democracy, and Justice","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=597&sessyr=2020&sesscd=W","sections":{"021":{"status":"Restricted","section":"EDST 597 021","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=597&section=021&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"16:30","end":"19:30","comments":"","subject_code":"EDST","course_number":"597","section_number":"021","building":"Ponderosa Commons North - Oak/Cedar House","room":"1215","instructors":["ROCHA PERKERWICZ, SAMUEL"],"totalRemaining":"10","currentlyRegistered":"10","generalRemaining":"0","restrictedRemaining":"10"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDST 597",
+  "subject_code": "EDST",
+  "course_number": "597",
+  "course_title": "Educational Theories: Equality, Democracy, and Justice",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDST&course=597&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDST 597 021",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDST&course=597&section=021&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDST",
+      "course_number": "597",
+      "section_number": "021",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ROCHA PERKERWICZ, SAMUEL"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "10",
+      "generalRemaining": "0",
+      "restrictedRemaining": "10"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

@@ -1,1 +1,211 @@
-{"course_name":"COMM 374","subject_code":"COMM","course_number":"374","course_title":"Applied Financial Markets","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=374&sessyr=2020&sesscd=W","sections":{"201":{"status":"Full","section":"COMM 374 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"8:30","end":"10:00","comments":"","subject_code":"COMM","course_number":"374","section_number":"201","building":" ","room":"","instructors":["ZHENG, KELING"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"},"202":{"status":"Full","section":"COMM 374 202","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=202&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"10:00","end":"11:30","comments":"","subject_code":"COMM","course_number":"374","section_number":"202","building":" ","room":"","instructors":["BIAN, BO","FAVILUKIS, JACK"],"totalRemaining":"0","currentlyRegistered":"46","generalRemaining":"0","restrictedRemaining":"0"},"203":{"status":"Full","section":"COMM 374 203","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=203&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"11:30","end":"13:00","comments":"","subject_code":"COMM","course_number":"374","section_number":"203","building":" ","room":"","instructors":["BIAN, BO","FAVILUKIS, JACK"],"totalRemaining":"0","currentlyRegistered":"47","generalRemaining":"0","restrictedRemaining":"0"},"204":{"status":"Full","section":"COMM 374 204","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=204&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Mon Wed","start":"14:30","end":"16:00","comments":"","subject_code":"COMM","course_number":"374","section_number":"204","building":" ","room":"","instructors":["BIAN, BO"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"205":{"status":"Full","section":"COMM 374 205","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=205&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"COMM","course_number":"374","section_number":"205","building":" ","room":"","instructors":["BIAN, BO","FAVILUKIS, JACK"],"totalRemaining":"0","currentlyRegistered":"45","generalRemaining":"0","restrictedRemaining":"0"},"206":{"status":"Full","section":"COMM 374 206","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=206&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"COMM","course_number":"374","section_number":"206","building":" ","room":"","instructors":["BIAN, BO","FAVILUKIS, JACK"],"totalRemaining":"0","currentlyRegistered":"46","generalRemaining":"0","restrictedRemaining":"0"},"207":{"status":"Full","section":"COMM 374 207","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=207&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"14:00","end":"15:30","comments":"","subject_code":"COMM","course_number":"374","section_number":"207","building":" ","room":"","instructors":["FAVILUKIS, JACK","ZHENG, KELING"],"totalRemaining":"0","currentlyRegistered":"44","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Introduction to methodologies and evidence concerning the structure and operation of security markets and the valuation of financial securities including stocks, bonds, options and futures contracts; portfolio management, corporate finance and investment decisions."}
+{
+  "course_name": "COMM 374",
+  "subject_code": "COMM",
+  "course_number": "374",
+  "course_title": "Applied Financial Markets",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=COMM&course=374&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "COMM 374 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "08:30",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ZHENG, KELING"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "10:00",
+      "end": "11:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIAN, BO",
+        "FAVILUKIS, JACK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 203",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=203&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:30",
+      "end": "13:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "203",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIAN, BO",
+        "FAVILUKIS, JACK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 204",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=204&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "19:00",
+      "end": "20:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "204",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIAN, BO"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 205",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=205&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "205",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIAN, BO",
+        "FAVILUKIS, JACK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "43",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 206",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=206&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "206",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BIAN, BO",
+        "FAVILUKIS, JACK"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "45",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "COMM 374 207",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=COMM&course=374&section=207&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "COMM",
+      "course_number": "374",
+      "section_number": "207",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FAVILUKIS, JACK",
+        "ZHENG, KELING"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "46",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Introduction to methodologies and evidence concerning the structure and operation of security markets and the valuation of financial securities including stocks, bonds, options and futures contracts; portfolio management, corporate finance and investment decisions.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

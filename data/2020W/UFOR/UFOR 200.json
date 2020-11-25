@@ -1,1 +1,69 @@
-{"course_name":"UFOR 200","subject_code":"UFOR","course_number":"200","course_title":"Urban Forests and Well-Being","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=200&sessyr=2020&sesscd=W","sections":{"101":{"status":" ","section":"UFOR 200 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=200&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"The instructor will use The Oxford textbook of Nature and Public Health. https://global.oup.com/academic/product/oxford-textbook-of-nature-and-public-health-9780198725916?cc=se and lang=en and","subject_code":"UFOR","course_number":"200","section_number":"101","building":" ","room":"","instructors":["DEVISSCHER, TAHIA"],"totalRemaining":"8","currentlyRegistered":"66","generalRemaining":"8","restrictedRemaining":"0"},"102":{"status":" ","section":"UFOR 200 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=200&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"20:30","end":"22:00","comments":"The instructor will use The Oxford textbook of Nature and Public Health.https://global.oup.com/academic/product/oxford-textbook-of-nature-and-public-health-9780198725916?cc=se and lang=en and","subject_code":"UFOR","course_number":"200","section_number":"102","building":" ","room":"","instructors":["DEVISSCHER, TAHIA"],"totalRemaining":"43","currentlyRegistered":"22","generalRemaining":"43","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Basic relationships between urban residents' mental and physical well-being and their urban forest environment."}
+{
+  "course_name": "UFOR 200",
+  "subject_code": "UFOR",
+  "course_number": "200",
+  "course_title": "Urban Forests and Well-Being",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=UFOR&course=200&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "UFOR 200 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=200&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "The instructor will use The Oxford textbook of Nature and Public Health. https://global.oup.com/academic/product/oxford-textbook-of-nature-and-public-health-9780198725916?cc=se and lang=en and",
+      "subject_code": "UFOR",
+      "course_number": "200",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEVISSCHER, TAHIA"
+      ],
+      "totalRemaining": "8",
+      "currentlyRegistered": "66",
+      "generalRemaining": "8",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "UFOR 200 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=UFOR&course=200&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "20:30",
+      "end": "22:00",
+      "comments": "The instructor will use The Oxford textbook of Nature and Public Health.https://global.oup.com/academic/product/oxford-textbook-of-nature-and-public-health-9780198725916?cc=se and lang=en and",
+      "subject_code": "UFOR",
+      "course_number": "200",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DEVISSCHER, TAHIA"
+      ],
+      "totalRemaining": "43",
+      "currentlyRegistered": "22",
+      "generalRemaining": "43",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Basic relationships between urban residents' mental and physical well-being and their urban forest environment.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

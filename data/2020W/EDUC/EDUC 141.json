@@ -1,1 +1,70 @@
-{"course_name":"EDUC 141","subject_code":"EDUC","course_number":"141","course_title":"Indigenous Studies","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=141&sessyr=2020&sesscd=W","sections":{"177":{"status":"STT","section":"EDUC 141 177","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=141&section=177&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Thu","start":"12:30","end":"14:00","comments":"","subject_code":"EDUC","course_number":"141","section_number":"177","building":"Ponderosa Commons North - Oak/Cedar House","room":"1003","instructors":["POINT, MARNY"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"624":{"status":"STT","section":"EDUC 141 624","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=141&section=624&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue","start":"16:30","end":"19:00","comments":"","subject_code":"EDUC","course_number":"141","section_number":"624","building":" ","room":"","instructors":["BAGLOT, KIMBERLY"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"For students in the Indigenous Teacher Education Program (NITEP) only."}
+{
+  "course_name": "EDUC 141",
+  "subject_code": "EDUC",
+  "course_number": "141",
+  "course_title": "Indigenous Studies",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDUC&course=141&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "EDUC 141 177",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=141&section=177&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "EDUC",
+      "course_number": "141",
+      "section_number": "177",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POINT, MARNY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "STT",
+      "section": "EDUC 141 624",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDUC&course=141&section=624&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "16:30",
+      "end": "19:00",
+      "comments": "",
+      "subject_code": "EDUC",
+      "course_number": "141",
+      "section_number": "624",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BAGLOT, KIMBERLY"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "For students in the Indigenous Teacher Education Program (NITEP) only.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,70 @@
-{"course_name":"CIVL 523","subject_code":"CIVL","course_number":"523","course_title":"Project Management for Engineers","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=523&sessyr=2020&sesscd=W","sections":{"201":{"status":"Blocked","section":"CIVL 523 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=523&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Wed","start":"17:00","end":"20:00","comments":"Please note that registration priority in this course is given first to Civil Engineering students specializing in Project  and  Construction Management, and then all other Civil Engineering students.If the course is full please register on the waitlist.","subject_code":"CIVL","course_number":"523","section_number":"201","building":"Chemical and Biological Engineering Building","room":"103","instructors":["NELMS, CHERYL"],"totalRemaining":"14","currentlyRegistered":"6","generalRemaining":"14","restrictedRemaining":"0"},"2W1":{"status":" ","section":"CIVL 523 2W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=523&section=2W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"CIVL","course_number":"523","section_number":"2W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"32","currentlyRegistered":"18","generalRemaining":"32","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Perspectives of project management as it relates to civil engineering. Case studies are used to illustrate key issues."}
+{
+  "course_name": "CIVL 523",
+  "subject_code": "CIVL",
+  "course_number": "523",
+  "course_title": "Project Management for Engineers",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CIVL&course=523&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "CIVL 523 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=523&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "Please note that registration priority in this course is given first to Civil Engineering students specializing in Project  and  Construction Management, and then all other Civil Engineering students.If the course is full please register on the waitlist.",
+      "subject_code": "CIVL",
+      "course_number": "523",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "NELMS, CHERYL"
+      ],
+      "totalRemaining": "12",
+      "currentlyRegistered": "8",
+      "generalRemaining": "12",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "CIVL 523 2W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CIVL&course=523&section=2W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "CIVL",
+      "course_number": "523",
+      "section_number": "2W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "19",
+      "generalRemaining": "31",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Perspectives of project management as it relates to civil engineering. Case studies are used to illustrate key issues.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

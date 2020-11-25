@@ -1,1 +1,44 @@
-{"course_name":"PHIL 540A","subject_code":"PHIL","course_number":"540A","course_title":"Epistemology - EPISTEMOLOGY","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=540A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 540A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=540A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"COVID-19 notice: UBC guidelines for term 1 instructtion require that this seminar be offered online. Given the emphasis on discussion, we encourage synchronous attendance. If, however, you cannot join the seminar at the time it is scheduled, please contact us to discuss asynchronous options. This graduate seminar will focus on questions about the relationship between epistemology and oppression: the ways in which epistemic factors can contribute to broad social injustices and, reciprocally, how standing conditions of injustice can configure what counts as knowledge and epistemic authority. Central texts include Medina\u0019s Epistemology of Resistance (2013), Haslanger\u0019s Critical Theory and Practice (2017), and Mary Kate McGowan\u0019s Just Words (2019). Seminar meetings will be organized around s and ~tudent presentations and discussion, with 60% of the final grade based on regular weekly assignments (including presentations) and 60% on a final (6000 word) research paper. We will be meeting online and, given the emphasis on discussion, we encourage synchronous attendance. If you cannot join the seminar at the scheduled time please contact the instructors to discuss asynchronous options.This seminar is designed for MA and PhD philosophy students but if you are an advanced undergraduate or a graduate student in another field, or would like to audit the seminar, please contact the instructors. Jonathan Ichikawa: ichikawa@gmail.com Alison Wylie: alison.wylie@ubc.ca","subject_code":"PHIL","course_number":"540A","section_number":"001","building":" ","room":"","instructors":["ICHIKAWA, JONATHAN","WYLIE, ALISON"],"totalRemaining":"15","currentlyRegistered":"10","generalRemaining":"15","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHIL 540A",
+  "subject_code": "PHIL",
+  "course_number": "540A",
+  "course_title": "Epistemology - EPISTEMOLOGY",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=540A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 540A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=540A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "COVID-19 notice: UBC guidelines for term 1 instructtion require that this seminar be offered online. Given the emphasis on discussion, we encourage synchronous attendance. If, however, you cannot join the seminar at the time it is scheduled, please contact us to discuss asynchronous options. This graduate seminar will focus on questions about the relationship between epistemology and oppression: the ways in which epistemic factors can contribute to broad social injustices and, reciprocally, how standing conditions of injustice can configure what counts as knowledge and epistemic authority. Central texts include Medina\u0019s Epistemology of Resistance (2013), Haslanger\u0019s Critical Theory and Practice (2017), and Mary Kate McGowan\u0019s Just Words (2019). Seminar meetings will be organized around s and ~tudent presentations and discussion, with 60% of the final grade based on regular weekly assignments (including presentations) and 60% on a final (6000 word) research paper. We will be meeting online and, given the emphasis on discussion, we encourage synchronous attendance. If you cannot join the seminar at the scheduled time please contact the instructors to discuss asynchronous options.This seminar is designed for MA and PhD philosophy students but if you are an advanced undergraduate or a graduate student in another field, or would like to audit the seminar, please contact the instructors. Jonathan Ichikawa: ichikawa@gmail.com Alison Wylie: alison.wylie@ubc.ca",
+      "subject_code": "PHIL",
+      "course_number": "540A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ICHIKAWA, JONATHAN",
+        "WYLIE, ALISON"
+      ],
+      "totalRemaining": "15",
+      "currentlyRegistered": "10",
+      "generalRemaining": "15",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

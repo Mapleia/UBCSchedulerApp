@@ -1,1 +1,44 @@
-{"course_name":"BIOL 548L","subject_code":"BIOL","course_number":"548L","course_title":"Advanced Topics in Biology - ADV TOPICS BIOL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548L&sessyr=2020&sesscd=W","sections":{"101":{"status":"Restricted","section":"BIOL 548L 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548L&section=101&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Tue Thu","start":"15:00","end":"16:30","comments":"TITLE: Visual and Oral PresentationsDESCRIPTION: Techniques for the visual display of biological data and for creating oral and poster research presentations.Location: BioSci 4223","subject_code":"BIOL","course_number":"548L","section_number":"101","building":" ","room":"","instructors":["ALTSHULER, DOUGLAS"],"totalRemaining":"9","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 1","description":" "}
+{
+  "course_name": "BIOL 548L",
+  "subject_code": "BIOL",
+  "course_number": "548L",
+  "course_title": "Advanced Topics in Biology - ADV TOPICS BIOL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=548L&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BIOL 548L 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=548L&section=101&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "15:00",
+      "end": "16:30",
+      "comments": "TITLE: Visual and Oral PresentationsDESCRIPTION: Techniques for the visual display of biological data and for creating oral and poster research presentations.Location: BioSci 4223",
+      "subject_code": "BIOL",
+      "course_number": "548L",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ALTSHULER, DOUGLAS"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "11",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 1,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

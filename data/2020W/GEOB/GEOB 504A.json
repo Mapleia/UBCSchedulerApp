@@ -1,1 +1,76 @@
-{"course_name":"GEOB 504A","subject_code":"GEOB","course_number":"504A","course_title":"Topics in Climate Studies - CLIMATE STUDIES","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=504A&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"GEOB 504A 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=504A&section=101&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Thu","start":"14:00","end":"17:00","comments":"This online seminar has a synchronous scheduled meeting time.","subject_code":"GEOB","course_number":"504A","section_number":"101","building":"Geography","room":"229","instructors":["KOPPES, MICHELE","SUNDBERG, JUANITA"],"totalRemaining":"4","currentlyRegistered":"11","generalRemaining":"0","restrictedRemaining":"4"},"WL1":{"status":" ","section":"GEOB 504A WL1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=504A&section=WL1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOB 504A, section 101, term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOB","course_number":"504A","section_number":"WL1","building":"","room":"","instructors":["20","0","5","15","","in one of these programs: MA,MSC,PHD\nwith one of these specializations: ****GEOG\n\n"],"totalRemaining":"in one of these programs: MA,MSC,PHD\nwith one of these specializations: ****GEOG\n\n","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "GEOB 504A",
+  "subject_code": "GEOB",
+  "course_number": "504A",
+  "course_title": "Topics in Climate Studies - CLIMATE STUDIES",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=504A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOB 504A 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=504A&section=101&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This online seminar has a synchronous scheduled meeting time.",
+      "subject_code": "GEOB",
+      "course_number": "504A",
+      "section_number": "101",
+      "building": "Geography",
+      "room": "229",
+      "instructors": [
+        "KOPPES, MICHELE",
+        "SUNDBERG, JUANITA"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "12",
+      "generalRemaining": "0",
+      "restrictedRemaining": "3"
+    },
+    {
+      "status": " ",
+      "section": "GEOB 504A WL1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=504A&section=WL1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOB 504A, section 101, term 1. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOB",
+      "course_number": "504A",
+      "section_number": "WL1",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "20",
+        "0",
+        "5",
+        "15",
+        "",
+        "in one of these programs: MA,MSC,PHD\nwith one of these specializations: ****GEOG\n\n"
+      ],
+      "totalRemaining": "in one of these programs: MA,MSC,PHD\nwith one of these specializations: ****GEOG\n\n",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,45 @@
-{"course_name":"FRST 432","subject_code":"FRST","course_number":"432","course_title":"Ecological Genomics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=432&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"FRST 432 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=432&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"","subject_code":"FRST","course_number":"432","section_number":"201","building":" ","room":"","instructors":["RITLAND, KERMIT"],"totalRemaining":"53","currentlyRegistered":"12","generalRemaining":"53","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The genomic basis of adaptation to environments. Topics progress through community structure, life history patterns, stress responses, and variation and adaptation."}
+{
+  "course_name": "FRST 432",
+  "subject_code": "FRST",
+  "course_number": "432",
+  "course_title": "Ecological Genomics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRST&course=432&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "FRST 432 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRST&course=432&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "",
+      "subject_code": "FRST",
+      "course_number": "432",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "RITLAND, KERMIT"
+      ],
+      "totalRemaining": "54",
+      "currentlyRegistered": "11",
+      "generalRemaining": "54",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The genomic basis of adaptation to environments. Topics progress through community structure, life history patterns, stress responses, and variation and adaptation.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

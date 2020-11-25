@@ -1,1 +1,44 @@
-{"course_name":"CHBE 563","subject_code":"CHBE","course_number":"563","course_title":"Applied Heterogeneous Catalysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=563&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"CHBE 563 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=563&section=201&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"CHBE","course_number":"563","section_number":"201","building":"Chemical and Biological Engineering Building","room":"103","instructors":["TBA"],"totalRemaining":"31","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"31"}},"credits":"Credits: 3","description":"Techniques for characterizing catalysts and their surfaces. Commercial methods of preparing catalysts. Chemistry of catalytic reactions and the impact of catalyst properties, mechanisms and kinetics on reactor engineering. Applications of catalytic oxidations, hydrogenations, C-C bond formation and cracking."}
+{
+  "course_name": "CHBE 563",
+  "subject_code": "CHBE",
+  "course_number": "563",
+  "course_title": "Applied Heterogeneous Catalysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=563&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "CHBE 563 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=563&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "563",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "31",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "31"
+    }
+  ],
+  "credits": 3,
+  "description": "Techniques for characterizing catalysts and their surfaces. Commercial methods of preparing catalysts. Chemistry of catalytic reactions and the impact of catalyst properties, mechanisms and kinetics on reactor engineering. Applications of catalytic oxidations, hydrogenations, C-C bond formation and cracking.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

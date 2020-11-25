@@ -1,1 +1,44 @@
-{"course_name":"LING 447C","subject_code":"LING","course_number":"447C","course_title":"Topics in Linguistics - TOPICS IN LING","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LING 447C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447C&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"Topic: Comparative Chinese Syntax: Inner AspectLING 300 is a pre-requisite for this course. Some knowledge of some variety of Chinese will help, but is not required","subject_code":"LING","course_number":"447C","section_number":"001","building":" ","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"19","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different."}
+{
+  "course_name": "LING 447C",
+  "subject_code": "LING",
+  "course_number": "447C",
+  "course_title": "Topics in Linguistics - TOPICS IN LING",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LING&course=447C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LING 447C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LING&course=447C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "Topic: Comparative Chinese Syntax: Inner AspectLING 300 is a pre-requisite for this course. Some knowledge of some variety of Chinese will help, but is not required",
+      "subject_code": "LING",
+      "course_number": "447C",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SYBESMA, RINTJE"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "19",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study.  Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

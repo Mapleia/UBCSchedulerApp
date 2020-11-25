@@ -1,1 +1,46 @@
-{"course_name":"SOWK 415","subject_code":"SOWK","course_number":"415","course_title":"Practicum II","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=415&sessyr=2020&sesscd=W","sections":{"005":{"status":"Full","section":"SOWK 415 005","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=415&section=005&sessyr=2020&sesscd=W","activity":"Practicum","term":"2","interval":"","days":" Mon Tue Wed Thu","start":" ","end":" ","comments":"","subject_code":"SOWK","course_number":"415","section_number":"005","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"51","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"A supervised practicum in an assigned social service, two days a week throughout the program year. Enrolment is limited to students in the B.S.W. program. This course will be graded Pass/Fail."}
+{
+  "course_name": "SOWK 415",
+  "subject_code": "SOWK",
+  "course_number": "415",
+  "course_title": "Practicum II",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=415&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "SOWK 415 005",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=415&section=005&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "415",
+      "section_number": "005",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "51",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "A supervised practicum in an assigned social service, two days a week throughout the program year. Enrolment is limited to students in the B.S.W. program. This course will be graded Pass/Fail.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

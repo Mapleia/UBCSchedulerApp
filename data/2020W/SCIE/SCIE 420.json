@@ -1,1 +1,44 @@
-{"course_name":"SCIE 420","subject_code":"SCIE","course_number":"420","course_title":"Sustainability for Community and the World","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=420&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SCIE 420 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SCIE&course=420&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"SCIE","course_number":"420","section_number":"001","building":"Orchard Commons","room":"4058","instructors":["OBERG, GUNILLA"],"totalRemaining":"18","currentlyRegistered":"12","generalRemaining":"18","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Explores systems thinking in the context of sustainability and also re-examines the familiar three pillar model of sustainability - society, ecology, and economics - highlighting its uses and limitations."}
+{
+  "course_name": "SCIE 420",
+  "subject_code": "SCIE",
+  "course_number": "420",
+  "course_title": "Sustainability for Community and the World",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=420&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SCIE 420 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SCIE&course=420&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "SCIE",
+      "course_number": "420",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "OBERG, GUNILLA"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "9",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Explores systems thinking in the context of sustainability and also re-examines the familiar three pillar model of sustainability - society, ecology, and economics - highlighting its uses and limitations.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

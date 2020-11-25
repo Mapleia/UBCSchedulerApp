@@ -1,1 +1,99 @@
-{"course_name":"EOSC 429","subject_code":"EOSC","course_number":"429","course_title":"Groundwater Contamination","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=429&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"EOSC 429 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed","start":"9:00","end":"10:00","comments":"","subject_code":"EOSC","course_number":"429","section_number":"201","building":"Earth Sciences Building","room":"1012","instructors":["BECKIE, ROGER"],"totalRemaining":"30","currentlyRegistered":"71","generalRemaining":"0","restrictedRemaining":"30"},"L2A":{"status":"Restricted","section":"EOSC 429 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=L2A&sessyr=2020&sesscd=W","activity":"Tutorial","term":"2","interval":"","days":" Fri","start":"8:00","end":"10:00","comments":"","subject_code":"EOSC","course_number":"429","section_number":"L2A","building":"Earth Sciences Building","room":"1012","instructors":["TBA"],"totalRemaining":"30","currentlyRegistered":"70","generalRemaining":"0","restrictedRemaining":"30"},"WL2":{"status":" ","section":"EOSC 429 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" Mon Wed","start":" ","end":" ","comments":"","subject_code":"EOSC","course_number":"429","section_number":"WL2","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"8","currentlyRegistered":"2","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Contaminant transport processes in groundwater flow systems; aqueous and multiphase transport; mathematical models describing migration and chemical evolution of contaminant plumes; case studies."}
+{
+  "course_name": "EOSC 429",
+  "subject_code": "EOSC",
+  "course_number": "429",
+  "course_title": "Groundwater Contamination",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EOSC&course=429&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EOSC 429 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "429",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BECKIE, ROGER"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "71",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    },
+    {
+      "status": "Restricted",
+      "section": "EOSC 429 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Tutorial",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "FRI"
+      ],
+      "start": "08:00",
+      "end": "10:00",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "429",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "29",
+      "currentlyRegistered": "70",
+      "generalRemaining": "0",
+      "restrictedRemaining": "29"
+    },
+    {
+      "status": " ",
+      "section": "EOSC 429 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EOSC&course=429&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "EOSC",
+      "course_number": "429",
+      "section_number": "WL2",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "1",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Contaminant transport processes in groundwater flow systems; aqueous and multiphase transport; mathematical models describing migration and chemical evolution of contaminant plumes; case studies.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Tutorial",
+    "Waiting List"
+  ]
+}

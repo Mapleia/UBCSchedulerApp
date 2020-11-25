@@ -1,1 +1,44 @@
-{"course_name":"APBI 442","subject_code":"APBI","course_number":"442","course_title":"Wine Grape and Berry Biology","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=442&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"APBI 442 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=442&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"APBI","course_number":"442","section_number":"001","building":" ","room":"","instructors":["CASTELLARIN, SIMONE"],"totalRemaining":"5","currentlyRegistered":"35","generalRemaining":"5","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Grapevine genetics, morphology, and physiology and major biological features of other important berry crops for British Columbia such as blueberry, cranberry, and raspberry. Credit will be granted for only one of APBI 442, APBI 443, or PLNT 542."}
+{
+  "course_name": "APBI 442",
+  "subject_code": "APBI",
+  "course_number": "442",
+  "course_title": "Wine Grape and Berry Biology",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=442&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "APBI 442 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=442&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "APBI",
+      "course_number": "442",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "CASTELLARIN, SIMONE"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "35",
+      "generalRemaining": "5",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Grapevine genetics, morphology, and physiology and major biological features of other important berry crops for British Columbia such as blueberry, cranberry, and raspberry. Credit will be granted for only one of APBI 442, APBI 443, or PLNT 542.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

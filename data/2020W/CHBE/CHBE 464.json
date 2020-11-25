@@ -1,1 +1,43 @@
-{"course_name":"CHBE 464","subject_code":"CHBE","course_number":"464","course_title":"Chemical and Biological Engineering Laboratory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=464&sessyr=2020&sesscd=W","sections":{"001":{"status":"STT","section":"CHBE 464 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=464&section=001&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1-2","interval":"","days":" Thu","start":"12:30","end":"18:30","comments":"","subject_code":"CHBE","course_number":"464","section_number":"001","building":" ","room":"","instructors":["POTVIN, GABRIEL"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 4","description":"Experiments in unit operations relating to process, environmental and biological engineering. Experiments are designed to provide experience in instrumentation and control. Field trips may be required."}
+{
+  "course_name": "CHBE 464",
+  "subject_code": "CHBE",
+  "course_number": "464",
+  "course_title": "Chemical and Biological Engineering Laboratory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CHBE&course=464&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "CHBE 464 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CHBE&course=464&section=001&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "18:30",
+      "comments": "",
+      "subject_code": "CHBE",
+      "course_number": "464",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "POTVIN, GABRIEL"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 4,
+  "description": "Experiments in unit operations relating to process, environmental and biological engineering. Experiments are designed to provide experience in instrumentation and control. Field trips may be required.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Laboratory"
+  ]
+}

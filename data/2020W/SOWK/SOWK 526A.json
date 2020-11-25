@@ -1,1 +1,43 @@
-{"course_name":"SOWK 526A","subject_code":"SOWK","course_number":"526A","course_title":"Social Work Practice with Individuals and Couples - INDIVDUALS&CPLS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=526A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"SOWK 526A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=526A&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"17:00","end":"20:00","comments":"","subject_code":"SOWK","course_number":"526A","section_number":"001","building":" ","room":"","instructors":["BRATIOTIS, CHRISTIANA"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "SOWK 526A",
+  "subject_code": "SOWK",
+  "course_number": "526A",
+  "course_title": "Social Work Practice with Individuals and Couples - INDIVDUALS&CPLS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SOWK&course=526A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "SOWK 526A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=SOWK&course=526A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "17:00",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "SOWK",
+      "course_number": "526A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BRATIOTIS, CHRISTIANA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

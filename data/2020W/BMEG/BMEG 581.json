@@ -1,1 +1,75 @@
-{"course_name":"BMEG 581","subject_code":"BMEG","course_number":"581","course_title":"Professional and Academic Development","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=581&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"BMEG 581 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=581&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"12:30","end":"14:00","comments":"","subject_code":"BMEG","course_number":"581","section_number":"201","building":"Henry Angus","room":"334","instructors":["SHAKIBA, NIKA","YACHIE, NOZOMU"],"totalRemaining":"28","currentlyRegistered":"32","generalRemaining":"0","restrictedRemaining":"28"},"WL2":{"status":" ","section":"BMEG 581 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=581&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"","subject_code":"BMEG","course_number":"581","section_number":"WL2","building":"","room":"","instructors":["20","0","20","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "BMEG 581",
+  "subject_code": "BMEG",
+  "course_number": "581",
+  "course_title": "Professional and Academic Development",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BMEG&course=581&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "BMEG 581 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=581&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "12:30",
+      "end": "14:00",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "581",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SHAKIBA, NIKA",
+        "YACHIE, NOZOMU"
+      ],
+      "totalRemaining": "26",
+      "currentlyRegistered": "34",
+      "generalRemaining": "0",
+      "restrictedRemaining": "26"
+    },
+    {
+      "status": " ",
+      "section": "BMEG 581 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BMEG&course=581&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "",
+      "subject_code": "BMEG",
+      "course_number": "581",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "19",
+        "1",
+        "19",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

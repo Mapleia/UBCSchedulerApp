@@ -1,1 +1,70 @@
-{"course_name":"NURS 560","subject_code":"NURS","course_number":"560","course_title":"The Politics of Health Policy","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=560&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"NURS 560 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=560&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"**** This course is now full. Please register for NURS 560-01W and you will be contacted by School of Nursing Student Support Office (academic.support@nursing.ubc.ca) when space is available in the course ****This section is prioritized for MHLP students.This course is the study of the processes and strategies influencing health and social policy, and the social and political contexts in which policy is created.","subject_code":"NURS","course_number":"560","section_number":"001","building":" ","room":"","instructors":["BROWN, HELEN JEAN"],"totalRemaining":"0","currentlyRegistered":"30","generalRemaining":"0","restrictedRemaining":"0"},"01W":{"status":" ","section":"NURS 560 01W","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=560&section=01W&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Waitlist for NURS 560-001","subject_code":"NURS","course_number":"560","section_number":"01W","building":" ","room":"","instructors":["TBA"],"totalRemaining":"25","currentlyRegistered":"5","generalRemaining":"25","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 560",
+  "subject_code": "NURS",
+  "course_number": "560",
+  "course_title": "The Politics of Health Policy",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=560&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "NURS 560 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=560&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "**** This course is now full. Please register for NURS 560-01W and you will be contacted by School of Nursing Student Support Office (academic.support@nursing.ubc.ca) when space is available in the course ****This section is prioritized for MHLP students.This course is the study of the processes and strategies influencing health and social policy, and the social and political contexts in which policy is created.",
+      "subject_code": "NURS",
+      "course_number": "560",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BROWN, HELEN JEAN"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "30",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "NURS 560 01W",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=560&section=01W&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Waitlist for NURS 560-001",
+      "subject_code": "NURS",
+      "course_number": "560",
+      "section_number": "01W",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "30",
+      "currentlyRegistered": "0",
+      "generalRemaining": "30",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

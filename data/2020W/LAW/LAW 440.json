@@ -1,1 +1,44 @@
-{"course_name":"LAW 440","subject_code":"LAW","course_number":"440","course_title":"Insurance Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=440&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"LAW 440 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=440&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Mon","start":"18:00","end":"21:00","comments":"*Cross-listed with LAW 540.001*","subject_code":"LAW","course_number":"440","section_number":"001","building":" ","room":"","instructors":["BANK, JORDAN","DOYLE, JAMES"],"totalRemaining":"24","currentlyRegistered":"26","generalRemaining":"24","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"The general legal principles of life, automobile, fire and other types of insurance; the regulation of the insurance industry."}
+{
+  "course_name": "LAW 440",
+  "subject_code": "LAW",
+  "course_number": "440",
+  "course_title": "Insurance Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=440&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "LAW 440 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=440&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "18:00",
+      "end": "21:00",
+      "comments": "*Cross-listed with LAW 540.001*",
+      "subject_code": "LAW",
+      "course_number": "440",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BANK, JORDAN",
+        "DOYLE, JAMES"
+      ],
+      "totalRemaining": "24",
+      "currentlyRegistered": "26",
+      "generalRemaining": "24",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "The general legal principles of life, automobile, fire and other types of insurance; the regulation of the insurance industry.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

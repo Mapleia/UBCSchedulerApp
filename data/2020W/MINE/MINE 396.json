@@ -1,1 +1,45 @@
-{"course_name":"MINE 396","subject_code":"MINE","course_number":"396","course_title":"Engineering Economics","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=396&sessyr=2020&sesscd=W","sections":{"101":{"status":"STT","section":"MINE 396 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=396&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"MINE","course_number":"396","section_number":"101","building":" ","room":"","instructors":["LOPES DA COSTA, JOSE","CEBECI, AYSE TUGBA(Lead)"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Discrete and continuous cash flow models, discounted cash flow analysis, effects of depreciation and taxes, economic analysis of projects, sensitivity and risk analysis, financing and cost of capital."}
+{
+  "course_name": "MINE 396",
+  "subject_code": "MINE",
+  "course_number": "396",
+  "course_title": "Engineering Economics",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MINE&course=396&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "STT",
+      "section": "MINE 396 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MINE&course=396&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "MINE",
+      "course_number": "396",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "LOPES DA COSTA, JOSE",
+        "CEBECI, AYSE TUGBA(Lead)"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Discrete and continuous cash flow models, discounted cash flow analysis, effects of depreciation and taxes, economic analysis of projects, sensitivity and risk analysis, financing and cost of capital.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

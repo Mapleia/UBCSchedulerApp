@@ -1,1 +1,70 @@
-{"course_name":"ARCH 555A","subject_code":"ARCH","course_number":"555A","course_title":"Co-operative Education - CO-OP EDUC I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=555A&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"ARCH 555A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=555A&section=001&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ARCH","course_number":"555A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["JOHNSON, GREGORY"],"totalRemaining":"4","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"4"},"002":{"status":"Blocked","section":"ARCH 555A 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=555A&section=002&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ARCH","course_number":"555A","section_number":"002","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"5","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"5"}},"credits":"Credits: 3","description":"Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required."}
+{
+  "course_name": "ARCH 555A",
+  "subject_code": "ARCH",
+  "course_number": "555A",
+  "course_title": "Co-operative Education - CO-OP EDUC I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ARCH&course=555A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ARCH 555A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=555A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "555A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "JOHNSON, GREGORY"
+      ],
+      "totalRemaining": "4",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "4"
+    },
+    {
+      "status": "Blocked",
+      "section": "ARCH 555A 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ARCH&course=555A&section=002&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ARCH",
+      "course_number": "555A",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "5",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "5"
+    }
+  ],
+  "credits": 3,
+  "description": "Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}

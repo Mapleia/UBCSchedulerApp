@@ -1,1 +1,121 @@
-{"course_name":"LAW 231","subject_code":"LAW","course_number":"231","course_title":"Property Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=231&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 231 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=001&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"","subject_code":"LAW","course_number":"231","section_number":"001","building":"Allard Hall (LAW)","room":"122","instructors":["HARRIS, DOUGLAS"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"002":{"status":"Blocked","section":"LAW 231 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=002&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"","subject_code":"LAW","course_number":"231","section_number":"002","building":"Allard Hall (LAW)","room":"123","instructors":["PAVLICH, DENNIS"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"003":{"status":"Blocked","section":"LAW 231 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=003&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"","subject_code":"LAW","course_number":"231","section_number":"003","building":"Allard Hall (LAW)","room":"105","instructors":["WOOD, JOHN"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""},"004":{"status":"Blocked","section":"LAW 231 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=004&sessyr=2020&sesscd=W","activity":"Lecture","term":"1","interval":"","days":" Wed","start":"14:00","end":"15:30","comments":"","subject_code":"LAW","course_number":"231","section_number":"004","building":"Allard Hall (LAW)","room":"104","instructors":["REYNOLDS, GRAHAM"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 5","description":"The legal concept of ownership and its changing nature and application, including equitable principles, the acquisition and transfer of interests, the regulation of use, Aboriginal title, and statute-based systems for registering interests in land."}
+{
+  "course_name": "LAW 231",
+  "subject_code": "LAW",
+  "course_number": "231",
+  "course_title": "Property Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=231&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 231 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=001&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "231",
+      "section_number": "001",
+      "building": "Allard Hall (LAW)",
+      "room": "122",
+      "instructors": [
+        "HARRIS, DOUGLAS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 231 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=002&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "231",
+      "section_number": "002",
+      "building": "Allard Hall (LAW)",
+      "room": "123",
+      "instructors": [
+        "PAVLICH, DENNIS"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 231 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=003&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "231",
+      "section_number": "003",
+      "building": "Allard Hall (LAW)",
+      "room": "105",
+      "instructors": [
+        "WOOD, JOHN"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    },
+    {
+      "status": "Blocked",
+      "section": "LAW 231 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=231&section=004&sessyr=2020&sesscd=W",
+      "activity": "Lecture",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "14:00",
+      "end": "15:30",
+      "comments": "",
+      "subject_code": "LAW",
+      "course_number": "231",
+      "section_number": "004",
+      "building": "Allard Hall (LAW)",
+      "room": "104",
+      "instructors": [
+        "REYNOLDS, GRAHAM"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 5,
+  "description": "The legal concept of ownership and its changing nature and application, including equitable principles, the acquisition and transfer of interests, the regulation of use, Aboriginal title, and statute-based systems for registering interests in land.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Lecture"
+  ]
+}

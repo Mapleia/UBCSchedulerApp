@@ -1,1 +1,100 @@
-{"course_name":"MUSC 150A","subject_code":"MUSC","course_number":"150A","course_title":"Large Instrumental Ensemble - LRGE INST ENSEMB","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=150A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"MUSC 150A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=001&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"MUSC 150A Large Instrumental Ensemble - UBC Symphony Orchestra, Symphonic Wind Ensemble, and Concert WindsOpen only to undergraduate students (see MUSC 550a for graduate registration).REGISTER IN MUSC 150A, THEN SELECT THE APPROPRIATE TUTORIAL:String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors. Please keep potential scheduling conflicts with all rehearsal times in mind when registering for other classes. All large instrumental ensembles rehearse and perform in the Chan Centre for the Performing Arts and produce four to six concerts per season.May be repeated for credit. Open to other students by audition, with credit, as stipulated by their faculties. While every effort is made to place students in appropriate ensembles based upon audition results, those taking this course as an elective are advised to have an alternate course ready in the unlikely case where an ensemble placement is not available. Entrance by audition each September. For more info: http://music.ubc.ca/student-ensembles","subject_code":"MUSC","course_number":"150A","section_number":"001","building":"No Scheduled Meeting","room":"","instructors":["GIRARD, JONATHAN","TAYLOR, ROBERT"],"totalRemaining":"82","currentlyRegistered":"118","generalRemaining":"82","restrictedRemaining":"0"},"T01":{"status":" ","section":"MUSC 150A T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=T01&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Tue Thu","start":"16:00","end":"19:00","comments":"String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors.","subject_code":"MUSC","course_number":"150A","section_number":"T01","building":"Chan Centre","room":"141","instructors":["GIRARD, JONATHAN","TAYLOR, ROBERT"],"totalRemaining":"108","currentlyRegistered":"42","generalRemaining":"108","restrictedRemaining":"0"},"T02":{"status":" ","section":"MUSC 150A T02","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=T02&sessyr=2020&sesscd=W","activity":"Rehearsal","term":"1-2","interval":"","days":" Mon Wed","start":"15:00","end":"18:00","comments":"String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors.","subject_code":"MUSC","course_number":"150A","section_number":"T02","building":"Chan Centre","room":"141","instructors":["GIRARD, JONATHAN","TAYLOR, ROBERT"],"totalRemaining":"74","currentlyRegistered":"76","generalRemaining":"74","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties."}
+{
+  "course_name": "MUSC 150A",
+  "subject_code": "MUSC",
+  "course_number": "150A",
+  "course_title": "Large Instrumental Ensemble - LRGE INST ENSEMB",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MUSC&course=150A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MUSC 150A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "MUSC 150A Large Instrumental Ensemble - UBC Symphony Orchestra, Symphonic Wind Ensemble, and Concert WindsOpen only to undergraduate students (see MUSC 550a for graduate registration).REGISTER IN MUSC 150A, THEN SELECT THE APPROPRIATE TUTORIAL:String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors. Please keep potential scheduling conflicts with all rehearsal times in mind when registering for other classes. All large instrumental ensembles rehearse and perform in the Chan Centre for the Performing Arts and produce four to six concerts per season.May be repeated for credit. Open to other students by audition, with credit, as stipulated by their faculties. While every effort is made to place students in appropriate ensembles based upon audition results, those taking this course as an elective are advised to have an alternate course ready in the unlikely case where an ensemble placement is not available. Entrance by audition each September. For more info: http://music.ubc.ca/student-ensembles",
+      "subject_code": "MUSC",
+      "course_number": "150A",
+      "section_number": "001",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "GIRARD, JONATHAN",
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "82",
+      "currentlyRegistered": "118",
+      "generalRemaining": "82",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 150A T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "16:00",
+      "end": "19:00",
+      "comments": "String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors.",
+      "subject_code": "MUSC",
+      "course_number": "150A",
+      "section_number": "T01",
+      "building": "Chan Centre",
+      "room": "141",
+      "instructors": [
+        "GIRARD, JONATHAN",
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "108",
+      "currentlyRegistered": "42",
+      "generalRemaining": "108",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "MUSC 150A T02",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MUSC&course=150A&section=T02&sessyr=2020&sesscd=W",
+      "activity": "Rehearsal",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "15:00",
+      "end": "18:00",
+      "comments": "String majors should select Tutorial T01 and will rehearse Tuesday/Thursday only. All woodwind, brass, and percussion majors should select Tutorial T02 and will be assigned to Symphony Orchestra (TTH 4-7:00) and/or Symphonic Wind Ensemble (MW 3-6:00) and/or Concert Winds (MW 6-8:00) following auditions. Students may be called upon to rotate between ensembles, depending on the instrumental needs of the repertory being performed and at the discretion of the conductors.",
+      "subject_code": "MUSC",
+      "course_number": "150A",
+      "section_number": "T02",
+      "building": "Chan Centre",
+      "room": "141",
+      "instructors": [
+        "GIRARD, JONATHAN",
+        "TAYLOR, ROBERT"
+      ],
+      "totalRemaining": "74",
+      "currentlyRegistered": "76",
+      "generalRemaining": "74",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be repeated for credit in accordance with program requirements for B.Mus. or B.A. in Music. Open to other students by audition, with credit, as stipulated by their faculties.",
+  "terms": [
+    "1-2"
+  ],
+  "activities": [
+    "Rehearsal"
+  ]
+}

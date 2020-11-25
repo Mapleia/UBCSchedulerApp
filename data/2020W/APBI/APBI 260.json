@@ -1,1 +1,132 @@
-{"course_name":"APBI 260","subject_code":"APBI","course_number":"260","course_title":"Agroecology I: Introduction to principles and techniques","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=260&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"APBI 260 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"11:00","end":"12:00","comments":"Registered students will be contacted by the end of August; asynchronous options will be provided.","subject_code":"APBI","course_number":"260","section_number":"001","building":" ","room":"","instructors":["SMUKLER, SEAN","HANUSZAK, PATRICIA","JOHNSON, JENS","KERSEY, JORDAN","KESLER, RAELANI","LUNA PEREZ, ERIKA","NORGAARD, AMY","THOREAU, CHRIS"],"totalRemaining":"22","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"22"},"L01":{"status":"Restricted","section":"APBI 260 L01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=L01&sessyr=2020&sesscd=W","activity":"Laboratory","term":"1","interval":"","days":" Wed","start":"13:00","end":"16:00","comments":"Lab is Field Work, to be assigned by instructor. Registered students will be contacted by the end of August; asynchronous options will be provided.","subject_code":"APBI","course_number":"260","section_number":"L01","building":" ","room":"","instructors":["SMUKLER, SEAN"],"totalRemaining":"25","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"25"},"T01":{"status":"Restricted","section":"APBI 260 T01","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=T01&sessyr=2020&sesscd=W","activity":"Discussion","term":"1","interval":"","days":" Mon","start":"13:00","end":"16:00","comments":"Registered students will be contacted by the end of August; asynchronous options will be provided.","subject_code":"APBI","course_number":"260","section_number":"T01","building":" ","room":"","instructors":["SMUKLER, SEAN"],"totalRemaining":"25","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"25"},"0W1":{"status":" ","section":"APBI 260 0W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=0W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"This is a Wait List Section for APBI 260 001.  Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.","subject_code":"APBI","course_number":"260","section_number":"0W1","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 6","description":"Biophysical and socioeconomic factors affecting systems management and production in selected agroecosystems."}
+{
+  "course_name": "APBI 260",
+  "subject_code": "APBI",
+  "course_number": "260",
+  "course_title": "Agroecology I: Introduction to principles and techniques",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=APBI&course=260&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "APBI 260 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "Registered students will be contacted by the end of August; asynchronous options will be provided.",
+      "subject_code": "APBI",
+      "course_number": "260",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMUKLER, SEAN",
+        "HANUSZAK, PATRICIA",
+        "JOHNSON, JENS",
+        "KERSEY, JORDAN",
+        "KESLER, RAELANI",
+        "LUNA PEREZ, ERIKA",
+        "NORGAARD, AMY",
+        "THOREAU, CHRIS"
+      ],
+      "totalRemaining": "22",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "22"
+    },
+    {
+      "status": "Restricted",
+      "section": "APBI 260 L01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=L01&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Lab is Field Work, to be assigned by instructor. Registered students will be contacted by the end of August; asynchronous options will be provided.",
+      "subject_code": "APBI",
+      "course_number": "260",
+      "section_number": "L01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMUKLER, SEAN"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": "Restricted",
+      "section": "APBI 260 T01",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=T01&sessyr=2020&sesscd=W",
+      "activity": "Discussion",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "13:00",
+      "end": "16:00",
+      "comments": "Registered students will be contacted by the end of August; asynchronous options will be provided.",
+      "subject_code": "APBI",
+      "course_number": "260",
+      "section_number": "T01",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "SMUKLER, SEAN"
+      ],
+      "totalRemaining": "25",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "25"
+    },
+    {
+      "status": " ",
+      "section": "APBI 260 0W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=APBI&course=260&section=0W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "This is a Wait List Section for APBI 260 001.  Students will be moved according to their priority on the waitlist if space becomes available. All queries should be directed to the Faculty of Land and Food Systems Student Services at students@landfood.ubc.ca.",
+      "subject_code": "APBI",
+      "course_number": "260",
+      "section_number": "0W1",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 6,
+  "description": "Biophysical and socioeconomic factors affecting systems management and production in selected agroecosystems.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Discussion",
+    "Waiting List"
+  ]
+}

@@ -1,1 +1,43 @@
-{"course_name":"POLI 462","subject_code":"POLI","course_number":"462","course_title":"International Relations Theory","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=462&sessyr=2020&sesscd=W","sections":{"002":{"status":"Full","section":"POLI 462 002","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=462&section=002&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Wed","start":"9:00","end":"12:00","comments":"This seminar will be crosslisted with POLI 563A","subject_code":"POLI","course_number":"462","section_number":"002","building":"Buchanan","room":"D319","instructors":["BYERS, MICHAEL"],"totalRemaining":"0","currentlyRegistered":"8","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"This seminar examines some of the major theoretical approaches to the study of international relations. For specific content in a given year, consult the departmental website."}
+{
+  "course_name": "POLI 462",
+  "subject_code": "POLI",
+  "course_number": "462",
+  "course_title": "International Relations Theory",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=POLI&course=462&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "POLI 462 002",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=POLI&course=462&section=002&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "09:00",
+      "end": "12:00",
+      "comments": "This seminar will be crosslisted with POLI 563A",
+      "subject_code": "POLI",
+      "course_number": "462",
+      "section_number": "002",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BYERS, MICHAEL"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "8",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "This seminar examines some of the major theoretical approaches to the study of international relations. For specific content in a given year, consult the departmental website.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

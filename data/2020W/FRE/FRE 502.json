@@ -1,1 +1,44 @@
-{"course_name":"FRE 502","subject_code":"FRE","course_number":"502","course_title":"Food Market Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=502&sessyr=2020&sesscd=W","sections":{"001":{"status":"Restricted","section":"FRE 502 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=502&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Mon Wed","start":"9:30","end":"11:30","comments":"Restricted to students registered in MFRE","subject_code":"FRE","course_number":"502","section_number":"001","building":"West Mall Swing Space","room":"221","instructors":["BARICHELLO, RICHARD"],"totalRemaining":"9","currentlyRegistered":"36","generalRemaining":"0","restrictedRemaining":"9"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "FRE 502",
+  "subject_code": "FRE",
+  "course_number": "502",
+  "course_title": "Food Market Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=FRE&course=502&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "FRE 502 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=FRE&course=502&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED"
+      ],
+      "start": "09:30",
+      "end": "11:30",
+      "comments": "Restricted to students registered in MFRE",
+      "subject_code": "FRE",
+      "course_number": "502",
+      "section_number": "001",
+      "building": "West Mall Swing Space",
+      "room": "221",
+      "instructors": [
+        "BARICHELLO, RICHARD"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "36",
+      "generalRemaining": "0",
+      "restrictedRemaining": "9"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

@@ -1,1 +1,128 @@
-{"course_name":"BIOL 430","subject_code":"BIOL","course_number":"430","course_title":"Genome Evolution","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=430&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"BIOL 430 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=101&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"","subject_code":"BIOL","course_number":"430","section_number":"101","building":" ","room":"","instructors":["ADAMS, KEITH","BAILEY, RYAN"],"totalRemaining":"2","currentlyRegistered":"28","generalRemaining":"2","restrictedRemaining":"0"},"102":{"status":"Blocked","section":"BIOL 430 102","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=102&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"","subject_code":"BIOL","course_number":"430","section_number":"102","building":" ","room":"","instructors":["ADAMS, KEITH","BAILEY, RYAN"],"totalRemaining":"1","currentlyRegistered":"29","generalRemaining":"1","restrictedRemaining":"0"},"1W1":{"status":"Blocked","section":"BIOL 430 1W1","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=1W1&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"8:00","end":"9:30","comments":"This is the wait-list for BIOL 430-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"430","section_number":"1W1","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"1W2":{"status":"Blocked","section":"BIOL 430 1W2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=1W2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"1","interval":"","days":" Tue Thu","start":"9:30","end":"11:00","comments":"This is the wait-list for BIOL 430-102.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.","subject_code":"BIOL","course_number":"430","section_number":"1W2","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Integration of molecular genetics and genomics with evolutionary biology. Emphasis on the evolutionary dynamics of genomes and the evolutionary implications of recent discoveries in molecular genetics and genomics."}
+{
+  "course_name": "BIOL 430",
+  "subject_code": "BIOL",
+  "course_number": "430",
+  "course_title": "Genome Evolution",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=BIOL&course=430&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "BIOL 430 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=101&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "430",
+      "section_number": "101",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADAMS, KEITH",
+        "BAILEY, RYAN"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "28",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 430 102",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=102&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "",
+      "subject_code": "BIOL",
+      "course_number": "430",
+      "section_number": "102",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "ADAMS, KEITH",
+        "BAILEY, RYAN"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "29",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 430 1W1",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=1W1&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "08:00",
+      "end": "09:30",
+      "comments": "This is the wait-list for BIOL 430-101.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "430",
+      "section_number": "1W1",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "BIOL 430 1W2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=BIOL&course=430&section=1W2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "09:30",
+      "end": "11:00",
+      "comments": "This is the wait-list for BIOL 430-102.  Please do not contact course instructors about registration issues, as course registrations/ wait-lists are managed by the program office.  Students are moved in chronological order from the wait-list into the course as space becomes available.  Timetables may be modified to allow for conflict-free registration.  It is the students\u0019 responsibility to check SSC for registration changes.  Information on wait-list positioning will not be provided.",
+      "subject_code": "BIOL",
+      "course_number": "430",
+      "section_number": "1W2",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Integration of molecular genetics and genomics with evolutionary biology. Emphasis on the evolutionary dynamics of genomes and the evolutionary implications of recent discoveries in molecular genetics and genomics.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Waiting List"
+  ]
+}

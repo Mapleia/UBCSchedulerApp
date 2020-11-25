@@ -1,1 +1,73 @@
-{"course_name":"ENVR 410","subject_code":"ENVR","course_number":"410","course_title":"Energy, Environment, and Society","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENVR&course=410&sessyr=2020&sesscd=W","sections":{"201":{"status":"Restricted","section":"ENVR 410 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=410&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Tue Thu","start":"11:00","end":"12:30","comments":"","subject_code":"ENVR","course_number":"410","section_number":"201","building":"Biological Sciences","room":"2200","instructors":["GIANG, AMANDA","SATTERFIELD, THERESA"],"totalRemaining":"2","currentlyRegistered":"48","generalRemaining":"0","restrictedRemaining":"2"}},"credits":"Credits: 3","description":"The role of energy in human societies throughout history and the environmental and social implications of energy use.  Coverage of both the science and policy of energy use.  Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives."}
+{
+  "course_name": "ENVR 410",
+  "subject_code": "ENVR",
+  "course_number": "410",
+  "course_title": "Energy, Environment, and Society",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ENVR&course=410&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "ENVR 410 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=410&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:30",
+      "comments": "",
+      "subject_code": "ENVR",
+      "course_number": "410",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIANG, AMANDA",
+        "SATTERFIELD, THERESA"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "49",
+      "generalRemaining": "0",
+      "restrictedRemaining": "1"
+    },
+    {
+      "status": "Restricted",
+      "section": "ENVR 410 202",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ENVR&course=410&section=202&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE",
+        "THU"
+      ],
+      "start": "18:30",
+      "end": "20:00",
+      "comments": "",
+      "subject_code": "ENVR",
+      "course_number": "410",
+      "section_number": "202",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "GIANG, AMANDA",
+        "SATTERFIELD, THERESA"
+      ],
+      "totalRemaining": "47",
+      "currentlyRegistered": "3",
+      "generalRemaining": "0",
+      "restrictedRemaining": "47"
+    }
+  ],
+  "credits": 3,
+  "description": "The role of energy in human societies throughout history and the environmental and social implications of energy use.  Coverage of both the science and policy of energy use.  Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

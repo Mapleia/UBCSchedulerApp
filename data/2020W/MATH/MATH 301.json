@@ -1,1 +1,45 @@
-{"course_name":"MATH 301","subject_code":"MATH","course_number":"301","course_title":"Applied Analysis","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=301&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MATH 301 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=301&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"11:00","end":"12:00","comments":"The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.","subject_code":"MATH","course_number":"301","section_number":"201","building":"Mathematics","room":"102","instructors":["FROESE, RICHARD GERD"],"totalRemaining":"8","currentlyRegistered":"52","generalRemaining":"8","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Integrals involving multi-valued functions, conformal mapping and applications, analytic continuation, Laplace and Fourier transforms."}
+{
+  "course_name": "MATH 301",
+  "subject_code": "MATH",
+  "course_number": "301",
+  "course_title": "Applied Analysis",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MATH&course=301&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MATH 301 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MATH&course=301&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "The SIS will enforce automatically prerequisites for this course.  Students will not be able to register themselves if they do not have the correct prerequisites.  If you need to get your UBC file updated with qualifications such as Transfer Credits, take care of that by sending documentation to admissions.inquiry@ubc.ca.",
+      "subject_code": "MATH",
+      "course_number": "301",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "FROESE, RICHARD GERD"
+      ],
+      "totalRemaining": "2",
+      "currentlyRegistered": "58",
+      "generalRemaining": "2",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Integrals involving multi-valued functions, conformal mapping and applications, analytic continuation, Laplace and Fourier transforms.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

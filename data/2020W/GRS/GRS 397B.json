@@ -1,1 +1,70 @@
-{"course_name":"GRS 397B","subject_code":"GRS","course_number":"397B","course_title":"Regional Directed Field Studies - REG DIR FLD STUD","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRS&course=397B&sessyr=2020&sesscd=W","sections":{"003":{"status":"Blocked","section":"GRS 397B 003","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=397B&section=003&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1-2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GRS","course_number":"397B","section_number":"003","building":"No Scheduled Meeting","room":"","instructors":["LAVKULICH, LESLIE"],"totalRemaining":"10","currentlyRegistered":"0","generalRemaining":"10","restrictedRemaining":"0"},"004":{"status":"Blocked","section":"GRS 397B 004","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=397B&section=004&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GRS","course_number":"397B","section_number":"004","building":"No Scheduled Meeting","room":"","instructors":["LAVKULICH, LESLIE"],"totalRemaining":"3","currentlyRegistered":"2","generalRemaining":"3","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Participating students may be assessed a fee."}
+{
+  "course_name": "GRS 397B",
+  "subject_code": "GRS",
+  "course_number": "397B",
+  "course_title": "Regional Directed Field Studies - REG DIR FLD STUD",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GRS&course=397B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GRS 397B 003",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=397B&section=003&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1-2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GRS",
+      "course_number": "397B",
+      "section_number": "003",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAVKULICH, LESLIE"
+      ],
+      "totalRemaining": "10",
+      "currentlyRegistered": "0",
+      "generalRemaining": "10",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GRS 397B 004",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GRS&course=397B&section=004&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GRS",
+      "course_number": "397B",
+      "section_number": "004",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "LAVKULICH, LESLIE"
+      ],
+      "totalRemaining": "3",
+      "currentlyRegistered": "2",
+      "generalRemaining": "3",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Participating students may be assessed a fee.",
+  "terms": [
+    "1",
+    "1-2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

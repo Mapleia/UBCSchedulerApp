@@ -1,1 +1,43 @@
-{"course_name":"NURS 508","subject_code":"NURS","course_number":"508","course_title":"Pathophysiological Processes for Nurse Practitioners","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=508&sessyr=2020&sesscd=W","sections":{"001":{"status":"Full","section":"NURS 508 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=508&section=001&sessyr=2020&sesscd=W","activity":"Web-Oriented Course","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 1st Year MN-NP students.The purpose of this course is to provide the students' with the theory and knowledge necessary to understand human physiological responses in health and illness. Emphasis will be placed on understanding the normal anatomy and physiology, the pathophysiology and the adaptive responses underlying common acute and chronic conditions found in the Canadian population. In addition, the influence of age, gender, ethnic background and socioeconomic status will be reviewed for the selected illnesses.","subject_code":"NURS","course_number":"508","section_number":"001","building":" ","room":"","instructors":["BURROWS, MARLENE"],"totalRemaining":"0","currentlyRegistered":"33","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "NURS 508",
+  "subject_code": "NURS",
+  "course_number": "508",
+  "course_title": "Pathophysiological Processes for Nurse Practitioners",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=NURS&course=508&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Full",
+      "section": "NURS 508 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=NURS&course=508&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "IF course is FULL please contact School of Nursing Student Support Office (academic.support@nursing.ubc.ca)This section is prioritized for 1st Year MN-NP students.The purpose of this course is to provide the students' with the theory and knowledge necessary to understand human physiological responses in health and illness. Emphasis will be placed on understanding the normal anatomy and physiology, the pathophysiology and the adaptive responses underlying common acute and chronic conditions found in the Canadian population. In addition, the influence of age, gender, ethnic background and socioeconomic status will be reviewed for the selected illnesses.",
+      "subject_code": "NURS",
+      "course_number": "508",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "BURROWS, MARLENE"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "33",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

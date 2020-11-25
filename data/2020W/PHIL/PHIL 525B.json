@@ -1,1 +1,43 @@
-{"course_name":"PHIL 525B","subject_code":"PHIL","course_number":"525B","course_title":"Philosophy of Language - PHIL OF LANGUAGE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=525B&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 525B 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=525B&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"","subject_code":"PHIL","course_number":"525B","section_number":"001","building":" ","room":"","instructors":["PRUEITT, CATHERINE"],"totalRemaining":"19","currentlyRegistered":"6","generalRemaining":"19","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHIL 525B",
+  "subject_code": "PHIL",
+  "course_number": "525B",
+  "course_title": "Philosophy of Language - PHIL OF LANGUAGE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=525B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 525B 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=525B&section=001&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "This course will meet remotely via Zoom. If it is at all possible, I highly encourage synchronous attendance. Each of our sessions will be guided by a student and focused on discussion of the materials, with me providing additional context as needed based on the questions that arise. If it's just not at all possible for you to attend synchronously, we will try to work something out. Depending on the number of students who enroll, you'll guide discussion either once or twice during the semester. You'll need to be able to attend at least for those sessions.",
+      "subject_code": "PHIL",
+      "course_number": "525B",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PRUEITT, CATHERINE"
+      ],
+      "totalRemaining": "21",
+      "currentlyRegistered": "4",
+      "generalRemaining": "21",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

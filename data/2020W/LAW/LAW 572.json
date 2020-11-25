@@ -1,1 +1,43 @@
-{"course_name":"LAW 572","subject_code":"LAW","course_number":"572","course_title":"Cyberspace Law","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=572&sessyr=2020&sesscd=W","sections":{"001":{"status":"Blocked","section":"LAW 572 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=572&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Mon","start":"9:30","end":"12:30","comments":"*Cross-listed with LAW 425D.001*","subject_code":"LAW","course_number":"572","section_number":"001","building":" ","room":"","instructors":["MATSUI, SHIGENORI"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Legal issues arising from the development of the Internet and cyberspace. Credit will only be granted for one of LAW 572 or LAW 425."}
+{
+  "course_name": "LAW 572",
+  "subject_code": "LAW",
+  "course_number": "572",
+  "course_title": "Cyberspace Law",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=LAW&course=572&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "LAW 572 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=LAW&course=572&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "09:30",
+      "end": "12:30",
+      "comments": "*Cross-listed with LAW 425D.001*",
+      "subject_code": "LAW",
+      "course_number": "572",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "MATSUI, SHIGENORI"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Legal issues arising from the development of the Internet and cyberspace. Credit will only be granted for one of LAW 572 or LAW 425.",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

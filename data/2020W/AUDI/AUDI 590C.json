@@ -1,1 +1,43 @@
-{"course_name":"AUDI 590C","subject_code":"AUDI","course_number":"590C","course_title":"Speech-Language Pathology Practicum I - SP-LG PATH PR I","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=590C&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"AUDI 590C 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=590C&section=001&sessyr=2020&sesscd=W","activity":"Practicum","term":"1","interval":"","days":" Mon","start":"8:00","end":"9:00","comments":"","subject_code":"AUDI","course_number":"590C","section_number":"001","building":"To Be Announced","room":"","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"34","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "AUDI 590C",
+  "subject_code": "AUDI",
+  "course_number": "590C",
+  "course_title": "Speech-Language Pathology Practicum I - SP-LG PATH PR I",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=AUDI&course=590C&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "AUDI 590C 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=AUDI&course=590C&section=001&sessyr=2020&sesscd=W",
+      "activity": "Practicum",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "08:00",
+      "end": "09:00",
+      "comments": "",
+      "subject_code": "AUDI",
+      "course_number": "590C",
+      "section_number": "001",
+      "building": "To Be Announced",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "34",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Practicum"
+  ]
+}

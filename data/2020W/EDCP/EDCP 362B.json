@@ -1,1 +1,43 @@
-{"course_name":"EDCP 362B","subject_code":"EDCP","course_number":"362B","course_title":"Curriculum Design and Evaluation: Practical and Theoretical Issues - CURR DES & EVAL","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=362B&sessyr=2020&sesscd=W","sections":{"301":{"status":"Restricted","section":"EDCP 362B 301","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=362B&section=301&sessyr=2020&sesscd=W","activity":"Distance Education","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"Textile Studies presents unique challenges for home economics teachers. This course will focus on the practical and conceptual issues of developing and evaluating secondary school textile studies curricula.  This course will be offered online.","subject_code":"EDCP","course_number":"362B","section_number":"301","building":" ","room":"","instructors":["HAY, CATHERINE"],"totalRemaining":"6","currentlyRegistered":"6","generalRemaining":"0","restrictedRemaining":"6"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 362B",
+  "subject_code": "EDCP",
+  "course_number": "362B",
+  "course_title": "Curriculum Design and Evaluation: Practical and Theoretical Issues - CURR DES & EVAL",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=362B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Restricted",
+      "section": "EDCP 362B 301",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=362B&section=301&sessyr=2020&sesscd=W",
+      "activity": "Distance Education",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "Textile Studies presents unique challenges for home economics teachers. This course will focus on the practical and conceptual issues of developing and evaluating secondary school textile studies curricula.  This course will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "362B",
+      "section_number": "301",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "HAY, CATHERINE"
+      ],
+      "totalRemaining": "7",
+      "currentlyRegistered": "5",
+      "generalRemaining": "0",
+      "restrictedRemaining": "7"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Distance Education"
+  ]
+}

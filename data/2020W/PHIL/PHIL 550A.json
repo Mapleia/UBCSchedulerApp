@@ -1,1 +1,43 @@
-{"course_name":"PHIL 550A","subject_code":"PHIL","course_number":"550A","course_title":"Metaphysics - METAPHYSICS","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=550A&sessyr=2020&sesscd=W","sections":{"001":{"status":" ","section":"PHIL 550A 001","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=550A&section=001&sessyr=2020&sesscd=W","activity":"Seminar","term":"1","interval":"","days":" Tue","start":"14:00","end":"17:00","comments":"Death and the Self: This seminar will focus on the metaphysics and phenomenology of the self and death. We will examine a wide range of topics, including how to conceptualize and define death, the social construction of death, dying as a transformative experience, near-death experiences, the denial of death and terror management theory, \"being-toward-death,\" death and temporality, and grief.Readings: TBD, but will begin with Francoise Dastur's, \"How Are We to Confront Death? An Introduction to Philosophy,\" followed by J.J. Valberg's, \"Dream, Death, and the Self.\"Assignments: (i) mid-term paper, (ii) final paper.COVID-19 notice: This seminar will happen remotely via video conferencing.","subject_code":"PHIL","course_number":"550A","section_number":"001","building":" ","room":"","instructors":["THOMPSON, EVAN"],"totalRemaining":"13","currentlyRegistered":"12","generalRemaining":"13","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "PHIL 550A",
+  "subject_code": "PHIL",
+  "course_number": "550A",
+  "course_title": "Metaphysics - METAPHYSICS",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=PHIL&course=550A&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "PHIL 550A 001",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=PHIL&course=550A&section=001&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "1",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:00",
+      "end": "17:00",
+      "comments": "Death and the Self: This seminar will focus on the metaphysics and phenomenology of the self and death. We will examine a wide range of topics, including how to conceptualize and define death, the social construction of death, dying as a transformative experience, near-death experiences, the denial of death and terror management theory, \"being-toward-death,\" death and temporality, and grief.Readings: TBD, but will begin with Francoise Dastur's, \"How Are We to Confront Death? An Introduction to Philosophy,\" followed by J.J. Valberg's, \"Dream, Death, and the Self.\"Assignments: (i) mid-term paper, (ii) final paper.COVID-19 notice: This seminar will happen remotely via video conferencing.",
+      "subject_code": "PHIL",
+      "course_number": "550A",
+      "section_number": "001",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "THOMPSON, EVAN"
+      ],
+      "totalRemaining": "13",
+      "currentlyRegistered": "12",
+      "generalRemaining": "13",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

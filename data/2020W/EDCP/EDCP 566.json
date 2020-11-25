@@ -1,1 +1,43 @@
-{"course_name":"EDCP 566","subject_code":"EDCP","course_number":"566","course_title":"Curriculum Change, Planning, and Implementation","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=566&sessyr=2020&sesscd=W","sections":{"032":{"status":" ","section":"EDCP 566 032","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=566&section=032&sessyr=2020&sesscd=W","activity":"Seminar","term":"2","interval":"","days":" Thu","start":"16:30","end":"19:30","comments":"","subject_code":"EDCP","course_number":"566","section_number":"032","building":"Neville Scarfe","room":"201","instructors":["PHELAN, ANNE"],"totalRemaining":"11","currentlyRegistered":"9","generalRemaining":"11","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "EDCP 566",
+  "subject_code": "EDCP",
+  "course_number": "566",
+  "course_title": "Curriculum Change, Planning, and Implementation",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=EDCP&course=566&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "EDCP 566 032",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=EDCP&course=566&section=032&sessyr=2020&sesscd=W",
+      "activity": "Seminar",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "16:30",
+      "end": "19:30",
+      "comments": "This section will be offered online.",
+      "subject_code": "EDCP",
+      "course_number": "566",
+      "section_number": "032",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "PHELAN, ANNE"
+      ],
+      "totalRemaining": "11",
+      "currentlyRegistered": "9",
+      "generalRemaining": "11",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Seminar"
+  ]
+}

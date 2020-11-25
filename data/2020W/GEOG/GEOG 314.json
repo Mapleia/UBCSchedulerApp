@@ -1,1 +1,230 @@
-{"course_name":"GEOG 314","subject_code":"GEOG","course_number":"314","course_title":"Analysing Environmental Problems","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=314&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"GEOG 314 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon","start":"14:00","end":"16:00","comments":"","subject_code":"GEOG","course_number":"314","section_number":"201","building":"Geography","room":"100","instructors":["DONNER, SIMON"],"totalRemaining":"11","currentlyRegistered":"139","generalRemaining":"11","restrictedRemaining":"0"},"L2A":{"status":" ","section":"GEOG 314 L2A","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2A&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"9:00","end":"10:00","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2A","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"13","currentlyRegistered":"12","generalRemaining":"13","restrictedRemaining":"0"},"L2B":{"status":"Full","section":"GEOG 314 L2B","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2B&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"10:00","end":"11:00","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2B","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"L2C":{"status":"Full","section":"GEOG 314 L2C","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2C&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Tue","start":"14:30","end":"15:30","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2C","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"L2D":{"status":" ","section":"GEOG 314 L2D","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2D&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"14:30","end":"15:30","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2D","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"9","currentlyRegistered":"16","generalRemaining":"9","restrictedRemaining":"0"},"L2E":{"status":" ","section":"GEOG 314 L2E","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2E&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Wed","start":"11:00","end":"12:00","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2E","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"1","currentlyRegistered":"24","generalRemaining":"1","restrictedRemaining":"0"},"L2F":{"status":"Full","section":"GEOG 314 L2F","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2F&sessyr=2020&sesscd=W","activity":"Laboratory","term":"2","interval":"","days":" Thu","start":"11:00","end":"12:00","comments":"","subject_code":"GEOG","course_number":"314","section_number":"L2F","building":"Geography","room":"201","instructors":["DONNER, SIMON"],"totalRemaining":"0","currentlyRegistered":"25","generalRemaining":"0","restrictedRemaining":"0"},"WL2":{"status":" ","section":"GEOG 314 WL2","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=WL2&sessyr=2020&sesscd=W","activity":"Waiting List","term":"2","interval":"","days":" ","start":"","end":"","comments":"Note: This is a wait list for GEOG 314, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.","subject_code":"GEOG","course_number":"314","section_number":"WL2","building":"","room":"","instructors":["25","0","25","0"],"totalRemaining":"","currentlyRegistered":"","generalRemaining":"","restrictedRemaining":""}},"credits":"Credits: 3","description":"Concepts and techniques employed in environmental research; challenges in the areas of climate change, water use, knowledge translation and natural hazards."}
+{
+  "course_name": "GEOG 314",
+  "subject_code": "GEOG",
+  "course_number": "314",
+  "course_title": "Analysing Environmental Problems",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOG&course=314&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "GEOG 314 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON"
+      ],
+      "start": "14:00",
+      "end": "16:00",
+      "comments": "Mix of asynchronous and synchronous components: Several synchronous online lectures held during the scheduled class time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "136",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 314 L2A",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2A&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "17:00",
+      "end": "18:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2A",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "14",
+      "currentlyRegistered": "11",
+      "generalRemaining": "14",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 314 L2B",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2B&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "10:00",
+      "end": "11:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2B",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 314 L2C",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2C&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "TUE"
+      ],
+      "start": "14:30",
+      "end": "15:30",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2C",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "1",
+      "currentlyRegistered": "24",
+      "generalRemaining": "1",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 314 L2D",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2D&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "14:30",
+      "end": "15:30",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2D",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "9",
+      "currentlyRegistered": "16",
+      "generalRemaining": "9",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 314 L2E",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2E&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "WED"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2E",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Full",
+      "section": "GEOG 314 L2F",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=L2F&sessyr=2020&sesscd=W",
+      "activity": "Laboratory",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "THU"
+      ],
+      "start": "11:00",
+      "end": "12:00",
+      "comments": "This online lab has a synchronous scheduled meeting time.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "L2F",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "DONNER, SIMON"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "25",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": " ",
+      "section": "GEOG 314 WL2",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOG&course=314&section=WL2&sessyr=2020&sesscd=W",
+      "activity": "Waiting List",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": "",
+      "end": "",
+      "comments": "Note: This is a wait list for GEOG 314, section 201, Term 2. You will be moved into active registration if space becomes available. Wait list does not guarantee placement in this course.",
+      "subject_code": "GEOG",
+      "course_number": "314",
+      "section_number": "WL2",
+      "building": "",
+      "room": "",
+      "instructors": [
+        "25",
+        "0",
+        "25",
+        "0"
+      ],
+      "totalRemaining": "",
+      "currentlyRegistered": "",
+      "generalRemaining": "",
+      "restrictedRemaining": ""
+    }
+  ],
+  "credits": 3,
+  "description": "Concepts and techniques employed in environmental research; challenges in the areas of climate change, water use, knowledge translation and natural hazards.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course",
+    "Laboratory",
+    "Waiting List"
+  ]
+}

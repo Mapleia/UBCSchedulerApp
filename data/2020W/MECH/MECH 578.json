@@ -1,1 +1,45 @@
-{"course_name":"MECH 578","subject_code":"MECH","course_number":"578","course_title":"Internal Combustion Engines","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=578&sessyr=2020&sesscd=W","sections":{"201":{"status":" ","section":"MECH 578 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=578&section=201&sessyr=2020&sesscd=W","activity":"Lecture","term":"2","interval":"","days":" Mon Wed Fri","start":"14:00","end":"15:00","comments":"","subject_code":"MECH","course_number":"578","section_number":"201","building":"UBC Life Building","room":"2212","instructors":["TBA"],"totalRemaining":"6","currentlyRegistered":"2","generalRemaining":"6","restrictedRemaining":"0"}},"credits":"Credits: 3","description":"Analysis of spark and compression ignition engines. Calculation of fuel economy, power and emission. Practical and regulatory considerations in engine design. Numerical engine modelling and analysis. Credit will be granted for only one of MECH 478 or MECH 578."}
+{
+  "course_name": "MECH 578",
+  "subject_code": "MECH",
+  "course_number": "578",
+  "course_title": "Internal Combustion Engines",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=MECH&course=578&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": " ",
+      "section": "MECH 578 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=MECH&course=578&section=201&sessyr=2020&sesscd=W",
+      "activity": "Web-Oriented Course",
+      "term": "2",
+      "interval": "",
+      "days": [
+        "MON",
+        "WED",
+        "FRI"
+      ],
+      "start": "14:00",
+      "end": "15:00",
+      "comments": "",
+      "subject_code": "MECH",
+      "course_number": "578",
+      "section_number": "201",
+      "building": " ",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "6",
+      "currentlyRegistered": "2",
+      "generalRemaining": "6",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": "Analysis of spark and compression ignition engines. Calculation of fuel economy, power and emission. Practical and regulatory considerations in engine design. Numerical engine modelling and analysis. Credit will be granted for only one of MECH 478 or MECH 578.",
+  "terms": [
+    "2"
+  ],
+  "activities": [
+    "Web-Oriented Course"
+  ]
+}

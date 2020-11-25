@@ -1,1 +1,70 @@
-{"course_name":"GEOB 448B","subject_code":"GEOB","course_number":"448B","course_title":"Directed Studies in Geographical Sciences - DRCT ST GEOGSCIE","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=448B&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"GEOB 448B 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=448B&section=101&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GEOB","course_number":"448B","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"GEOB 448B 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=448B&section=201&sessyr=2020&sesscd=W","activity":"Directed Studies","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"GEOB","course_number":"448B","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"0","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 4","description":"For fourth-year students in Geography to permit investigation of a topic to be agreed upon by a member of the faculty and the student. Permission of the department head and of a supervisory faculty member is required. Credit will be granted for only one of GEOB 448 or GEOG 448."}
+{
+  "course_name": "GEOB 448B",
+  "subject_code": "GEOB",
+  "course_number": "448B",
+  "course_title": "Directed Studies in Geographical Sciences - DRCT ST GEOGSCIE",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=GEOB&course=448B&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "GEOB 448B 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=448B&section=101&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GEOB",
+      "course_number": "448B",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "GEOB 448B 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=GEOB&course=448B&section=201&sessyr=2020&sesscd=W",
+      "activity": "Directed Studies",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "GEOB",
+      "course_number": "448B",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "0",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 4,
+  "description": "For fourth-year students in Geography to permit investigation of a topic to be agreed upon by a member of the faculty and the student. Permission of the department head and of a supervisory faculty member is required. Credit will be granted for only one of GEOB 448 or GEOG 448.",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Directed Studies"
+  ]
+}

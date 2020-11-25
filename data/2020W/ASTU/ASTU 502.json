@@ -1,1 +1,70 @@
-{"course_name":"ASTU 502","subject_code":"ASTU","course_number":"502","course_title":"Co-operative Work Placement 2","course_link":"/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=502&sessyr=2020&sesscd=W","sections":{"101":{"status":"Blocked","section":"ASTU 502 101","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=502&section=101&sessyr=2020&sesscd=W","activity":"Work Placement","term":"1","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTU","course_number":"502","section_number":"101","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"4","generalRemaining":"0","restrictedRemaining":"0"},"201":{"status":"Blocked","section":"ASTU 502 201","href":"/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=502&section=201&sessyr=2020&sesscd=W","activity":"Work Placement","term":"2","interval":"","days":" ","start":" ","end":" ","comments":"","subject_code":"ASTU","course_number":"502","section_number":"201","building":"No Scheduled Meeting","room":"","instructors":["TBA"],"totalRemaining":"0","currentlyRegistered":"1","generalRemaining":"0","restrictedRemaining":"0"}},"credits":"Credits: 3","description":" "}
+{
+  "course_name": "ASTU 502",
+  "subject_code": "ASTU",
+  "course_number": "502",
+  "course_title": "Co-operative Work Placement 2",
+  "course_link": "/cs/courseschedule?pname=subjarea&tname=subj-course&dept=ASTU&course=502&sessyr=2020&sesscd=W",
+  "sections": [
+    {
+      "status": "Blocked",
+      "section": "ASTU 502 101",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=502&section=101&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "1",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "502",
+      "section_number": "101",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "4",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    },
+    {
+      "status": "Blocked",
+      "section": "ASTU 502 201",
+      "href": "/cs/courseschedule?pname=subjarea&tname=subj-section&dept=ASTU&course=502&section=201&sessyr=2020&sesscd=W",
+      "activity": "Work Placement",
+      "term": "2",
+      "interval": "",
+      "days": [
+        ""
+      ],
+      "start": " ",
+      "end": " ",
+      "comments": "",
+      "subject_code": "ASTU",
+      "course_number": "502",
+      "section_number": "201",
+      "building": "No Scheduled Meeting",
+      "room": "",
+      "instructors": [
+        "TBA"
+      ],
+      "totalRemaining": "0",
+      "currentlyRegistered": "1",
+      "generalRemaining": "0",
+      "restrictedRemaining": "0"
+    }
+  ],
+  "credits": 3,
+  "description": " ",
+  "terms": [
+    "1",
+    "2"
+  ],
+  "activities": [
+    "Work Placement"
+  ]
+}
