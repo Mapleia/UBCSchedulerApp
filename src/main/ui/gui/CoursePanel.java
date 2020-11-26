@@ -2,6 +2,7 @@ package ui.gui;
 
 import exceptions.NoCourseFound;
 import model.Overview;
+import model.User;
 import persistence.JsonReader;
 
 import javax.swing.*;
@@ -21,6 +22,7 @@ public class CoursePanel extends JPanel {
     private JTextArea searchSuggestion;
     private DefaultListModel<String> courseListModel;
     private DefaultListModel<String> timePrefModel;
+    private JsonReader reader;
 
     // constructor
     public CoursePanel(SchedulerApp app) {
@@ -32,20 +34,11 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Initializes course choosing panel.
     private void init() {
+        reader = new JsonReader("./data/" + year + "/overview.json");
         courseListModel = new DefaultListModel<>();
         timePrefModel = new DefaultListModel<>();
-        if (app.getUser().getTimePref() != null) {
-            for (String item : app.getUser().getTimePref()) {
-                timePrefModel.addElement(item);
-            }
-            timePrefModel.removeElement("N/A");
-        } else {
-            timePrefModel.addElement("MORNING");
-            timePrefModel.addElement("AFTERNOON");
-            timePrefModel.addElement("EVENING");
-        }
+        timePrefInit();
 
-        //courseList = new HashSet<>();
         readOverview();
 
         add(createSettingsPanel());
@@ -56,6 +49,19 @@ public class CoursePanel extends JPanel {
 
         validate();
         repaint();
+    }
+
+    private void timePrefInit() {
+        if (app.getUser().getTimePref() != null) {
+            for (String item : app.getUser().getTimePref()) {
+                timePrefModel.addElement(item);
+            }
+            timePrefModel.removeElement("N/A");
+        } else {
+            timePrefModel.addElement("MORNING");
+            timePrefModel.addElement("AFTERNOON");
+            timePrefModel.addElement("EVENING");
+        }
     }
 
     public List<String> getDeptArr() {
@@ -86,7 +92,6 @@ public class CoursePanel extends JPanel {
 
     // EFFECT: Reads the year's overview JSON file.
     private void readOverview() {
-        JsonReader reader = new JsonReader("./data/" + year + "/overview.json");
         try {
             overview = reader.readOverview();
         } catch (IOException e) {
