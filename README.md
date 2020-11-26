@@ -34,6 +34,10 @@ It can also be used for the rest of my degree, given that the course database ge
 - Designed a class that is robust (User class, addCourses)
 - Use of map interface (HashMap for sectionMap in Course class)
 
+## Phase 4: Task 3
+- I would not refactor much because there is low level of coupling and high cohesion 
+- Maybe find a use for more abstract classes and interfaces.
+
 ## CREDITS
 Data found by downloading from https://ubc-courses-api.herokuapp.com/. 
 
