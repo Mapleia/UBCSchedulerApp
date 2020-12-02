@@ -10,33 +10,34 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 // Panel that shows the user their created timetable.
-public class SchedulePanel extends JPanel {
-    private final SchedulerApp app;
+public class SchedulePanel extends AppPanel {
     private HashMap<String, HashSet<Section>> timetable;
 
     // constructor
     public SchedulePanel(SchedulerApp app) {
-        this.app = app;
+        super(app);
 
-        setPreferredSize(new Dimension(SchedulerApp.WIDTH, SchedulerApp.HEIGHT));
-        init();
-    }
-
-    // initializer, populates the panel
-    private void init() {
         timetable = app.getTimeTable();
         setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
+        JPanel termsPanel = termsPanel();
+        add(saveFile());
+        add(termsPanel);
+        add(errorLogPanel());
+        controlPanel();
+    }
+
+    private JPanel termsPanel() {
         JPanel panel = new JPanel();
         panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
         panel.add(termPanel("1"));
         panel.add(termPanel("2"));
         panel.add(termPanel("1-2"));
-        add(saveFile());
-        add(panel);
-        add(errorLogPanel());
-        add(app.backButton(new CoursePanel(app)));
-        validate();
+        return panel;
+    }
 
+    @Override
+    public void controlPanel() {
+        add(app.backButton(new CoursePanel(app)));
     }
 
     // REQUIRES: term == "1", "2" or "1-2"
@@ -89,7 +90,7 @@ public class SchedulePanel extends JPanel {
                 writer.write(app.getUser());
                 writer.close();
                 JOptionPane.showMessageDialog(null,
-                        e.getActionCommand() + " was saved successfully.");
+                        fileName.getText() + " was saved successfully.");
             } catch (FileNotFoundException ex) {
                 JOptionPane.showMessageDialog(null,"An error was found writing your file.");
             }

@@ -1,29 +1,19 @@
 package ui.gui;
 
 import javax.swing.*;
-import java.awt.*;
 import java.io.File;
 
-public class StartPanel extends JPanel {
+public class StartPanel extends AppPanel implements GoNext {
     private File loadedFile;
-    private final SchedulerApp app;
 
     // constructor
     public StartPanel(SchedulerApp app) {
-        this.app = app;
-
-        init();
-    }
-
-    // Initializes the StartPanel.
-    public void init() {
-        setPreferredSize(new Dimension(SchedulerApp.WIDTH, SchedulerApp.HEIGHT));
+        super(app);
         setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
 
         ImageIcon icon = new ImageIcon("./data/logo.png");
         add(new JLabel("UBC Course Scheduler", icon, JLabel.CENTER));
-
-        buttonPanel();
+        controlPanel();
     }
 
     // EFFECT: Create button panel to load a file, or go to next menu.
@@ -31,11 +21,9 @@ public class StartPanel extends JPanel {
     // https://www.codejava.net/java-se/swing/jbutton-basic-tutorial-and-examples
     // referenced how to use JFileChooser from:
     // https://www.codejava.net/java-se/swing/show-simple-open-file-dialog-using-jfilechooser
-    private void buttonPanel() {
+    @Override
+    public void controlPanel() {
         JPanel panel = new JPanel();
-        panel.setLayout(new FlowLayout());
-
-
         JButton loadBtn = new JButton("Load File");
         loadBtn.setActionCommand("Load");
         panel.add(loadBtn);
@@ -50,12 +38,18 @@ public class StartPanel extends JPanel {
             }
         });
 
-        JButton nextBtn = new JButton("Next");
-        nextBtn.setActionCommand("Next");
+        JButton nextBtn = nextButton();
+
         panel.add(nextBtn);
 
-        nextBtn.addActionListener(e -> app.nextPanel(new CoursePanel(app)));
-
         add(panel);
+    }
+
+    @Override
+    public JButton nextButton() {
+        JButton nextBtn = new JButton("Next");
+        nextBtn.setActionCommand("Next");
+        nextBtn.addActionListener(e -> app.nextPanel(new CoursePanel(app)));
+        return nextBtn;
     }
 }

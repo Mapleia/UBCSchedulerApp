@@ -1,9 +1,6 @@
 package persistence;
 
-import model.Course;
-import model.Overview;
-import model.Section;
-import model.User;
+import model.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -65,7 +62,7 @@ public class JsonReaderTest {
         JsonReader reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
         try {
             Course course = reader.readCourse("2020W", Arrays.asList("MORNING", "AFTERNOON", "EVENING"));
-            course.sortSections();
+            SectionSorter.sortSections(course);
         } catch (IOException e) {
             fail("Couldn't read from file");
         }

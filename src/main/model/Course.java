@@ -1,6 +1,5 @@
 package model;
 
-
 import java.util.*;
 
 // Represents a course at UBC.
@@ -35,9 +34,25 @@ public class Course implements Comparable<Course> {
         sortSections = new HashMap<>();
     }
 
-    // getters ========================================================================================================
+    // getters & setter ================================================================================================
     public List<String> getTerms() {
         return termsList;
+    }
+
+    public List<Section> getSectionList() {
+        return sectionList;
+    }
+
+    public void setSectionList(List<Section> sectionList) {
+        this.sectionList = sectionList;
+    }
+
+    public void setActivitiesList(List<String> activitiesList) {
+        this.activitiesList = activitiesList;
+    }
+
+    public List<String> getPreferences() {
+        return preferences;
     }
 
     public HashMap<String, Section> getSectionsMap() {
@@ -69,34 +84,6 @@ public class Course implements Comparable<Course> {
                 activitiesList.add("Required");
             }
             sectionsMap.put(sec.getSection(), sec);
-        }
-    }
-
-    // MODIFIES: this
-    // EFFECTS: filters sections that is a part of the provided term.
-    public void filterForTerm(String term) {
-        List<String> filteredActivity = new ArrayList<>();
-        List<Section> filteredSections = new ArrayList<>();
-        for (Section section : sectionList) {
-            if (section.getTerm().equals(term)) {
-                if (!filteredActivity.contains(section.getActivity())) {
-                    filteredActivity.add(section.getActivity());
-                }
-                filteredSections.add(section);
-            }
-        }
-        sectionList = filteredSections;
-        activitiesList = filteredActivity;
-    }
-
-    // MODIFIES: this
-    // EFFECT: sorts sections by time span
-    public void sortSections() {
-        for (String time : preferences) {
-            sortSections.put(time.toUpperCase(), new ArrayList<>());
-        }
-        for (Section item : sectionList) {
-            sortSections.get(item.getTimeSpan()).add(item);
         }
     }
 

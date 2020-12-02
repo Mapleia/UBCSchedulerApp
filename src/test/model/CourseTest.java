@@ -24,7 +24,7 @@ public class CourseTest {
 
         try {
             cpsc210 = reader.readCourse("2020W", preferences);
-            cpsc210.sortSections();
+            SectionSorter.sortSections(cpsc210);
         } catch (Exception e) {
             fail();
         }
@@ -52,7 +52,7 @@ public class CourseTest {
         try {
             reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
             japn200 = reader.readCourse("2020W", preferences);
-            japn200.sortSections();
+            SectionSorter.sortSections(japn200);
         } catch (IOException e) {
             fail();
         }
@@ -69,13 +69,13 @@ public class CourseTest {
         try {
             reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
             japn200 = reader.readCourse("2020W", preferences);
-            japn200.sortSections();
+            SectionSorter.sortSections(japn200);
             reader = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
             biol200 = reader.readCourse("2020W", preferences);
-            biol200.sortSections();
+            SectionSorter.sortSections(biol200);
             reader = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
             biol200v2 = reader.readCourse("2020W", preferences);
-            biol200v2.sortSections();
+            SectionSorter.sortSections(biol200v2);
         } catch (IOException e) {
             fail();
         }

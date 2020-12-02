@@ -22,16 +22,6 @@
                 "status": "Full"
             },
             {
-                "activity": "Tutorial",
-                "start": "14:00",
-                "course": "BIOL 112",
-                "days": ["MON"],
-                "section": "BIOL 112 T05",
-                "term": "1",
-                "end": "14:50",
-                "status": " "
-            },
-            {
                 "activity": "Laboratory",
                 "start": "12:00",
                 "course": "CPSC 210",
@@ -40,20 +30,6 @@
                 "term": "1",
                 "end": "13:50",
                 "status": "Full"
-            },
-            {
-                "activity": "Web-Oriented Course",
-                "start": "12:00",
-                "course": "BIOL 112",
-                "days": [
-                    "MON",
-                    "WED",
-                    "FRI"
-                ],
-                "section": "BIOL 112 102",
-                "term": "1",
-                "end": "12:50",
-                "status": "Blocked"
             }
         ],
         "2": [
@@ -68,6 +44,16 @@
                 "status": " "
             },
             {
+                "activity": "Tutorial",
+                "start": "13:00",
+                "course": "BIOL 112",
+                "days": ["MON"],
+                "section": "BIOL 112 T51",
+                "term": "2",
+                "end": "13:50",
+                "status": "Full"
+            },
+            {
                 "activity": "Web-Oriented Course",
                 "start": "15:00",
                 "course": "CPSC 110",
@@ -80,6 +66,20 @@
                 "term": "2",
                 "end": "15:50",
                 "status": "Full"
+            },
+            {
+                "activity": "Web-Oriented Course",
+                "start": "14:00",
+                "course": "BIOL 112",
+                "days": [
+                    "MON",
+                    "WED",
+                    "FRI"
+                ],
+                "section": "BIOL 112 202",
+                "term": "2",
+                "end": "14:50",
+                "status": "Full"
             }
         ],
         "1-2": []
@@ -91,11 +91,7 @@
         "MORNING",
         "N/A"
     ],
-    "ErrorLog": [
-        "CPSC 210: [Waiting List]",
-        "BIOL 112: [Waiting List]",
-        "CPSC 110: [Waiting List]"
-    ],
+    "ErrorLog": [],
     "Course List": [
         "BIOL 112",
         "CPSC 210",

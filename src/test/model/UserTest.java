@@ -96,18 +96,21 @@ public class UserTest {
     @Test
     public void testToJsonWithSchedule() {
         JsonReader jsonReader = new JsonReader("./data/timetables/testUserWithCourses.json");
+        User userRead = null;
         try {
-            JSONObject jsonObject = new JSONObject(jsonReader.readFile());
-            user.addSectionsFromTimeTable(jsonObject.getJSONObject("Schedule"));
+            userRead = jsonReader.readUser();
 
         } catch (Exception e) {
             fail();
         }
+
         try {
             user.toJson();
         } catch (Exception e) {
             fail();
         }
+
+        assertEquals(user.getTimePref(), userRead.getTimePref());
     }
 
     @Test

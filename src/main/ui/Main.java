@@ -1,6 +1,5 @@
 package ui;
 
-
 import ui.gui.SchedulerApp;
 
 // Runs an instance of the app.

@@ -7,7 +7,6 @@ import org.json.JSONObject;
 import persistence.JsonReader;
 import persistence.Writable;
 
-import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -83,6 +82,15 @@ public class User implements Writable {
     // SETTER: sets to blank
     public void clearTimetable() {
         finalTimeTable = new HashMap<>();
+        errorLog = new ArrayList<>();
+
+        result = new HashMap<>();
+        resultsCredits = new HashMap<>();
+        result.put("1", new TreeSet<>());
+        result.put("2", new TreeSet<>());
+        result.put("1-2", new TreeSet<>());
+        resultsCredits.put("1", 0);
+        resultsCredits.put("2", 0);
     }
     // ================================================================================================================
 
@@ -158,8 +166,8 @@ public class User implements Writable {
                 addToTerm2Results(course);
 
             } else if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("1-2")) {
-                course.filterForTerm("1-2");
-                course.sortSections();
+                SectionSorter.filterForTerm(course, "1-2");
+                SectionSorter.sortSections(course);
                 result.get("1-2").add(course);
 
             } else if (resultsCredits.get("2") >= resultsCredits.get("1")) {
@@ -174,8 +182,8 @@ public class User implements Writable {
     // HELPER FOR sortCourses
     // EFFECT: Adds Course to Term1, sort course sections according to term specified and removes from the to-do list.
     private void addToTerm1Results(Course c) {
-        c.filterForTerm("1");
-        c.sortSections();
+        SectionSorter.filterForTerm(c, "1");
+        SectionSorter.sortSections(c);
         result.get("1").add(c);
         resultsCredits.put("1", resultsCredits.get("1") + c.getCredit());
     }
@@ -183,8 +191,8 @@ public class User implements Writable {
     // HELPER FOR sortCourses
     // EFFECT: Adds Course to Term2, sort course sections according to term specified and removes from the to-do list.
     private void addToTerm2Results(Course c) {
-        c.filterForTerm("2");
-        c.sortSections();
+        SectionSorter.filterForTerm(c, "2");
+        SectionSorter.sortSections(c);
         result.get("2").add(c);
         resultsCredits.put("2", resultsCredits.get("2") + c.getCredit());
     }
@@ -205,7 +213,8 @@ public class User implements Writable {
                         if (s.getActivity().equals("Waiting List")) {
                             continue;
                         }
-                        if (!finalTimeTable.get(t).contains(s) && !Section.isOverlapping(s, finalTimeTable.get(t))) {
+                        if (!finalTimeTable.get(t).contains(s)
+                                && !OverlapChecker.isOverlapping(s, finalTimeTable.get(t))) {
                             finalTimeTable.get(t).add(s);
                         }
                     }
@@ -265,26 +274,4 @@ public class User implements Writable {
         return json;
     }
 
-    // MODIFIES: this
-    // EFFECTS: parses sections from User File "Schedule" and adds them to user.
-    public void addSectionsFromTimeTable(JSONObject schedule) throws IOException {
-        Set<String> terms = schedule.keySet();
-
-        for (String term : terms) {
-
-            List<Object> perTerm = schedule.getJSONArray(term).toList();
-            HashSet<Section> list = new HashSet<>();
-            for (int i = 0; i < perTerm.size(); i++) {
-                JSONObject sectionJson = schedule.getJSONArray(term).getJSONObject(i);
-                String p = "./data/" + termYear + "/" + sectionJson.getString("course").split(" ")[0].trim()
-                        + "/" + sectionJson.getString("course") + ".json";
-                JsonReader reader = new JsonReader(p);
-
-                Section section = reader.readSection(termYear, sectionJson.getString("section"), preferencesArr);
-                list.add(section);
-            }
-
-            finalTimeTable.put(term, list);
-        }
-    }
 }

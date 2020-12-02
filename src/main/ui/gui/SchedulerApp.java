@@ -18,7 +18,7 @@ public class SchedulerApp extends JFrame {
     public static final String[] ACADEMIC_YEAR = {DEFAULT_YEAR};
     private User user;
 
-    private JPanel panel;
+    private AppPanel panel;
 
     // constructor
     public SchedulerApp() {
@@ -46,7 +46,7 @@ public class SchedulerApp extends JFrame {
     }
 
     // EFFECT: Change the panel and the contents to the next panel.
-    public void nextPanel(JPanel panel) {
+    public void nextPanel(AppPanel panel) {
         this.panel = panel;
         Container contain = getContentPane();
         contain.removeAll();
@@ -66,7 +66,7 @@ public class SchedulerApp extends JFrame {
         return user.getFinalTimeTable();
     }
 
-    public JButton backButton(JPanel panel) {
+    public JButton backButton(AppPanel panel) {
         JButton button = new JButton("Back");
         button.setActionCommand("Back");
         button.addActionListener(e -> nextPanel(panel));

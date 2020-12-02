@@ -75,10 +75,34 @@ public class JsonReader {
 
         User user = new User(term);
         user.setPreferences(preferences);
-        user.addSectionsFromTimeTable(schedule);
+        addSectionsFromTimeTable(user, schedule, term, preferences);
         user.addCourseSet(courses);
         user.addCourses();
         return user;
+    }
+
+    // MODIFIES: this
+    // EFFECTS: parses sections from User File "Schedule" and adds them to user.
+    public void addSectionsFromTimeTable(User user, JSONObject schedule, String termYear, List<String> preferencesArr)
+            throws IOException {
+        Set<String> terms = schedule.keySet();
+
+        for (String term : terms) {
+
+            List<Object> perTerm = schedule.getJSONArray(term).toList();
+            HashSet<Section> list = new HashSet<>();
+            for (int i = 0; i < perTerm.size(); i++) {
+                JSONObject sectionJson = schedule.getJSONArray(term).getJSONObject(i);
+                String p = "./data/" + termYear + "/" + sectionJson.getString("course").split(" ")[0].trim()
+                        + "/" + sectionJson.getString("course") + ".json";
+                JsonReader reader = new JsonReader(p);
+
+                Section section = reader.readSection(termYear, sectionJson.getString("section"), preferencesArr);
+                list.add(section);
+            }
+
+            user.getFinalTimeTable().put(term, list);
+        }
     }
 
     // ======================= FOR COURSE OBJECT ======================================================================

@@ -26,7 +26,7 @@ public class SectionTest {
 
         try {
             cpsc210 = reader.readCourse("2020W", preferences);
-            cpsc210.sortSections();
+            SectionSorter.sortSections(cpsc210);
         } catch (Exception e) {
             fail();
         }
@@ -79,7 +79,7 @@ public class SectionTest {
         JsonReader readerNew = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
         try {
             biol200 = readerNew.readCourse("2020W", preferences);
-            biol200.sortSections();
+            SectionSorter.sortSections(biol200);
             Section section = biol200.getSectionsMap().get("BIOL 200 000");
             assertEquals("N/A", section.getTimeSpan());
 
@@ -87,176 +87,6 @@ public class SectionTest {
             fail();
         }
 
-
-    }
-
-    @Test
-    public void testIsOverlappingType1() {
-        // [====]
-        //    [====]
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end,
-                "2020W");
-
-        LocalTime start2 = LocalTime.of(9, 30, 0);
-        LocalTime end2 = LocalTime.of(11, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1-2", Collections.singletonList("TUE"), start2, end2,
-                "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-        assertTrue(Section.isOverlapping(comparison2, comparison1));
-
-    }
-
-    @Test
-    public void testIsOverlappingType2() {
-        //    [====]
-        // [====]
-        LocalTime start = LocalTime.of(9, 30, 0);
-        LocalTime end = LocalTime.of(11, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
-
-        LocalTime start2 = LocalTime.of(9, 0, 0);
-        LocalTime end2 = LocalTime.of(10, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-
-    }
-
-    @Test
-    public void testIsOverlappingType3() {
-        //    [====]
-        // [===========]
-        LocalTime start = LocalTime.of(9, 30, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
-
-        LocalTime start2 = LocalTime.of(8, 30, 0);
-        LocalTime end2 = LocalTime.of(11, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-
-    }
-
-    @Test
-    public void testIsOverlappingType4() {
-        // [====]
-        // [====]
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
-
-        LocalTime start2 = LocalTime.of(9, 0, 0);
-        LocalTime end2 = LocalTime.of(10, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-    }
-
-    @Test
-    public void testIsOverlappingType5() {
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
-
-        // [====]
-        // [==========]
-        LocalTime start2 = LocalTime.of(9, 0, 0);
-        LocalTime end2 = LocalTime.of(11, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-
-        // [====]
-        // [==]
-        LocalTime start3 = LocalTime.of(9, 0, 0);
-        LocalTime end3 = LocalTime.of(9, 30, 0);
-        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, end3, "2020W");
-        assertTrue(Section.isOverlapping(comparison1, comparison3));
-    }
-
-    @Test
-    public void testIsOverlappingType6() {
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU"), start, end, "2020W");
-
-        //       [====]
-        // [==========]
-        LocalTime start2 = LocalTime.of(8, 0, 0);
-        LocalTime end2 = LocalTime.of(10, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertTrue(Section.isOverlapping(comparison1, comparison2));
-
-        // [====]
-        //   [==]
-        LocalTime start3 = LocalTime.of(9, 30, 0);
-        LocalTime end3 = LocalTime.of(10, 0, 0);
-        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, end3, "2020W");
-        assertTrue(Section.isOverlapping(comparison1, comparison3));
-    }
-
-    @Test
-    public void testIsOverlappingTypeNull() {
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(10, 0, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU", "SAT"), start, end, "2020W");
-
-
-        LocalTime end2 = LocalTime.of(10, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), null, end2, "2020W");
-
-        assertFalse(Section.isOverlapping(comparison1, comparison2));
-        assertFalse(Section.isOverlapping(comparison2, comparison1));
-
-
-        LocalTime start3 = LocalTime.of(9, 30, 0);
-        Section comparison3 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start3, null, "2020W");
-        assertFalse(Section.isOverlapping(comparison1, comparison3));
-        assertFalse(Section.isOverlapping(comparison3, comparison1));
-
-        Section comparison4 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", new ArrayList<>(), start3, end2, "2020W");
-        assertFalse(Section.isOverlapping(comparison1, comparison4));
-
-    }
-
-    @Test
-    public void testIsOverlappingTypeOutOfBounds() {
-        LocalTime start = LocalTime.of(9, 0, 0);
-        LocalTime end = LocalTime.of(9, 50, 0);
-        Section comparison1 = new Section(" ", "BIOL 200 001", "BIOL 200",
-                "Web-Oriented Course", "1", Arrays.asList("TUE", "THU", "SAT"), start, end, "2020W");
-
-        LocalTime start2 = LocalTime.of(10, 0, 0);
-
-        LocalTime end2 = LocalTime.of(11, 0, 0);
-        Section comparison2 = new Section(" ", "CPSC 110 001", "CPSC 110",
-                "Web-Oriented Course", "1", Collections.singletonList("TUE"), start2, end2, "2020W");
-
-        assertFalse(Section.isOverlapping(comparison1, comparison2));
-        assertFalse(Section.isOverlapping(comparison2, comparison1));
 
     }
 
