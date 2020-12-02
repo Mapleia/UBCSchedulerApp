@@ -7,6 +7,7 @@ import java.util.Collection;
 
 public class OverlapChecker {
 
+    // EFFECT: Returns true if the section overlaps with any in the collection.
     public static boolean isOverlapping(Section section, Collection<Section> list) {
         for (Section item : list) {
             if (isOverlapping(section, item)) {
@@ -16,7 +17,7 @@ public class OverlapChecker {
         return false;
     }
 
-    // EFFECTS: Returns true if the sections are overlapping.
+    // EFFECT: Returns true if the sections are overlapping.
     private static boolean isOverlapping(Section section1, Section section2) {
         if (section1.getStart() == null || section2.getStart() == null) {
             return false;
@@ -30,7 +31,7 @@ public class OverlapChecker {
     }
 
     // REQUIRES: section1 to have more days then section2, start & end cannot be null.
-    // EFFECTS: Returns true if sections are overlapping.
+    //   EFFECT: Returns true if sections are overlapping.
     private static boolean isOverlappingHelper(Section section1, Section section2) {
         boolean result = false;
         for (LocalDate date : section1.getFirstWeekList()) {

@@ -62,7 +62,7 @@ public class JsonReaderTest {
         JsonReader reader = new JsonReader("./data/2020W/JAPN/JAPN 200.json");
         try {
             Course course = reader.readCourse("2020W", Arrays.asList("MORNING", "AFTERNOON", "EVENING"));
-            SectionSorter.sortSections(course);
+            Sorter.sortSections(course);
         } catch (IOException e) {
             fail("Couldn't read from file");
         }

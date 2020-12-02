@@ -7,8 +7,8 @@ import javax.swing.*;
 // Panel to allow users to select courses instead of search for them.
 public class SelectPanel extends JPanel {
     private final DefaultListModel<String> courses;
-    private DefaultListModel<String> potential;
-    private DefaultListModel<String> courseInDept;
+    private final DefaultListModel<String> potential;
+    private final DefaultListModel<String> courseInDept;
     Overview overview;
 
     // constructor

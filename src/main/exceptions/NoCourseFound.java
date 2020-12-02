@@ -21,17 +21,18 @@ public class NoCourseFound extends Exception {
         return list.size();
     }
 
-    // EFFECTS: prints out the list of courses that were not found into UI.
+    // EFFECT: prints out the list of courses that were not found into UI.
     public void printClasses() {
         for (String s : list) {
             System.out.println(s);
         }
     }
 
+    // EFFECT: Returns the list of courses in the form of a list.
     public String stringCourses() {
         StringBuilder build = new StringBuilder();
         for (String item : list) {
-            build.append(item + ", ");
+            build.append(item).append(", ");
         }
         return build.toString();
     }

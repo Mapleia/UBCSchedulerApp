@@ -26,7 +26,7 @@ public class SectionTest {
 
         try {
             cpsc210 = reader.readCourse("2020W", preferences);
-            SectionSorter.sortSections(cpsc210);
+            Sorter.sortSections(cpsc210);
         } catch (Exception e) {
             fail();
         }
@@ -79,7 +79,7 @@ public class SectionTest {
         JsonReader readerNew = new JsonReader("./data/2020W/BIOL/BIOL 200.json");
         try {
             biol200 = readerNew.readCourse("2020W", preferences);
-            SectionSorter.sortSections(biol200);
+            Sorter.sortSections(biol200);
             Section section = biol200.getSectionsMap().get("BIOL 200 000");
             assertEquals("N/A", section.getTimeSpan());
 

@@ -21,7 +21,6 @@ public class User implements Writable {
     private LinkedList<String> preferencesArr;
 
     private HashMap<String, TreeSet<Course>> result;
-    private HashMap<String, Integer> resultsCredits;
 
     // constructs user and initializes it.
     public User(String termYear) {
@@ -37,18 +36,19 @@ public class User implements Writable {
         finalTimeTable = new HashMap<>();
 
         result = new HashMap<>();
-        resultsCredits = new HashMap<>();
         result.put("1", new TreeSet<>());
         result.put("2", new TreeSet<>());
         result.put("1-2", new TreeSet<>());
-        resultsCredits.put("1", 0);
-        resultsCredits.put("2", 0);
     }
 
     // getters & setters ==============================================================================================
 
     public HashMap<String, HashSet<Section>> getFinalTimeTable() {
         return finalTimeTable;
+    }
+
+    public Set<Course> getCourseSet() {
+        return courseSet;
     }
 
     public Set<String> getCourseNames() {
@@ -85,12 +85,9 @@ public class User implements Writable {
         errorLog = new ArrayList<>();
 
         result = new HashMap<>();
-        resultsCredits = new HashMap<>();
         result.put("1", new TreeSet<>());
         result.put("2", new TreeSet<>());
         result.put("1-2", new TreeSet<>());
-        resultsCredits.put("1", 0);
-        resultsCredits.put("2", 0);
     }
     // ================================================================================================================
 
@@ -129,6 +126,7 @@ public class User implements Writable {
         }
     }
 
+    // EFFECT: Removes a list of courses from the user.
     public void removeCourses(List<String> courses) throws NoCourseFound {
         NoCourseFound error = new NoCourseFound();
 
@@ -145,6 +143,7 @@ public class User implements Writable {
         }
     }
 
+    // EFFECT: Removes a course from the user, returns true if successful, false if not.
     private boolean removeCourse(String course) {
         if (courseNames.contains(course)) {
             courseNames.remove(course);
@@ -154,56 +153,13 @@ public class User implements Writable {
         }
     }
 
-    // SORT_COURSES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-    // EFFECTS: Sort courses into Term1, Term2 or Term1-2 ArrayList hashmaps.
-    //          If the course is offered in term1 or 2, it puts the course into term with the least amount of credits.
-    private void sortCourses() {
-        for (Course course : courseSet) {
-            if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("1")) {
-                addToTerm1Results(course);
-
-            } else if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("2")) {
-                addToTerm2Results(course);
-
-            } else if (course.getTerms().size() == 1 && course.getTerms().get(0).equals("1-2")) {
-                SectionSorter.filterForTerm(course, "1-2");
-                SectionSorter.sortSections(course);
-                result.get("1-2").add(course);
-
-            } else if (resultsCredits.get("2") >= resultsCredits.get("1")) {
-                addToTerm1Results(course);
-
-            } else {
-                addToTerm2Results(course);
-            }
-        }
-    }
-
-    // HELPER FOR sortCourses
-    // EFFECT: Adds Course to Term1, sort course sections according to term specified and removes from the to-do list.
-    private void addToTerm1Results(Course c) {
-        SectionSorter.filterForTerm(c, "1");
-        SectionSorter.sortSections(c);
-        result.get("1").add(c);
-        resultsCredits.put("1", resultsCredits.get("1") + c.getCredit());
-    }
-
-    // HELPER FOR sortCourses
-    // EFFECT: Adds Course to Term2, sort course sections according to term specified and removes from the to-do list.
-    private void addToTerm2Results(Course c) {
-        SectionSorter.filterForTerm(c, "2");
-        SectionSorter.sortSections(c);
-        result.get("2").add(c);
-        resultsCredits.put("2", resultsCredits.get("2") + c.getCredit());
-    }
-
     // ================================================================================================================
 
     // REQUIRES: courses already added and sorted into term 1 or term 2 (or neither, in the case of all year).
     // MODIFIES: this
     // EFFECTS: Creates a timetable based on the courses added, the time preference stated, and the available sections.
     public void createTimeTable() {
-        sortCourses();
+        Sorter.sortCourses(this);
 
         for (String t : TERMS) {
             finalTimeTable.putIfAbsent(t, new HashSet<>());
